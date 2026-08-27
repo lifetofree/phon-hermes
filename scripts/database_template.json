@@ -1,0 +1,35 @@
+{
+  "parent": {
+    "page_id": "3c7df8d88d8c801c87f9e845700178af"
+  },
+  "title": [
+    {
+      "text": {
+        "content": "My New Database"
+      }
+    }
+  ],
+  "properties": {
+    "Name": {
+      "title": {}
+    },
+    "Status": {
+      "select": {
+        "options": [
+          {
+            "name": "Todo"
+          },
+          {
+            "name": "In Progress"
+          },
+          {
+            "name": "Done"
+          }
+        ]
+      }
+    },
+    "Date": {
+      "date": {}
+    }
+  }
+}
