@@ -78,5 +78,245 @@
     "link": "https://wp.adduckivity.com/duck-os-logs/the-black-box-protocol-logs-05/",
     "words": 412,
     "file": "/home/lifetofree/hermes-agent/content-study/posts/the-black-box-protocol-logs-05.md"
+  },
+  {
+    "slug": "the-atomizer-protocol-act-05",
+    "title": "ศาสตร์แห่งการย่อยงานให้เหลือระดับอะตอม เพื่อดับเครื่องชน",
+    "date": "2026-05-08T12:05:53",
+    "link": "https://wp.adduckivity.com/productivity-hacks/the-atomizer-protocol-act-05/",
+    "words": 367,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/the-atomizer-protocol-act-05.md"
+  },
+  {
+    "slug": "dopamine-driven-design-core-08",
+    "title": "เมื่อการทำงานไม่ใช่การ ‘ฝืน’ แต่คือการ ‘รัน’ ตามกระแสสารสื่อประสาท",
+    "date": "2026-05-07T11:20:35",
+    "link": "https://wp.adduckivity.com/uncategorized/dopamine-driven-design-core-08/",
+    "words": 324,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/dopamine-driven-design-core-08.md"
+  },
+  {
+    "slug": "system-monitoring-aware-03-detecting-burnout",
+    "title": "วิธีตรวจจับสัญญาณ ‘เครื่องร้อน’ ก่อนที่ชีวิตจะ Crash ด้วยโพรโทคอล AWARE-03",
+    "date": "2026-05-06T11:38:15",
+    "link": "https://wp.adduckivity.com/system-awareness/system-monitoring-aware-03-detecting-burnout/",
+    "words": 411,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/system-monitoring-aware-03-detecting-burnout.md"
+  },
+  {
+    "slug": "duck-os-3-laws-baseline-firmware",
+    "title": "เจาะลึกกฎ 3 ข้อที่เปลี่ยนสมองพังให้กลับมารันได้อีกครั้ง",
+    "date": "2026-05-05T18:37:51",
+    "link": "https://wp.adduckivity.com/system-core/duck-os-3-laws-baseline-firmware/",
+    "words": 397,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/duck-os-3-laws-baseline-firmware.md"
+  },
+  {
+    "slug": "duck-os-philosophy-system-over-emotion",
+    "title": "เมื่อชีวิตไม่ใช่การต่อสู้กับวินัย แต่คือการออกแบบสถาปัตยกรรมที่ยั่งยืน",
+    "date": "2026-05-04T13:23:29",
+    "link": "https://wp.adduckivity.com/system-core/duck-os-philosophy-system-over-emotion/",
+    "words": 355,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/duck-os-philosophy-system-over-emotion.md"
+  },
+  {
+    "slug": "building-mental-infrastructure-asset-05",
+    "title": "วิธีเปลี่ยนระบบชีวิตจาก ‘ภาระ’ ให้เป็น ‘สินทรัพย์’ ด้วยโพรโทคอล ASSET-05",
+    "date": "2026-05-04T13:19:59",
+    "link": "https://wp.adduckivity.com/library/building-mental-infrastructure-asset-05/",
+    "words": 326,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/building-mental-infrastructure-asset-05.md"
+  },
+  {
+    "slug": "survival-mode-low-energy-management-protocol",
+    "title": "วิธีบริหารชีวิตในวันที่แบตเหลือ 5% ด้วยโพรโทคอล SURV-04",
+    "date": "2026-05-04T13:15:36",
+    "link": "https://wp.adduckivity.com/system-core/survival-mode-low-energy-management-protocol/",
+    "words": 391,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/survival-mode-low-energy-management-protocol.md"
+  },
+  {
+    "slug": "the-recovery-protocol-v1-manual-launch",
+    "title": "เมื่อสมองค้างไม่ใช่ความล้มเหลว แต่คือ System Crash ที่รอการ Patch",
+    "date": "2026-05-04T12:51:24",
+    "link": "https://wp.adduckivity.com/protocols/the-recovery-protocol-v1-manual-launch/",
+    "words": 458,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/the-recovery-protocol-v1-manual-launch.md"
+  },
+  {
+    "slug": "binary-decision-logic-50-50-rule-choice-paralysis",
+    "title": "วิธีแก้ ‘Infinite Loop’ ของความลังเลด้วยอัลกอริทึม 50/50",
+    "date": "2026-05-04T12:41:58",
+    "link": "https://wp.adduckivity.com/protocols/binary-decision-logic-50-50-rule-choice-paralysis/",
+    "words": 399,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/binary-decision-logic-50-50-rule-choice-paralysis.md"
+  },
+  {
+    "slug": "action-precedes-motivation-ignition-switch",
+    "title": "ทำลายวงจร ‘รอให้มีไฟ’ ด้วยระบบ Ignition Switch ของ Duck OS",
+    "date": "2026-05-04T12:36:02",
+    "link": "https://wp.adduckivity.com/protocols/action-precedes-motivation-ignition-switch/",
+    "words": 434,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/action-precedes-motivation-ignition-switch.md"
+  },
+  {
+    "slug": "system-auditing-patch-protocol",
+    "title": "วิธีการ Audit และ Patch ชีวิตในวันที่ระบบพัง",
+    "date": "2026-05-04T12:31:41",
+    "link": "https://wp.adduckivity.com/system-core/system-auditing-patch-protocol/",
+    "words": 366,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/system-auditing-patch-protocol.md"
+  },
+  {
+    "slug": "the-unbreakable-kernel-3-laws-integration",
+    "title": "The Unbreakable Kernel: ผสานกฎเหล็ก 3 ข้อ ให้กลายเป็นระบบปฏิบัติการชีวิตที่ไม่มีวันพัง",
+    "date": "2026-05-04T12:27:40",
+    "link": "https://wp.adduckivity.com/system-core/the-unbreakable-kernel-3-laws-integration/",
+    "words": 424,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/the-unbreakable-kernel-3-laws-integration.md"
+  },
+  {
+    "slug": "why-duckos",
+    "title": "Why Duck OS? : เมื่อสถาปนิกคุมระบบพบว่า ‘ชีวิตตัวเอง’ คือซอฟต์แวร์ที่บั๊กเยอะที่สุด",
+    "date": "2026-05-04T12:21:14",
+    "link": "https://wp.adduckivity.com/system-core/why-duckos/",
+    "words": 319,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/why-duckos.md"
+  },
+  {
+    "slug": "ai-augmentation-architecture-human-core",
+    "title": "AI Augmentation Architecture: เปลี่ยน AI จาก ‘ภัยคุกคาม’ ให้เป็น ‘ผู้ช่วยส่วนตัว’ อย่างเป็นระบบ",
+    "date": "2026-05-04T12:15:44",
+    "link": "https://wp.adduckivity.com/survival/ai-augmentation-architecture-human-core/",
+    "words": 336,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/ai-augmentation-architecture-human-core.md"
+  },
+  {
+    "slug": "energy-based-scheduling-slot-allocation",
+    "title": "Time is a Lie: จัดตารางงานตาม ‘ระดับพลังงาน’ ไม่ใช่ ‘เข็มนาฬิกา’",
+    "date": "2026-05-04T12:10:36",
+    "link": "https://wp.adduckivity.com/productivity-hacks/energy-based-scheduling-slot-allocation/",
+    "words": 358,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/energy-based-scheduling-slot-allocation.md"
+  },
+  {
+    "slug": "binary-decision-protocol-zero-friction",
+    "title": "The Binary Decision Protocol: ตัดความลังเลด้วยตรรกะแบบ Zero Friction",
+    "date": "2026-05-04T12:05:01",
+    "link": "https://wp.adduckivity.com/protocols/binary-decision-protocol-zero-friction/",
+    "words": 372,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/binary-decision-protocol-zero-friction.md"
+  },
+  {
+    "slug": "logs-04-system-patch-cognitive-overload",
+    "title": "บันทึกการ Patch ระบบในวันที่ความรู้ท่วมหัวแต่ตัวเครื่อง ‘หน่วง’",
+    "date": "2026-05-04T01:07:36",
+    "link": "https://wp.adduckivity.com/duck-os-logs/logs-04-system-patch-cognitive-overload/",
+    "words": 346,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/logs-04-system-patch-cognitive-overload.md"
+  },
+  {
+    "slug": "system-awareness-visible-architecture",
+    "title": "ตื่นรู้ในระบบที่กำลัง “รัน” ชีวิตคุณอยู่โดยที่คุณไม่รู้ตัว",
+    "date": "2026-04-21T12:00:00",
+    "link": "https://wp.adduckivity.com/system-awareness/system-awareness-visible-architecture/",
+    "words": 325,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/system-awareness-visible-architecture.md"
+  },
+  {
+    "slug": "momentum-protocol-action-over-motivation",
+    "title": "เปลี่ยนจาก ‘ภาระ’ ให้เป็น ‘ระบบอัตโนมัติ’ ที่ไม่มีวันพัง",
+    "date": "2026-04-19T10:00:00",
+    "link": "https://wp.adduckivity.com/protocols/momentum-protocol-action-over-motivation/",
+    "words": 483,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/momentum-protocol-action-over-motivation.md"
+  },
+  {
+    "slug": "digital-declutter-system-speed-up-survival-protocol",
+    "title": "Digital Declutter: กู้คืนความเร็วให้ชีวิตแบบความเร็วแสง",
+    "date": "2026-04-16T20:00:00",
+    "link": "https://wp.adduckivity.com/survival/digital-declutter-system-speed-up-survival-protocol/",
+    "words": 420,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/digital-declutter-system-speed-up-survival-protocol.md"
+  },
+  {
+    "slug": "vibe-code-idea-to-production-one-night-ai-spec",
+    "title": "จาก “ไอเดีย” สู่ “Production” ในคืนเดียว: เมื่อการเขียนกลายเป็น Superpower ที่แรงกว่าการเขียนโค้ด",
+    "date": "2026-04-12T19:42:33",
+    "link": "https://wp.adduckivity.com/protocols/vibe-code-idea-to-production-one-night-ai-spec/",
+    "words": 750,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/vibe-code-idea-to-production-one-night-ai-spec.md"
+  },
+  {
+    "slug": "stop-scattered-focus-single-tasking-protocol-2026",
+    "title": "เลิกสะเปะสะปะด้วยโพรโทคอล Single-Tasking",
+    "date": "2026-04-07T12:00:00",
+    "link": "https://wp.adduckivity.com/productivity-hacks/stop-scattered-focus-single-tasking-protocol-2026/",
+    "words": 607,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/stop-scattered-focus-single-tasking-protocol-2026.md"
+  },
+  {
+    "slug": "stop-wasting-effort-build-asset-machine-sest",
+    "title": "เลิก “ขยันแบบสูญเปล่า” แล้วเปลี่ยนทุกหยาดเหงื่อให้กลายเป็นเครื่องจักรผลิตความสำเร็จ",
+    "date": "2026-04-07T07:00:00",
+    "link": "https://wp.adduckivity.com/library/stop-wasting-effort-build-asset-machine-sest/",
+    "words": 552,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/stop-wasting-effort-build-asset-machine-sest.md"
+  },
+  {
+    "slug": "monday-audit-logs-03-data-over-emotion-zeigarnik",
+    "title": "Monday Audit: เปลี่ยน “ความล้มเหลว” ให้เป็น “ข้อมูล” ด้วยโพรโทคอล LOGS-03",
+    "date": "2026-04-06T20:00:00",
+    "link": "https://wp.adduckivity.com/duck-os-logs/monday-audit-logs-03-data-over-emotion-zeigarnik/",
+    "words": 555,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/monday-audit-logs-03-data-over-emotion-zeigarnik.md"
+  },
+  {
+    "slug": "morning-kickstart-600-seconds-momentum",
+    "title": "Morning Kickstart: ทำไม 600 วินาทีแรก ถึงตัดสินผลลัพธ์ของคนทั้งวัน?",
+    "date": "2026-04-06T12:00:00",
+    "link": "https://wp.adduckivity.com/system-in-action/morning-kickstart-600-seconds-momentum/",
+    "words": 509,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/morning-kickstart-600-seconds-momentum.md"
+  },
+  {
+    "slug": "weekly-calibration-monday-frictionless",
+    "title": "ออกแบบสถาปัตยกรรม “วันจันทร์” ให้ไร้แรงเสียดทานฉบับ Duck OS",
+    "date": "2026-04-06T07:00:00",
+    "link": "https://wp.adduckivity.com/system-core/weekly-calibration-monday-frictionless/",
+    "words": 474,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/weekly-calibration-monday-frictionless.md"
+  },
+  {
+    "slug": "architecture-of-flow-duck-os-protocol",
+    "title": "สถาปัตยกรรมแห่ง Flow: ออกแบบให้ “ไหล” แบบไม่มีสะดุดฉบับ Duck OS",
+    "date": "2026-04-05T20:00:00",
+    "link": "https://wp.adduckivity.com/system-in-action/architecture-of-flow-duck-os-protocol/",
+    "words": 366,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/architecture-of-flow-duck-os-protocol.md"
+  },
+  {
+    "slug": "unbreakable-asset-library-ai-guide",
+    "title": "เปลี่ยนความรู้ให้เป็นขุมทรัพย์: คู่มือสร้าง Unbreakable Asset Library ด้วย AI สไตล์ DuckOS",
+    "date": "2026-04-05T17:00:00",
+    "link": "https://wp.adduckivity.com/library/unbreakable-asset-library-ai-guide/",
+    "words": 346,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/unbreakable-asset-library-ai-guide.md"
+  },
+  {
+    "slug": "action-over-motivation-engine-protocol",
+    "title": "เลิกรอแรงบันดาลใจแบบไร้จุดหมาย: ทำไม “Action > Motivation” คือเครื่องยนต์ที่แท้จริงของ Duck OS",
+    "date": "2026-04-05T12:00:00",
+    "link": "https://wp.adduckivity.com/system-in-action/action-over-motivation-engine-protocol/",
+    "words": 188,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/action-over-motivation-engine-protocol.md"
+  },
+  {
+    "slug": "the-human-stack-3-layer-brain-protocol",
+    "title": "แกะรหัส The Human Stack: เข้าใจโครงสร้าง 3 ชั้นของสมอง เพื่อการรันระบบที่ไม่มีวันล่ม",
+    "date": "2026-04-05T07:00:00",
+    "link": "https://wp.adduckivity.com/system-core/the-human-stack-3-layer-brain-protocol/",
+    "words": 245,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/the-human-stack-3-layer-brain-protocol.md"
   }
 ]
