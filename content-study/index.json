@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "rustdesk-remote-desktop",
+    "title": "RustDesk — Remote Desktop โอเพนซอร์สที่ “ไม่ต้องง้อ” TeamViewer",
+    "date": "2026-08-28T17:44:25",
+    "link": "https://wp.adduckivity.com/productivity-hacks/rustdesk-remote-desktop/",
+    "words": 772,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/rustdesk-remote-desktop.md"
+  },
+  {
+    "slug": "20260824-cnt-tailscale-remote-access",
+    "title": "เลิกรัน Local LLM นอกบ้าน ไม่ใช่เพราะคอมไม่แรง แต่เพราะขี้เกียจแก้ Network",
+    "date": "2026-08-24T15:32:17",
+    "link": "https://wp.adduckivity.com/productivity-hacks/20260824-cnt-tailscale-remote-access/",
+    "words": 912,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/20260824-cnt-tailscale-remote-access.md"
+  },
+  {
+    "slug": "git-worktree-guide",
+    "title": "วิธีจัดการงานแทรกใน 5 วิไม่ให้ระบบพังและข้อมูลหายด้วย Git Worktree",
+    "date": "2026-06-30T20:33:58",
+    "link": "https://wp.adduckivity.com/duck-os-logs/git-worktree-guide/",
+    "words": 155,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/git-worktree-guide.md"
+  },
+  {
+    "slug": "github-dependabot-fix-dependencies-deploy-crash",
+    "title": "🛠️ GitHub Dependabot ตัวช่วยดูแล Dependencies เวลา Deploy แล้วพัง",
+    "date": "2026-06-20T12:14:50",
+    "link": "https://wp.adduckivity.com/duck-os-logs/github-dependabot-fix-dependencies-deploy-crash/",
+    "words": 367,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/github-dependabot-fix-dependencies-deploy-crash.md"
+  },
+  {
+    "slug": "4-background-apps-memory-leak-brain-ram",
+    "title": "แฉ 4 Background Apps เบื้องหลังที่ทำ Memory Leak กัดกิน RAM สมองจนคุณค้างตอนบ่าย",
+    "date": "2026-06-03T14:27:43",
+    "link": "https://wp.adduckivity.com/system-awareness/4-background-apps-memory-leak-brain-ram/",
+    "words": 443,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/4-background-apps-memory-leak-brain-ram.md"
+  },
+  {
+    "slug": "brain-runtime-error-404-cache-cleaner",
+    "title": "ทำไมตอนบ่ายถึงชอบขึ้น Error 404 (หาไม่เจอ) และวิธีเคลียร์ Cache สมองใน 5 นาที",
+    "date": "2026-06-02T14:25:25",
+    "link": "https://wp.adduckivity.com/system-core/brain-runtime-error-404-cache-cleaner/",
+    "words": 609,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/brain-runtime-error-404-cache-cleaner.md"
+  },
+  {
+    "slug": "context-switching-hidden-cost",
+    "title": "ต้นทุนที่มองไม่เห็นของการ ‘โดนทัก’: ทำไมคำว่า “ขอเวลาแป๊บเดียว” ถึงพังงานของคุณได้",
+    "date": "2026-05-14T12:10:07",
+    "link": "https://wp.adduckivity.com/productivity-hacks/context-switching-hidden-cost/",
+    "words": 378,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/context-switching-hidden-cost.md"
+  },
+  {
+    "slug": "system-failure-not-lazy",
+    "title": "คุณไม่ได้ขี้เกียจ แต่เครื่องมันค้าง",
+    "date": "2026-05-11T15:25:03",
+    "link": "https://wp.adduckivity.com/system-awareness/system-failure-not-lazy/",
+    "words": 407,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/system-failure-not-lazy.md"
+  },
+  {
+    "slug": "one-person-business-os-ai",
+    "title": "One Person Business OS: สถาปัตยกรรม ‘ตัวคนเดียวแต่รันเหมือนบริษัท’ ด้วยขุมพลัง AI",
+    "date": "2026-05-10T14:52:52",
+    "link": "https://wp.adduckivity.com/system-core/one-person-business-os-ai/",
+    "words": 406,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/one-person-business-os-ai.md"
+  },
+  {
+    "slug": "the-black-box-protocol-logs-05",
+    "title": "เรื่องดีๆ ไม่ค่อยจำ เรื่องห่วยแตกซ้ำๆ กลับจำได้นาน มาดูทางแก้",
+    "date": "2026-05-09T11:08:26",
+    "link": "https://wp.adduckivity.com/duck-os-logs/the-black-box-protocol-logs-05/",
+    "words": 412,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/the-black-box-protocol-logs-05.md"
+  }
+]
