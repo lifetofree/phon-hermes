@@ -1,58 +1,99 @@
-# จะรัน Local LLM ให้คนอื่นใช้ได้ ต้องมีอะไรบ้าง? — คู่มือ tailscale serve ฉบับ Long Form
+# Tailscale Serve — ใช้เครื่อง GPU ที่บ้านได้จากที่ไหนก็ได้ (ไม่ต้อง SSH, ไม่ต้อง fixed IP)
 
 <!--
 ContentID: 20260903-CNT-XXSERVE-LF
 Series: Tailscale (ภาคต่อของ 20260824-CNT-Tailscale-Remote-Access)
-Type: Long Form (2500-3000 words)
-Status: Draft — รอ review (ปรับมุม 2026-09-03: เปิดด้วย "serve ตัวเองก่อน" — unsloth/ComfyUI/llama-server จากเครื่องตัวเอง ไม่ต้อง fixed IP — แล้วค่อยขยายไปแชร์ทีม)
+Type: Long Form (~2200-2500 words)
+Status: Draft v2 — ปรับ 2026-09-03: ตัด Funnel ออกทั้งหมด เหลือ Serve อย่างเดียว, มุม "ใช้เองก่อน" (unsloth/ComfyUI/llama-server จากเครื่องตัวเอง), ภาษาเข้าใจง่ายขึ้น
 Sources (verified 2026-09-03):
 - https://tailscale.com/docs/features/tailscale-serve
 - https://tailscale.com/docs/reference/tailscale-cli/serve
-- https://tailscale.com/docs/features/tailscale-funnel
 - https://tailscale.com/pricing
 -->
 
-เดือนก่อนผมเขียนเรื่อง "เลิกรัน Local LLM นอกบ้าน" — จบด้วยการ SSH เข้าเซิร์ฟเวอร์ที่บ้านแล้ว forward port 8080 กลับเครื่องตัวเอง
+เดือนก่อนผมเขียนเรื่อง "เลิกรัน Local LLM นอกบ้าน" — ตอนนั้นวิธีที่ผมใช้คือ SSH เข้าเครื่องที่บ้าน แล้ว forward port 8080 กลับเครื่องตัวเอง
 
-มันได้ผลจริงคับ แต่มีข้อแม้ที่ผมบอกไปตั้งแต่ตอนนั้น:
+มันได้ผลคับ แต่เจ็บทุกครั้งที่ใช้:
 
-- ทุกครั้งที่จะใช้ ต้องรันคำสั่ง SSH ก่อนทุกครั้ง
-- Terminal window ต้องเปิดค้างไว้ตลอด ปิดปุ๊บ link ตาย
-- ถ้า laptop หลับหรือสลับ Wi-Fi connection หลุด ต้องต่อใหม่
-- และที่แย่ที่สุด: มีแค่ผมคนเดียวที่ใช้ได้ — เพราะต้องมี SSH key ของเครื่อง server ด้วย
+- ทุกครั้งที่ต้องใช้ ต้องจำคำสั่ง SSH ยาวๆ มาพิมพ์ใหม่
+- Terminal window ต้องเปิดค้างไว้ตลอด — ปิดปุ๊บ ทุกอย่างตาย
+- Laptop หลับหรือสลับ Wi-Fi — link หลุด ต่อใหม่
+- แย่สุด: มีแค่ผมคนเดียวที่ใช้ได้ เพราะต้องใช้ SSH key ของเครื่อง server
 
-ครั้งนี้ผมจะเล่าวิธีที่สะอาดกว่ามาก — `tailscale serve` — และผมจะเล่าจากมุมที่คนมองข้ามที่สุดก่อน: ไม่ใช่เรื่องแชร์โมเดลให้คนอื่น แต่คือเรื่อง **การใช้เครื่อง GPU ที่บ้านของตัวเองจากเครื่องไหนก็ได้** แบบไม่ต้อง fixed IP ไม่ต้อง SSH ไม่ต้องเข้าไปกา port ที่ router
+ครั้งนี้ผมจะเล่าวิธีที่สบายกว่ามาก — **`tailscale serve`** — แต่ผมจะเล่าจากมุมที่คนมองข้ามที่สุดก่อน
 
-พอใช้เองได้มั่นคงแล้ว ค่อยขยายไปคำถามถัดไป: เปิดให้ทีมหรือเพื่อนใช้ร่วมกัน พร้อมระบบ "รู้ว่าใครกำลังใช้" ที่ใช้งานได้ทันทีโดยไม่ต้องเขียน auth system แม้แต่บรรทัดเดียว
+ไม่ใช่ "เปิด server ให้ทีมใช้" — แต่คือเรื่องง่ายๆ ที่ผมทำทุกวัน: **เปิด notebook ของ unsloth, ComfyUI, หรือหน้าเว็บของ LLM ที่รันอยู่บนเครื่อง GPU ที่บ้าน — จาก MacBook หรือมือถือที่ไปนั่งคาเฟ่**
 
-บทความนี้ยาวหน่อยนะคับ (อ่านสัก 15-20 นาที) — เพราะผมจะเล่าตั้งแต่ concept, คำสั่งจริง, จนถึงเรื่อง security ที่มีคนถามผมเยอะที่สุด: "เปิดแบบนี้แล้วใครก็เข้าได้ไหม?" คำตอบคือ ไม่ และเดี๋ยวผมพิสูจน์ให้ดู
+โดยไม่ต้อง fixed IP, โดยไม่ต้อง SSH, โดยไม่ต้องเข้าไปที่ router กา port อะไรทั้งนั้น
 
-## 01: ปัญหาที่แท้จริง — เครื่อง GPU ของคุณเป็นเกาะที่ติดกุญแจ
+## 01: สถานะเครื่องของผม — เพื่อให้เห็นภาพ
 
-TL;DR ก่อน สำหรับคนที่เข้าใจ infrastructure อยู่แล้ว:
-
-> รัน `tailscale serve --http=8888 localhost:8888` บนเครื่อง server แล้วเปิด `http://phon-server:8888` จากเครื่องไหนก็ได้ที่อยู่ใน tailnet — จบ ไม่ต้องตั้งค่าอะไรอีกเลย
-
-สำหรับคนที่อยากเข้าใจว่ามันเกิดอะไรขึ้นตอนรันคำสั่งนี้ — เดี๋ยวไปดูทีละชั้น
-
-ตอนนี้ PHON-SERVER ของผมมีสถานะแบบนี้:
+PHON-SERVER ที่บ้านมีของแบบนี้คับ:
 
 - GPU 2 ใบ (16GB ต่อใบ)
-- รัน `llama-server` โหลด Qwen3 27B quant Q4_K_M (ไฟล์ ~16GB) — offload ลง GPU ทั้งหมด, listen ที่ port 8080
-- ComfyUI (port 8188) สำหรับงานรูป
-- unsloth บน Jupyter notebook (port 8888) สำหรับงาน fine-tune
+- **llama-server** — รัน Qwen3 27B (ไฟล์ ~16GB) อยู่ที่ port 8080
+- **ComfyUI** — งานรูป อยู่ที่ port 8188
+- **unsloth** — Jupyter notebook สำหรับ fine-tune อยู่ที่ port 8888
 
-ผมนั่ง MacBook อยู่นอกบ้าน อยากเปิด notebook ของ unsloth ที่รันอยู่บนเครื่อง server — เปิด browser พิมพ์ `http://phon-server:8888` แค่นั้นเอง พิมพ์ชื่อเครื่อง ไม่ใช่เลข IP ที่วันนี้ router แจกเป็น 192.168.1.x พรุ่งนี้เปลี่ยนเป็นเลขอื่น
+ปัญหาคือ: ผมอยู่คาเฟ่ เปิด MacBook อยากเข้า notebook ของ unsloth — ทำยังไง?
 
-คำสั่งที่ต้องรันบนเครื่อง server ครั้งเดียวต่อ service:
+วิธีเก่าคือ SSH tunnel — คำสั่งยาว, terminal ค้าง, หลับปุ๊บหาย
+
+วิธีใหม่คือคำสั่ง 3 บรรทัดที่รันบนเครื่อง server **ครั้งเดียว**:
 
 ```bash
-tailscale serve --http=8888 localhost:8888   # unsloth/Jupyter
+tailscale serve --http=8888 localhost:8888   # unsloth
 tailscale serve --http=8188 localhost:8188   # ComfyUI
-tailscale serve localhost:8080               # llama-server (HTTPS default)
+tailscale serve localhost:8080               # llama-server
 ```
 
-Terminal พิมพ์กลับมาแบบนี้:
+เสร็จแล้วจากเครื่องไหนก็ได้ที่ลง Tailscale ไว้ ผมแค่เปิด browser พิมพ์:
+
+```
+http://phon-server:8888
+```
+
+**ชื่อเครื่อง — ไม่ใช่เลข IP.** วันนี้ router แจก 192.168.1.4 พรุ่งนี้เปลี่ยนเป็น 192.168.1.9 ก็ไม่เกี่ยว พิมพ์ชื่อเดิมได้ตลอด และถ้า laptop หลับหรือสลับ Wi-Fi แล้วกลับมา — เข้าได้เลย ไม่ต้องต่ออะไรใหม่
+
+ห้าบรรทัดนี้จบ SSH tunnel ที่ผมทนใช้มาหลายเดือนคับ
+
+## 02: แยกให้ออก — ตัวไหนทำอะไร (จำแค่ 3 ชั้น)
+
+ตรงนี้คนสับสนเยอะ (ผมเองก็เคยสับสนก่อนเขียนบทความนี้) — ว่า "ไม่ต้อง fixed IP" มาจากตัวไหน จริงๆ แล้วมันมี 3 ชั้นทำงานด้วยกัน:
+
+| ชั้น | ทำหน้าที่ | เปรียบง่ายๆ |
+|---|---|---|
+| **tailnet** | ทุกเครื่องที่ลง Tailscale จะได้ IP ถาวร (100.x.x.x) ที่ไม่เปลี่ยนแม้ย้าย Wi-Fi | **ตัวอาคาร** — ห้องของทุกคนมีเลขห้องถาวร |
+| **MagicDNS** | เรียกเครื่องด้วยชื่อ (`phon-server`) แทนเลข IP | **ป้ายชื่อห้อง** — ไม่ต้องจำเลขห้อง พิมพ์ชื่อห้องได้เลย |
+| **serve** | เปิดให้คนในอาคารเข้าหา app ที่ล็อกอยู่ในห้องได้ + ให้ HTTPS ฟรี | **พนักงานเปิดประตูห้อง** — คนนอกอาคารเข้าไม่ได้ |
+
+สองชั้นแรกได้มาฟรีตั้งแต่ลง Tailscale — ยังไม่ต้องพิมพ์คำสั่ง serve ด้วยซ้ำ
+
+**แล้ว serve แก้ปัญหาอะไรที่อีกสองชั้นแก้ไม่ได้?** สองข้อ:
+
+**ข้อ 1 — เครื่องมือ AI เกือบทุกตัวล็อกตัวเองไว้**
+
+Jupyter/unsloth และ ComfyUI (ค่า default) จะ listen ที่ `127.0.0.1` — หมายความว่า **เครื่องอื่นเรียกเข้าไม่ได้เลย** แม้แต่ใน LAN
+
+ทางแก้แบบเก่าคือสั่งให้ app เปิดรับจาก `0.0.0.0` — แต่พอทำแบบนั้น **ทั้งบ้านเห็นได้หมด** รวมถึงคนข้างบ้านถ้า Wi-Fi หลุด — และ app พวกนี้ส่วนใหญ่ไม่มีหน้า login เลย
+
+serve แก้แบบตรงข้าม: **app ยังล็อกอยู่ตรงที่มันอยู่ (localhost)** แล้ว serve ยืนหน้าประตู — คนใน tailnet เดินมาเคาะประตู serve เปิดให้ คนนอกตึกไม่มีสิทธิ์เคาะ
+
+**ข้อ 2 — HTTPS ที่ browser ไว้ใจ**
+
+serve จัด certificate ให้เองอัตโนมัติ — ไม่ต้องทำเอง ไม่ต้องซื้อโดเมน ไม่ต้องจำว่า expire วันไหน
+
+จำง่ายๆ แค่นี้: **app ยังอยู่ของมันอย่างปลอดภัย, serve คือคนกลางที่รับแขกให้ — และแขกคือแค่คนที่อยู่ในตึกเดียวกับคุณ**
+
+## 03: คำสั่งจริง — แบบที่ทำงานได้วันนี้
+
+เริ่มจากคำสั่งหลัก:
+
+```bash
+tailscale serve localhost:8080
+```
+
+Terminal จะตอบกลับมาแบบนี้:
 
 ```
 Available within your tailnet:
@@ -63,216 +104,100 @@ https://phon-server.my-tailnet.ts.net
 Press Ctrl+C to exit.
 ```
 
-จากตรงนี้ ทุก device ที่ login อยู่ใน tailnet เปิด URL พวกนี้ได้เลย — และถ้า device หลับ/สลับเครือข่ายแล้วกลับมา มันก็ใช้ได้ทันที เพราะ traffic ถูก route ผ่าน Tailscale daemon ที่รันเป็น service อยู่แล้ว ไม่ผูกกับ SSH session ของใคร
+**ภายใน tailnet** — คำนี้สำคัญ: URL นี้เข้าได้เฉพาะเครื่องที่ login อยู่ใน tailnet ของคุณ
 
-ห้าบรรทัดล้มค่า SSH tunnel ที่ผมใช้มาตลอดหลายเดือนคับ
+flags ที่ใช้ประจำ:
 
-## 02: แยกชั้นให้ออกก่อน — อะไรทำให้ "ไม่ต้อง fixed IP" (คำตอบไม่ใช่ serve)
+```bash
+tailscale serve --http=8888 localhost:8888   # เข้าทาง http://phon-server:8888 (MagicDNS ชื่อย่อ)
+tailscale serve --bg localhost:8080          # รันหลังพื้น — ไม่ต้องเปิด terminal ค้าง
+tailscale serve text:"hello"                 # test ง่ายๆ — เปิด URL เห็นข้อความ = ทุกชั้นทำงาน
+```
 
-จุดนี้สำคัญเพราะคนเข้าใจผิดกันเยอะมาก — รวมตัวผมเองก่อนเขียนบทความนี้ด้วย
+จัดการ:
 
-คำถาม: อะไรทำให้เราพิมพ์ `http://phon-server:8888` แล้วเข้าได้โดยไม่ต้อง fixed IP?
+```bash
+tailscale serve status   # ดูว่าตอนนี้ serve อะไรอยู่บ้าง (สะสมได้หลาย service)
+tailscale serve reset    # ล้างหมด
+```
 
-คำตอบ: **tailnet + MagicDNS** ไม่ใช่ serve
+ผมรันทั้ง 3 service ค้างไว้พร้อมกัน — ตรวจด้วย `tailscale serve status` ได้ตลอด
 
-ทุกเครื่องที่ลง Tailscale จะได้ IP ถาวรใน range 100.x.x.x (ไม่หายไปไหนแม้เปลี่ยน Wi-Fi) พร้อมชื่อเครื่องที่เรียกได้จากใน tailnet (`phon-server`) — อันนี้มีมาตั้งแต่ติดตั้ง Tailscale แล้ว ยังไม่ต้องพิมพ์คำสั่ง serve เลย
+**จุดที่ต้องรู้ 2 ข้อ:**
 
-อย่างเครื่องผม: `llama-server` สั่ง bind `0.0.0.0:8080` ดังนั้นแม้ไม่มี serve ผมก็เปิด `http://phon-server:8080` จาก MacBook ได้อยู่แล้ว
+1. **syntax เปลี่ยนไปแล้ว** — tutorial เก่าๆ ที่เห็น `tailscale serve 443 --bg http://127.0.0.1:8080` เป็นของ client รุ่นเก่า (ก่อน v1.52) — ตอนนี้ใช้แบบใหม่ `tailscale serve localhost:8080` — เจอ tutorial แบบเก่าให้ข้ามไปได้เลย
+2. **ต้องเปิด HTTPS certificates ของ tailnet ครั้งแรก** — รันคำสั่งแล้วถ้ายังไม่ได้เปิด CLI จะพาไปหน้าเว็บให้กดอนุญาตครั้งเดียว — จบตลอดไป
 
-**งั้น serve แก้ปัญหาอะไร?** สองอย่างที่เจ็บกว่า:
+## 04: "เปิดแบบนี้แล้วใครก็เข้าได้ไหม?" — ไม่ (และนี่คือคำถามที่ถูกถามบ่อยที่สุด)
 
-1. **เครื่องมือ AI ส่วนใหญ่ bind `127.0.0.1` โดย default** — Jupyter/unsloth (8888), ComfyUI (ก่อนจะสั่ง `--listen 0.0.0.0`) เรียกจากเครื่องอื่นไม่ได้เลย ทางแก้ตรงๆ คือสั่งให้ app เปิด `0.0.0.0` — แปลว่า**ทั้ง LAN เห็น** รวมถึงคนที่ไม่ควรเห็น แถม app พวกนี้ส่วนใหญ่ไม่มี login
-2. **HTTPS ที่ browser เชื่อ** — certificate อัตโนมัติ ไม่ต้องทำเอง
+ตอบตรงๆ: **เข้าไม่ได้ — มีแค่เครื่องที่คุณ invite เข้า tailnet**
 
-`tailscale serve` คือ reverse proxy ที่รันอยู่ใน daemon ของเครื่อง server: app ยัง bind localhost อยู่อย่างนั้น (มองไม่เห็นจาก LAN) แต่คนใน tailnet เข้าได้ผ่าน URL — ได้ความสะดวกและความปลอดภัยพร้อมกัน
+- ใครจะเข้าได้ = ขึ้นอยู่กับว่าคุณ invite ใครเข้า tailnet (แผนฟรี invite ได้ 6 users)
+- เครื่องที่ลง Tailscale แต่ไม่ใช่สมาชิก tailnet ของคุณ → เข้าไม่ได้
+- คนบนอินเทอร์เน็ตทั่วไป → ไม่มีทางเห็น URL นี้ด้วยซ้ำ (โดเมน `.ts.net` resolve เฉพาะจากใน tailnet)
+- ACL ของ tailnet ยังคุมอีกชั้น — ถ้า ACL บล็อกเครื่องไหน เครื่องนั้นเข้าไม่ได้แม้รู้ URL
 
-จำง่ายๆ สามชั้น (สองชั้นแรกมาจาก Tailscale ตั้งแต่ติดตั้ง ชั้นที่สามคือคำสั่งที่เราเพิ่มเข้าไป):
+และเพราะ app ของคุณยัง bind อยู่แค่ `localhost` — แม้แต่คนใน LAN บ้าน (เช่น มือถือที่ต่อ Wi-Fi บ้าน) ก็เรียก port 8888 โดยตรงไม่ได้ ต้องผ่าน serve เท่านั้น
 
-- **tailnet** = อาคาร (เครือข่าย + ชื่อเครื่องถาวร 100.x.x.x)
-- **MagicDNS** = ป้ายชื่อห้อง (`phon-server` แทนเลข IP)
-- **serve** = เปิดประตูห้องให้คนในอาคารเข้าได้ โดยของในห้องยัง lock อยู่ข้างใน (localhost)
-- (**funnel** = เปิดประตูอาคารให้คนนอก — เดี๋ยวคุยท้ายบทความ)
+**ของแถมที่คุ้มมากตอนเริ่มให้คนอื่นใช้:** serve จะบอก backend ของคุณว่า **request นี้มาจากใคร** ผ่าน header `Tailscale-User-Login` — โดยไม่ต้องทำระบบ login, API key, หรือเขียน auth แม้แต่บรรทัดเดียว
 
-## 03: Serve vs Funnel — ตารางเทียบที่ควรจริงจัง
-
-พอใช้เองคล่องแล้ว คำถามถัดไปคือขยายไปหาคนอื่น และตรงนี้ Tailscale มี feature สองตัวที่ชื่อคล้ายกันมาก:
-
-ผมทำตารางนี้จาก docs ปัจจุบันของ Tailscale (ตรวจสอบเดือน ก.ย. 2026) เพราะเจอ tutorial เก่าที่ข้อมูลไม่ตรงกันเยอะมาก:
-
-| | **Serve** | **Funnel** |
-|---|---|---|
-| ใครเข้าถึงได้ | เฉพาะคน/อุปกรณ์ใน tailnet | ทุกคนบนอินเทอร์เน็ต |
-| Identity headers | ✅ มี (รู้ว่าใครส่ง request) | ❌ ไม่มี |
-| Port ที่ใช้ได้ | ทุก port (HTTP/HTTPS/TCP) | จำกัด 443, 8443, 10000 |
-| สถานะ | Stable | Beta |
-| ต้องตั้งค่าเพิ่ม | เปิด HTTPS ใน tailnet (มี wizard) | ต้องเพิ่ม funnel node attribute ใน policy |
-| Bandwidth | ไม่จำกัด (P2P) | มี limit ที่ปรับไม่ได้ |
-| IP เครื่องคุณถูกเปิดไหม | ไม่ | ไม่ (ผ่าน relay) |
-
-กฎเหล็กข้อเดียวที่ต้องจำ: **serve = ส่วนตัว, funnel = สาธารณะ**
-
-และข้อจำกัดที่คนพลาดบ่อย: **port เดียวกันรันทั้ง Serve และ Funnel พร้อมกันไม่ได้** — คำสั่งหลัง wins เสมอ ถ้าคำสั่งล่าสุดคือ `serve` port นั้น private, ถ้าคำสั่งล่าสุดคือ `funnel` port นั้น public ทันที
-
-## 04: Funnel ทำงานยังไง — ทำไม IP คุณไม่รั่ว
-
-เรื่องนี้เจ๋งพอที่จะเล่าแยกเป็น section คับ
-
-เวลาคุณรัน `tailscale funnel localhost:8080` Tailscale จะสร้าง URL สาธารณะที่ชี้ไปที่ **Funnel relay server ของ Tailscale** — ไม่ใช่เครื่องคุณโดยตรง
-
-Flow เต็มๆ เวลามีคนแปลกหน้าเรียก URL นั้น:
-
-1. DNS ของ URL นั้น resolve ไปที่ IP ของ relay server ของ Tailscale (IP เครื่องคุณไม่ถูกเปิดเป็นสาธารณะแม้แต่ตัวเดียว)
-2. Relay server ตั้ง TCP proxy ผ่าน Tailscale tunnel เข้ามาที่เครื่องคุณ
-3. Tailscale daemon บนเครื่องคุณ terminate TLS แล้วส่งต่อไปที่ localhost:8080
-4. คำตอบวิ่งกลับไปตามทางเดิม
-
-จุดที่ผมว่าน่าสนใจที่สุด: **relay server decrypt ข้อมูลไม่ได้** — TLS connection เป็นแบบ end-to-end ระหว่าง browser ของคนเรียกกับเครื่องคุณ Tailscale แค่หล่อ traffic ผ่าน ซึ่งหมายความว่าแม้แต่ Tailscale เองก็อ่านข้อมูลที่วิ่งผ่าน funnel ไม่ได้
-
-แต่ — และนี่คือ but ที่สำคัญ — **public คือ public** ใครก็ได้ยิง request เข้ามา กิน GPU ของคุณฟรีๆ ถ้าไม่มีระบบกันไว้ ผมเคยเห็นคนเปิด LLM endpoint ด้วย funnel แล้วโดนยิงจนเล่นไม่ได้ทั้งคืน
-
-ถ้าจำเป็นต้องเปิดสาธารณะจริงๆ อย่างน้อยที่สุดควรทำสิ่งนี้:
-
-- ตั้ง rate limit ที่ backend (llama-server มี `--threads` ให้จำกัด concurrency)
-- ใช้แผนฟรีของ Cloudflare Tunnel เป็นชั้นเสริม (มี WAF และ rate limiting ให้)
-- หรือทำแบบที่ผมทำ: ไม่เปิด public เลย ใช้ Serve + เชิญคนเข้า tailnet แทน (ฟรี สูงสุด 6 users)
-
-## 05: Identity Headers — feature ที่คนลืมบ่อยที่สุด
-
-ใช้คนเดียวไม่ต้องสน feature นี้ แต่พอขยายจาก "ใช้เอง" ไป "ให้ทีมใช้ร่วมกัน" — นี่คือของฟรีที่แพงที่สุดตัวหนึ่งเลย
-
-เมื่อ traffic มาผ่าน `tailscale serve` (เฉพาะ serve — funnel ไม่มี) daemon จะเติม HTTP headers ต่อไปนี้เข้าไปใน request ก่อนส่งให้ backend:
-
-- `Tailscale-User-Login` — login name ของคนส่ง (เช่น `phon@example.com`)
-- `Tailscale-User-Name` — display name
-- `Tailscale-User-Profile-Pic` — URL รูปโปรไฟล์ (ถ้า IdP ให้มา)
-
-ความหมายใช้งานจริง: backend ของคุณ **รู้ว่าใคร** กำลังถามโมเดล — โดยไม่ต้องมี API key, ไม่ต้องมี login page, ไม่ต้องเขียนระบบ auth สักบรรทัด
-
-และเพื่อกัน spoof: Tailscale จะ **strip headers เหล่านี้ออกจาก incoming request เสมอ** — ถ้ามีใครพยายามส่ง `Tailscale-User-Login: billgates@microsoft.com` มาเอง header นั้นจะถูกลบทิ้งก่อนถึง backend แล้วเติมของจริงลงไป ทำให้ backend วางใจค่าพวกนี้ได้เต็มที่ (ถ้ามาทางนี้)
-
-ตัวอย่างที่ใช้ได้จริงกับ backend อย่าง FastAPI:
+ตัวอย่างกับ FastAPI:
 
 ```python
-from fastapi import FastAPI, Request
-
-app = FastAPI()
-
 @app.post("/whoami")
 async def whoami(request: Request):
     user = request.headers.get("Tailscale-User-Login", "unknown")
     return {"user": user}
 ```
 
-จากนั้น `curl https://phon-server.my-tailnet.ts.net/whoami` จากเครื่องที่ login แล้ว ได้ `{"user": "phon@example.com"}` ทันที
+เปิด URL นี้จากเครื่องที่ login แล้ว → ได้ `{"user": "phon@example.com"}` — รู้ทันทีว่าใครกำลังถามโมเดล, ใครกิน GPU เยอะสุด, มี query แปลกๆ ก็รู้ว่าจะไปคุยกับใคร
 
-กรณีใช้งานจริงของผม: เปิด server ให้ทีมใช้ร่วมกัน แล้ว log `Tailscale-User-Login` ทุก request — รู้ทันทีว่าใครถามอะไร, ใครกิน quota เยอะสุด, และถ้ามี query แปลกๆ ผมรู้ว่าต้องไปคุยกับใคร
+(ข้อเดียวที่ต้องจำ: backend ต้อง listen ที่ `127.0.0.1` เท่านั้น — ถ้าเปิดให้ใครก็เรียก port โดยตรงได้ คนนั้นปลอม header นี้เองได้)
 
-> **ข้อควรระวังที่ docs บอกตรงๆ**: backend ต้อง listen บน `127.0.0.1` เท่านั้น — ถ้าเปิดให้ LAN หรือ tailnet เข้าถึง port โดยตรง (ไม่ผ่าน serve) ใครก็ตั้ง header เหล่านี้เองได้ง่ายๆ และ backend จะเชื่อ เพราะฉะนั้น localhost-only เสมอ
+## 05: ค่าใช้จ่าย — ฟรี
 
-## 06: คำเตือนที่ต้องรู้ — CLI syntax เปลี่ยนไปแล้วใน v1.52
-
-ถ้าคุณตาม tutorial ปี 2024-2025 มา จะเจอ syntax แบบนี้:
-
-```bash
-# แบบเก่า (client < v1.52)
-tailscale serve 443 --bg http://127.0.0.1:8080
-```
-
-ตั้งแต่ client v1.52 เป็นต้นมา syntax เปลี่ยนเป็น target-based:
-
-```bash
-# แบบใหม่ (v1.52+)
-tailscale serve localhost:8080
-```
-
-และมี flag เสริมตาม use case:
-
-```bash
-tailscale serve --https=443 localhost:8080  # กำหนด port HTTPS เอง
-tailscale serve --http=80 localhost:8080    # HTTP เข้าผ่าน MagicDNS: http://phon-server
-tailscale serve --http=8888 localhost:8888  # ใช้กับ Jupyter/unsloth ที่ bind localhost
-tailscale serve --bg localhost:8080         # รันเป็น background (ไม่ต้องเปิด terminal ค้าง)
-```
-
-target เป็นได้หลายแบบ:
-
-- **Port number** — `tailscale serve 3000`
-- **Partial URL** — `tailscale serve localhost:3000`
-- **Full URL** — `tailscale serve tcp://localhost:3000/foo`
-- **Static text** — `tailscale serve text:"Hello, world!"` (ใช้ debug ได้ดี)
-
-นอกจากนี้ยังมี TCP forwarder สำหรับ protocol ที่ไม่ใช่ HTTP:
-
-```bash
-tailscale serve --tcp=2222 tcp://localhost:22  # forward SSH
-tailscale serve --tls-terminated-tcp=8443 tcp://localhost:9899
-```
-
-และชุด subcommands สำหรับจัดการ config:
-
-- `tailscale serve status` — ดูว่า serve อะไรอยู่บ้าง (config สะสมได้ หลาย service พร้อมกัน)
-- `tailscale serve reset` — ล้าง config ทั้งหมด
-- `tailscale serve get-config` / `set-config` — อ่าน/ตั้งค่าแบบ structured
-
-**สิ่งที่ต้องเปิดก่อนใช้**: tailnet ต้องเปิด HTTPS certificates ไว้ — ถ้ายังไม่เปิด CLI จะพาไปหน้า web consent ให้กดอนุญาตครั้งเดียวแล้วจบ และ ACL rules ของ tailnet ก็ยังใช้กับ traffic ของ Serve — ถ้า ACL block device ตัวไหน device นั้นเข้าไม่ได้แม้จะเห็น URL ก็ตาม
-
-## 07: Limitations ที่ควรรู้ก่อนวางแผน
-
-- DNS name ถูกจำกัดอยู่ในโดเมน tailnet เท่านั้น (`device.tailnet-name.ts.net`) — ใช้โดเมน custom เองไม่ได้
-- macOS: serve ไฟล์/โฟลเดอร์ได้เฉพาะ open-source variant ของ client (App Store version โดน sandbox จำกัด)
-- Funnel จำกัด port 443/8443/10000, รับ TLS เท่านั้น, และมี bandwidth limit ที่ปรับไม่ได้
-- Identity headers ไม่ถูกเติมสำหรับ traffic จาก tagged devices (เครื่องที่ใช้ tag แทน user identity เช่น server ที่ tag เป็น infra)
-- ต้องรัน `tailscale serve` ใหม่หลัง reboot ถ้าไม่ได้ใช้ flag `--bg` หรือทำ systemd unit (ซึ่งก็ทำได้ไม่ยาก)
-
-## 08: เรื่องราคา — ตัวเลขล่าสุด (ก.ย. 2026)
-
-จากหน้า pricing ทางการของ Tailscale:
-
-| แผน | ราคา | จุดเด่น |
+| แผน | ราคา | ได้มา |
 |---|---|---|
-| Personal | ฟรีตลอดกาล | devices ไม่จำกัด, 6 users, ACL 3 groups, tagged resources 50 ตัว |
-| Standard | $8/user/เดือน | users ไม่จำกัด, SCIM, MDM, ACL 10 groups |
-| Premium | $18/user/เดือน | ACL 300 groups, flow logs, JIT access, log streaming |
-| Enterprise | Custom | ทุกอย่าง + SLA/support แบบ dedicated |
+| **Personal** | **$0 ตลอดกาล** | devices ไม่จำกัด, users สูงสุด 6, serve ใช้ได้ |
+| Standard | $8/user/เดือน | users ไม่จำกัด, SCIM, MDM |
+| Premium | $18/user/เดือน | ACL 300 groups, flow logs, JIT access |
 
-สำหรับ use case ของผม (ใช้เองได้ทุกเครื่อง + แชร์ให้เพื่อนไม่กี่คน): แผน Personal ฟรีเกินความจำเป็น — 6 users กับ devices ไม่จำกัด ครอบคลุมทุกอย่างที่ผมต้องการ และ Serve/Funnel ใช้ได้ทุกแผนไม่มี lock
+สำหรับ use case "ใช้เองทุกเครื่อง + ปล่อยให้เพื่อนไม่กี่คน" — **แผนฟรีเหลือเฟือ** — devices ไม่จำกัดแปลว่า server + MacBook + มือถือ + iPad ของคนเดียวกันนับเป็น user คนเดียว
 
-สังเกตว่าราคาเป็น seat-based — จ่ายตามจำนวน user ไม่ใช่จำนวน devices (devices ของ user ไม่จำกัดทุกแผน) ซึ่งเหมาะกับ pattern "คนเดียวหลายเครื่อง" แบบผมดีมาก: server + notebook + มือถือ + iPad นับเป็น device เดียวกันในแงะ user
+ราคาคิดเป็น **seat** (ตามจำนวนคน) ไม่ใช่จำนวนเครื่อง — เหมาะมากกับ pattern "คนเดียวหลายเครื่อง"
 
-## 09: Pro Tips แยกตามระดับ
+## 06: ข้อจำกัดที่ควรรู้ก่อนวางแผน
 
-**มือใหม่ (เพิ่งเริ่ม):**
+- **โดเมนถูกจำกัด** — ชื่อ URL เป็น `ชื่อเครื่อง.ชื่อ-tailnet.ts.net` เท่านั้น ใช้โดเมน custom เองไม่ได้
+- **หลัง reboot ต้องรัน serve ใหม่** — ถ้าไม่ได้ใช้ `--bg` หรือทำ systemd unit (ทำไม่ยาก)
+- **macOS:** serve โฟลเดอร์/ไฟล์ได้เฉพาะ client แบบ open-source (ตัวจาก App Store โดน sandbox จำกัด) — ถ้าใช้แค่ proxy HTTP แบบในบทความนี้ ไม่มีผล
+- **เครื่องแบบ "tagged device"** (server ที่ใช้ tag แทน user) จะไม่ได้รับ identity headers — ถ้าใช้ feature "รู้ว่าใครใช้" ให้ login แบบ user ปกติ
 
-- เริ่มจาก service ที่ใช้เองก่อน: รัน `tailscale serve --http=8888 localhost:8888` แล้วเปิด `http://<ชื่อเครื่อง>:8888` จากมือถือที่ลง Tailscale ไว้ — ทดสอบว่าทุกอย่างทำงานก่อนเลย ใช้เวลาไม่กี่นาที
-- ใช้ flag `--http=<port>` เพื่อเข้าผ่าน MagicDNS: `http://phon-server:8888` ได้เลย ไม่ต้องพิมพ์ชื่อเต็ม
-- ทดสอบว่า serve ทำงานไหมด้วย `tailscale serve text:"hello"` แล้วเปิด URL ดู — ถ้าเห็นข้อความ แปลว่าทุกชั้นทำงานครบ
+## 07: Pro Tips แยกตามระดับ
 
-**ใช้จริงจัง (มีทีม/หลายเครื่อง):**
+**เพิ่งเริ่ม (ทำวันนี้ได้):**
 
-- ใช้ `--bg` เพื่อรัน serve เป็น background — ไม่ต้องเปิด terminal ค้าง
-- ทำ systemd unit ให้ serve เริ่มทำงานหลัง reboot อัตโนมัติ
-- Serve config สะสมได้ — ผม serve ทั้ง llama-server (8080), ComfyUI (8188), unsloth (8888) พร้อมกัน ตรวจด้วย `tailscale serve status`
-- อ่าน `Tailscale-User-Login` จาก backend เพื่อทำ per-user logging/quota — ฟรี และไม่ต้องเขียน auth เอง
+1. ลง Tailscale ทั้งเครื่อง server และเครื่องที่ถือ (MacBook/มือถือ) — login อีเมลเดียวกัน
+2. รัน `tailscale serve text:"hello"` บน server แล้วเปิด URL ที่มันโชว์จากอีกเครื่อง — เห็น "hello" แปลว่าทุกชั้นทำงาน
+3. ค่อยรัน serve จริง: `tailscale serve --http=8888 localhost:8888` → เปิด `http://ชื่อเครื่อง:8888`
+4. ใช้ `--bg` — แล้วไม่ต้องเปิด terminal ค้างอีกเลย
 
-**องค์กร:**
+**ใช้จริงจัง (ทุกวันที่เครื่อง GPU):**
 
-- ใช้ `set-config` ร่วมกับ infrastructure-as-code เพื่อจัดการ serve config แบบ declarative
-- Funnel ต้องมี funnel node attribute ใน policy — ควบคุมที่ ACL ให้เฉพาะเครื่องที่จำเป็นจริงๆ
-- พิจารณา PROXY protocol (`--proxy-protocol=2`) ถ้า backend ต้องการรู้ source IP ของ client จริงๆ
+- ทำ systemd unit ให้ serve เริ่มเองหลัง reboot (server ผมทำทั้ง 3 service — reboot แล้วทุกอย่างกลับมาเอง)
+- เช็ค `tailscale serve status` เป็นระยะ — ดูว่าอะไรค้างอยู่บ้าง
+- อ่าน `Tailscale-User-Login` ทุก request — log ไว้ว่าใครใช้เมื่อไหร่ — ฟรี และไม่ต้องเขียน auth เอง
+- ถ้าเริ่มให้เพื่อนใช้ — จำกฎเดียว: **app bind localhost เสมอ, เข้าทาง serve เท่านั้น**
 
-## 10: สรุปแบบวิศวกรเป็ด
+## 08: สรุปแบบวิศวกรเป็ด
 
-ถ้าจะให้ย่อทั้งบทความเหลือบรรทัดเดียว:
+ถ้าย่อทั้งบทความเหลือบรรทัดเดียว:
 
-**การเข้าถึงเครื่องของตัวเองไม่ใช่ปัญหา networking — มันปัญหาการตั้งชื่อและเปิดประตูที่ถูกคน ให้ระบบที่เรียบร้อยแล้วช่วยจัดการแทน**
+**การเข้าถึงเครื่องของตัวเองไม่ใช่ปัญหา networking — มันคือปัญหา "จำชื่อไม่ได้ + เปิดประตูให้คนผิด" — ให้ระบบที่เสร็จแล้วจัดการแทนเรา**
 
-สิ่งที่ `tailscale serve` ทำคือดึงงาน "จำ IP ไม่ได้ + ตั้ง reverse proxy + TLS + auth" ที่เรามักเก็บไว้ทำ "วันหลัง" ออกไปจากสมการ ทำให้เหลือคำสั่งเดียว: app ของผมยัง lock อยู่บน localhost อย่างปลอดภัย แต่จาก MacBook หรือมือถือที่ไหนก็ได้ ผมเปิด `http://phon-server:8888` แล้วเจอ unsloth notebook ของตัวเองได้เลย
+serve ดึงงาน 4 อย่างที่เราชอบเก็บไว้ทำ "วันหลัง" (ตั้ง reverse proxy, จัด HTTPS, ทำ auth, จำ IP) ออกไปจากสมการ — เหลือคำสั่งเดียว: app ยังล็อกอยู่บน localhost อย่างปลอดภัย แต่จากคาเฟ่ไหนก็ได้ ผมเปิด `http://phon-server:8888` แล้วเจอ notebook ของตัวเอง
 
-และเมื่อวันหนึ่งขยายไปให้ทีมใช้ ผมก็รู้ด้วยว่าใครกำลังเดินเข้ามาในห้องนี้
-
-Duck OS Law #3: Protect System — ระบบที่ดีไม่ได้แปลว่าปิดทุกอย่าง แต่แปลว่าเปิดในสิ่งที่ควรเปิด พร้อมมองเห็นว่าใครเข้ามา และปิดได้ทันทีเมื่อไม่พึงประสงค์
-
-คราวหน้าถ้าสนใจภาคต่อ — Funnel + rate limiting สำหรับ public endpoint หรือการทำ auth proxy กับ Grafana โดยใช้ identity headers — บอกได้เลยคับ
+Duck OS Law #3: Protect System — ระบบที่ดีไม่ได้แปลว่าปิดทุกอย่าง แต่แปลว่า **เปิดในสิ่งที่ควรเปิด, มองเห็นว่ามีใครเข้ามา, และปิดได้ทันทีเมื่อไม่พึงประสงค์** — serve ทำสามอย่างนี้ให้ครบโดยไม่ต้องเขียนโค้ดแม้แต่บรรทัดเดียว
 
 ---
 
@@ -284,4 +209,4 @@ Duck OS Law #3: Protect System — ระบบที่ดีไม่ได้
 - Facebook: https://www.facebook.com/adduckivity
 - X: https://x.com/adduckivity
 
-#Adduckivity #DuckOS #Tailscale #LocalLLM #NeuroDivergent
+#Adduckivity #DuckOS #Tailscale #LocalLLM #ComfyUI
