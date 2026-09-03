@@ -38,6 +38,10 @@
 - huggingface.co จากเครื่องนี้ ~1.5 MB/s — ถ้าช้าให้ลอง mirror `hf-mirror.com` แทน `huggingface.co` ใน URL (path เดียวกัน)
 
 ## Recent Activity
+- 2026-09-03: AutoClaw (Zhipu/Z.ai) long-form draft เสร็จ — research จาก primary sources (autoclaw.z.ai, GLM-5.3-Flash specs, GLM pricing, BestClaw review 6.9/10) + draft ลง Content Drafts DB:
+  - Notion page: `3d0df8d8-8d8c-81ef-a414-c7cf29cea032` (132 blocks, verify read-back ครบ — headings, pricing tables, tail hashtags)
+  - ไฟล์: `content-study/posts/20260903-cnt-autoclaw-intro-longform.md` (push แล้ว b362f02)
+  - มุม: "one-click OpenClaw สำหรับคนที่ไม่อยาก configure" — free 5,000 credits + daily, Coding Plan $18/72/160, promo GLM-5.3-Flash $0.075/$0.25 หมด 9 ก.ย.
 - 2026-09-03: ท้ายวัน — ปรับ draft Tailscale serve ทั้ง 2 ตัวเป็นมุม "ใช้เองก่อน" (unsloth 8888 / ComfyUI 8188 / llama 8080 จากเครื่องตัวเอง + section แยกชั้น MagicDNS-vs-serve) แล้วลง Content Drafts DB (`3ccdf8d8-8d8c-81ae-bdf8-cb9eb1821520`) Status: draft — verify read-back ครบทั้ง 2 หน้า:
   - short: `3d0df8d8-8d8c-810d-9892-cc1a1bc89e01` (74 blocks)
   - longform: `3d0df8d8-8d8c-81d2-9756-d310044ae3a0` (144 blocks)
