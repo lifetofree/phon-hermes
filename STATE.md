@@ -8,13 +8,37 @@
   - Parent page: "Hermes agents" (`3c7df8d8-8d8c-801c-87f9-e845700178af` = PARENT_PAGE_ID in .env)
   - Schema: Title, Summary, Category (tech/life/work/reference), Tags, Source, Created, Updated, Status (active/archived/deprecated)
 - Notion token: valid (bot "Hermes-connection"), stored as NOTION_TOKEN in /home/lifetofree/hermes-agent/.env
+- **ComfyUI (2026-09-03): ติดตั้งแล้ว แต่ models ยังไม่ได้โหลด — หยุดพักก่อน restart เครื่อง**
+  - Repo: `~/ComfyUI` (git clone comfyanonymous/ComfyUI, depth 1)
+  - Venv: `~/ComfyUI/.venv` (Python 3.12, สร้างด้วย uv)
+  - torch **2.14.0+cu130** + torchvision 0.29.0 — **CUDA verify ผ่าน** (2 GPUs, dev0 = RTX 5060 Ti, compute cap 12.0/Blackwell)
+  - `requirements.txt` install เสร็จ
+  - Models: **0/8 เสร็จ** (download ทั้งหมดถูกลบทิ้ง เพราะ script รันซ้อน 2 ตัวเขียนทับไฟล์ .part เดียวกัน → corrupt)
+  - Download script สำรอง: `~/ComfyUI/download_models.sh` — **resumable** (curl -C -) รันซ้ำได้ปลอดภัย
 
 ## Open Tasks
-- (none)
+- **ComfyUI models (8 ไฟล์) — รอ restart แล้ว resume:**
+  1. `checkpoints/sd_xl_base_1.0.safetensors` (6.9G) ← huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
+  2. `diffusion_models/z_image_turbo_bf16.safetensors` ← huggingface.co/Comfy-Org/z_image_turbo/.../split_files/diffusion_models/
+  3. `text_encoders/qwen_3_4b.safetensors` ← Comfy-Org/z_image_turbo .../text_encoders/
+  4. `vae/z_image_vae.safetensors` ← Comfy-Org/z_image_turbo .../vae/
+  5. `clip_vision/clip_vision_g.safetensors` ← hubert23/clip_vision_g
+  6. `ipadapter/ip-adapter-plus_sdxl_vit-h.safetensors` ← h94/IP-Adapter/models/
+  7. `ipadapter/ip-adapter_sdxl_vit-h.safetensors` ← h94/IP-Adapter/models/
+  8. `ipadapter/ip-adapter-faceid-plusv2_sdxl_lora.safetensors` ← h94/IP-Adapter/models/
+- หลัง models ครบ: เริ่ม ComfyUI ตาม KB — port **8188**, ComfyUI ใช้ **GPU 0**, Hermes LLM ใช้ GPU 1
+  - `cd ~/ComfyUI && .venv/bin/python main.py --listen 0.0.0.0 --port 8188`
+- Resume command (รันตัวเดียวเท่านั้น!): `cd ~/ComfyUI && nohup bash download_models.sh > /tmp/models_download.log 2>&1 &`
+- (จากก่อนหน้า) slug + excerpt content 9router — user ยังไม่ได้เลือกตัวเลือก
+
+## Pitfalls เรียนรู้วันนี้ (ComfyUI setup)
+- **`download.pytorch.org` ถูก throttle ~246 B/s** (ใช้ไม่ได้) — ติด torch จาก PyPI ปกติแทน (`uv pip install torch torchvision`) ได้ 1.6 MB/s และ PyPI torch = build cu128+/cu130 รองรับ Blackwell ได้เลย
+- pypi.nvidia.com ช้ามาก (~100 KB/s) — อย่าใช้ index-url ของ torch directly
+- **อย่ารัน download script ซ้ำซ้อน 2 ตัว** — เขียนทับ .part เดียวกัน → corrupt (เจอจริงวันนี้)
+- huggingface.co จากเครื่องนี้ ~1.5 MB/s — ถ้าช้าให้ลอง mirror `hf-mirror.com` แทน `huggingface.co` ใน URL (path เดียวกัน)
 
 ## Recent Activity
+- 2026-09-03: ComfyUI setup — clone repo, venv, torch cu130 verify GPU OK, requirements สำเร็จ; models 0/8 (หยุดตาม request ก่อน restart)
 - 2026-08-27: สร้างหน้า "Tailscale — Mesh VPN บน WireGuard สำหรับเข้าถึงอุปกรณ์ส่วนตัว" ใน KB
   - Page ID: `3c9df8d8-8d8c-8121-925f-ed6030d82b76`
-  - URL: https://app.notion.com/p/Tailscale-Mesh-VPN-WireGuard-3c9df8d88d8c8121925fed6030d82b76
   - Category: tech | Tags: networking, vpn, wireguard, security, self-hosted | Status: active
-  - Body: 40 blocks (สรุป / เนื้อหาหลัก: คืออะไร, หลักการทำงาน, use cases, ต่างจาก VPN เดิม, pricing ส.ค.2026, ข้อจำกัด / Reference)
