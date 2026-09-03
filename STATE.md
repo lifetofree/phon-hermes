@@ -38,6 +38,7 @@
 - huggingface.co จากเครื่องนี้ ~1.5 MB/s — ถ้าช้าให้ลอง mirror `hf-mirror.com` แทน `huggingface.co` ใน URL (path เดียวกัน)
 
 ## Recent Activity
+- 2026-09-03: Superclick long-form draft เสร็จ — research จาก superclick.app (site/pricing/faq/eula) + Reddit r/macapps launch thread (1i7klqu); draft ลง Content Drafts DB (draft): notion page 3d0df8d8-8d8c8175-a34e-fcbbee3194d9, verify read-back 95 blocks ครบ; ไฟล์ ~/hermes-agent/content-study/posts/20260903-cnt-superclick-intro-longform.md push (967e0e7)
 - 2026-09-03: AutoClaw (Zhipu/Z.ai) long-form draft เสร็จ — research จาก primary sources (autoclaw.z.ai, GLM-5.3-Flash specs, GLM pricing, BestClaw review 6.9/10) + draft ลง Content Drafts DB:
   - Notion page: `3d0df8d8-8d8c-81ef-a414-c7cf29cea032` (132 blocks, verify read-back ครบ — headings, pricing tables, tail hashtags)
   - ไฟล์: `content-study/posts/20260903-cnt-autoclaw-intro-longform.md` (push แล้ว b362f02)
