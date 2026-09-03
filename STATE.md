@@ -38,6 +38,11 @@
 - huggingface.co จากเครื่องนี้ ~1.5 MB/s — ถ้าช้าให้ลอง mirror `hf-mirror.com` แทน `huggingface.co` ใน URL (path เดียวกัน)
 
 ## Recent Activity
+- 2026-09-03: ท้ายวัน — ปรับ draft Tailscale serve ทั้ง 2 ตัวเป็นมุม "ใช้เองก่อน" (unsloth 8888 / ComfyUI 8188 / llama 8080 จากเครื่องตัวเอง + section แยกชั้น MagicDNS-vs-serve) แล้วลง Content Drafts DB (`3ccdf8d8-8d8c-81ae-bdf8-cb9eb1821520`) Status: draft — verify read-back ครบทั้ง 2 หน้า:
+  - short: `3d0df8d8-8d8c-810d-9892-cc1a1bc89e01` (74 blocks)
+  - longform: `3d0df8d8-8d8c-81d2-9756-d310044ae3a0` (144 blocks)
+  - ไฟล์ต้นฉบับ: `content-study/posts/20260903-cnt-tailscale-serve.md` + `-longform.md` (push แล้ว a872c86)
+  - Note: Content Drafts DB props = Name/Topic/Status/Date/Platform/Source — ใช้ `POST /v1/pages` พร้อม `markdown` param ได้
 - 2026-09-03: ComfyUI setup — clone repo, venv, torch cu130 verify GPU OK, requirements สำเร็จ; models 0/8 (หยุดตาม request ก่อน restart)
 - 2026-08-27: สร้างหน้า "Tailscale — Mesh VPN บน WireGuard สำหรับเข้าถึงอุปกรณ์ส่วนตัว" ใน KB
   - Page ID: `3c9df8d8-8d8c-8121-925f-ed6030d82b76`
