@@ -17,11 +17,10 @@
   - Download script สำรอง: `~/ComfyUI/download_models.sh` — **resumable** (curl -C -) รันซ้ำได้ปลอดภัย
 
 ## Open Tasks
-- **IN PROGRESS (2026-09-04): AutoClaw x ZCode combo content** — user: "research เรื่อง AutoClaw combo กับ ZCode ในมุมการใช้งานร่วมกัน, features เช่น work design code -> Z Autoclaw Work แล้ว draft ลง content drafts"
-  - Disambiguation OK: ZCode = Zhipu official coding harness (ADE) for GLM-5.3 — zcode.z.ai; AutoClaw = same Z.ai ecosystem (autoclaw.z.ai)
-  - Verified so far (primary): zcode.z.ai/en (features+pricing), docs.z.ai/devpack/tool/zcode (setup: OpenAI base https://api.z.ai/api/coding/paas/v4 + Anthropic base https://api.z.ai/api/anthropic), zcode.z.ai/en/docs/goal (Goal Mode: /goal, per-round verification, evidence-based), zcode.z.ai/en/docs/bot-channel (WeChat/Feishu bots, Telegram control, streaming cards)
-  - Key combo angle: GLM Coding Plan = shared subscription layer across ZCode + AutoClaw + Claude Code (Lite $12.6-18/10k wks credits, Pro $56-80/6x, Max $117.6-168/14x; both tools list 20+ agent tools incl. ZCode+Claude Code). Z.ai X post 2092616204787626030 lists all 4 surfaces: Coding Plan z.ai/subscribe, ZCode, chat.z.ai, AutoClaw
-  - Remaining: (1) optional extra reads — zcode.z.ai/en/docs/welcome, remote-control, daisuke.masuda.tokyo article (stack overview) for credit/limit details; (2) check index.json for earlier ZCode post; (3) write draft `20260904-cnt-<slug>.md` (combo/workflow angle: design->code in ZCode, deploy/ops/content in AutoClaw, one plan); (4) commit+push; (5) Notion Content Drafts DB `3ccdf8d8-8d8c-81ae-bdf8-cb9eb1821520` Status:draft + verify read-back
+- **DONE (2026-09-04): AutoClaw x ZCode combo content** — draft ลง Content Drafts DB:
+  - Notion page: `3d1df8d8-8d8c-815e-9bcf-d1ed68a2b49d` (46 blocks, verify read-back ครบ — 2 ตาราง + hashtags + social footer; URL: https://app.notion.com/p/AutoClaw-ZCode-2-1-Workflow-Design-Deploy-draft-3d1df8d88d8c815e9bcfd1ed68a2b49d)
+  - ไฟล์: `content-study/posts/20260904-cnt-autoclaw-zcode-combo.md` (push 90812fc)
+  - มุม: "2 เครื่องมือ 1 แผน" — GLM Coding Plan เป็น shared subscription layer ของ ZCode + AutoClaw + Claude Code; workflow design->code (ZCode Goal Mode) -> deploy/verify/content ops (AutoClaw) -> สั่งจากมือถือทั้งคู่; pricing Lite $12.6/Pro $56/Max $117.6 (โปร 20%); cons: vendor lock-in, "local" != data-stays-local, access contract แยก
 - **ComfyUI models (8 ไฟล์) — รอ restart แล้ว resume:**
   1. `checkpoints/sd_xl_base_1.0.safetensors` (6.9G) ← huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
   2. `diffusion_models/z_image_turbo_bf16.safetensors` ← huggingface.co/Comfy-Org/z_image_turbo/.../split_files/diffusion_models/
@@ -43,6 +42,7 @@
 - huggingface.co จากเครื่องนี้ ~1.5 MB/s — ถ้าช้าให้ลอง mirror `hf-mirror.com` แทน `huggingface.co` ใน URL (path เดียวกัน)
 
 ## Recent Activity
+- 2026-09-04: AutoClaw x ZCode combo draft เสร็จ — research primary (zcode.z.ai/en, docs.z.ai setup, Goal Mode, Bot Channel, autoclaw.z.ai quota boost) + daisuke.masuda.tokyo stack overview; draft "2 เครื่องมือ 1 แผน" ลง Content Drafts DB (page 3d1df8d8-8d8c-815e-9bcf-d1ed68a2b49d, verify read-back 46 blocks + ตาราง 2 ตัว ครบ); ไฟล์ posts/20260904-cnt-autoclaw-zcode-combo.md push 90812fc; Notion pitfall ใหม่: POST /v1/pages ใส่ `children: []` ควบกับ `markdown` = 400 — ใช้ `markdown` อย่างเดียว
 - 2026-09-04: sync Tailscale Serve longform **v2** (commit 083f2ba) ขึ้น Notion แทนเนื้อเดิม — PATCH markdown `type: replace_content` (body shape: `{"type":"replace_content","replace_content":{"new_str": md,"old_str":""}}`) ที่ page `3d0df8d8-8d8c-81d2-9756-d310044ae3a0` (Status: draft); verify read-back 172 lines ครบ (first/last + markers ตรง)
 - 2026-09-03: Superclick long-form draft เสร็จ — research จาก superclick.app (site/pricing/faq/eula) + Reddit r/macapps launch thread (1i7klqu); draft ลง Content Drafts DB (draft): notion page 3d0df8d8-8d8c8175-a34e-fcbbee3194d9, verify read-back 95 blocks ครบ; ไฟล์ ~/hermes-agent/content-study/posts/20260903-cnt-superclick-intro-longform.md push (967e0e7)
 - 2026-09-03: AutoClaw (Zhipu/Z.ai) long-form draft เสร็จ — research จาก primary sources (autoclaw.z.ai, GLM-5.3-Flash specs, GLM pricing, BestClaw review 6.9/10) + draft ลง Content Drafts DB:
