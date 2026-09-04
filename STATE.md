@@ -17,6 +17,11 @@
   - Download script สำรอง: `~/ComfyUI/download_models.sh` — **resumable** (curl -C -) รันซ้ำได้ปลอดภัย
 
 ## Open Tasks
+- **IN PROGRESS (2026-09-04): AutoClaw x ZCode combo content** — user: "research เรื่อง AutoClaw combo กับ ZCode ในมุมการใช้งานร่วมกัน, features เช่น work design code -> Z Autoclaw Work แล้ว draft ลง content drafts"
+  - Disambiguation OK: ZCode = Zhipu official coding harness (ADE) for GLM-5.3 — zcode.z.ai; AutoClaw = same Z.ai ecosystem (autoclaw.z.ai)
+  - Verified so far (primary): zcode.z.ai/en (features+pricing), docs.z.ai/devpack/tool/zcode (setup: OpenAI base https://api.z.ai/api/coding/paas/v4 + Anthropic base https://api.z.ai/api/anthropic), zcode.z.ai/en/docs/goal (Goal Mode: /goal, per-round verification, evidence-based), zcode.z.ai/en/docs/bot-channel (WeChat/Feishu bots, Telegram control, streaming cards)
+  - Key combo angle: GLM Coding Plan = shared subscription layer across ZCode + AutoClaw + Claude Code (Lite $12.6-18/10k wks credits, Pro $56-80/6x, Max $117.6-168/14x; both tools list 20+ agent tools incl. ZCode+Claude Code). Z.ai X post 2092616204787626030 lists all 4 surfaces: Coding Plan z.ai/subscribe, ZCode, chat.z.ai, AutoClaw
+  - Remaining: (1) optional extra reads — zcode.z.ai/en/docs/welcome, remote-control, daisuke.masuda.tokyo article (stack overview) for credit/limit details; (2) check index.json for earlier ZCode post; (3) write draft `20260904-cnt-<slug>.md` (combo/workflow angle: design->code in ZCode, deploy/ops/content in AutoClaw, one plan); (4) commit+push; (5) Notion Content Drafts DB `3ccdf8d8-8d8c-81ae-bdf8-cb9eb1821520` Status:draft + verify read-back
 - **ComfyUI models (8 ไฟล์) — รอ restart แล้ว resume:**
   1. `checkpoints/sd_xl_base_1.0.safetensors` (6.9G) ← huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
   2. `diffusion_models/z_image_turbo_bf16.safetensors` ← huggingface.co/Comfy-Org/z_image_turbo/.../split_files/diffusion_models/
