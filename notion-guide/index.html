@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>คู่มือ Notion สำหรับใช้งานส่วนตัว — เบื้องต้น</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+Thai:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #ffffff;
+  --bg-warm: #f6f5f4;
+  --ink: rgba(0,0,0,0.95);
+  --gray-500: #615d59;
+  --gray-300: #a39e98;
+  --border: 1px solid rgba(0,0,0,0.1);
+  --blue: #0075de;
+  --blue-active: #005bab;
+  --blue-focus: #097fe8;
+  --badge-bg: #f2f9ff;
+  --badge-text: #097fe8;
+  --green: #1aae39;
+  --orange: #dd5b00;
+  --card-shadow: rgba(0,0,0,0.04) 0px 4px 18px, rgba(0,0,0,0.027) 0px 2px 7.8px, rgba(0,0,0,0.02) 0px 0.8px 2.9px, rgba(0,0,0,0.01) 0px 0.2px 1px;
+  --font: 'Inter', 'Noto Sans Thai', system-ui, -apple-system, sans-serif;
+  --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: var(--font);
+  color: var(--ink);
+  background: var(--bg);
+  line-height: 1.6;
+  font-size: 16px;
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}
+
+/* ---------- Layout ---------- */
+.shell { display: grid; grid-template-columns: 260px 1fr; max-width: 1200px; margin: 0 auto; }
+aside {
+  position: sticky; top: 0; height: 100vh; overflow-y: auto;
+  padding: 32px 16px; border-right: var(--border); background: var(--bg-warm);
+}
+main { padding: 48px 56px 120px; min-width: 0; }
+section { margin-bottom: 88px; scroll-margin-top: 24px; }
+
+h1 { font-size: 42px; font-weight: 700; line-height: 1.1; letter-spacing: -1.2px; margin-bottom: 12px; }
+h2 { font-size: 28px; font-weight: 700; line-height: 1.2; letter-spacing: -0.6px; margin-bottom: 8px; display: flex; align-items: center; gap: 10px; }
+h3 { font-size: 19px; font-weight: 700; margin: 28px 0 8px; }
+p { margin-bottom: 12px; color: var(--ink); }
+.lead { font-size: 18px; font-weight: 500; color: var(--gray-500); margin-bottom: 28px; }
+.hint { color: var(--gray-500); font-size: 14px; }
+
+/* ---------- Sidebar nav ---------- */
+.side-title { font-size: 13px; font-weight: 600; color: var(--gray-500); letter-spacing: 0.4px; text-transform: uppercase; padding: 0 12px 12px; }
+nav a {
+  display: block; padding: 7px 12px; border-radius: 5px; font-size: 14.5px; font-weight: 500;
+  color: var(--ink); text-decoration: none; margin-bottom: 2px;
+}
+nav a:hover { background: rgba(0,0,0,0.05); }
+nav a.active { background: rgba(0,0,0,0.05); font-weight: 600; }
+nav a .num { color: var(--gray-300); font-family: var(--mono); font-size: 12px; margin-right: 8px; }
+.progress-box { margin-top: 24px; padding: 14px 12px; border-top: var(--border); }
+.progress-bar { height: 6px; background: rgba(0,0,0,0.08); border-radius: 999px; overflow: hidden; margin: 8px 0 6px; }
+.progress-fill { height: 100%; width: 0%; background: var(--green); border-radius: 999px; transition: width 0.4s ease; }
+.progress-label { font-size: 12.5px; color: var(--gray-500); }
+
+/* ---------- Badges & buttons ---------- */
+.pill { display: inline-block; background: var(--badge-bg); color: var(--badge-text); border-radius: 9999px; padding: 3px 10px; font-size: 12px; font-weight: 600; letter-spacing: 0.125px; }
+.btn {
+  display: inline-block; background: var(--blue); color: #fff; border: 1px solid transparent;
+  padding: 8px 16px; border-radius: 4px; font-size: 15px; font-weight: 600; font-family: var(--font);
+  cursor: pointer; text-decoration: none; transition: background 0.15s, transform 0.1s;
+}
+.btn:hover { background: var(--blue-active); }
+.btn:active { transform: scale(0.97); }
+.btn:focus-visible, a:focus-visible, kbd:focus-visible, .check:focus-visible, summary:focus-visible {
+  outline: 2px solid var(--blue-focus); outline-offset: 2px;
+}
+.btn-ghost { background: transparent; color: var(--ink); border: none; }
+.btn-ghost:hover { background: rgba(0,0,0,0.05); text-decoration: underline; }
+
+/* ---------- Cards ---------- */
+.card {
+  background: #fff; border: var(--border); border-radius: 12px; padding: 22px 24px;
+  box-shadow: var(--card-shadow); margin: 16px 0;
+}
+.grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+.card h4 { font-size: 16.5px; font-weight: 700; margin-bottom: 6px; }
+.card p { font-size: 14.5px; color: var(--gray-500); margin: 0; }
+
+/* ---------- Callout ---------- */
+.callout {
+  display: flex; gap: 12px; background: var(--bg-warm); border-radius: 8px;
+  padding: 14px 16px; margin: 16px 0; font-size: 14.5px; border: var(--border);
+}
+.callout .icon { font-size: 18px; line-height: 1.5; }
+.callout.tip .icon { color: var(--green); }
+.callout.warn .icon { color: var(--orange); }
+
+/* ---------- Interactive demo: slash menu ---------- */
+.demo {
+  border: var(--border); border-radius: 12px; overflow: hidden; margin: 20px 0;
+  box-shadow: var(--card-shadow);
+}
+.demo-toolbar { background: var(--bg-warm); border-bottom: var(--border); padding: 8px 14px; font-size: 12.5px; color: var(--gray-500); display: flex; justify-content: space-between; align-items: center; }
+.demo-body { padding: 20px 24px; min-height: 160px; background: #fff; }
+.demo-body .placeholder { color: var(--gray-300); }
+.demo-input {
+  width: 100%; border: none; outline: none; font-family: var(--font); font-size: 16px;
+  color: var(--ink); padding: 2px 0; background: transparent;
+}
+.slash-menu {
+  position: absolute; background: #fff; border: var(--border); border-radius: 8px;
+  box-shadow: var(--card-shadow); padding: 6px; width: 280px; z-index: 30; display: none;
+}
+.slash-menu.open { display: block; }
+.slash-item { display: flex; align-items: center; gap: 10px; padding: 7px 10px; border-radius: 5px; cursor: pointer; font-size: 14px; }
+.slash-item:hover, .slash-item.sel { background: var(--bg-warm); }
+.slash-item .gi { width: 26px; height: 26px; border-radius: 5px; background: var(--bg-warm); display: flex; align-items: center; justify-content: center; font-size: 14px; flex-shrink: 0; }
+.slash-item small { display: block; color: var(--gray-300); font-size: 11.5px; }
+.demo-block { margin: 6px 0; border-radius: 4px; padding: 2px 4px; }
+.demo-block.h1b { font-size: 26px; font-weight: 700; letter-spacing: -0.6px; }
+.demo-block.h2b { font-size: 20px; font-weight: 700; }
+.demo-block.todo { display: flex; align-items: center; gap: 9px; font-size: 15.5px; padding: 3px 4px; cursor: pointer; }
+.demo-block.todo .cb { width: 17px; height: 17px; border: 1.6px solid var(--gray-300); border-radius: 3px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; color: #fff; font-size: 11px; }
+.demo-block.todo.done .cb { background: var(--blue); border-color: var(--blue); }
+.demo-block.todo.done span.txt { color: var(--gray-300); text-decoration: line-through; }
+.demo-block.bullet { padding-left: 6px; font-size: 15.5px; position: relative; padding-left: 22px; }
+.demo-block.bullet::before { content: "•"; position: absolute; left: 8px; color: var(--ink); }
+.demo-block.calloutb { background: var(--badge-bg); border-radius: 6px; padding: 10px 14px; font-size: 15px; }
+.demo-block.dividerb { border-bottom: 2px solid rgba(0,0,0,0.1); margin: 12px 4px; }
+.demo-wrap { position: relative; }
+
+/* ---------- Shortcut cards ---------- */
+kbd {
+  font-family: var(--mono); font-size: 12.5px; background: var(--bg-warm);
+  border: var(--border); border-bottom-width: 2px; border-radius: 5px; padding: 3px 8px;
+  display: inline-block; color: var(--ink);
+}
+.shortcut-row { display: flex; justify-content: space-between; align-items: center; padding: 11px 4px; border-bottom: var(--border); font-size: 15px; cursor: pointer; border-radius: 4px; }
+.shortcut-row:hover { background: var(--bg-warm); }
+.shortcut-row:last-child { border-bottom: none; }
+.keys { display: flex; gap: 4px; align-items: center; flex-shrink: 0; margin-left: 16px; }
+
+/* ---------- Checklist ---------- */
+.check {
+  display: flex; align-items: flex-start; gap: 12px; padding: 13px 16px; border: var(--border);
+  border-radius: 8px; margin-bottom: 10px; cursor: pointer; background: #fff;
+  transition: background 0.15s; font-size: 15px; text-align: left; width: 100%; font-family: var(--font);
+}
+.check:hover { background: var(--bg-warm); }
+.check .cb { width: 19px; height: 19px; border: 1.6px solid var(--gray-300); border-radius: 4px; flex-shrink: 0; margin-top: 2px; display: flex; align-items: center; justify-content: center; color: #fff; font-size: 12px; transition: all 0.15s; }
+.check.on .cb { background: var(--green); border-color: var(--green); }
+.check.on .cb::after { content: "✓"; }
+.check.on .txt { color: var(--gray-300); text-decoration: line-through; }
+.check small { display: block; color: var(--gray-500); font-size: 13px; margin-top: 1px; }
+
+/* ---------- Database demo table ---------- */
+.db-table { width: 100%; border-collapse: collapse; font-size: 14.5px; margin: 16px 0; }
+.db-table th { text-align: left; font-size: 12.5px; color: var(--gray-500); font-weight: 600; padding: 8px 12px; border-bottom: 2px solid rgba(0,0,0,0.1); white-space: nowrap; }
+.db-table td { padding: 10px 12px; border-bottom: var(--border); }
+.db-table tr:hover td { background: var(--bg-warm); }
+.status-chip { display: inline-block; padding: 2px 9px; border-radius: 999px; font-size: 12px; font-weight: 600; }
+.st-done { background: #eaf6ec; color: #1aae39; }
+.st-doing { background: var(--badge-bg); color: var(--badge-text); }
+.st-todo { background: #f6f5f4; color: var(--gray-500); }
+.db-tabs { display: flex; gap: 6px; margin-bottom: 14px; flex-wrap: wrap; }
+.db-tab { padding: 5px 13px; border-radius: 5px; font-size: 13.5px; font-weight: 500; cursor: pointer; border: none; background: transparent; color: var(--ink); font-family: var(--font); }
+.db-tab.active { background: rgba(0,0,0,0.05); font-weight: 600; }
+.db-tab:hover { background: rgba(0,0,0,0.05); }
+
+/* ---------- Quiz ---------- */
+.quiz-q { font-weight: 600; margin-bottom: 10px; }
+.quiz-opts label { display: block; padding: 9px 13px; border: var(--border); border-radius: 6px; margin-bottom: 7px; cursor: pointer; font-size: 14.5px; }
+.quiz-opts label:hover { background: var(--bg-warm); }
+.quiz-opts input { margin-right: 9px; }
+.quiz-opts label.correct { background: #eaf6ec; border-color: var(--green); }
+.quiz-opts label.wrong { background: #fbeae2; border-color: var(--orange); }
+.quiz-fb { font-size: 13.5px; margin-top: 8px; display: none; }
+.quiz-fb.show { display: block; }
+
+/* ---------- Templates gallery ---------- */
+.tpl { cursor: pointer; transition: transform 0.15s, box-shadow 0.15s; }
+.tpl:hover { transform: translateY(-2px); box-shadow: rgba(0,0,0,0.04) 0px 8px 24px, rgba(0,0,0,0.03) 0px 3px 10px; }
+.tpl .em { font-size: 24px; margin-bottom: 10px; display: block; }
+
+/* ---------- Accordion ---------- */
+details { border: var(--border); border-radius: 8px; padding: 14px 18px; margin-bottom: 10px; background: #fff; }
+summary { font-weight: 600; cursor: pointer; font-size: 15.5px; }
+details[open] summary { margin-bottom: 8px; }
+details p { color: var(--gray-500); font-size: 14.5px; margin: 0; }
+
+/* ---------- Hero ---------- */
+.hero { padding: 16px 0 40px; border-bottom: var(--border); margin-bottom: 56px; }
+
+/* ---------- Responsive ---------- */
+@media (max-width: 900px) {
+  .shell { grid-template-columns: 1fr; }
+  aside { position: static; height: auto; border-right: none; border-bottom: var(--border); }
+  main { padding: 32px 20px 80px; }
+  h1 { font-size: 32px; letter-spacing: -0.8px; }
+  .grid-2, .grid-3 { grid-template-columns: 1fr; }
+}
+</style>
+</head>
+<body>
+<div class="shell">
+
+<aside>
+  <div class="side-title">คู่มือ Notion พื้นฐาน</div>
+  <nav id="nav">
+    <a href="#start"><span class="num">01</span>Notion คืออะไร</a>
+    <a href="#setup"><span class="num">02</span>เริ่มต้นใช้งาน</a>
+    <a href="#blocks"><span class="num">03</span>Blocks &amp; พิมพ์ "/" ลองเลย</a>
+    <a href="#database"><span class="num">04</span>Database</a>
+    <a href="#templates"><span class="num">05</span>Templates สำหรับชีวิตประจำวัน</a>
+    <a href="#shortcuts"><span class="num">06</span>Shortcut ที่ต้องรู้</a>
+    <a href="#checklist"><span class="num">07</span>เช็คลิสต์ 7 วันแรก</a>
+    <a href="#quiz"><span class="num">08</span>ทดสอบความเข้าใจ</a>
+    <a href="#faq"><span class="num">09</span>คำถามที่พบบ่อย</a>
+  </nav>
+  <div class="progress-box">
+    <div class="progress-label">ความคืบหน้าของคุณ <span id="pct">0%</span></div>
+    <div class="progress-bar"><div class="progress-fill" id="fill"></div></div>
+    <div class="progress-label" id="pcount">ทำเช็คลิสต์ไปแล้ว 0/8</div>
+  </div>
+</aside>
+
+<main>
+
+<div class="hero">
+  <span class="pill">Interactive Guide</span>
+  <h1>คู่มือ Notion สำหรับใช้งานส่วนตัว</h1>
+  <p class="lead">ทุกอย่างที่ผู้เริ่มต้นต้องรู้ — ลองกด ลองพิมพ์ ลองเล่นได้เลยในหน้านี้ ความคืบหน้าบันทึกอัตโนมัติในเครื่องของคุณ</p>
+  <a class="btn" href="#start">เริ่มเรียน →</a>
+  <button class="btn btn-ghost" id="resetAll" type="button">ล้างความคืบหน้า</button>
+</div>
+
+<!-- 01 -->
+<section id="start">
+  <h2><span class="num">01</span> Notion คืออะไร</h2>
+  <p class="lead">คำตอบสั้น ๆ: โน้ต + รายการงาน + ตารางข้อมูล + wiki รวมอยู่ในที่เดียว</p>
+  <p>Notion เป็น "all-in-one workspace" — เหมือนมี Google Docs, Trello, Evernote และ Excel รวมกันเป็นแอปเดียว หน้าเปล่า ๆ หนึ่งหน้าสามารถกลายเป็นโน้ต ปฏิทิน บอร์ดงาน หรือฐานข้อมูลส่วนตัวได้ ขึ้นอยู่กับว่าเรา "ประกอบ" มันจากอะไร</p>
+  <div class="grid-3">
+    <div class="card"><h4>📝 โน้ต &amp; ไอเดีย</h4><p>จดทุกอย่างเป็นบล็อกย่อย ๆ จัดระเบียบด้วยหน้าย่อยซ้อนกันได้ไม่จำกัดชั้น</p></div>
+    <div class="card"><h4>✅ งาน &amp; นิสัย</h4><p>To-do list, habit tracker, บอร์ดงานแบบ Kanban — ทำในสิ่งเดียวกับแอป task จริง ๆ</p></div>
+    <div class="card"><h4>📚 คลังข้อมูลส่วนตัว</h4><p>เก็บสูตรอาหาร รายการหนัง คอร์สเรียน ลิงก์ที่อ่านไว้ — ค้นหาได้ทั้งหมดในที่เดียว</p></div>
+  </div>
+  <div class="callout tip"><span class="icon">💡</span><div><b>แผนฟรีก็พอสำหรับใช้ส่วนตัว</b> — คนเดียวใช้ฟรีไม่จำกัดจำนวนหน้า/บล็อก จำกัดแค่ขนาดไฟล์แนบ (5MB) และประวัติ version (7 วัน)</div></div>
+</section>
+
+<!-- 02 -->
+<section id="setup">
+  <h2><span class="num">02</span> เริ่มต้นใช้งานใน 5 นาที</h2>
+  <p class="lead">ตั้งแต่สมัครจนได้หน้าแรกของตัวเอง</p>
+  <div class="card">
+    <h3 style="margin-top:0">ขั้นตอน</h3>
+    <div class="demo-block todo demo-step" data-step="1"><div class="cb"></div><span class="txt">สมัครที่ notion.so ด้วยอีเมลหรือ Google account (เลือก <b>Personal</b> plan ฟรี)</span></div>
+    <div class="demo-block todo demo-step" data-step="2"><div class="cb"></div><span class="txt">ตอบคำถามตั้งค่าเริ่มต้น — เลือกใช้เอง (For personal use)</span></div>
+    <div class="demo-block todo demo-step" data-step="3"><div class="cb"></div><span class="txt">สร้างหน้าแรก: กด <b>+ New page</b> ในแถบข้าง ตั้งชื่อ เช่น "🏠 ชีวิตฉัน"</span></div>
+    <div class="demo-block todo demo-step" data-step="4"><div class="cb"></div><span class="txt">เพิ่มไอคอนและปก: กปุ่ม <b>Add icon</b> / <b>Add cover</b> ด้านบนหน้า</span></div>
+    <div class="demo-block todo demo-step" data-step="5"><div class="cb"></div><span class="txt">โหลดแอปมือถือ (iOS/Android) — ล็อกอินเดียวกัน ข้อมูล sync อัตโนมัติ</span></div>
+    <p class="hint" style="margin-top:10px">← ตัวอย่างนี้กดเช็คได้จริง ลองเลย!</p>
+  </div>
+  <div class="grid-2">
+    <div class="card"><h4>🧭 Sidebar คือทุกอย่าง</h4><p>แถบซ้ายคือแผนที่ workspace ของคุณ — Search, Home, Inbox และรายการหน้าทั้งหมด ลากหน้าซ้อนในหน้าอื่นเพื่อสร้างลำดับชั้นได้</p></div>
+    <div class="card"><h4>🔍 กด Ctrl/Cmd + K</h4><p>Search ทุกหน้าทันทีจากที่ไหนก็ได้ — สิ่งที่ทำให้ "เก็บแล้วหาเจอ" แม้มีหน้าเป็นร้อย</p></div>
+  </div>
+</section>
+
+<!-- 03 -->
+<section id="blocks">
+  <h2><span class="num">03</span> Blocks — หัวใจของ Notion</h2>
+  <p class="lead">ทุกอย่างใน Notion คือ "บล็อก" ย่อย ๆ — ลองเล่นกับเดโมด้านล่างได้เลย</p>
+  <p>ย่อหน้า หัวข้อ รูป ตาราง จุดสำคัญคือ <b>พิมพ์ <code>/</code> (slash) แล้วเมนูบล็อกทั้งหมดจะโผล่ขึ้นมา</b> นี่คือทักษะเดียวที่ต้องจำใน Notion</p>
+
+  <div class="demo">
+    <div class="demo-toolbar"><span>🧪 เดโม — พิมพ์ <code>/</code> ในช่องนี้</span><span class="hint" id="demoCount"></span></div>
+    <div class="demo-body demo-wrap">
+      <div id="demoBlocks"></div>
+      <input class="demo-input" id="demoInput" type="text" placeholder="พิมพ์ / ที่นี่ แล้วเลือกบล็อกจากเมนู…" autocomplete="off">
+      <div class="slash-menu" id="slashMenu"></div>
+    </div>
+  </div>
+
+  <div class="callout tip"><span class="icon">💡</span><div>บล็อกที่ใช้บ่อยที่สุดสำหรับงานส่วนตัว: <b>/heading</b>, <b>/todo</b>, <b>/bullet</b>, <b>/callout</b>, <b>/divider</b> และ <b>/toggle</b> (พับซ่อนเนื้อหายาว ๆ ได้)</div></div>
+
+  <h3>เทคนิคบล็อกที่คนใช้จริงรู้</h3>
+  <details><summary>ลากย้ายบล็อก + จับคู่มือหลายบล็อก</summary><p>ช่อง ⠿ ด้านหน้าบล็อก (โผล่เมื่อ hover) ใช้ลากย้ายได้ กดค้าง Shift คลิกเพื่อเลือกหลายบล็อกแล้วย้าย/ลบพร้อมกัน — และลากที่ขอบซ้ายสุดของหน้าจะเลือกทั้งบล็อก</p></details>
+  <details><summary>เปลี่ยนสีบล็อก / เป็นคอลัมน์</summary><p>เมนู ⋮⋮ ของบล็อก → <b>Turn into</b> เปลี่ยนชนิดบล็อก, <b>Color</b> เปลี่ยนสีพื้นหลัง และลากบล็อกไปวางข้างบล็อกอื่นจะกลายเป็นคอลัมน์ (multi-column) อัตโนมัติ</p></details>
+  <details><summary>คีย์ลัด Markdown</summary><p>พิมพ์ <code>#</code> + space = หัวข้อ, <code>-</code> + space = bullet, <code>[]</code> + space = to-do, <code>&gt;</code> + space = toggle — เร็วกว่าเปิดเมนู slash</p></details>
+</section>
+
+<!-- 04 -->
+<section id="database">
+  <h2><span class="num">04</span> Database — จากโน้ตสู่ระบบจัดการชีวิต</h2>
+  <p class="lead">Database คือตารางที่ "มีมุมมอง (view) ได้หลายแบบ" — ข้อมูลชุดเดียว แสดงเป็นตาราง บอร์ด หรือปฏิทินก็ได้</p>
+  <p>สร้างด้วยการพิมพ์ <code>/table</code>, <code>/board</code> หรือ <code>/calendar</code> ในหน้าใดก็ได้ แต่ละแถวคือ "หน้า" ที่เปิดอ่านรายละเอียดเพิ่มได้</p>
+
+  <div class="demo">
+    <div class="demo-toolbar"><span>🧪 เดโม — ข้อมูลชุดเดียว สลับมุมมองได้</span></div>
+    <div style="padding:16px 20px;">
+      <div class="db-tabs" id="dbTabs">
+        <button class="db-tab active" data-view="table">📋 Table</button>
+        <button class="db-tab" data-view="board">📋 Board</button>
+        <button class="db-tab" data-view="calendar">📋 Calendar</button>
+      </div>
+
+      <div id="view-table">
+        <table class="db-table">
+          <thead><tr><th>ชื่องาน</th><th>สถานะ</th><th>วันครบกำหนด</th><th>ประเภท</th></tr></thead>
+          <tbody id="dbBody"></tbody>
+        </table>
+      </div>
+
+      <div id="view-board" style="display:none">
+        <div class="grid-3" id="boardCols"></div>
+      </div>
+
+      <div id="view-calendar" style="display:none">
+        <div class="grid-3" id="calGrid"></div>
+      </div>
+    </div>
+  </div>
+
+  <h3>Property ที่ควรรู้จัก</h3>
+  <div class="grid-2">
+    <div class="card"><h4>Select / Multi-select</h4><p>ป้ายสถานะหรือหมวดหมู่ (เช่น ประเภท: งาน/ส่วนตัว) — ตัวกรองและจัดกลุ่มด้วยสิ่งนี้ได้</p></div>
+    <div class="card"><h4>Date</h4><p>วันครบกำหนด — มีปีนี้เท่านั้นที่ view แบบ Calendar ทำงานได้</p></div>
+    <div class="card"><h4>Checkbox &amp; Formula</h4><p>Checkbox ใช้ทำ habit tracker, Formula คำนวณอัตโนมัติ (เช่น นับวันเหลือ รวมยอดเงิน)</p></div>
+    <div class="card"><h4>Relation &amp; Rollup</h4><p>เชื่อม database สองอันเข้าด้วยกัน — เช่น โปรเจกต์ ↔ งานย่อย แล้วดึงค่าสรุปมาแสดง (ขั้นสูง — ใช้เมื่อจำเป็น)</p></div>
+  </div>
+
+  <div class="callout warn"><span class="icon">⚠️</span><div><b>กฎเหล็ก:</b> อย่าสร้าง database ใหม่ทุกครั้งที่จำเป็น — สร้าง database "งาน" อันเดียวที่ใช้ซ้ำได้ทุกโปรเจกต์ แล้วแยกด้วย property + view ดีกว่ามี 20 ตารางกระจัดกระจาย</div></div>
+</section>
+
+<!-- 05 -->
+<section id="templates">
+  <h2><span class="num">05</span> Templates สำหรับชีวิตประจำวัน</h2>
+  <p class="lead">กดการ์ดเพื่อดูรายละเอียด — เริ่มจากอันที่ตรงกับปัญหาของคุณวันนี้</p>
+  <div class="grid-3" id="tplGrid"></div>
+  <div class="callout tip"><span class="icon">💡</span><div>ในแอปจริง: ปุ่ม <b>Templates</b> ใน sidebar มีแกลเลอรีฟรีหลายพันชุด หรือใช้ปุ่ม <b>Template button</b> (<code>/template button</code>) สร้างปุ่มที่กดแล้วเพิ่มบล็อกสำเร็จรูปให้เอง เช่น "รายการเช็คประจำวัน"</div></div>
+</section>
+
+<!-- 06 -->
+<section id="shortcuts">
+  <h2><span class="num">06</span> Shortcut ที่ต้องรู้</h2>
+  <p class="lead">กดแถวไหนก็ได้เพื่อทดสอบบนหน้านี้จริง ๆ (บางปุ่มใช้ได้เฉพาะในเดสก์ท็อป)</p>
+  <div class="card" id="scList"></div>
+  <div class="callout tip"><span class="icon">💡</span><div>ลัดที่คุณควรจำก่อน — <b>Ctrl/Cmd + K</b> (ค้นหา) และ <b>[[ ชื่อหน้า</b> เพื่อลิงก์ข้ามหน้า สองอันนี้ทำให้ Notion จาก "โน้ต" กลายเป็น "ความรู้ที่เชื่อมโยงกัน"</div></div>
+</section>
+
+<!-- 07 -->
+<section id="checklist">
+  <h2><span class="num">07</span> เช็คลิสต์ 7 วันแรก</h2>
+  <p class="lead">ความคืบหน้าบันทึกในเครื่องของคุณ (localStorage) — ปิดหน้าแล้วเปิดใหม่ก็ยังอยู่</p>
+  <div id="checklist"></div>
+</section>
+
+<!-- 08 -->
+<section id="quiz">
+  <h2><span class="num">08</span> ทดสอบความเข้าใจ</h2>
+  <p class="lead">3 ข้อ — เลือกคำตอบแล้วดูผลทันที</p>
+  <div id="quizBox"></div>
+</section>
+
+<!-- 09 -->
+<section id="faq">
+  <h2><span class="num">09</span> คำถามที่พบบ่อย</h2>
+  <details><summary>ฟรีจริงไหม? ใช้ไปถูกบังคับจ่ายไหม?</summary><p>แผน Free สำหรับใช้ส่วนตัวไม่มีวันหมด ไม่จำกัดหน้า/บล็อก ข้อจำกัดคือไฟล์แนบ 5MB/ไฟล์, version history 7 วัน และไม่มี guest ร่วม workspace — คนเดียวใช้แทบไม่เจอข้อจำกัดเลย</p></details>
+  <details><summary>ข้อมูลหายได้ไหม / สำรองยังไง?</summary><p>ข้อมูลอยู่บนคลาวด์ของ Notion sync อัตโนมัติ มี Trash (ถังขยะ) กู้ของที่ลบได้ 30 วัน สำรองเพิ่มได้ด้วย Settings → Export (Markdown &amp; CSV) แนะนำ export เป็นระยะถ้าเก็บข้อมูลสำคัญจริง ๆ</p></details>
+  <details><summary>ออฟไลน์ใช้ได้ไหม?</summary><p>เปิดดู/แก้ไขหน้าที่เคยเปิดไว้ได้แบบออฟไลน์ (มี cache) แล้ว sync กลับเมื่อมีเน็ต — เหมาะกับโน้ตบนเครื่องบิน แต่ควรเปิดหน้าล่วงหน้าไว้ก่อน</p></details>
+  <details><summary>ต้องเริ่มจาก template หรือหน้าเปล่า?</summary><p>แนะนำผสม: เริ่มหน้าเปล่า "🏠 ชีวิตฉัน" หนึ่งหน้า แล้วค่อย ๆ เพิ่มระบบย่อย (to-do, tracker) เมื่อรู้ว่าตัวเองต้องการอะไรจริง ๆ — เริ่มจาก template ใหญ่ ๆ ทั้งชุดมักถูกทิ้งใน 2 สัปดาห์เพราะเกินจำเป็น</p></details>
+  <details><summary>ภาษาไทยใช้สบายไหม?</summary><p>สบาย — Notion รองรับ Unicode เต็มรูปแบบ พิมพ์ไทยแสดงผลปกติ การค้นหาภาษาไทยใช้ได้ (ค้นด้วยคำที่พิมพ์ติดกันในหน้า)</p></details>
+</section>
+
+<div class="callout tip"><span class="icon">🎉</span><div><b>จบแล้ว!</b> กลับไปที่เช็คลิสต์หัวข้อ 07 เพื่อเริ่มวันแรกของคุณ — และถ้า progress bar ด้านซ้ายครบ 100% แปลว่าคุณพร้อมใช้ Notion จัดชีวิตตัวเองแล้ว</div></div>
+
+</main>
+</div>
+
+<script>
+(function () {
+  'use strict';
+  var store = {
+    get: function (k, d) { try { var v = localStorage.getItem('notionGuide_' + k); return v === null ? d : JSON.parse(v); } catch (e) { return d; } },
+    set: function (k, v) { try { localStorage.setItem('notionGuide_' + k, JSON.stringify(v)); } catch (e) {} }
+  };
+
+  /* ---------- Sidebar active section ---------- */
+  var links = document.querySelectorAll('#nav a');
+  var sections = [];
+  links.forEach(function (a) { sections.push(document.querySelector(a.getAttribute('href'))); });
+  function updateNav() {
+    var pos = window.scrollY + 120, current = 0;
+    sections.forEach(function (s, i) { if (s && s.offsetTop <= pos) current = i; });
+    links.forEach(function (a, i) { a.classList.toggle('active', i === current); });
+  }
+  window.addEventListener('scroll', updateNav, { passive: true });
+  updateNav();
+
+  /* ---------- Slash menu demo ---------- */
+  var slashDefs = [
+    { key: 'h1', icon: 'H₁', label: 'Heading 1', desc: 'หัวข้อใหญ่', make: function () { return block('h1b', 'หัวข้อใหญ่ — แก้ไขได้เลย'); } },
+    { key: 'h2', icon: 'H₂', label: 'Heading 2', desc: 'หัวข้อรอง', make: function () { return block('h2b', 'หัวข้อรอง'); } },
+    { key: 'todo', icon: '☑', label: 'To-do list', desc: 'เช็คลิสต์งาน', make: function () { return todoBlock('งานใหม่ของฉัน'); } },
+    { key: 'bullet', icon: '•', label: 'Bulleted list', desc: 'รายการจุด', make: function () { return block('bullet', 'รายการจุด'); } },
+    { key: 'callout', icon: '💡', label: 'Callout', desc: 'กล่องเน้นความ', make: function () { return block('calloutb', '💡 กล่องเน้นความสำคัญ'); } },
+    { key: 'divider', icon: '—', label: 'Divider', desc: 'เส้นคั่น', make: function () { return block('dividerb', ''); } }
+  ];
+  var input = document.getElementById('demoInput');
+  var menu = document.getElementById('slashMenu');
+  var blocksEl = document.getElementById('demoBlocks');
+  var demoCount = document.getElementById('demoCount');
+  var sel = 0, filtered = slashDefs.slice();
+
+  function el(tag, cls, txt) {
+    var e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (txt !== undefined) e.textContent = txt;
+    return e;
+  }
+  function block(cls, txt) { var b = el('div', 'demo-block ' + cls, txt); b.tabIndex = 0; return b; }
+  function todoBlock(txt) {
+    var b = el('div', 'demo-block todo');
+    var cb = el('div', 'cb');
+    var s = el('span', 'txt', txt);
+    b.appendChild(cb); b.appendChild(s);
+    b.tabIndex = 0;
+    b.addEventListener('click', function () { b.classList.toggle('done'); saveDemo(); });
+    return b;
+  }
+  function renderMenu() {
+    menu.innerHTML = '';
+    filtered.forEach(function (d, i) {
+      var it = el('div', 'slash-item' + (i === sel ? ' sel' : ''));
+      var gi = el('div', 'gi', d.icon);
+      var wrap = el('div');
+      wrap.appendChild(el('div', '', d.label));
+      wrap.appendChild(el('small', '', d.desc));
+      it.appendChild(gi); it.appendChild(wrap);
+      it.addEventListener('mousedown', function (ev) { ev.preventDefault(); pick(i); });
+      menu.appendChild(it);
+    });
+  }
+  function pick(i) {
+    var d = filtered[i];
+    blocksEl.appendChild(d.make());
+    input.value = '';
+    menu.classList.remove('open');
+    saveDemo(); refreshCount();
+  }
+  function refreshMenu() {
+    var v = input.value;
+    if (v.startsWith('/')) {
+      var q = v.slice(1).toLowerCase();
+      filtered = slashDefs.filter(function (d) { return d.label.toLowerCase().indexOf(q) > -1 || d.key.indexOf(q) > -1; });
+      sel = 0;
+      if (filtered.length) { renderMenu(); menu.classList.add('open'); }
+      else menu.classList.remove('open');
+    } else {
+      menu.classList.remove('open');
+    }
+  }
+  input.addEventListener('input', refreshMenu);
+  input.addEventListener('keydown', function (e) {
+    if (!menu.classList.contains('open')) return;
+    if (e.key === 'ArrowDown') { e.preventDefault(); sel = (sel + 1) % filtered.length; renderMenu(); }
+    else if (e.key === 'ArrowUp') { e.preventDefault(); sel = (sel - 1 + filtered.length) % filtered.length; renderMenu(); }
+    else if (e.key === 'Enter') { e.preventDefault(); pick(sel); }
+    else if (e.key === 'Escape') { menu.classList.remove('open'); }
+  });
+  document.addEventListener('click', function (e) {
+    if (!menu.contains(e.target) && e.target !== input) menu.classList.remove('open');
+  });
+  function refreshCount() {
+    var n = blocksEl.children.length;
+    demoCount.textContent = n ? n + ' บล็อก' : '';
+  }
+
+  /* serialize / restore demo blocks */
+  function saveDemo() {
+    var data = [];
+    Array.prototype.forEach.call(blocksEl.children, function (b) {
+      data.push({ cls: b.className, txt: (b.querySelector('.txt') || b).textContent, done: b.classList.contains('done') });
+    });
+    store.set('demo', data);
+  }
+  function restoreDemo() {
+    var data = store.get('demo', []);
+    data.forEach(function (d) {
+      var b;
+      if (d.cls.indexOf('todo') > -1) b = todoBlock(d.txt);
+      else b = block(d.cls.replace('demo-block ', '').trim(), d.txt);
+      if (d.done) b.classList.add('done');
+      blocksEl.appendChild(b);
+    });
+    refreshCount();
+  }
+  restoreDemo();
+
+  /* demo steps (setup checklist inside section 02) */
+  document.querySelectorAll('.demo-step').forEach(function (s) {
+    s.addEventListener('click', function () { s.classList.toggle('done'); });
+  });
+
+  /* ---------- Database demo ---------- */
+  var tasks = [
+    { name: 'จ่ายบิลไฟฟ้า', status: 'done', due: '2026-09-03', type: 'ส่วนตัว' },
+    { name: 'เขียนโพสต์รีวิว', status: 'doing', due: '2026-09-06', type: 'งาน' },
+    { name: 'ออกกำลังกาย 30 นาที', status: 'todo', due: '2026-09-06', type: 'สุขภาพ' },
+    { name: 'ซื้อของเข้าครัว', status: 'todo', due: '2026-09-08', type: 'ส่วนตัว' },
+    { name: 'อ่านหนังสือ 20 หน้า', status: 'doing', due: '2026-09-07', type: 'สุขภาพ' }
+  ];
+  var stMap = { done: ['Done', 'st-done'], doing: ['In progress', 'st-doing'], todo: ['To do', 'st-todo'] };
+  var dayMap = { '2026-09-03': 3, '2026-09-06': 6, '2026-09-07': 7, '2026-09-08': 8 };
+
+  function renderTable() {
+    var tb = document.getElementById('dbBody');
+    tb.innerHTML = '';
+    tasks.forEach(function (t) {
+      var tr = document.createElement('tr');
+      tr.innerHTML = '<td><b>' + t.name + '</b></td><td><span class="status-chip ' + stMap[t.status][1] + '">' + stMap[t.status][0] + '</span></td><td>' + fmtDate(t.due) + '</td><td>' + t.type + '</td>';
+      tb.appendChild(tr);
+    });
+  }
+  function fmtDate(d) { var p = d.split('-'); return p[2] + ' ก.ย. ' + p[0]; }
+  function renderBoard() {
+    var wrap = document.getElementById('boardCols');
+    wrap.innerHTML = '';
+    ['todo', 'doing', 'done'].forEach(function (st) {
+      var col = el('div');
+      col.appendChild(el('h4', '', stMap[st][0] + ' (' + tasks.filter(function (t) { return t.status === st; }).length + ')'));
+      tasks.filter(function (t) { return t.status === st; }).forEach(function (t) {
+        var c = el('div', 'card');
+        c.style.margin = '8px 0';
+        c.appendChild(el('h4', '', t.name));
+        var chip = el('span', 'status-chip ' + stMap[st][1], t.type);
+        var sub = el('p', '', ''); sub.appendChild(chip);
+        c.appendChild(sub);
+        col.appendChild(c);
+      });
+      wrap.appendChild(col);
+    });
+  }
+  function renderCal() {
+    var wrap = document.getElementById('calGrid');
+    wrap.innerHTML = '';
+    [4, 5, 6, 7, 8, 9, 10].forEach(function (day) {
+      var cell = el('div', 'card');
+      cell.style.margin = '0';
+      cell.style.minHeight = '110px';
+      cell.appendChild(el('h4', '', 'ก.ย. ' + day));
+      tasks.filter(function (t) { return dayMap[t.due] === day; }).forEach(function (t) {
+        cell.appendChild(el('p', '', '• ' + t.name));
+      });
+      wrap.appendChild(cell);
+    });
+  }
+  document.querySelectorAll('.db-tab').forEach(function (tab) {
+    tab.addEventListener('click', function () {
+      document.querySelectorAll('.db-tab').forEach(function (t) { t.classList.remove('active'); });
+      tab.classList.add('active');
+      ['table', 'board', 'calendar'].forEach(function (v) {
+        document.getElementById('view-' + v).style.display = (v === tab.dataset.view) ? '' : 'none';
+      });
+    });
+  });
+  renderTable(); renderBoard(); renderCal();
+
+  /* ---------- Templates gallery ---------- */
+  var tpls = [
+    { icon: '📋', name: 'Daily To-Do', desc: 'database + view "วันนี้" กรองเฉพาะงานวันปัจจุบัน', start: 'พิมพ์ /todo ในหน้าหลัก → อัปเกรดเป็น database → เพิ่ม view แบบ calendar' },
+    { icon: '🎯', name: 'Habit Tracker', desc: 'ตาราง 1 แถว/วัน + checkbox ต่อนิสัย + formula นับ %', start: 'สร้าง table database คอลัมน์เป็น checkbox ของแต่ละนิสัย' },
+    { icon: '📚', name: 'Reading List', desc: 'รายการหนังสือ/หนัง + สถานะ + คะแนน + บันทึกย่อ', start: 'table พร้อม Select: อยากอ่าน/กำลังอ่าน/อ่านจบ + Rating (1-5)' },
+    { icon: '💰', name: 'Expense Tracker', desc: 'บันทึกรายรับรายจ่าย + หมวดหมู่ + สรุปรายเดือนด้วย formula', start: 'table มี Number: จำนวนเงิน, Select: หมวด, Date: วันที่' },
+    { icon: '🍳', name: 'Recipe Box', desc: 'สูตรอาหารเป็นหน้า ๆ + วัตถุดิบ + link ไป shopping list', start: 'ทุกสูตรเป็นหน้าใน database เดียว ใช้ property คั่นมื้อเช้า/กลางวัน/เย็น' },
+    { icon: '🧠', name: 'Second Brain', desc: 'เก็บไอเดีย/ลิงก์/โน้ต ตามวิธี PARA (Projects, Areas, Resources, Archive)', start: 'หน้าหลัก 4 ส่วน แต่ละส่วนเป็น database แยก — เริ่มเล็ก ๆ ก่อน' }
+  ];
+  var tplGrid = document.getElementById('tplGrid');
+  tpls.forEach(function (t) {
+    var c = el('div', 'card tpl');
+    c.tabIndex = 0;
+    var ic = el('span', 'em', t.icon);
+    var more = el('div', '');
+    more.style.display = 'none';
+    more.style.marginTop = '8px';
+    more.appendChild(el('div', 'hint', 'เริ่มต้น: ' + t.start));
+    c.appendChild(ic);
+    c.appendChild(el('h4', '', t.name));
+    var p = el('p', '', t.desc); c.appendChild(p);
+    c.appendChild(more);
+    function toggle() { more.style.display = more.style.display === 'none' ? '' : 'none'; }
+    c.addEventListener('click', toggle);
+    c.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggle(); } });
+    tplGrid.appendChild(c);
+  });
+
+  /* ---------- Shortcuts ---------- */
+  var shortcuts = [
+    { keys: ['Ctrl/Cmd', 'K'], desc: 'ค้นหา / กระโดดไปหน้าไหนก็ได้' },
+    { keys: ['Ctrl/Cmd', 'N'], desc: 'สร้างหน้าใหม่' },
+    { keys: ['/'], desc: 'เปิดเมนูบล็อกทั้งหมด' },
+    { keys: ['[['], desc: 'ลิงก์ไปหน้าอื่น (พิมพ์ในบล็อก)' },
+    { keys: ['Ctrl/Cmd', 'Shift', 'N'], desc: 'เปิดหน้าต่าง Notion แบบเต็มจอ (desktop)' },
+    { keys: ['Ctrl/Cmd', 'B'], desc: 'ตัวหนา' },
+    { keys: ['Ctrl/Cmd', 'I'], desc: 'ตัวเอียง' },
+    { keys: ['Ctrl/Cmd', 'E'], desc: 'โค้ด (inline code)' },
+    { keys: ['Tab'], desc: 'ทำบล็อกปัจจุบันเป็นหน้าย่อยของบล็อกบน' },
+    { keys: ['Ctrl/Cmd', 'Shift', '←/→'], desc: 'เปลี่ยนขนาดหัวข้อ (H1↔H2↔H3)' },
+    { keys: ['Ctrl/Cmd', 'D'], desc: 'ทำซ้ำบล็อกปัจจุบัน' },
+    { keys: ['Esc'], desc: 'เลือกบล็อกปัจจุบัน (ก่อนลบ/ย้าย)' }
+  ];
+  var scList = document.getElementById('scList');
+  shortcuts.forEach(function (s) {
+    var r = el('div', 'shortcut-row');
+    r.tabIndex = 0;
+    var d = el('span', '', s.desc);
+    var k = el('div', 'keys');
+    s.keys.forEach(function (key, i) {
+      if (i) k.appendChild(document.createTextNode('+'));
+      k.appendChild(el('kbd', '', key));
+    });
+    r.appendChild(d); r.appendChild(k);
+    scList.appendChild(r);
+  });
+
+  /* ---------- Checklist ---------- */
+  var clItems = [
+    { t: 'สร้างหน้าหลัก "🏠 ชีวิตฉัน" พร้อม icon + cover', s: 'รวมทุกอย่างไว้ที่เดียวก่อน ค่อยแยกทีหลัง' },
+    { t: 'ลองพิมพ์ / แล้วสร้างบล็อกอย่างน้อย 4 ชนิด', s: 'ในหน้าจริง หรือในเดโมหัวข้อ 03 ของหน้านี้' },
+    { t: 'สร้าง database แรก — to-do list', s: 'พิมพ์ /table แล้วเพิ่ม column: สถานะ, วันครบกำหนด' },
+    { t: 'สร้าง view ที่สองจาก database เดิม', s: 'เช่น เพิ่ม view แบบ Board จัดตามสถานะ' },
+    { t: 'ลิงก์ข้ามหน้าด้วย [[ อย่างน้อย 3 ลิงก์', s: 'เช่มโยงโน้ตงานกับโปรเจกต์' },
+    { t: 'ติดตั้งแอปมือถือ + ล็อกอิน', s: 'ให้จดไอเดียได้ทุกที่ — ครึ่งหนึ่งของพลัง Notion อยู่ที่นี่' },
+    { t: 'กด Ctrl/Cmd+K ค้นหาหน้าที่สร้างไป', s: 'พิสูจน์ว่าเก็บแล้วหาเจอจริง' },
+    { t: 'ล็อกระบบ 1 อย่างที่จะใช้ทุกวันต่อไป', s: 'เลือก 1 template จากหัวข้อ 05 แล้วใช้จริง 7 วัน' }
+  ];
+  var clState = store.get('checklist', clItems.map(function () { return false; }));
+  var clBox = document.getElementById('checklist');
+  clItems.forEach(function (item, i) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'check' + (clState[i] ? ' on' : '');
+    var cb = el('div', 'cb');
+    var wrap = el('div', 'txt');
+    wrap.appendChild(el('div', '', (i + 1) + '. ' + item.t));
+    wrap.appendChild(el('small', '', item.s));
+    b.appendChild(cb); b.appendChild(wrap);
+    b.addEventListener('click', function () {
+      clState[i] = !clState[i];
+      b.classList.toggle('on', clState[i]);
+      store.set('checklist', clState);
+      updateProgress();
+    });
+    clBox.appendChild(b);
+  });
+  function updateProgress() {
+    var done = clState.filter(Boolean).length;
+    var pct = Math.round(done / clState.length * 100);
+    document.getElementById('fill').style.width = pct + '%';
+    document.getElementById('pct').textContent = pct + '%';
+    document.getElementById('pcount').textContent = 'ทำเช็คลิสต์ไปแล้ว ' + done + '/' + clState.length;
+  }
+  updateProgress();
+  document.getElementById('resetAll').addEventListener('click', function () {
+    clState = clItems.map(function () { return false; });
+    store.set('checklist', clState);
+    store.set('demo', []);
+    blocksEl.innerHTML = ''; refreshCount();
+    document.querySelectorAll('.check').forEach(function (c) { c.classList.remove('on'); });
+    updateProgress();
+  });
+
+  /* ---------- Quiz ---------- */
+  var quiz = [
+    {
+      q: '1) ต้องการสร้างหัวข้อใหญ่ในหน้า Notion ควรพิมพ์อะไร?',
+      opts: ['# แล้วเว้นวรรค', '/ แล้วเลือก Heading', 'ทั้งสองแบบถูกต้อง'],
+      a: 2,
+      fb: 'ถูก! พิมพ์ # + space ก็ได้ (Markdown shortcut) หรือพิมพ์ / แล้วเลือก Heading ก็ได้ — สองทางเลือกเดียวกัน'
+    },
+    {
+      q: '2) มี to-do database อยู่แล้ว อยากดูเป็นบอร์ดแบบ Kanban ต้องทำยังไง?',
+      opts: ['สร้าง database ใหม่แบบ Board แล้ว copy งานมา', 'เพิ่ม view ใหม่แบบ Board ใน database เดิม', 'เปิดในแอปอื่น'],
+      a: 1,
+      fb: 'ถูก! Database หนึ่งอันมีได้หลาย view — ข้อมูลชุดเดียวกัน แค่สลับมุมมอง (ลองกด tab ในเดโมหัวข้อ 04)'
+    },
+    {
+      q: '3) ข้อมูลชุดไหนเหมาะเป็น database มากที่สุด?',
+      opts: ['ไดอารี่รายวัน', 'รายการหนังสือที่อ่าน + สถานะ + คะแนน', 'โน้ตไอเดียอิสระ'],
+      a: 1,
+      fb: 'ถูก! อะไรที่มี "โครงสร้างซ้ำ ๆ" (ชื่อ + สถานะ + วันที่ + คะแนน) คืองานของ database — ไดอารี่กับโน้ตอิสระใช้หน้าธรรมดาดีกว่า'
+    }
+  ];
+  var qBox = document.getElementById('quizBox');
+  quiz.forEach(function (item) {
+    var c = el('div', 'card');
+    c.appendChild(el('div', 'quiz-q', item.q));
+    var opts = el('div', 'quiz-opts');
+    var fb = el('div', 'quiz-fb', item.fb);
+    item.opts.forEach(function (o, i) {
+      var lab = document.createElement('label');
+      var inp = document.createElement('input');
+      inp.type = 'radio'; inp.name = 'q' + item.q.charAt(0);
+      lab.appendChild(inp);
+      lab.appendChild(document.createTextNode(o));
+      inp.addEventListener('change', function () {
+        Array.prototype.forEach.call(opts.children, function (l, j) {
+          l.classList.remove('correct', 'wrong');
+          if (j === item.a) l.classList.add('correct');
+          else if (j === i) l.classList.add('wrong');
+        });
+        fb.classList.add('show');
+      });
+      opts.appendChild(lab);
+    });
+    c.appendChild(opts); c.appendChild(fb);
+    qBox.appendChild(c);
+  });
+})();
+</script>
+</body>
+</html>
