@@ -13,8 +13,15 @@
   - Venv: `~/ComfyUI/.venv` (Python 3.12, สร้างด้วย uv)
   - torch **2.14.0+cu130** + torchvision 0.29.0 — **CUDA verify ผ่าน** (2 GPUs, dev0 = RTX 5060 Ti, compute cap 12.0/Blackwell)
   - `requirements.txt` install เสร็จ
-  - Models: **0/8 เสร็จ** (download ทั้งหมดถูกลบทิ้ง เพราะ script รันซ้อน 2 ตัวเขียนทับไฟล์ .part เดียวกัน → corrupt)
+  - Models: **0/8 เสร็จ → download resume 2026-09-05** (background job, single instance)
   - Download script สำรอง: `~/ComfyUI/download_models.sh` — **resumable** (curl -C -) รันซ้ำได้ปลอดภัย
+  - **⚠️ URL แก้แล้ว 2026-09-05** — 5 ไฟล์ baseline ใช้ URL เดิมผิด (404/401) แก้แล้ว:
+    - z_image VAE: จริงชื่อ `ae.safetensors` (save as z_image_vae)
+    - clip_vision_g: repo `comfyanonymous/clip_vision_g` (ไม่ใช่ hubert23)
+    - IPAdapter plus/standard: `h94/IP-Adapter/sdxl_models/` (ไม่ใช่ models/)
+    - faceid plusv2 sdxl lora: `h94/IP-Adapter-FaceID/` (แยก repo)
+    - fix job: `~/ComfyUI/download_models_fix.sh` (rerun 5 ไฟล์นี้)
+  - **Extras (2026-09-05): `~/ComfyUI/download_models_extra.sh`** — Wan2.2 5B fp8, umt5 fp8, wan2.2_vae, flux1-dev-fp8, controlnet union sdxl, RealESRGAN x4plus, antelopev2 (URLs verify ผ่าน HF tree API) — extras 19.6GB + antelopev2 360MB
 
 ## Open Tasks
 - **DONE (2026-09-05): Ollama laptop/portable local-LLM draft (part 1, laptop angle)** — research primary (ollama.com + docs.ollama.com quickstart/gpu/macos/windows/context-length/pricing) + draft ลง Content Drafts DB:
@@ -27,15 +34,7 @@
   - Notion page: `3d1df8d8-8d8c-815e-9bcf-d1ed68a2b49d` (46 blocks, verify read-back ครบ — 2 ตาราง + hashtags + social footer; URL: https://app.notion.com/p/AutoClaw-ZCode-2-1-Workflow-Design-Deploy-draft-3d1df8d88d8c815e9bcfd1ed68a2b49d)
   - ไฟล์: `content-study/posts/20260904-cnt-autoclaw-zcode-combo.md` (push 90812fc)
   - มุม: "2 เครื่องมือ 1 แผน" — GLM Coding Plan เป็น shared subscription layer ของ ZCode + AutoClaw + Claude Code; workflow design->code (ZCode Goal Mode) -> deploy/verify/content ops (AutoClaw) -> สั่งจากมือถือทั้งคู่; pricing Lite $12.6/Pro $56/Max $117.6 (โปร 20%); cons: vendor lock-in, "local" != data-stays-local, access contract แยก
-- **ComfyUI models (8 ไฟล์) — รอ restart แล้ว resume:**
-  1. `checkpoints/sd_xl_base_1.0.safetensors` (6.9G) ← huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
-  2. `diffusion_models/z_image_turbo_bf16.safetensors` ← huggingface.co/Comfy-Org/z_image_turbo/.../split_files/diffusion_models/
-  3. `text_encoders/qwen_3_4b.safetensors` ← Comfy-Org/z_image_turbo .../text_encoders/
-  4. `vae/z_image_vae.safetensors` ← Comfy-Org/z_image_turbo .../vae/
-  5. `clip_vision/clip_vision_g.safetensors` ← hubert23/clip_vision_g
-  6. `ipadapter/ip-adapter-plus_sdxl_vit-h.safetensors` ← h94/IP-Adapter/models/
-  7. `ipadapter/ip-adapter_sdxl_vit-h.safetensors` ← h94/IP-Adapter/models/
-  8. `ipadapter/ip-adapter-faceid-plusv2_sdxl_lora.safetensors` ← h94/IP-Adapter/models/
+- **Models (2026-09-05 ~17:40):** โหลดเสร็จ 3 — sd_xl_base (6.5G), z_image_turbo_bf16 (12G), wan2.2_ti2v_5B_fp8 (4.7G). กำลังโหลด 2 — qwen_3_4b (3.2/~4.2G), umt5_xxl_fp8 (2.2/~6.7G). ยังไม่เริ่ม ~13G: z_image_vae (จำเป็นสำหรับ Z-Image), clip_vision_g, IP-Adapter ×3, flux1-dev-fp8, controlnet_union_sdxl, RealESRGAN, antelopev2. ทั้ง 2 script รันอยู่ (main PID 934365, extras PID 985052), รวม ~3.5-4 ชม. จะครบ
 - หลัง models ครบ: เริ่ม ComfyUI ตาม KB — port **8188**, ComfyUI ใช้ **GPU 0**, Hermes LLM ใช้ GPU 1
   - `cd ~/ComfyUI && .venv/bin/python main.py --listen 0.0.0.0 --port 8188`
 - Resume command (รันตัวเดียวเท่านั้น!): `cd ~/ComfyUI && nohup bash download_models.sh > /tmp/models_download.log 2>&1 &`
