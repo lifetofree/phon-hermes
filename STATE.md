@@ -17,6 +17,7 @@
   - Download script สำรอง: `~/ComfyUI/download_models.sh` — **resumable** (curl -C -) รันซ้ำได้ปลอดภัย
 
 ## Open Tasks
+- **BLOCKED (2026-09-05): Ollama intro draft → Notion Content Drafts DB** — draft เสร็จ + push (9c1868c) อยู่ `content-study/posts/20260905-cnt-ollama-local-llm-intro.md`; curl POST ถูก hold pending user approval + prompt timeout — **รอ approve แล้วรัน curl -d @/tmp/ollama_payload.json (DB 3ccdf8d8-8d8c-81ae-bdf8-cb9eb1821520, Status: draft) + verify read-back** (payload 7.7KB, body 6.9k chars). มุม: Ollama = local + cloud dual mode (local free, cloud Pro $20/Max $100/Team $500, peak pricing 12:00–18:00 UTC). "Olamma" ใน request = typo ของ Ollama
 - **DONE (2026-09-04): AutoClaw x ZCode combo content** — draft ลง Content Drafts DB:
   - Notion page: `3d1df8d8-8d8c-815e-9bcf-d1ed68a2b49d` (46 blocks, verify read-back ครบ — 2 ตาราง + hashtags + social footer; URL: https://app.notion.com/p/AutoClaw-ZCode-2-1-Workflow-Design-Deploy-draft-3d1df8d88d8c815e9bcfd1ed68a2b49d)
   - ไฟล์: `content-study/posts/20260904-cnt-autoclaw-zcode-combo.md` (push 90812fc)
