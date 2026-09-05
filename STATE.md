@@ -17,7 +17,12 @@
   - Download script สำรอง: `~/ComfyUI/download_models.sh` — **resumable** (curl -C -) รันซ้ำได้ปลอดภัย
 
 ## Open Tasks
-- **BLOCKED (2026-09-05): Ollama intro draft → Notion Content Drafts DB** — draft เสร็จ + push (9c1868c) อยู่ `content-study/posts/20260905-cnt-ollama-local-llm-intro.md`; curl POST ถูก hold pending user approval + prompt timeout — **รอ approve แล้วรัน curl -d @/tmp/ollama_payload.json (DB 3ccdf8d8-8d8c-81ae-bdf8-cb9eb1821520, Status: draft) + verify read-back** (payload 7.7KB, body 6.9k chars). มุม: Ollama = local + cloud dual mode (local free, cloud Pro $20/Max $100/Team $500, peak pricing 12:00–18:00 UTC). "Olamma" ใน request = typo ของ Ollama
+- **DONE (2026-09-05): Ollama laptop/portable local-LLM draft (part 1, laptop angle)** — research primary (ollama.com + docs.ollama.com quickstart/gpu/macos/windows/context-length/pricing) + draft ลง Content Drafts DB:
+  - Notion page: `3d2df8d8-8d8c-81dc-87db-fbc91cf9e1d1` (60 blocks, has_more=False, Status: draft — verify read-back ครบ: h1+h2, 1 hardware table, closing, hashtags; URL: https://app.notion.com/p/Ollama-Local-LLM-laptop-AI-offline-portable-3d2df8d88d8c81dc87dbfbc91cf9e1d1)
+  - ไฟล์: `content-study/posts/20260905-cnt-ollama-local-llm-laptop-portable.md` (push 2743a43)
+  - มุม (ตามที่ user สั่ง): NOT server — "laptop ตัวเอง พก LocalLLM ไปได้ทุกที่" offline + private + portable; hardware table (Apple M / RTX / CPU-only), quantization, battery/disk cons; part 2 = server/datacenter angle (pending)
+  - "Olamma" ใน request = typo ของ Ollama (disambiguated)
+  - Note: part 1 มีอีกไฟล์ `20260905-cnt-ollama-local-llm-intro.md` (push 9c1868c) = intro/generic angle, ยังไม่ได้ลง Notion (รอ user ตัดสินใจ)
 - **DONE (2026-09-04): AutoClaw x ZCode combo content** — draft ลง Content Drafts DB:
   - Notion page: `3d1df8d8-8d8c-815e-9bcf-d1ed68a2b49d` (46 blocks, verify read-back ครบ — 2 ตาราง + hashtags + social footer; URL: https://app.notion.com/p/AutoClaw-ZCode-2-1-Workflow-Design-Deploy-draft-3d1df8d88d8c815e9bcfd1ed68a2b49d)
   - ไฟล์: `content-study/posts/20260904-cnt-autoclaw-zcode-combo.md` (push 90812fc)
