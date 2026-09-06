@@ -2038,5 +2038,37 @@
     "link": "",
     "words": 860,
     "file": "/home/lifetofree/hermes-agent/content-study/posts/20260906-cnt-system-audit-foibles-scan.md"
+  },
+  {
+    "slug": "9router-keyring-security",
+    "title": "9Router: เครื่องมือที่เก็บ API keys ของคุณ — เคยเช็คไหมว่ามันรั่ว?",
+    "date": "2026-09-03T10:32:42",
+    "link": "https://wp.adduckivity.com/9router-keyring-security/",
+    "words": 655,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/9router-keyring-security.md"
+  },
+  {
+    "slug": "20260904-cnt-tailscale-serve-local-llm",
+    "title": "LocalLLM, GPU อยู่ที่บ้าน แต่อยากแบกเป้เที่ยว แล้วงานไม่เสีย — จัดการได้ด้วย Tailscale serve",
+    "date": "2026-09-04T16:10:49",
+    "link": "https://wp.adduckivity.com/20260904-cnt-tailscale-serve-local-llm/",
+    "words": 773,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/20260904-cnt-tailscale-serve-local-llm.md"
+  },
+  {
+    "slug": "20260905-cnt-autoclaw-one-click-ai-agent",
+    "title": "AutoClaw — AI Agent ที่แค่กด Install ทีเดียว แล้วออกลุยได้เลย",
+    "date": "2026-09-05T14:25:28",
+    "link": "https://wp.adduckivity.com/20260905-cnt-autoclaw-one-click-ai-agent/",
+    "words": 1449,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/20260905-cnt-autoclaw-one-click-ai-agent.md"
+  },
+  {
+    "slug": "20260906-cnt-autoclaw-zcode-workflow",
+    "title": "AutoClaw x ZCode: 2 เครื่องมือ 1 แผน — Workflow ตั้งแต่ Design ถึง Deploy",
+    "date": "2026-09-06T19:01:42",
+    "link": "https://wp.adduckivity.com/20260906-cnt-autoclaw-zcode-workflow/",
+    "words": 676,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/20260906-cnt-autoclaw-zcode-workflow.md"
   }
 ]
