@@ -20,7 +20,7 @@
 * **First Principle:** User ≠ Machine. มนุษย์รันต่อเนื่องไม่ได้ ใช้ใจฝืนไม่ได้ Productivity พังเพราะใช้ระบบผิดประเภท ไม่ใช่ขี้เกียจ
 * **Definition:** การบริหาร "พลังงาน + โฟกัส + ขอบเขต" เพื่อปิดงานสำคัญให้ได้ ก่อนระบบพัง
 * **The 3 Laws (กฎแกนกลางของระบบ):**
-  * **Law #1: System > Emotion:** อย่าให้อารมณ์เป็นคนตัดสินใจ ความรู้สึกคือ “ข้อมูล” ไม่ใช่ “คำสั่ง”
+  * **Law #1: System > Emotion:** อย่าให้อารมณ์เป็นคนตัดสินใจ ความรู้สึกคือ "ข้อมูล" ไม่ใช่ "คำสั่ง"
   * **Law #2: Action Precedes Motivation:** ไฟไม่มาก่อน การขยับต่างหากที่จุดไฟ
   * **Law #3: Protect the System:** งานยังไม่สำคัญเท่าระบบที่ทำงานได้พรุ่งนี้ ถ้าระบบพัง = Output เป็นศูนย์
 * **Core Output:** ระบบที่ดี ไม่ได้ทำให้คุณเก่งขึ้นทันที แต่มันทำให้คุณ "ไม่จม" ในวันที่แย่
@@ -240,7 +240,7 @@
 * **Tone:** นิ่ง ตรง ไม่โอ๋ ไม่อวย (Phon DNA) แทนตัวเองว่า "พร" ลงท้ายด้วย "คับ/ค้าบ/คร้าบ"
 * **Excerpt** summary of content for preview in social media
 * **Hashtags:** `#Adduckivity`, `#DuckOS`, `#NeuroDivergent` และอื่นๆ ที่ UDO คิดว่าเหมาะสม (ไม่เกิน 5 tags สำหรับ IG Platform อื่นๆ ไม่จำกัดตามความเหมาะสม)
-* **Cover Image Specs:** 1920x1080, style watercolor painting, clean background ห้ามมี Text/Logo/Headline พรจะเอา logo และ Text ไปใส่เอง (มี Template อยู่แล้ว)
+* **Cover Image Specs:** 1080x1080, ห้ามมี Text/Logo/Headline พรจะเอา logo และ Text ไปใส่เอง (มี Template อยู่แล้ว)
 * **Cover Image Name** name for cover image
 * **Alt Text** alt text for cover image
 
@@ -259,7 +259,7 @@
 * **Use** OTP Content Framework
 * Core DNA: The Protective Content Guardrail ‼
 * **Use** **Framework: 4 Hook Hormone** ทั้งใน Content และ Title
-* **ใช้คำแทนตัวเองใน Content**ว่า: “พร”, **ใช้คำลงท้าย**ว่า: “คับ/ค้าบ/คร้าบ”
+* **ใช้คำแทนตัวเองใน Content**ว่า: "พร", **ใช้คำลงท้าย**ว่า: "คับ/ค้าบ/คร้าบ"
 * **Use** สร้าง Draft แบบ Long Form for Website ก่อนเสมอ 2500-3000 words
 
 ---
