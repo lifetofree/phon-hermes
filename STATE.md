@@ -22,6 +22,7 @@
     - faceid plusv2 sdxl lora: `h94/IP-Adapter-FaceID/` (แยก repo)
     - fix job: `~/ComfyUI/download_models_fix.sh` (rerun 5 ไฟล์นี้)
   - **Extras (2026-09-05): `~/ComfyUI/download_models_extra.sh`** — Wan2.2 5B fp8, umt5 fp8, wan2.2_vae, flux1-dev-fp8, controlnet union sdxl, RealESRGAN x4plus, antelopev2 (URLs verify ผ่าน HF tree API) — extras 19.6GB + antelopev2 360MB
+- **DONE (2026-09-06 11:13): Models ครบทั้ง set** — ALL_DONE 11:13 (+07). baseline 8 + extras 7 ครบ (verify ls ครบ 14 ไฟล์ + antelopev2): sd_xl_base 6.9G, z_image_turbo_bf16 12G, qwen_3_4b 8G, z_image_vae 335M, clip_vision_g 3.7G, ip-adapter plus 847M / standard 698M / faceid lora 371M, wan2.2 4.7G, umt5 fp8 6.7G, wan2.2_vae 1.4G, flux1-dev-fp8 11.9G, controlnet_union_sdxl 2.5G, RealESRGAN 67MB, antelopev2 360MB
 
 ## Open Tasks
 - **DONE (2026-09-05): Ollama laptop/portable local-LLM draft (part 1, laptop angle)** — research primary (ollama.com + docs.ollama.com quickstart/gpu/macos/windows/context-length/pricing) + draft ลง Content Drafts DB:

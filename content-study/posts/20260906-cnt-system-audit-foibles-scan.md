@@ -2,9 +2,9 @@
 ContentID: (pending)
 Title: System Audit: ทำไม "การสารภาพความจริง" คือ Diagnostic Tool ที่ซ่อมสมองได้ดีที่สุด
 Slug: system-audit-foibles-scan
-Type: Core Content (Long Form 2500-3000 words)
+Type: Core Content (System / Mindset — ~860 words)
 Law: Law 1 System > Emotion / Law 3 Protect System
-Series: Dopamine Nation (part 2; related social: radical-honesty-patch 2026-03-07)
+Series: standalone (Dopamine Nation Ch.8; ref: radical-honesty-patch social post)
 Status: draft
 Date: 2026-09-06
 Sources (verified 2026-09-06):
