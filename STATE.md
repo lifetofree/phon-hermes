@@ -25,6 +25,11 @@
 - **DONE (2026-09-06 11:13): Models ครบทั้ง set** — ALL_DONE 11:13 (+07). baseline 8 + extras 7 ครบ (verify ls ครบ 14 ไฟล์ + antelopev2): sd_xl_base 6.9G, z_image_turbo_bf16 12G, qwen_3_4b 8G, z_image_vae 335M, clip_vision_g 3.7G, ip-adapter plus 847M / standard 698M / faceid lora 371M, wan2.2 4.7G, umt5 fp8 6.7G, wan2.2_vae 1.4G, flux1-dev-fp8 11.9G, controlnet_union_sdxl 2.5G, RealESRGAN 67MB, antelopev2 360MB
 
 ## Open Tasks
+- **DONE (2026-09-07): Snapzy (snapzy.app) intro long-form draft** — research primary (snapzy.app site, docs getting-started, GitHub README/release v1.31.0 API, macmenubar.app, CleanShot X pricing Aug 2026) + draft ลง Content Drafts DB:
+  - Notion page: `3d4df8d8-8d8c-81f2-b274-da7e704aa141` (59 blocks, has_more=False, Status: draft — verify read-back ครบทุก section + hashtags; URL: https://app.notion.com/p/Snapzy-Mac-open-source-CleanShot-X-29-long-form-3d4df8d88d8c81f2b274da7e704aa141)
+  - ไฟล์: `content-study/posts/20260907-cnt-snapzy-macos-screenshot-intro.md` (push b69782a)
+  - มุม: "CleanShot X แต่ $0" — free OSS (BSD-3), 3,068 stars, crowdfund $99 Apple Dev Program goal, BYO S3/R2 cloud, OCR/auto-redaction, macOS 13+; cons: project 8 เดือน, cloud DIY, no Thai UI, single maintainer
+  - Disambiguation: "Snapzy" มี 3 ตัว — user clarify timeout → เลือก snapzy.app (recommend) ตาม style guide audience
 - **DONE (2026-09-05): Ollama laptop/portable local-LLM draft (part 1, laptop angle)** — research primary (ollama.com + docs.ollama.com quickstart/gpu/macos/windows/context-length/pricing) + draft ลง Content Drafts DB:
   - Notion page: `3d2df8d8-8d8c-81dc-87db-fbc91cf9e1d1` (60 blocks, has_more=False, Status: draft — verify read-back ครบ: h1+h2, 1 hardware table, closing, hashtags; URL: https://app.notion.com/p/Ollama-Local-LLM-laptop-AI-offline-portable-3d2df8d88d8c81dc87dbfbc91cf9e1d1)
   - ไฟล์: `content-study/posts/20260905-cnt-ollama-local-llm-laptop-portable.md` (push 2743a43)
@@ -48,6 +53,7 @@
 - huggingface.co จากเครื่องนี้ ~1.5 MB/s — ถ้าช้าให้ลอง mirror `hf-mirror.com` แทน `huggingface.co` ใน URL (path เดียวกัน)
 
 ## Recent Activity
+- 2026-09-06: **Weekly WP archive sync ตั้งแล้ว** — cron `972b24976bf0` "weekly-wp-archive-sync" (no_agent=true, script-only, free token) ทุกวันอาทิตย์ 10:00 +07; script `~/.hermes/scripts/sync_wp_posts.py`: fetch wp.adduckivity.com via WP REST API (paginated) → diff slug vs `content-study/index.json` → post ใหม่ save เป็น markdown ที่ `content-study/web-archive/<slug>.md` (header มี title/date/link) + append index.json (link = live URL) + git commit+push. Watchdog: ถ้าไม่มี post ใหม่ = silent (no delivery). ทดสอบจริงวันตั้ง: archive 4 post (9router, tailscale-serve, autoclaw x2) — index.json 259. ถ้าเว็บ add post ระหว่างสัปดาห์ job จะเก็บรอบถัดไป
 - 2026-09-06: Content draft **System Audit (Dopamine Nation Ch.8)** — standalone (ไม่ผูก series ตาม user), ~860 words, มุม "The System Audit = Truthful Autobiography + scan Foibles" (ไม่ซ้ำ radical-honesty-patch เดิม: มี protocol AUDIT-08 3-step + case Maria + 4 checks); ไฟล์ `content-study/posts/20260906-cnt-system-audit-foibles-scan.md` (push b7b00d9) + index.json (255); ลง Content Drafts DB page `3d3df8d8-8d8c-8151-8d6f-ff05152550c2` (Status: draft, verify read-back 115 blocks ครบ + closing hashtags)
 - 2026-09-06: ComfyUI models ครบทั้ง set (14 ไฟล์ + antelopev2) — ALL_DONE 11:13
 - 2026-09-04: AutoClaw x ZCode combo draft เสร็จ — research primary (zcode.z.ai/en, docs.z.ai setup, Goal Mode, Bot Channel, autoclaw.z.ai quota boost) + daisuke.masuda.tokyo stack overview; draft "2 เครื่องมือ 1 แผน" ลง Content Drafts DB (page 3d1df8d8-8d8c-815e-9bcf-d1ed68a2b49d, verify read-back 46 blocks + ตาราง 2 ตัว ครบ); ไฟล์ posts/20260904-cnt-autoclaw-zcode-combo.md push 90812fc; Notion pitfall ใหม่: POST /v1/pages ใส่ `children: []` ควบกับ `markdown` = 400 — ใช้ `markdown` อย่างเดียว
