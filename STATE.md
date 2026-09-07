@@ -25,6 +25,10 @@
 - **DONE (2026-09-06 11:13): Models ครบทั้ง set** — ALL_DONE 11:13 (+07). baseline 8 + extras 7 ครบ (verify ls ครบ 14 ไฟล์ + antelopev2): sd_xl_base 6.9G, z_image_turbo_bf16 12G, qwen_3_4b 8G, z_image_vae 335M, clip_vision_g 3.7G, ip-adapter plus 847M / standard 698M / faceid lora 371M, wan2.2 4.7G, umt5 fp8 6.7G, wan2.2_vae 1.4G, flux1-dev-fp8 11.9G, controlnet_union_sdxl 2.5G, RealESRGAN 67MB, antelopev2 360MB
 
 ## Open Tasks
+- **DONE (2026-09-07): Ollama local-LLM part 2 — server/datacenter angle** — research primary (docs.ollama.com/api: base URL localhost:11434, OpenAI/Anthropic-compatible, /api/chat|generate|embed; /docker: NVIDIA Container Toolkit + --gpus=all, rocm tag, Vulkan bundled; /gpu: compute cap 5.0+, multi-GPU CUDA_VISIBLE_DEVICES by UUID, GPU list 50xx→V100) + draft ลง Content Drafts DB:
+  - Notion page: `3d4df8d8-8d8c-8139-a89f-cf4038cbdde0` (71 blocks, has_more=False, Status: draft — verify read-back ครบ; URL: https://app.notion.com/p/Ollama-Local-LLM-on-Server-AI-Infrastructure-part-2-server-datacenter-3d4df8d88d8c8139a89fcf4038cbdde0)
+  - ไฟล์: `content-study/posts/20260907-cnt-ollama-local-llm-server-datacenter.md` (push e1750cb)
+  - มุม: "ทีม 5-50 คน build AI infra ของตัวเอง" — per-token $0, OpenAI/Anthropic-compatible API (zero code change), multi-GPU scheduling, Docker prod pattern, capex $2-3.5k (1×4090), cons: admin 2-4hr/week, uptime your problem, no multi-tenancy, open < closed frontier; เทียบ 4 ทาง (Ollama server / cloud API / vLLM-TGI / Ollama cloud tier)
 - **DONE (2026-09-07): Snapzy (snapzy.app) intro long-form draft** — research primary (snapzy.app site, docs getting-started, GitHub README/release v1.31.0 API, macmenubar.app, CleanShot X pricing Aug 2026) + draft ลง Content Drafts DB:
   - Notion page: `3d4df8d8-8d8c-81f2-b274-da7e704aa141` (59 blocks, has_more=False, Status: draft — verify read-back ครบทุก section + hashtags; URL: https://app.notion.com/p/Snapzy-Mac-open-source-CleanShot-X-29-long-form-3d4df8d88d8c81f2b274da7e704aa141)
   - ไฟล์: `content-study/posts/20260907-cnt-snapzy-macos-screenshot-intro.md` (push b69782a)
@@ -33,7 +37,7 @@
 - **DONE (2026-09-05): Ollama laptop/portable local-LLM draft (part 1, laptop angle)** — research primary (ollama.com + docs.ollama.com quickstart/gpu/macos/windows/context-length/pricing) + draft ลง Content Drafts DB:
   - Notion page: `3d2df8d8-8d8c-81dc-87db-fbc91cf9e1d1` (60 blocks, has_more=False, Status: draft — verify read-back ครบ: h1+h2, 1 hardware table, closing, hashtags; URL: https://app.notion.com/p/Ollama-Local-LLM-laptop-AI-offline-portable-3d2df8d88d8c81dc87dbfbc91cf9e1d1)
   - ไฟล์: `content-study/posts/20260905-cnt-ollama-local-llm-laptop-portable.md` (push 2743a43)
-  - มุม (ตามที่ user สั่ง): NOT server — "laptop ตัวเอง พก LocalLLM ไปได้ทุกที่" offline + private + portable; hardware table (Apple M / RTX / CPU-only), quantization, battery/disk cons; part 2 = server/datacenter angle (pending)
+  - มุม (ตามที่ user สั่ง): NOT server — "laptop ตัวเอง พก LocalLLM ไปได้ทุกที่" offline + private + portable; hardware table (Apple M / RTX / CPU-only), quantization, battery/disk cons; **part 2 DONE 2026-09-07** (server/datacenter angle — see below)
   - "Olamma" ใน request = typo ของ Ollama (disambiguated)
   - Note: part 1 มีอีกไฟล์ `20260905-cnt-ollama-local-llm-intro.md` (push 9c1868c) = intro/generic angle, ยังไม่ได้ลง Notion (รอ user ตัดสินใจ)
 - **DONE (2026-09-04): AutoClaw x ZCode combo content** — draft ลง Content Drafts DB:
