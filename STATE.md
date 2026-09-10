@@ -25,6 +25,11 @@
 - **DONE (2026-09-06 11:13): Models ครบทั้ง set** — ALL_DONE 11:13 (+07). baseline 8 + extras 7 ครบ (verify ls ครบ 14 ไฟล์ + antelopev2): sd_xl_base 6.9G, z_image_turbo_bf16 12G, qwen_3_4b 8G, z_image_vae 335M, clip_vision_g 3.7G, ip-adapter plus 847M / standard 698M / faceid lora 371M, wan2.2 4.7G, umt5 fp8 6.7G, wan2.2_vae 1.4G, flux1-dev-fp8 11.9G, controlnet_union_sdxl 2.5G, RealESRGAN 67MB, antelopev2 360MB
 
 ## Open Tasks
+- **DONE (2026-09-10): The Admin Access (Choice) — Essentialism draft** — user ให้ idea + 3 quotes (McKeown) — verify quotes: "only be forgotten / learn to be helpless" ตรง quora summary ของบท "Protect your choice" + tone "celebrates it" ตรง podcast goodliving.com (McKeown พูด "celebrate every little success on the essentialist journey"); goodreads 403:
+  - Notion page: `3d7df8d8-8d8c-81de-bf11-cc25f7b7835a` (64 blocks, has_more=False, Status: draft — verify read-back ครบ 00-03 + บทสรุป + 3 quotes + hashtags; URL: https://app.notion.com/p/3d7df8d88d8c81debf11cc25f7b7835a)
+  - ไฟล์: `content-study/posts/20260910-cnt-admin-access-choice-essentialist.md` (push แล้ว) + index.json (265)
+  - มุม: "User = Admin ของระบบ — [Select/Reject] ไม่ถูกลบ แค่ถูกซ่อน (Hidden) ใต้เลเยอร์ fear/เกรงใจ/learned helplessness → ขุดขึ้น Taskbar"; Protocol **CHOICE-01** 3 commands (sudo --whoami ownership audit / sudo --chmod +x reject = worst-case question / sudo --log --celebrate = weekly 3-choice log); ผูก Law #1 + Law #2 + N.E.S.T-N; cross-ref Default Rules (02-05), Power of Omission (03-30), System 1 zero-click (03-19), AUDIT-08 (09-06)
+  - Type A ~800 tokens; fixed 9 Thai misspell (ตัวเอง→ตัวเอง) ด้วย codepoint scan — pitfall บันทึกใน skill
 - **DONE (2026-09-10): Attention Shock long-form draft (Dopamine Nation Part 3)** — user ให้ source text ภาษาไทย (ถอดจากหนังสือ) — verify D.O.P.A.M.I.N.E. 8 steps ผ่าน secondary sources (linkedin insights + leapaheadapp detox guide; supersummary 429 rate-limit):
   - Notion page: `3d7df8d8-8d8c-81d0-b28e-eac8d8b89ae8` (91 blocks, has_more=False, Status: draft — verify read-back ครบ 00-03 + บทสรุป + 1 table (BANNED/ALLOWED) + hashtags; URL: https://app.notion.com/p/3d7df8d88d8c81d0b28eeac8d8b89ae8)
   - ไฟล์: `content-study/posts/20260910-cnt-attention-shock-dopamine-cortisol.md` (push แล้ว) + index.json (264)
