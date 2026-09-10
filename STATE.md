@@ -25,6 +25,12 @@
 - **DONE (2026-09-06 11:13): Models ครบทั้ง set** — ALL_DONE 11:13 (+07). baseline 8 + extras 7 ครบ (verify ls ครบ 14 ไฟล์ + antelopev2): sd_xl_base 6.9G, z_image_turbo_bf16 12G, qwen_3_4b 8G, z_image_vae 335M, clip_vision_g 3.7G, ip-adapter plus 847M / standard 698M / faceid lora 371M, wan2.2 4.7G, umt5 fp8 6.7G, wan2.2_vae 1.4G, flux1-dev-fp8 11.9G, controlnet_union_sdxl 2.5G, RealESRGAN 67MB, antelopev2 360MB
 
 ## Open Tasks
+- **DONE (2026-09-10): Attention Shock long-form draft (Dopamine Nation Part 3)** — user ให้ source text ภาษาไทย (ถอดจากหนังสือ) — verify D.O.P.A.M.I.N.E. 8 steps ผ่าน secondary sources (linkedin insights + leapaheadapp detox guide; supersummary 429 rate-limit):
+  - Notion page: `3d7df8d8-8d8c-81d0-b28e-eac8d8b89ae8` (91 blocks, has_more=False, Status: draft — verify read-back ครบ 00-03 + บทสรุป + 1 table (BANNED/ALLOWED) + hashtags; URL: https://app.notion.com/p/3d7df8d88d8c81d0b28eeac8d8b89ae8)
+  - ไฟล์: `content-study/posts/20260910-cnt-attention-shock-dopamine-cortisol.md` (push แล้ว) + index.json (264)
+  - มุม: "Attention Shock — สมองไม่ได้ขี้เกียจ เซนเซอร์ไหม้" — double-hit (dopamine variable reward + cortisol stress) → homeostasis set-point ขยับขึ้น → Low-Dopamine tasks ไม่สปาร์ก; Protocol **D.O.P.A.M.I.N.E-10** = 8 ขั้น (Data=Screen Time, Objectives=trigger/void, Problems=เขียน damage, Abstinence=ตัดไฟ 30 วัน "moderation doesn't work for hijacked brain", Mindfulness=ดู craving ไม่กด, Insight=brain fog จาง, Next Steps=firewall time limits + physical barriers, Experiment=A/B test) + success criteria
+  - Type A (System/Mindset) — ผูก Law #1 (emotion=ข้อมูลไม่ใช่คำสั่ง) + Law #3 (ตัดสิ่งเร้า=maintenance ไม่ใช่การลงโทษ) + Asset>Activity; D step cross-link AUDIT-08 (draft Ch.8 2026-09-06); สัญญาว่าจะรัน protocol เองก่อนแล้ว update A/B result
+  - Note: 2 draft Dopamine Nation วันนี้ — Ch.8 (System Audit/AUDIT-08) + Part 3 (Attention Shock/DOPAMINE) — แยกหน้าไม่ซ้ำ (AUDIT-08 = honesty/foibles scan, DOPAMINE = full 8-step reset)
 - **DONE (2026-09-10): Unsloth Desktop long-form draft (Local LLM part 6)** — research primary (unsloth.ai/docs/desktop + substack launch post 11 ส.ค. 2026 + GitHub releases API + unsloth.ai/download):
   - Notion page: `3d7df8d8-8d8c-818e-a12f-f980509200ad` (99 blocks, has_more=False, Status: draft — verify read-back ครบ 9 sections + 1 table + ท้าย hashtags; URL: https://app.notion.com/p/3d7df8d88d8c818ea12ff980509200ad)
   - ไฟล์: `content-study/posts/20260910-cnt-unsloth-desktop-intro.md` (push แล้ว) + index.json (263)
