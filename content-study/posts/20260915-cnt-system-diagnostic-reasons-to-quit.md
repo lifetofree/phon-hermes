@@ -1,8 +1,8 @@
-# System Diagnostic: Reasons to Quit — Sunk Cost คือ Error ที่ระบบรันต่อโดยไม่ถามว่า "ทำไปทำไม" (Rework Ch.50 × Duck OS)
+# System Diagnostic: Reasons to Quit — Sunk Cost คือ Error ที่ระบบรันต่อโดยไม่ถามว่า "ทำไปทำไม" (Rework Chapter 5 × Duck OS)
 
 <!--
 ContentID: 20260915-CNT-QUIT-PROCESS
-Title: System Diagnostic: Reasons to Quit — Sunk Cost คือ Error ที่ระบบรันต่อโดยไม่ถามว่า "ทำไปทำไม" (Rework Ch.50 × Duck OS)
+Title: System Diagnostic: Reasons to Quit — Sunk Cost คือ Error ที่ระบบรันต่อโดยไม่ถามว่า "ทำไปทำไม" (Rework Chapter 5 × Duck OS)
 Slug: system-diagnostic-reasons-to-quit
 Type: Core Content (System / Mindset — medium form ~600 words)
 Law: Law #1 System > Emotion / Law #2 Asset > Activity / Law #3 Protect System
@@ -10,7 +10,7 @@ Series: standalone — ref: critical_thinking_kill_ai (2025-12-07), memento-mori
 Status: draft
 Date: 2026-09-15
 Sources (verified 2026-09-15):
-  - Primary: Rework (Jason Fried & David Heinemeier Hansson, 2010) — "Reasons to Quit" = chapter 50, PRODUCTIVITY section (chapter sequence verified via williammeller.com full TOC + sipreads summary: Illusions of agreement = 49, Reasons to quit = 50, Interruption is the enemy = 51); chapter theme = "Don't throw good time at bad work" (verified loudjet/techneur chapter commentary)
+  - Primary: Rework (Jason Fried & David Heinemeier Hansson, 2010) — "Reasons to Quit" = chapter 5 (user correction 2026-09-17: previous "chapter 50" was Hermes's unverified count — user states chapter 5; note: continuous TOC count via williammeller.com/webnovel would number it 33 — number kept as user says, draft body cites chapter 5 per user instruction); chapter theme = "Don't throw good time at bad work" (verified loudjet/techneur chapter commentary)
   - Primary: 37signals REWORK Revisited podcast, Season 2 Ep.0031 (Jun 21 2022) "Reasons to Quit with Jason Fried and DHH" (https://37signals.com/podcast/reasons-to-quit/) — fetched live 2026-09-15: DHH quote "Just because you've begun does not mean you need to finish. In fact, in a lot of cases, the best course of action is to quit." + the 8 questions: Why are you doing this? / What problem are you solving? / Is this actually useful? / Are you adding value? / Will this change behavior? / Is there an easier way? / What could you be doing instead? / Is it really worth it? + "Scope hammering" (Shape Up) + The Decision Lab sunk-cost ref
   - User source text (2026-09-15): Sunk Cost Trap + Don't Throw Good Time After Bad Work + 3 Laws mapping (System > Emotion / Asset > Activity / Protect the System)
   - Style: content-study/WRITING_STYLE_GUIDE.md + STYLE_CORPUS.md (2026-09 headingless ".", สรุปแบบวิศวกรเป็ด closer)
@@ -25,7 +25,7 @@ Sources (verified 2026-09-15):
 
 .
 
-Rework ของ Jason Fried กับ DHH — ในส่วน Productivity — มีบทสั้น ๆ บทหนึ่งชื่อ **Reasons to Quit** (chapter 50) — และประโยคแกนของบทคือ: **"Don't throw good time at bad work."** (อย่าเอาเวลาดีไปทิ้งกับงานแย่)
+Rework ของ Jason Fried กับ DHH — ในส่วน Productivity (chapter 5) — มีบทสั้น ๆ บทหนึ่งชื่อ **Reasons to Quit** — และประโยคแกนของบทคือ: **"Don't throw good time at bad work."** (อย่าเอาเวลาดีไปทิ้งกับงานแย่)
 
 บทนั้นตั้งคำถาม 8 ข้อ เพื่อหยุดคนก่อนจะลงแรงเพิ่ม — และ DHH ย้ำใหม่ใน podcast ของ 37signals เอง (REWORK Revisited 2022) ว่า:
 
