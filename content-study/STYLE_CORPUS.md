@@ -122,3 +122,44 @@ Top terms: RAM 83, Server 52, GPU 50, API 48, CLI 44, VRAM 28, Token 27, Protoco
 - The brand's register is stable (พร + คับ, RAM/server metaphors, XX-0N protocols, 3 Duck OS Laws) across both cohorts, but the **structure migrated**: originals use markdown headings ("00: Ingestion Phase", "N. Bug Report") while all 13 web-archive posts are headingless "."-separated paragraphs — future drafts should match whichever format the post type implies (A = headingless or "N." style; B = headingless with tables).
 - **สรุปแบบวิศวกรเป็ด** is the dominant 2026-09 closer (12/13) replacing "บทสรุปจากพร", and hashtag core is now fixed: #Adduckivity #DuckOS #NeuroDivergent + 3–6 topic tags, no Thai tags.
 - Tool reviews are now a **local-LLM series** (5 posts in 4 days, 2026-09-04..07) with cross-references ("คราวที่แล้วพรเขียนเรื่อง…", "Part 1/Part 2"), concrete pricing/VRAM/quant numbers, TL;DR, and soft question CTAs — the series format is the main new convention to replicate for type B.
+
+### 2026-09-19 — new posts: 15 (09-12..09-19 window)
+Sync note: cron run 09-13 (Sun) went silent — first fetch returned a stale/empty page and the script saw "nothing new"; manual rerun 09-19 caught all 15 (commit 244201e). Archive 13→28 files, index 301.
+
+New cohort = 10 System Diagnostic (rework-*/sam-altman/real-artifact/four-thousand-weeks/interruption-glitch) + 4 tool reviews (grok-bot, lm-studio ×2, orca) + 1 mindset (four-thousand-weeks is diagnostic-style). 9 of 10 are published edits of UDO drafts from the same week.
+
+**Corpus table additions** (wc -w incl. header):
+
+| date | slug | words | type |
+|---|---|---|---|
+| 2026-09-13 | grok-bot-managed-agent-ops | 1110 | B |
+| 2026-09-13 | four-thousand-weeks-time-trap | 721 | A |
+| 2026-09-13 | real-artifact-single-source-of-truth | 571 | A |
+| 2026-09-15 | sam-altman-writing-compiler-ink-01 | 557 | A |
+| 2026-09-16 | rework-reasons-to-quit-quit-50 | 497 | A |
+| 2026-09-16 | interruption-glitch-alone-zone-sleep-07 | 442 | A |
+| 2026-09-17 | lm-studio-local-llm-gui | 1808 | B |
+| 2026-09-17 | lm-studio-bionic-local-agent | 2071 | B |
+| 2026-09-17 | rework-meetings-are-toxic | 347 | A |
+| 2026-09-17 | orca-ade-parallel-agents-fleet-01 | 1467 | B |
+| 2026-09-18 | rework-quick-wins | 509 | A |
+| 2026-09-18 | rework-hero-complex-hero-01 | 705 | A |
+| 2026-09-18 | rework-estimates-chunking | 1435 | A |
+| 2026-09-19 | rework-long-lists-leak | 701 | A |
+| 2026-09-19 | rework-tiny-decisions-ice-01 | 669 | A |
+
+**Draft→publish edit pattern (measured on 9 matched pairs):** user edits before publishing, and the edits are systematic — future drafts should pre-apply them:
+1. **"พร" → "เรา" in hooks/body** — published versions swap most first-person พร for เรา (chunking kept 26 พร; hero-complex 11; but meetings/quick-wins/reasons-to-quit dropped to 5-9; tool reviews keep พร only in the expert-credence lines). คับ-density drops with it (e.g. ice-01 draft had 8+ คับ; pub has 3).
+2. **"วินิจฉัยโรคผิด (Misdiagnosis)" is cut entirely — 0/15 published posts keep it.** The signature move survives only as softened "เราก็พยายามบอกตัวเองว่า…" — do NOT include the Misdiagnosis line in drafts meant for publishing.
+3. **Protocol commands survive fully (9/9 posts with XX-0N kept all 3 `--commands`; protocols now total 14 names: REAL-01, INK-01, QUIT-50, SLEEP-07, FLEET-01, SHIP-01, HERO-01, CHUNK-01, LIST-01, ICE-01 + prior MEET-01 cut from meetings pub).** Exception: meetings post lost its whole MEET-01 block (pub = 54% of draft length — user cut the protocol, kept the summary).
+4. **Emoji sign-off 🦆⚡ removed in 7/15** (kept in 8: the tool reviews + real-artifact/sam-altman/reasons-to-quit/interruption/quick-wins/hero-complex).
+5. **"มุมของ Duck OS" subheading kept in 11/15** (absent in the 4 tool reviews, as expected for type B).
+6. **Cross-refs kept but light**: "โพสต์ X (YYYY-MM)" or "(ref: X YYYY-MM + PROTO-NN)" — 5/15 posts carry one; the rest drop them. Series "Part N" language is gone from tool reviews.
+7. **Hashtag core unchanged**: #Adduckivity #DuckOS #NeuroDivergent + 4–9 topic tags; #NeuroDivergent missing only in orca (tool review). Closer label is now always "#สรุปแบบวิศวกรเป็ด" with the hash (15/15; previously 7/13 hash form).
+8. **Length bands**: Type A pub 347–721 wc-w (nominal medium ~500–650); the 1435-word chunking is the long-form exception. Type B 1110–2071. Pub length = 87–107% of draft (meetings 54% the outlier) — user trims, rarely expands.
+
+**Evolution Notes extension (new conventions):**
+9. **Register softening continues**: hooks now open with เรา/คุณ, not พร; "มั้ยคับ" survives (8× across cohort) but sparser. Expert-credence "ในฐานะที่พร…" lines and self-deprecation in tool reviews are the last พร strongholds.
+10. **The Rework series (2026-09-15..19, 7 posts) is a new recurring format**: book-chapter anchor (quote + page) → 3 named errors → XX-01 protocol → 3 Laws → cross-ref. Slugs prefix "rework-".
+11. **English pull-quote convention**: each post carries one bolded English one-liner before the closer ("The pole is 1,000 miles away — but your next foothold is a few yards."; "System > Meetings. 🦆⚡"). Present in 14/15.
+12. **"System > X." closer formula is now standard** (14/15) — always English "System > <topic>." + short Thai tagline.
