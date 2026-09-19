@@ -1,0 +1,101 @@
+<!-- Archived from https://wp.adduckivity.com/rework-long-lists-leak/ on 2026-09-19 by sync_wp_posts.py -->
+Title: To-do list ที่ยาวเป็นหางว่าว แค่มองก็เหนื่อยเหมือนวิ่งขึ้นตึก 10 ชั้น — นั่นไม่ใช่ขี้เกียจ มันคือ Memory Leak
+Date: 2026-09-19T09:50:15
+Link: https://wp.adduckivity.com/rework-long-lists-leak/
+-->
+
+To-do list ที่ยาวเป็นหางว่าว แค่มองก็เหนื่อยเหมือนวิ่งขึ้นตึก 10 ชั้น — นั่นไม่ใช่ขี้เกียจ มันคือ Memory Leak
+
+เคยมีวันที่คุณเปิด to-do list ออกมา แล้วแค่ มอง มัน — ยังไม่ทันแตะงานเลย — ก็รู้สึกเหนื่อย ห่อเหี่ยว เหมือนเพิ่งวิ่งขึ้นบันได 10 ชั้นเสร็จมั้ยคับ
+
+.
+
+แล้วคุณก็บอกตัวเองว่า “ต้องเคลียร์ให้หมดวันนี้” — แล้วก็จัดหมวดหมู่ ติด tag คัดความสำคัญ 1-2-3 — ไปอีก 40 นาที — งานจริงยังไม่เริ่มสักชิ้น
+
+.
+
+เราก็บอกตัวเองว่า “เราขี้เกียจ ต้องเค้นวินัย” — แต่ในภาษาประสาทวิทยา ลิสต์ยาว ๆ มันคือ open loop ที่ค้างอยู่ใน working memory — มันไม่ได้รอให้คุณ “มีวินัย” — มัน กำลังกินแบต PFC ของคุณอยู่ทุกวินาทีที่คุณมองมัน
+
+.
+
+Bluma Zeigarnik (1927, ในห้อง lab ของ Kurt Lewin) วัดไว้ว่า งานที่ยังไม่เสร็จ (unfinished task) มันสร้าง “ความตึง” ในหัวไว้ตลอด — จนกว่าจะเสร็จจริง หรือมี “แผนเฉพาะ” ที่จะจัดการมัน — งานที่ยังค้างข้ามไป weekend — ทำให้คน rumination (คิดวน) และ detach จากงานไม่ได้ — และในภาษาของระบบ — รายการที่ยังไม่ปิดแต่ละข้อ = 1 process ที่ยังถือ RAM ค้างไว้ — 20 ข้อ = 20 open loops ที่กิน RAM พร้อมกัน — นี่คือ The Long List Memory Leak
+
+.
+
+แล้ว 3 error ของลิสต์ยาว ๆ ในภาษา engineer คือ:
+
+Error 1: The Long List Memory Leak — ลิสต์ยาวเป็นหางว่าวถูก สร้างมาเพื่อ “เก็บฝุ่น” มากกว่า “ทำให้เสร็จ” — ยิ่งค้างมาก — open loop มาก — สมองยิ่งสะสม Emotional Debt (หนี้ความรู้สึกล้มเหลว) — งานวิจัย Zeigarnik ยืนยัน: tension มันไม่หายจนกว่าจะ “ปิด” — ดังนั้นลิสต์ที่ไม่ปิด = หนี้ที่ดอกเบี้ยทบทุกวัน
+
+.
+
+Error 2: Chunking Architecture — ทางแก้ไม่ใช่ “เค้นวินัยเคลียร์ 20 ข้อ” — แต่คือ สับลิสต์ยาวให้แตกเป็นลิสต์สั้น ๆ — เพราะ PFC ทำงานได้ดีเมื่อตัวเลือกอยู่ใต้ capacity — Reutskaya et al (2018, Nature Human Behaviour) วัด fMRI ว่า สมองรู้สึก “พอดี” ที่ตัวเลือก ~12 ตัว — และ 24 ตัว = “เยอะเกิน” — ส่วน working memory ของคุณถือได้จริงแค่ ~4 slots (Cowan, 2001 — โพสต์ Chunking Engine วันนี้) — ดังนั้น ลิสต์ 2–3 ข้อ = อยู่ใต้ capacity = PFC ไม่ overload — การเห็นลิสต์สั้น ๆ ลดภาระ PFC ฟื้นแรงส่งระบบได้ทันที
+
+.
+
+Error 3: Visual Priority over Labeling Noise — เลิกจัดลำดับด้วยตัวเลข 1-2-3 หรือแปะ tag ให้รกระบบ — เพราะ การ “จัดลำดับ” 20 ตัว = การ “ตัดสินใจ” 20 ครั้ง — และ Vohs, Baumeister et al (2008, JASPSP) วัดตรง ๆ: การตัดสินใจหลาย ๆ ครั้ง “ลด” self-control (stamina ลด, procrastinate เพิ่ม) — ทางออกคือ Visual Prioritization: วางสิ่งที่สำคัญที่สุดไว้บนสุด — ตัวเดียว — ปิดงานบนสุดเสร็จ — ชิ้นถัดจะเลื่อนขึ้นมาเป็น “งานสำคัญที่สุด” อัตโนมัติ — คุณไม่ต้องตัดสินใจใหม่ — ระบบรันเอง
+
+.
+
+เมื่อมองผ่าน Filter ของ Duck OS — พรย่อมันให้เป็นโพรโทคอล LIST-01 — 3 commands:
+
+.
+
+Step 1: list --slice (5 นาที)
+
+สับลิสต์ยาวเป็น ลิสต์ย่อย 2–3 ข้อ ที่ปิดได้จริง — ถ้าลิสต์มี 20 ข้อ — ตัดให้เหลือ 3 ข้อวันนี้ — ที่เหลือ ย้ายไป “parking lot” (ไม่ใช่ลบ — แต่ เอาออกจาก open loop) — กฎ: open loop ที่ “มีแผนแล้ว” = ปิด tension (Zeigarnik: tension หายเมื่อมี concrete plan) — ดังนั้นแค่ “ย้ายลง parking lot” ก็ลด 17 loops ได้ทันที
+
+.
+
+Step 2: list --top (0 นาที — ห้ามคิด)
+
+ปิดการติดตัวเลข/tag — เลือก 1 ข้อ ที่สำคัญที่สุด — วางไว้บนสุด — ข้อเดียว — ห้ามมี “1, 2, 3” — เพราะตัวเลข = choice overload (Error 3) — ตำแหน่งบนสุด = คำสั่งเดียวที่ PFC ต้อง process — Single-tasking only
+
+.
+
+Step 3: list --loop (รันจนปิด)
+
+แตะเฉพาะงานบนสุด — ปิดให้จบ — แล้ว ชิ้นถัดไปเลื่อนขึ้นมาเป็น top อัตโนมัติ — คุณไม่ต้อง “เลือกใหม่” ทุกครั้ง — loop นี้ = Tiny Functional Node ตัวแรก (ref: Quick Wins (2026-09)) — node ที่ปิด = asset + โดปามีนพื้นฐาน ที่ push งานถัดไปเอง
+
+.
+
+Success Criteria: วันนี้ — คุณ ปิดงาน top 1 ตัว โดยที่ ไม่เปิด parking lot และ ไม่ตัดสินใจใหม่ (top เดิมเลื่อนลงมาเอง) — วัดจากจำนวน open loops ที่ “มีแผนแล้ว” (ใน parking lot) มากกว่าจำนวนที่ “ค้างในหัว”
+
+.
+
+มุมของ Duck OS
+
+.
+
+Law #1: System > Emotion — ความห่อเหี่ยวจากลิสต์ค้าง = Emotional Debt ที่ Zeigarnik สร้าง — มันเป็น input อารมณ์ไม่ใช่ data — ระบบตัดสัญญาณรบกวนด้วยการ เหลือ top 1 ตัว — บังคับให้ PFC process ทีละคำสั่ง (Single-tasking only) — ไม่ใช่ “รู้สึกต้องทำหมด”
+
+.
+
+Law #2: Action Precedes Motivation (Asset > Activity) — การนั่งคัดหมวด ติด tag จัดลำดับ = Activity ที่สูบ PFC โดยได้ asset 0 — แต่ ดึงงาน top ออกมาปิดเป็น Tiny Functional Node ตัวแรก = Asset + โดปามีนพื้นฐาน ที่ push งานถัดไปเอง (ref: Quick Wins (2026-09) + SHIP-01)
+
+.
+
+Law #3: Protect the System — ลิสต์ยาว = ก้อน context ขนาดใหญ่ที่กินแบต + กระตุ้น stress โดยไม่จำเป็น — การตัดเหลือลิสต์สั้น (2–3 ข้อ) = ประคองพลังงานในระดับ G.1–G.2 — ระบบไม่พัง — รอดไปถึงวันพรุ่งนี้
+
+.
+
+#สรุปแบบวิศวกรเป็ด
+
+.
+
+To-do list ยาว ≠ ความรับผิดชอบ — มันคือ Memory Leak ที่กินแบต PFC — 20 open loops = 20 processes ที่ถือ RAM ค้าง — วิธีแก้ไม่ใช่ “เค้นวินัย” แต่คือ slice เป็นลิสต์สั้น + top-1 visual priority + single-tasking loop — ปิด top — ชิ้นถัดเลื่อนขึ้นเอง
+
+.
+
+Less is not lazy — it is the only architecture that doesn’t leak.
+
+.
+
+ถ้าวันนี้ลิสต์คุณยาวเกิน 5 ข้อ — ลองรัน LIST-01 --slice แล้วปิด top 1 ตัว
+
+.
+
+System > List Length. Slice it, top it, close it — ปกป้อง PFC ของคุณคับ
+
+.
+
+#Adduckivity #DuckOS #NeuroDivergent #ZeigarnikEffect #ChoiceOverload #ToDoList #SystemThinking

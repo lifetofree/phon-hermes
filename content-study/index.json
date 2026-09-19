@@ -2286,5 +2286,125 @@
     "link": "",
     "words": 1056,
     "file": "/home/lifetofree/hermes-agent/content-study/posts/20260918-cnt-system-diagnostic-arctic-icepack.md"
+  },
+  {
+    "slug": "grok-bot-managed-agent-ops",
+    "title": "Grok Bot — จ้าง AI ลูกทีมที่มีคอมของตัวเอง เข้า app ทำงานแทนเราได้จริง",
+    "date": "2026-09-13T10:39:54",
+    "link": "https://wp.adduckivity.com/grok-bot-managed-agent-ops/",
+    "words": 1077,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/grok-bot-managed-agent-ops.md"
+  },
+  {
+    "slug": "four-thousand-weeks-time-trap",
+    "title": "ความสงบไม่ได้มาจากการทำครบทุกอย่าง: 3 คำสั่งรีเซ็ตระบบเวลา สำหรับคนที่เหนื่อยกับการบริหารตารางงาน",
+    "date": "2026-09-13T17:08:03",
+    "link": "https://wp.adduckivity.com/four-thousand-weeks-time-trap/",
+    "words": 698,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/four-thousand-weeks-time-trap.md"
+  },
+  {
+    "slug": "real-artifact-single-source-of-truth",
+    "title": "ประโยคเดียว 100 คน ≠ 1 ภาพ – Get Real และ Single Source of Truth",
+    "date": "2026-09-13T20:39:38",
+    "link": "https://wp.adduckivity.com/real-artifact-single-source-of-truth/",
+    "words": 528,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/real-artifact-single-source-of-truth.md"
+  },
+  {
+    "slug": "sam-altman-writing-compiler-ink-01",
+    "title": "Sam Altman ฉีกหน้าโน้ตทิ้งทุกวัน — เพราะการเขียนไม่ใช่ที่เก็บ แต่คือ compiler ของความคิด",
+    "date": "2026-09-15T11:43:53",
+    "link": "https://wp.adduckivity.com/sam-altman-writing-compiler-ink-01/",
+    "words": 526,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/sam-altman-writing-compiler-ink-01.md"
+  },
+  {
+    "slug": "rework-reasons-to-quit-quit-50",
+    "title": "เริ่มไว้แล้วไม่ได้แปลว่าต้องจบ — Sunk Cost Trap ที่ทำให้เราทำงานห่วยไปอีก 3 เดือน",
+    "date": "2026-09-16T11:38:56",
+    "link": "https://wp.adduckivity.com/rework-reasons-to-quit-quit-50/",
+    "words": 466,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/rework-reasons-to-quit-quit-50.md"
+  },
+  {
+    "slug": "interruption-glitch-alone-zone-sleep-07",
+    "title": "อยู่ดึกไม่ใช่เพราะงานเยอะ — แต่เพราะระบบถูก Interrupt จนไม่มีวันปิดงาน",
+    "date": "2026-09-16T21:46:30",
+    "link": "https://wp.adduckivity.com/interruption-glitch-alone-zone-sleep-07/",
+    "words": 417,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/interruption-glitch-alone-zone-sleep-07.md"
+  },
+  {
+    "slug": "lm-studio-local-llm-gui",
+    "title": "กำแพงสุดท้ายของ local LLM ไม่ใช่ GPU — เป็น “Terminal”",
+    "date": "2026-09-17T11:11:27",
+    "link": "https://wp.adduckivity.com/lm-studio-local-llm-gui/",
+    "words": 1777,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/lm-studio-local-llm-gui.md"
+  },
+  {
+    "slug": "lm-studio-bionic-local-agent",
+    "title": "Bionic — agent ตัวแรกที่ code ของคุณไม่เคยออกจากเครื่อง",
+    "date": "2026-09-17T13:09:49",
+    "link": "https://wp.adduckivity.com/lm-studio-bionic-local-agent/",
+    "words": 2044,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/lm-studio-bionic-local-agent.md"
+  },
+  {
+    "slug": "rework-meetings-are-toxic",
+    "title": "Meetings Are Toxic — การขอประชุม 1 ชั่วโมง คือการประชุมที่ไม่เคยมีอยู่จริง",
+    "date": "2026-09-17T16:48:12",
+    "link": "https://wp.adduckivity.com/rework-meetings-are-toxic/",
+    "words": 316,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/rework-meetings-are-toxic.md"
+  },
+  {
+    "slug": "orca-ade-parallel-agents-fleet-01",
+    "title": "เมื่อโฟลเดอร์เดียวรัน 4 Agent พร้อมกันไม่ได้: จัดการฝูง Coding Agents ด้วย Orca (Git Worktree Isolation)",
+    "date": "2026-09-17T20:11:47",
+    "link": "https://wp.adduckivity.com/orca-ade-parallel-agents-fleet-01/",
+    "words": 1428,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/orca-ade-parallel-agents-fleet-01.md"
+  },
+  {
+    "slug": "rework-quick-wins",
+    "title": "แรงจูงใจไม่ใช่ตัวจุดระบบ แต่เป็น ผลพลอยได้ของงานที่ปิดจริง — การรออารมณ์ก้อนใหญ่เหมือนรอไฟกระชากสตาร์ทเครื่องที่ไม่มีอยู่จริง",
+    "date": "2026-09-18T10:19:22",
+    "link": "https://wp.adduckivity.com/rework-quick-wins/",
+    "words": 484,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/rework-quick-wins.md"
+  },
+  {
+    "slug": "rework-hero-complex-hero-01",
+    "title": "The Hero Complex — ทุ่มสุดตัวลากงานยาก = Exchange Rate ที่ขาดทุนย่อยยับ",
+    "date": "2026-09-18T13:53:08",
+    "link": "https://wp.adduckivity.com/rework-hero-complex-hero-01/",
+    "words": 672,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/rework-hero-complex-hero-01.md"
+  },
+  {
+    "slug": "rework-estimates-chunking",
+    "title": "The Magical Number Four — ทำไมงานที่หั่นเล็กกว่า 4 ตัวแปรถึงประเมินแม่นกว่าเสมอ",
+    "date": "2026-09-18T15:44:20",
+    "link": "https://wp.adduckivity.com/rework-estimates-chunking/",
+    "words": 1404,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/rework-estimates-chunking.md"
+  },
+  {
+    "slug": "rework-long-lists-leak",
+    "title": "To-do list ที่ยาวเป็นหางว่าว แค่มองก็เหนื่อยเหมือนวิ่งขึ้นตึก 10 ชั้น — นั่นไม่ใช่ขี้เกียจ มันคือ Memory Leak",
+    "date": "2026-09-19T09:50:15",
+    "link": "https://wp.adduckivity.com/rework-long-lists-leak/",
+    "words": 664,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/rework-long-lists-leak.md"
+  },
+  {
+    "slug": "rework-tiny-decisions-ice-01",
+    "title": "Ben Saunders — เป้าหมายขนาดใหญ่ ไม่ได้เกิดขึ้นจากการตัดสินใจใหญ่เพียงครั้งเดียว แต่คือโซ่ของ foothold เล็ก ๆ",
+    "date": "2026-09-19T14:36:59",
+    "link": "https://wp.adduckivity.com/rework-tiny-decisions-ice-01/",
+    "words": 636,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/rework-tiny-decisions-ice-01.md"
   }
 ]
