@@ -163,3 +163,34 @@ New cohort = 10 System Diagnostic (rework-*/sam-altman/real-artifact/four-thousa
 10. **The Rework series (2026-09-15..19, 7 posts) is a new recurring format**: book-chapter anchor (quote + page) → 3 named errors → XX-01 protocol → 3 Laws → cross-ref. Slugs prefix "rework-".
 11. **English pull-quote convention**: each post carries one bolded English one-liner before the closer ("The pole is 1,000 miles away — but your next foothold is a few yards."; "System > Meetings. 🦆⚡"). Present in 14/15.
 12. **"System > X." closer formula is now standard** (14/15) — always English "System > <topic>." + short Thai tagline.
+
+### 2026-09-20 — llama.cpp social repost (draft→publish pair #10, THIRD format discovered)
+Provenance: user pasted the published social version of the 2026-09-09 llama.cpp long-form draft and directed: **"หลังจากนี้ content ต้องการ pattern แบบนี้ ลองวิเคราะห์และบันทึกไว้ด้วย"** — this line-break social format is now a target pattern for future content. Archived as `web-archive/20260920-llama-cpp-wrapper-vs-engine-social.md`, index.json 304. NOT on WP (searched live — no llama.cpp post; this is a social derivative referencing "ในบทความเดิม").
+
+**It is not a trim — pub 1435 vs draft 1382 wc-w (ratio 1.04) — it is a full re-architecture into a third format: the long-form → social line-break repost.**
+
+| metric | draft (long-form) | published (social) |
+|---|---|---|
+| words | 1382 | 1435 |
+| non-empty lines | 94 | 446 |
+| avg words/line | 14.7 | 3.2 (416/446 lines ≤60 chars) |
+| headings | 9 (`## NN:`) | 33 (`#` sections, `## N.` signals, `### N.` profiles) |
+| `-` bullets / `—` dash lines | 26 / 0 | 3 / 72 |
+| `.` separator lines | 0 | 46 |
+| `>` blockquotes | 0 | 2 |
+| คุณ / เรา | 10 / 2 | 62 / 4 |
+| genuine พร | ~8 | 1 ("เครื่องของพร" — expert-credence only) |
+| ครับ / คับ | 4 / 4 | 0 / 1 (คับ only inside the Law closer) |
+
+**The conversion pattern (11 moves, apply to future social drafts):**
+1. **Re-flow to one clause per line** — break every sentence at its natural pause, ≤60 chars/line, blank line between thoughts; a "." on its own line = beat break; ". [blank] ." before a new heading = section break.
+2. **Capability tour → decision framework.** The draft's "02: Features 1–6" became "**5 สัญญาณว่า Wrapper เริ่มไม่พอ**" — from "what it can do" to "when do YOU need to come down". The biggest editorial re-architecture of the pair.
+3. **Title = proof-point stat, not tool name** ("27B ที่เคยต้องพึ่ง datacenter วันนี้รันในห้องนอนด้วยการ์ด 2 หมื่นบาท — ~8 tok/s"). Hook = invisible-presence reveal ("คุณกำลังใช้ llama.cpp อยู่ แม้ไม่เคยพิมพ์ชื่อมันเลย").
+4. **Blockquote pair as framing device** — setup question > "llama.cpp ทำอะไรได้บ้าง?" then payoff > "เมื่อไหร่เราควรเลิกใช้ Wrapper แล้วลงมาเรียก engine เอง?" (curiosity loop in 2 lines).
+5. **"—" em-dash bullets everywhere** (72 lines); plain `-` bullets essentially eliminated.
+6. **Heading hierarchy maps to listicle depth**: `#` big sections, `## N.` the 5 signals, `### N.` the 4 profiles.
+7. **Pronoun/politeness swap complete**: คุณ ×6; พร survives only in the machine-credence line; zero ครับ — one คับ, inside "Law #1 System > Emotion คับ" (draft said ครับ).
+8. **Kept verbatim**: comparison table (row labels simplified: ชั้น/จุดเด่น/เหมาะกับ…), the real `llama-server` command block, 7.8 tok/s + 16.5GB + 262k ctx numbers, 4 profiles, Pro Tips 3 ระดับ, Law #1 closer, hashtag tail identical.
+9. **Cut entirely**: project lore (Gerganov origin, MacBook story), 127,574 stars, ggml, v0.4.0 release notes, the 7-8B 40-60 tok/s aside, the VRAM คำเตือนพี่เลี้ยง, series Part-4 cross-links, ✅❌ emoji headings (→ prose "ข้อเสียจริง ๆ"), TL;DR.
+10. **Added**: benchmark honesty note ("ไม่ควรนำไปเทียบตรง ๆ กับเครื่องอื่นโดยไม่ควบคุมเงื่อนไขเดียวกัน") + "ในบทความเดิม" meta-ref (social post positions itself as derivative of the long-form) + "เปิดฝากระโปรง" hood-opening closing callback on the รถ/เครื่องยนต์ metaphor, which was promoted from an aside into the organizing spine.
+11. **Closer override**: the source long-form's `## บทสรุปจากพร` came back as `# #สรุปแบบวิศวกรเป็ด` (hash form) — the hash closer rules even when converting a long-form that used the long-form closer.
