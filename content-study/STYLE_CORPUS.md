@@ -259,3 +259,31 @@ Provenance: user published an edit of the same day's SHIP-90 long-form draft (71
 13. **Personal-diagnostic is the 5th format** (after: System Diagnostic 3-error / N-signals level-up / tool review B / v2 line-per-sentence / social line-break repost). It shares v2's layout (H1 sections, `.` beats, bold) but swaps the engineering voice for first-person confession, cuts all protocol machinery, and ends on a night question instead of a Law line.
 14. **Register break (personal-diagnostic only):** กู/55555 self-deprecation appears for the first time in the corpus; narrative self = พร in system posts (previously expert-credence lines only).
 15. **Anti-protocol is now a content position:** "พรยังไม่รู้ — ยังไม่สร้าง Protocol ใหญ่ — ลอง Tiny Experiment 7 วัน" is itself the Duck OS position (PACT Tiny Experiment) — future system posts may deliberately ship a rule + experiment INSTEAD of a 3-command protocol when the system is unproven.
+### 2026-09-21 — pair #12: share-imperfect-gate (user's OWN personal-diagnostic rewrite of SHIP-GATE-01, to-be-posted)
+Provenance: user pasted their OWN rewrite of the same day's SHIP-GATE-01 engineering draft (`posts/20260921-cnt-internet-copy-machine-ship-gate.md`, 931 wc-w) after running it past a "Bent DNA" 10-point critique; said "ต้นฉบับที่จะ post ลองเอาไป analyze" (NOT yet published). Archived verbatim `web-archive/20260921-share-imperfect-gate-user-rewrite.md`.
+
+| metric | SHIP-GATE-01 draft (UDO) | user rewrite |
+|---|---|---|
+| words | 931 | 539 (0.58×) |
+| non-empty lines | 159 | 262 (~1 thought/line) |
+| H1 / H2 | 7 / 8 | 9 / 0 |
+| `.` beats | 16 | 42 (doubled `.` as section breaks) |
+| `—` bullets | 24 | **0** |
+| `>` blockquotes | 6 | **20** (every question + every raw/compiled note) |
+| curly quotes “ ” | 0 | **11** (NEW register element) |
+| tables | 2 | 0 |
+| protocol names (XX-0N) | 4 (SHIP-90/STREAM-01/QUIT-50/SHIP-GATE-01) | **0** |
+| cross-refs | 3 | 0 |
+| พร / คุณ / เรา | 3 / 29 / 1 | **12 / 3 / 25** (narrator shift) |
+| คับ | 2 | 0 |
+
+**It implements ALL 10 of the Bent DNA critique points**: reduce 4→2 gates / cut the "Generosity vs Ego" motive question → observable "คนรับได้อะไรโดยไม่ต้องถอด Raw Data" / merge Noise + So-What into one Value gate / soften Copy-Machine absolutes (drop "ไม่จำกัด/ลบไม่ได้", drop "AI ที่เอาไป train") / cut "2 นาที / default ไม่กด / 0 อยากลบ" certainty claims / no new protocol name / demote "Overthinking" from a 4th filter to a gate-CONSTRAINT / promote "Editor open / Exit gated" as the mental model / "Share imperfect ≠ Share everything" as the title hook / worked Raw→Compiled example as the centerpiece.
+
+**Evolution vs pair #11 (rule-of-thumb gets sharper):** the user now executes the transform THEMSELVES (UDO no longer needs to pre-apply it in the engineering draft). The spine is a **2-GATE flow** (PRIVATE→BOUNDARY→VALUE→PUBLIC, ↓ arrows), not a 3-symptom list or 4-stage pipeline. The 2 gates map 1:1 to two Laws **without naming them** (Boundary=Law #3 Protect the System, Value=Law #2 Asset>Activity) while "gate must stay light / don't overthink" = Law #1 as the meta-constraint. A concrete worked example (Raw onboarding note → Compiled pattern) replaces abstract symptoms.
+
+**Series signal (do NOT name it yet — user said "ยังไม่ตั้งชื่อ Series"):** Post 1 = Doing→Evidence→Compile→Show (the burn loop, SHIP-90) / Post 2 = Share imperfect ≠ Share everything (this gate). Spine quote: "พื้นที่ Private มีไว้ให้คุณคิดโดยไม่ต้องระวัง / Gate มีไว้ให้คุณ Publish โดยไม่ต้องเอาทุกอย่างออกไปด้วย".
+
+**Nits flagged pre-post:** (1) hashtags `#SoWhatTest` + `#ShipGate` are leftovers from the engineering draft (post has 2 gates, no So-What test, no protocol) → update to reflect Boundary/Value; (2) closer typed `# #สรุปแบบวิศวกรเป็ด` (double #/leading space) vs corpus `#สรุปแบบวิศวกรเป็ด`; (3) "คนสอง" → "คนที่สอง"; (4) the worked example asserts "ติดคนละจุด แต่มี Pattern เดียวกัน" without SHOWING the pattern — tighten so the raw→compiled lesson is airtight.
+
+**Evolution Notes extension:**
+16. **Personal-diagnostic is now user-executable (pair #12).** Stop pre-building 4-filter "OS" scaffolding over a single insight. Ship the 2-gate spine: a concrete worked Raw→Compiled example, "Editor open / Exit gated" as the load-bearing model, curly quotes (“”) alongside `>`, the 3 Laws embedded unnamed (Boundary=Law #3, Value=Law #2, lightness=Law #1), and NO certainty claims (the gate doesn't guarantee no regret — only "ตอนปล่อย ฉันรู้ว่ากำลังปล่อยอะไร").
