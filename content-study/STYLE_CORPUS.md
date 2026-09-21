@@ -194,3 +194,31 @@ Provenance: user pasted the published social version of the 2026-09-09 llama.cpp
 9. **Cut entirely**: project lore (Gerganov origin, MacBook story), 127,574 stars, ggml, v0.4.0 release notes, the 7-8B 40-60 tok/s aside, the VRAM คำเตือนพี่เลี้ยง, series Part-4 cross-links, ✅❌ emoji headings (→ prose "ข้อเสียจริง ๆ"), TL;DR.
 10. **Added**: benchmark honesty note ("ไม่ควรนำไปเทียบตรง ๆ กับเครื่องอื่นโดยไม่ควบคุมเงื่อนไขเดียวกัน") + "ในบทความเดิม" meta-ref (social post positions itself as derivative of the long-form) + "เปิดฝากระโปรง" hood-opening closing callback on the รถ/เครื่องยนต์ metaphor, which was promoted from an aside into the organizing spine.
 11. **Closer override**: the source long-form's `## บทสรุปจากพร` came back as `# #สรุปแบบวิศวกรเป็ด` (hash form) — the hash closer rules even when converting a long-form that used the long-form closer.
+
+### 2026-09-21 — v2 line-per-sentence format: canonical sample "Resume vs Public Terminal" (user-published, NOT on WP)
+Provenance: user pasted the PUBLISHED v2 post (Learn In Public / Daily Dispatch × Duck OS, STREAM-01) + its FB micro-variant and directed "published content analyze and update content style and insert into content draft in notion". Verified NOT on wp.adduckivity.com (live WP search — only false-positive title matches). This is the CANONICAL clean form of the v2 pattern (the first paste on 2026-09-21 arrived with the tail scrambled; this clean version orders the tail sensibly). Archived to skill `references/v2-approved-sample-resume-vs-stream.md` + the skill v2 sections were corrected against it.
+
+**Metrics (measured):**
+
+| metric | main post | FB micro-variant |
+|---|---|---|
+| words | 777 | 68 |
+| `#` H1 | 8 | 0 |
+| `##` H2 | 8 (5 signals + 3 protocol steps) | 0 |
+| `###` H3 | 2 (subtitle + Success Criteria) | 0 |
+| `.` beat-break lines | 73 | 0 |
+| `—` bullets | 9 | 0 |
+| `- ` bullets | 0 | 7 |
+| bold spans | 33 | 0 |
+| `>` blockquote lines | 2 (true question) | 0 |
+| tables | 1 (9 rows) | 0 (collapsed to `-` bullets) |
+
+**v2 canonical structure (8 H1 sections, in order):** title+`###`subtitle → stat-line pair (real contrast: "Resume แก้ล่าสุด: ก.ย. 2024" / "Daily Dispatch ล่าสุด: วันนี้ 14:07") → `>` true question (blockquote, bold, decision-level) → not-pitching block → `# 5 สัญญาณว่า…เริ่มไม่พอ` (`## 1.`–`## 5.` self-check) → `# Resume = Snapshot / Daily Dispatch = Stream` (mental model + `top` metaphor + "Stream ก็แต่งได้" honesty caveat + Learn In Public 2018 anchor) → `# Unconstrained Format` (`—` forms + Friction=0) → `# Social Media as a Public Terminal` (Stream/Terminal/Public Artifact) → `# Resume กับ Daily Dispatch ทำหน้าที่ต่างกัน` (comparison TABLE) → `# โพสต์ที่กำลังอ่านอยู่นี้ คือตัวอย่างสด` (lists the author's own recent protocols ICE-01/SHIP-01/CHUNK-01/DISPATCH-01/LIST-01/HERO-01/String Tax/llama.cpp/LM Studio/Orca as proof) → `# Protocol STREAM-01 — 3 Commands` (`## Step N` + `### Success Criteria` INSIDE) → `# สรุปแบบวิศวกรเป็ด`.
+
+**v2 CLOSER — overrides the 2026-09 System Diagnostic closer (Evolution Notes #11/#12):** the v2 closer has NO "System > X." sign-off, NO 🦆⚡, NO "Law #1" line, NO English pull-quote. Instead: restate the 4 concepts as bold definitions (Snapshot/Stream/Terminal/Public Artifact) → re-ask the true question → name the problem in a bold one-liner ("**Evidence Lag**") → a bold pair ("ฉันเคยทำอะไร" / "ตอนนี้ฉันกำลังทำอะไรอยู่"). `# สรุปแบบวิศวกรเป็ด` is a plain `#` H1 (intentional #). This is a DRIFT from the 14/15 "System > X." + English pull-quote convention — the v2 format is the newer signal (corpus rule: when the corpus contradicts the guide, follow the corpus).
+
+**Success Criteria placement:** lives INSIDE the Protocol section as `### Success Criteria` (after Step 3), not in the closer.
+
+**FB micro-variant (second derivative):** the comparison TABLE → flat `- ` bullet list (7 lines: ชนิด/เวลา/ความถี่/Format/เนื้อหา/หลักฐาน/ผู้อ่าน), 1 title line + 7 bullets, ~68 words. Uses `-` hyphen bullets (NOT `—`). Distinct from the 2026-09-20 llama.cpp social "2 opening paragraphs + CTA" FB form — both FB forms coexist; choose by what the source contains. Filed as a SEPARATE Notion Content Drafts page.
+
+**Register:** คุณ/เรา body; พร appears only in the live-example section ("ถ้าพรเอาทั้งหมดนี้มาจัด Portfolio") — the self-referential proof line; คับ 1 (in "คำถามที่แท้จริงของโพสต์นี้คับ"); no ครับ.
