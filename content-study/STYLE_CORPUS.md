@@ -222,3 +222,40 @@ Provenance: user pasted the PUBLISHED v2 post (Learn In Public / Daily Dispatch 
 **FB micro-variant (second derivative):** the comparison TABLE → flat `- ` bullet list (7 lines: ชนิด/เวลา/ความถี่/Format/เนื้อหา/หลักฐาน/ผู้อ่าน), 1 title line + 7 bullets, ~68 words. Uses `-` hyphen bullets (NOT `—`). Distinct from the 2026-09-20 llama.cpp social "2 opening paragraphs + CTA" FB form — both FB forms coexist; choose by what the source contains. Filed as a SEPARATE Notion Content Drafts page.
 
 **Register:** คุณ/เรา body; พร appears only in the live-example section ("ถ้าพรเอาทั้งหมดนี้มาจัด Portfolio") — the self-referential proof line; คับ 1 (in "คำถามที่แท้จริงของโพสต์นี้คับ"); no ครับ.
+
+### 2026-09-21 — draft→publish pair #11: show-your-work-reverse (personal-diagnostic v2 transform)
+Provenance: user published an edit of the same day's SHIP-90 long-form draft (713 wc-w) and directed "content ที่ published จริง ลอง analyze แล้วปรับใช้ดู". Archived `web-archive/20260921-show-your-work-reverse-published.md`, index 309. NOT on WP (searched live). **Fifth format discovered: the personal-diagnostic transform** — a v2-shaped post rewritten from third-person engineering voice into first-person personal narrative.
+
+| metric | draft (SHIP-90 v2) | published (show-your-work-reverse) |
+|---|---|---|
+| words | 713 | 564 (0.79×) |
+| non-empty lines | 148 | 295 (avg 1.9 words/line vs 4.8) |
+| H1 / H2 | 10 / 6 | 9 / 3 |
+| `.` beat breaks | 18 | 39 |
+| `---` hr separators | 0 | 10 |
+| `—` dash bullets | 35 | **0** |
+| `>` blockquotes | 2 | 14 |
+| bold spans | 16 | 35 |
+| protocol names (XX-0N) | 11 (INK-01×7, DISPATCH-01, STREAM-01, SHIP-01, SHIP-90) | **0** |
+| พร / คุณ / คับ | 0 / 13 / 3 | 0 / 11 / 2 — BUT first-person narrative is now "พร" as STORYTELLER ("ช่วงหนึ่งพรเข้าใจ…", "พรเลยเปลี่ยนคำถาม", "กฎเดียวที่พรกำลังทดลอง") — the corpus's first post where the narrative self is พร in a SYSTEM post (previous rule: พร only in expert-credence lines) |
+
+**The 12 conversion moves (personal-diagnostic transform):**
+1. **Hook reframe — from external claim to internal confession.** Draft title = Sturgeon stat claim ("90% ของงาน…คือขยะ"); pub = "ถ้าการ Show Your Work ทำให้คุณไม่มีแรงทำ Work — คุณกำลังทำมันกลับด้าน". The stat (90%) moves from TITLE to mid-post ("แล้วเรื่อง Perfection ล่ะ?" section). The "กลับด้าน" (inverted) framing survives from the draft's Precedence Inversion but is renamed to a self-check the reader can perform on themselves.
+2. **Narrative self = the diagnostic case.** "ช่วงหนึ่งพรเข้าใจคำว่า Show Your Work ผิด" — the author's own wrong model (working → finding time to "make content" → hook/image/caption/checking likes) IS the 3-symptoms evidence. Draft's abstract "คนส่วนใหญ่ไม่กล้า…" became a personal before/after.
+3. **Stat-line pair + "คำถามที่แท้จริงของโพสต์นี้คับ" CUT.** Replaced by a single question in a blockquote: "วันนี้คุณกำลังทำงานจริงหรือกำลังทำงานเพื่อให้มีอะไรไปโพสต์?" (one question, not the decision-level pair).
+4. **Not-pitching block CUT.**
+5. **3 signals → 3 symptoms of INVERSION.** Draft's self-check signals (drafts pile up / "no time" / content days kill main work) → pub's "จุดที่ระบบเริ่มกลับด้าน" (post-time > work-time / "อันนี้โพสต์ยังไง" mid-work / content-heavy day = no new evidence). Signal 2 is NEW — attention-splitting mid-work, the subtlest failure mode. Each symptom ends with a bold named state: **Work for Showing**, "Exhaust เริ่มพยายามบังคับ Engine", "Activity แต่ไม่มี Evidence ใหม่".
+6. **Pipeline added — the post's actual thesis:** `Doing → Evidence → Compile → Show` (vs "คิดว่าจะ Show อะไร → หาอะไรไปทำ"). Draft had Core Engine/Exhaust metaphor but no named pipeline; pub makes the pipeline the spine and reuses it in the closer.
+7. **New concept split: Raw Evidence vs Compiled Asset** (Screenshot/Note/Error/number → 3 lines/image/case study/checklist) — "Showing ไม่จำเป็นต้องสร้าง Content ใหม่ — มันอาจเป็นแค่ Compile สิ่งที่มีอยู่แล้ว — ความต่างเล็กมาก แต่ต้นทุนคนละเรื่อง".
+8. **Protocol CUT — replaced with Tiny Experiment + single rule.** SHIP-90's 3 `--commands` + Success Criteria gone. Pub: "พรยังไม่รู้ว่าระบบนี้ควรเป็นยังไง — ดังนั้นยังไม่อยากสร้าง Protocol ใหญ่ — ลองแค่ 7 วัน" — time-budget compile test with the debug question "ทำไมการ Show สิ่งที่เกิดขึ้นแล้วถึงต้องใช้แรงขนาดนี้?" — and ONE quoted rule: "Core Engine ต้องสร้าง Evidence ก่อน Showing ถึงจะเริ่มต้นได้". Explicit anti-protocol: "ไม่ใช่ 'ต้องโพสต์ทุกวัน' / ไม่ใช่ 'ต้องปล่อย 5 ชิ้นต่อสัปดาห์' / ไม่ใช่ 'ต้องใช้เวลา 11 นาที'" (the 11-minute INK-01 anchor is named ONLY to be excluded).
+9. **Cross-refs CUT entirely** (INK-01 / DISPATCH-01 / STREAM-01 / SHIP-01 / โพสต์ตัวอย่างสด section all gone) — the personal post carries zero protocol cross-links.
+10. **Sturgeon demoted to one section + reinterpreted.** The 1945/"More Than a Hundred" attribution CUT — "Theodore Sturgeon มีประโยคที่ถูกอ้างถึงบ่อยว่า" (weaker, safer phrasing). New honest read: 90% ≠ "ปล่อยงานห่วยๆ ไปเถอะ" but "อย่าคาดหวังว่า Output ทุกชิ้นต้องกลายเป็น Asset ที่ดี" + self-deprecating "กูโพสต์อะไรไปวะ 55555" (FIRST กู/55555 in the corpus — register break for personal-diagnostic posts only). Killer line: **Perfection กำลังเก็บภาษีจาก Work**.
+11. **Layout: `---` hr sections + 1-word-per-line flow + `>` for every direct question (14×)** — dash bullets eliminated (35→0), beats doubled. Blockquote now carries all quoted questions and the single rule.
+12. **Closer = v2 closer, but pipeline restated instead of concept defs:** Doing/Evidence/Compile/Showing as bold definitions (replacing Snapshot/Stream/Terminal/Public Artifact) → pipeline re-ask ("ถ้าวันไหนกลายเป็น Show → หาเรื่องมาทำ → สร้าง Evidence ให้เข้ากับโพสต์ = ระบบกลับด้านแล้ว") → metaphor callback (รถไม่ได้วิ่งด้วยไอเสีย — kept verbatim from draft) → final night question "วันนี้ Core Engine ของคุณทิ้ง Evidence อะไรไว้?" + "ถ้าตอบได้ ค่อย Compile มัน" — NO Law #1 line, NO EN pull-quote, NO CTA number (draft's "คอมเมนต์ตอบเป็นตัวเลขตัวเดียว" CUT).
+
+**Rule-of-thumb for future drafts (draft→publish pair #11):** when the user publishes a personal-diagnostic version of a system post, the draft should have ALREADY been written as a personal before/after with (a) one named pipeline as spine, (b) 3 symptoms each ending in a bold named state, (c) a Tiny Experiment section INSTEAD of the protocol (7-day, time-budget, debug-question), (d) the single quoted rule, (e) zero cross-refs/protocol names, (f) closer = pipeline restatement + night question. The engineering protocol draft remains the SOURCE asset; the personal post is its narrative derivative — both keep the same hashtags.
+
+**Evolution Notes extension:**
+13. **Personal-diagnostic is the 5th format** (after: System Diagnostic 3-error / N-signals level-up / tool review B / v2 line-per-sentence / social line-break repost). It shares v2's layout (H1 sections, `.` beats, bold) but swaps the engineering voice for first-person confession, cuts all protocol machinery, and ends on a night question instead of a Law line.
+14. **Register break (personal-diagnostic only):** กู/55555 self-deprecation appears for the first time in the corpus; narrative self = พร in system posts (previously expert-credence lines only).
+15. **Anti-protocol is now a content position:** "พรยังไม่รู้ — ยังไม่สร้าง Protocol ใหญ่ — ลอง Tiny Experiment 7 วัน" is itself the Duck OS position (PACT Tiny Experiment) — future system posts may deliberately ship a rule + experiment INSTEAD of a 3-command protocol when the system is unproven.
