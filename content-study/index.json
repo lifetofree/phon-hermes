@@ -2431,5 +2431,14 @@
     "words": 1435,
     "file": "/home/lifetofree/hermes-agent/content-study/web-archive/20260920-llama-cpp-wrapper-vs-engine-social.md",
     "note": "social line-break repost of draft 20260909-cnt-llama-cpp-engine-intro.md; user-pasted, not on WP; pattern directive 2026-09-20"
+  },
+  {
+    "slug": "20260921-cnt-system-audit-foibles-scan-v2",
+    "title": "System Audit: ทำไม \"การสารภาพความจริง\" คือ Diagnostic Tool ที่ซ่อมสมองได้ดีที่สุด (Dopamine Nation Ch.8 × Duck OS)",
+    "date": "2026-09-21T12:00:00",
+    "link": "",
+    "words": 668,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/20260921-cnt-system-audit-foibles-scan-v2.md",
+    "note": "rewrite of 20260906-cnt-system-audit-foibles-scan.md into v2 line-per-sentence pattern (2026-09-21 directive); diagnosis post → 3-error retained; fact-check fix: Ch.8 = 'Radical Honesty', 'System Audit' = our label"
   }
 ]
