@@ -1,21 +1,17 @@
 <!--
 ContentID: 20260923-CNT-ROUTINESHIELD (placeholder)
-Status: draft — v3 2026-09-23 (Benz DNA critique applied; replaces v2 on same Notion page)
+Status: draft — v4 (CORE LOCKED, 2026-09-23) — user "แกนล็อกแล้วคับ" + locked logic + locked closer; replaces v3 on same Notion page
 Type: v2 line-per-sentence
-Spine: Routine = Decision ที่ถูก Compile เป็น Default (Decision Asset) — Repeated Decision → Pattern → Compile → Default
-Benz DNA critique (10 points) applied:
-1. Core = เก็บ Decision ที่ตัดสินใจแล้ว ไม่ให้ต้องตัดสินใจเรื่องเดิมซ้ำ (NOT PFC→basal ganglia offload)
-2. คุก = Rule ที่ยังต้องเชื่อฟัง แม้ Context เปลี่ยนแล้ว / เกราะ = Default ที่ลด Decision Cost และแก้ได้เมื่อ Reality เปลี่ยน; Default = คำตอบล่วงหน้าสำหรับคำถามที่เราไม่ควรต้องตอบใหม่ทุกวัน
-3. CUT "แรงฮึด = Dopamine Spike → Crash เสมอ" → "ถ้า Routine ต้องรอให้คุณรู้สึกอยากทำทุกครั้ง มันยังลด dependency จาก state ของคุณไม่ได้"
-4. CUT battery model → "ทุกครั้งที่ต้องหยุดงานสำคัญเพื่อเลือกเรื่องเดิมอีกครั้ง เราเสีย Attention และเพิ่ม Cognitive Load"
-5. CUT 3 Brain Layers / Habit Formation / basal ganglia ทั้งก้อน
-6. CUT MOAT-01 + params (7 วัน / 1 ข้อ / ห้ามเพิ่ม — false precision) → Tiny Experiment (no protocol name)
-7. Routine ของคนอื่น = Hypothesis ไม่ใช่ Instruction (Borrow → Test → Adapt, ไม่ใช่ Copy → Obey)
-8. "แก้ได้" = co-core: Stable enough to remove decisions. Flexible enough to change when reality changes. (ป้องกัน Noise โดยไม่ปิดกั้น Feedback)
-9. "Routine ไม่ได้มีไว้ทำให้วันดีสุดขั้วที่สุด — มันมีไว้ลดจำนวน Decision ที่วันแย่ต้องแบก" + bad-day test (dependency lens)
-10. 1 metaphor family (คุก/Default) — no moat/battery/brain; hook = "รูทีนกลายเป็นคุกเมื่อกฎสำคัญกว่าความจริง" (critic's preferred line)
-Bridge to previous post (2026-09-23 Progress Loop): เมื่อวาน Progress = รอบถัดไปไม่ต้องจ่ายต้นทุนเดิม / วันนี้ Routine = วิธีไม่ต้องจ่ายต้นทุนของ Decision เดิมซ้ำ
-Critic's pre-rewrite question → post's final question (identity vs Default)
+Locked core: Routine = Decision ที่ถูก Compile เป็น Default — Default อยู่ต่อได้ตราบใดที่มันยังลดต้นทุนการตัดสินใจและยังตรงกับ Reality
+Locked logic chain: Repeated Decision → เห็น Pattern → Compile เป็น Default → ไม่ต้องตัดสินใจใหม่ทุกวัน → Reality ส่ง Feedback → (Default ยังช่วย → Keep / Default ไม่ช่วย → Rewrite / Delete)
+Locked lines (user-verbatim, must appear):
+- "Routine ไม่ได้ปกป้องเราแล้ว — มันเริ่มปกป้อง Identity ของตัวมันเอง" (trap: "ฉันทำแบบนี้มาตลอด" / "นี่คือระบบของฉัน" / "ฉันเป็นคนแบบนี้")
+- "Routine ไม่ใช่คำสาบาน — มันคือคำตอบล่วงหน้าที่ยังแก้ได้"
+- "รอบก่อน: ทำอย่างไรให้พรุ่งนี้ไม่ต้องจ่ายต้นทุนเดิมซ้ำ? / รอบนี้: ถ้า Decision เดิมเกิดซ้ำมากพอ Compile มันเป็น Default"
+- "Routine ที่ดีไม่ได้บอกว่าคุณต้องใช้ชีวิตยังไง — มันแค่เก็บคำตอบของเรื่องที่คุณไม่ควรต้องตัดสินใจใหม่ทุกวัน"
+- CLOSER: "อย่าภูมิใจว่ารักษารูทีนได้นานแค่ไหน — ถามว่ามันยังลดต้นทุนของชีวิตอยู่ไหม" + "ถ้าไม่แล้ว — ลบได้" + "ระบบมีไว้รับใช้ Reality — ไม่ใช่ให้ Reality รับใช้ระบบ"
+CUT (locked, must stay 0): PFC / Amygdala / Basal Ganglia / Dopamine Spike / 3 Brain Layers / 7-day protocol / moat --test / battery / moat / protocol params / Laws
+v3 carry (Benz DNA critique applied): คุก = Rule ที่ยังต้องเชื่อฟัง แม้ Context เปลี่ยนแล้ว / เกราะ = Default ที่ลด Decision Cost และแก้ได้ / Hypothesis ไม่ใช่ Instruction (Borrow→Test→Adapt) / bad-day test / Tiny Experiment (no protocol)
 -->
 
 # Routine = Decision ที่ถูก Compile เป็น Default
@@ -177,13 +173,25 @@ Default ที่ดี
 
 ไม่ใช่เพราะมันยังลด Decision Cost
 
-แต่เพราะ "ฉันเป็นคนมีวินัย"
+.
+
+แต่เพราะ
+
+"ฉันทำแบบนี้มาตลอด"
+
+"นี่คือระบบของฉัน"
+
+"ฉันเป็นคนแบบนี้"
 
 .
 
-ตรงนั้น Default กลายเป็นคุก
+ตรงนั้น Routine ไม่ได้ปกป้องเราแล้ว
 
-เพราะกฎสำคัญกว่าความจริงแล้ว
+**มันเริ่มปกป้อง Identity ของตัวมันเอง**
+
+.
+
+นี่แหละที่ เกราะ กลายเป็น คุก
 
 .
 
@@ -229,6 +237,12 @@ Routine ของคนอื่น
 
 .
 
+Default มีสิทธิ์อยู่ต่อได้
+
+**ตราบใดที่มันยังลดต้นทุนการตัดสินใจ และยังตรงกับ Reality**
+
+.
+
 Routine ที่ดีมีสองคุณสมบัติ:
 
 **Stable enough to remove decisions.**
@@ -253,9 +267,29 @@ Routine ที่ดีมีสองคุณสมบัติ:
 
 .
 
+ดังนั้น:
+
+**Reality ส่ง Feedback**
+
+↓
+
+Default ยังช่วย → **Keep**
+
+↓
+
+Default ไม่ช่วย → **Rewrite / Delete**
+
+.
+
 ตรงกลางนี่แหละคือ Routine ที่ดี
 
 **ป้องกัน Noise โดยไม่ปิดกั้น Feedback**
+
+.
+
+และจำไว้:
+
+**Routine ไม่ใช่คำสาบาน — มันคือคำตอบล่วงหน้าที่ยังแก้ได้**
 
 .
 
@@ -301,13 +335,11 @@ Test จริงคือ
 
 .
 
-โพสต์ก่อนหน้าจบที่
+โพสต์นี้ต่อจากโพสต์ก่อนหน้าโดยตรง:
 
-> **Progress = รอบถัดไปไม่ต้องจ่ายต้นทุนเดิมซ้ำ**
+> **รอบก่อน: ทำอย่างไรให้พรุ่งนี้ไม่ต้องจ่ายต้นทุนเดิมซ้ำ?**
 
-.
-
-โพสต์นี้เป็นกรณีเฉพาะของหลักเดียวกัน
+> **รอบนี้: ถ้า Decision เดิมเกิดซ้ำมากพอ Compile มันเป็น Default**
 
 .
 
@@ -341,15 +373,25 @@ Decision เดิมยังไม่ได้กลายเป็น Asset
 
 ↓
 
-**Pattern**
+เห็น **Pattern**
 
 ↓
 
-**Compile**
+**Compile เป็น Default**
 
 ↓
 
-**Default**
+ไม่ต้องตัดสินใจใหม่ทุกวัน
+
+↓
+
+**Reality ส่ง Feedback**
+
+↓
+
+Default ยังช่วย → **Keep**
+
+Default ไม่ช่วย → **Rewrite / Delete**
 
 .
 
@@ -359,9 +401,9 @@ Routine จึงเป็น **Decision Asset**
 
 ไม่ใช่นิสัยที่ต้องมีวินัย
 
-แต่คือ
+.
 
-> **ของที่เก็บคำตอบของการตัดสินใจเดิมไว้ เพื่อให้วันพรุ่งนี้ไม่ต้องคิดใหม่จากศูนย์**
+> **Routine ที่ดีไม่ได้บอกว่าคุณต้องใช้ชีวิตยังไง — มันแค่เก็บคำตอบของเรื่องที่คุณไม่ควรต้องตัดสินใจใหม่ทุกวัน**
 
 .
 
@@ -369,11 +411,13 @@ Routine จึงเป็น **Decision Asset**
 
 .
 
-โพสต์นี้ถูกเขียนมา 3 รอบ
+โพสต์นี้ถูกเขียนมา 4 รอบ
 
 รอบแรก — 654 คำ พร้อม Neuroscience และ Protocol
 
 รอบสอง — 511 คำ
+
+รอบสาม — 599 คำ
 
 รอบนี้ — เหลือ 1 ประโยคหลัก
 
@@ -451,25 +495,29 @@ Routine จึงเป็น **Decision Asset**
 
 .
 
-คำถามที่แท้จริงไม่ใช่ "คุณมี Routine อะไรบ้าง"
+คำถามสุดท้าย ไม่ใช่ "คุณมี Routine อะไรบ้าง"
+
+.
 
 แต่คือ
 
-> **คำถามเดิมที่คุณตอบซ้ำทุกวัน — คุณพร้อม Compile มันให้เป็น Default หรือยัง?**
+> **ถ้า Default หนึ่งตัวไม่ลดต้นทุนการตัดสินใจแล้ว — คุณพร้อมทิ้งมันไหม? แม้มันจะเป็นส่วนหนึ่งของ "นี่คือคนแบบฉัน"?**
 
 .
 
-และคำถามที่หนักกว่า:
+เพราะ
 
-> **ถ้า Default หนึ่งตัวไม่ลด Decision Cost แล้ว — คุณพร้อมทิ้งมันไหม? แม้มันจะเป็นส่วนหนึ่งของ "นี่คือคนแบบฉัน"?**
+> **อย่าภูมิใจว่ารักษารูทีนได้นานแค่ไหน — ถามว่ามันยังลดต้นทุนของชีวิตอยู่ไหม**
 
 .
 
-ถ้าคำตอบคือ ใช่
+ถ้าไม่แล้ว
 
-โพสต์นี้ไม่ใช่เรื่องวินัย
+ลบได้
 
-มันคือเรื่อง **การ Compile Decision ให้เป็น Default โดยไม่ปล่อยให้ Default กลายเป็นคุก**
+.
+
+**ระบบมีไว้รับใช้ Reality — ไม่ใช่ให้ Reality รับใช้ระบบ**
 
 .
 
