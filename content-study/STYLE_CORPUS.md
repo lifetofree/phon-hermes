@@ -367,5 +367,50 @@ Provenance: UDO drafted v1→v2→v3→v4 on one Notion page (654→511→599→
 
 **Series state (do NOT name it):** this is the 2nd published post of the loop/asset thread (after the Progress Loop reframe) — and the first post whose publish version was cut of ALL action items: the series is now arguing that the asset is the Definition, not the Protocol.
 
+### 2026-09-24 — pair #16: external-ram-three-lists → "อย่าให้สมองเป็นที่เดียวที่รู้ว่าเรื่องนี้ยังไม่จบ" (5th user rewrite, Benz-DNA 11-point critique + user rewrite, to-be-posted)
+Provenance: same-day UDO draft `posts/20260924-cnt-external-ram-three-lists.md` (591 wc-w, v2 3-lists taxonomy, Notion 3e5df8d8-8d8c-813f-a750-ed713c6412c4) → user ran it past an 11-point Benz DNA critique, then returned their OWN rewrite + "learn and analyze how to write content in my style that we write it better". Archived verbatim `web-archive/20260924-brain-single-place-user-rewrite.md`, index 319. Notion page NOT touched (analyze-only request).
+
+|| metric | draft (UDO v2) | rewrite |
+|---|---|---|
+| words | 591 | **661 (1.12× — FIRST EXPANSION; trim-series 0.58→0.74→0.90→0.91 ends here)** |
+| non-empty lines | 215 | 430 (~1.5 words/line — finest granularity in corpus) |
+| H1 / H2 / H3 | 9 / 0 / 1 | 16 / 0 / 1 |
+| `.` beats | 53 | 71 |
+| `---` hr | 8 | 12 |
+| `—` bullets | 36 | **5** (near-eliminated → prose + quoted inner voices) |
+| `>` blockquotes | 12 | 19 |
+| bold | 32 | 35 |
+| `↓` chains | 3 | 8 |
+| protocols | INK-01 | **0** |
+| ผม / พร(genuine) / คุณ / เรา / คับ | 0 / 7 / 6 / 0 / 0 | **37 / 0 / 1 / 12 / 0** — FIRST full-ผม post; reader addressed ONCE |
+| curly “ ” | 0 | 0 (straight quotes 56 — drift back from #12–14) |
+| closer | `#สรุปแบบวิศวกรเป็ด` | `# #สรุปแบบวิศวกรเป็ด` (user's double-# form, consistent #12–15) |
+
+**What the rewrite did (move list):**
+1. **Thesis swapped: slogan → criterion.** "สมองมีไว้คิด — Storage มีไว้จำ" (catchy, overclaims — memory IS cognition) → "**อย่าให้สมองเป็นที่เดียวที่รู้ว่าเรื่องนี้ยังไม่จบ**" (observable, testable single-responsibility claim). The slogan is gone entirely; the H1 IS the test.
+2. **Architecture inverted: 3-list taxonomy → 1 dispatch question + 2 Modes.** "เรื่องนี้ยังจำเป็นต้องอยู่ในหัวตอนนี้ไหม?" forks into **Capture** (เอาออกเพื่อกลับมาทีหลัง) / **Inspect** (เอาออกเพื่อคิดกับมันตอนนี้). The 3 lists survive only as EXAMPLES under the modes — the critique's core point (To-do=Remember / To-learn=Return / Pros-Cons=Think Now are different jobs force-fit by shape).
+3. **Externalization gets two named functions**: Externalize to **Inspect** (← previous post, Inspectable Artifact) and Externalize to **Release** (new: "เอาออกมาเพื่อให้มันหยุดเรียกเรา"). "หนึ่ง: เอาออกมาเพื่อให้มันเถียงกลับเราได้ / อีกหนึ่ง: เอาออกมาเพื่อให้มันหยุดเรียกเรา".
+4. **Computer-metaphor family collapsed to ONE survivor.** RAM/Storage/CPU/Cache Cleaner/Internal Variables = 0 as argument; the only engineering term that survives is **Single Point of Failure** — in the closer, because it now IS the thesis (สมอง = the single place that knows). Concept Inflation fixed by keeping the one metaphor that carries the claim.
+5. **Neuroscience overreach zeroed**: "ทุกตัวแปรที่ค้าง กิน Cognitive Load ทุกวินาที" → "บางเรื่องก็กลับมา" + quoted inner voices ("อย่าลืมตอบลูกค้านะ" / "เรื่อง laptop เอาไง?") — the observable phenomenon replaces the mechanism claim. PFC/Layer 3 parenthetical = 0.
+6. **ALL external authorities cut (zero-count verified)**: da Vinci, Dichotomy of Control, C.O.D.E, Cache Cleaner, INK-01, Law #, ผูกกลับ Duck OS section, 30-day goal, "จัดลำดับเป็นงานของเย็น" (false precision), "สมุดเดียว 3 ส่วน" (medium-as-mechanism). Medium demoted: "Medium ไม่ใช่พระเอก / กระดาษ Notes Task manager ไฟล์ .md ไม่สำคัญ".
+7. **Oversell softened to honesty**: "การถกที่ไม่มีวันจบ" + "อ่าน 2 คอลัมน์แล้วเลือก — 5 นาที" → "Pros-and-cons ไม่ได้ตัดสินใจแทนผม / มันแค่ทำให้เหตุผลที่เคยมองไม่เห็น กลายเป็นสิ่งที่ตรวจสอบได้" (invisible reasoning → inspectable reasoning, not auto-resolution).
+8. **Tests replace rules — zero action items survive.** TWO diagnostic questions carry the system: the Capture test ("ถ้าผมหยุดคิดเรื่องนี้ตอนนี้ ระบบจะพาผมกลับมาหามันตอนที่ต้องใช้ไหม?") and the final test ("หลังจาก Externalize แล้ว สมองยังต้องเป็นที่เดียวที่รับผิดชอบเรื่องนี้อยู่ไหม?"). No protocol, no criteria section, no Tiny Experiment — the tests ARE the post (extends #15's cut-all-scaffolding to its conclusion).
+9. **Meta-retraction — the draft's own architecture becomes the cautionary tale**: "ตรงนี้ผมเคยพลาด / ผมพยายามแบ่งมันเป็น 3 Lists" + closer "ผมเลยไม่ได้ต้องการ '3 Lists'... ไม่ต้องเพิ่ม Protocol" — the published post retracts the draft's system IN CHARACTER (extends #26's personal-retraction move to UDO's own structure).
+10. **Anti-commitment section (new stance)**: "Externalize ไม่ได้มีไว้ทำให้ทุกอย่างเป็น Action" / "การ Capture ไม่ใช่ Commitment" / "บางอย่างมีสิทธิ์อยู่ใน List แล้วหายไปเอง" — extends #14's anti-optimization ("ยังไม่ต้อง") into anti-obligation: a list item may die quietly; the list is "ที่พัก" not "คลังภาระ".
+11. **Series web by FUNCTION, not by title/date**: Inspect ← Inspectable Artifact post; Capture ← Routine post — "Routine ลดต้นทุนด้วย Default / Externalization ลดต้นทุนด้วย Trusted Return Point — ต่างกัน แต่เข้าชุดเดียวกัน" + "บาง Loop แค่ต้องมีที่กลับมา". Zero dated cross-refs.
+12. **Narrator = ผม; reader = 1 address.** The diagnostic stance ("คุณกำลังวินิจฉัยโรคผิด") is fully replaced by self-discovery ("ผมเคยพลาด"); the single คุณ appears in a section heading ("Capture ที่ดีต้องทำให้คุณ 'ปล่อย' ได้").
+
+**New rules for future drafts (Evolution Notes extension):**
+27. **ผม is the personal register now** — the narrator shift is complete: พร→เรา (#11–13) → พร-51× (#14) → **ผม-37×/คุณ-1×/พร-0/คับ-0 (#16)**. Personal posts = self-referential discovery; do NOT diagnose the reader.
+28. **Slogan → criterion swap**: when a catchy line overclaims ("สมองมีไว้คิด ไม่ได้มีไว้จำ"), replace it with the observable test ("อย่าให้สมองเป็นที่เดียวที่รู้ว่าเรื่องนี้ยังไม่จบ") and make the criterion the H1. A slogan may survive only if it is literally true.
+29. **Taxonomy → dispatch question**: when N same-shaped items do different jobs (3 lists, 4 filters), do not ship the taxonomy — ship ONE dispatch question + the 2 (rarely 3) MODES it forks into; demote the N items to examples under the modes. Generalizes #12 (4 gates→2) and this pair (3 lists→2 modes).
+30. **The worked mistake is the worked example**: name the discarded system as the author's own past error ("ผมพยายามแบ่งมันเป็น 3 Lists") — the draft→publish delta itself becomes content. Meta-retraction (extends #26).
+31. **Expansion is allowed — length follows the argument**: 1.12× breaks the trim series. What expanded: function definitions, the two tests, the anti-commitment section. What was cut: every external authority + all machinery. Draft for the argument's needs; do not pre-trim.
+32. **Tests > rules**: ship diagnostic QUESTIONS (would the system bring you back?) instead of commands/criteria/protocols — a question the reader can ask tonight scales; a protocol they must adopt doesn't. (The endpoint of the anti-protocol arc #12→#15→#16.)
+
+**Nits (NOTES only — user's text, do NOT edit):** (1) `# #สรุปแบบวิศวกรเป็ด` double-# — user's own form since #12, keep; (2) straight quotes (56) vs #12–14's curly — register drift, no action; (3) **#NeuroDivergent dropped from the hashtag core for the first time in the corpus** (draft had it; rewrite's tags = #Adduckivity #DuckOS #Externalize #Capture #InspectableArtifact #CognitiveLoad #SystemThinking) — watch whether the core re-stabilizes at 2 tags; (4) consecutive H1s used as one sentence ("# Capture เพื่อหยุดคิด" / "# Inspect เพื่อคิดให้ชัด") — intentional layout element.
+
+**Series state (do NOT name it):** Post-thread function map so far — burn loop (Doing→Evidence→Compile→Show) / 2-gate (Private→Boundary→Value→Public) / Flow→Stock / Material Library (Recompile loop) / Progress Loop (residue taxonomy) / Routine (Decision→Default) / **this post (Capture vs Inspect — Externalization's two functions)**. The thread is compiling itself: each post states its predecessor's FUNCTION, never its title. Codepoint scan: CLEAN.
+
 
 
