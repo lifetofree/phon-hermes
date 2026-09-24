@@ -434,3 +434,37 @@ The critique's core read (accepted): the draft thinks it proposes a bad-day metr
 38. **Rank a practice's N components by thesis-load**: the Next-Start line carries the thesis; the what-I-got line is emotional closure — a different job. Minimum viable Save State = Next Start alone; never claim equal necessity.
 
 **Series state (do NOT name it):** thread function map extended — burn loop / 2-gate / Flow→Stock / Material Library / Progress Loop (residue taxonomy) / Routine (Decision→Default) / Capture vs Inspect / **this post (Save State = Context across sessions)**. The critique itself compiled the series before we did — third independent confirmation the thread is a system. Codepoint scan: CLEAN (checked on draft + this entry).
+
+
+### 2026-09-24 — pair #17 COMPLETE: survival-checksum → "วันที่แย่ไม่ต้องกู้ — แค่ทำให้พรุ่งนี้ไม่ต้องเริ่มจากศูนย์" (user rewrite, to-be-posted)
+
+Provenance: UDO same-day draft `posts/20260924-cnt-survival-checksum-end-of-day.md` (442 wc-w) → user ran it past the 12-point Benz-DNA critique (archived `web-archive/20260924-survival-checksum-benz-dna-critique.md`) → returned their OWN rewrite same day with "ตัวแก้ไข ไม่ต้องไปแก้ใน notion ให้ analyze แล้วเอาไปปรับปรุง skill การทำ content". Archived verbatim `web-archive/20260924-save-state-user-rewrite.md`, index 321. Notion page intentionally NOT touched (user explicit). Register: full พร narrator (14×) / คุณ 0 / ผม 0 / คับ 0 — pairs #11–15 form, #16's one-off ผม not repeated.
+
+| metric | draft | rewrite |
+| wc-words | 442 | 497 (**1.12×** — 2nd consecutive expansion after #16's 1.12×; the trim era is over) |
+| H1 | 8 | 10 |
+| beats '.' | 63 | 74 |
+| blockquotes '>' | 7 | 25 |
+| bold spans | 9 | 18 |
+| --- hr / ↓ arrows | 7 / 4 | **0 / 0** |
+| protocols | 0 | 0 |
+
+**Critique implementation — ALL 12 points verified in-file (code-checked):** Checksum 0× (killed for Save State, now 10× — single metaphor) / Recycle Bin 0× / อัตตา-of-Output section 0× (replaced by observable line "เพราะไม่ได้กู้วันเพราะงานคุ้ม แต่..." — actually the whole ego thread cut; the rescue-trap motivation line kept as "ไม่ได้ตอนนี้ไม่ได้แปลว่าวันนี้แพ้" framing) / "ตอนที่หัวยังเงียบอยู่" 0× (logic issue fixed by cutting the claim) / pass-fail H1 0× → critic's proposed hook **verbatim** as H1 ("วันที่แย่ไม่ต้องกู้ — แค่ทำให้พรุ่งนี้ไม่ต้องเริ่มจากศูนย์") / survival framing broadened — "recover ไม่คุ้มแล้ว" decision rule present, 2/10 score 0× / "อย่าเพิ่มต้นทุนของพรุ่งนี้" decision rule present / "สองบรรทัด" demoted — "สองบรรทัดไม่ใช่ระบบ หน้าที่ต่างหากคือระบบ" + "บางครั้ง Save State มีแค่ Next Start" (both critic points 6-7) / stress-test definition adopted **verbatim**: "สิ่งที่ทิ้งไว้มี Context พอให้รอบถัดไป Resume โดยไม่ต้อง reconstruct งานเดิมใหม่" (own H1 section "พรุ่งนี้เริ่มที่ Header อาจยังไม่พอ", built as the 20-minute-reconstruct worked example the critic forced) / "Externalize the next starting point" → closing section "Progress บางครั้งคือการส่งต่อที่ดี" with the Routine/Capture/Save State function-series compiled IN-POST (the critic's cross-post audit became the post's own closer).
+
+**New moves (pair #17):**
+1. **The critique's stress-test question became a SECTION** — the critic forced "if 'พรุ่งนี้เริ่มที่ header' still costs 20 min, did Save State succeed?" and the rewrite built the entire "พรุ่งนี้เริ่มที่ Header อาจยังไม่พอ" section around it: Save ชื่อ Task ≠ Save Context, worked example "Header ยังยาวเกินไป / ลองตัด subhead ก่อน / ถ้ายังไม่ชัด กลับไปดู version 2". The forced question is now content.
+2. **The function-series cross-reference moved INSIDE the post** — Routine (Compile Decision เป็น Default) + Capture (สร้าง Return Point) + Save State (ส่ง Context ข้าม Session) compiled as the closing section, each with its own job verb. The critic compiles the series; the author now does it in-post (first time the series map appears in a post body).
+2b. **Bridge to the previous post via MODE-INHERITANCE**: "นี่คือ Externalization อีกแบบหนึ่ง" — Save State inherits the Capture/Inspect distinction from the pair-#16 post (Inspect = think-with-now, Capture = return-later) and adds its Return Point = "Session ถัดไป". A post now extends its predecessor by INHERITING its dispatch structure, not by citing it.
+3. **Format elements flipped**: the `---` hr sections and ↓ chain diagrams (pairs #12–13 signatures) are GONE (0×) — replaced by bare `#` H1 + `.` beats + `>` questions (25×, every question AND every quoted inner voice). The format is converging on: H1 + subtitle + one-clause-per-line + blockquote-carried questions + bold definitions, no section dividers, no arrow diagrams.
+4. **"เรา" appears in the general-truth voice** (draft 0× → rewrite ~8×): narrator splits — พร narrates the story, เรา carries the universal claims ("ถ้ายังพยายามทำทุกอย่าง...เราอาจกำลังเพิ่มต้นทุนของพรุ่งนี้"). First time since #11 that the narrator role-splits by sentence function.
+4b. **Quote-shift: inner monologue now in `>` blockquotes** — the 23:00 rescue monologue ("ต้องกู้วันนี้กลับมาให้ได้") and next-morning questions ("เมื่อวานทำถึงไหนนะ?") moved INTO blockquotes, previously plain text. Questions AND inner voices, not just questions.
+5. **Length no longer a constraint signal** — 442→497 (1.12×): two consecutive expansions confirm the convergence band (0.58→0.74→0.90→0.91→1.12→1.12) is settled around parity-to-slight-expansion; the rewrite ADDS sections the draft never had (Medium ไม่สำคัญ / Next Start / Externalization bridge / Progress-as-handoff closer).
+
+**Drafting rules (Evolution Notes 39–41):**
+39. **When a critique proposes a better H1/hook, the rewrite adopts it verbatim** — the critic's exact line becomes the post's H1 (2/2 now: #16's criterion-H1, #17's mechanism-H1). Drafts should surface 2–3 candidate hooks in the header comment so the critique round has material to sharpen.
+40. **The forced question at the end of a critique is the next section to build** — a critique ending in a stress-test question is not a rhetorical device; the rewrite builds the worked example that answers it. Treat the critique's final question as a section brief.
+41. **Success definitions as "X สำเร็จเมื่อ [stress test]"** — the user's preferred definition shape (3rd use after #13's testable-redefinition, #16's observable-criterion): success = observable next-session behavior (resumes without reconstructing), never form ("เขียนสองบรรทัด"). Drafts should define every practice's success by stress test, not by form.
+
+**Nits (user's own text — NOTES only, not fixed):** "แต่พรุ่มนี้" / "ไม่ได้ทำให้พรุ่มนี้ดี" / "มันไม่ได้ทำให้พรุ่งนี้ดีขึ้น" (พรุ่มนี้ = พรุ่งนี้ missing ง, 3×) / "Resumeโดยไม่ต้อง reconstruct" missing space / "> **มันทำให้พรุ่มนี้ **เริ่มได้**" malformed nested bold.
+
+**Series state (do NOT name it):** thread function map now has all nodes published-or-ready: burn loop / 2-gate / Flow→Stock / Material Library / Progress Loop (residue taxonomy) / Routine (Decision→Default) / Capture vs Inspect / Save State (Context across sessions). The critique cycle is now 5-for-5 on CUT precision (every named cut lands at zero) and 4-for-4 on adopted verbatim lines. Codepoint scan: CLEAN (archive + this entry).
