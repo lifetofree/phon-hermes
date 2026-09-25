@@ -1,6 +1,8 @@
 # STATE.md — UDO
 
 ## Current State
+- **llama-server = systemd service (2026-09-25):** `~/.config/systemd/user/llama-server.service` (enabled, Restart=on-failure) — Qwen3.8-27B-UD-Q4_K_M, -ngl 44 -t 12 -c 262144 -fa on --split-mode layer, port 8080. ทน reboot, ไม่ต้อง nohup อีก (nohup ถูก reap ตอน tool scope จบ). Log: journalctl --user -u llama-server
+- **daily-foreign-news UNPINNED (2026-09-25):** เคย pin ที่ local Qwen → llama down = job ตาย ("Connection error") เพราะ pinned job ไม่ยืม fallback chain (by design, `cron/scheduler.py::_job_fallback_chain`). แก้ = unpin → job ตาม main model ตอน fire + ใช้ global fallback chain (custom/Qwen → zai/glm-5.3). `hermes fallback list` verify แล้ว. ถ้าจะ pin ใหม่ ใช้ cronjob update pinned=true
 - Knowledge Base DB created in Notion (2026-08-27)
   - Name: "Knowledge Base"
   - DB ID: `3c9df8d8-8d8c-81ac-ba5e-fa129e493638`
