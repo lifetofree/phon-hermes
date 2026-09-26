@@ -2681,5 +2681,12 @@
     "title": "Pair #22 part 1 (user-rewrite, to-be-posted): ไม่มี Notification แล้วทำไมมือยังหยิบโทรศัพท์? (Content A of the split — behavior-before-decision, no-notification scene as proof; Content B pending)",
     "link": null,
     "file": "/home/lifetofree/hermes-agent/content-study/web-archive/20260926-content-a-no-notification-still-reaches-user-rewrite.md"
+  },
+  {
+    "date": "2026-09-26",
+    "slug": "20260926-content-b-surface-changed-function-stays",
+    "title": "Pair #22 part 2 (user-rewrite, to-be-posted): ถ้าลบแอปหนึ่ง แล้วมือไปเปิดอีกแอปแทน — เราอาจกำลังแก้ผิดชั้น (Content B of the split — deletion=experiment, similarity gate, step-up Rule; pair CLOSED)",
+    "link": null,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/20260926-content-b-surface-changed-function-stays-user-rewrite.md"
   }
 ]
