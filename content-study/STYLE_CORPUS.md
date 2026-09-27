@@ -8,7 +8,7 @@ with any new conventions. Do not delete or re-order existing sections.
 All quotes below are verbatim from the corpus (same orthography as source files).
 -->
 
-# Adduckivity Style Corpus — evidence-based analysis (21 posts)
+# Adduckivity Style Corpus — evidence-based analysis (37 posts)
 
 ## Corpus
 
@@ -35,6 +35,22 @@ All quotes below are verbatim from the corpus (same orthography as source files)
 | 2026-09-10 | dopamine-system-diagnostic-protocol | web-archive/dopamine-system-diagnostic-protocol.md | 494 | A |
 | 2026-09-10 | unsloth-studio-local-finetune | web-archive/unsloth-studio-local-finetune.md | 1440 | B |
 | 2026-09-11 | essentialism-the-admin-access | web-archive/essentialism-the-admin-access.md | 355 | A |
+| 2026-09-20 | kleon-daily-dispatch-dispatch-01 | web-archive/kleon-daily-dispatch-dispatch-01.md | 586 | A |
+| 2026-09-20 | tech-string-tax-jev-calib-01 | web-archive/tech-string-tax-jev-calib-01.md | 1837 | B |
+| 2026-09-21 | tech-llamacpp-infra-engine | web-archive/tech-llamacpp-infra-engine.md | 1336 | B |
+| 2026-09-21 | kleon-portfolio-stream-stream-01 | web-archive/kleon-portfolio-stream-stream-01.md | 733 | A |
+| 2026-09-22 | exhaust-over-engine | web-archive/exhaust-over-engine.md | 569 | A |
+| 2026-09-23 | ship-gate-boundary | web-archive/ship-gate-boundary.md | 524 | A |
+| 2026-09-23 | flow-stock-changed-thinking | web-archive/flow-stock-changed-thinking.md | 508 | A |
+| 2026-09-24 | recompilable-asset-library | web-archive/recompilable-asset-library.md | 634 | A |
+| 2026-09-24 | error-log-audit08 | web-archive/error-log-audit08.md | 536 | A |
+| 2026-09-24 | inspectable-artifact | web-archive/inspectable-artifact.md | 525 | A |
+| 2026-09-25 | groundhog-day-loop | web-archive/groundhog-day-loop.md | 563 | A |
+| 2026-09-25 | routine-as-compiled-default | web-archive/routine-as-compiled-default.md | 581 | A |
+| 2026-09-26 | external-memory-cache | web-archive/external-memory-cache.md | 647 | A |
+| 2026-09-26 | save-state-preserve-not-finish | web-archive/save-state-preserve-not-finish.md | 496 | A |
+| 2026-09-26 | capacity-uncommitted-margin | web-archive/capacity-uncommitted-margin.md | 639 | A |
+| 2026-09-27 | load-or-noise-not-discipline | web-archive/load-or-noise-not-discipline.md | 719 | A |
 
 Type key: A = System/Mindset, B = Tool Review, C = other. (Word count = `wc -w` on the archived file, including front-matter lines.)
 
@@ -115,10 +131,11 @@ Top terms: RAM 83, Server 52, GPU 50, API 48, CLI 44, VRAM 28, Token 27, Protoco
 5. **Voice softened in personal posts.** 2026-09 personal posts are conversational and self-deprecating ("พรก็ไม่ได้ลงลึก หรือเก่งอะไรมากมาย", "ถึงจุดหนึ่งเราต้องรู้จักคำว่า 'พอ'") while protocol posts keep the exact 2026-05 register (คับ density unchanged).
 6. **Topic-tag language shifted.** Thai tags (#เป็ดปิดงาน, #พัฒนาตัวเอง, #มนุษย์เงินเดือน) in 2026-01..02; all-English tags from 2026-04 onward, with a stable core #Adduckivity #DuckOS #NeuroDivergent.
 7. **New recurring devices in 2026-09:** "Misdiagnosis" as named first move (9router), "single point of failure" → "พวงกุญแจทั้งพวง" extended metaphors (9router, superclick), "ระบบ > X" one-liners ("ระบบ > ค่า token", "ระบบ > rent", "ระบบ > ความพยายาม") as closing formulas, emoji status chips (🔴/🟢/✔️/📝/🐞/📁 in weekly-calibration; ✓/☰/◉ tab icons in task-logger).
+8. **Protocol era ended on public WP (2026-09-20 → 09-22); "โพสต์ก่อน" series chain.** The 4 protocol posts of 09-20..09-21 (dispatch-01 / string-tax / llamacpp / stream-01) are the LAST XX-01 generation on public WP (DISPATCH-01, CALIB-01, STREAM-01 + Success Criteria + "มุมของ Duck OS" + 3 Laws + คับ). From 09-22 (exhaust-over-engine) every public WP post is v2 line-per-sentence: NO protocol name (3 posts explicitly say "ยังไม่อยากสร้าง Protocol"), NO 3-Laws block, คับ ≈ 0 (only inspectable-artifact has 6), standing kit = 1-question test + "Tiny Experiment" + "Medium ไม่ใช่ประเด็น" + ↓-flow closer + English aphorism. 8 of the 16 new posts are published versions of user rewrites already analyzed (pairs #12–#19) — corpus analysis now runs AHEAD of publication. New structural convention: 7/16 posts bridge via "โพสต์ก่อน..." and extend the previous post thesis one level — the Recompile philosophy applied to the content itself.
 
 ## Updates
 
-### 2026-09-13 — seed analysis (21 posts)
+### 2026-09-13 — seed analysis (37 posts)
 - The brand's register is stable (พร + คับ, RAM/server metaphors, XX-0N protocols, 3 Duck OS Laws) across both cohorts, but the **structure migrated**: originals use markdown headings ("00: Ingestion Phase", "N. Bug Report") while all 13 web-archive posts are headingless "."-separated paragraphs — future drafts should match whichever format the post type implies (A = headingless or "N." style; B = headingless with tables).
 - **สรุปแบบวิศวกรเป็ด** is the dominant 2026-09 closer (12/13) replacing "บทสรุปจากพร", and hashtag core is now fixed: #Adduckivity #DuckOS #NeuroDivergent + 3–6 topic tags, no Thai tags.
 - Tool reviews are now a **local-LLM series** (5 posts in 4 days, 2026-09-04..07) with cross-references ("คราวที่แล้วพรเขียนเรื่อง…", "Part 1/Part 2"), concrete pricing/VRAM/quant numbers, TL;DR, and soft question CTAs — the series format is the main new convention to replicate for type B.
@@ -670,3 +687,72 @@ Provenance: user pasted Content B (user: "ไม่ต้องแก้ analyze
 **Pair #22 CLOSED. The split executed exactly per the critique:** A = the observation half (Trigger หาย Behavior ยังอยู่ — behavior-before-decision, no-notification scene as proof, the open Decision question) / B = the experiment half (deletion → migration → similarity gate → step-up Rule). The critic's "3-post pattern" (Load/Noise → mechanism / Interrupt/Override → rule / this → layer above) is now 3 posts deep in the series, each asking one level higher, zero genealogy in the bodies. **Next-baseline note: for any future split pair, the user's first half is the parity/observation post (full-พร) and the second is the expansion/rule post (เรา-heavy, bold-heavy, decision-tree bold) — draft both halves in that shape if UDO ever pre-drafts a split.**
 
 **New Evolution Notes (87–91) — see skill.** Codepoint scan: CLEAN (B + archive + corpus). Nits (NOTES only): stray `>` after blockquotes (12×, A's systematic layout) / "Website B" vs "Tool B" naming drift in the opening scene (intentional — concrete→abstract). Pair #22 complete; no further completion step.
+
+
+### 2026-09-27 — new posts: kleon-daily-dispatch-dispatch-01, tech-string-tax-jev-calib-01, tech-llamacpp-infra-engine, kleon-portfolio-stream-stream-01, exhaust-over-engine, ship-gate-boundary, flow-stock-changed-thinking, recompilable-asset-library, error-log-audit08, inspectable-artifact, groundhog-day-loop, routine-as-compiled-default, external-memory-cache, save-state-preserve-not-finish, capacity-uncommitted-margin, load-or-noise-not-discipline
+
+ภาพรวม batch: 16 โพสต์ = 4 โพสต์ท้ายยุค "Protocol" (09-20..09-21) + 12 โพสต์แรกยุค "Tiny Experiment" (09-22..09-27) บน WP สาธารณะ — จุดเปลี่ยน format เกิดระหว่าง batch เดียวกัน และ 8 ใน 16 คือเวอร์ชัน publish ของ user rewrites ที่ corpus วิเคราะห์ไว้แล้ว (pairs #12–#19) — corpus วิเคราะห์วิ่งนำหน้า publication
+- kleon-daily-dispatch-dispatch-01:
+  - ยืนยันเทมเพลต protocol ครบชุด: DISPATCH-01 (dispatch --day / --stage / --scrap) + Success Criteria + "มุมของ Duck OS" 3 Laws ครบ + "สรุปแบบวิศวกรเป็ด" + คับ 5 — โพสต์สุดท้ายของ batch ที่มี 3-Laws block
+  - ใหม่: named error trio (The Granularity Fallacy / Stage-Based Dispatch / Micro-shipping Momentum); ฉลาก Law #2 ตัวใหม่ "Action Precedes Motivation (Asset > Activity)"; English aphorism closer "A year is a story you tell. A day is a system you can run."; inline cross-ref "(ref: ICE-01 (2026-09)...)" — 引用 protocol เก่าเป็น ref
+  - ยืนยัน citation kit: Nobel 2017 (Hall/Rosbash/Young) + Cowan 2001 + Kleon Show Your Work! 2014
+- tech-string-tax-jev-calib-01:
+  - ยืนยัน type B kit (specs, ตัวเลข, Anti-Hype section, vendor-reported disclaimer, challenge CTA) + protocol CALIB-01 (calib --interface / --threshold / --volume) + Success Criteria + hook "เคย...คับ"
+  - ใหม่: named error trio (The String Tax / Overconfidence Trap / Jevons Ceiling); "Power Test ของ Duck OS ในรูป AI" — model ไม่มีสิทธิ์ own policy, threshold อยู่ใน code; challenge CTA แบบ interactive ตัวแรก ("คอมเมนต์ตัวเลข — พรจะนับค่าเฉลี่ยไว้ให้โพสต์ถัดไป"); label "มุม Duck OS" (ไม่มี "ของ" — drift เล็ก)
+  - ยาวสุด batch (1837 คำ) — type B ยุค protocol ยังยาวระดับเดิม
+- tech-llamacpp-infra-engine:
+  - ยืนยัน type B kit เต็ม: ตารางเทียบ 4 column (llama.cpp/Ollama/LM Studio/vLLM), ข้อเสียจริง, เหมาะกับ/ไม่เหมาะกับใคร, Pro Tips แยก 3 ระดับ, ตัวเลขจริง (16.5GB, 7.8 tok/s, ctx 262k), benchmark disclaimer
+  - ใหม่: benchmark จากเครื่องจริงของ brand (2x RTX 5060 Ti + Qwen3.8-27B Q4_K_M) — stack ส่วนตัวกลายเป็นเนื้อหาสาธารณะครั้งแรก; อุปมา "รถ vs เครื่องยนต์" (GGUF = น้ำมัน / Wrapper = รถ / llama.cpp = engine); "5 สัญญาณว่า Wrapper เริ่มไม่พอ" (รูปแบบ "N สัญญาณ" กลายเป็น section มาตรฐานของ batch)
+  - Drift: micro sign-off "Law #1 System > Emotion คับ" (single-law ใน tech post — รูปแบบใหม่); คุณ 62 ครั้ง — น้ำเสียงอธิบายสูง
+- kleon-portfolio-stream-stream-01:
+  - ยืนยัน: "5 สัญญาณ" + protocol STREAM-01 (stream --log / --any / --terminal) + Success Criteria + ตาราง Resume vs Dispatch 6 แถว + "สรุปแบบวิศวกรเป็ด"
+  - ใหม่: concept "Public Terminal" (Social = Terminal / Dispatch = Stream / แต่ละโพสต์ = Public Artifact); "Evidence Lag" (งานเดินเร็วกว่าหลักฐาน); self-proof สดในโพสต์ (ลิสต์ซีรีส์ตัวเอง: ICE-01, SHIP-01, CHUNK-01 ... "Protocol 12 ตัวใน 2 สัปดาห์"); cite swyx 2018 Learn In Public
+  - Drift: typo "2 สัปดาห์"; คับ เหลือ 1 — หางยุค protocol กำลังจาง
+- exhaust-over-engine:
+  - ยืนยัน: โพสต์ publish v2 line-per-sentence โพสต์แรกบน WP (ต่อจาก canonical sample 09-21); section "Tiny Experiment" (แทน protocol); "สรุปแบบวิศวกรเป็ด" + flow 4 ขั้น "Doing → Evidence → Compile → Show"
+  - ใหม่: concept "Exhaust" (งานจริง = Core Engine / เศษหลักฐาน = ไอเสีย — "รถไม่ได้วิ่งด้วยไอเสีย"); misdiagnosis "Work for Showing" (3 อาการระบบกลับด้าน); citation วรรณกรรมตัวแรก Sturgeon Law + tag "#ShipThe90"
+  - Drift: "55555" — casual register ในงานที่ publish; คับ 2 (จาง)
+- ship-gate-boundary:
+  - ยืนยัน: v2 format; "สรุปแบบวิศวกรเป็ด" + ↓-flow closer (flow ↓ ในโพสต์ publish ครั้งแรก)
+  - ใหม่: bridge "โพสต์ก่อน" (ยก flow ของ exhaust มาขยาย) — จุดเริ่มของ convention ซีรีส์; gate 2 ชั้น "Boundary + Value" (named gate โดยไม่มีชื่อ protocol); "Omission ก็เป็นส่วนหนึ่งของการ Share"; anti-protocol stance กลมกล่อมชัด ("ถ้า Gate กลายเป็น Checklist 17 ข้อ ... ระบบก็พังอีกแบบ")
+  - Drift: คับ 0
+- flow-stock-changed-thinking:
+  - ยืนยัน: v2 format; bridge "โพสต์ก่อน"; "Tiny Experiment"; "สรุปแบบวิศวกรเป็ด" + flow "Flow → Pattern → Compile → Changed Thinking"
+  - ใหม่: lens เศรษฐศาสตร์ "Flow vs Stock" (ชั้น concept นอกวิศวกรรม); "Stored ≠ Compiled" (เริ่มสูตร "X ≠ Y" แบบอังกฤษ); ตัวอย่าง self-reference "310 ชิ้น" (โพสต์วิเคราะห์งานเขียนของ brand เอง — meta-awareness ของ corpus เข้าเนื้อหาสาธารณะ); device "Reservoir"
+  - Drift: คับ 0
+- recompilable-asset-library:
+  - ยืนยัน: v2 format; bridge "โพสต์ก่อน"; "สรุปแบบวิศวกรเป็ด" + flow (12 ↓ — หนาสุดใน batch)
+  - ใหม่: ขั้น "Recompile" (Experience → Evidence → Compile → Asset → Recompile → Asset ใหม่ — concept "Compounding"); self-count "284 โพสต์"; หน้าที่เว็บ 3 อย่าง "Find → Retrieve → Recompile" (เว็บ = Composable Material library ไม่ใช่โรงงาน); "Stored ≠ Reusable ≠ Recompilable"; hashtag คู่ใหม่ #WorldHQ #RentedLand (ดินที่มีกรรมสิทธิ์ vs ที่เช่า)
+  - Drift: คับ 0; พร 50 (มากสุด batch) — narrator เกือบ 100% "พร"
+- error-log-audit08:
+  - ยืนยัน: v2 format; "5 สัญญาณ"; bridge "โพสต์ก่อน" (โพสต์ Error Log); status chips 🔴/🟢 (กลับมาใช้ตาม convention 09-09)
+  - ใหม่: frame "Story vs Data" ("ฉันยังไหว" = Snapshot — Story update ช้ากว่าข้อมูลจริง); "OPEN / PATCH / RETURN" (mini-protocol โดยไม่มีชื่อ protocol); rule "Log Behavior. Not Identity." (imperative อังกฤษสั้น + gloss ไทย — rule format ใหม่); cite Anna Lembke Dopamine Nation (ใช้ Radical Honesty รอบ 2); English aphorism closer "A system that lies to itself is a system that cannot debug itself."; hook เปิด "0 ครั้งใน 3 เดือน" — hook type ใหม่ (ตัวเลขลบ)
+  - Drift: typo "to itselfis" (เว้นวรรคหาย)
+- inspectable-artifact:
+  - ยืนยัน: v2 format; bridge "โพสต์ก่อน" (โพสต์ Error Log); "Tiny Experiment"; "Medium ไม่ใช่ประเด็น" (กระดาษ = implementation)
+  - ใหม่: concept "Inspectable Artifact" (ความคิดต้องออกจากหัวก่อนถึงจะ debug ได้); "Friction = Diagnostic" (จุดติด = output ของกระบวนการ ไม่ใช่ความพัง); re-define INK-01 (XX-01 เก่ายังถูกอ้างแต่ลดความหมายเป็น "เครื่องมือ" — pattern "protocol re-reading" ใหม่); self-debug ตัวอย่างสด (ทิ้ง architecture เดิมของ draft โพสต์นี้: Hands First → Nerve Loop → Physical Proof)
+  - Drift: คับ 6 — มากสุดใน batch v2 (drift เล็ก อาจเพราะธีม "การเขียน")
+- groundhog-day-loop:
+  - ยืนยัน: v2 format; bridge "โพสต์ก่อน" (Progress/Loop); "สรุปแบบวิศวกรเป็ด" + flow "Loop N → Loop N+1"
+  - ใหม่: "Progress ≠ ไปไกลขึ้น" (Progress = ต้นทุนที่รอบถัดไปไม่ต้องจ่าย); "4 สิ่งที่เหลือ" (Evidence / Decision / Asset / Recovery — "Recovery ก็เป็นผลผลิตของ Loop"); anti-trap "Asset Obsession" ("ระบบไม่ได้เบาขึ้น แค่เปลี่ยนศัพท์")
+  - Drift: คับ 0
+- routine-as-compiled-default:
+  - ยืนยัน: v2 format; bridge "โพสต์ก่อน" (Progress → Loop); "สรุปแบบวิศวกรเป็ด" + flow "Repeated Decision → Pattern → Compile → Default → Reality Feedback"
+  - ใหม่: วิทยานิพนธ์รูปสมการ "Routine = Decision ที่ถูก Compile เป็น Default"; re-define "คุก vs เกราะ" (คุกเกิดตอน Reality เปลี่ยนแล้วกฎห้ามเปลี่ยน — "สิ่งที่ปกป้องอาจไม่ใช่ระบบ แต่คือ Identity"); "วันแย่คือ Test ที่น่าสนใจกว่าวันดี"; English aphorism "Stable enough to remove decisions. Flexible enough to change with reality."
+  - Drift: คับ 0; เรา 17 (density สูง)
+- external-memory-cache:
+  - ยืนยัน: v2 format; bridge "โพสต์ก่อน" (โพสต์ externalize + โพสต์ routine); "สรุปแบบวิศวกรเป็ด" + flow; "Medium ไม่ใช่ประเด็น" (fixed phrase ใช้ครั้งที่ 3)
+  - ใหม่: 2 Mode "Capture vs Inspect" (ลด 3 Lists: To-do/To-learn/Pros-cons → 2 หน้าที่); "Externalize to Release" vs "Externalize to Inspect" (การกระทำเดียวกัน แก้คนละปัญหา); "Return Point" (หน้าที่ Capture = ทำให้สมองปล่อยได้); "สมอง = Single Point of Failure"
+  - Drift: คับ 0; คุณ 1 (ต่ำสุด batch — narrator "พร + เรา" เกือบผูกขาด)
+- save-state-preserve-not-finish:
+  - ยืนยัน: v2 format; bridge "โพสต์ก่อน" (โพสต์ externalize); "สรุปแบบวิศวกรเป็ด" + flow; concept "Save State" (context ที่ Session ถัดไป resume ได้)
+  - ใหม่: "Preserve ≠ Finish" (วันที่แย่ไม่ต้องกู้ — แค่ทำให้พรุ่งนี้ไม่ต้องเริ่มจากศูนย์); "Resume Point" test ("ถ้าพรหายไปจากงานนี้หนึ่งคืน พรุ่งนี้กลับมาแล้วรู้ไหมว่าควรทำอะไรต่อ?"); rule one-liner "อย่าเพิ่มต้นทุนของพรุ่งนี้ เพื่อทำให้วันนี้ดูดีขึ้น"
+  - Drift: สั้นสุด batch (496 คำ); คับ 0 / คุณ 0; สรุปท้ายมีบล็อกซ้ำ 2 ครั้งติด ("พรเคยคิดว่า Progress คือ...") — layout duplication ในฉบับ publish (nit)
+- capacity-uncommitted-margin:
+  - ยืนยัน: v2 format; bridge "โพสต์ก่อน" (rule ของ save-state); "สรุปแบบวิศวกรเป็ด" + flow (Capacity → Commit/Uncommitted → Margin → Reality → Absorb)
+  - ใหม่: วิทยานิพนธ์รูปสมการ "Margin = Capacity ที่เราตั้งใจยังไม่ Commit" (ใช้ format สมการครั้งที่ 2); "Absorption Capacity" (ศัพท์วิศวกรรมใหม่); anti-pattern "Task Slot" (ช่องว่างที่รอเติม = "Task Slot ที่ยังหา Task ไม่เจอ" ไม่ใช่ Margin); self-experiment "อังคารบ่าย + ศุกร์บ่าย" (การทดลองรูปธรรมโดยไม่มี protocol)
+  - Drift: คับ 0; จุด "." 118 (หนาสุด batch)
+- load-or-noise-not-discipline:
+  - ยืนยัน: v2 format; bridge "โพสต์ก่อน" (Capture ของโพสต์ externalize); "สรุปแบบวิศวกรเป็ด" + decision-tree flow Load/Noise; "Self-Judgment → Inspectable Problem" (core move ของ brand ในรูปที่บริสุทธิ์ที่สุด)
+  - ใหม่: diagnostic split "Load vs Noise" (Load = งานเรียกร้องเกิน Capacity / Noise = สิ่งไม่จำเป็นเข้ามาขอ Attention); "Load 2 แบบ" (เรื่องอื่นค้าง vs ตัวงานเองซับซ้อนเกิน); mechanism "Noise → Load" (เปิดดูหนึ่งครั้ง = ทิ้งของไว้ในหัว); frame "คำตัดสินแก้อะไรไม่ได้" ("ไม่มีวินัย" = judgment / "Load หรือ Noise?" = question ที่นำไปสู่ Action); hook เปิด "10:47" — hook type ใหม่ (เวลาแม่นยำเป็นฉาก เปิด — ต่อจากรูป 07:00 ของ pair #22)
+  - Drift: คับ 0; ยาวสุดในหมู่ v2 (719 คำ)
