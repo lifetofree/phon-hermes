@@ -1,47 +1,37 @@
 <!--
 ContentID: (pending)
-Status: draft (rewritten once 2026-09-27: user steer thought->input)
-Type: CURRENT FORM — # H1 sections, . beats, > questions/inner-monologue (curly quotes), bold concepts. NO hr / H2 / ↓ in-section / protocol / table / Law labels / external authorities. Register: พร narrates the story, เรา carries universal claims, คุณ 0, คับ 0.
-Series: standalone system post (adjacent to Load/Noise + Margin) — does NOT compile the thread, so duck closer + ↓ Flow + night question, one-line bridge to predecessor (no recap, per #45/#51).
-Brief (user, 2026-09-27, 4 ideas, causal chain — chain exception #42, order = brief order):
-1. Thought (raw data / input) — intrinsically neutral; the signal the brain makes to navigate the world; not emotion, not harmful in itself.
-2. Thinking (emotional rollercoaster / process runaway) — looping = the judgment/opinion we run ON TOP of the first thought; the moment the loop opens, Layer 2 (Amygdala) takes over, energy drops, system enters unnecessary emotional swings.
-3. Hardware grounding for Law #1 (System > Emotion) — feeling is "data" not "command"; most people's problem is NOT the Thought arriving, it's accidentally re-running the Thinking script until the expensive layer (PFC) overheats.
-4. Creating S-P-A-C-E (system decoupling) — asking / separating Thought from Thinking creates a Margin/Buffer for the nervous system; the system stops auto-responding (reflex) and returns open space for creativity / staying steady.
-CHAIN: input → failure (the loop re-runs + fast layer takes the wheel) → diagnosis (the cost is the re-run, not the input; feeling = data not command) → design rule (the gap decouples input from response). All 4 chain as one sequential spine.
-USER UNCERTAINTY (carried as a design decision, NOT built on): "space help to create margin or not? maybe not an answer" — bullet 4's Margin claim is the uncertain link. Handling: (a) do NOT make "space creates Margin" load-bearing; (b) define the gap by its own job (stop the reflex so the signal can be read as data) and by CONTRAST with the plan-Margin (Save State / Margin = uncommitted CAPACITY in the plan; the gap = a response BUFFER between signal and action — different job, do not merge, per #47/#53); (c) ship it as a near-miss section ("space ≠ making the thought go away"), which is also where the honest uncertainty lives.
-USER STEER 2026-09-27: "thought -> input" — the English term for the neutral signal is INPUT everywhere in the body (H3 / bold defs / dispatch); Thai narration (ความคิด) in the story stays. Filename/slug kept (internal identifier); Notion URL unchanged.
+Status: draft (rewrite round 2, 2026-09-27 — new title + new core)
+Type: CURRENT FORM — # H1 sections, . beats, > questions/inner-monologue, bold concepts. NO hr / H2 / ↓ in-section / protocol / table / Law labels / external authorities / layer map (cut this round). Register: พร narrates story, เรา carries universal claims, คุณ 0, คับ 0, ผม 0.
+REWRITE BRIEF (user steer round 2, 2026-09-27, compressed):
+- thought -> input (kept from round 1: the neutral signal's term is input)
+- think -> has emotional, and loop (NEW CORE: emotion is CREATED in Thinking, it does not ride in with input; two-part definition — สร้างอารมณ์ + รัน loop — with boundary cases: loop-without-emotion = แค่คิด, emotion-without-loop = แค่ความรู้สึกที่ผ่านไป)
+- space -> margin = OPEN QUESTION ("may be not an answer I'm not sure" — flagged 3rd time; UPGRADED from near-miss to the post's own stance: the post holds the question, does NOT answer it. Plan-Margin is proven; the head-gap is not — so it cannot be called Margin yet. The post collects data instead of claiming.)
+- NEW TITLE requested (old: ปัญหามันไม่ใช่ความคิด — มันคือ loop ที่รันซ้ำอยู่)
+CHAIN (new spine): input เข้ามา (neutral, 1 sec) → Thinking เริ่ม (อารมณ์ถูกสร้าง + loop รัน) → ความรู้สึกแย่ = ข้อมูลเรื่อง loop ไม่ใช่เรื่อง input → space ระหว่าง input กับ Thinking = ยังอยู่ระหว่างทดสอบ.
+Cut this round (vs round 1): เลเยอร์ที่เร็ว/เลเยอร์ที่แพง map + งบ/จ่ายค่ารัน vocabulary + หน้าปัด metaphor + "gap หยุด loop เพื่อให้อ่าน input เป็นข้อมูล" claim — the new core does not need them (forced question: ตัดทุกคำ brain/layer ออกแล้ว "อารมณ์ถูกสร้างใน Thinking + ความรู้สึกแย่ = ข้อมูลเรื่อง loop" ยังแบกโพสต์ได้ไหม? YES).
 SSOT anchors (verified 2026-09-27, ~/hermes-agent/duck-os/Main_Data_for_UDO.md):
-- Law #1, line 23: "System > Emotion: อย่าให้อารมณ์เป็นคนตัดสินใจ ความรู้สึกคือ 'ข้อมูล' ไม่ใช่ 'คำสั่ง'" → the killer one-liner, used UNLABELED (no "Law #1" tag in body).
-- 3 Brain Layers, lines 139–143 (Sapolsky's Hardware Manual): Layer 3 PFC = The System (จ่ายค่ารันแพงที่สุด) / Layer 2 Amygdala = The Emotion (ตอบสนองสิ่งเร้า/ดราม่า/Noise อัตโนมัติ) / Layer 1 = Hardware; System Logic = ห้ามปล่อยให้ Layer 2 ขึ้นมาประมวลผลและขับเคลื่อนระบบ.
-- Line 37: Cache Cleaner — ย้าย Data จาก RAM ไป Storage ภายนอก ลดภาระ PFC (backs "read the signal instead of re-running it").
-- Line 171: Step 1 Intercept — Layer 3 เป็น รปภ. สั่งระงับไม่ให้ Layer 2 เข้ามาปรุงแต่งข้อมูล (backs "the gap stops the reflex").
-- USED UNLABELED in body (principles carry, names stay out): the 3-layer map as "คู่มือที่เราใช้", feeling-as-data-not-command, the expensive-layer-pays-for-the-re-run cost frame.
-Neuroscience discipline (Benz DNA, recurring regression #19/#21): the 3-layer map is framed as "คู่มือที่เราใช้ / แผนที่ที่เราใช้" (a personal Duck OS map, NOT a factual explanation of the brain). Absolute claims softened: brief's "Layer 2 เข้าฮุบทันที / พลังงานดิ่งวูบ / Overheat" → "เลเยอร์ที่เร็วกว่ารับช่วงขับ / เลเยอร์ที่แพงต้องจ่ายค่ารันซ้ำไปซ้ำมา". Forcing question (draft-time): if every brain-region word is deleted, does the input-vs-Thinking question + "feeling = data not command" still carry the post? YES → the model is decoration, ship the question. (Verified: it survives.)
-One metaphor family: signal / system (input, signal, script, loop, the fast layer / the expensive layer, the gap / buffer, data / command). NO second family. "งบ / จ่ายค่ารัน" = the series cost vocabulary (consistent with Load/Noise), kept light, not a battery/overheat load-bearing claim.
-Zero-count kills (body + hashtags): Amygdala / PFC / Prefrontal / Dopamine / ฮอร์โมน / Layer (as a FACT label — only "เลเยอร์" in the map section, framed as a map) / Protocol / XX-0N / กฎ / Duck OS / Law # / table / battery / overheat as a hard claim / "บังคับ" / คุณ.
+- Law #1, line 23: "System > Emotion: อย่าให้อารมณ์เป็นคนตัดสินใจ ความรู้สึกคือ 'ข้อมูล' ไม่ใช่ 'คำสั่ง'" → used UNLABELED, sharpened to "ความรู้สึกแย่ = ข้อมูลเรื่อง loop ไม่ใช่เรื่อง input".
+- 3 Brain Layers (lines 139–143) NOT used this round (decoration cut per #19/#21 discipline); kept in header for provenance only.
 Design decisions:
-- H1 = condition (the cost is the loop, not the input); H3 = compile-able definition (#24). Open with the story (a 1-second thought that cost 40 minutes), not a metric (#43).
-- ONE dispatch question forking 2 modes (#3): "ต้นทุนมันอยู่ที่ input หรืออยู่ที่ Thinking (loop ที่รันซ้ำ)?" → the input (neutral, 1 second, can be read) vs the loop (the re-run, 40 minutes, the rollercoaster). Built from the mechanism's two failure shapes, no third invented.
-- Worked example is load-bearing (#4/#23): the 13:04 meeting scene with the concrete artifact (the one-line thought vs the 40-min loop) + a near-miss variant immediately after.
-- Near-miss = the user's own uncertainty, made visible (#44/#26): "space ≠ ทำให้ความคิดหายไป" — the input is still there, neutral; what the gap does is stop the loop from re-running so the input can be read as data. This is where "maybe not an answer" is honored instead of papered over.
-- Bounded closer (#50): does NOT claim the gap removes the emotion or adds plan-capacity; claim = the gap stops the reflex so the signal can be read as data, and the re-run stops being the default.
-- Closer = duck closer (standalone, does NOT compile the series) + ↓ Flow + night question.
-- No cross-refs in body (CURRENT FORM #9); cross-ref noted header-only.
-Candidate hooks (per #39 — surfaced for the critique round):
-A (USED as H1): ปัญหามันไม่ใช่ความคิด — มันคือ loop ที่รันซ้ำอยู่
-B: ความคิดใช้ไป 1 วินาที — loop ใช้ไป 40 นาที
-C: ความรู้สึกคือข้อมูล — ไม่ใช่คำสั่งที่เราต้องเชื่อฟัง
-D: ปัญหาไม่ใช่ input ที่เข้ามา — แต่คือที่เราเผลอไปกดรันสคริปต์ซ้ำ
-Cross-refs (header only, body carries none):
-- Load/Noise (2026-09-25, posts/20260925-cnt-cognitive-load-takeover.md) — same "fast layer vs expensive layer" map + cost vocabulary; this post moves from "Load หรือ Noise?" (where's the cost) to "input หรือ Thinking?" (input vs loop) — one level different, bridge by question level.
-- Margin (2026-09-25, posts/20260925-cnt-margin-not-maximum.md) — the "gap" here is a response BUFFER, NOT the plan-Margin (uncommitted capacity); kept distinct on purpose.
+- Story arc survives (13:04 meeting), lens re-aimed: same scene now proves the TIMELINE (input 13:04:00 → คิดซ้ำ 13:04:02 → ความรู้สึกแย่ค่อยๆ มาหลังจากนั้น) — emotion arrives AFTER Thinking starts.
+- Neutrality proof = same-input-different-day test (ลองได้ทุกวัน): same line on a good day costs nothing → the emotion was never IN the input.
+- Two-part Thinking definition is the load-bearing redefinition (#24/#44): boundary cases (loop ไม่มีอารมณ์ = วางแผนซ้ำ/ทวนงานซ้ำ ไม่เจ็บ; อารมณ์ไม่ loop = มาแล้วผ่าน) + coupling line (อารมณ์หล่อเลี้ยง loop / loop ผลิตอารมณ์รอบใหม่).
+- space section = honesty stance: no claim, no protocol, no experiment params — "ยังเรียกมันว่า Margin ไม่ได้" + mixed real outcomes (บางครั้งคำถามหยุด loop ได้ / บางครั้ง loop รันเสร็จไปแล้วค่อยรู้ตัว) = why it stays a question. Plan-Margin contrast UNLABELED (no post name): "Margin ในแผนพิสูจน์แล้วว่าทำงาน — ช่องว่างในหัวยังไม่ผ่านการทดสอบแบบนั้น".
+- Bounded closer: no claim that the gap exists or works; night question MEASURES both the certain part (อารมณ์เริ่มที่ Thinking) and the open part (ช่วงระหว่างสองอย่างมีอยู่จริงแค่ไหน).
+- Bridge by question level, one line (#51/#61): Load/Noise ถามว่าต้นทุนอยู่ที่ไหน → โพสต์นี้ถามว่าอารมณ์ถูกสร้างตรงไหน. ท่าเดียวกัน: อย่าเพิ่งโทษสิ่งที่มองเห็นก่อน.
+Candidate hooks (per #39 — for the critique round):
+A (USED as H1): อารมณ์ไม่ได้อยู่ใน input — มันถูกสร้างตอนที่เราเริ่ม Thinking
+B: input เป็นกลางเสมอ — อารมณ์ทั้งหมดเป็นของ Thinking
+C: ความรู้สึกแย่ ไม่ใช่ข้อมูลเรื่อง input — มันคือข้อมูลเรื่อง loop
+D: loop ที่ไม่มีอารมณ์ แค่คิด — อารมณ์ที่ไม่ loop แค่ผ่านไป
+Zero-count kills (body + hashtags): Amygdala / PFC / Prefrontal / Dopamine / ฮอร์โมน / เลเยอร์ / Layer / สมองส่วน / งบ / จ่ายค่ารัน / Protocol / XX-0N / กฎ / Duck OS (label) / Law # / table / battery / overheat / บังคับ / คุณ / ผม / คับ.
+Cross-refs (header only): Load/Noise (posts/20260925-cnt-cognitive-load-takeover.md), Margin (posts/20260925-cnt-margin-not-maximum.md) — the plan-Margin contrast is the unlabeled legacy of that post.
 Hashtags: #Adduckivity #DuckOS #NeuroDivergent + topic #SystemThinking #EmotionalRegulation
 -->
 
-# ปัญหามันไม่ใช่ความคิด — มันคือ loop ที่รันซ้ำอยู่
+# อารมณ์ไม่ได้อยู่ใน input — มันถูกสร้างตอนที่เราเริ่ม Thinking
 
-### input คือสัญญาณที่เป็นกลาง — Thinking คือ loop ที่เราเผลอไปรันซ้ำ
+### input เป็นกลางและไม่มีอารมณ์ — Thinking คือจุดที่อารมณ์ถูกสร้างและ loop เริ่มรัน
 
 .
 
@@ -49,7 +39,7 @@ Hashtags: #Adduckivity #DuckOS #NeuroDivergent + topic #SystemThinking #Emotiona
 
 .
 
-ความคิดหนึ่งเส้นเข้ามาในหัว
+input เส้นหนึ่งเข้ามาในหัว
 
 .
 
@@ -57,291 +47,268 @@ Hashtags: #Adduckivity #DuckOS #NeuroDivergent + topic #SystemThinking #Emotiona
 
 .
 
-ความคิดเส้นนั้นใช้ไปไม่ถึง 1 วินาที
+เส้นนั้นสั้นมาก
 
 .
 
-แต่สิ่งที่มันกินไปคือ 40 นาที
+ใช้เวลาไม่ถึง 1 วินาที
 
 .
 
-เพราะมันไม่ได้หยุดอยู่ที่ 1 เส้น
+แต่สิ่งที่ตามมาคือ 40 นาทีของอารมณ์ขึ้นๆ ลงๆ
 
 .
 
-มันไปรันสคริปต์เดิมซ้ำแล้วซ้ำเล่า
+พอประชุมจบ แผนยังอยู่ตรงเดิม
 
 .
 
-> "หรือว่าเขาไม่ชอบ… ทำไมถึงไม่ชอบ… หรือเราพลาด… ครั้งหน้าต้อง…"
+แต่ความรู้สึกแย่ๆ อยู่กับพรทั้งบ่าย
 
 .
 
-พอประชุมจบ แผนที่อยู่ตรงหน้ายังอยู่ตรงเดิม
-
-.
-
-แต่หัวของพร
-
 .
 
-ไปไกลถึงชิงช้าสวรรค์ที่แผนนี้ไม่ได้ต้องการเลยสักครั้ง
+# อารมณ์มันมาถึงตอนไหน
 
-.
+เราชินโทษ input ว่าเป็นตัวทำให้รู้สึกแย่
 
 .
 
-# ต้นทุนมันอยู่ที่ไหน
+ความคิดแวบเข้ามา — แล้วเราก็รู้สึกแย่
 
-นี่คือคำถามที่พรถือไว้ทั้งวัน
+.
 
-และมันคือคำถามที่ตอบผิดมาตลอด
+เหมือนอารมณ์แถมมากับ input
 
 .
 
-เราตีความว่า "ความคิดเส้นนั้น" คือตัวปัญหา
-
 .
 
-> "ทำไมถึงคิดแบบนี้"
-> "ทำไมถึงดราม่ากับเรื่องเดียว"
+แต่ลองย้อน timeline ของวันนั้น
 
 .
 
-แต่ถ้าเราแยกมันออก
+13:04:00 — input เข้ามา
 
 .
 
-เราจะเห็นว่า
+13:04:02 — เริ่มคิดซ้ำ
 
 .
 
-> **ต้นตอไม่ใช่ input — แต่คือ Thinking (loop ที่เราเผลอไปรันซ้ำ)**
+> "ทำไมถึงไม่ชอบ… หรือเราพลาดตรงไหน…"
 
 .
 
-input เส้นเดียว เป็นกลาง ใช้ไป 1 วินาที
+หลังจากนั้น — ความรู้สึกแย่ค่อยๆ มา
 
 .
 
-loop คือส่วนที่เราตัดสิน ปรุงแต่ง แล้วกดรันซ้ำ
+อารมณ์ไม่ได้มาพร้อม input
 
 .
 
-และ 40 นาทีนั้น
+มันมาหลังจากที่ Thinking เริ่มทำงาน
 
 .
 
-มันเกิดจาก loop ไม่ใช่จาก input
+> **อารมณ์ไม่ได้อยู่ใน input — มันถูกสร้างตอนที่เราเริ่ม Thinking**
 
 .
 
 .
-
-# input กับ loop คือคนละชั้น
 
-ในคู่มือที่เราใช้
+# input เส้นเดิม ในวันที่ระบบสบายดี
 
-เราแยกชั้นของระบบออก
+มีวิธีเช็คง่ายๆ ลองได้ทุกวัน
 
 .
 
-ไม่ใช่เพราะหนังสือบอก
+input เส้นเดิม
 
 .
 
-เพราะแผนที่นี้มันใช้ việcกับเรา
+> "หรือว่าเขาจะไม่ได้ชอบแผนนี้"
 
 .
 
-— **input** = สัญญาณที่ระบบสร้างขึ้นมาเพื่อนำทาง — เป็นกลาง ไม่พิษ ไม่ใช่อารมณ์
-— **loop** = สคริปต์ที่เราตัดสินและปรุงแต่งทับ input แล้วรันซ้ำ
-— **เลเยอร์ที่เร็ว** = ตอบสนองต่อสัญญาณแบบอัตโนมัติ ไม่มีการวางแผน
-— **เลเยอร์ที่แพง** = ส่วนที่ตั้งกฎ กรอง และต้องจ่ายค่ารันสูงที่สุดในระบบ
+แต่ในวันที่หลับพอ งานราบรื่น อารมณ์ปกติ
 
 .
 
-เมื่อ input เส้นเดียวเข้ามา
+มันเข้ามา แล้วมัน... ผ่านไป
 
 .
 
-ถ้าเราไม่เผลอ
+เส้นเดิม ความยาวเดิม
 
 .
 
-เลเยอร์ที่แพงจะอ่านมันในฐานะข้อมูล
+ไม่มี 40 นาที
 
 .
 
-แล้วปล่อยมันผ่าน
+ถ้าอารมณ์อยู่ใน input จริง
 
 .
 
-แต่ถ้าเราเผลอไปกดรัน loop
+มันต้องแพงเท่ากันทุกวัน
 
 .
 
-เลเยอร์ที่เร็วกว่ารับช่วงขับ
+แต่มันไม่เคยเป็นแบบนั้น
 
 .
 
-และเลเยอร์ที่แพง
-
 .
 
-ต้องจ่ายค่ารันสคริปต์เดิมซ้ำไปซ้ำมา
+# Thinking ทำ 2 อย่างพร้อมกัน
 
+สิ่งที่เราเรียกว่า "คิดมาก" มันคือ 2 อย่างที่เกิดพร้อมกัน
+
 .
 
-40 นาทีนั้น คือบิลของ loop
+— **อารมณ์ถูกสร้าง** ทับ input ที่เป็นกลาง
+— **loop รัน** ความคิดเดิมซ้ำๆ
 
 .
 
-ไม่ใช่บิลของ input
+และสองอย่างนี้ต้องมาด้วยกันถึงจะเจ็บ
 
 .
 
 .
-
-# ความรู้สึกคือข้อมูล ไม่ใช่คำสั่ง
 
-ตรงนี้คือหัวใจของเรื่อง
+loop ที่ไม่มีอารมณ์ — แค่การคิด
 
 .
 
-ส่วนใหญ่เราเข้าใจความรู้สึกผิด
+วางแผนซ้ำ ทวนงานซ้ำ — ไม่เจ็บ
 
 .
 
-เราอ่านมันเหมือนคำสั่ง
+อารมณ์ที่ไม่ loop — แค่ความรู้สึก
 
 .
 
-> "รู้สึกแบบนี้ = ต้องทำอะไรบางอย่างเดี๋ยวนี้"
+มันมา มันผ่าน จบ
 
 .
 
-แต่ความจริงคือ
+> **ของที่กิน 40 นาที คืออันที่อารมณ์กับ loop มาพร้อมกัน**
 
 .
 
-> **ความรู้สึกคือข้อมูล — ไม่ใช่คำสั่งที่เราต้องเชื่อฟัง**
+อารมณ์หล่อเลี้ยง loop
 
 .
 
-มันคือสัญญาณว่า input เส้นหนึ่งเข้ามา
+loop ผลิตอารมณ์รอบใหม่
 
 .
 
-แล้วระบบกำลังจะเลือกจะตอบสนองยังไง
+ชิงช้าเลยขึ้นๆ ลงๆ แบบไม่จำเป็น
 
 .
 
 .
 
-เราไม่จำเป็นต้องเชื่อฟังมัน
+# ความรู้สึกแย่ = ข้อมูลเรื่อง loop ไม่ใช่เรื่อง input
 
-.
-
-เราต้องอ่านมัน
-
-.
+ตรงนี้ "ความรู้สึกคือข้อมูล ไม่ใช่คำสั่ง" มันคมขึ้น
 
 .
 
-เหมือนสัญญาณเตือนบนหน้าปัด
+ความรู้สึกแย่หลัง input เส้นหนึ่ง
 
 .
 
-มันไม่ได้สั่งให้เราจอดรถกลางทาง
+เราอ่านมันเป็นข้อมูลเรื่อง input
 
 .
 
-มันแค่บอกเราว่า "ตรงนี้ มีอะไรเกิดขึ้น"
+> "แผนนี้คงมีปัญหา / เขาคงไม่พอใจ"
 
 .
 
-แล้วเราเป็นคนเลือกเอง
+แต่มันเป็นข้อมูลเรื่องอื่น
 
 .
 
-ว่าจะจอด จะซ่อม หรือจะขับต่อ
-
-.
+> **ความรู้สึกแย่ ไม่ใช่ข้อมูลเรื่อง input — มันคือข้อมูลว่า loop กำลังรัน**
 
 .
 
-# space คือช่องว่าง ไม่ใช่การทำลายความคิด
+และข้อมูลแบบนั้นไม่ได้สั่งให้เราทำอะไร
 
-ตรงนี้พรเคยเข้าใจผิดเหมือนกัน
-
 .
 
-เราคิดว่าง ap = ทำให้ความคิดหายไป
+มันแค่รายงาน
 
 .
 
-ให้หัวเงียบ
+จะเชื่อหรือจะอ่าน — เลือกได้
 
 .
 
-ให้ชิงช้าสวรรค์หยุด
-
 .
 
-.
+# space ช่วยสร้าง Margin ไหม — คำถามที่ยังไม่มีคำตอบ
 
-แต่จริงๆ แล้ว
+เหลือคำถามเดียวที่พรยังตอบไม่ได้
 
 .
 
-input ยังอยู่ตรงนั้น
+ระหว่าง input กับ Thinking มี "ช่องว่าง" อยู่ไหม
 
 .
 
-เป็นกลางเหมือนเดิม
+และถ้ามี — มันช่วยสร้าง Margin ให้ระบบได้จริงไหม
 
 .
 
-สิ่งที่ gap ทำให้คือ
-
 .
 
-> **หยุด loop ก่อนที่มันจะรันซ้ำ — เพื่อให้เราอ่าน input เป็นข้อมูลได้**
+พรยังไม่แน่ใจ
 
 .
 
-ไม่ใช่กำจัดความคิด
+สิ่งที่รู้ตอนนี้คือ
 
 .
 
-แต่คือการแยก input ออกจาก response
+บางครั้ง แค่ถามว่า "อารมณ์นี้มาจาก input หรือ Thinking?"
 
 .
 
+loop ก็หยุด
+
 .
 
-ช่องว่างนี้ไม่ใช่ Margin ในแผน
+แต่บางครั้งมันก็ไม่หยุด
 
 .
 
 .
 
-Margin ในแผน = ความจุที่เราตั้งใจยังไม่ Commit
+Margin ในแผนพิสูจน์แล้วว่าทำงาน
 
 .
 
-gap ในหัว = buffer ระหว่างสัญญาณกับการตอบสนอง
+เวลาที่ตั้งใจยังไม่ Commit มันรองรับความผิดปกติได้จริง
 
 .
+
+แต่ "ช่องว่างในหัว" ยังไม่ผ่านการทดสอบแบบนั้น
 
 .
 
-สองอย่างนี้ทำคนละงาน
+เลยยังเรียกมันว่า Margin ไม่ได้
 
 .
 
-อย่าไปปนกัน
+ตอนนี้มันเป็นแค่คำถามที่พรเก็บข้อมูลอยู่
 
 .
 
@@ -349,9 +316,7 @@ gap ในหัว = buffer ระหว่างสัญญาณกับก
 
 # 13:04 ของอีกวันหนึ่ง
 
-เช้าวันถัดมา
-
-ความคิดเส้นเดียวกันเข้ามาอีก
+input เส้นเดิมเข้ามาอีก
 
 .
 
@@ -359,51 +324,49 @@ gap ในหัว = buffer ระหว่างสัญญาณกับก
 
 .
 
-รอบนี้พรหยุด
+ครั้งนี้พรถามก่อน
 
 .
 
-ไม่ได้กดรัน loop
+> "อารมณ์ที่กำลังจะมา — มันจาก input หรือจาก Thinking?"
 
 .
 
-แค่ถามตัวเอง
+ครั้งนี้มันหยุด
 
 .
 
-> "input เส้นนี้ เป็นกลางอยู่ไหม? หรือพรกำลังตัดสินมัน?"
+เพราะคำถามทำให้เห็นว่า
 
 .
 
-มันยังเป็น input อยู่
+ยังไม่มีอารมณ์อะไรมาถึงเลยด้วยซ้ำ
 
 .
 
-พรอ่านมันในฐานะข้อมูล
-
-.
-
-> "มี input ว่าเขาอาจไม่ชอบ — พรจะเช็คกับเขาตรงๆ หลังประชุม"
-
-.
-
-แล้วปล่อยมันผ่าน
+มีแค่ input เป็นกลาง 1 วินาที
 
 .
 
 .
 
-input เส้นเดิม ใช้ไปไม่ถึง 1 วินาที
+แต่ขอพูดตรงๆ
 
 .
 
-loop ที่เคยกิน 40 นาที
+อีกหลายครั้ง loop รันเสร็จไปแล้ว พรค่อยรู้ตัว
 
 .
 
-ครั้งนี้ไม่เกิดขึ้นเลย
+คำถามวิ่งตามหลัง loop ไม่ทัน
 
 .
+
+นั่นแหละคือเหตุผลที่ space ยังเป็นคำถาม
+
+.
+
+ไม่ใช่คำตอบ
 
 .
 
@@ -411,11 +374,11 @@ loop ที่เคยกิน 40 นาที
 
 # คำถามครั้งหน้าที่มันเกิดขึ้น
 
-ตอนที่เราเริ่มรู้ตัวว่าหัวกำลังไปไกล
+ครั้งหน้าที่รู้สึกแย่หลัง input เส้นหนึ่งเข้ามา
 
 .
 
-เราไม่ได้ถาม "ทำไมพรถึงคิดแบบนี้?"
+เราไม่ต้องถาม "ทำไมถึงคิดมาก"
 
 .
 
@@ -423,51 +386,29 @@ loop ที่เคยกิน 40 นาที
 
 .
 
-> **"ตอนนี้พรอยู่ตรงไหน — ที่ input หรือที่ loop?"**
+> **"ความรู้สึกนี้บอกอะไรเรื่อง input — หรือมันแค่บอกว่า loop กำลังรัน?"**
 
 .
 
-ถ้ายังอยู่ที่ input
+ถ้ามันเป็นข้อมูลเรื่อง loop
 
 .
 
-มันยังเป็นกลาง ยังอ่านเป็นข้อมูลได้
-
-.
-
-.
-
-ถ้ากำลังรัน loop
-
-.
-
-เราแค่หยุด — ไม่จำเป็นต้องกำจัดความคิด
+สิ่งที่ต้องจัดการคือ loop ไม่ใช่ input
 
 .
 
 .
 
-Test ของเรื่องนี้ไม่เกี่ยวกับ "หัวเงียบได้กี่นาที"
+Test ไม่ได้อยู่ที่ "คิดน้อยลงไหม"
 
 .
 
-.
-
-มันเกี่ยวกับ
+มันอยู่ที่
 
 .
 
-> **ครั้งหน้าที่ input เส้นหนึ่งเข้ามา — เราแยกออกได้ไหมว่ามันยังอยู่ที่ input หรือว่าเราเผลอไปรัน loop แล้ว? และการตอบสนองของเราเป็นการ "อ่าน" ไม่ใช่การ "เชื่อฟัง"?**
-
-.
-
-ถ้าแยกออก
-
-.
-
-40 นาทีก็จะไม่กลับมาอีก
-
-.
+> **"ครั้งหน้าที่อารมณ์มา — เราแยกได้ไหมว่ามันเกิดตอน input หรือเกิดตอน Thinking? และช่วงระหว่างสองตอนนั้น มีอยู่จริงแค่ไหน?"**
 
 .
 
@@ -475,37 +416,23 @@ Test ของเรื่องนี้ไม่เกี่ยวกับ "�
 
 # คำถามที่ลึกขึ้นอีกชั้น
 
-โพสต์ก่อนหน้าถามว่า "Load หนัก หรือ Noise เยอะ?"
-
-— ต้นทุนอยู่ที่ไหน
+โพสต์ก่อนถามว่า "Load หนัก หรือ Noise เยอะ?" — ต้นทุนอยู่ที่ไหน
 
 .
 
-โพสต์นี้ถามว่า "input หรือ loop?"
-
-— ต้นทุนอยู่ที่ชั้นไหน
+โพสต์นี้ถามว่า "อารมณ์มาจาก input หรือ Thinking?" — อารมณ์ถูกสร้างตรงไหน
 
 .
 
-.
-
-คำถามคนละระดับ
+คำถามคนละชั้น
 
 .
 
-แต่ตอบด้วยเครื่องมือชุดเดียวกัน
+แต่ท่าเดียวกัน
 
 .
 
-อ่านสัญญาณ เป็นข้อมูล
-
-.
-
-แล้วปล่อยให้ระบบที่แพง
-
-.
-
-ไม่ต้องจ่ายค่ารันสคริปต์เดิมซ้ำ
+อย่าเพิ่งโทษสิ่งที่มองเห็นก่อน
 
 .
 
@@ -515,28 +442,26 @@ Test ของเรื่องนี้ไม่เกี่ยวกับ "�
 
 # #สรุปแบบวิศวกรเป็ด
 
-**input** = สัญญาณที่ระบบสร้างเพื่อนำทาง — เป็นกลาง ไม่พิษ ไม่ใช่อารมณ์
-**Thinking** = loop ที่เราตัดสินและรันซ้ำทับ input — ต้นทุนที่แท้จริง
-**ความรู้สึก** = ข้อมูล ไม่ใช่คำสั่ง — เราอ่านมัน ไม่ได้เชื่อฟังมัน
-**gap** = buffer ระหว่างสัญญาณกับการตอบสนอง — หยุด loop ได้ ไม่ใช่ Margin ในแผน
+**input** = สัญญาณเป็นกลาง — ไม่มีอารมณ์ ไม่วนซ้ำ
+**Thinking** = จุดที่อารมณ์ถูกสร้าง + จุดที่ loop รัน — มาพร้อมกันถึงจะเจ็บ
+**ความรู้สึกแย่** = ข้อมูลเรื่อง loop ไม่ใช่เรื่อง input
+**space** = ยังเป็นคำถาม — ช่วงระหว่าง input กับ Thinking ที่ยังทดสอบอยู่
 
 .
 
-> **ปัญหาไม่ใช่ความคิดที่เข้ามา — แต่คือ loop ที่เราเผลอไปรันซ้ำ**
+> **อารมณ์ไม่ได้อยู่ใน input — มันถูกสร้างตอนที่เราเริ่ม Thinking**
 
 .
 
 Flow
 
-**input เส้นเดียวเข้ามา (เป็นกลาง, 1 วินาที)**
+**input เข้ามา (เป็นกลาง, 1 วินาที)**
 ↓
-**เผลอไปรัน loop (ตัดสิน + ปรุงแต่ง + รันซ้ำ)**
+**Thinking เริ่ม — อารมณ์ถูกสร้าง + loop รัน**
 ↓
-**เลเยอร์ที่เร็วกว่ารับช่วงขับ / เลเยอร์ที่แพงจ่ายค่ารันซ้ำ**
+**ความรู้สึกแย่ = ข้อมูลว่า loop กำลังรัน ไม่ใช่ว่า input เป็นพิษ**
 ↓
-**40 นาทีของชิงช้าสวรรค์**
-↓
-**gap = หยุด loop ก่อนรันซ้ำ → อ่าน input เป็นข้อมูล → ปล่อยผ่าน**
+**space ระหว่าง input กับ Thinking — ยังอยู่ระหว่างทดสอบ**
 
 .
 
@@ -550,7 +475,7 @@ Flow
 
 .
 
-> **"วันนี้ input เส้นไหนที่เราเผลอไปรัน loop — และกี่เส้นที่เราอ่านมันแล้วปล่อยผ่านได้?"**
+> **"วันนี้อารมณ์แย่กี่ครั้งที่ย้อนดูแล้วเห็นว่ามันเริ่มที่ Thinking ไม่ใช่ input — และมีกี่ครั้งที่ช่วงระหว่างสองอย่างนั้นมีอยู่จริง?"**
 
 .
 
