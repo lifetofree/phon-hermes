@@ -1,6 +1,6 @@
 <!--
 ContentID: (pending)
-Status: draft
+Status: draft (rewritten once 2026-09-27: user steer thought->input)
 Type: CURRENT FORM — # H1 sections, . beats, > questions/inner-monologue (curly quotes), bold concepts. NO hr / H2 / ↓ in-section / protocol / table / Law labels / external authorities. Register: พร narrates the story, เรา carries universal claims, คุณ 0, คับ 0.
 Series: standalone system post (adjacent to Load/Noise + Margin) — does NOT compile the thread, so duck closer + ↓ Flow + night question, one-line bridge to predecessor (no recap, per #45/#51).
 Brief (user, 2026-09-27, 4 ideas, causal chain — chain exception #42, order = brief order):
@@ -10,20 +10,21 @@ Brief (user, 2026-09-27, 4 ideas, causal chain — chain exception #42, order = 
 4. Creating S-P-A-C-E (system decoupling) — asking / separating Thought from Thinking creates a Margin/Buffer for the nervous system; the system stops auto-responding (reflex) and returns open space for creativity / staying steady.
 CHAIN: input → failure (the loop re-runs + fast layer takes the wheel) → diagnosis (the cost is the re-run, not the input; feeling = data not command) → design rule (the gap decouples input from response). All 4 chain as one sequential spine.
 USER UNCERTAINTY (carried as a design decision, NOT built on): "space help to create margin or not? maybe not an answer" — bullet 4's Margin claim is the uncertain link. Handling: (a) do NOT make "space creates Margin" load-bearing; (b) define the gap by its own job (stop the reflex so the signal can be read as data) and by CONTRAST with the plan-Margin (Save State / Margin = uncommitted CAPACITY in the plan; the gap = a response BUFFER between signal and action — different job, do not merge, per #47/#53); (c) ship it as a near-miss section ("space ≠ making the thought go away"), which is also where the honest uncertainty lives.
+USER STEER 2026-09-27: "thought -> input" — the English term for the neutral signal is INPUT everywhere in the body (H3 / bold defs / dispatch); Thai narration (ความคิด) in the story stays. Filename/slug kept (internal identifier); Notion URL unchanged.
 SSOT anchors (verified 2026-09-27, ~/hermes-agent/duck-os/Main_Data_for_UDO.md):
 - Law #1, line 23: "System > Emotion: อย่าให้อารมณ์เป็นคนตัดสินใจ ความรู้สึกคือ 'ข้อมูล' ไม่ใช่ 'คำสั่ง'" → the killer one-liner, used UNLABELED (no "Law #1" tag in body).
 - 3 Brain Layers, lines 139–143 (Sapolsky's Hardware Manual): Layer 3 PFC = The System (จ่ายค่ารันแพงที่สุด) / Layer 2 Amygdala = The Emotion (ตอบสนองสิ่งเร้า/ดราม่า/Noise อัตโนมัติ) / Layer 1 = Hardware; System Logic = ห้ามปล่อยให้ Layer 2 ขึ้นมาประมวลผลและขับเคลื่อนระบบ.
 - Line 37: Cache Cleaner — ย้าย Data จาก RAM ไป Storage ภายนอก ลดภาระ PFC (backs "read the signal instead of re-running it").
 - Line 171: Step 1 Intercept — Layer 3 เป็น รปภ. สั่งระงับไม่ให้ Layer 2 เข้ามาปรุงแต่งข้อมูล (backs "the gap stops the reflex").
 - USED UNLABELED in body (principles carry, names stay out): the 3-layer map as "คู่มือที่เราใช้", feeling-as-data-not-command, the expensive-layer-pays-for-the-re-run cost frame.
-Neuroscience discipline (Benz DNA, recurring regression #19/#21): the 3-layer map is framed as "คู่มือที่เราใช้ / แผนที่ที่เราใช้" (a personal Duck OS map, NOT a factual explanation of the brain). Absolute claims softened: brief's "Layer 2 เข้าฮุบทันที / พลังงานดิ่งวูบ / Overheat" → "เลเยอร์ที่เร็วกว่ารับช่วงขับ / เลเยอร์ที่แพงต้องจ่ายค่ารันซ้ำไปซ้ำมา". Forcing question (draft-time): if every brain-region word is deleted, does the Thought-vs-Thinking question + "feeling = data not command" still carry the post? YES → the model is decoration, ship the question. (Verified: it survives.)
+Neuroscience discipline (Benz DNA, recurring regression #19/#21): the 3-layer map is framed as "คู่มือที่เราใช้ / แผนที่ที่เราใช้" (a personal Duck OS map, NOT a factual explanation of the brain). Absolute claims softened: brief's "Layer 2 เข้าฮุบทันที / พลังงานดิ่งวูบ / Overheat" → "เลเยอร์ที่เร็วกว่ารับช่วงขับ / เลเยอร์ที่แพงต้องจ่ายค่ารันซ้ำไปซ้ำมา". Forcing question (draft-time): if every brain-region word is deleted, does the input-vs-Thinking question + "feeling = data not command" still carry the post? YES → the model is decoration, ship the question. (Verified: it survives.)
 One metaphor family: signal / system (input, signal, script, loop, the fast layer / the expensive layer, the gap / buffer, data / command). NO second family. "งบ / จ่ายค่ารัน" = the series cost vocabulary (consistent with Load/Noise), kept light, not a battery/overheat load-bearing claim.
 Zero-count kills (body + hashtags): Amygdala / PFC / Prefrontal / Dopamine / ฮอร์โมน / Layer (as a FACT label — only "เลเยอร์" in the map section, framed as a map) / Protocol / XX-0N / กฎ / Duck OS / Law # / table / battery / overheat as a hard claim / "บังคับ" / คุณ.
 Design decisions:
 - H1 = condition (the cost is the loop, not the input); H3 = compile-able definition (#24). Open with the story (a 1-second thought that cost 40 minutes), not a metric (#43).
-- ONE dispatch question forking 2 modes (#3): "ต้นทุนมันอยู่ที่ Thought (input) หรืออยู่ที่ Thinking (loop ที่รันซ้ำ)?" → the input (neutral, 1 second, can be read) vs the loop (the re-run, 40 minutes, the rollercoaster). Built from the mechanism's two failure shapes, no third invented.
+- ONE dispatch question forking 2 modes (#3): "ต้นทุนมันอยู่ที่ input หรืออยู่ที่ Thinking (loop ที่รันซ้ำ)?" → the input (neutral, 1 second, can be read) vs the loop (the re-run, 40 minutes, the rollercoaster). Built from the mechanism's two failure shapes, no third invented.
 - Worked example is load-bearing (#4/#23): the 13:04 meeting scene with the concrete artifact (the one-line thought vs the 40-min loop) + a near-miss variant immediately after.
-- Near-miss = the user's own uncertainty, made visible (#44/#26): "space ≠ ทำให้ความคิดหายไป" — the input (Thought) is still there, neutral; what the gap does is stop the loop from re-running so the input can be read as data. This is where "maybe not an answer" is honored instead of papered over.
+- Near-miss = the user's own uncertainty, made visible (#44/#26): "space ≠ ทำให้ความคิดหายไป" — the input is still there, neutral; what the gap does is stop the loop from re-running so the input can be read as data. This is where "maybe not an answer" is honored instead of papered over.
 - Bounded closer (#50): does NOT claim the gap removes the emotion or adds plan-capacity; claim = the gap stops the reflex so the signal can be read as data, and the re-run stops being the default.
 - Closer = duck closer (standalone, does NOT compile the series) + ↓ Flow + night question.
 - No cross-refs in body (CURRENT FORM #9); cross-ref noted header-only.
@@ -31,16 +32,16 @@ Candidate hooks (per #39 — surfaced for the critique round):
 A (USED as H1): ปัญหามันไม่ใช่ความคิด — มันคือ loop ที่รันซ้ำอยู่
 B: ความคิดใช้ไป 1 วินาที — loop ใช้ไป 40 นาที
 C: ความรู้สึกคือข้อมูล — ไม่ใช่คำสั่งที่เราต้องเชื่อฟัง
-D: ปัญหาไม่ใช่ Thought ที่เข้ามา — แต่คือที่เราเผลอไปกดรันสคริปต์ซ้ำ
+D: ปัญหาไม่ใช่ input ที่เข้ามา — แต่คือที่เราเผลอไปกดรันสคริปต์ซ้ำ
 Cross-refs (header only, body carries none):
-- Load/Noise (2026-09-25, posts/20260925-cnt-cognitive-load-takeover.md) — same "fast layer vs expensive layer" map + cost vocabulary; this post moves from "Load หรือ Noise?" (where's the cost) to "Thought หรือ Thinking?" (input vs loop) — one level different, bridge by question level.
+- Load/Noise (2026-09-25, posts/20260925-cnt-cognitive-load-takeover.md) — same "fast layer vs expensive layer" map + cost vocabulary; this post moves from "Load หรือ Noise?" (where's the cost) to "input หรือ Thinking?" (input vs loop) — one level different, bridge by question level.
 - Margin (2026-09-25, posts/20260925-cnt-margin-not-maximum.md) — the "gap" here is a response BUFFER, NOT the plan-Margin (uncommitted capacity); kept distinct on purpose.
 Hashtags: #Adduckivity #DuckOS #NeuroDivergent + topic #SystemThinking #EmotionalRegulation
 -->
 
 # ปัญหามันไม่ใช่ความคิด — มันคือ loop ที่รันซ้ำอยู่
 
-### Thought คือ input ที่เป็นกลาง — Thinking คือ loop ที่เราเผลอไปรันซ้ำ
+### input คือสัญญาณที่เป็นกลาง — Thinking คือ loop ที่เราเผลอไปรันซ้ำ
 
 .
 
@@ -115,7 +116,7 @@ Hashtags: #Adduckivity #DuckOS #NeuroDivergent + topic #SystemThinking #Emotiona
 
 .
 
-> **ต้นตอไม่ใช่ Thought (input) — แต่คือ Thinking (loop ที่เราเผลอไปรันซ้ำ)**
+> **ต้นตอไม่ใช่ input — แต่คือ Thinking (loop ที่เราเผลอไปรันซ้ำ)**
 
 .
 
@@ -514,7 +515,7 @@ Test ของเรื่องนี้ไม่เกี่ยวกับ "�
 
 # #สรุปแบบวิศวกรเป็ด
 
-**Thought** = input ที่ระบบสร้างเพื่อนำทาง — เป็นกลาง ไม่พิษ ไม่ใช่อารมณ์
+**input** = สัญญาณที่ระบบสร้างเพื่อนำทาง — เป็นกลาง ไม่พิษ ไม่ใช่อารมณ์
 **Thinking** = loop ที่เราตัดสินและรันซ้ำทับ input — ต้นทุนที่แท้จริง
 **ความรู้สึก** = ข้อมูล ไม่ใช่คำสั่ง — เราอ่านมัน ไม่ได้เชื่อฟังมัน
 **gap** = buffer ระหว่างสัญญาณกับการตอบสนอง — หยุด loop ได้ ไม่ใช่ Margin ในแผน
