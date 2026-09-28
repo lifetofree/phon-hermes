@@ -774,3 +774,31 @@ Rules for future drafts (Evolution Notes 92–96):
 94. **Emotion does NOT classify loop type** — Work Loop has emotions too (debug เครียดได้ / error ซ้ำหงุดหงิดได้); feeling = a Signal to INSPECT for an Exit Condition, never the classifier itself. r3's sensor-thesis died on the user's own evidence.
 95. **Open questions get their own equation line** — "Space ≠ Margin" as a standalone bold beat carries the honesty stance better than a paragraph of hedging; "ยังไม่รู้" on its own line + "เก็บข้อมูลต่อ" is the standing closer for unproven connections.
 96. **1.49× expansion = the cut layer is replaced by cases** — v4 GREW over r3 by adding the falsifier's concrete loop artifacts (Test/Error/แก้/Test ใหม่), the 4-question Inspect chain, and re-quoting the superseded questions. The post-critique rewrite never deletes into shortness (5th consecutive expansion: 1.12→1.67→1.45→1.49 series continues post-#17).
+
+### 2026-09-28 — pair #24 part 1 (user-split, analyze-only): priority-vs-capacity
+
+Context: UDO filed the intentional-neglect draft (394 wc-w, Notion 3e9df8d8-8d8c-8101-92db-f111a619d140) from a 3-idea chained brief. Benz-DNA verdict: SPLIT into 2 contents. User returned part 1 ("เดี๋ยวส่งอีกอันตามมาให้นะ ขอเขียนแล้วให้ benz dna ดูก่อน" — part 2 pending, pair #24 stays OPEN). Scope: analyze-only, no edit, no Notion patch. Archive: web-archive/20260928-priority-vs-capacity-user-split1.md.
+
+Measured (part 1 vs UDO draft): 590 vs 394 wc-w = **1.50×** (6th consecutive post-edit expansion: 1.12→1.67→1.45→1.49→~→1.50). H1 9 / H2 0 / H3 1; beats 105; `>` lines 68 (vs 10 — 6.8×; blockquote is now the DEFAULT wrapper for questions AND inner voices AND definitions); bold 31; ↓ 5 (closer only); พร 29 / เรา 21 / คุณ 1 (inside "คุณภาพ" — substring, effectively 0) / คับ 0 / ผม 0; protocols 0; tables 0; hr 0.
+
+THE SPLIT (draft→part 1 mapping): the draft's causal chain broke at its midpoint. Part 1 KEEPS: Friday-planning story (verbatim seeds: งานลูกค้า/ระบบที่ผลัด/คอนเทนต์/การวิ่ง), every-item-"ถูก" observation, Big Rocks lesson audit, ปัญหาไม่ใช่ลำดับ→จำนวน thesis, 2-modes "ไม่ทำ" distinction. Part 1 CUTS to zero (→ reserved for part 2): จงใจละเลย / Neglect (body; survives only in #IntentionalNeglect hashtag) / ผัด / procrastination / ตัวกรอง / สิ่งเร้าสุ่ม / ตั้งชื่อ=ของเรา / 4,000 สัปดาห์ / แบตเตอรี่ / Margin bridge / bounded-cost closer. The draft's back half died ENTIRELY — part 1 = the capacity half only.
+
+What part 1 BUILT on the kept skeleton (the 1.50× source):
+- **Priority vs Capacity word-pair** as the new spine (Priority 10× / Capacity 16× / Commitment 8× / Commit 19×): "Priority ตอบ อะไรสำคัญกว่าอะไร? / Capacity ถาม เรารับได้ถึงไหน? — ตอบข้อแรกได้ ไม่ได้แปลว่าตอบข้อสองแล้ว" — the testable-redefinition shape (#13/#16) applied to a CONCEPT PAIR, not one word.
+- **เส้นหยุด Commit** (the stopping-line): ranking 1–10 answers order, not WHERE TO STOP — "อันดับ 4 ล่ะ? 5 ล่ะ? 6 ล่ะ?" ladder; state name = **Commitment เกิน Capacity**.
+- **8-rocks enumeration** (1..8 each on its own beat) — the count made VISIBLE, replacing the draft's abstract "ทุกก้อนผ่านเกณฑ์".
+- **"ของที่ถูกก็เยอะเกินไปได้"** — cut-the-junk first, list still tight (ตัด Social → ยังแน่น): kills the "decluttering fixes it" assumption before the thesis.
+- **Inner-voice CONTRAST pair in blockquotes** (the 2-modes core): "เรื่องนี้สำคัญ / แต่ Capacity รอบนี้ไม่พอ / พรเลือกไม่ Commit มัน" VS "อ้าว / สัปดาห์หมดแล้ว / ยังไม่ได้ทำเลย" — same outer status "ไม่เสร็จ", different Decision. Followed by the plain-language distinction (มีขอบเขต vs งานยังค้างในระบบ).
+- **Incoming ≠ Priority inherited** (bridge by MODE-INHERITANCE #6): the mid-week-new-arrival case, upgraded with the **swap question "ถ้าเอาอันนี้เข้า — อะไรจะออก?"** — nothing-exits = adding Commitment at constant Capacity.
+- **Anti-overcorrection stanza**: "พรยังไม่คิดว่า Time Management ควรวัดจากจำนวนงานที่ทิ้ง — มันก็คงสุดไปอีกด้านหนึ่ง" (both-edges honesty, the #16/#52 cost-side pattern).
+- **Hedged re-discovery register**: subtitle + hook use "อาจไม่ใช่…อาจเป็นเพราะ…" (no verdict H1 — EN #34); "จนพรเริ่มสงสัยว่า / พรเริ่มเห็น / พรเริ่มแยก / พรเริ่มคิด / พรอยากเพิ่ม" — 18 เริ่ม/อยาก/เห็น-chains: the post narrates ARRIVING at the distinction, not possessing it.
+- Closer: duck closer restructured as **Q&A definitions** (Priority ตอบว่า… / Capacity ตอบว่า… / เส้นหยุด Commit) + ↓ Flow + the swap question + the weekend question — no night-question label, ends on the compiled question.
+
+Rules for future drafts (Evolution Notes 97–101):
+97. **Split-point = the chain's pivot concept** — Benz splits a chained brief at the concept that can headline its own post; front half keeps story+paradox, back half keeps mechanism+filter. Draft both halves' seeds but do NOT cross-ship vocabulary (part 1's zero-count list = part 2's reserved inventory).
+98. **Word-pair redefinition** — when a post's asset is TWO concepts confused as one (Priority/Capacity, Remember/Decide #69b), the spine is "X ตอบคำถามนี้ / Y ถามอีกเรื่อง — ตอบ X ได้ไม่ได้แปลว่าตอบ Y แล้ว": define by the QUESTION each answers, not by properties.
+99. **The stopping-line question** — ranked lists need "ตรงไหนคือเส้นที่เราหยุด Commit?"; priority answers order, never a stop. Enumerate the ladder (4 ล่ะ? 5 ล่ะ?) to make the missing line visible.
+100. **Inner-voice contrast pairs beat abstract modes** — the 2-modes distinction lands as two quoted monologues with the SAME outer status; put both in blockquotes, state the shared observable first ("จากข้างนอก มันมีสถานะเดียว").
+101. **Swap question for any finite-capacity system** — new item entering: "ถ้าเอาอันนี้เข้า — อะไรจะออก?" (no-exit = silent Capacity overrun); pairs with inherited rules (Incoming ≠ Priority) by MODE-INHERITANCE, one line, no series recap.
+
+Status: pair #24 OPEN — part 2 (the neglect/filter half) pending user return post-Benz-DNA. Part 1 baseline for part 2's measurement = this archive file (590 wc-w).
