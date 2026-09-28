@@ -821,3 +821,16 @@ Rules for future drafts (Evolution Notes 102–106):
 104. **Name candidates to exclude them** — listing Hyperfocus/Transition/Motivation as "ไม่เติมว่า" turns tempting mechanisms into named non-answers; the refused list is content, not absence of content.
 105. **4-field log line** (intention / at-the-time state / decision / aftermath) as the minimal observable unit for any repeated-postponement watch — timestamps on their own beats, hard stop "จบ" after.
 106. **Repeat-line-as-closer** — one stance line repeated verbatim to close 2 sections (here: pattern-from-data) anchors a short post better than a new closer line; when a post is <300 wc-w, repetition beats Flow/chains.
+
+
+### 2026-09-28 — pair #26 PRE-REWRITE: constraints v2 × Benz-DNA critique (analyze-only; draft + Notion untouched)
+
+Source: posts/20260928-cnt-limitless-possibilities-constraints.md v2 ("ยิ่งทำอะไรก็ได้ ยิ่งไม่มีอะไรเกิด", 321 wc-w, full-พร 21/เรา 0) — the SELF re-spine of pair #25, critiqued same day. Critique archived verbatim: web-archive/20260928-constraints-benz-dna-critique.md (quote claims code-verified 13/13; H1 map confirms the stack: 9 sections = 4 theses).
+
+Verdict: "มีของ แต่ Compile เร็วเกิน Evidence" — 3–4 contents stacked in one post. KEEP: the first connection only (48 ไอเดีย → เปิดไฟล์ = เลือกใหม่ → constraint 40 นาที + มือถือ → 47 หลุดจากรอบ → งานเกิด) + the hedged closing question with "หรือเปล่า" (Connection from ONE case, not a Law). CUT as branches (แยกเก็บเป็นกิ่ง, not deleted): (1) decision-per-day capacity mechanism — Mechanism Claim beyond evidence, "ตัดออก บทยังอยู่ครบ"; (2) "48 ไอเดีย = คำถามค้าง 48 ข้อ" equation — literal overclaim; softer: "ไฟล์นี้เก็บตัวเลือกที่พรสามารถกลับมาตัดสินใจใหม่ได้"; (3) ข้ออ้าง vs ข้อจำกัดจริง test (2 whole sections) — เปลี่ยนคำถามของบท = content ใหม่; killer "ข้อจำกัดปิดคำถาม — ข้ออ้างเปิดคำถามเพิ่ม" = Universal เกิน Evidence (real constraint ก็เปิดคำถามใหม่ได้ — งบลดครึ่ง → redesign); (4) โตจาก version แรก / ของไม่มีวันครบ — Iteration/Shipping philosophy, "ไม่จำเป็นต่อ Thesis นี้". Subtitle fix: "Constraints = คำตอบล่วงหน้าที่ทำให้งานเริ่มได้" → "บางครั้งข้อจำกัดไม่ได้ทำให้งานยากขึ้น — มันลดจำนวนคำถามก่อนเริ่มงาน" (บางอย่าง/บางครั้ง hedges, aligns to the 40-min evidence).
+
+พร's answer = the 3-line block (มี Choice เยอะไม่ได้แปลว่างานจะเริ่มง่าย / Constraint ช่วยลดสิ่งที่ต้องตัดสินใจ / จนงานเริ่มได้) — same shape as the critic's "น่าจะกำลังเขียนว่า" block: the thesis the AUTHOR meant, one case, no mechanism.
+
+Pattern named (the training insight): **พร Link ต่อเก่งจนบทหนึ่งแบกหลาย Thesis** — Connection แรกแข็ง → สองดี → สามจริงบางส่วน → ทุกอันขึ้นรถคันเดียว. New draft-time gate (beyond "อันนี้พรเห็น หรือพร Link?"): **"Connection นี้ทำให้ Thesis เดิมชัดขึ้น — หรือกำลังเปิด Thesis ใหม่?"** ถ้าอย่างหลัง → จอดไว้ก่อน (แยกเก็บเป็นกิ่ง).
+
+Pending: publish version ("version ที่จะ publish") completes this pair.
