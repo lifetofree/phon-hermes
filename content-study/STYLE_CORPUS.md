@@ -834,3 +834,18 @@ Verdict: "มีของ แต่ Compile เร็วเกิน Evidence" �
 Pattern named (the training insight): **พร Link ต่อเก่งจนบทหนึ่งแบกหลาย Thesis** — Connection แรกแข็ง → สองดี → สามจริงบางส่วน → ทุกอันขึ้นรถคันเดียว. New draft-time gate (beyond "อันนี้พรเห็น หรือพร Link?"): **"Connection นี้ทำให้ Thesis เดิมชัดขึ้น — หรือกำลังเปิด Thesis ใหม่?"** ถ้าอย่างหลัง → จอดไว้ก่อน (แยกเก็บเป็นกิ่ง).
 
 Pending: publish version ("version ที่จะ publish") completes this pair.
+
+
+### 2026-09-28 — pair #26 COMPLETE: constraints publish version (user pasted "publish version")
+
+Measured vs v2: 377 wc-w = 1.17× (expansion continues); H1 10→7, beats 59→87, blockquotes 6→20, bold 7→26, ↓ reborn (6, closer Flow — first since #18), พร 31/เรา 5/คุณ 0/คับ 0. Hashtag: #NeuroDivergent dropped (→ #SystemThinking) — 3rd time.
+
+**CUT zero-count 16/16** — every critique-named cut landed: decision-capacity mechanism, "48 ไอเดีย = คำถามค้าง 48 ข้อ" equation, BOTH excuse sections (ข้ออ้างที่แต่งตัวมา + ทดสอบข้ออ้าง), killer line "ข้อจำกัดปิดคำถาม — ข้ออ้างเปิดคำถามเพิ่ม", "คำตอบล่วงหน้า" subtitle (whole concept gone), v1-iteration section, "ของไม่มีวันครบ/พอสำหรับรอบนี้", "หนึ่งชิ้น บอกชื่อตัวเองได้/อีกนิดเดียว", old title's "ไม่มีอะไรเกิด".
+
+**Hedge adoption 100%:** บางครั้ง ×5, อาจ ×7, ในรอบนี้ ×6, หรือเปล่า ×2 — the publish language is hedged-re-discovery throughout ("พรเริ่มเห็น/พรเริ่มสงสัย/อาจเปลี่ยนเป็น"), matching EN #110's evidence ceiling exactly.
+
+**Structural moves (new in this pair):** (a) TITLE softened from claim to experience: "ยิ่งไม่มีอะไรเกิด" (claim) → "ยิ่งเลือกยากว่าจะเริ่มอะไร" (the felt difficulty) — and the old claim phrase became the OPENING line's payoff ("งานที่เกิดขึ้นจริง ศูนย์ชิ้น") instead of the title; (b) **คำถามเปลี่ยนตอนเปิดไฟล์** — the middle section rewrote the v2 equation as narrative Choice-encounter ("เปิดไฟล์หนึ่งครั้ง พรไม่ได้เจอแค่ไอเดีย พรเจอ Choice" + 4 คำถามเปิด) instead of the literal 48=48; (c) **constraint reframe kept verbatim from critic pt 7**: "มันแค่ตัดบางตัวเลือกออกจากการตัดสินใจของคืนนี้" + before/after question pair ("จาก 48 อัน จะทำอะไรดี?" → "จากสิ่งที่ทำได้ภายใน 40 นาที...เหลืออะไรบ้าง?"); (d) NEW honesty section "ข้อจำกัดไม่ได้แปลว่างานจะเริ่มเสมอไป" (critic's counterexample adopted as its own section, hedged); (e) **"ไม่ได้พิสูจน์ว่าดีที่สุด" anti-proof closer** — the outcome is stated as what is NOT known (48 ชิ้นไม่ได้ถูกเทียบจนหมด), not as victory; (f) ↓ Flow closer returned WITH the `- ` stray bullet between 40 นาที/มือถือ (user layout, kept); (g) duck closer #สรุปแบบวิศวกรเป็ด present but the final hedge retracts the summary itself ("พรยังไม่อยากสรุปว่า...").
+
+**Skill folds:** EN #109–113 confirmed by the publish (all 5 gates visible in the delta); NEW — (114) title = felt difficulty not outcome claim; the retired claim can survive as the story's payoff line; (115) state outcomes as what is NOT known (anti-proof closer) — pairs with hedge register; (116) critic's counterexample → its own honesty section beats a deleted mention.
+
+Archive: web-archive/20260928-constraints-published.md (verbatim). Notion page 3e9df8d8-8d8c-81f7-b5a0-f0d13b84aee5 PATCHED (Status: rewritten, 288 blocks, read-back 25/25 markers, v2 residue 0). Pair #26 CLOSED.
