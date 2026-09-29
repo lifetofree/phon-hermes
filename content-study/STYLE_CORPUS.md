@@ -694,7 +694,7 @@ Provenance: user pasted Content B (user: "ไม่ต้องแก้ analyze
 ภาพรวม batch: 16 โพสต์ = 4 โพสต์ท้ายยุค "Protocol" (09-20..09-21) + 12 โพสต์แรกยุค "Tiny Experiment" (09-22..09-27) บน WP สาธารณะ — จุดเปลี่ยน format เกิดระหว่าง batch เดียวกัน และ 8 ใน 16 คือเวอร์ชัน publish ของ user rewrites ที่ corpus วิเคราะห์ไว้แล้ว (pairs #12–#19) — corpus วิเคราะห์วิ่งนำหน้า publication
 - kleon-daily-dispatch-dispatch-01:
   - ยืนยันเทมเพลต protocol ครบชุด: DISPATCH-01 (dispatch --day / --stage / --scrap) + Success Criteria + "มุมของ Duck OS" 3 Laws ครบ + "สรุปแบบวิศวกรเป็ด" + คับ 5 — โพสต์สุดท้ายของ batch ที่มี 3-Laws block
-  - ใหม่: named error trio (The Granularity Fallacy / Stage-Based Dispatch / Micro-shipping Momentum); ฉลาก Law #2 ตัวใหม่ "Action Precedes Motivation (Asset > Activity)"; English aphorism closer "A year is a story you tell. A day is a system you can run."; inline cross-ref "(ref: ICE-01 (2026-09)...)" — 引用 protocol เก่าเป็น ref
+  - ใหม่: named error trio (The Granularity Fallacy / Stage-Based Dispatch / Micro-shipping Momentum); ฉลาก Law #2 ตัวใหม่ "Action Precedes Motivation (Asset > Activity)"; English aphorism closer "A year is a story you tell. A day is a system you can run."; inline cross-ref "(ref: ICE-01 (2026-09)...)" — อ้างอิง protocol เก่าเป็น ref
   - ยืนยัน citation kit: Nobel 2017 (Hall/Rosbash/Young) + Cowan 2001 + Kleon Show Your Work! 2014
 - tech-string-tax-jev-calib-01:
   - ยืนยัน type B kit (specs, ตัวเลข, Anti-Hype section, vendor-reported disclaimer, challenge CTA) + protocol CALIB-01 (calib --interface / --threshold / --volume) + Success Criteria + hook "เคย...คับ"
