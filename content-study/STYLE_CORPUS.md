@@ -869,3 +869,13 @@ Evolution Notes 117–120 folded to skill:
 - 118 locked-line removal test — lock ประโยคเดียว แล้วตัดทุกประโยคที่ไม่ทำให้มันชัด; ถามต่อว่า theme เดิมรอดไหม (ครั้งนี้ Control ไม่รอด — theme ทั้งเรื่องเปลี่ยน)
 - 119 false-binary dispatch — "ความรู้สึก vs จำนวน" แคบเกิน; dispatch ที่ดีกว่า = "สิ่งที่กำลังดูอยู่ ตอบคำถามอะไรได้จริง?"
 - 120 Checkable ≠ Controllable — ห้าม compile สมการ; case รองรับแค่ "ถ้า Inspect ไม่ได้ เราอาจไม่รู้ว่าสิ่งที่พยายามควบคุมอยู่ state ไหน"
+
+### 2026-09-29 pair #27 addendum — Benz-DNA critique #2 (v3, analyze-only, pre-publish)
+
+Critic verdict: แกนกลับมาอยู่ที่เดียว ดีกว่า draft แรก — โครงถูก แค่ compile เกินอีกหนึ่งชั้น (3 จุด). Archive: web-archive/20260929-green-light-benz-dna-critique-2.md (15/15 quotes verified vs v3). Notion UNTOUCHED (user: "ไม่ต้อง rewrite แค่ analyze" — publish version จะส่งมาอีกที).
+
+Forced question ("battery/ping ทำให้ server case ชัดขึ้นจริง หรืออยากพิสูจน์ว่าใช้ได้หลายที่?") — answered HONESTLY: อย่างหลัง. v3 เพิ่ม battery/ping เพื่อ execute FORM rule #44 (near-miss หลัง definition) ไม่ใช่เพราะบทต้องการ — server case มีครบทั้ง indicator-ที่ถูกอ่านผิด (health) และ state-ที่ลึกกว่า (GPU) อยู่ในตัว.
+
+Change list for publish version (โครงคงเดิม): (1) ตัดนิยามโลก "Indicator ตอบคำถามเดียว" → "ทุกตัวมีขอบเขตของสิ่งที่มันวัด" + ของจริงในเคส (2) ตัด battery+ping ทั้งก้อน — บทอยู่กับ server จนจบ (3) "State จริง" → "พอเห็นว่า model อยู่บน CPU พรไม่ต้องสงสัยทั้งระบบเหมือนตอนแรก" (evidence-level, ไม่สร้าง rule — post ต้องไม่ทำผิดแบบเดียวกับไฟเขียวที่มันวิจารณ์) (4) ตัด "ทุกครั้ง" → trigger "Indicator บอกปกติ แต่ reality บอกอีกอย่าง" (lens ≠ ritual — decision cost) (5) duck closer ตัด dictionary 3 defs — Flow + locked line + lens question พอ. LOCKED assets: "ไฟเขียวไม่ได้โกหก — พรแค่ถามมันเกินกว่าที่มันตอบได้" + "Indicator นี้กำลังบอกอะไรเรา — และไม่ได้บอกอะไร?".
+
+Cross-draft pattern named by critic (the training itself): v1 ข่าว→control→resilience กับ v3 battery/ping = failure เดียวกันคนละสเกล — "Link เร็วได้ แต่ไม่จำเป็นต้องให้ทุก Link ผ่านเข้า Compile". Evolution Notes 121–125 → skill.
