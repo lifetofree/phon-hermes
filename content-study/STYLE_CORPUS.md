@@ -879,3 +879,24 @@ Forced question ("battery/ping ทำให้ server case ชัดขึ้น
 Change list for publish version (โครงคงเดิม): (1) ตัดนิยามโลก "Indicator ตอบคำถามเดียว" → "ทุกตัวมีขอบเขตของสิ่งที่มันวัด" + ของจริงในเคส (2) ตัด battery+ping ทั้งก้อน — บทอยู่กับ server จนจบ (3) "State จริง" → "พอเห็นว่า model อยู่บน CPU พรไม่ต้องสงสัยทั้งระบบเหมือนตอนแรก" (evidence-level, ไม่สร้าง rule — post ต้องไม่ทำผิดแบบเดียวกับไฟเขียวที่มันวิจารณ์) (4) ตัด "ทุกครั้ง" → trigger "Indicator บอกปกติ แต่ reality บอกอีกอย่าง" (lens ≠ ritual — decision cost) (5) duck closer ตัด dictionary 3 defs — Flow + locked line + lens question พอ. LOCKED assets: "ไฟเขียวไม่ได้โกหก — พรแค่ถามมันเกินกว่าที่มันตอบได้" + "Indicator นี้กำลังบอกอะไรเรา — และไม่ได้บอกอะไร?".
 
 Cross-draft pattern named by critic (the training itself): v1 ข่าว→control→resilience กับ v3 battery/ping = failure เดียวกันคนละสเกล — "Link เร็วได้ แต่ไม่จำเป็นต้องให้ทุก Link ผ่านเข้า Compile". Evolution Notes 121–125 → skill.
+
+### 2026-09-29 pair #27 CLOSED — PUBLISH version ไฟเขียว (v3 → publish)
+
+User sent the publish text ("version publish"). Archive: web-archive/20260929-green-light-published.md (verbatim). Notion page 3eadf8d8-8d8c-81a7-b806-fea54c00ea43 PATCHed with publish text (Status rewritten, 212 blocks, read-back 20/20 markers + Name prop, retired vocab 0).
+
+Measured vs v3 (the delta = the publish edit): 301 wc-w = **1.22× v3** (expansion, not trim). H1 6 / H3 1 / beats 45→65 / bq 6→13 / arrows 4→6 / bold 12→21 / พร 5→6 / เรา 5 / คุณ 0 / คับ 0. CJK 0, adjacency 0.
+
+Change-list compliance (critique #2, 5/5):
+1. World-def "Indicator ตอบคำถามเดียว" → "Indicator มีขอบเขตของมัน" + case-level list (ไม่บอก GPU/ความเร็ว/State ที่คาด) — PASS
+2. battery+ping GONE — บทอยู่กับ server จนจบ — PASS
+3. "State จริง" → evidence-level: "จากเดิมที่สงสัยว่า 'ระบบเป็นอะไร?' / คำถามแคบลงทันทีเป็น 'ทำไมตอนบูต model ถึงไม่ได้ขึ้น GPU?'" — PASS (question-narrowing replaces state-truth)
+4. "ทุกครั้ง" — ผู้ใช้ไม่ได้แค่ตัด แต่**เก็บเหตุผลไว้เป็นบท**: "ถ้าต้องเปิดทุก State ทุกครั้ง / ของที่ควรช่วยลดงาน / ก็จะกลายเป็นงานเพิ่ม" + trigger "Indicator บอกปกติ แต่สิ่งที่เกิดขึ้นจริงดูไม่ปกติ" — PASS (better than the cut: the anti-ritual argument itself survives as the section's reason)
+5. Duck closer: dictionary 3 defs GONE — Flow ขยายเป็น 7 steps (เพิ่ม "Reality ไม่ตรง" + "เจอ model บน CPU") + lens question + closer couplet "เราแค่เอาคำตอบของมัน / ไปตอบคำถามที่มันไม่เคยถูกสร้างมาให้ตอบ" — PASS
+
+NEW moves ใน publish (beyond the change list):
+- **สองคำถามแทน dispatch**: "Indicator นี้กำลังบอกอะไร?" vs "พรคิดว่ามันกำลังบอกอะไร?" — ช่องว่างระหว่างสองข้อ = จุดที่อ่านผิด (v3's dispatch reborn as a gap, not a fork)
+- **Green → System OK แยก bold**: การแปลในหัวถูกทำให้เห็นเป็นสอง token ติดกัน — the interpretation step visible
+- **เหตุผลที่ไม่เลิกใช้ไฟเขียว** ("พรไม่ได้เลิกใช้ไฟเขียว / เพราะมันยังมีประโยชน์") — indicator เป็นเครื่องมือลดงาน ไม่ใช่ศัตรู — บทจบที่ "หยุดขยายความหมาย" ไม่ใช่ "เลิกเชื่อ"
+- v3 locked line ย้ายตำแหน่ง: "ไม่ได้โกหก" ขึ้นไปจบ story-opener แรก + closer couplet ใหม่เป็นตัวปิด (เหมือน EN #114: retired claim survives as story payoff)
+
+Evolution Notes 126–127 → skill: (126) anti-ritual ต้องมีเหตุผลอยู่ในบท ไม่ใช่แค่ตัดคำสั่ง — "ถ้าต้องทำ X ทุกครั้ง ของที่ช่วยลดงานกลายเป็นงานเพิ่ม" คือ argument ที่ทำให้ trigger-scoping ดูเหมือนมาจากเคส ไม่ใช่ discipline; (127) dispatch แบบ gap ("อะไร vs พรคิดว่าอะไร") เหมาะกับ perception-error เรื่องมากกว่า fork แบบ 2 modes — ช่องว่างระหว่างคำถามคู่คือแกน ไม่ใช่ทางเลือก.
