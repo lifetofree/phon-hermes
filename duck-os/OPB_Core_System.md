@@ -9,17 +9,31 @@ Goal: ค้นหาจุดที่ "ชนะตั้งแต่ยัง
 
 MILES Framework (The Asset Audit):
 
-Money: ทุนหรือเวลา (Runway) ที่มีอยู่จริง
+Money: เงินทุน ทรัพย์สิน หรือการไม่มีภาระทางการเงิน (Runway)
 
-Intelligence: ความเข้าใจโลกและ Insight เฉพาะตัว
+Intelligence: สติปัญญา ไหวพริบ และความเข้าใจเชิงลึกในอุตสาหกรรม (Insight เฉพาะตัว)
 
-Location & Luck: โอกาสที่เกิดจากจังหวะและสถานที่
+Location & Luck: ทำเล สภาพแวดล้อม และจังหวะโอกาส
 
-Education: ทักษะเฉพาะทางที่เลียนแบบยาก
+Education: วุฒิการศึกษา ความเชี่ยวชาญ และประสบการณ์เฉพาะทางที่เลียนแบบยาก
 
-Status: ชื่อเสียงหรือ Network ที่เป็น Asset อยู่เดิม
+Status: ภาพลักษณ์ บุคลิกภาพ เครือข่าย และสถานะทางสังคมที่เป็น Asset อยู่เดิม
 
-Skill Stacking: ผสมทักษะ 3 อย่างเพื่อสร้าง "จุดตัด" ที่ไร้คู่แข่ง (เช่น Writing + Ads + Smart Insight)
+Skill Stacking (The Art of Skill Stacking): นำทักษะระดับ Top 25% หลายด้านมารวมกันเป็น "จุดตัด" ที่ไร้คู่แข่ง
+
+Core Skill: ทักษะเรือธงหลัก 1 ด้าน (จุดขายชัดเจน)
+
+Supporting Skill: ทักษะเสริมที่ทำให้ Core Skill โดดเด่นขึ้น
+
+Differentiate Skill: ทักษะที่คนในสายเดียวกันมักไม่มี (ฉีกตัวจากคู่แข่ง)
+
+Mindset & Learning:
+
+Education vs. Knowledge vs. Wisdom: Education = สิ่งที่รู้ / Knowledge = สิ่งที่เข้าใจ / Wisdom = ตัวตนที่เป็น (ประสบการณ์ตรง + Good Judgment) — แก่นของ OPB
+
+Signal vs. Noise: แยกแก่นที่สร้างผลลัพธ์จริง ออกจากกระแสแฟนซีที่ไม่ช่วยตอนนั้น
+
+3 Layers of Focus: Starlight (วิสัยทัศน์ 5–10 ปี) → Daylight (90 Days Focus) → Spotlight (แอ็กชันรายวัน)
 
 Phon DNA Filter: หากความได้เปรียบนั้นต้องใช้ Effort สูงในการรักษาไว้ = Redesign
 
@@ -55,9 +69,11 @@ Goal: สร้าง Content เพื่อกำหนดขอบเขต (
 
 OTP Framework:
 
-Observation: ทำไม? อย่างไร? อะไร?
+Observation: ทำไม? (Why) → อย่างไร? (How) → อะไร? (What)
 
-Transformation: แผนที่การเปลี่ยนจากจุดเดิม (Problem) ไปสู่จุดที่ดีกว่า (Desire)
+Transformation Path (3E): Entertainment (เปลี่ยนอารมณ์) → Education (เปลี่ยนความรู้) → Empower (เปลี่ยนตัวตน)
+
+Problem (Pain) → Outcome: Hook เชื่อม Pain Point ไปสู่ Outcome — ห้ามติดกับดัก Mr. PooPoo (พูดแต่เรื่องตนเอง คนดูไม่ได้ประโยชน์)
 
 4 Hook Hormones (Attention Mechanics):
 
@@ -68,6 +84,14 @@ Emotional Trigger: ความเข้าใจปมปัญหา (Oxytocin
 Identity Lock-in: การระบุพวกพ้อง
 
 Curiosity Loop: สร้างช่องว่างให้คนอยากรู้ต่อ
+
+The Content Machine:
+
+Attention Chain System: Attention ← Hook ← Content ← Idea ← System (Second Brain) — Self System = Content (คอนเทนต์เกิดจากการดำเนินชีวิต ไม่ใช่อารมณ์ศิลปิน)
+
+Document Your Life (GaryVee): Observe → Reflect → Connect → Share
+
+Past Experience (3R/4R): Recall → Reflect → Reframe → Relate
 
 Phon DNA Filter: หาก Content นั้นต้องอธิบายเยอะ หรือทำเพื่อ Optimize Engagement = ผิดกฎ
 
@@ -122,3 +146,87 @@ Net Cognitive Load: ลดภาระสมองจริงไหม?
 Time-to-Value: เห็นผลเร็วแค่ไหน?
 
 Phon DNA Filter: ถ้าการทดลองนั้นเสียงดัง (Hype) หรือใช้พลังส่วนบุคคลสูง = ไม่ใช่ทางของ Duck OS
+
+## 6. Business Engine & Game Design (เครื่องยนต์ธุรกิจและการออกแบบเกมตนเอง)
+
+Goal: วางโครงธุรกิจที่คุมกระแสเงินสดได้ และวางกลยุทธ์ตามศักยภาพจริงของตนเอง
+
+The Business Engine (Product-Sales-Delivery):
+
+Product: สร้างสินค้า/บริการ/ทางออกแก้ปัญหา
+
+Sales / Traffic: ดึงความสนใจและเปลี่ยนเป็นยอดซื้อ
+
+Delivery: ส่งมอบผลงานถึงมือผู้บริโภค
+
+Management & AI Multiplier: Management เชื่อมลูปทั้งสาม — AI = ตัวเร่งความเร็ว (Leverage/Multiplier) ไม่ใช่ตัวตั้งต้นของโมเดล
+
+Economy of Intelligence Framework: ลูปสร้าง OPB แบบไทย (แทน Old Economy สร้างก่อนขาย / ฝรั่ง Sell First, Build Last):
+
+Self → Attention → Idea → Offer → Scale (System)
+
+Self: แก้ปัญหาตัวเองจนสำเร็จ ("Solve your own problem then sell your own solution")
+
+Attention: สื่อสารกระบวนการ/บทเรียนเพื่อดึงดูดผู้คน
+
+Idea: รับฟังปัญหาจริงจากผู้ติดตาม ตกผลึกเป็นไอเดีย
+
+Offer: ยื่นข้อเสนอทดสอบความพร้อมจ่ายของตลาด
+
+Scale: เปลี่ยนกระบวนการเป็นระบบอัตโนมัติ
+
+The 5 OPB Business Models (Progression Path):
+
+1. Service Business — กระแสเงินสดตั้งแต่วันแรก (รับจ้าง/ฟรีแลนซ์/ที่ปรึกษา)
+
+2. Education Business — เคสจริง → คอร์ส/เวิร์กช็อป
+
+3. Media Business — ฐานแฟน + สปอนเซอร์ + Data เชิงลึก
+
+4. Software (SaaS) Business — ระบบ/Subscription จาก Insight ที่แม่น
+
+5. E-commerce Business — Physical Product เมื่อแบรนด์และลูกค้าแน่นอน
+
+Freedom Equation:
+
+Freedom = Magic Number + True Fans
+
+Magic Number: ค่าใช้จ่ายขั้นต่ำจริงต่อเดือน (ตัดฟุ่มเฟือยออก)
+
+True Fans: ฐานลูกค้าประจำพร้อมสนับสนุน — High-Ticket Service อาจต้องการแค่ไม่กี่รายก็ครอบคลุม Magic Number
+
+Game Design System (4 เสาหลัก):
+
+Player: สำรวจการ์ด ต้นทุน และแต้มต่อในมือ
+
+Weakness: รู้จุดอ่อนเพื่อไม่ฝืนทำงานที่ไม่ถนัด
+
+Stacking: นำทักษะหลากหลายด้านมาประกอบร่างกัน
+
+Arena: สนามแข่ง/บริบทที่นำทักษะไปวาง
+
+Player Stat Framework (A-S-B-S): ประเมินคะแนน (เต็ม 10) — หา 2 จุดแข็งไว้ทำเงิน, 2 จุดอ่อน Leverage/Delegate:
+
+Attention: ตลาด Storytelling ดึงดูดสายตา
+
+Sales: Offer, Copywriting, จิตวิทยาปิดการขาย
+
+Build: สร้างโปรดักต์ คอร์ส ซอฟต์แวร์
+
+System: ภาพรวม Workflow, Automation, AI
+
+Arena & Context Selection: เพิ่มมูลค่าทักษะเดิมด้วยการเลือกสนามใหม่ (Same Build, Different Value):
+
+Industry Scope: คัด 3 อุตสาหกรรมที่น่าสนใจและมีกำลังจ่าย
+
+Stack Scarcity: ชุดทักษะเราหายากในตลาดนั้นไหม
+
+Accessibility: เข้าถึงสนามนั้นได้ไหม (คอนเนกชัน, สื่อ, เวิร์กช็อป)
+
+Five-Dollar Illusion & Infinite Game:
+
+Five-Dollar Illusion: อย่าให้ต้นทุน/อดีต (เช่น ปริญญา 4 ปี) มาขังศักยภาพที่เหลือ
+
+Infinite Game: สละ Short-term gain เพื่อผลลัพธ์ยั่งยืน อยู่ในเกมให้นานพอจนเกิด Compounding
+
+Phon DNA Filter: AI เป็น Multiplier ของระบบที่ยืนได้เอง — ห้ามใช้ AI ตั้งโมเดลธุรกิจที่ตั้งต้นพังอยู่แล้ว; 5 OPB Models เดินตามลำดับ ห้ามข้ามขั้นไป SaaS/E-commerce ก่อนกระแสเงินสด (Service) จะนิ่ง
