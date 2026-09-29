@@ -75,15 +75,41 @@ Transformation Path (3E): Entertainment (เปลี่ยนอารมณ์
 
 Problem (Pain) → Outcome: Hook เชื่อม Pain Point ไปสู่ Outcome — ห้ามติดกับดัก Mr. PooPoo (พูดแต่เรื่องตนเอง คนดูไม่ได้ประโยชน์)
 
-4 Hook Hormones (Attention Mechanics):
+Psychology of Attention (ฐานรากของ Hook):
 
-Attention Shock: ข้อมูลที่น่าตกใจ (Dopamine)
+Fear (Fight or Flight): ข่าวร้าย/อันตรายหยุดความสนใจได้ทันที
 
-Emotional Trigger: ความเข้าใจปมปัญหา (Oxytocin/Cortisol)
+Dopamine (ความอยาก/ทะยาน): ขับเคลื่อนความอยากรู้และเป้าหมาย
 
-Identity Lock-in: การระบุพวกพ้อง
+Social Animal & Belonging (Oxytocin & Serotonin): มนุษย์รักเรื่องเล่า อยากเป็นส่วนหนึ่งของกลุ่ม
 
-Curiosity Loop: สร้างช่องว่างให้คนอยากรู้ต่อ
+RAS: ตัวกรองข้อมูลในสมองที่คัดเลือกจะสนใจหรือเพิกเฉย
+
+No Hook, No Content: Hook = การปล่อยหมัดกระแทกหน้าให้คนหยุดชะงัก — เปิดประตูไม่ได้ คอนเทนต์ข้างในไม่มีใครเห็น
+
+Hook Cycle: Trigger → Action → Shift Emotional → Next Action (ไลก์/แชร์/คอมเมนต์/นำไปทำต่อ)
+
+Don't Overcommit Your Hook: ส่งมอบ Value จริงตามที่สัญญา — ห้ามเว่อร์จนเป็น Clickbait
+
+4 Hook Hormones (Attention Mechanics) — 23 รูปแบบย่อย:
+
+Attention Shock: ข้อมูลที่น่าตกใจ ขัดแย้ง (Dopamine) — Specific Number / Pattern Interrupt / Negative Bias / Paradox Shock / Contrast Framework / Data Shock
+
+Emotional Trigger: ความเข้าใจปมปัญหา (Oxytocin/Cortisol) — Pain Trigger / Micro Confession / Embarrassment Avoidance / High Stake Hook / Emotional Mirror (ใช้เพื่อสะท้อนปัญหานำไปแก้ ห้ามขยี้ปมเพื่อขาย)
+
+Identity Lock-in: การระบุพวกพ้อง — Target Call Out / Identity Affirmation / Aspiration Hook / Social Proof Call-in / Role Identity Frame
+
+Curiosity Loop: สร้างช่องว่างให้คนอยากรู้ต่อ — Information Gap / Unfinished Logic / Bizarre Metaphor / Role Swap / Insight Twist / Mini Story / Prediction Breaker
+
+Hook Stacking (ผสม 2 ฮุกในประโยคเปิดเดียว): Shock+Curiosity / Emotional+Curiosity / Identity+Curiosity / Curiosity+Shock
+
+Attention Skill Stacking:
+
+4 Law of Retention: Stay (อยู่นาน/ดูซ้ำ) / Feel (Save-Share-Comment) / Return (เอกลักษณ์จนคนกลับมา) / Clarity (ชัด ตรงประเด็น เข้าใจง่าย)
+
+Human Touch: ภาพมีใบหน้าคนดึงสายตาและผูกพันกว่ากราฟิกล้วน
+
+Signal Design & Contrast Color: คุมโทนสี+สีตัดกันอย่างมีแบบแผน ให้หัวข้อโดดเด่นทันที
 
 The Content Machine:
 
