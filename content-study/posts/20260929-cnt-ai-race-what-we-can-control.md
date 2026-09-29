@@ -1,30 +1,33 @@
 <!--
 ContentID: (pending)
-Status: rewritten (v2 — RE-SPINE, user: "rewrite + ขอ title ใหม่", no critique supplied)
+Status: rewritten (v3 — Benz-DNA critique 2026-09-29, "analyze reverse engineer and rewrite")
 Type: CURRENT FORM — # H1 sections, . beats, > questions, bold concepts. NO hr/H2/section-diagram/protocol/table/Law labels/external authorities/neuroscience. Register: พร narrates the story, เรา carries universal claims, คุณ 0, คับ 0.
-Re-spine decisions (self-driven, EN #107):
-- v1 core (dispatch พยากรณ์ vs ประคอง + railway family รถไฟ/เบรก/สถานี) RETIRED — v2 core = ไฟเขียว promoted from near-miss to SPINE: uncertainty creates a market of green lights (other people's certainty + our own dashboards) — control is not believing a light, it is reading the state behind it. The new decision v1 lacked: after reading news, did we get back a FEELING or a NUMBER.
-- Dispatch (ONE question, 2 modes): "อ่านข่าวจบ — เราได้อะไรกลับมา" → ความรู้สึก (ความแน่นอนที่ยืมมา) vs จำนวน (ที่อ่านเองได้วันนี้). No third mode.
-- Title (new, EN #114 felt-difficulty not outcome claim): ยิ่งไม่มีใครรู้ว่าจะเกิดอะไรต่อ — ยิ่งเชื่อไฟเขียวง่าย (works for both the news side and the machine side).
-- Killer line v2: "ไฟเขียวไม่ใช่การควบคุม — การอ่านสถานะด้านหลังมันต่างหาก" — counterexample hunted (EN #111): a light verified many times still isn't the control; the READING is. Claim is about what the act consists of, not about lights being useless → passes.
-- Hedges (EN #110, one real case): "อย่างน้อยในเครื่องของพร" / no เสมอ-absolutes on the market claim; the feed described as this-moment observation, not a law.
-- Story = the real boot-race day (STATE.md 2026-09-25): health green at boot → work slow → state behind the light: GPU empty, model on CPU since boot → fix = wait for GPU before start → same machine, speed restored (11→24 tok/s written as "11 ที่ควรจะเป็น 24"). EN #112: post stops where the event ends; concept becomes the closing question.
-- Stress test (#5/#41): world changes (cloud down / API changes / model gone) → system resumes WITHOUT rebuild = real control; must reconstruct = still holding borrowed things.
-- Brief's EN line appears exactly once, attribution demoted ("ประโยคเก่าๆ ที่ถูกอ้างถึงบ่อยว่า" — Sturgeon rule). SSOT anchor L128-130 (Dichotomy of Control) UNLABELED.
-- Closer = duck closer (standalone, #45/#51) + Flow (closer-only) + night question = the new return point ("เชื่อกี่ดวง — เช็คดวงไหนเอง").
-CUT zero-count (v1 architecture — must hit 0 in file AND Notion read-back): รถไฟ / เบรก / สถานี / พยากรณ์ / ประคอง / forecast / เดิมพัน / v1 killer "เราหยุดรถไฟไม่ได้" / v1 H1 lines. Plus standing kills: PFC / Dopamine / Layer / Stoicism-label / Marcus / Epictetus / Seneca / Law # / XX-0N / สมอง / คุณ / คับ / พายุ / 99% / 0%.
-Kept assets from v1 (legitimate carry-over, not re-skin): ไฟเขียว concept (promoted to spine), the boot-race story + real numbers, EN quote once, "server ยังหายใจ" (1×), SSOT dichotomy unlabeled.
+Critique provenance: web-archive/20260929-green-light-benz-dna-critique.md (verbatim, 14/14 quotes code-verified against v2).
+Re-spine per critic:
+- Thesis (critic §1, VERBATIM): "ปัญหาไม่ใช่ไฟเขียวหลอก — ปัญหาคือเราใช้ Indicator หนึ่ง ไปตอบคำถามที่มันไม่ได้ถูกสร้างมาให้ตอบ" — Indicator ≠ State replaces Control/Uncertainty as the whole post.
+- Spine = critic §8 event-flow: green → คิดว่า OK → ช้าผิดปกติ → Inspect → model บน CPU → Green ไม่ได้ผิด → พรถามผิดข้อ → question swap "ไฟเขียวไหม?" → "Indicator นี้กำลังบอกอะไรเรา — และไม่ได้บอกอะไร?" (VERBATIM, dispatch + return point).
+- LOCKED line (critic's pre-rewrite lock, VERBATIM, closer payoff): "ไฟเขียวไม่ได้โกหก — พรแค่ถามมันเกินกว่าที่มันตอบได้" — every sentence that doesn't sharpen it is cut (removal test, not beauty test).
+- Critic lines in verbatim: CoG trio (kept from v2 — critic named it Center of Gravity) / thesis / §4 replacement question folded into the question swap / §7 supported claim "เมื่อเจอ State จริง จึงแก้จุดที่ตรงกับ State นั้นได้".
+- CONTROL CUT ENTIRELY (critic's closing suspicion adopted): "ของที่ควบคุมได้ = ของที่เช็คเองได้" (Checkable=Controllable — ไม่ให้ผ่าน), EN quote "You can only control...", Stress test (resilience/dependency = คนละ thesis), philosophy line "การควบคุมมักมาในรูปคำสั่งเบาๆ" (evidence ไม่พอ). Critic §5's replacement ("ถ้า Inspect ไม่ได้...") also dropped — it re-imports control.
+- Server → Feed → Future link PARKED (critic §3: same metaphor ≠ same mechanism — news has no defined indicator/state; the system-linking blind spot). Near-miss examples bounded to SAME machine family (แบตเตอรี่ %/ping) — same observable-system structure, no domain jump.
+- EN #112: post stops where the event ends; the question swap is the closing question. Night question = same swap applied to the reader's own last-trusted indicator.
+กิ่ง (parked, header only — do NOT follow yet):
+  1. ข่าว/forecast เป็นไฟเขียวได้ไหม — ยังไม่พิสูจน์ว่า mechanism เดียวกัน (ต้องการระบบที่มี defined indicator + measurable performance ก่อน)
+  2. Inspectable ≠ Resilient — Dependency ที่มองเห็นได้ vs ที่ Replace ได้ (อีกบท)
+  3. Checkable vs Controllable — Observable กับ Controllable คนละเรื่อง (อีกบท)
+CUT zero-count (v1+v2 architecture — must hit 0 in file AND Notion read-back): ควบคุม / Control / Uncertainty / ความไม่แน่นอน / ความแน่นอนที่ยืมมา / จำนวน / ข่าว / feed / สำนัก / doom / utopia / Stress test / ของยืม / "You can only control" / AI race / DichotomyOfControl / รถไฟ / เบรก / สถานี / พยากรณ์ / ประคอง / forecast / เดิมพัน / พายุ / PFC / Dopamine / Layer / สมอง / คุณ / คับ / XX-0N.
+Kept assets: boot-race story + real numbers (24 ที่ควรจะเป็น เหลือ 11), CoG trio verbatim, the fix command + result, duck closer + Flow (closer-only).
 Candidate titles (per #39):
-A (USED): ยิ่งไม่มีใครรู้ว่าจะเกิดอะไรต่อ — ยิ่งเชื่อไฟเขียวง่าย
-B: ไม่มีใครรู้ว่าจะเกิดอะไรต่อ — แล้วเราเกาะอะไรไว้
-C: อ่านข่าว AI จบ 5 นาที — เราได้ความรู้สึก หรือจำนวน
-Cross-refs (header only): 20260918-cnt-system-vision-dont-trust-the-forecast.md (predecessor, storm family NOT reused); v1 of this post (same file history, retired).
-Hashtags: #Adduckivity #DuckOS #NeuroDivergent #DichotomyOfControl #Uncertainty #SystemThinking
+A (USED): ไฟเขียวขึ้นทั้งดวง — แต่งานยังช้าอยู่ดี (EN #114 felt difficulty)
+B: ไฟเขียวไม่ได้โกหก — เราถามมันผิดคำถาม
+C: Indicator ทุกตัวบอกความจริง — แต่คนละคำถาม
+Cross-refs (header only): web-archive/20260929-green-light-benz-dna-critique.md (this rewrite's source); v1/v2 in same file history (retired).
+Hashtags: #Adduckivity #DuckOS #NeuroDivergent #Indicator #SystemThinking
 -->
 
-# ยิ่งไม่มีใครรู้ว่าจะเกิดอะไรต่อ — ยิ่งเชื่อไฟเขียวง่าย
+# ไฟเขียวขึ้นทั้งดวง — แต่งานยังช้าอยู่ดี
 
-### การควบคุมไม่ได้อยู่ที่ไฟ — อยู่ที่การอ่านสถานะด้านหลังมัน
+### ก่อนเชื่อ Indicator ตัวไหน ให้ถามก่อนว่ามันถูกสร้างมาตอบคำถามอะไร
 
 .
 
@@ -58,7 +61,7 @@ Hashtags: #Adduckivity #DuckOS #NeuroDivergent #DichotomyOfControl #Uncertainty 
 
 คราวนี้ไม่ดูไฟ
 
-ดูสถานะด้านหลัง
+เปิดดูสถานะที่อยู่ด้านหลัง
 
 .
 
@@ -72,7 +75,25 @@ GPU ว่าง
 
 ตกไปรันบน CPU ตั้งแต่ตอนบูต
 
-ความเร็วหายไปครึ่งทาง — 11 ที่ควรจะเป็น 24
+.
+
+ความเร็วที่ควรจะเป็น 24
+
+เหลือ 11
+
+.
+
+.
+
+# ไฟเขียวไม่ได้ผิด
+
+แรกๆ พรโทษไฟดวงนั้นอยู่ในใจ
+
+ว่ามันขึ้นมาทำไม ทั้งที่ของไม่ได้เดิน
+
+.
+
+แล้วพรก็นึกออก
 
 .
 
@@ -84,147 +105,100 @@ GPU ว่าง
 
 .
 
-พรเช็คแล้วนะ
+มันตอบคำถามของมันครบ
 
-แต่ที่พรเช็ค — คือไฟ
+คำถามเดียวที่มันถูกสร้างมาตอบ:
+
+"server ยังเปิดอยู่ไหม"
+
+.
+
+ส่วนคำถามที่พรอยากถามจริงๆ คืออีกข้อ:
+
+"โมเดลกำลังรันบนทางที่ควรไหม"
+
+.
+
+สองคำถามนี้หน้าตาคล้ายกัน
+
+แต่เป็นคนละคำถาม
+
+และไฟเขียวไม่เคยถูกถามข้อที่สองเลย
+
+.
+
+> **ปัญหาไม่ใช่ไฟเขียวหลอก
+> ปัญหาคือเราใช้ Indicator หนึ่ง ไปตอบคำถามที่มันไม่ได้ถูกสร้างมาให้ตอบ**
 
 .
 
 .
 
-# ช่วงที่ไม่มีใครรู้คำตอบ — ใครๆ ก็มีไฟเขียวให้ดู
+# Indicator วัดอะไร — State มีมากกว่านั้น
 
-เวลานี้เปิด feed ได้เลย
+Indicator หนึ่งตัว
 
-.
-
-ทุกสำนักมีไฟดวงเด่นของตัวเอง
-
-ฝั่งหนึ่งรายงานว่า "กำลังจะเกิดเรื่องใหญ่"
-
-อีกฝั่งรายงานว่า "ไม่ต้องตกใจ"
+= คำตอบของคำถามเดียว
 
 .
 
-แต่ละดวงจริง — ในระบบของคนที่เปิดมัน
+แต่ State ของระบบหนึ่งระบบ
+
+มีหลายชั้น
 
 .
 
-สิ่งที่ไม่มีสำนักไหนให้ได้
+ชั้นที่ service ยังหายใจ
 
-คือสถานะด้านหลัง
+ชั้นที่งานเดินถูกทาง
 
-ว่าอนาคตกำลังจะเป็นยังไง
-
-.
-
-เพราะไม่มีใครอ่านออก
-
-รวมถึงคนที่สร้างมันด้วย
+ชั้นที่ทรัพยากรอยู่ที่ควร
 
 .
 
-แล้วเราล่ะ
+ไฟดวงเดียวไม่มีทางรายงานทุกชั้น
 
-อ่านข่าวจบ 5 นาที
-
-.
-
-> เราได้อะไรกลับมา — ความรู้สึก หรือจำนวน
+มันเลือกตอบข้อเดียว — และตอบถูก
 
 .
 
-.
-
-# 2 อย่างที่เราได้กลับมา
-
-อย่างแรก — **ความแน่นอนที่ยืมมา**
+เรื่องเดียวกันนี้ อยู่ทั่วทั้งเครื่อง
 
 .
 
-เลือกข้างที่เสียงดังกว่า
+แบตเตอรี่ 80% — จริง
 
-เก็บคำอธิบายที่ฟังดูครบ
-
-รู้สึกว่า "ตามทัน"
+แต่มันไม่ได้บอกว่าโปรแกรมไหนเป็นคนกิน
 
 .
 
-มันให้ความรู้สึกเหมือนคุมได้
+ping ตอบปกติ — จริง
 
-แต่จำนวนที่เราอ่านเองได้
-
-ยังเท่าเดิม — ศูนย์
+แต่มันไม่ได้บอกว่าสายนั้นกว้างพอสำหรับงานนี้ไหม
 
 .
 
-อย่างที่สอง — **จำนวนที่อ่านเองได้**
+ทุกตัวบอกความจริง
 
-.
-
-เครื่องยังรันไหม
-
-งานวันนี้ปิดไปกี่ชิ้น
-
-state ของระบบยังอ่านออกไหม
-
-.
-
-จำนวนพวกนี้เชื่อไม่ได้
-
-ต้องเช็ค
-
-และเช็คได้ตั้งแต่วันนี้
-
-.
-
-ความต่างไม่ได้อยู่ที่ "กังวลน้อยกว่า"
-
-อยู่ที่หลังปิดข่าว
-
-มือเราไปหยิบอะไร
+แต่คนละคำถาม
 
 .
 
 .
 
-# เชื่อ vs เช็ค
+# พอเห็น State จริง — จุดที่ต้องแก้เล็กลง
 
-มีประโยคเก่าๆ ที่ถูกอ้างถึงบ่อยว่า
+ตอนที่พรมีแค่ไฟเขียว
 
-> "You can only control what you can control."
-
-.
-
-โพสต์นี้ขอตีความให้ครบ
+ทางเดียวที่ทำได้คือสงสัยทั้งระบบ
 
 .
 
-**ของที่ควบคุมได้ = ของที่เช็คเองได้วันนี้**
+พอเปิดดูจนเจอ State จริง
+
+จุดที่ต้องแก้เหลือจุดเดียว:
 
 .
-
-**ไฟเขียวของคนอื่น = ของสะสมความรู้สึก**
-
-**ไฟเขียวของเราเอง = ก็ยังเป็น — จนกว่าเราจะอ่านสถานะด้านหลังมัน**
-
-.
-
-AI race ไม่เข้าข่าย
-
-ไม่ใช่เพราะมันไกล
-
-แต่เพราะไม่มีหน้าเช็คไหนให้เราเปิด
-
-.
-
-เครื่องของเราเข้าข่าย
-
-งานของเราเข้าข่าย
-
-.
-
-อย่างน้อยในเครื่องของพร — การแก้เล็กมาก
 
 สั่งให้ server รอ GPU พร้อมก่อนค่อยสตาร์ท
 
@@ -236,35 +210,41 @@ AI race ไม่เข้าข่าย
 
 .
 
-การควบคุมมักมาในรูปคำสั่งเบาๆ แบบนี้
-
-ไม่ใช่ท่าทีที่ดูฉลาดขึ้น
+> **เมื่อเจอ State จริง จึงแก้จุดที่ตรงกับ State นั้นได้**
 
 .
 
 .
 
-# Stress test: โลกเปลี่ยน — ระบบเรายังเดินไหม
+# จาก "ไฟเขียวไหม" เป็นคำถามที่ถูกข้อ
 
-cloud ลง
+คำถามที่เรามักถาม:
 
-API เปลี่ยนหน้าตา
-
-โมเดลที่เคยใช้หายไป
+"ไฟเขียวไหม"
 
 .
 
-ถ้าระบบเราต้องเริ่มใหม่จากศูนย์
-
-= ที่ถืออยู่ทั้งชุดยังเป็นของยืม
+สั้น สะดวก และเชื่อง่าย
 
 .
 
-ถ้ามันยังรันต่อได้
+แต่ถามบ่อยเข้า
 
-เพราะเราเช็คมาตลอด
+เราจะเริ่มเอาคำตอบของมันไปใช้ผิดที่
 
-= อันนั้นคือของที่ควบคุมได้จริง
+แบบเดียวกับเช้าวันนั้น
+
+.
+
+คำถามที่เปลี่ยนไป:
+
+.
+
+> **"Indicator นี้กำลังบอกอะไรเรา — และไม่ได้บอกอะไร?"**
+
+.
+
+ถามข้อนี้ก่อนเชื่อ — ทุกครั้ง
 
 .
 
@@ -272,27 +252,29 @@ API เปลี่ยนหน้าตา
 
 # #สรุปแบบวิศวกรเป็ด
 
-**ความไม่แน่นอน** = ไม่มีใครอ่านสถานะอนาคตออก — เหลือแต่คนเปิดไฟให้ดู
+**Indicator** = เครื่องมือที่ตอบคำถามเดียว — และตอบถูก ณ สิ่งที่มันวัด
 
-**ของที่ยืมมา** = ความรู้สึกว่าคุมทัน — จำนวนที่อ่านเองได้ยังศูนย์
+**State** = สภาพจริงของระบบ — หลายชั้น มากกว่าไฟดวงเดียวจะรายงานได้
 
-**เช็ค** = อ่านสถานะด้านหลังไฟ — ด้วยตาตัวเอง วันนี้
+**อ่านผิดข้อ** = เอาคำตอบของคำถามหนึ่ง ไปตอบอีกคำถามที่ไม่เคยถูกถาม
 
 .
 
-> **ไฟเขียวไม่ใช่การควบคุม — การอ่านสถานะด้านหลังมันต่างหาก**
+> **ไฟเขียวไม่ได้โกหก — พรแค่ถามมันเกินกว่าที่มันตอบได้**
 
 .
 
 Flow
 
-**ไม่มีใครรู้ว่าจะเกิดอะไรต่อ**
+**ไฟเขียว**
 ↓
-**เหลือแต่ไฟเขียวให้เชื่อ — ของคนอื่น และของเราเอง**
+**พรอ่านว่า "ระบบ OK"**
 ↓
-**เช็ค = อ่านสถานะด้านหลัง — วันนี้ ที่เครื่องของเรา**
+**งานช้าผิดปกติ**
 ↓
-**โลกพลิก — ระบบที่เช็คมาตลอด ยังรันต่อ**
+**เปิดดู State ที่ลึกกว่า**
+↓
+**ไฟไม่ผิด — คำถามที่พรถามมันผิดข้อ**
 
 .
 
@@ -300,8 +282,8 @@ Flow
 
 .
 
-> วันนี้เราเชื่อไฟเขียวไปกี่ดวง — และเช็คดวงไหนเองบ้าง
+> Indicator ตัวล่าสุดที่เราเพิ่งเชื่อ — มันตอบคำถามอะไร และไม่ได้ตอบอะไร
 
 .
 
-#Adduckivity #DuckOS #NeuroDivergent #DichotomyOfControl #Uncertainty #SystemThinking
+#Adduckivity #DuckOS #NeuroDivergent #Indicator #SystemThinking

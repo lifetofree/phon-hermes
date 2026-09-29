@@ -849,3 +849,23 @@ Measured vs v2: 377 wc-w = 1.17× (expansion continues); H1 10→7, beats 59→8
 **Skill folds:** EN #109–113 confirmed by the publish (all 5 gates visible in the delta); NEW — (114) title = felt difficulty not outcome claim; the retired claim can survive as the story's payoff line; (115) state outcomes as what is NOT known (anti-proof closer) — pairs with hedge register; (116) critic's counterexample → its own honesty section beats a deleted mention.
 
 Archive: web-archive/20260928-constraints-published.md (verbatim). Notion page 3e9df8d8-8d8c-81f7-b5a0-f0d13b84aee5 PATCHED (Status: rewritten, 288 blocks, read-back 25/25 markers, v2 residue 0). Pair #26 CLOSED.
+
+### 2026-09-29 pair #27 COMPLETE — ไฟเขียว v3 (Benz-DNA critique + rewrite same turn)
+
+Post: posts/20260929-cnt-ai-race-what-we-can-control.md — v1 (CURRENT FORM fresh brief, AI-race/control, 372 wc-w) → v2 (self re-spine, ไฟเขียว spine, 268) → **v3 (critique re-spine, 246 wc-w = 0.92× v2)**. Notion page 3eadf8d8-8d8c-81a7-b806-fea54c00ea43 (PATCHed in place, Status rewritten, 135 blocks, read-back 15/15 real markers + Name prop; v1/v2 CUT survivors 0 in file AND read-back). Critique archived verbatim: web-archive/20260929-green-light-benz-dna-critique.md (14/14 quotes code-verified vs v2).
+
+Critic's verdict: Observation จริงดีมาก แต่ link หลังเคส server เร็วและไกลกว่าหลักฐาน — กลางบทกลายเป็น "ข่าว/uncertainty/control" แทนบทที่งอกจากเหตุการณ์ GPU. Thesis ที่ควรเก็บ: **ปัญหาไม่ใช่ไฟเขียวหลอก — ปัญหาคือเราใช้ Indicator หนึ่ง ไปตอบคำถามที่มันไม่ได้ถูกสร้างมาให้ตอบ** (Systems Thinking ชัดกว่าเรื่อง Control).
+
+Moves (v2→v3):
+1. **Control theme CUT entirely** (critic's closing suspicion: "หลังตัดออก เรายังต้องการเรื่อง Control อยู่จริงไหม — ผมสงสัยว่าไม่ต้องแล้ว") — Checkable=Controllable equation, EN quote, Stress test (resilience = อีก thesis), philosophy line ทั้งหมดตาย. CUT 0 ทั้ง file + read-back.
+2. Critic lines VERBATIM: thesis / locked line "ไฟเขียวไม่ได้โกหก — พรแค่ถามมันเกินกว่าที่มันตอบได้" (closer) / §8 question swap "Indicator นี้กำลังบอกอะไรเรา — และไม่ได้บอกอะไร?" (dispatch + night question) / §7 "เมื่อเจอ State จริง จึงแก้จุดที่ตรงกับ State นั้นได้" / CoG trio (v2 survivor ที่ critic รับรอง).
+3. Server→Feed→Future link PARKED เป็นกิ่ง header-only (same metaphor ≠ same mechanism — news ไม่มี defined indicator/state).
+4. Near-miss examples จำกัด same-machine family (แบต 80% / ping) — โครงสร้างเดียวกัน ไม่กระโดด domain.
+5. Register: พร 12 / เรา 5 / คุณ 0 / คับ 0. H1 6 + H3 1, beats 45, Flow closer-only.
+6. New title: "ไฟเขียวขึ้นทั้งดวง — แต่งานยังช้าอยู่ดี" (felt difficulty). Candidates B/C in header.
+
+Evolution Notes 117–120 folded to skill:
+- 117 same-metaphor ≠ same-mechanism (link brake ต้องถามโครงสร้าง: observable system / defined indicator / defined state / measurable performance ครบไหม)
+- 118 locked-line removal test — lock ประโยคเดียว แล้วตัดทุกประโยคที่ไม่ทำให้มันชัด; ถามต่อว่า theme เดิมรอดไหม (ครั้งนี้ Control ไม่รอด — theme ทั้งเรื่องเปลี่ยน)
+- 119 false-binary dispatch — "ความรู้สึก vs จำนวน" แคบเกิน; dispatch ที่ดีกว่า = "สิ่งที่กำลังดูอยู่ ตอบคำถามอะไรได้จริง?"
+- 120 Checkable ≠ Controllable — ห้าม compile สมการ; case รองรับแค่ "ถ้า Inspect ไม่ได้ เราอาจไม่รู้ว่าสิ่งที่พยายามควบคุมอยู่ state ไหน"
