@@ -952,3 +952,19 @@ Part 2 (NEW page 3ebdf8d8-8d8c-812e-9dd8-e8250afe6c3b, Status draft, 115 blocks,
 Note: parallel session file 20260930-cnt-overload-day-switching-fee.md (ContentID 20260930-CNT-SWITCHING-FEE) got swept into commit 3aee9b8 — DELETED 2026-09-30 per user steer ("ลบได้เลย"), together with 2 unindexed empty-name duplicate Notion pages it/that session created (3ebdf8d8-8d8c-80d1-ae1c-d9b0989f8e91, 3ebdf8d8-8d8c-801e-bb3e-d24a61bee342 — archived, reversible).
 
 Evolution Note 140 folded to skill (split by thinking stage, not by half).
+
+
+### 2026-09-30 pair #29 part 1 CLOSED — PUBLISH version งานเดียวห้ารอบ (v3 → publish, **1.00× — first exact parity in corpus**)
+
+User sent "version publish". Archive: web-archive/20260930-one-job-five-rounds-published.md (verbatim). Notion page 3ebdf8d8-8d8c-81a7-b409-f8a7dab4b9c7 PATCHED (99 blocks, markers OK, dead words 0).
+
+Measured vs v3: 100→100 wc-w = **1.00×** (era 0.91→1.12→1.22→1.75→1.00 — parity เกิดเมื่อ critique round จัด align ไว้ก่อนแล้ว; ratio วัด "disagreement ที่เหลือ" ไม่ใช่การ trim). bq 7→14 (unbold + แยกบรรทัด), bold 11→10.
+
+Publish moves (refinement pass, ไม่มี re-spine):
+1. **Softness ladder ของ hypothesis language**: ต้องนับ → อยากลองนับ (Benz r2) → **"น่าลองดูคือ"** (publish — ถอด agent พรออกจาก verb ด้วย)
+2. **De-dup claim**: "ถ้างานห้าชิ้นไม่ได้ทำให้วันหนักแบบที่คาด" lead-in ตัด (เคยปรากฏ 2 จุด — จบ story + เปิด section 3)
+3. **Critic's alternative line verbatim รับเป็น closer**: "คำถามถัดไป = ถ้าลองนับจำนวนครั้งที่เปลี่ยนโหมดด้วย จะเห็นอะไรเพิ่มไหม?" — แทน flow-step เดิม (ตัด "อีกตัวที่พรอยากลองนับ" ออกจาก Flow ไม่ให้ซ้ำ)
+4. "ยังไม่เคยนับ" → "ยังไม่เคย**นับดู**" (soften)
+5. Blockquote คู่ ภายนอก/ภายใน unbold — bold เหลือเฉพาะ quote แกน
+
+Evolution Notes 141–142 folded to skill (parity meaning / softness ladder).

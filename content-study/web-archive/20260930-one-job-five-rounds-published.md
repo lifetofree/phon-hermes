@@ -1,22 +1,12 @@
 <!--
-ContentID: 20260930-CNT-SURV02-RUN-ONE-JOB-N-TIMES (v2 — pair #29 rewrite, split part 1)
-Date: 2026-09-30
-Status: draft v2 — Observation Content (rewritten per Benz-DNA critique + user split directive)
-Source chain: legacy 20260403-CNT-SURV-02 → UDO angle-change v1 (critiqued, pair #29 PRE) → this v2.
-Sibling: posts/20260930-cnt-surv02-switching-experiment-question.md = part 2 (คำถามใหม่ + tiny experiment) — SEPARATE Notion page.
-
-V2 SPINE (critic's direction, user-confirmed): Observation Content ไม่ใช่ Survival Guide.
-Story (real 2026-09-18, index.json-verified: 5 drafts one day) → คาดว่าจะหนัก → จบทั้งห้า + วันเบากว่าที่คาด → kept asset "พรไม่ได้ทำงานห้าอย่าง — พรทำงานเดียว ห้ารอบ" (ภายนอก 5 deliverables / ภายใน 1 workflow × 5) → softened claim (critic verbatim): "พรไม่ต้องเปลี่ยนชนิดของงานและเครื่องมือมากนัก" → suspect: "จำนวนชิ้น" อาจอธิบาย Cost ของวันไม่หมด → candidate ตัวที่สอง = จำนวนครั้งที่เปลี่ยนโหมด (สองแกน ไม่ใช่สองประเภทของวัน) → สิ่งที่เคสนี้ยังไม่ได้พิสูจน์ (anti-proof) → Tiny Inspection Rule closing.
-
-CUT LIST v2 (from critique — zero-count, permanent): "ต้นทุนแท้จริงอยู่ที่ครั้งที่สลับ ไม่ใช่จำนวนที่ทำ" (cost-law) / วันที่สอง constructed scenario / "เรียงตามกล้ามเนื้อ ไม่ใช่ตามความด่วน" (moved to sibling as candidate) / ลด Bar-ขั้นต่ำ-พอรอด survival rules (sibling) / ยืมพลังงานพรุ่งนี้ (sibling) / binary "คนละปัญหา คนละทางรอด" / "ไม่ต้องเปลี่ยนโหมดเลยตลอดวัน" absolute / Context Switching (EN) / PFC/RAM/Dopamine/มูซาชิ/คับ/คุณ/emoji.
-
-Evidence floor (critic's forced-question answer): เคสนี้โชว์แค่ "วันที่สลับน้อยวันหนึ่ง เบากว่าที่คาด" — hypothesis language เท่านั้น.
-Format: CURRENT FORM + Observation Content type. Register: พร, เรา ≤2, คุณ 0, คับ 0.
+VERBATIM user publish version ("version publish", 2026-09-30) — pair #29 part 1 CLOSED (Content 1: พรไม่ได้ทำงานห้าอย่าง).
+Source: posts/20260930-cnt-surv02-one-job-five-rounds.md v3 (post Benz round-2). Notion page 3ebdf8d8-8d8c-81a7-b409-f8a7dab4b9c7.
+NOTES (user text, untouched): trailing "> " lines after blockquotes (paste-artifact class #22/#28).
 -->
 
 # พรไม่ได้ทำงานห้าอย่าง — พรทำงานเดียว ห้ารอบ
 
-### งาน 5 ชิ้นไม่ได้บอก Cost ของวันทั้งหมด — อีกตัวที่อาจต้องนับคือจำนวนครั้งที่เปลี่ยนโหมด
+### งาน 5 ชิ้นไม่ได้บอก Cost ของวันทั้งหมด — อีกตัวที่น่าลองดูคือจำนวนครั้งที่เปลี่ยนโหมด
 
 .
 
@@ -92,16 +82,17 @@ Format: CURRENT FORM + Observation Content type. Register: พร, เรา ≤
 
 .
 
-> **ภายนอก = ห้าชิ้นงานส่งมอบ
-> ภายใน = งานเดียวถูกรันห้ารอบ**
+> ภายนอก = ห้าชิ้นงานส่งมอบ
+> 
+
+> ภายใน = งานเดียวถูกรันห้ารอบ
+> 
 
 .
 
 .
 
 # สิ่งที่วันนั้นทำให้พรเริ่มสงสัย
-
-ถ้างานห้าชิ้นไม่ได้ทำให้วันหนักแบบที่คาด
 
 แปลว่าจำนวนชิ้นอย่างเดียว
 
@@ -127,9 +118,14 @@ Format: CURRENT FORM + Observation Content type. Register: พร, เรา ≤
 
 .
 
-> **จำนวนชิ้น = หนึ่งแกน
-> จำนวนครั้งที่เปลี่ยนโหมด = อีกแกนที่พรเริ่มสงสัย
-> แต่ตอนนี้พรมีแค่วันเดียว — ยังไม่มีวันเทียบ**
+> **จำนวนชิ้น = หนึ่งแกน**
+> 
+
+> **จำนวนครั้งที่เปลี่ยนโหมด = อีกแกนที่พรเริ่มสงสัย**
+> 
+
+> **แต่ตอนนี้พรมีแค่วันเดียว — ยังไม่มีวันเทียบ**
+> 
 
 .
 
@@ -151,7 +147,7 @@ Format: CURRENT FORM + Observation Content type. Register: พร, เรา ≤
 
 พอจะเดาได้ว่าสองอย่างนี้อาจเกี่ยวกัน
 
-แต่ยังไม่เคยนับ
+แต่ยังไม่เคยนับดู
 
 .
 
@@ -176,16 +172,26 @@ Format: CURRENT FORM + Observation Content type. Register: พร, เรา ≤
 Flow
 
 **งานเขียน 5 ชิ้นในวันเดียว**
+
 ↓
+
 **คาดว่าจะหนัก**
+
 ↓
+
 **ทั้งห้าเป็นชนิดเดียวกัน เปลี่ยนโหมดน้อยมาก**
+
 ↓
+
 **วันจบ และเบากว่าที่คาด**
+
 ↓
+
 **เริ่มสงสัย: จำนวนชิ้นอธิบายความหนักไม่หมด**
-↓
-**อีกตัวที่พรอยากลองนับ = จำนวนครั้งที่เปลี่ยนโหมด**
+
+.
+
+คำถามถัดไป = ถ้าลองนับจำนวนครั้งที่เปลี่ยนโหมดด้วย จะเห็นอะไรเพิ่มไหม?
 
 .
 
@@ -195,8 +201,11 @@ Flow
 
 .
 
-> **ลองแยกเป็นสองจำนวนก่อน:
-> มีกี่ชิ้น — และต้องเปลี่ยนโหมดกี่ครั้ง?**
+> ลองแยกเป็นสองจำนวนก่อน:
+> 
+
+> มีกี่ชิ้น — และต้องเปลี่ยนโหมดกี่ครั้ง?
+> 
 
 .
 
