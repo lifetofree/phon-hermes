@@ -968,3 +968,16 @@ Publish moves (refinement pass, ไม่มี re-spine):
 5. Blockquote คู่ ภายนอก/ภายใน unbold — bold เหลือเฉพาะ quote แกน
 
 Evolution Notes 141–142 folded to skill (parity meaning / softness ladder).
+
+
+### 2026-09-30 pair #29 part 2 CLOSED — PUBLISH version เห็นข้อมูลวันเดียว หัวพรออกกฎห้าข้อ (Benz r3 + publish same message)
+
+User sent Benz critique round 3 + "version publish" together. Archives: web-archive/20260930-switching-question-benz-dna-critique-3.md + 20260930-five-rules-after-one-day-published.md (verbatim from paste_10_165936). Notion page 3ebdf8d8-8d8c-812e-9dd8-e8250afe6c3b PATCHED in place (title re-spined, Status→rewritten, 195 blocks, markers 10/10 incl. Name prop, dead words 0).
+
+Measured vs my part-2 draft: 179 wc-w = 1.61× — publish EXPANDED the Question post (my draft over-compressed the candidate list into questions; publish kept critic's flat-list shape + added the definition gate section).
+
+Critique r3 core: thesis จริงของบท = "พรจับได้ว่าตัวเองกำลังเปลี่ยน Observation หนึ่งครั้งให้กลายเป็น Advice ห้าข้อ โดยยังไม่มี Evidence ตรงกลาง" (not "ควรทำอะไรต่อ") — บทกลายเป็นเรื่องวิธีพร Inspect ความคิดตัวเอง. CUT: ผู้สมัคร 5 ตัว แบบสอบสวนทีละข้อ (→ flat list + "พรยังไม่ได้ Test สักข้อ") / เหลือแรงเท่าไหร่ (undefined metric = Measurement System ใหม่ก่อนเวลา) / จบด้วย "นับก่อน" (= Compile Measurement Method เร็วไป — พฤติกรรมเดียวกับที่บทเตือนตัวเอง). NEW: definition gate "หนึ่งครั้งของการเปลี่ยนโหมด คืออะไร?" (A→B นับไหม / LINE 2 นาที กี่ครั้ง / Research = switching หรือ workflow เดียวกัน) + closer "ยังไม่วัด — จนกว่าจะรู้ว่ากำลังวัดอะไร" + final question "ก่อนถามว่าควรลดการเปลี่ยนโหมดไหม — เรานิยามได้หรือยังว่าอะไรนับเป็นการเปลี่ยนโหมด?". Title re-spined to critic's: "เห็นข้อมูลวันเดียว — หัวพรออกกฎมาแล้วห้าข้อ".
+
+Benz's cross-post read: Content 1+2 เผย pattern "เห็น Pattern เก่ง → สร้าง Intervention เร็ว" — รอบนี้จับได้เอง = พัฒนาการ Core Skill สดๆ (ตรงกับ core-skill-journal entry เดือน ก.ย.).
+
+Evolution Notes 145–147 folded to skill (measurement-definition gate / end with a smaller question / undefined-metric cut).
