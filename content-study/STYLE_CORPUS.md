@@ -949,6 +949,6 @@ Part 1 (SAME page 3ebdf8d8-8d8c-81a7-b409-f8a7dab4b9c7 PATCHED, Status→rewritt
 
 Part 2 (NEW page 3ebdf8d8-8d8c-812e-9dd8-e8250afe6c3b, Status draft, 115 blocks, markers 10/10, CUT clean): posts/20260930-cnt-surv02-switching-experiment-question.md — Question Content type (ใหม่). เปิดด้วยคำถามที่ part 1 ทิ้งไว้ → "คำตอบมันพุ่งขึ้นมาเอง เร็วเกินกว่าจะเป็นความจริง" (self-observe การ over-prescribe ของตัวเอง) → ผู้สมัคร 5 ตัวที่ยังไม่ได้สอบ (กฎ v1 ทั้งหมด demoted เป็นคำถาม "ช่วยจริงไหม หรือแค่ฟังดูถูก") → สิ่งที่ทำได้ตอนนี้ = นับสองจำนวนในวัน Mixed Work ก่อนเปลี่ยนอะไร (measure first) → คำถามถัดไป ("จัดงานเพื่อลดการสลับ จะเปลี่ยนวันนั้นไหม") ปลายเปิด. 111 wc-w. Register พร 8/เรา 1.
 
-Note: parallel session file 20260930-cnt-overload-day-switching-fee.md (ContentID 20260930-CNT-SWITCHING-FEE) got swept into commit 3aee9b8 — belongs to another session's brief on the same idea; left untouched, flagged to user.
+Note: parallel session file 20260930-cnt-overload-day-switching-fee.md (ContentID 20260930-CNT-SWITCHING-FEE) got swept into commit 3aee9b8 — DELETED 2026-09-30 per user steer ("ลบได้เลย"), together with 2 unindexed empty-name duplicate Notion pages it/that session created (3ebdf8d8-8d8c-80d1-ae1c-d9b0989f8e91, 3ebdf8d8-8d8c-801e-bb3e-d24a61bee342 — archived, reversible).
 
 Evolution Note 140 folded to skill (split by thinking stage, not by half).
