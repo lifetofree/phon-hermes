@@ -924,3 +924,18 @@ Moves:
 NOTES (user text, untouched): "พอคำตอบ Stable พอ" double-พอ; trailing "> " lines after blockquotes (paste-artifact class, same as #22).
 
 Evolution Notes 128–133 folded to skill (publish re-spine rules: re-mine the story / process-vocabulary metaphor family / function slots over vocabulary / publish = re-think at 1.75× / self-addressed night question / selector-question flip).
+
+
+### 2026-09-30 pair #29 PRE-REWRITE (analyze-only) — Benz-DNA critique of SURV-02 angle-change rewrite (งานเดียวห้ารอบ)
+
+Critique targets UDO's same-day angle-change draft (posts/20260930-cnt-surv02-one-job-five-rounds.md), NOT the 2026-04 legacy original. Verdict: ต้นบทมี Observation ที่ดี ("พรไม่ได้ทำงานห้าอย่าง — พรทำงานเดียวห้ารอบ" = kept asset), ครึ่งหลังกลายเป็น Survival Guide + 4–5 Thesis เกิน Evidence เคสเดียว. Quote verify 15/15 code-checked. Archive: web-archive/20260930-surv02-benz-dna-critique.md (verbatim).
+
+CUT named (zero-count targets for the rewrite): "ต้นทุนแท้จริงอยู่ที่ครั้งที่สลับ ไม่ใช่จำนวนที่ทำ" (killer line — เคสไม่พิสูจน์ว่าจำนวนงานไม่มี Cost) / วันที่สอง constructed scenario (เขียนครึ่งชิ้น ไปจดบัญชี — built-for-contrast = creating evidence) / เรียงตามกล้ามเนื้อ ไม่ใช่ตามความด่วน (Scheduling Algorithm — ยังไม่มี Evidence + ชนกับ Incoming≠Priority: Urgency บางทีคือ Priority จริงเพราะ Cost of Waiting) / ลด Bar ของวันล้น (กิ่ง: Definition of Done under Capacity Constraint — โพสต์หน้า) / อย่ายืมพลังงานพรุ่งนี้ (Asset เก่า Bad Day/Save State/Margin — ยืมมาเติม = สัญญาณว่า observation หมดแล้ว) / binary "งานเยอะ หรือ สลับเยอะ — คนละปัญหา คนละทางรอด" (สองตัวแปร ≠ สองประเภทของวัน) / "สมองไม่ต้องเปลี่ยนโหมดเลยตลอดวัน" (absolute — แก้เป็น "พรไม่ต้องเปลี่ยนชนิดของงานและเครื่องมือมากนัก").
+
+Direction (critic's spine for rewrite): Observation Content ไม่ใช่ Survival Guide — flow: 5 งานวันเดียว → คิดว่าจะหนัก → ทั้งหมดประเภทเดียวกัน → Workflow/Tools/Mode คล้ายกัน → 5 ชิ้นจบ + วันไม่หนักแบบคาด → เริ่มสงสัย "จำนวนชิ้น" อธิบาย Cost ไม่หมด → อีกตัวที่ต้องนับ = จำนวนครั้งที่เปลี่ยน Context → จบด้วย Tiny Inspection Rule ("ครั้งหน้าที่พรบอก 'วันนี้งานเยอะ' — มีกี่ชิ้น? และต้องเปลี่ยนโหมดกี่ครั้ง?"). ห้ามใช้ Context Switching เป็นต้นทุนหลัก — Evidence รองรับแค่ "วันที่สลับน้อยวันหนึ่ง เบากว่าที่คาด" (honesty floor). Load-vs-Noise link = ธรรมชาติ แต่ห้าม Compile เดี๋ยวนี้.
+
+Forced question ANSWERED BY CRITIC (honesty floor for rewrite): "พรเห็นจริงว่าการสลับแพง — หรือเห็นแค่ว่าวันที่สลับน้อยวันหนึ่งเบากว่าที่คาด?" → อย่างหลัง.
+
+Register tell ที่จับได้: ครึ่งหลังของ draft เริ่มใช้ System Words (ขั้นต่ำ/พอรอด) เป็นคำโปรโมชั่นของ "ทางรอด" — เมื่อ observation post เริ่มเป็น guide ศัพท์ระบบจะกลายเป็นศัพท์ขาย.
+
+Evolution Notes 134–139 folded to skill (เห็น→สงสัย gate / near-miss ต้องเป็นของจริง / thesis census ที่รอยต่อ observation→prescription / สองตัวแปร≠สองประเภท / Observation Content type + Tiny Inspection Rule / ยืม asset เก่ามาเติมหลัง = สัญญาณจบโพสต์).
