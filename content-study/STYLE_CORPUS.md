@@ -939,3 +939,16 @@ Forced question ANSWERED BY CRITIC (honesty floor for rewrite): "พรเห็
 Register tell ที่จับได้: ครึ่งหลังของ draft เริ่มใช้ System Words (ขั้นต่ำ/พอรอด) เป็นคำโปรโมชั่นของ "ทางรอด" — เมื่อ observation post เริ่มเป็น guide ศัพท์ระบบจะกลายเป็นศัพท์ขาย.
 
 Evolution Notes 134–139 folded to skill (เห็น→สงสัย gate / near-miss ต้องเป็นของจริง / thesis census ที่รอยต่อ observation→prescription / สองตัวแปร≠สองประเภท / Observation Content type + Tiny Inspection Rule / ยืม asset เก่ามาเติมหลัง = สัญญาณจบโพสต์).
+
+
+### 2026-09-30 pair #29 CLOSED — SPLIT per Benz-DNA stage directive (part 1 Observation / part 2 Question Content)
+
+User relayed Benz's split directive: "ไม่ใช่ผ่า draft ยาวเป็นสองโพสต์ แต่ Content 1 = สิ่งที่เห็นแล้ว / Content 2 = คำถามใหม่ที่เกิดจากสิ่งที่เห็น" + mid-turn steer "draft แรก patch ลง page เดิม draft ที่ 2 สร้างหน้าใหม่".
+
+Part 1 (SAME page 3ebdf8d8-8d8c-81a7-b409-f8a7dab4b9c7 PATCHED, Status→rewritten, 99 blocks, markers 10/10, CUT clean): posts/20260930-cnt-surv02-one-job-five-rounds.md v2 — Observation Content. Story → คาดหนัก→เบากว่าคาด → "พรไม่ได้ทำงานห้าอย่าง — พรทำงานเดียว ห้ารอบ" (title promoted = kept asset) → critic-verbatim soften "พรไม่ต้องเปลี่ยนชนิดของงานและเครื่องมือมากนัก" → สองแกน (จำนวนชิ้น / จำนวนครั้งเปลี่ยนโหมด — แกน ไม่ใช่ประเภทของวัน) → "สิ่งที่วันนั้นยังไม่ได้บอก" anti-proof section (ยังไม่เคยนับวัน Mixed Work) → Tiny Inspection Rule closing. 99 wc-w = 0.67× v1 (trim era กลับมาเมื่อ spine ถูก clamp ที่ evidence). Register พร 16/เรา 0/คุณ 0/คับ 0.
+
+Part 2 (NEW page 3ebdf8d8-8d8c-812e-9dd8-e8250afe6c3b, Status draft, 115 blocks, markers 10/10, CUT clean): posts/20260930-cnt-surv02-switching-experiment-question.md — Question Content type (ใหม่). เปิดด้วยคำถามที่ part 1 ทิ้งไว้ → "คำตอบมันพุ่งขึ้นมาเอง เร็วเกินกว่าจะเป็นความจริง" (self-observe การ over-prescribe ของตัวเอง) → ผู้สมัคร 5 ตัวที่ยังไม่ได้สอบ (กฎ v1 ทั้งหมด demoted เป็นคำถาม "ช่วยจริงไหม หรือแค่ฟังดูถูก") → สิ่งที่ทำได้ตอนนี้ = นับสองจำนวนในวัน Mixed Work ก่อนเปลี่ยนอะไร (measure first) → คำถามถัดไป ("จัดงานเพื่อลดการสลับ จะเปลี่ยนวันนั้นไหม") ปลายเปิด. 111 wc-w. Register พร 8/เรา 1.
+
+Note: parallel session file 20260930-cnt-overload-day-switching-fee.md (ContentID 20260930-CNT-SWITCHING-FEE) got swept into commit 3aee9b8 — belongs to another session's brief on the same idea; left untouched, flagged to user.
+
+Evolution Note 140 folded to skill (split by thinking stage, not by half).
