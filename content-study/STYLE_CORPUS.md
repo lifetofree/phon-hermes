@@ -900,3 +900,27 @@ NEW moves ใน publish (beyond the change list):
 - v3 locked line ย้ายตำแหน่ง: "ไม่ได้โกหก" ขึ้นไปจบ story-opener แรก + closer couplet ใหม่เป็นตัวปิด (เหมือน EN #114: retired claim survives as story payoff)
 
 Evolution Notes 126–127 → skill: (126) anti-ritual ต้องมีเหตุผลอยู่ในบท ไม่ใช่แค่ตัดคำสั่ง — "ถ้าต้องทำ X ทุกครั้ง ของที่ช่วยลดงานกลายเป็นงานเพิ่ม" คือ argument ที่ทำให้ trigger-scoping ดูเหมือนมาจากเคส ไม่ใช่ discipline; (127) dispatch แบบ gap ("อะไร vs พรคิดว่าอะไร") เหมาะกับ perception-error เรื่องมากกว่า fork แบบ 2 modes — ช่องว่างระหว่างคำถามคู่คือแกน ไม่ใช่ทางเลือก.
+
+
+### 2026-09-30 pair #28 CLOSED — PUBLISH version commitment-device → Decision Stable/Default/Automation (biggest spine transplant in corpus)
+
+User sent "version publish" + attached image filename (20260930-CNT-DEFAULT-DECISION-STABLE-AUTOMATION.webp — user-chosen ContentID; image ignored per steer). Archive: web-archive/20260930-default-decision-stable-published.md (verbatim). Notion page 3ebdf8d8-8d8c-811d-9269-fa71ec16441a PATCHED in place (Status→rewritten).
+
+Measured vs same-day draft (126→220 wc-w = **1.75×** — largest publish expansion on record: era 0.91→1.12→1.22→1.75): H1 6/6 (4 re-titled), beats 37→64, bq 10→16, arrows 3→8 (THREE stacked flows), bold 11→18, พร 9→30 (heaviest in corpus) / เรา 4 / คุณ 0 / คับ 0.
+
+Spine transplant: ล็อก-commitment spine DEAD — ล็อก 10→0, ตั้งใจ 3→0, คุก/ออม/นักเขียน/ผ้าคลุม/วันดี/วันแย่/สติ → 0 (ไฟ 6→3 = story only). New spine = decision lifecycle: Repeated Question → answer Stable → Compile เป็น Default → ระบบทำตาม → Reality เปลี่ยน → เปิด Decision ใหม่ → Rewrite Default (Routine-as-Shield v4 locked chain, second deployment). Metaphor family = ENGLISH PROCESS VOCABULARY (Decision/Stable/Default/Automation/Compile/Reality/Execute = 41 tokens) — zero Thai object props survive.
+
+Kept from draft (12/81 lines): opening story ~8 lines VERBATIM + H1 title + "ระบบไม่ได้ทำให้พรขยันขึ้น" head + closer hash + hashtags. All else rebuilt.
+
+Moves:
+1. **Story kept but RE-MINED**: new reveal line "Decision นั้นไม่ได้เกิดขึ้นตอน 08:00 เลย" — story re-read for the detail that carries the NEW thesis, not reused as fixed hook.
+2. Subtitle = compile-able definition (H3 atom): "คำถามที่คำตอบ Stable แล้ว — ไม่จำเป็นต้องกลับมาเป็น Decision ใหม่ทุกครั้ง".
+3. Dispatch = repeated-question cadence ("วันนี้ทำไหม? / พรุ่งนี้ล่ะ? / เช้านี้เอาไหม? / ถามใหม่ ทั้งที่ไม่มีข้อมูลใหม่") then forced question in blockquote.
+4. **Function slots preserved, vocabulary replaced**: draft hedge "ไม่ใช่ทุกคำถามควรถูกล็อก (ล็อก=คุก)" → "Default ไม่ได้แปลว่าคำตอบนี้ถูกตลอดไป" + reality-reopen list + "คำตอบที่ไม่ต้องถูกถามใหม่ ตราบใดที่เงื่อนไขสำคัญยังเหมือนเดิม".
+5. **NEW asset — selector-question flip**: "อะไรที่พรไม่อยากทำ?" → "มี Decision ไหนที่พรยังตอบซ้ำอยู่ ทั้งที่คำตอบ Stable พอแล้ว?" + "ถ้า Decision ยังไม่นิ่ง Automation ก็แค่เอาความไม่ชัดไปทำให้เกิดเร็วขึ้น" (automating ambiguity = faster ambiguity) — the post's newest sentence.
+6. Closer = 3 stacked flows (before / after Stable / if-Reality-changes — reversibility is IN the diagram) + hedged anti-totality couplet ("ไม่ใช่ทุก Decision ต้องกลายเป็นระบบ").
+7. Night question SELF-ADDRESSED: เรา→พร flip ("มีคำถามอะไรที่พรยังตอบใหม่ทุกครั้ง — ทั้งที่คำตอบเริ่ม Stable พอจะทำเป็น Default แล้ว?").
+
+NOTES (user text, untouched): "พอคำตอบ Stable พอ" double-พอ; trailing "> " lines after blockquotes (paste-artifact class, same as #22).
+
+Evolution Notes 128–133 folded to skill (publish re-spine rules: re-mine the story / process-vocabulary metaphor family / function slots over vocabulary / publish = re-think at 1.75× / self-addressed night question / selector-question flip).
