@@ -1022,3 +1022,20 @@ Archive `web-archive/20261001-charted-course-benz-dna-critique-3.md` (verbatim).
 **ของใหม่จริงของรอบนี้:** Hopkins ไม่ใช่ endorsement ของ asset "Stable Decision → Default" แต่เป็น **stress-test ของคำว่า Stable** — เปิด blind spot ว่า asset เดิมใช้คำว่า Stable โดยยังไม่เคยนิยามว่า "อะไรให้สิทธิ์ Decision หนึ่งได้สถานะ Stable" ("พรเรียกมันว่า Stable จากอะไร?"). คำถาม dispatch อัปเกรด: "คำถามหนึ่งต้องถูกตอบซ้ำแค่ไหน — ถึงจะมีสิทธิ์หยุดถูกถาม?" (พรยังไม่ต้องตอบ). ยืนยันตัดสินรอบก่อน: Switching practice ห้ามเข้าบท.
 Quote drift: "ระบบเริ่มจากคำถามที่หยุดถูกถาม" = ย่อจาก H3 จริง (paraphrase, cosmetic). ชุด "Repeated Decision → Stable Decision → Default" ใน critique = asset ของ pair #15/#28 (อยู่ใน corpus ไม่ใช่ใน draft นี้).
 **สถานะ pair #31: skeleton ล็อกจาก 2 รอบล่าสุด — รอคำสั่ง rewrite** (ชื่อรอตัดสิน: critic เสนอ "คำถามเดิมถูกถามทุกโพสต์ — เมื่อไหร่มันควรกลายเป็น Default?" / "แผนที่ไม่ได้เกิดจากการเดินผ่านครั้งเดียว")
+
+
+### 2026-10-01 pair #31 CLOSED — PUBLISH version "แผนที่ไม่ได้เกิดจากการเดินผ่านครั้งเดียว" (critique r2+r3 skeleton → publish)
+
+User ส่ง "version publish" หลัง critique 2 รอบ — archive `web-archive/20261001-map-not-born-from-one-walk-published.md` (verbatim). Notion หน้าเดิม PATCHED (Name → publish title, Status rewritten, 203 blocks, markers 12/12). `posts/` คง v2 ไว้ (publish text อยู่ใน archive ตาม convention).
+
+Measured vs v2: **323 wc-w = 1.52×** (era ...1.00→0.89→1.52 — expansion กลับมาหลังรอบ agent-rewrite; publish = re-think ไม่ใช่ trim อีกครั้ง EN #131); H1 6→7, beats 33→65, bq 3→19, bold 2→13, **↓ chain กลับมา 5 จุดใน closer** (เกิด #13, ตาย #17, ฟื้นใน publish ของ user); พร 5→**32** (full-narrator ยืนยันอีกรอบ), เรา 5, คุณ 0, คับ 0, protocols 0.
+
+Critique implementation:
+- Title = critic candidate ("แผนที่ไม่ได้เกิดจากการเดินผ่านครั้งเดียว") + H3 ใหม่เป็นคำถาม
+- Spine = stress-test คำว่า Stable: "พรเรียก Decision หนึ่งว่า Stable จากอะไร?" → **"Repeat ≠ Evidence"** → Candidate (ความสำเร็จครั้งเดียว = Candidate ไม่ใช่ Default) → Flow เดิมเติมช่อง "?" ระหว่าง Repeated → Stable
+- CUT ยืนยัน 0: โพสต์ที่ห้า / คิดนานที่สุด / กระดาษคำตอบ+คูปอง (กิ่งไม่ถูกดึงกลับ — EN #155 ถูก user อนุมัติโดยการตัด) / โฆษณาทุกชิ้น / "พิสูจน์ให้เห็นแล้ว" / Switching
+- **"หยุดถูกถามได้แล้ว" เหลือ 1 จุด = retraction move**: เก็บ claim เดิมไว้แล้วถอนกลางบท ("ตอนนี้ยังพูดแบบนั้นไม่ได้") — EN #116 (counterexample → honesty section) ในเวอร์ชัน user
+- **r3 dispatch question ไม่ถูก adopt** ("คำถามหนึ่งต้องถูกตอบซ้ำแค่ไหน...") — user เลือกคำถามของ r2 ("อะไรให้สิทธิ์ Decision หนึ่ง ถูกเรียกว่า Stable?") เป็นคำถามปิดแทน — 2 คำถามของ critic เป็นเมนู ไม่ใช่ checklist (EN #46 pattern)
+- Closer = anti-proof ("พรยังไม่มีคำตอบ / ยังไม่อยากรีบสร้างคำตอบขึ้นมาแทนข้อมูล") + title-line echo ปิดท้าย
+
+Evolution Notes 156–158 → skill. Next กิ่ง (parked, user-approved): "Coupon ของระบบเขียนคืออะไร" = Measurement post โพสต์หน้า.
