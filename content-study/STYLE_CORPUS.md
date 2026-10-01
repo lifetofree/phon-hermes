@@ -1073,3 +1073,20 @@ Moves ใหม่ของรอบนี้:
 - closer = anti-proof ("โพสต์นี้ไม่มี Rule ใหม่" + "พรยังตอบไม่ได้") + trigger question ("ครั้งหน้าที่คำชมเด้ง...") ไม่ใช่ ritual (EN #124/#146)
 
 กิ่งที่ park จากรอบนี้: CTA Reaction vs CTA Test (question ยังเปิด) / "อะไรให้สิทธิ์งานหนึ่งถูกเรียกว่า ดี?" = โพสต์ถัดไป (ฝาแฝด Stable pair #31) / Indicator framework = ห้ามยก ให้ pattern โผล่เอง
+
+
+### 2026-10-01 pair #32 ADDENDUM — Benz-DNA critique r2 ของ v3: รอบ PASS + freeze list — analyze-only + skill upgrade
+
+User scope ชัด: "ไม่ต้องแก้ analyze การเขียน content การตีความ และ reverse engineer เพื่อเอามาปรับปรุง skill การเขียน content" — Draft v3 + Notion UNTOUCHED. Archive `web-archive/20261001-performer-to-salesman-benz-dna-critique-2.md` (verbatim).
+Quote-verify (code): **15/15 verbatim + absence claims 2/2** — รอบแรกของ corpus ที่ critique ไม่มี quote drift เลย (v1 ของ pair #32 เจอ 2 จุด)
+Verdict: **majority-PASS** ("แกนกลับมาอยู่กับ Evidence แล้ว ผ่านกว่าร่างแรกเยอะ" / "Feedback คนละชนิด อาจตอบคำถามคนละคำถาม — อันนี้พอ") — residue = word-level 4 จุด + removal test 1 ส่วน
+**Freeze list 4 อย่าง (ถ้ามี v4 — baseline นับแล้วใน v3: อ่านจบ 1 / ต่อฝีมือ 1 / ข้อมูลจากคำชม 1 / พิสูจน์อะไร 1 / บอกอะไร 0):**
+1. `อ่านจบ` → `อ่าน` — derived-detail: comment ไม่ได้รายงานว่าอ่านจบ (บทเรื่อง indicator-limits ห้าม over-derive เอง)
+2. `positive reaction ต่อฝีมือ` → `ต่อสิ่งที่อ่าน` — อย่าใส่ Interpretation เพิ่มให้ Feedback (เป้าที่ commenter ไม่ได้ระบุ)
+3. `ข้อมูลจากคำชมมีมากกว่าหนึ่งแบบ` → `Feedback ที่กลับมามีหลายชนิด และอาจตอบคนละคำถาม` — umbrella term ต้องครอบตัวอย่างของตัวเอง (ตัวอย่างที่สอง = outcome report ไม่ใช่คำชม); thesis ที่แรงกว่า = ตั้งชื่อสิ่งที่บททำจริง: "พรเคยเอา Feedback หลายชนิดมารวมอยู่ใต้คำว่า คำชม"
+4. `กำลังพิสูจน์อะไร?` → `กำลังบอกอะไรเรา?` — verb บอกสถานะ Evidence; พิสูจน์ = สูงเกินสำหรับ report
+**Removal Test:** ตัดส่วน CTA สองแบบออกหนึ่งรอบ — ถ้า Thesis ยังยืน = ส่วนนั้นคือกิ่ง (critic ไม่สั่งตัด: "ยังไม่ถึงกับสั่งตัด เพราะมันทำให้บทมี Application")
+**Behavior ที่ผ่านและต้องคงไว้:** เห็นความต่าง → ตั้งชื่อความต่าง → หยุด + decline-to-rank ("ยังตอบไม่ได้ / ไม่ได้ตั้งใจจะตอบ") = พฤติกรรมใหม่ที่เก็บได้ ไม่ใช่ช่องว่าง
+**Closer:** ไม่จำเป็นต้องมี Action ให้ reader เสมอ — checklist-flavored trigger ท้ายบท = ritual-adjacent; จบที่คำถามเดิม + verb อ่อนแรงกว่า
+
+Evolution Notes 164–170 → skill (รวม freeze-list flow ใน FORM SELECTOR + PASS-round item 8 ใน Benz workflow)
