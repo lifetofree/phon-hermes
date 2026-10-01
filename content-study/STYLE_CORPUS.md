@@ -1090,3 +1090,27 @@ Verdict: **majority-PASS** ("แกนกลับมาอยู่กับ Ev
 **Closer:** ไม่จำเป็นต้องมี Action ให้ reader เสมอ — checklist-flavored trigger ท้ายบท = ritual-adjacent; จบที่คำถามเดิม + verb อ่อนแรงกว่า
 
 Evolution Notes 164–170 → skill (รวม freeze-list flow ใน FORM SELECTOR + PASS-round item 8 ใน Benz workflow)
+
+
+### 2026-10-01 pair #32 CLOSED — PUBLISH "คำชมที่พรได้รับ — จริง ๆ แล้วมันกำลังบอกอะไรเรา?" (PASS-round freeze list → publish ในรอบเดียว)
+
+User ส่ง "version ที่จะ publish" หลัง critique r2 (majority-PASS + freeze list 4 + removal test) — archive `web-archive/20261001-performer-to-salesman-published.md` (verbatim). Notion หน้าเดิม PATCHED (Name → publish title, Status rewritten, 168 blocks, markers 13/13, zero-check 10/10 = 0 ทุกตัว). `posts/` คง v3 (publish text อยู่ใน archive ตาม convention). ยังอยู่ Drafts DB — promotion รอ user สั่ง
+
+Measured vs v3: **273 wc-w = 1.36×** (re-expansion หลัง PASS round — publish เพิ่ม section + chain ไม่ได้ trim); H1 6→6, bq 3→**18**, dots 30→54, พร 10→19, **เรา 0→4** (กลับมาเฉพาะ universal beats ใน closer — ยังอยู่ range 0–21), คุณ/คับ/ผม 0
+
+Critique r2 implementation (code-verified ทั้งไฟล์ + read-back):
+- **Freeze list 4/4**: อ่านจบ 0 / ต่อฝีมือ 0 / ข้อมูลจากคำชม 0 / พิสูจน์ 0; replacement อยู่ครบ — ต่อสิ่งที่อ่าน ×2 (H3 section + tail question echo) / บอกอะไรเรา ×2 (title + closer)
+- **Removal test EXECUTED**: ส่วน CTA สองแบบหายทั้งก้อน (ขอ Response / Action + Condition / 11 นาที / "ออกมาสองแบบ" = 0 หมด) และ thesis ยังยืน → กิ่ง CTA ("เราออกแบบ Feedback ที่กลับมาได้ไหม?") จบตามเงื่อนไขที่ critic วางไว้เอง ("ถ้ายืน — เก็บ CTA ไว้เป็นกิ่งใหม่")
+- thesis ที่ critic ชอบกว่าถูก adopt เป็น H3 + closer body: "พรอาจเอา Feedback หลายชนิดมารวมอยู่ใต้คำว่า คำชม"
+
+User moves ใหม่ (เกินทั้ง v3 และ critique):
+1. **Question-flip section** "ปัญหาอาจไม่ใช่มีคำชมน้อย" — reframe premise ของโพสต์อีกชั้น (ทำไมไม่มีคนชม → Feedback ชิ้นนี้กำลังบอกอะไร) + "ไม่ต้องลดค่ามัน แต่ก็ไม่ต้องเอามันไปตอบแทนคำถามอื่น"
+2. **4 คำถาม Thai ลง body** (ดีไหม / ประโยชน์ไหม / เชื่อไหม / ขายได้ไหม) = domesticating tail question ให้เป็น beats รู้ธรรมก่อนถึง closer (EN version ยังอยู่ท้าย)
+3. **Taxonomy-without-labels**: closer = bold chain **Positive Reaction ≠ Reported Outcome ≠ Cause** — ผู้สืบทอดของ binary Perform/Sell ที่ถูก park สร้างจากใน Evidence แทนการนำเข้า label (ชื่อกลับมาได้เมื่อมี Sales Evidence — EN #162 ยังยืน)
+4. เรา 4 = สิทธิ์ universal เฉพาะจุดที่พูดถึง Feedback เป็นกลาง ๆ ไม่ใช่ rule
+
+Nits (NOTES only — publish text ของ user): บรรทัด "> " ว่างหลังทุก blockquote = layout ของ user (systematic ทั้งเรื่อง — คง verbatim pair #22 precedent); "แต่ง" = ใช้แทน "แต่งรูป" หายไปจาก opening (v3 มี "แต่งรูปทั้งคืน", publish ตัด — ok ไม่ใช่ error); คำว่า "พิสูจน์" หายทั้งบทรวม closer — "เพราะอะไร" ทำงานแทน
+
+Skills: freeze list = publish acceptance markers (171) / removal test = conditional ที่ critic ส่งมาให้รัน (172) / taxonomy-without-labels (173) → Evolution Notes
+
+สถานะ: pair #32 CLOSED ใน 1 วัน (v1 → self-critique v2 → Benz r1 → v3 → Benz r2 PASS → publish) — รอบแรกที่ critique 2 รอบไม่มี quote drift เลย (r2 15/15)
