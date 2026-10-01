@@ -1056,3 +1056,20 @@ Bridge ที่ Benz ชี้ (2 ชั้น): (1) "อะไรให้ส�
 Direction (menu ไม่ใช่ checklist): คำถามกลางใหม่ "คำชมที่พรได้รับ — จริงๆ แล้วมันกำลังพิสูจน์อะไร?" + split Reaction-evidence vs Outcome-report + 3 ห้าม (อย่าสรุป outcome=ขายได้ / อย่าสรุป reaction=Perform / อย่าสร้าง Proof-in-work framework) + คำถาม tail "พรเคยใช้คำชมเป็น Indicator ของอะไร — Quality, Usefulness, Trust หรือ Sellability?"
 
 สถานะ: pair #32 รอ rewrite (v3) — ครั้งแรกที่ rewrite target = draft ที่ agent เขียนเองทั้งรอบ (user สั่ง direction แต่ไม่ได้เขียนเอง)
+
+
+### 2026-10-01 pair #32 CLOSED — v3 re-spine "คำชมที่พรได้รับ — จริง ๆ แล้วมันกำลังพิสูจน์อะไร?" (critique r1 skeleton → rewrite same day)
+
+User: "v3 เลยคับ" — ไฟล์เดิม `posts/20261001-cnt-performer-to-salesman.md` (v3 ทับ v2) + Notion หน้าเดิม PATCHED (Name ใหม่, Status rewritten, 83 blocks, markers 10/10, v2 survivors 0).
+
+Measured vs v2: **201 wc-w = 0.61×** (sub-1.0 legitimate ใต้ critique-driven re-spine — EN #148 precedent); H1 7→6, bq 5→3, dots 33→30; พร 6→**10** (full-narrator), **เรา 3→0** (universal claims ตายพร้อม rule), คุณ 2→0, คับ/ผม 0. CUT zero-count 16/16 ผ่าน (Sell เหลือ 1 = Sellability ใน tail question ที่ critic เขียนเอง = claimed exception)
+
+Moves ใหม่ของรอบนี้:
+- **skeleton ของ critic กลายเป็น section order ตรง ๆ** (7 ขั้น ↓ → 6 H1) — ครั้งแรกที่ skeleton ถูก adopt เป็น architecture 1:1 ไม่ใช่แค่แกน
+- **binary Perform/Sell park ทั้งระบบ** — ประโยค hook เดิมของ user ตายเป็นครั้งที่ 2 (v1 title → v2 reveal → v3 0×); เงื่อนไขคืนชีพ = มี Sales Evidence (critic: "ยังไม่ถึงเวลา") — กิ่งนี้ cut ครั้งเดียว ยังไม่ผ่านเกณฑ์ EN #158 (2 cuts)
+- title = คำถามของ critic verbatim (ครั้งที่ 2 ต่อจาก pair #31 — title-from-critic กำลังเป็น pattern ของ Benz loop)
+- retraction ครึ่งที่โพสต์ได้ประโยชน์: "งานดี" ถูกถอนเป็น "ไม่แน่ใจด้วยซ้ำว่าใช้ Evidence อะไรเรียกมันว่า ดี" (EN #160 ลงมือจริง)
+- outcome split เขียนเป็น "หน้าตาของประโยค" ไม่อ้างว่าเคยเจอจริง (evidence ceiling ตอน draft)
+- closer = anti-proof ("โพสต์นี้ไม่มี Rule ใหม่" + "พรยังตอบไม่ได้") + trigger question ("ครั้งหน้าที่คำชมเด้ง...") ไม่ใช่ ritual (EN #124/#146)
+
+กิ่งที่ park จากรอบนี้: CTA Reaction vs CTA Test (question ยังเปิด) / "อะไรให้สิทธิ์งานหนึ่งถูกเรียกว่า ดี?" = โพสต์ถัดไป (ฝาแฝด Stable pair #31) / Indicator framework = ห้ามยก ให้ pattern โผล่เอง

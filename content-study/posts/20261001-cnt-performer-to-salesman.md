@@ -1,49 +1,33 @@
 <!--
 ContentID: 20261001-CNT-PERFORMER-TO-SALESMAN (placeholder)
-Status: v2 re-spine (2026-10-01) — user decision: "แบบคง binary ไว้ แล้ว rewrite เลย"
-Type: CURRENT FORM (system/mindset, single-idea, post-#17 synthesis)
-Brief (user, 2026-10-01): "Stop being a Performer, Start being a Salesman — หลายคนตกหลุมพรางอยากให้คนชมว่า 'เขียนดีจัง' 'รูปสวยจัง' จนลืมบอกว่า 'ซื้อเถอะ เพราะมันช่วยคุณได้แบบนี้'. เสียงปรบมือ (Applause) กินไม่ได้ แต่ยอดขาย (Sales) เลี้ยงชีวิต"
-Re-spine logic (self-driven, pre-Benz): binary Perform/Sell MOVED from title/premise to the END as the earned payoff — body argues proof-location first (proof ในตัวงาน vs proof ในปากคนอื่น), the original hook line returns verbatim as the reveal blockquote.
-v1 CUT list (EN #107 — retired architecture is the cut list; verify 0 in body):
-- title carrying the binary ("คุณกำลัง Perform ไม่ใช่ Sell" as H1) → dies (lives ONLY in reveal blockquote)
-- H3 top-defs "Perform = ... / Sell = ..." → dies (defs move to reveal)
-- "คน Perform / คน Sell" person-labels → dies (diagnose the WORK's condition, not the person's intent)
-- "# ทำไมเราถึงติดกับดัก Perform" reward-speed section → dies (parked to ONE hedged line)
-- EN pull-quote "Stop performing. Start selling..." → dies (replaced by the user's own line as payoff)
-Draft-time gates run (v2):
-- (a) re-skin check: NOT WorldHQ "Self-Invention vs Self-Promotion" (that = WHERE you build; this = what the output sells by). PASS.
-- (b) thesis-stack: applause-craving/reward-speed psychology = ONE hedged line ("บางครั้ง...โดยไม่ได้ตั้งใจ"), no section. PASS.
-- (c) evidence ceiling: qualitative worked example only; "ชมมาเร็วกว่ายอด" hedged บางครั้ง, no invented numbers. PASS.
-- (d) killer-line counterexamples (EN #111): "ปรบมือกินไม่ได้" false for entertainers → carve-out section stays; "proof จากปากคนอื่น = ผิด" false (testimonial sells) → claim narrowed to "proof เดียวที่มี = คำชมฝีมือ". Both scoped in-body.
-- (e) scene spine: เฝ้ายอด scene opens; concept = closing question. PASS.
-- (f) นิยาม "หนึ่งคำชม" (EN #145 gate): body splits ชมฝีมือ vs เล่าผลลัพธ์ before using the word. PASS.
-Register: พร (story) / เรา (universal) / คุณ ONLY in the reveal blockquote (user's own line, verbatim ×2) / คับ 0 / ผม 0 / Perform+Sell words appear FIRST TIME in the reveal section
-SSOT anchors used UNLABELED (verified 2026-10-01, mapping here only):
-- Anti-Hype ("ไม่ใช่ Optimize Engagement เพื่อยอดอย่างเดียว") — Main_Data_for_UDO.md L121
-- Anti-Hype system application ("ห้ามสร้างระบบที่ต้องใช้ท่าพิเศษ/บิลด์อารมณ์ก่อนทำ") — Main_Data_for_UDO.md L261
-- Quiet Power ("Asset-first, Effort-less, Quiet Power") — OPB_Core_System.md L4
-- Economy of Intelligence (แทน "Sell First, Build Last") — Main_Data_for_UDO.md L180-181
-- Forbidden Words: Emotional Selling ขยี้ปม — Main_Data_for_UDO.md L320
-Cross-ref candidates (header only, NOT in body): WorldHQ Rented Land (2026-09-22) / charted-course (2026-10-01)
-Notion page: 3ecdf8d8-8d8c-8193-9e02-f602ccef94a9 (PATCH same page, Status → rewritten)
+Status: v3 re-spine per Benz-DNA critique r1 (pair #32) — user: "v3 เลยคับ" (2026-10-01)
+Type: CURRENT FORM (system/mindset, post-#17 synthesis) — clamped to evidence (EN #140 precedent: spine เล็กลง = ยาวตาม evidence)
+New spine (critic point 7 skeleton, verbatim): publish → เฝ้ายอด → รอ "เขียนดีจัง" → ไม่มีคำชม = งานยังไม่ผ่าน → inspect → คำชมให้ข้อมูลอะไร? → reaction ต่อฝีมือ → ไม่ตอบ "ใช้แล้วเกิดอะไรขึ้น?" → ใช้ Feedback คนละชนิด ตอบคำถามเดียวกัน?
+Adopted verbatim (critic lines = acceptance markers): คำถามกลาง (title) / split ประโยค 2 ชนิด (positive reaction vs รายงาน outcome) / หน้าที่ 2 ประโยคปิด (ขอ Response vs เสนอ Action+Condition) / retraction สมมติฐาน "งานดี" / tail question (Quality, Usefulness, Trust หรือ Sellability)
+CUT zero-count list (v2 architecture + critic cuts — verify 0 at patch): Perform / Sell (ยกเว้น Sellability 1 hit ใน tail question ที่ critic เขียนเอง) / Proof / ปากคนอื่น / ขาย / งานดีเป็นเรื่องจริง / ส่ง proof ตามงาน / reveal line เดิม ("ถ้างานดีของคุณขายไม่ได้...") / "ขายได้แค่แบบเดียว" / คำชม 2 แบบ (classification heading) / Anti-Hype + Quiet Power vocab ในบท / คุณ (ลบจาก title เดิมด้วย)
+Parked กิ่ง (ไม่ใส่บท): binary Perform-vs-Sell (รอ Sales Evidence — critic: "ยังไม่ถึงเวลา") / คำถาม "CTA ขอ Reaction กับ CTA ชวน Test ทำหน้าที่ต่างกันอย่างไร?" / Indicator framework (ให้ pattern โผล่เอง) / "อะไรให้สิทธิ์งานหนึ่งถูกเรียกว่า ดี?" = โพสต์ถัดไป (ฝาแฝด Stable question pair #31 — critic: "ผมจะตามคำถามนี้ก่อน")
+Draft-time gates (v3):
+- (a) re-skin vs pair #31: question SHAPE ฝาแฝด (premise audit) แต่ domain ต่าง (feedback ของงานเขียน vs Decision ของระบบ) — ไม่ cite Hopkins/Stable ในบท (critic: "โดยไม่ต้องเอา Hopkins มาใส่"). PASS
+- (b) thesis-stack: ไม่เปิด thesis ใหม่ — CTA-function question + "อะไรทำให้งานดี" park เป็น กิ่ง. PASS
+- (c) evidence ceiling: ไม่อ้างว่าเคยได้รับคอมเมนต์ outcome — outcome split เขียนเป็น "หน้าตาของประโยค" ไม่ใช่ประสบการณ์ของพร; ไม่มีตัวเลขปลอม. PASS
+- (d) killer line: ไม่มี killer line ใหม่ — ปิดด้วยคำถามที่เล็กกว่าตอนเปิด (EN #146) + anti-proof closer ("โพสต์นี้ไม่มี Rule ใหม่"). PASS
+- (e) scene spine = เฝ้ายอด + จังหวะคำชมเด้ง; จบที่ trigger question ไม่ใช่ ritual (EN #124). PASS
+- (f) นิยามก่อนใช้: "คำชม" ถูกแยกเป็น reaction-report vs outcome-report ก่อนใช้คำ (EN #145 gate). PASS
+- (g) "ว่าแบบไหนดีกว่า — ยังตอบไม่ได้" = กันซ้ำกับดักเดิม (คม ≠ Evidence, EN #159). PASS
+Register: พร (story + inspect) / เรา 0 (full-พร ถูกต้องสำหรับ personal post) / คุณ 0 / คับ 0 / ผม 0
+Notion: 3ecdf8d8-8d8c-8193-9e02-f602ccef94a9 (PATCH same page, Name update, Status คง rewritten)
 -->
-# งานดีแต่ขายไม่ออก — เพราะยังไม่มีคนชม หรือเพราะงานยังพิสูจน์ตัวเองไม่ได้?
+# คำชมที่พรได้รับ — จริง ๆ แล้วมันกำลังพิสูจน์อะไร?
 
-### Proof ที่อยู่ในตัวงาน กับ Proof ที่ต้องรอจากปากคนอื่น
-
-.
-
-พรเคยนั่งเฝ้ายอดหลังกด publish
-
-เขียนทั้งคืน แต่งรูปทั้งคืน
-
-แล้วเลื่อนกลับมาดูทุก 5 นาที
+### คำชมหนึ่งประโยค บอกได้ไม่ครบทุกคำถาม
 
 .
 
-ยอดขึ้นช้า ๆ
+เมื่อคืน publish โพสต์หนึ่ง
 
-แต่สิ่งที่พรรอ ไม่ใช่ยอด
+พรนั่งเฝ้ายอด เลื่อนกลับมาดูทุก 5 นาที
+
+ยอดขึ้นช้า ๆ — แต่สิ่งที่พรรอจริง ๆ ไม่ใช่ยอด
 
 คือคำว่า "เขียนดีจัง"
 
@@ -51,75 +35,91 @@ Notion page: 3ecdf8d8-8d8c-8193-9e02-f602ccef94a9 (PATCH same page, Status → r
 
 พอคำนั้นไม่มา
 
-โพสต์ที่เพิ่งเขียนเสร็จ กลายเป็นของที่ยังไม่ผ่าน
-
-.
-
-ตอนนั้นพรวินิจฉัยว่า "งานดี แต่คนยังไม่เห็น"
-
-วันนี้กลับมาอ่านใหม่ — คำวินิจฉัยผิด
-
-งานดีเป็นเรื่องจริง
-
-แต่โพสต์นั้นไม่ได้บอกใครว่า มันช่วยอะไรได้แบบไหน
-
-.
-
-คนที่เจอมันจึงเหลือทางเดียว
-
-ถ้าจะเชื่อว่ามันมีค่า — ต้องรอใครสักคนพูดก่อน
+โพสต์นั้นในหัวพร รู้สึกเหมือนยังไม่ผ่าน
 
 .
 
 .
 
-# คำชม 2 แบบ — ขายได้แค่แบบเดียว
+# ความคิดที่ถูก Inspect กลับ
 
-ก่อนจะโทษคำว่า "ชม" — ต้องแยกก่อนว่ามันมี 2 แบบ
+ตอนนั้นพรวินิจฉัยไว้ว่า
 
-.
-
-แบบแรก — ชมคนทำ
-
-"เก่งมาก" "เขียนดีจัง" "รูปสวยจัง"
-
-ประโยคพวกนี้พูดถึงผู้เขียน
-
-ไม่มีข้อมูลแม้แต่บรรทัดเดียวว่า ของช่วยใครได้อย่างไร
+"งานดี — แค่คนยังไม่เห็น"
 
 .
 
-แบบที่สอง — เล่าผลลัพธ์
+วันนี้กลับมาอ่านประโยคนั้นใหม่
 
-"ลอง 11 นาทีก่อนนอน แล้วเช้ามางานลื่นขึ้น"
-
-ประโยคนี้พูดถึงของ
-
-และเป็นประเภทเดียวที่คนกำลังจะซื้อ ใช้ตัดสินใจได้
+พรไม่แน่ใจด้วยซ้ำว่า ตอนนั้นใช้ Evidence อะไรเรียกมันว่า "ดี"
 
 .
 
-> **คำถามเดียวของโพสต์นี้: Proof ของงานชิ้นนี้อยู่ที่ไหน — ในตัวงาน หรือรออยู่ในปากคนอื่น?**
+และเห็นอีกอย่างที่ลึกกว่า
 
-.
-
-ถ้า proof อยู่ในตัวงาน
-
-ใครอ่านจบก็ตัดสินใจได้เอง ไม่ต้องรอเสียงจากไหน
-
-.
-
-ถ้า proof ต้องมาจากปากคนอื่น
-
-งานจบลงแล้ว แต่การขายยังไม่เริ่ม
-
-เรากำลังตั้งเงื่อนไขว่า ยอดขายต้องเกิดหลังเสียงชมเท่านั้น
+พรใช้คำชม เป็นหลักฐานว่างานมีค่าหรือเปล่า?
 
 .
 
 .
 
-# โพสต์เดียวกัน — 2 วิธีปิด
+# แยกประโยคออกมาดู
+
+หยิบ "เขียนดีจัง" ขึ้นมาเคาะ
+
+.
+
+ประโยคนี้บอกได้จริง ๆ คือ
+
+มีคนหนึ่งอ่านจบ
+
+และเขามี positive reaction ต่อการเขียน
+
+.
+
+หมดแค่นั้น
+
+.
+
+สิ่งที่มันไม่ได้บอก
+
+คือคำถามอีกฝั่ง — คนเอาสิ่งนี้ไปใช้แล้วเกิดอะไรขึ้น
+
+.
+
+ประโยคแบบที่บอกเรื่องนั้นได้ หน้าตาประมาณนี้
+
+"ลองทำแล้ว X เกิดขึ้น"
+
+— คนหนึ่งรายงาน outcome หลังจากลอง
+
+.
+
+(และถึงแค่นั้น ก็ยังต้องถามต่อว่า เกิดเพราะอะไร)
+
+.
+
+.
+
+# สองประโยค ตอบคำถามเดียวกันไหม
+
+.
+
+ประโยคแรก — Evidence ว่าคนหนึ่งมี positive reaction ต่อฝีมือ
+
+ประโยคที่สอง — Evidence ว่าคนหนึ่งรายงาน outcome หลังจากลอง
+
+.
+
+พรอาจกำลังใช้ Feedback คนละชนิด
+
+มาตอบคำถามเดียวกันอยู่หรือเปล่า
+
+.
+
+.
+
+# ลองเขียนโพสต์เดียวกันออกมาสองแบบ
 
 โพสต์เรื่อง 11 นาทีก่อนนอน
 
@@ -127,116 +127,60 @@ Notion page: 3ecdf8d8-8d8c-8193-9e02-f602ccef94a9 (PATCH same page, Status → r
 
 ปิดแบบแรก:
 
-> "เป็นยังไงบ้าง? ใครเคยทำแบบนี้บ้าง คอมเมนต์หน่อย 555"
-
-— ของดีอยู่แล้ว — แต่ประโยคปิดกำลังเรียกคำชม
+> "ใครเคยทำแบบนี้บ้าง คอมเมนต์หน่อย 555"
 
 .
 
 ปิดแบบที่สอง:
 
-> "คืนนี้ลอง 11 นาทีก่อนนอน — ถ้าพรุ่งนี้งานลื่นขึ้น — นั่นคือของชิ้นนี้ทำงาน"
-
-— ของชิ้นเดียวกัน — แต่ประโยคปิดส่ง proof ตามงานไปด้วย
+> "คืนนี้ลอง 11 นาทีก่อนนอน — ถ้าพรุ่งนี้งานลื่นขึ้น — ลองสังเกตดู"
 
 .
 
-คนอ่านไม่ได้ขาด
+อ่านกลับวันนี้ สองประโยคนี้ไม่ได้ต่างที่ความน่าเชื่อถือ
 
-ของชิ้นเดียวกัน เปลี่ยนแค่ที่ที่ proof อยู่
-
-.
-
-(คำชมมาก่อนยอดเสมอ เพราะมาเร็วกว่า — บางครั้งเราจึงเผลอออกแบบงานไปทางรับคำชม โดยไม่ได้ตั้งใจ)
+ต่างที่หน้าที่
 
 .
 
-.
+แบบแรก — ขอ Response
 
-# ขอบเขตที่ต้องยอมรับ
-
-เสียงปรบมือไม่ใช่ศัตรู
+แบบที่สอง — เสนอ Action + Condition ที่คนอ่านลองสังเกตเอง
 
 .
 
-ถ้างานคือความบันเทิง — คำชมคือสินค้าตัวจริง
+ว่าแบบไหน "ดีกว่า" — ยังตอบไม่ได้
 
-คนทำมุก คนร้องเพลง ขายได้จากเสียงปรบมือโดยตรง
-
-ระบบถูกต้อง ไม่มีอะไรต้องแก้
+และโพสต์นี้ก็ไม่ได้ตั้งใจจะตอบ
 
 .
-
-และ testimonial ก็ไม่ใช่ปัญหา
-
-คนอื่นเล่าผลลัพธ์ของของเรา — นั่นคือ proof ประเภทที่ขายได้จริง
-
-.
-
-ปัญหาเดียวที่โพสต์นี้ชี้
-
-คืองานที่ proof เดียวที่มี = คำชมฝีมือ
-
-ไม่มีผลลัพธ์ในตัวงานให้ใครพิสูจน์ได้เลย
-
-— ทุกยอดขายจึงต้องยืมความเชื่อมาจากปากคนอื่นทั้งหมด
-
-.
-
-.
-
-# บอกประโยชน์ ไม่ใช่ตะโกน
-
-บางคนได้ยินว่า "ต้องบอกประโยชน์" แล้วนึกถึง Hype
-
-.
-
-ที่ระบบนี้หมายถึง
-
-— บอกประโยชน์ตรง ๆ โดยไม่ขยี้ปม
-— ไม่ขอร้อง
-— ให้งานพิสูจน์ตัวเองหลังปิดโพสต์
-
-.
-
-ดังไม่ผิด
-
-ดังแล้วของไม่มี proof ในตัวเอง — นั่นคือดังผิดที่
-
-.
-
-.
-
-# ตอนนี้แหละ — ชื่อของมัน
-
-งานที่ต้องรอคนชมก่อนถึงขายได้ ไม่ใช่กำลังขาย
-
-กำลังขอ applause มายืมแทน proof
-
-.
-
-**Perform** = งานที่ proof อยู่ในปากคนอื่น
-
-**Sell** = งานที่ proof อยู่ในตัวงาน
-
-.
-
-> **ถ้างานดีของคุณขายไม่ได้ จนกว่าจะมีคนชม — คุณกำลัง Perform ไม่ใช่ Sell**
 
 .
 
 # #สรุปแบบวิศวกรเป็ด
 
-ประโยคนี้คือโพสต์ทั้งโพสต์
+โพสต์นี้ไม่มี Rule ใหม่
 
-เหลือแค่คำถามเดียว ตอนคืนนี้หยิบของชิ้นล่าสุดขึ้นมา:
-
-> **ของชิ้นนี้ — พิสูจน์ตัวเองได้ไหม ถ้าไม่มีใครชมเลย?**
-
-ถ้าได้ — มันกำลัง Sell
-
-ถ้าไม่ได้ — คำชมคือ proof เดียวที่มันมี
+มีแค่การแยกว่า ข้อมูลจากคำชม มีมากกว่าหนึ่งแบบ
 
 .
 
-#Adduckivity #DuckOS #NeuroDivergent #ContentBusiness #QuietPower #AntiHype
+> **พรเคยใช้คำชมเป็น Indicator ของอะไรบ้าง — Quality, Usefulness, Trust หรือ Sellability — ทั้งที่คำชมหนึ่งประโยคอาจไม่ได้ตอบทุกคำถามนั้น?**
+
+.
+
+พรยังตอบไม่ได้
+
+.
+
+แต่ครั้งหน้าที่คำชมเด้งขึ้นมา
+
+ก่อนจะรู้สึกว่า "งานผ่าน"
+
+มีจังหวะเล็ก ๆ ให้ลองแวะก่อน:
+
+ประโยคนี้ — กำลังบอก Reaction หรือรายงาน Outcome
+
+.
+
+#Adduckivity #DuckOS #NeuroDivergent #Feedback #ContentBusiness #WritingInPublic
