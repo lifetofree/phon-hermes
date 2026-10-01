@@ -995,3 +995,15 @@ Critique findings (ทั้งหมด verify ด้วยโค้ด):
 5. **ตัวเอกถูกซ่อน** — แกนที่โพสต์นี้มีและเก่ากว่าไม่มี = Hopkins วัดผลได้จริงด้วย keyed/coupon (mechanism ใน header ของ draft เอง) แต่ระบบเขียนวัด "เหตุผลที่เขียน" ด้วยตัวเลขไม่ได้ — ปัจจุบันแค่ bullet ที่ 2 ของ section 3
 
 เก็บ: คู่บรรทัด "หนึ่งความสำเร็จ = สมมติฐาน / ซ้ำจนยืนได้ = แผนที่" + "เข็มทิศที่ดูจริง แต่ชี้ผิด" + H1 (candidate A)
+
+
+### 2026-10-01 pair #30 CLOSED — v2 rewrite same day (critique → rewrite, PROMOTE ไม่ใช่ merge)
+
+User: "ลอง rewrite หน่อย" → UDO rewrite ตัวเองตาม critique ของตัวเอง (ไฟล์เดิม, หน้าเดิม). ไฟล์ v2 `posts/20261001-cnt-charted-course-exact-science.md`.
+
+Measured: 213 wc-w = **0.89× v1** (ครั้งแรกใน era ที่ ratio < 1 — ถูกต้องเพราะ critique เป็นตัว driver ของ CUT ไม่ใช่ trim ตามอารมณ์); H1 7→6 (ตัดหัววันแย่ทั้งหัว), beats 38→33, พร 2→5 / เรา 3 / คุณ 0 / คับ 0, protocols 0.
+CUT zero-count **9/9** (วันที่ดี / วันแย่ / แรงจูงใจ / debate / "10 ตัว" / "3 เดือน" / สั้นที่สุด / ปลอดภัยที่สุด / ถูกที่สุด) + H3 เก่า (โคลน closer) survivor 0 + ประโยค closer เหลือ ×1 ท้ายบท (เดิม ×2).
+PROMOTE: coupon/keyed-returns → หัวใหม่ **"กระดาษคำตอบที่กลับมาเอง"** (Hopkins มีกระดาษคำตอบ / ระบบเขียนมีแต่ตัวเลขที่บอก "ผล" ไม่บอก "เหตุผล"). Keep-list 5/5 (คู่ "สมมติฐาน/แผนที่" + "เข็มทิศชี้ผิด" + H1 + compass quote + worked example).
+Closer ใหม่ = forced question ของ critic + "ยังตอบไม่ได้" (anti-proof register ตาม EN #115) — คำถามจบเล็กกว่าคำถามเปิด.
+Notion: หน้าเดิม PATCHED in place (Status→rewritten, 95 blocks, markers 14/14, CUT survivors 0, read-back ครบ). PITFALL ใหม่: page id จาก URL (32-hex ไร้ dash) ต้อง convert เป็น UUID ด้วยโปรแกรม — พิมพ์ dash เองผิดตำแหน่ง = 400 invalid uuid (EN 151).
+Evolution Notes 148–151 folded to skill.

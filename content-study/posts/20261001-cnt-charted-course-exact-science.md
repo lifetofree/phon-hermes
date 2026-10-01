@@ -1,30 +1,21 @@
 <!--
 ContentID: 20261001-CNT-CHARTED-COURSE (placeholder)
-Status: draft
-Type: CURRENT FORM (system/mindset, post-#17 synthesis) — fresh single-idea brief
+Status: rewritten (v2 — pair #30 critique implemented, same day)
+Type: CURRENT FORM (system/mindset, post-#17 synthesis)
 Brief (user, 2026-10-01): "advertising and merchandising become exact sciences. Every course is charted. The compass of accurate knowledge directs the shortest, safest, cheapest course to any destination."
-Source (verified 2026-10-01, primary PDF): Claude C. Hopkins, Scientific Advertising (1923) — user text = verbatim from "The Science of Advertising" section (fetched s3.amazonaws.com/Commonsense/ScientificAdvertising.pdf, cross-checked 2nd mirror). Mechanism passage (same section): "We learn the principles and prove them by repeated tests. This is done through keyed advertising, by traced returns, largely by the use of coupons... When one method invariably proves best, that method becomes a fixed principle." + "cost per dollar of sale show up with utter exactness."
-SSOT anchors (used UNLABELED): loop model Experience → Evidence → Pattern → Compile → Default (Routine as compiled default, 2026-09-23) + Default's right to remain ("ยังลดต้นทุนการตัดสินใจและยังตรงกับ Reality" — pair #15 locked line) — bridge by mode-inheritance, NOT citation (atom 6)
-Design decisions (CURRENT FORM atoms + Evolution Notes):
-- ONE metaphor family: แผนที่/เข็มทิศ/เส้นทาง (map, charted course, compass, route) — from the quote itself; no second family (Note 33)
-- H1 = condition (Note 24); H3 = compile-able definition
-- Open with the story (Note 43): the 10-questions scene — no judging metric
-- ONE dispatch question forking 2 modes: "เดินจนชิน หรือยังต้องเลือกใหม่ทุกครั้ง?" — modes from the mechanism's own failure shapes (no chart / charted); NOT a taxonomy
-- Near-miss immediately after the definition (Note 44): a chart drawn from a single success (n=1 compass) — "repeatedly" is the gate; one success = hypothesis, not chart (EN #110)
-- Worked example load-bearing: post #1 (a guess) vs post #5 (a default) — from the user's real content loop; hedged (one case, EN #110)
-- EN #111 killer-line counterexample: "ถามแล้วไม่ต้องถามอีก" scoped by "ตราบใดที่เงื่อนไขไม่เปลี่ยน" — the hedge is IN the body
-- Closer = standalone post (no series compilation): redefinition + night question, no protocol (Note 45)
-- Register: พร for the story / เรา for universal claims / คุณ 0 / คับ 0 / curly quotes for quoted lines / > blockquotes for questions / "." beats
-Candidate hooks (Note 39, for the critique round):
-A (used): ตราบใดที่ยังต้องเลือกถนนเส้นเดิมซ้ำทุกวัน — เส้นทางนี้ยังไม่มีแผนที่
-B: 3 เดือน 10 คำถาม — ทำไมแผนที่ของระบบคุณยังเหมือนวันแรก
-C: เส้นทางที่สั้น ปลอดภัย และถูกที่สุด — คือเส้นที่คุณหยุดเลือกใหม่แล้ว
-Cross-ref candidates (header only): Routine as compiled default (2026-09-23) / Load-or-Noise (2026-09-27) / boss External Architecture (2026-09-25)
+Source (verified 2026-10-01, primary PDF): Claude C. Hopkins, Scientific Advertising (1923) — "The Science of Advertising" section (s3.amazonaws.com/Commonsense/ScientificAdvertising.pdf, cross-checked 2nd mirror). Mechanism passage: keyed advertising / traced returns / coupons — "When one method invariably proves best, that method becomes a fixed principle."
+Rewrite v2 (2026-10-01) — implements pair #30 Benz-DNA critique (archive: web-archive/20261001-charted-course-benz-dna-critique.md):
+- CUT (zero-count): "วันที่ดี ใครๆ ก็เดิน..." + หัววันแย่ทั้งหัว (critique 2026-09-25 ตัดไว้แล้ว) / "10 ตัว" + "3 เดือน" (false precision) / two-fork ยืมบรรทัด #15 ("debate ใหม่ทุกวัน") และ #20 ("แรงจูงใจทุกเช้า") / H3 เดิมที่โคลน closer
+- PROMOTED spine: coupon/keyed-returns mechanism → หัวใหม่ "กระดาษคำตอบที่กลับมาเอง" (Hopkins มีกระดาษวาดแผนที่ / ระบบเขียนวัด "เหตุผลที่เขียน" ไม่ได้)
+- Kept verbatim (critic keep-list): "หนึ่งความสำเร็จ = สมมติฐาน / ซ้ำจนยืนได้ = แผนที่" + "เข็มทิศที่ดูจริง แต่ชี้ผิด" + H1 (candidate A) + EN compass quote + worked example โพสต์แรก vs โพสต์ที่ห้า
+- Closer = critic's forced question + "ระบบที่ดี ไม่ได้เก่งทุกวัน" เหลือที่เดียวท้ายบท (เดิมซ้ำ ×2 ใน subtitle)
+- H3 ใหม่ = non-summarizing definition
+Register target: พร (story) / เรา (universal) / คุณ 0 / คับ 0
+Cross-ref candidates (header only): Routine as compiled default (2026-09-23) / pair #15 Decision-Default (2026-09-23)
 -->
-
 # ตราบใดที่ยังต้องเลือกถนนเส้นเดิมซ้ำทุกวัน — เส้นทางนี้ยังไม่มีแผนที่
 
-### ระบบที่ดี ไม่ได้เก่งทุกวัน — มันคือแผนที่ที่ถูกวาดไว้แล้ว โดยคำถามที่ตอบแล้ว ไม่ต้องถามอีก
+### ระบบไม่ได้เริ่มจากคำตอบที่ดีที่สุด — มันเริ่มจากคำถามที่หยุดถูกถาม
 
 .
 
@@ -36,9 +27,9 @@ Cross-ref candidates (header only): Routine as compiled default (2026-09-23) / L
 
 .
 
-ทำมา 3 เดือนแล้ว
+คำถามไม่กี่ตัว
 
-คำถามมีอยู่แค่ 10 ตัว
+วนกลับมาทุกวัน
 
 แต่เราเลือกใหม่ทุกครั้ง
 
@@ -160,45 +151,31 @@ Claude Hopkins เขียนไว้ในหนังสือเรื่�
 
 .
 
-# เส้นทางที่สั้น ปลอดภัย และถูกที่สุด
+# กระดาษคำตอบที่กลับมาเอง
 
-เส้นทางที่สั้นที่สุด ไม่ใช่เส้นที่อัจฉริยะค้นพบ
+Hopkins ไม่ได้วาดแผนที่ด้วยความเชื่อ
 
-มันคือเส้นที่เหลืออยู่ หลังคำถามหยุดถูกถาม
+โฆษณาของเขามีคูปอง — กระดาษคำตอบที่กลับมาเอง
 
-.
-
-เส้นทางที่ปลอดภัยที่สุด ไม่ใช่เส้นที่ไม่มีพลาด
-
-มันคือเส้นที่พลาดแล้วถูกจดไว้ ไม่ต้องตกหลุมเดิมซ้ำ
+เส้นไหนไม่มีกระดาษกลับมา เส้นนั้นถูกลบทิ้ง
 
 .
 
-เส้นทางที่ถูกที่สุด ไม่ใช่เส้นที่จ่ายน้อยสุด
+ระบบเขียนของพร ก็มีตัวเลขกลับมา
 
-มันคือเส้นที่หยุดจ่ายค่า "เลือกใหม่" ทุกวันแล้ว
-
-.
+ยอดเข้าถึง ยอดวิว คนกดถูกใจ
 
 .
 
-# แผนที่ถูกทดสอบในวันที่ไม่อยากคิด
+แต่ตัวเลขพวกนี้บอกแค่ "ผล"
 
-วันที่ดี ใครๆ ก็เดินเส้นทางที่มีแผนที่ได้
-
-.
-
-วันที่ทดสอบแผนที่จริงๆ คือวันที่แย่
+ไม่มีใบไหนบอกว่า "เขียนเพราะอะไร"
 
 .
 
-> "วันที่แย่สุดของสัปดาห์ — ยังต้องเลือกเส้นทางใหม่ไหม หรือมันอยู่ตรงนั้นแล้ว?"
+แผนที่ของระบบเขียนมีอยู่จริง — โพสต์ที่ห้าพิสูจน์ให้เห็นแล้ว
 
-.
-
-ถ้ายังต้องเลือกใหม่
-
-เส้นทางนี้ยังไม่มีแผนที่
+แต่ยังไม่มีกระดาษชิ้นไหน รับรองว่าเส้นทางนี้วาดถูก
 
 .
 
@@ -206,27 +183,17 @@ Claude Hopkins เขียนไว้ในหนังสือเรื่�
 
 # เส้นทางที่ยังรอการวาด
 
-ถ้าข้างบนคือเวอร์ชันโฆษณา
-
-เวอร์ชันชีวิตคือคำถามเดียวกัน
+> "ถ้าระบบเขียนอยากมีแผนที่แบบ Hopkins — อะไรของพร ที่หักล้างไม่ได้ เหมือนคูปองที่ไม่กลับมา?"
 
 .
 
-> "คำถามไหนที่คุณยังถามซ้ำทุกวัน ทั้งที่คำตอบมันกลับมาตั้งนานแล้ว?"
+ยังตอบไม่ได้
 
 .
 
-มันอาจเป็น routine ที่ยังรอแรงจูงใจทุกเช้า
+แต่คำถามบางตัว อย่าง "มุมไหน เปิดยังไง"
 
-มันอาจเป็นการตัดสินใจที่ต้องเปิด debate ใหม่ทุกวัน
-
-.
-
-แผนที่ที่วาดแล้ว มีเงื่อนไข
-
-ตราบใดที่เงื่อนไขไม่เปลี่ยน — คำตอบไม่ต้องถามใหม่
-
-ถ้าเงื่อนไขเปลี่ยน — วาดแผนที่ใหม่ได้เลย
+หยุดถูกถามได้แล้ว
 
 .
 
