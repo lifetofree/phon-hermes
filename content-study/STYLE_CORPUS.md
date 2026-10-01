@@ -1007,3 +1007,10 @@ PROMOTE: coupon/keyed-returns → หัวใหม่ **"กระดาษค
 Closer ใหม่ = forced question ของ critic + "ยังตอบไม่ได้" (anti-proof register ตาม EN #115) — คำถามจบเล็กกว่าคำถามเปิด.
 Notion: หน้าเดิม PATCHED in place (Status→rewritten, 95 blocks, markers 14/14, CUT survivors 0, read-back ครบ). PITFALL ใหม่: page id จาก URL (32-hex ไร้ dash) ต้อง convert เป็น UUID ด้วยโปรแกรม — พิมพ์ dash เองผิดตำแหน่ง = 400 invalid uuid (EN 151).
 Evolution Notes 148–151 folded to skill.
+
+
+### 2026-10-01 pair #31 PRE-REWRITE — Benz-DNA critique r2 (บน v2 ของ charted-course) — analyze-only
+
+User ส่ง critique จาก editor persona ภายนอก (ChatGPT) บน v2 — archive `web-archive/20261001-charted-course-benz-dna-critique-2.md` (verbatim, citation markers คงเดิม). Draft + Notion UNTOUCHED. Quote-verify: 9/11 verbatim; 2 จุดเพี้ยน — (a) critic quote "ถูกรับและจดไว้" แท้จริงบทเขียน "ถูกรักรับและจดไว้" (ตัด 'รัก' หาย — cosmetic), (b) critic quote "อาจจะกลายเป็น default" แท้จริงบท assert ตรง ๆ ไม่มี hedge — critic เติมความนุ่มให้ตัวเองก่อนวิจารณ์ (คำวิจารณ์ยังยืน: บท assert ไม่มี evidence)
+
+Critic core: v2 กำลังปน 2 การใช้ Hopkins — เปิดคำถามใหม่ vs รับรองคำตอบเดิม. แกนที่เก็บ = "อะไรให้สิทธิ์ Decision กลายเป็น Default?" → คำตอบ Hopkins = compare + trace + repeat จนสม่ำเสมอ (ไม่ใช่ repeat เปล่า ๆ). CUT ที่ชี้: bullet 1-2 ของ section 3 (เป็น interpretation แต่เขียนเหมือนของ Hopkins — ต้องแยก Source/Interpretation), หัว worked example "โพสต์ที่คิดนานที่สุด" (ไม่มี log เวลา — Repeat×5 ≠ Default), ประโยค "โพสต์ที่ห้าพิสูจน์ให้เห็นแล้ว" (grant สถานะพิสูจน์แล้วเร็วเกิน — pattern เดียวกับ pair #29), ending "หยุดถูกถามได้แล้ว" (ขัดตัวบทเอง — ยังไม่มี repeated evidence). Coupon ของ Content = กิ่ง (Measurement Problem ไม่ใช่ Default Problem — park ไว้โพสต์หน้า, อย่า Link Indicator ในบทนี้). Title เสนอใหม่: "คำถามเดิมถูกถามทุกโพสต์ — เมื่อไหร่มันควรกลายเป็น Default?" หรือ "แผนที่ไม่ได้เกิดจากการเดินผ่านครั้งเดียว". Forced question: "พรเอา Hopkins มาเปิดคำถามใหม่ — หรือมารับรองคำตอบที่มีอยู่แล้ว?"
