@@ -1,0 +1,23 @@
+# Orca (stablyai/orca) — verified research (2026-09-17)
+
+Long-form tool review drafted: `content-study/posts/20260917-cnt-orca-ade-parallel-coding-agents.md` (1,310 words, push e3c9305). Notion draft page `3dedf8d8-8d8c-81eb-86e0-cac15b2be324`.
+
+## Disambiguation
+- "Orca (รวมงานของ Coding Agent ไว้ในที่เดียว)" = **github.com/stablyai/orca** / **onorca.dev** — "ADE for working with a fleet of parallel coding agents".
+- Lookalikes: `sugi64/orca-ai-orchestrator` (smaller, similar pitch) and `GodCC6/orca` (fork). If a future brief says Orca again, check stars/activity first — stablyai is the one with 70k stars.
+
+## Verified facts (2026-09-17, primary)
+- GitHub API: **70,672 stars**, 4,627 forks, **6,195 open issues**, MIT, created 2026-03-17, pushed 2026-09-17, homepage onOrca.dev, topics include ade/agent-ide/parallel-agents/worktrees/ghostty/yc-backed.
+- Releases: **daily ship cadence** — v1.4.205 (2026-09-17), v1.4.204 (09-16), v1.4.203 (09-15); 21 assets each.
+- README: "The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place." Features: Parallel Worktrees (fan one prompt across five agents, compare, merge winner), Ghostty-class terminal splits (WebGL, scrollback survives restarts), Design Mode (click UI element in real Chromium → HTML+CSS+screenshot into agent prompt), GitHub & Linear (+ Jira) native, Annotate AI Diffs (comment on diff line → back to agent), SSH Worktrees (remote box, auto-reconnect, port forwarding), Orca CLI (`orca worktree create --agent ... --prompt ... --json`, `worktree ps`, `terminal wait --for tui-idle`), account switcher + usage/rate-limit tracking, Computer Use, notifications/unread, Quick Open, session restore + agent hibernation, Monaco editor + autosave, drag files/images into prompt. Install: `brew install --cask stablyai/orca/orca`, AUR `stably-orca-bin`, dmg/exe/AppImage; mobile iOS App Store (id6766130217) + Android APK 0.0.48 (no Play Store) + TestFlight.
+- Supported agents: "if it runs in a terminal, it runs in Orca" — Claude Code, Codex, Grok, Cursor, GitHub Copilot, OpenCode, MiMo Code, Amp, OpenClaude, Antigravity, Pi, oh-my-pi, **Hermes Agent**, Devin, Goose, Auggie, Autohand Code, Charm, Cline, Codebuff, Command Code, Continue, Droid, Kilocode, Kimi, Kiro, Mistral Vibe, Qwen Code, Rovo Dev, + any CLI agent.
+- docs/what-is-orca: desktop IDE for multiple AI coding agents side by side; "every task gets its own git worktree, its own agent terminal, and its own browser tab"; for people who "already write code for a living... assumes you read diffs, care about commits"; "If you're looking for a no-code tool, Orca is not that." NOT: a model (BYO subscription), a git replacement (real git worktrees), a hosted VPS product.
+- docs/ways-to-run: 4 modes — Local / SSH target / Remote Orca Server (`orca serve` headless, mobile reconnect, agents outlive laptop) / Cloud VM per-workspace (BYO provider). "Orca does not sell managed VPS hosting."
+- docs/mobile (BETA): read-mostly — status (working/done/waiting on input), scrollback, reply (text/photo/voice dictation), sleep worktree, source control review + commit from phone, account switch + usage, Quick Commands, workspace creation. Desktop = source of truth.
+- docs/telemetry: anonymous random local ID only; **never** sends file contents, prompts, agent/terminal output, repo names, branch names, URLs, paths, commit messages, IP; opt out `DO_NOT_TRACK=1` or `ORCA_TELEMETRY_DISABLED=1`; no account system.
+- Enterprise page: SOC 2 (AICPA) **readiness**, self-hostable, "no model in the middle" (Orca never inspects/stores prompts/code), org-level agent restrictions, contact-based.
+- Secondary: rickhigh.substack.com ADE essay — Stably AI = ~4-person SF team, YC-backed, TypeScript/Electron; IDE vs ADE framing (human-produces vs agent-produces; unit of attention = task attempt); "An ADE is bounded by how many diffs you can review"; "100x builders" / "10-100 agents at once" = company framing, NOT measured. volanea.com review: worktree isolation needs explicit **rendezvous strategy** for agent-to-agent context sharing (GitHub first-time-user issue); parallelism cuts time-to-first-result, NOT time-to-merged-result; review capacity is the real ceiling.
+
+## Draft conventions used
+- Long-form tool review (llama.cpp draft pattern): numbered ## sections, TL;DR-ish hook, features list, Pros ✅ / Cons ❌, comparison table, เหมาะกับใคร/ไม่เหมาะ, Pricing, มุมของ Duck OS + named protocol (FLEET-01: fleet --fanout / --diff / --merge), สรุปแบบวิศวกรเป็ด closer + sign-off + hashtags.
+- Codepoint scan caught 4 CJK leaks (相关/在意) + Thai typos (คร์ก, b_lock) in this draft — rescan after every fix.

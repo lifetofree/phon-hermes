@@ -1,0 +1,16 @@
+# Jev (TypeSafe System One) — verified research (2026-09-20)
+
+Disambiguation: "Jev" matched 4 distinct entities (TypeSafe model / Jevons paradox / rapper jev. / FaZe Jev) — user confirmed TypeSafe via clarify. Do NOT conflate the model name with the paradox it references.
+
+## Verified facts (fetched live 2026-09-20)
+- Sources: TypeSafe launch post 2026-09-15 (typesafe.ai/blog/introducing-system-one-models-and-jev) + LangChain guide (building-a-harness-with-jev) + Anthony Maio Substack 2026-09-16 + DataCamp 2026-09-16. All secondary coverage is vendor-reported; TypeSafe self-discloses eval bias (own-team workflows, Astra+Fable reference answers). No independent benchmark yet.
+- Naming correction (media got it wrong): CLASS name = Kahneman (System 1, Thinking Fast and Slow); MODEL name = Jevons (William Stanley Jevons, Jevons Paradox 1865 — efficiency gains raise total resource consumption). TypeSafe FAQ: machine intelligence expected to follow "a similar path to coal".
+- Founder: Diogo Almeida (ex-OpenAI; equal-contribution primary author of InstructGPT, GPT-4 contributor — NOT literally "co-inventor of ChatGPT" as company hype material says; Maio's phrasing is the safe one).
+- Architecture: new architecture + parallel sampler (all outputs in ONE query, not autoregressive) + RLCD (Reinforcement Learning for Calibrated Decisions — optimizes probabilities against outcomes vs RLHF human preference / RLVR verifiable rewards).
+- API: state + typed questions (Choice / Score / Noul); multiple questions per state in one request, near-zero added latency.
+- Numbers: $0.042/1M input tokens, output FREE ("too cheap to meter"); latency 70–500ms vs frontier 3–329s; ~$0.0004/case. Workflow evals (4 workflows): Jev 67.8% / $0.0004 / 0.4s; GPT-5.6 Terra 67.9% / $0.0304 / 10.1s; GPT-5.6 Sol 74.1% / $0.0836 / 23.3s; Claude Opus 5 73.1% / $0.1761 / 37.8s. Invoice = widest gap (61.8% vs Sol 79.1%). Structured output error rates: luna/terra 0.58%, Opus 5 5.73%, Haiku 4.5 45.5%; tool-call error Sol 17.0%. 50M-row review scoring ≈ $20. Doom demo ~10 q/s ≈ $7/hr. Cardinality cap 255 (2-stage above).
+- Caveats to carry into any follow-up: "can't hallucinate" = output shape constrained (no type errors), NOT judgment constrained — valid answer can be wrong; calibration is population-level and drifts on distribution shift; no rationale output (audit problem); schema needs "unknown/none-of-above" escape routes; early access + waitlist, pricing sustainability unproven.
+- Key quotes: "Think of Jev as a frontier-intelligence function call" (TypeSafe); "The application needs a decision. The model produces tokens that represent one, and the application has to trust the representation." / "The model supplies the semantic judgment and does not own the policy." (Maio); "If a model can do a task 95% of the time but doesn't say when it's in the 5%, it can't automate that task." (TypeSafe).
+
+## Draft status
+- Long form + viral design: content-study/posts/20260920-cnt-jev-system-one-string-tax.md (2,498 wc-words, CALIB-01 protocol, 4-hook-hormone header mapping). Notion page 3e1df8d8-8d8c-8143-b23d-e6bc441671f6 (Content Drafts, Status: draft). Reuse this file + notes for a short-version / platform-paths follow-up.
