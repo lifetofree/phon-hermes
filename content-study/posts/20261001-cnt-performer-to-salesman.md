@@ -1,120 +1,119 @@
 <!--
 ContentID: 20261001-CNT-PERFORMER-TO-SALESMAN (placeholder)
-Status: draft
+Status: v2 re-spine (2026-10-01) — user decision: "แบบคง binary ไว้ แล้ว rewrite เลย"
 Type: CURRENT FORM (system/mindset, single-idea, post-#17 synthesis)
 Brief (user, 2026-10-01): "Stop being a Performer, Start being a Salesman — หลายคนตกหลุมพรางอยากให้คนชมว่า 'เขียนดีจัง' 'รูปสวยจัง' จนลืมบอกว่า 'ซื้อเถอะ เพราะมันช่วยคุณได้แบบนี้'. เสียงปรบมือ (Applause) กินไม่ได้ แต่ยอดขาย (Sales) เลี้ยงชีวิต"
-Standalone post — NOT the loop/asset thread, NOT the WorldHQ/Rented-Land post (different decision axis: this = what the output is FOR, WorldHQ = WHERE you build).
-Register target: พร (story) / เรา (universal) / คุณ 0 in body (คุณ lives only in the title hook) / คับ 0 / ผม 0
-Draft-time gates run:
-- (a) re-skin check: NOT a re-mapping of WorldHQ "Self-Invention vs Self-Promotion" — that decision = where you build; this decision = what the output sells by. Adds a new DECISION (re-aim the closing line from applause to benefit), not a 1:1 re-map. PASS.
-- (b) thesis-stack: the "why humans crave applause = fast reward" psychology is a NEW thesis → parked to ONE hedged line (no section, no mechanism claim).
-- (c) evidence ceiling: mindset brief, no book claim, no invented stats; worked example kept qualitative (one post, two closing lines = contrast, not evidence).
-- (d) killer-line counterexample (EN #111): "เสียงปรบมือกินไม่ได้" is FALSE for a pure entertainer (applause IS the product) → scoped in-body with the entertainment carve-out so the line holds only for anyone selling a thing / solving a problem.
-- (e) the scene (เฝ้ายอด + รอ "เขียนดีจัง") is the spine — end where the event ends, concept = closing question.
-Candidate hooks (for the critique round):
-  A (used): "ถ้างานดีของคุณขายไม่ได้ จนกว่าจะมีคนชม — คุณกำลัง Perform ไม่ใช่ Sell" (condition + Identity Lock-in label)
-  B: "เสียงปรบมือดังขึ้น — ยอดขายไม่ขยับ — งานคุณยังไม่ได้ขาย" (contrast stat-line feel)
-  C: "คุณไม่ได้เขียนเพราะดี — คุณเขียนเพราะอยากให้ชม" (confession hook)
-SSOT anchors used UNLABELED (verify, keep mapping here only):
-- Anti-Hype ("ถ้าอะไรเสียงดัง = ผิด" / ห้าม Optimize เพื่อความดัง) — Duck_OS_Instruction.md L17/L30, Main_Data_for_UDO.md
-- Asset over Activity — Duck_OS_Instruction.md L20
-- Quiet Power — Duck_OS_Instruction.md L8/L16
-- Business Engine Sales/Traffic ("ดึงความสนใจและเปลี่ยนเป็นยอดซื้อ") — Main_Data_for_UDO.md L177, OPB_Core_System.md L184/L238
+Re-spine logic (self-driven, pre-Benz): binary Perform/Sell MOVED from title/premise to the END as the earned payoff — body argues proof-location first (proof ในตัวงาน vs proof ในปากคนอื่น), the original hook line returns verbatim as the reveal blockquote.
+v1 CUT list (EN #107 — retired architecture is the cut list; verify 0 in body):
+- title carrying the binary ("คุณกำลัง Perform ไม่ใช่ Sell" as H1) → dies (lives ONLY in reveal blockquote)
+- H3 top-defs "Perform = ... / Sell = ..." → dies (defs move to reveal)
+- "คน Perform / คน Sell" person-labels → dies (diagnose the WORK's condition, not the person's intent)
+- "# ทำไมเราถึงติดกับดัก Perform" reward-speed section → dies (parked to ONE hedged line)
+- EN pull-quote "Stop performing. Start selling..." → dies (replaced by the user's own line as payoff)
+Draft-time gates run (v2):
+- (a) re-skin check: NOT WorldHQ "Self-Invention vs Self-Promotion" (that = WHERE you build; this = what the output sells by). PASS.
+- (b) thesis-stack: applause-craving/reward-speed psychology = ONE hedged line ("บางครั้ง...โดยไม่ได้ตั้งใจ"), no section. PASS.
+- (c) evidence ceiling: qualitative worked example only; "ชมมาเร็วกว่ายอด" hedged บางครั้ง, no invented numbers. PASS.
+- (d) killer-line counterexamples (EN #111): "ปรบมือกินไม่ได้" false for entertainers → carve-out section stays; "proof จากปากคนอื่น = ผิด" false (testimonial sells) → claim narrowed to "proof เดียวที่มี = คำชมฝีมือ". Both scoped in-body.
+- (e) scene spine: เฝ้ายอด scene opens; concept = closing question. PASS.
+- (f) นิยาม "หนึ่งคำชม" (EN #145 gate): body splits ชมฝีมือ vs เล่าผลลัพธ์ before using the word. PASS.
+Register: พร (story) / เรา (universal) / คุณ ONLY in the reveal blockquote (user's own line, verbatim ×2) / คับ 0 / ผม 0 / Perform+Sell words appear FIRST TIME in the reveal section
+SSOT anchors used UNLABELED (verified 2026-10-01, mapping here only):
+- Anti-Hype ("ไม่ใช่ Optimize Engagement เพื่อยอดอย่างเดียว") — Main_Data_for_UDO.md L121
+- Anti-Hype system application ("ห้ามสร้างระบบที่ต้องใช้ท่าพิเศษ/บิลด์อารมณ์ก่อนทำ") — Main_Data_for_UDO.md L261
+- Quiet Power ("Asset-first, Effort-less, Quiet Power") — OPB_Core_System.md L4
+- Economy of Intelligence (แทน "Sell First, Build Last") — Main_Data_for_UDO.md L180-181
+- Forbidden Words: Emotional Selling ขยี้ปม — Main_Data_for_UDO.md L320
 Cross-ref candidates (header only, NOT in body): WorldHQ Rented Land (2026-09-22) / charted-course (2026-10-01)
+Notion page: 3ecdf8d8-8d8c-8193-9e02-f602ccef94a9 (PATCH same page, Status → rewritten)
 -->
-# ถ้างานดีของคุณขายไม่ได้ จนกว่าจะมีคนชม — คุณกำลัง Perform ไม่ใช่ Sell
+# งานดีแต่ขายไม่ออก — เพราะยังไม่มีคนชม หรือเพราะงานยังพิสูจน์ตัวเองไม่ได้?
 
-### Perform = ของที่รอเสียงปรบมือ / Sell = ของที่ขายด้วยประโยชน์
-
-.
-
-เคยมีโพสต์ที่พรนั่งเฝ้ายอดมั้ย
-
-เขียนทั้งคืน ตัดรูปทั้งคืน
-
-กด publish
-
-แล้วทุก 5 นาทีก็เลื่อนกลับมาดู
+### Proof ที่อยู่ในตัวงาน กับ Proof ที่ต้องรอจากปากคนอื่น
 
 .
 
-คนกดถูกใจขึ้นช้าๆ
+พรเคยนั่งเฝ้ายอดหลังกด publish
 
-แต่มีคำหนึ่งที่พรอยากเห็นมากกว่ายอด
+เขียนทั้งคืน แต่งรูปทั้งคืน
+
+แล้วเลื่อนกลับมาดูทุก 5 นาที
+
+.
+
+ยอดขึ้นช้า ๆ
+
+แต่สิ่งที่พรรอ ไม่ใช่ยอด
 
 คือคำว่า "เขียนดีจัง"
 
 .
 
-"รูปสวยจัง"
-
-"เก่งมาก"
-
-.
-
 พอคำนั้นไม่มา
 
-ยอดก็ดูไม่พอ
+โพสต์ที่เพิ่งเขียนเสร็จ กลายเป็นของที่ยังไม่ผ่าน
 
 .
 
-นี่คือจุดที่พรเคยติดอยู่
+ตอนนั้นพรวินิจฉัยว่า "งานดี แต่คนยังไม่เห็น"
 
-ไม่ใช่เพราะงานไม่ดี
+วันนี้กลับมาอ่านใหม่ — คำวินิจฉัยผิด
 
-แต่เพราะของชิ้นนี้ — รอเสียงปรบมือถึงจะขายได้
+งานดีเป็นเรื่องจริง
 
-.
-
-.
-
-# เสียงปรบมือ กับ ยอดขาย — คนละหน่วยกัน
-
-คำถามที่โพสต์นี้จะแยกให้
-
-> **งานของเรากำลัง Perform — หรือกำลัง Sell?**
+แต่โพสต์นั้นไม่ได้บอกใครว่า มันช่วยอะไรได้แบบไหน
 
 .
 
-**คน Perform** — ทำงานแล้วรอคำชม
-ของดีในสายตาตัวเอง แต่ต้องอาศัยเสียงปรบมือถึงจะรู้สึกว่ามีค่า
-ตัวเลขที่วัด = likes / comments / "เก่งมาก"
+คนที่เจอมันจึงเหลือทางเดียว
 
-.
-
-**คน Sell** — ทำงานแล้วบอกประโยชน์
-ของดี + คำตอบว่า "มันช่วยคนได้แบบไหน"
-ตัวเลขที่วัด = คนใช้ / คนซื้อ / คนนำไปทำจริง
-
-.
-
-เสียงปรบมือกินไม่ได้
-
-ยอดขายเลี้ยงชีวิต
+ถ้าจะเชื่อว่ามันมีค่า — ต้องรอใครสักคนพูดก่อน
 
 .
 
 .
 
-# ทำไมเราถึงติดกับดัก Perform
+# คำชม 2 แบบ — ขายได้แค่แบบเดียว
 
-เพราะเสียงปรบมือมาเร็วกว่ายอดขาย
-
-เขียนจบ ชมมาใน 10 นาที
-
-แต่คนจะ "ใช้" หรือ "ซื้อ" — มันช้ากว่า
-
-ต้องเห็นผล ต้องลอง ต้องเชื่อ
+ก่อนจะโทษคำว่า "ชม" — ต้องแยกก่อนว่ามันมี 2 แบบ
 
 .
 
-สมองเราจึงเลือก reward ที่เร็ว
+แบบแรก — ชมคนทำ
 
-เราจึงเฝ้าจอมากกว่าเฝ้าผล
+"เก่งมาก" "เขียนดีจัง" "รูปสวยจัง"
+
+ประโยคพวกนี้พูดถึงผู้เขียน
+
+ไม่มีข้อมูลแม้แต่บรรทัดเดียวว่า ของช่วยใครได้อย่างไร
 
 .
 
-(ตรงนี้พรก็เคยเหมือนกัน — พรก็ไม่ต่างจากคนส่วนใหญ่ ที่หลงรักเสียงปรบมือมากกว่าคนที่ใช้ของ)
+แบบที่สอง — เล่าผลลัพธ์
+
+"ลอง 11 นาทีก่อนนอน แล้วเช้ามางานลื่นขึ้น"
+
+ประโยคนี้พูดถึงของ
+
+และเป็นประเภทเดียวที่คนกำลังจะซื้อ ใช้ตัดสินใจได้
+
+.
+
+> **คำถามเดียวของโพสต์นี้: Proof ของงานชิ้นนี้อยู่ที่ไหน — ในตัวงาน หรือรออยู่ในปากคนอื่น?**
+
+.
+
+ถ้า proof อยู่ในตัวงาน
+
+ใครอ่านจบก็ตัดสินใจได้เอง ไม่ต้องรอเสียงจากไหน
+
+.
+
+ถ้า proof ต้องมาจากปากคนอื่น
+
+งานจบลงแล้ว แต่การขายยังไม่เริ่ม
+
+เรากำลังตั้งเงื่อนไขว่า ยอดขายต้องเกิดหลังเสียงชมเท่านั้น
 
 .
 
@@ -126,138 +125,117 @@ Cross-ref candidates (header only, NOT in body): WorldHQ Rented Land (2026-09-22
 
 .
 
-ปิดแบบ Perform:
+ปิดแบบแรก:
 
-> "เป็นยังไงบ้าง? ใครเคยทำแบบนี้บ้าง คอมเมนต์ให้หน่อย 555"
+> "เป็นยังไงบ้าง? ใครเคยทำแบบนี้บ้าง คอมเมนต์หน่อย 555"
 
-— ของดีแล้ว — แต่พรกำลังขอคำชม
+— ของดีอยู่แล้ว — แต่ประโยคปิดกำลังเรียกคำชม
 
 .
 
-ปิดแบบ Sell:
+ปิดแบบที่สอง:
 
 > "คืนนี้ลอง 11 นาทีก่อนนอน — ถ้าพรุ่งนี้งานลื่นขึ้น — นั่นคือของชิ้นนี้ทำงาน"
 
-— ของชิ้นเดียวกัน — แต่พรกำลังบอกว่ามันช่วยได้แบบไหน
+— ของชิ้นเดียวกัน — แต่ประโยคปิดส่ง proof ตามงานไปด้วย
 
 .
 
-ข้อสองไม่ได้ดีกว่าข้อหนึ่ง
+คนอ่านไม่ได้ขาด
 
-แต่ข้อสองขาย — เพราะมันตอบคำถามที่คนรับของถามจริงๆ
-
-.
+ของชิ้นเดียวกัน เปลี่ยนแค่ที่ที่ proof อยู่
 
 .
 
-# ความดังไม่ใช่ข้อผิดพลาด — ขายด้วยคำชมเท่านั้นคือข้อผิดพลาด
-
-มี honesty ตรงนี้
-
-.
-
-ถ้างานของเราคือความบันเทิง — เสียงปรบมือคือสินค้า
-
-คนร้องเพลง คนทำมุก คนเต้น — การขอคนชม = การขายของ
-
-นั่นถูกต้องตามระบบ
-
-.
-
-แต่ถ้างานของเรา = สินค้า บริการ หรือทางออกของปัญหา
-
-แล้วเรายังขายด้วย "เขียนดีจัง"
-
-— นั่นแหละคือการ Perform ที่ติดค้าง
-
-.
-
-Anti-Hype ไม่ได้บอกว่าห้ามดัง
-
-มันบอกว่า — **ดังแล้วต้องขายได้จริง**
-
-ถ้าเสียงดังมาแต่ของไม่ขาย = ดังผิดที่
+(คำชมมาก่อนยอดเสมอ เพราะมาเร็วกว่า — บางครั้งเราจึงเผลอออกแบบงานไปทางรับคำชม โดยไม่ได้ตั้งใจ)
 
 .
 
 .
 
-# Sell โดยไม่ตะโกน
+# ขอบเขตที่ต้องยอมรับ
 
-คนมักกลัวว่า Sell = ขายของแรง = เสียงดัง = Hype
-
-ไม่ใช่
+เสียงปรบมือไม่ใช่ศัตรู
 
 .
 
-Sell ที่ดี = **Quiet Power**
+ถ้างานคือความบันเทิง — คำชมคือสินค้าตัวจริง
 
-— บอกประโยชน์ตรงๆ โดยไม่ขยี้
-— ไม่ขยี้ปมเชิงขาย
+คนทำมุก คนร้องเพลง ขายได้จากเสียงปรบมือโดยตรง
+
+ระบบถูกต้อง ไม่มีอะไรต้องแก้
+
+.
+
+และ testimonial ก็ไม่ใช่ปัญหา
+
+คนอื่นเล่าผลลัพธ์ของของเรา — นั่นคือ proof ประเภทที่ขายได้จริง
+
+.
+
+ปัญหาเดียวที่โพสต์นี้ชี้
+
+คืองานที่ proof เดียวที่มี = คำชมฝีมือ
+
+ไม่มีผลลัพธ์ในตัวงานให้ใครพิสูจน์ได้เลย
+
+— ทุกยอดขายจึงต้องยืมความเชื่อมาจากปากคนอื่นทั้งหมด
+
+.
+
+.
+
+# บอกประโยชน์ ไม่ใช่ตะโกน
+
+บางคนได้ยินว่า "ต้องบอกประโยชน์" แล้วนึกถึง Hype
+
+.
+
+ที่ระบบนี้หมายถึง
+
+— บอกประโยชน์ตรง ๆ โดยไม่ขยี้ปม
 — ไม่ขอร้อง
-— ให้ของพิสูจน์ตัวเอง
+— ให้งานพิสูจน์ตัวเองหลังปิดโพสต์
 
 .
 
-ขาย = ให้คนเห็นว่ามันช่วยเขาได้
+ดังไม่ผิด
 
-ไม่ใช่ = ให้คนชมว่าเราเก่ง
-
-.
+ดังแล้วของไม่มี proof ในตัวเอง — นั่นคือดังผิดที่
 
 .
 
-# คืนนี้ — ตรวจของชิ้นล่าสุด
+.
 
-ก่อนนอนคืนนี้
+# ตอนนี้แหละ — ชื่อของมัน
 
-หยิบโพสต์หรือของชิ้นล่าสุดที่ส่งออกไป
+งานที่ต้องรอคนชมก่อนถึงขายได้ ไม่ใช่กำลังขาย
 
-แล้วถามตัวเอง:
-
-> **ของชิ้นนี้ — ขายด้วยประโยชน์ หรือรอเสียงชม?**
+กำลังขอ applause มายืมแทน proof
 
 .
 
-ถ้าคำตอบคือ "รอเสียงชม"
+**Perform** = งานที่ proof อยู่ในปากคนอื่น
 
-— ไม่ต้องลบอะไร
-— แค่ชิ้นถัดไป — ปิดด้วยประโยคที่บอกประโยชน์
-— แล้วหยุดเฝ้ายอด
+**Sell** = งานที่ proof อยู่ในตัวงาน
 
 .
 
-เพราะระบบที่ดีไม่ได้วัดที่เสียงปรบมือ
-
-แต่วัดที่ **คนใช้ของเราแล้ว ชีวิตเขาดีขึ้น**
+> **ถ้างานดีของคุณขายไม่ได้ จนกว่าจะมีคนชม — คุณกำลัง Perform ไม่ใช่ Sell**
 
 .
 
 # #สรุปแบบวิศวกรเป็ด
 
-**Perform** = ของที่รอเสียงปรบมือ
+ประโยคนี้คือโพสต์ทั้งโพสต์
 
-**Sell** = ของที่ขายด้วยประโยชน์
+เหลือแค่คำถามเดียว ตอนคืนนี้หยิบของชิ้นล่าสุดขึ้นมา:
 
-**เสียงปรบมือ** = reward ที่เร็ว แต่กินไม่ได้
+> **ของชิ้นนี้ — พิสูจน์ตัวเองได้ไหม ถ้าไม่มีใครชมเลย?**
 
-**ยอดขาย** = reward ที่ช้า แต่เลี้ยงระบบ
+ถ้าได้ — มันกำลัง Sell
 
-.
-
-> **Stop performing. Start selling the outcome, not the applause.**
-
-.
-
-คืนนี้ไม่ต้องถามว่า "มีคนชมมั้ย"
-
-ถามว่า:
-
-> **ของชิ้นล่าสุด — ช่วยใครได้จริง?**
-
-ถ้าตอบได้ — ของนั้นกำลัง Sell
-
-ถ้าตอบไม่ได้ — ยัง Perform อยู่
+ถ้าไม่ได้ — คำชมคือ proof เดียวที่มันมี
 
 .
 
