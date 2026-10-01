@@ -134,5 +134,7 @@ Weekly cron `weekly-wp-archive-sync` runs the sync half; run this procedure when
 
 ## File maintenance (this skill's own structure)
 
+- **Naming:** the assistant persona was renamed **KhaoKlong** (2026-10-01, was UDO) — SSOT docs/profile SOULs now say KhaoKlong; "UDO draft" mentions in pair history and archives are pre-rename PROVENANCE, keep as-is; filename `Main_Data_for_UDO.md` and profile slug `udo` are plumbing, unchanged. Model-agnostic content framework lives at `~/hermes-agent/duck-os/Content_Thinking_Playbook.md` (other models can draft from it; this skill stays the on-box implementation detail).
+
 - Keep SKILL.md under the 100k-char skill limit by holding ONLY standing rules here; provenance and historical form specs live in `references/` (pair-history, formats-history). The limit is checked on the FINAL patch result, so a batch that crosses it rolls back entirely — move bulk to a references/ file first, then patch.
 - After any structural edit to this file (segment moves, section reordering), re-run BOTH checks before finishing: (a) a junction check — each kept segment ends where the next begins, no duplicated headings (segment surgery has produced both); (b) a keyword battery over the must-survive rules (FORM SELECTOR, CURRENT FORM atom list, Benz workflow, codepoint-scan step, Notion read-back pitfalls, re-spine rule) — missing keywords mean a segment was dropped, not that the rule changed.

@@ -1,12 +1,12 @@
-# UDO Project Structure — Scripts & Knowledge Workflow
+# KhaoKlong Project Structure — Scripts & Knowledge Workflow
 
 ## สรุป
-สคริปต์ที่ UDO ใช้ถูกรวมไว้ที่ `~/hermes-agent/scripts/` แล้ว: `create_kb_page.py` คือสคริปต์หลักสำหรับสร้างหน้าใน Notion KB, `crud_operations.py` เป็น helper สำหรับ CRUD. กฎใหม่: ความรู้ทุกชิ้นต้อง save ทั้ง 2 ที่ — Notion KB และ folder ล็อกัล `~/hermes-agent/knowledge/`.
+สคริปต์ที่ KhaoKlong ใช้ถูกรวมไว้ที่ `~/hermes-agent/scripts/` แล้ว: `create_kb_page.py` คือสคริปต์หลักสำหรับสร้างหน้าใน Notion KB, `crud_operations.py` เป็น helper สำหรับ CRUD. กฎใหม่: ความรู้ทุกชิ้นต้อง save ทั้ง 2 ที่ — Notion KB และ folder ล็อกัล `~/hermes-agent/knowledge/`.
 
 ## โครงสร้างไฟล์ (as of 2026-08-27)
 | ไฟล์ | หน้าที่ |
 |---|---|
-| `~/hermes-agent/AGENT.md` | Persona + conventions ของ UDO (canonical, อยู่ root) |
+| `~/hermes-agent/AGENT.md` | Persona + conventions ของ KhaoKlong (canonical, อยู่ root) |
 | `~/hermes-agent/STATE.md` | สถานะ Notion ปัจจุบัน + recent activity |
 | `~/hermes-agent/.env` | `NOTION_TOKEN` (bot "Hermes-connection") — source ก่อนเรียก API เสมอ |
 | `~/hermes-agent/scripts/create_kb_page.py` | สคริปต์หลักสร้างหน้า KB (helpers: `h2/h3/p/li`, `create_page()`) |

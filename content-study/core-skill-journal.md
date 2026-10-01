@@ -23,7 +23,7 @@
 
 **โจทย์เดือนหน้า (Benz):** "พรสามารถปล่อยให้ Connection ที่ดีมากอันหนึ่ง 'ยังไม่กลายเป็นอะไร' ได้นานแค่ไหน จน Reality ให้สิทธิ์มัน Compile?" — เป้าหมาย: Framework ที่มีสิทธิ์อยู่ต่อ ไม่ใช่แค่สร้างเก่งขึ้น
 
-**สิ่งที่ UDO ทำกับ review นี้ (ตาม user directive "ส่วนไหนควร patch ทำเลย"):**
+**สิ่งที่ KhaoKlong ทำกับ review นี้ (ตาม user directive "ส่วนไหนควร patch ทำเลย"):**
 - PATCH เข้า skill content-pipeline (พร้อมใช้ มีหลักฐาน 1 เดือน): (1) คำถามลายเซ็น "สิ่งที่เห็นตอนแรกอธิบายระบบนี้หมดจริงหรือ?" เป็น draft-time gate ของ Observation content; (2) สถานะ Neuroscience = Input/Lens (ไม่ใช่ Differentiating) กำกับ neuroscience-claim discipline เดิม
 - เก็บเป็น evidence ยังไม่ patch: การเปลี่ยนชื่อ core skill / skill stack ใหม่ / trajectory model / โจทย์เดือนหน้า — รอ review รอบถัดไป
 
@@ -48,5 +48,5 @@
 - Product hypothesis ที่ยังไม่ product: DuckOS = Diagnostic/Design Layer (output = "เห็น OS ของตัวเอง" ไม่ใช่ "ได้ DuckOS กลับบ้าน") — ยังไม่ตั้งชื่อ ยังไม่ package; asset ที่ควรสร้าง = **Anonymized Case Library**
 - คำถามตั้งต้นของ 10 เคสถัดไป: "ถ้าห้ามใช้ DuckOS เป็นคำตอบล่วงหน้า — Law #1 ยังโผล่จาก Reality เองบ่อยอยู่ไหม?" + "หลัง Reframe แล้วเขา Design ระบบตัวเองต่อโดยพึ่งพรน้อยลงไหม?" (= evidence ว่า DuckOS Transfer ได้)
 
-**สิ่งที่ UDO ทำกับชุดนี้:** เก็บ verbatim 2 archives + index ×2 — ไม่ patch skill/SSOT (EVIDENCE ล้วน ตามกติกา) ยกเว้นบันทึก journal นี้
+**สิ่งที่ KhaoKlong ทำกับชุดนี้:** เก็บ verbatim 2 archives + index ×2 — ไม่ patch skill/SSOT (EVIDENCE ล้วน ตามกติกา) ยกเว้นบันทึก journal นี้
 
