@@ -981,3 +981,17 @@ Critique r3 core: thesis จริงของบท = "พรจับได้
 Benz's cross-post read: Content 1+2 เผย pattern "เห็น Pattern เก่ง → สร้าง Intervention เร็ว" — รอบนี้จับได้เอง = พัฒนาการ Core Skill สดๆ (ตรงกับ core-skill-journal entry เดือน ก.ย.).
 
 Evolution Notes 145–147 folded to skill (measurement-definition gate / end with a smaller question / undefined-metric cut).
+
+
+### 2026-10-01 pair #30 PRE-REWRITE — Benz-DNA critique ของ draft charted-course (Scientific Advertising × Duck OS) — analyze-only
+
+UDO draft `posts/20261001-cnt-charted-course-exact-science.md` (239 wc-w, 7 H1 + 1 H3, beats 38, bq 4, พร 2 / เรา 3 / คุณ 1 / คับ 0, protocols 0, codepoint CLEAN, Thai-Latin adjacency CLEAN) → agent-authored Benz-DNA critique (archive `web-archive/20261001-charted-course-benz-dna-critique.md`, quotes verified 14/14 vs draft + #15 + #20). Draft + Notion page `3ebdf8d8-8d8c-815caf6cce63bc2420a3` UNTOUCHED ตาม pre-rewrite flow (#17/#20 pattern).
+
+Critique findings (ทั้งหมด verify ด้วยโค้ด):
+1. **H3 subtitle โคลน closer** — "ระบบที่ดี ไม่ได้เก่งทุกวัน" ×2 (subtitle + บรรทัดปิด) = สรุปตัวเองก่อนอ่านจบ ไม่มีอะไรทำให้ประโยคหนักขึ้นระหว่างทาง
+2. **False precision** — "คำถามมีอยู่แค่ 10 ตัว" / "ทำมา 3 เดือนแล้ว" ไม่มีใบเดียวรองรับ ในบทที่ thesis = "วัดจริงจึงวาดแผนที่ได้" (ขัดตัวเอง)
+3. **Regression tell (สำคัญสุด)** — two-fork ท้ายบท "มันอาจเป็น routine ที่ยังรอแรงจูงใจทุกเช้า" = pre-rewrite ของ pair #20 ที่ critique 2026-09-25 สั่งตัด (Productivity-Machine trap) + "การตัดสินใจที่ต้องเปิด debate ใหม่ทุกวัน" = บรรทัด #15 publish แทบคำต่อคำ → ยืมของเก่ามาอุด two-fork = ถอยไปทำผิดแบบเดิมที่โดนจับมาแล้ว
+4. **"วันที่ดี ใครๆ ก็เดินเส้นทางที่มีแผนที่ได้"** — โดนตัดมาแล้วใน critique 2026-09-25 (กว้างเกิน = สำนวน) + หัว "แผนที่ถูกทดสอบในวันที่ไม่อยากคิด" = รีสกินของแกนวันแย่จาก save-state/default ทั้งหัว
+5. **ตัวเอกถูกซ่อน** — แกนที่โพสต์นี้มีและเก่ากว่าไม่มี = Hopkins วัดผลได้จริงด้วย keyed/coupon (mechanism ใน header ของ draft เอง) แต่ระบบเขียนวัด "เหตุผลที่เขียน" ด้วยตัวเลขไม่ได้ — ปัจจุบันแค่ bullet ที่ 2 ของ section 3
+
+เก็บ: คู่บรรทัด "หนึ่งความสำเร็จ = สมมติฐาน / ซ้ำจนยืนได้ = แผนที่" + "เข็มทิศที่ดูจริง แต่ชี้ผิด" + H1 (candidate A)
