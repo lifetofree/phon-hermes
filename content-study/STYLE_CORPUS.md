@@ -1039,3 +1039,20 @@ Critique implementation:
 - Closer = anti-proof ("พรยังไม่มีคำตอบ / ยังไม่อยากรีบสร้างคำตอบขึ้นมาแทนข้อมูล") + title-line echo ปิดท้าย
 
 Evolution Notes 156–158 → skill. Next กิ่ง (parked, user-approved): "Coupon ของระบบเขียนคืออะไร" = Measurement post โพสต์หน้า.
+
+
+### 2026-10-01 pair #32 PRE-REWRITE — Benz-DNA critique r1 ของ performer-to-salesman v2 (agent re-spine) — analyze-only
+
+Archive `web-archive/20261001-performer-to-salesman-benz-dna-critique.md` (verbatim). Draft v2 + Notion (3ecdf8d8-8d8c-8193-9e02-f602ccef94a9, Status rewritten) UNTOUCHED — รอคำสั่ง rewrite.
+**บริบทใหม่ของ corpus:** critique ครั้งแรกของ Benz ที่ยิง draft ที่ AGENT re-spine เอง (v2 = self-critique + คำสั่ง "แบบคง binary ไว้") — verdict: "มี Insight แต่ Compile เร็วและแรงกว่าหลักฐาน" โดยเฉพาะ Proof/Sell/Perform
+Quote drift 2 จุด (cosmetic, criticism ยืน — code-verified 10/12 verbatim): (1) คำถามกลางถูกย่อ "Proof อยู่ในตัวงาน หรืออยู่ในปากคนอื่น?" (draft จริง: "Proof ของงานชิ้นนี้อยู่ที่ไหน — ในตัวงาน หรือรออยู่ในปากคนอื่น?") (2) "มันช่วยใครได้และคนอ่านได้อะไรกลับไป" (draft: "มันช่วยอะไรได้แบบไหน")
+
+CUT list 8 ก้อน (รอ verify zero-count ตอน rewrite): binary เผยใน title ไม่ได้อีก (คราวนี้ถึงขั้นตัดจาก reveal ด้วย) / defs "Perform = ... / Sell = ..." / "ขายได้" ผูกกับชนิดข้อความ (คำชม 2 แบบ heading รวม) / "Proof อยู่ในตัวงาน" เป็น concept-carrying term / "ประโยคปิดส่ง proof ตามงานไปด้วย" / "งานดีเป็นเรื่องจริง" as fact / entitlement framing "การขายยังไม่เริ่ม" / reveal line เดิมเป็น payoff
+
+สิ่งที่ Benz ยืนยันว่า KEEP: เฝ้ายอด scene (Evidence จริง) / คำถาม "พรใช้คำชมเป็นหลักฐานว่างานมีค่าหรือเปล่า?" / 2 วิธีปิด as EXPERIMENT (ไม่ตัด — แค่เปลี่ยน conclusion)
+
+Bridge ที่ Benz ชี้ (2 ชั้น): (1) "อะไรให้สิทธิ์งานหนึ่งถูกเรียกว่า ดี?" = คำถามเดียวกับ pair #31 "อะไรให้สิทธิ์ Decision หนึ่งถูกเรียกว่า Stable?" ในชุดใหม่ — ถ้านิยาม "งานดี" ไม่ได้ "ทำไมงานดีขายไม่ได้" เริ่มจาก premise ที่ยังไม่ตรวจ (2) แกนเล็กที่สุกกว่า: "พรอาจกำลังใช้ Feedback คนละชนิด มาตอบคำถามเดียวกันหรือเปล่า?" — ต่อ Indicator content โดยธรรมชาติ แต่ห้ามเอา Indicator framework ลงบท ให้ pattern โผล่เอง
+
+Direction (menu ไม่ใช่ checklist): คำถามกลางใหม่ "คำชมที่พรได้รับ — จริงๆ แล้วมันกำลังพิสูจน์อะไร?" + split Reaction-evidence vs Outcome-report + 3 ห้าม (อย่าสรุป outcome=ขายได้ / อย่าสรุป reaction=Perform / อย่าสร้าง Proof-in-work framework) + คำถาม tail "พรเคยใช้คำชมเป็น Indicator ของอะไร — Quality, Usefulness, Trust หรือ Sellability?"
+
+สถานะ: pair #32 รอ rewrite (v3) — ครั้งแรกที่ rewrite target = draft ที่ agent เขียนเองทั้งรอบ (user สั่ง direction แต่ไม่ได้เขียนเอง)
