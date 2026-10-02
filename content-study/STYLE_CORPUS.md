@@ -1159,3 +1159,15 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - battery publish: พร 7 / เรา 0 / คุณ 0 / คับ 0 (full-พร); curly quotes; cross-branch = 0 ทั้งกิ่ง 1/2; codepoint+adjacency CLEAN
 - Notion: PATCH หน้าเดิม `3eddf8d8-8d8c-8174-9cdb-d1a9e3212a54` (Name = publish title, Status → `rewritten`, 61 blocks read-back: markers ครบ + dead-term survivors 0; URL เดิม https://app.notion.com/p/agent-3eddf8d88d8c81749cdbd1a9e3212a54)
 - Archive: web-archive/20261002-agent-wave-fomo-publish.md (verbatim) + critique r1 ที่ 20261002-agent-wave-fomo-benz-dna-critique.md
+
+### 2026-10-02 — pair #33 กิ่งสอง CLOSED: publish (CUT 2/2, working-label holds, 158 wc-w)
+- Publish: "Capability ใหม่ทำให้สิ่งที่เป็นไปได้เพิ่มขึ้นทันที — แต่ Capacity เพิ่มตามหรือเปล่า" (158 wc-w; chain: external draft → agent v2 → user v3 (UNSEEN — text ยังไม่เคยเก็บ มีแค่ใน critique quotes) → Benz r1 → publish)
+- **CUT 2/2 graded dead in code:** "ชั่วโมง+พลังงาน+ความสนใจ" (anatomy ของ Capacity) + "Automation เป็นเคสที่ Capacity พอ" (old-evidence reinterpretation — ไม่มี "20 นาที" หลงเหลือ) ✓
+- **Critic replacements verbatim 3 จุด:** "สิ่งที่ทำได้ เพิ่มขึ้นทันทีเมื่อ Capability ใหม่เปิดขึ้น / ดูเหมือนไม่ได้เพิ่มตามทันที" + "พรเห็น list ยาวขึ้นทันที / แต่ยังไม่เห็นว่า Capacity เพิ่มตามในจังหวะเดียวกัน" + ending "อะไรเพิ่มขึ้นจริง?" (open, ไม่ตั้ง candidate) ✓
+- **Working-label discipline holds:** Capacity ถูกใช้แต่ไม่มี anatomy; hypothesis status ชัด ("ยังไม่ใช่ข้อสรุป" + "ยังไม่เคยวัด" + "บางที...อาจโตเร็วกว่า")
+- **Owner's-call keeps (notes):** subtitle "Possible ≠ Capacity" (critic เสนอแทนด้วยรูปไม่ใช่-rule; title ถือคำถามไว้ = hypothesis-status รอดผ่านหน้าบท) + hashtag #FOMO (กิ่ง 1 ตัด, กิ่ง 2/3 เก็บ)
+- publish vs unseen-v3: วัดไม่ได้ (EN #13) — แต่ freeze/CUT list เป็น acceptance criteria ที่ version-independent → เกรดได้ครบด้วยวิธีนี้
+- battery: พร 11 / เรา 0 / คุณ 0 / คับ 0; 5 H1; codepoint+adjacency CLEAN; "ตามไม่ทัน" 2× (ending — lens ต่างจากกิ่ง 3 แต่ใกล้กันใน feed, จดไว้)
+- **Notion: สร้างหน้าใหม่ (filing ครั้งแรกของกิ่งสอง) `3eddf8d8-8d8c-8123-bf31-f8d02ecf3fac` Status: rewritten (publish โดยตรง), 75 blocks read-back ครบ + dead-term 0** https://app.notion.com/p/Capability-Capacity-3eddf8d88d8c8123bf31f8d02ecf3fac
+- Archive: web-archive/20261002-branch2-ai-speed-publish.md + critique r1 ที่ 20261002-branch2-ai-speed-benz-dna-critique.md
+- **pair #33: ทั้ง 3 branches CLOSED** (1 = 1.00× publish / 2 = publish ผ่าน CUT 2/2 / 3 = 1.04× publish) — ending-split + seed-drift (Grok timing) ยังเป็น open notes
