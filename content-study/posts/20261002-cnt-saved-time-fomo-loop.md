@@ -1,40 +1,47 @@
 <!--
 ContentID: 20261002-CNT-SAVED-TIME (placeholder)
-Title: ยิ่งมีเวลาว่าง — ยิ่งเลือกยากว่าจะเอาไปไว้ไหน
+Title: เวลาว่างมีมา — แต่ไม่ได้อยู่กับเรา
 Slug: saved-time-fomo-loop
-Type: CURRENT FORM — system/mindset (fresh brief → drafted straight into the form)
+Type: CURRENT FORM — system/mindset (fresh brief → v2 self-rewrite pre-Benz, 2026-10-02)
 Brief (user, 2026-10-02):
   1) Quote: "The internet... promises to help you make better use of your time, while simultaneously exposing you to vastly more potential uses for your time."
   2) internet -> AI -> what's next?
   3) FOMO
+V2 (2026-10-02, user: "rewrite it" — pre-Benz pass, flags → resolutions):
+  1) Title retired: "ยิ่งมีเวลาว่าง — ยิ่งเลือกยากว่าจะเอาไปไว้ไหน" collided with the 09-28 publish title template ("ยิ่งทำอะไรก็ได้ ยิ่งเลือกยากว่าจะเริ่มอะไร") = borrowed-line regression class (EN #149) → new title = felt difficulty, no ยิ่ง-template (EN #114)
+  2) CONTRADICTION fix (EN #111 hunt): v1 said list "โตเร็วกว่าเวลาที่จะใช้มัน" (always) AND "เวอร์ชันที่ทำทุกอย่างใน list ได้มีอยู่จริงแล้ว" — mutually exclusive. v2: no do-everything version; AI makes each ITEM "ทำได้ตอนนี้" — the comparison is per-item, which is exactly why "ยอมรับว่าทำไม่ครบ" doesn't close it
+  3) Hedge added (EN #110): "น่าจะโตเร็วกว่าเวลาที่เราจะใช้มัน"
+  4) "+3 รายการ" seed de-numbered → "เพิ่มรายการใหม่ลงไป" (EN #150); "20 นาที" KEPT (load-bearing in the anti-proof closer "20 นาที ก็ยังเป็น 20 นาที") with "ประมาณ" hedge — user still owns this figure before publish
+  5) Mechanism now SHOWN, not asserted: ข่าวเช้า 10 รายการ (AI/tech news) = ตัวเติม list "สิ่งที่อยากลองกับ AI" — the same tool that empties the time feeds the list that eats it; "วันที่เวลาถูกประหยัด กับวันที่ list โต คือวันเดียวกัน" (case-scoped: same 10 items)
+  6) Cut "ยิ่งใช้เครื่องมือ list ยิ่งรู้จักเรา" (recommendation-personalization = second thesis, EN #109) → parked as กิ่ง 4
 Series (header only — no cross-refs in body):
   - Same thread as 2026-09-13 Four Thousand Weeks (the internet quote already sits in that post's "Bottomless Bucket List" section — this post goes past its JOMO answer) + JOMO 2026-01-12 + 2026-09-28 constraints (list-artifact family)
 Sources (verified):
-  - Quote = Four Thousand Weeks: Time Management for Mortals, Oliver Burkeman (2021) — verified 2026-09-13 (skill reference/four-thousand-weeks-research.md: tobsysinclair.com + mattswain.com/booknotes/four-thousand-weeks + bymatthart.com/4thousand) and re-confirmed 2026-10-02 via goodreads user_status 1206692659 ("Perhaps it goes without saying that the internet makes this all much more agonizing, because it promises to help you make better use of your time...")
+  - Quote = Four Thousand Weeks: Time Management for Mortals, Oliver Burkeman (2021) — verified 2026-09-13 (skill reference/four-thousand-weeks-research.md: tobsysinclair.com + mattswain.com/booknotes/four-thousand-weeks + bymatthart.com/4thousand) and re-confirmed 2026-10-02 via goodreads user_status 1206692659; quote VERBATIM vs reference in code, 2026-10-02
   - Story artifact 1: morning news automation (REAL — user's cron daily-foreign-news, 10 items, delivered every morning); the "20 นาที" figure = SEED — user should verify/own before publish (EN #108/#150)
-  - Story artifact 2: "list of things to try with AI" = SEED (family of the 48-idea file, pair #24); the "+3" figure = SEED
+  - Story artifact 2: "list of things to try with AI" = SEED (family of the 48-idea file, pair #24); count de-numbered per EN #150
 Design (CURRENT FORM, post-#17 synthesis):
-  - H1 = felt difficulty (EN #114 — same shape as pair #26 publish title); H3 = compile-able definition (the loop)
-  - ONE dispatch question forking 2 modes: "ยังไม่ได้ทำ" vs "ทำได้แล้วแต่ไม่ทำ" — built from the mechanism's own failure shapes (internet = options from outside / AI = potential inside the room)
-  - Worked example = the news automation + same-evening +3; near-miss (boundary-opening, EN #44/#121) = the week the time actually stayed — hedged as recollection ("ช่วงที่พรจำได้")
-  - New decision vs predecessor: the 09-13 answer (accept you can't do everything) does NOT close "ทำได้แล้วแต่ไม่ทำ" — because "ทำได้แล้ว" is a fact, not an expectation (re-skin check vs 09-13 and vs 09-28: different mechanism — time-flow vs idea-feasibility)
+  - H1 = felt difficulty (EN #114); H3 = compile-able definition (the tool feeds the list that eats the time)
+  - ONE dispatch question forking 2 modes: "ยังไม่ได้ทำ" vs "ทำได้แล้วแต่ไม่ทำ" — internet = options from outside / AI = potential inside the room
+  - Worked example = the news automation + same-morning list addition; near-miss (EN #44/#121) = the week the list stayed closed — hedged framing ("เวลาที่พรไม่รู้ด้วยซ้ำ")
+  - New decision vs predecessor: the 09-13 answer (accept you can't do everything) does NOT close "ทำได้แล้วแต่ไม่ทำ" — because the comparison target is per-item real ("ทำได้ตอนนี้"), a fact not an expectation (re-skin check vs 09-13 and vs 09-28: different mechanism)
   - Closer = anti-proof (EN #115) + smaller night question (EN #146) — no checklist/ritual (EN #168), no protocol, no duck section (pair #32 publish pattern, freshest)
-  - Quote handling: Sturgeon-style demoted attribution ("มีประโยคที่ถูกอ้างถึงบ่อยว่า") — the quote names the mechanism; it does not carry the argument (full source in this header)
+  - Quote handling: demoted attribution ("มีประโยคจากหนังสือเรื่องเวลาที่ถูกอ้างถึงบ่อยว่า") — the quote names the mechanism; it does not carry the argument (full source in this header)
   - Register: พร narrates the story, เรา carries universal claims, คุณ 0, คับ 0
-  - Evidence ceiling (EN #110): one case ⇒ loop claim hedged ("น่าจะ"); boundary claim scoped to recollection
 กิ่ง (parked — do NOT follow in body):
   1) "what's next?" as a FOMO engine — the question designed so the answer is always one wave away (separate question-post; putting it in the body would be a second thesis, EN #109)
   2) List rate vs list length — "list is written faster than it can be used" (measurement post; needs a defined instance per EN #145 before shipping)
   3) "ของที่เปิดอยู่แล้ว" vs "ต่อจากของเดิมที่มีอยู่" (09-28) — same concept or different? (forced question for a future critique round, EN #54)
+  4) list/recommendation personalization — "ยิ่งใช้เครื่องมือ list ยิ่งรู้จักเรา → ดูเหมือนของเรา" (cut from v2 body: second thesis; its own post if it ever earns evidence)
 Candidate hooks (per #39):
-  A (USED): ยิ่งมีเวลาว่าง — ยิ่งเลือกยากว่าจะเอาไปไว้ไหน
-  B: เวลาที่ประหยัดได้ — ไม่เคยมาถึง
-  C: ประหยัดเวลาทุกวัน — แต่ list ของ "สิ่งที่รอทำ" ยาวขึ้นทุกวัน
-CUT zero-count (body + hashtags, must be 0): JOMO / bucket list / Infinite Scroll / DECKS / Law / XX-0N / protocol names / H2 / tables / คุณ / คับ
+  A (USED): เวลาว่างมีมา — แต่ไม่ได้อยู่กับเรา
+  B: เวลาที่ประหยัดได้ — ไม่เคยมาถึง (rejected: absolute "ไม่เคย" contradicts the near-miss week, EN #111 class)
+  C: ยิ่งมีเวลาว่าง — ยิ่งเลือกยากว่าจะเอาไปไว้ไหน (retired v1 title: template collision with 09-28, EN #149)
+CUT zero-count (body + hashtags, must be 0): JOMO / bucket / Infinite Scroll / DECKS / Law / XX-0N / protocol names / H2 / tables / คุณ / คับ / ยิ่งเลือกยาก (retired title template) / รู้จักเรา (personalization thesis, cut per กิ่ง 4)
 Hashtags: #Adduckivity #DuckOS #NeuroDivergent #FOMO #TimeManagement
 -->
 
-# ยิ่งมีเวลาว่าง — ยิ่งเลือกยากว่าจะเอาไปไว้ไหน
+# เวลาว่างมีมา — แต่ไม่ได้อยู่กับเรา
 
 ### เครื่องมือที่ช่วยประหยัดเวลา คือตัวเดียวกันกับที่เลี้ยง list ที่มากินเวลานั้น
 
@@ -56,7 +63,7 @@ Hashtags: #Adduckivity #DuckOS #NeuroDivergent #FOMO #TimeManagement
 
 พรเปิด list "สิ่งที่อยากลองกับ AI"
 
-แล้วเพิ่มอีก 3 รายการ
+แล้วเพิ่มรายการใหม่ลงไป
 
 .
 
@@ -95,7 +102,7 @@ Hashtags: #Adduckivity #DuckOS #NeuroDivergent #FOMO #TimeManagement
 
 และ list ของสิ่งที่ทำได้
 
-โตเร็วกว่าเวลาที่เราจะใช้มัน
+น่าจะโตเร็วกว่าเวลาที่เราจะใช้มัน
 
 .
 
@@ -157,11 +164,13 @@ FOMO — ความกลัวว่าจะพลาด
 
 แบบที่สอง เวลาไปอยู่กับการ "เทียบ"
 
-เทียบตัวเองกับเวอร์ชันที่ทำทุกอย่างใน list ได้
+เทียบตัวเองกับรายการใน list ทีละชิ้น
 
 .
 
-และเวอร์ชันนั้นมีอยู่จริงแล้ว เพราะ AI
+แต่ละชิ้นไม่ใช่ของไกลแล้ว
+
+AI ทำให้มันเป็น "ของที่ทำได้ตอนนี้"
 
 .
 
@@ -171,9 +180,11 @@ FOMO — ความกลัวว่าจะพลาด
 
 .
 
-เพราะ "ทำได้แล้ว" คือข้อเท็จจริง
+เพราะสิ่งที่เทียบอยู่
 
 ไม่ใช่ความคาดหวังที่ไม่เกิด
+
+แต่เป็นของจริง ทีละชิ้น
 
 .
 
@@ -193,9 +204,17 @@ FOMO — ความกลัวว่าจะพลาด
 
 แต่ใน loop เดียวกัน
 
-automation ตัวเดียวกัน ก็คือตัวที่บอกให้พรรู้ว่า list มีอะไร
+ข่าวเช้า 10 รายการนั้นเอง
 
-และทำให้พรคิดว่า "ตอนนี้ก็ทำได้"
+คือตัวเติม list "สิ่งที่อยากลองกับ AI"
+
+.
+
+วันที่เวลาถูกประหยัด
+
+กับวันที่ list โต
+
+คือวันเดียวกัน
 
 .
 
@@ -207,15 +226,9 @@ automation ตัวเดียวกัน ก็คือตัวที่�
 
 .
 
-ยิ่งใช้เครื่องมือ list ยิ่งรู้จักเรา
-
-list รู้จักเราเท่าไหร่ ก็ยิ่งดูเหมือน "ของเรา" เท่านั้น
-
 .
 
-.
-
-# สัปดาห์ ที่ list ไม่ถูกเปิด
+# สัปดาห์ที่ list ไม่ถูกเปิด
 
 มีสัปดาห์หนึ่ง
 
