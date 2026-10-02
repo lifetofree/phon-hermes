@@ -1149,3 +1149,13 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - Notion: **PATCH หน้าเดิม** `3eddf8d8-8d8c-8189-8e7e-fac911eef71a` (Name = title ใหม่, Status → `rewritten`, 100 blocks read-back: markers ครบ + v3-only survivors 0; URL เดิม https://app.notion.com/p/3eddf8d88d8c81898e7efac911eef71a)
 - Archive: web-archive/20261002-saved-time-fomo-loop-publish.md (verbatim)
 - **สถานะ pair #33: CLOSED** (v1 fresh 286 → v2 self 281 → Benz r1 → v3 218 → Benz r2 FREEZE → publish 218 = 1.00×) — กิ่ง 3 (agent-wave FOMO) filed แยก; กิ่ง 2 อยู่กับ external model; กิ่ง 3/4/5 park ใน header ของ publish archive
+
+### 2026-10-02 — pair #33 กิ่งสาม CLOSED: publish version (freeze implemented 5/5 + 2 owner's-call keeps, 1.04×)
+- Publish: "คลื่น agent ออกถี่ขึ้น — ความรู้สึกตามไม่ทัน ก็ยังอยู่" (118 wc-w = 1.04× draft 113 — draft เขียนสั้นไว้ตั้งแต่ต้นเพราะ evidence บาง; publish ขยายเล็กน้อยผ่าน critic's replacement lines)
+- Freeze list 5/5 graded in code: P-absolute "ไม่มีวันไหนเลย" ตาย + critic preferred form verbatim ✓ / P-pattern "และนี่ไม่ใช่ครั้งแรกที่พรจำ Pattern แบบนี้ได้" verbatim ✓ / P-frequency replacement "แต่พอ agent ตัวใหม่โผล่มา..." verbatim ✓ / P-subtitle = critic suggestion verbatim ✓ / P-question = critic neutral question verbatim ("อะไรในงานจริงของพรที่กำลังตามไม่ทันอยู่") ✓ + Orca ถูกตัด (single-case advice)
+- **2 owner's-call keeps (notes ไม่ใช่ violations):** "คลื่นที่ผ่านไป จบเหมือนเดิม" (critic allowed ถ้าเป็นเคสจริง) + "และคลื่นก็ถี่ขึ้น ๆ" (critic เสนอ CUT — user keep; ตัวเดียวที่ขัด freeze list)
+- **Seed drift STILL unresolved (agent flag รอบแรก, user kept):** "สัปดาห์ก่อน Grok Bot ออก" (receipt: xAI beta 2026-08-11 = ~7 สัปดาห์ก่อน 02-10) + section 3 "Grok Bot เดือนก่อน" = event เดียวกัน 2 ระยะ ("สัปดาห์ก่อน" vs "เดือนก่อน") internal inconsistency — ถ้าจะแก้หลัง publish: แก้ให้ consistent และตรง receipt
+- **Ending split ระหว่าง 2 กิ่ง (การตัดสินใจ series-level):** กิ่ง 1 publish = end-on-open-state (ตัด night question) / กิ่ง 3 publish = KEEP night question + "คำถามคืนนี้" frame — สองบทที่จะอยู่ติดกันใน feed เลือกท่าจบคนละแบบ (จดไว้ — รอบ publish ถัดไปควรตัดสินใจให้ consistent หรือตั้งใจให้ต่าง)
+- battery publish: พร 7 / เรา 0 / คุณ 0 / คับ 0 (full-พร); curly quotes; cross-branch = 0 ทั้งกิ่ง 1/2; codepoint+adjacency CLEAN
+- Notion: PATCH หน้าเดิม `3eddf8d8-8d8c-8174-9cdb-d1a9e3212a54` (Name = publish title, Status → `rewritten`, 61 blocks read-back: markers ครบ + dead-term survivors 0; URL เดิม https://app.notion.com/p/agent-3eddf8d88d8c81749cdbd1a9e3212a54)
+- Archive: web-archive/20261002-agent-wave-fomo-publish.md (verbatim) + critique r1 ที่ 20261002-agent-wave-fomo-benz-dna-critique.md
