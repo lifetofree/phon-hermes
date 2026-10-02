@@ -1,55 +1,61 @@
 <!--
 ContentID: 20261002-CNT-SAVED-TIME (placeholder)
-Title: เวลาว่างมีมา — แต่ไม่ได้อยู่กับเรา
+Title: เวลาที่ประหยัดได้ — ไปเจออะไรต่อ
 Slug: saved-time-fomo-loop
-Type: CURRENT FORM — system/mindset (fresh brief → v2 self-rewrite pre-Benz, 2026-10-02)
+Type: CURRENT FORM — observation post (EN #138 shape: real case → end at hypothesis + open question; v3 = Benz-DNA rewrite, pair #33, 2026-10-02)
 Brief (user, 2026-10-02):
-  1) Quote: "The internet... promises to help you make better use of your time, while simultaneously exposing you to vastly more potential uses for your time."
+  1) Quote (P-Book connection-opener, NOT mechanism-proof): "The internet... promises to help you make better use of your time, while simultaneously exposing you to vastly more potential uses for your time."
   2) internet -> AI -> what's next?
   3) FOMO
-V2 (2026-10-02, user: "rewrite it" — pre-Benz pass, flags → resolutions):
-  1) Title retired: "ยิ่งมีเวลาว่าง — ยิ่งเลือกยากว่าจะเอาไปไว้ไหน" collided with the 09-28 publish title template ("ยิ่งทำอะไรก็ได้ ยิ่งเลือกยากว่าจะเริ่มอะไร") = borrowed-line regression class (EN #149) → new title = felt difficulty, no ยิ่ง-template (EN #114)
-  2) CONTRADICTION fix (EN #111 hunt): v1 said list "โตเร็วกว่าเวลาที่จะใช้มัน" (always) AND "เวอร์ชันที่ทำทุกอย่างใน list ได้มีอยู่จริงแล้ว" — mutually exclusive. v2: no do-everything version; AI makes each ITEM "ทำได้ตอนนี้" — the comparison is per-item, which is exactly why "ยอมรับว่าทำไม่ครบ" doesn't close it
-  3) Hedge added (EN #110): "น่าจะโตเร็วกว่าเวลาที่เราจะใช้มัน"
-  4) "+3 รายการ" seed de-numbered → "เพิ่มรายการใหม่ลงไป" (EN #150); "20 นาที" KEPT (load-bearing in the anti-proof closer "20 นาที ก็ยังเป็น 20 นาที") with "ประมาณ" hedge — user still owns this figure before publish
-  5) Mechanism now SHOWN, not asserted: ข่าวเช้า 10 รายการ (AI/tech news) = ตัวเติม list "สิ่งที่อยากลองกับ AI" — the same tool that empties the time feeds the list that eats it; "วันที่เวลาถูกประหยัด กับวันที่ list โต คือวันเดียวกัน" (case-scoped: same 10 items)
-  6) Cut "ยิ่งใช้เครื่องมือ list ยิ่งรู้จักเรา" (recommendation-personalization = second thesis, EN #109) → parked as กิ่ง 4
+V3 (2026-10-02, Benz-DNA critique r1 → user: "นายปรับอันแรกก่อน แล้วมา discuss กันว่าอีก 2 กิ่งจะเขียนยังไงดี"):
+  Critic verdict: "Observation ดีหนึ่งก้อน → แตกออกเป็น Mechanism ใหญ่หลายก้อน → บางก้อนถูกเขียนเหมือนรู้แล้ว"
+  Direction adopted: เก็บเฉพาะบทที่ 1 (Saved Time ≠ Available Time) — spine ตาม critic verbatim (Automation ใช้ 20 นาที → คืน 20 นาที → พรคาดว่า = Available Capacity → บางวันไหลไปเปิด Possibility/List โต → บางสัปดาห์ไม่เปิดและ loop ไม่เกิด → automation อธิบายแค่ Time Saved → Saved Time ≠ Available Time)
+  Point→resolution map (critique quote-verify 9/11 HIT; 2 MISS = v1 lines already dead in v2 — บันทึกใน archive header):
+    P1 thesis-flip: คำถามใหม่ "เวลาที่ถูกประหยัดออกมาแล้ว ไปเจออะไรต่อ" = H1 + ท้าย section 2
+    P2 keep Saved≠Available: section 3 = automation วัดได้แค่ Time Saved ไม่ได้บอกว่าเวลาที่คืนมากลายเป็นเวลาที่ใช้กับสิ่งสำคัญ
+    P3 CUT "ส่วนต่าง...มีชื่อว่ามันคือ list" (evidence = list เป็นหนึ่งสิ่งเท่านั้น) → closer เปิด candidates (list / สลับงาน / ข้อความ / ความคิด / ไม่ได้ถูกใช้เลย) แบบ ยังไม่รู้
+    P4 FOMO ก้อน CUT ทั้ง section → กิ่ง 1 (FOMO ใหม่) + กิ่ง 2 (Possibility vs Capacity) park เป็น Question รอ evidence ("อย่าเขียนทั้ง 3 ชิ้นรวดเดียว")
+    P5 CUT intervention lines "ปิดได้ด้วยการไม่ดู" + "ยอมรับว่าทำไม่ครบ...ปิดแบบที่สองไม่ได้" (Connection→Mechanism→Rule เร็วเกิน)
+    P6 causality case-scoped: "ในข่าว 10 รายการนั้นเอง พรเจอสิ่งที่อยากลอง" = เคสของพร ไม่ใช่ general mechanism; CUT subtitle-เก่า "ตัวเดียวกันเลี้ยง list" + "วันที่เวลาถูกประหยัด กับวันที่ list โต คือวันเดียวกัน"
+    P7 near-miss ขยายสำคัญ: section 4 = Reality Check + "มีบางอย่างตรงกลาง ที่พรยังไม่รู้" (critic: "ยอมให้บทจบด้วย ยังไม่รู้")
+    P8 "เฉพาะตอนที่..." Universal Rule → demoted เป็น Observation เดียว (section 5) + คำถาม "ต่างกันตรงไหน" แล้วพอ — ไม่ตอบว่า Open Work คือ Solution
+    P-Book: quote demoted จาก mechanism-proof → "สิ่งที่ทำให้พรกลับไปดูเช้าของตัวเอง" + บอกในบทว่าไม่ได้ใช้พิสูจน์อะไร
+  Closer = critic's question verbatim: "หลังเครื่องมือคืนเวลาให้เรา — อะไรเป็นสิ่งถัดไปที่ได้สิทธิ์ใช้เวลานั้น" (replaces v2 night question — critic: Inspectable กว่า)
 Series (header only — no cross-refs in body):
-  - Same thread as 2026-09-13 Four Thousand Weeks (the internet quote already sits in that post's "Bottomless Bucket List" section — this post goes past its JOMO answer) + JOMO 2026-01-12 + 2026-09-28 constraints (list-artifact family)
+  - Thread: 2026-09-13 Four Thousand Weeks (quote's origin in that post) + 2026-09-28 constraints — same list-artifact family
 Sources (verified):
-  - Quote = Four Thousand Weeks: Time Management for Mortals, Oliver Burkeman (2021) — verified 2026-09-13 (skill reference/four-thousand-weeks-research.md: tobsysinclair.com + mattswain.com/booknotes/four-thousand-weeks + bymatthart.com/4thousand) and re-confirmed 2026-10-02 via goodreads user_status 1206692659; quote VERBATIM vs reference in code, 2026-10-02
-  - Story artifact 1: morning news automation (REAL — user's cron daily-foreign-news, 10 items, delivered every morning); the "20 นาที" figure = SEED — user should verify/own before publish (EN #108/#150)
-  - Story artifact 2: "list of things to try with AI" = SEED (family of the 48-idea file, pair #24); count de-numbered per EN #150
-Design (CURRENT FORM, post-#17 synthesis):
-  - H1 = felt difficulty (EN #114); H3 = compile-able definition (the tool feeds the list that eats the time)
-  - ONE dispatch question forking 2 modes: "ยังไม่ได้ทำ" vs "ทำได้แล้วแต่ไม่ทำ" — internet = options from outside / AI = potential inside the room
-  - Worked example = the news automation + same-morning list addition; near-miss (EN #44/#121) = the week the list stayed closed — hedged framing ("เวลาที่พรไม่รู้ด้วยซ้ำ")
-  - New decision vs predecessor: the 09-13 answer (accept you can't do everything) does NOT close "ทำได้แล้วแต่ไม่ทำ" — because the comparison target is per-item real ("ทำได้ตอนนี้"), a fact not an expectation (re-skin check vs 09-13 and vs 09-28: different mechanism)
-  - Closer = anti-proof (EN #115) + smaller night question (EN #146) — no checklist/ritual (EN #168), no protocol, no duck section (pair #32 publish pattern, freshest)
-  - Quote handling: demoted attribution ("มีประโยคจากหนังสือเรื่องเวลาที่ถูกอ้างถึงบ่อยว่า") — the quote names the mechanism; it does not carry the argument (full source in this header)
-  - Register: พร narrates the story, เรา carries universal claims, คุณ 0, คับ 0
-กิ่ง (parked — do NOT follow in body):
-  1) "what's next?" as a FOMO engine — the question designed so the answer is always one wave away (separate question-post; putting it in the body would be a second thesis, EN #109)
-  2) List rate vs list length — "list is written faster than it can be used" (measurement post; needs a defined instance per EN #145 before shipping)
-  3) "ของที่เปิดอยู่แล้ว" vs "ต่อจากของเดิมที่มีอยู่" (09-28) — same concept or different? (forced question for a future critique round, EN #54)
-  4) list/recommendation personalization — "ยิ่งใช้เครื่องมือ list ยิ่งรู้จักเรา → ดูเหมือนของเรา" (cut from v2 body: second thesis; its own post if it ever earns evidence)
+  - Quote = Four Thousand Weeks, Oliver Burkeman (2021) — verified 2026-09-13 (skill reference/four-thousand-weeks-research.md: tobsysinclair.com + mattswain.com/booknotes/four-thousand-weeks + bymatthart.com/4thousand) + re-confirmed 2026-10-02 (goodreads user_status 1206692659); quote verbatim vs reference, checked in code (v2 + v3 battery)
+  - Story artifact 1: morning news automation (REAL — user's cron daily-foreign-news, 10 items); "20 นาที" = SEED with "ประมาณ" hedge — user owns before publish (EN #108/#150)
+  - Story artifact 2: list "สิ่งที่อยากลองกับ AI" = SEED (family of the 48-idea file, pair #24); count de-numbered per EN #150
+Design:
+  - H1 = felt question (thesis-flip ของ critic); H3 = compile-able definition (automation วัด Time Saved ได้ — ไม่ได้บอกว่าถูกอะไรใช้ต่อ)
+  - Observation-post discipline (EN #138/#143): case → expected → reality ต่าง → ยังไม่รู้ → คำถามเดียวปลายบท — no Rule/Intervention หลุดรอด
+  - Register: พร narrates, เรา carries universal claims, คุณ 0, คับ 0
+กิ่ง (parked — do NOT follow in body; per critic: "เขียน Content 1 ก่อน → Park 2 และ 3 เป็น Question → รอหนังสือ/ชีวิตจริง/เคสใหม่มาชน"):
+  1) FOMO แบบใหม่ (critic กิ่งสาม; evidence บางที่สุด): "ทำไมการรู้ว่าเราทำได้ แต่ไม่ได้ทำ ถึงสร้างความรู้สึกตามไม่ทัน?" — ห้ามสรุปว่ามี FOMO สองประเภท, ห้ามแก้ด้วยการไม่ดู; absorbs "what's next? engine" กิ่งเดิม
+  2) AI เพิ่ม Possibility เร็วกว่าที่เพิ่ม Capacity หรือเปล่า? (critic กิ่งสอง; hypothesis-status — Possible ≠ Capacity, เขียนเป็นการ Inspect ไม่ใช่ Rule ว่า AI ทำให้ Overload)
+  3) List rate vs list length — "list is written faster than it can be used" (measurement post; needs defined instance per EN #145)
+  4) "ของที่เปิดอยู่แล้ว" vs "ต่อจากของเดิมที่มีอยู่" — คำถามอยู่ในบทแล้ว (section 5); บทเต็มยังรอ evidence
+  5) list/recommendation personalization — "ยิ่งใช้เครื่องมือ list ยิ่งรู้จักเรา" (second thesis)
 Candidate hooks (per #39):
-  A (USED): เวลาว่างมีมา — แต่ไม่ได้อยู่กับเรา
-  B: เวลาที่ประหยัดได้ — ไม่เคยมาถึง (rejected: absolute "ไม่เคย" contradicts the near-miss week, EN #111 class)
-  C: ยิ่งมีเวลาว่าง — ยิ่งเลือกยากว่าจะเอาไปไว้ไหน (retired v1 title: template collision with 09-28, EN #149)
-CUT zero-count (body + hashtags, must be 0): JOMO / bucket / Infinite Scroll / DECKS / Law / XX-0N / protocol names / H2 / tables / คุณ / คับ / ยิ่งเลือกยาก (retired title template) / รู้จักเรา (personalization thesis, cut per กิ่ง 4)
-Hashtags: #Adduckivity #DuckOS #NeuroDivergent #FOMO #TimeManagement
+  A (USED): เวลาที่ประหยัดได้ — ไปเจออะไรต่อ
+  B: เวลาว่างมีมา — แต่ไม่ได้อยู่กับเรา (v2 title — implies the answer critic cut, retired)
+  C: ยิ่งมีเวลาว่าง — ยิ่งเลือกยากว่าจะเอาไปไว้ไหน (v1 title — template collision EN #149, retired)
+CUT zero-count (body + hashtags, must be 0): JOMO / FOMO / bucket / Infinite Scroll / DECKS / Law / XX-0N / protocol names / H2 / tables / คุณ / คับ / ยิ่งเลือกยาก / รู้จักเรา / เวอร์ชันที่ทำทุกอย่าง / มีชื่อว่า (P3) / ปิดได้ด้วยการไม่ดู (P5) / ยอมรับว่าทำไม่ครบ (P5) / เฉพาะตอนที่ถูกใช้กับ (P8) / เลี้ยง list (P6) / คือวันเดียวกัน (P6) / กลไกนี้ไม่ได้ใหม่ (P4 frame) / คลื่นถัดไป (P4)
+Hashtags: #Adduckivity #DuckOS #NeuroDivergent #TimeManagement (— #FOMO ตัดตาม P4)
 -->
 
-# เวลาว่างมีมา — แต่ไม่ได้อยู่กับเรา
+# เวลาที่ประหยัดได้ — ไปเจออะไรต่อ
 
-### เครื่องมือที่ช่วยประหยัดเวลา คือตัวเดียวกันกับที่เลี้ยง list ที่มากินเวลานั้น
+### Automation วัด "เวลาที่ประหยัด" ได้ — แต่ตัวเลขนั้นไม่ได้บอกว่า เวลาที่คืนมา ถูกอะไรใช้ต่อ
 
 .
 
 ทุกเช้า automation ส่งข่าว 10 รายการ เข้าโทรศัพท์ของพร
 
 เมื่อก่อน ใช้เวลาประมาณ 20 นาทีในการหาเอง อ่านเอง
+
+วันนี้ เวลาตรงนั้นว่างขึ้นมา
 
 .
 
@@ -59,23 +65,25 @@ Hashtags: #Adduckivity #DuckOS #NeuroDivergent #FOMO #TimeManagement
 
 .
 
-แต่วันนั้นเอง
+แต่บางวัน
 
-พรเปิด list "สิ่งที่อยากลองกับ AI"
+ในข่าว 10 รายการนั้นเอง
 
-แล้วเพิ่มรายการใหม่ลงไป
+พรเจอสิ่งที่อยากลองกับ AI
 
-.
-
-เวลาที่ควรจะว่าง
-
-ไม่ได้อยู่ไหนเลย
+เลยเปิด list เพิ่มรายการใหม่ลงไป
 
 .
 
+20 นาทีที่ว่างขึ้นมาเช้านั้น
+
+หายลงใน list
+
 .
 
-# กลไกนี้ไม่ได้ใหม่
+.
+
+# ประโยคที่ทำให้พรกลับไปดูเช้าของตัวเอง
 
 มีประโยคจากหนังสือเรื่องเวลาที่ถูกอ้างถึงบ่อยว่า
 
@@ -92,143 +100,49 @@ Hashtags: #Adduckivity #DuckOS #NeuroDivergent #FOMO #TimeManagement
 
 .
 
-เวลาที่ถูกประหยัด
+โพสต์นี้ไม่ได้ใช้ประโยคนี้พิสูจน์อะไร
 
-ไม่กลายเป็นเวลาว่าง
-
-มันกลายเป็น "สิ่งที่ทำได้" เพิ่ม
+แต่มันคือสิ่งที่ทำให้พรกลับไปดูเช้าของตัวเอง
 
 .
 
-และ list ของสิ่งที่ทำได้
+คำถามที่ค้างมาตั้งแต่ตอนนั้น
 
-น่าจะโตเร็วกว่าเวลาที่เราจะใช้มัน
+ไม่ใช่ "automation ประหยัดเวลาได้เท่าไร"
 
-.
-
-.
-
-# คลื่นถัดไปหลังอินเทอร์เน็ตมาถึงแล้ว
-
-สิ่งที่อินเทอร์เน็ตเปิดให้เห็น คือความเป็นไปได้ "จากข้างนอก"
-
-ที่คนอื่นทำ ที่ฟีดดัน
-
-.
-
-แต่ AI ย้ายความเป็นไปได้เข้ามาในห้อง
-
-.
-
-"เราก็ทำได้ — ตอนนี้เลย"
-
-.
-
-ระยะทางระหว่าง "ทำได้" กับ "ทำ"
-
-หดลงมาจนเกือบหมด
-
-.
-
-FOMO — ความกลัวว่าจะพลาด
-
-เลยเปลี่ยนรูป
-
-.
-
-จาก "พลาดในสิ่งที่คนอื่นมี"
-
-เป็น "พลาดในสิ่งที่เราทำได้แล้ว แต่ไม่ได้ทำ"
-
-.
-
-> **FOMO ที่รู้สึกอยู่ — เป็นแบบ "ยังไม่ได้ทำ" — หรือแบบ "ทำได้แล้วแต่ไม่ทำ"?**
-
-.
-
-สองแบบนี้หน้าตาเหมือนกัน
-
-รู้สึก "ตามไม่ทัน" เหมือนกัน
-
-.
-
-แต่ราคาไม่เหมือนกัน
-
-.
-
-แบบแรก เวลาไปอยู่กับการ "ดู"
-
-ปิดได้ด้วยการไม่ดู
-
-.
-
-แบบที่สอง เวลาไปอยู่กับการ "เทียบ"
-
-เทียบตัวเองกับรายการใน list ทีละชิ้น
-
-.
-
-แต่ละชิ้นไม่ใช่ของไกลแล้ว
-
-AI ทำให้มันเป็น "ของที่ทำได้ตอนนี้"
-
-.
-
-"ยอมรับว่าทำไม่ครบทุกอย่าง"
-
-ปิดแบบที่สองไม่ได้
-
-.
-
-เพราะสิ่งที่เทียบอยู่
-
-ไม่ใช่ความคาดหวังที่ไม่เกิด
-
-แต่เป็นของจริง ทีละชิ้น
+แต่คือ "เวลาที่ถูกประหยัดออกมาแล้ว ไปเจออะไรต่อ"
 
 .
 
 .
 
-# List ที่ถูกเลี้ยงด้วยเวลาที่ประหยัดได้
+# 20 นาทีที่คืนมา — ยังไม่ใช่เวลาที่ใช้ได้
 
-วันนั้น เวลาหายไปไหน
-
-.
-
-ไปอยู่ที่ list
+automation วัดได้ว่า งานเดิมที่ใช้ 20 นาที เหลือน้อยลง
 
 .
 
-พรเคยคิดว่า automation คือตัวที่ช่วยประหยัดเวลา
+แต่ตัวเลขที่มันวัดได้
 
-แต่ใน loop เดียวกัน
+ไม่ได้บอกว่า 20 นาทีที่คืนมา
 
-ข่าวเช้า 10 รายการนั้นเอง
-
-คือตัวเติม list "สิ่งที่อยากลองกับ AI"
+กลายเป็นเวลาที่เอาไปใช้กับสิ่งสำคัญได้จริง
 
 .
 
-วันที่เวลาถูกประหยัด
+ในเช้าที่ list ถูกเปิด
 
-กับวันที่ list โต
+เวลาที่ประหยัด
 
-คือวันเดียวกัน
+ไม่ได้กลายเป็นเวลาว่าง
 
-.
-
-เครื่องมือที่ช่วยประหยัดเวลา
-
-น่าจะคือตัวเดียวกัน
-
-ที่เลี้ยง list ซึ่งมากินเวลานั้น
+มันไหลลง list ที่โตขึ้นทุกครั้งที่เปิด
 
 .
 
 .
 
-# สัปดาห์ที่ list ไม่ถูกเปิด
+# สัปดาห์ที่ loop นี้ไม่เกิด
 
 มีสัปดาห์หนึ่ง
 
@@ -248,39 +162,35 @@ list ยังไม่ได้แตะทั้งสัปดาห์
 
 .
 
-loop ไม่ได้ทำงานทุกสัปดาห์
+automation เหมือนเดิมทุกอย่าง
 
-มันทำงานเฉพาะสัปดาห์ที่ list ถูกเปิด
+แต่ loop ไม่เกิด
+
+.
+
+แปลว่า automation อย่างเดียว อธิบายสิ่งที่เกิดขึ้นไม่พอ
+
+มีบางอย่างตรงกลาง ที่พรยังไม่รู้
 
 .
 
 .
 
-# ช่วงเดียวที่เวลาอยู่กับเรา
+# หนึ่งครั้งที่เวลาไหลต่อให้งานที่เปิดอยู่แล้ว
 
-ช่วงที่พรจำได้
+ครั้งหนึ่ง ที่พรจำได้
 
-ที่เวลาที่ประหยัดได้ "อยู่กับเราจริงๆ"
+20 นาทีหลังข่าวเช้า ไม่ได้แตกออกเป็นของใหม่
 
-คือช่วงที่เวลาในวันนั้น
-
-ถูกเอาไปใช้กับ draft ที่ค้างมาทั้งสัปดาห์
+มันถูกส่งต่อให้ draft ที่เปิดค้างอยู่แล้ว
 
 .
 
-ไม่ใช่กับการหาสิ่งใหม่ที่จะทำ
+เช้าที่เวลาไหลลง list
 
-.
+กับเช้าที่เวลาไหลต่อให้งานที่เปิดอยู่
 
-เวลาที่ประหยัดได้จะอยู่กับเรา
-
-เฉพาะตอนที่ถูกใช้กับ "ของที่เปิดอยู่แล้ว"
-
-.
-
-และวินาทีที่ถูกใช้กับ list
-
-มันกลายเป็นส่วนหนึ่งของ list
+ต่างกันตรงไหน
 
 .
 
@@ -288,9 +198,9 @@ loop ไม่ได้ทำงานทุกสัปดาห์
 
 # ก่อนนอน
 
-โพสต์นี้ไม่ได้พิสูจน์ว่าเครื่องมือใหม่ไม่ดี
+โพสต์นี้ไม่ได้พิสูจน์ว่า automation ไม่ดี
 
-automation ยังรันทุกวัน
+ข่าวเช้ายังส่งทุกวัน
 
 20 นาที ก็ยังเป็น 20 นาที
 
@@ -298,17 +208,21 @@ automation ยังรันทุกวัน
 
 สิ่งที่โพสต์นี้แสดงมีอย่างเดียว
 
-คือ "เวลาที่เครื่องมือช่วยประหยัด"
+automation วัด "เวลาที่ประหยัด" ได้
 
-กับ "เวลาที่เราใช้ได้อยู่จริง"
-
-ไม่ใช่ตัวเลขเดียวกัน
+แต่ยังไม่ได้บอกว่า เวลาที่คืนมา ถูกอะไรใช้ต่อ
 
 .
 
-และส่วนต่างระหว่างสองตัวนี้
+ส่วนต่างของสองตัวนี้ ไปอยู่กับอะไรได้บ้าง
 
-มีชื่อว่ามันคือ list
+พรยังไม่รู้
+
+อาจเป็น list อย่างเช้านั้น
+
+อาจเป็นการสลับงาน ข้อความ ความคิด
+
+หรืออาจไม่ได้ถูกใช้เลย
 
 .
 
@@ -316,8 +230,8 @@ automation ยังรันทุกวัน
 
 .
 
-> ครั้งล่าสุดที่เวลาที่ประหยัดได้ "อยู่กับเราจริงๆ" — มันไปอยู่ที่ไหน
+> หลังเครื่องมือคืนเวลาให้เรา — อะไรเป็นสิ่งถัดไปที่ได้สิทธิ์ใช้เวลานั้น
 
 .
 
-#Adduckivity #DuckOS #NeuroDivergent #FOMO #TimeManagement
+#Adduckivity #DuckOS #NeuroDivergent #TimeManagement

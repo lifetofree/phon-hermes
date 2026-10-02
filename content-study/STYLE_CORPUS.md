@@ -1114,3 +1114,14 @@ Nits (NOTES only — publish text ของ user): บรรทัด "> " ว�
 Skills: freeze list = publish acceptance markers (171) / removal test = conditional ที่ critic ส่งมาให้รัน (172) / taxonomy-without-labels (173) → Evolution Notes
 
 สถานะ: pair #32 CLOSED ใน 1 วัน (v1 → self-critique v2 → Benz r1 → v3 → Benz r2 PASS → publish) — รอบแรกที่ critique 2 รอบไม่มี quote drift เลย (r2 15/15)
+
+### 2026-10-02 — pair #33 r1 + rewrite same turn: saved-time loop (v1 fresh 286 → v2 self-rewrite 281 → Benz critique r1 → v3 218)
+- Post: เวลาที่ประหยัดได้ — ไปเจออะไรต่อ (v3 218 wc-w = 0.78× v2; Notion: none — post นี้ never filed)
+- **รอบแรกที่ critique มาหลัง agent self-rewrite (v2) และยัง quote line ของ v1** (sourced จาก flag report ของ agent ที่ quote v1 ไว้): "เวอร์ชันนั้นมีอยู่จริงแล้ว เพราะ AI" (ตายใน v2 แล้ว) + "ตัวที่บอกให้พรรู้ว่า list มีอะไร" (ถูกแทนใน v2) — quote-verify 9/11 HIT; MISS 2 ตัว = version window ไม่ใช่ misquote (criticism บน line ที่ตายแล้ว = CONFIRMATION ของ cut)
+- Critic verdict: "Observation ดีหนึ่งก้อน → แตกออกเป็น Mechanism ใหญ่หลายก้อน → บางก้อนถูกเขียนเหมือนรู้แล้ว"
+- **Split = 3 Questions evidence-tiered** (ไม่ใช่ 3 Content): เก็บบทเดียว Saved Time ≠ Available Time; FOMO ใหม่ (evidence บางสุด) + Possibility vs Capacity (hypothesis) park เป็น Question — critic: "เขียน Content 1 ก่อน → Park 2 และ 3 เป็น Question → รอหนังสือ/ชีวิตจริง/เคสใหม่มาชน" + "แยกเป็น 3 Branch = ถูก แต่ตัดสินใจว่าจะต้องมี 3 Content = ยังเร็วไป"
+- v3 CUTs (zero-verified ครบ): "ส่วนต่าง...มีชื่อว่ามันคือ list" / ปิดได้ด้วยการไม่ดู / "ยอมรับว่าทำไม่ครบ...ปิดแบบที่สองไม่ได้" / FOMO section ทั้งก้อน (incl. dispatch question + 2-modes) / "เลี้ยง list" subtitle + "คือวันเดียวกัน" (general-mechanism risk — เหลือเป็นเคสของพร) / "เฉพาะตอนที่..." (universal จาก 1 example) / v2 night question
+- v3 keeps: spine = critic direction verbatim; book quote demoted → connection-opener + in-body disclaimer "ไม่ได้ใช้พิสูจน์อะไร"; "มีบางอย่างตรงกลาง ที่พรยังไม่รู้"; closer = critic verbatim "หลังเครื่องมือคืนเวลาให้เรา — อะไรเป็นสิ่งถัดไปที่ได้สิทธิ์ใช้เวลานั้น" + candidates เปิด (list / สลับงาน / ข้อความ / ความคิด / ไม่ได้ถูกใช้เลย)
+- battery v3: พร 9 / เรา 1 / คุณ 0 / คับ 0; 6 H1 / 0 H2; codepoint + adjacency CLEAN; quote verbatim vs reference
+- Skill: + Benz workflow (9) multi-version drift window + (10) N-Questions split (evidence-tiered; กิ่ง graduate เมื่อ evidence มา — extends EN #158)
+- Archive: web-archive/20261002-saved-time-fomo-benz-dna-critique.md (critique + user Q + Benz answer verbatim + drift header)
