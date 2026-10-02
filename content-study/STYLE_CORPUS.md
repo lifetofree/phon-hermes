@@ -1125,3 +1125,17 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - battery v3: พร 9 / เรา 1 / คุณ 0 / คับ 0; 6 H1 / 0 H2; codepoint + adjacency CLEAN; quote verbatim vs reference
 - Skill: + Benz workflow (9) multi-version drift window + (10) N-Questions split (evidence-tiered; กิ่ง graduate เมื่อ evidence มา — extends EN #158)
 - Archive: web-archive/20261002-saved-time-fomo-benz-dna-critique.md (critique + user Q + Benz answer verbatim + drift header)
+
+### 2026-10-02 — pair #33 r2 FREEZE round: saved-time Branch 1 (v3) — user edit pending
+- Post: เวลาที่ประหยัดได้ — ไปเจออะไรต่อ (v3 on Notion `3eddf8d8-8d8c-8189-8e7e-fac911eef71a`; agent UNTOUCHED — user: "ไม่ต้องแก้เดี๋ยวพรแก้เอง")
+- **r2 = FREEZE round แบบมีงานเย็บ**: Benz "Branch 1 เกือบ Freeze ได้แล้ว ... ผมจะไม่เพิ่มอะไรแล้ว" + 5 word-level edits + keep-list + spine recap 7 ข้อ (Observation → Expectation → Anomaly → Counterexample → Contrast Case → Boundary → Question, "ไม่มี Rule") — ต่างจาก #32 r2 ตรงที่มี edits ให้ทำ (freeze-with-edits) ไม่ใช่ freeze-list ล้วน
+- **Quote-verify 12/12 HIT — zero drift รอบที่สองติดกัน** (เทียบ #32 r2 15/15; #33 r1 มี version window 2 MISS แต่ r2 ไม่มี — บทเรียน: drift มาจาก multi-version window ไม่ใช่ critic สุ่ม)
+- Freeze list 5 จุด (baseline 1× ทุกตัว ใน v3 — acceptance markers ของ user edit ที่กำลังจะมา):
+  1. "หายลงใน list" (section 1 tail) — เพิ่ม list ≠ ใช้หมด 20 นาที; "ถ้าไม่มี Log ก็อย่าเติมช่องว่างเอง" → จบ "...ไปอยู่ไหนบ้าง / พรไม่รู้"
+  2. "มันไหลลง list ที่โตขึ้นทุกครั้งที่เปิด" (section 3) — consume-claim ไม่มี evidence; → "สองอย่างนี้เกิดติดกัน แต่ยังไม่รู้ list อธิบายเวลาที่หายไปได้แค่ไหน" (Observation → ยังไม่รู้)
+  3. H1 "20 นาทีที่คืนมา — ยังไม่ใช่เวลาที่ใช้ได้" = ≠-rule เกิน; → "ไม่ได้รับประกัน" class: "ไม่ได้บอกว่า 20 นาทีต่อไปจะไปอยู่ไหน" (เพราะ Contrast case พิสูจน์แล้วว่าบางวันได้จริง)
+  4. candidates "สลับงาน / ข้อความ / ความคิด / ไม่ได้ถูกใช้เลย" (closer) CUT — "ไม่ต้องช่วย Reality คิดคำตอบ" (candidate-variables จาก evidence ไม่มี = P3-class ซ้ำ)
+  5. "20 นาที ก็ยังเป็น 20 นาที" → "เวลาที่ประหยัดได้ ก็ยังประหยัดได้จริง" (false precision — ตัวเลขของแท้ต้องผ่าน log)
+- Keep ทั้งก้อน: "automation เหมือนเดิมทุกอย่าง / แต่ loop ไม่เกิด / มีบางอย่างตรงกลาง ที่พรยังไม่รู้" (Systems Thinking block) + Contrast case (Draft เปิดค้าง, "อย่าแตะต่อ") + closer "หลังเครื่องมือคืนเวลาให้เรา..." (ending structure ตาม critic)
+- **รูปแบบใหม่ที่ควรจำ: "self-log discipline"** — บทที่ thesis ถาม "อะไรไปไหน" ห้ามเติมคำตอบเองในจุดที่ narrator ไม่มี log; รูปที่แข็งคือให้บท "ทำตามหลักของตัวเอง" (critic: "อันนี้แข็งกว่า เพราะบททำตามหลักของตัวเอง") — ต่อยอด EN #110 (evidence ceiling) ลงระดับประโยค
+- Archive: web-archive/20261002-saved-time-fomo-benz-dna-critique-r2.md (verbatim + user decision)
