@@ -3095,5 +3095,21 @@
   "file": "content-study/posts/20261003-cnt-convenience-trap-lagging-value.md",
   "status": "draft",
   "link": "https://app.notion.com/p/3eedf8d88d8c819e8d42f14b9d584e1a"
+ },
+ {
+  "date": "2026-10-03",
+  "slug": "friction-reports-after-loss-external-v1",
+  "title": "เพิ่งรู้ว่ามันมีค่า — ตอนมันไม่อยู่แล้ว (external-model v1, verbatim archive)",
+  "file": "web-archive/20261003-friction-reports-after-loss-external-v1.md",
+  "link": "https://app.notion.com/p/3eedf8d88d8c819e8d42f14b9d584e1a",
+  "note": "pair #34 pre-rewrite: draft by another model; user critique = ยังไม่คม + คำแปลก 'ผิว'"
+ },
+ {
+  "date": "2026-10-03",
+  "slug": "friction-reports-after-loss",
+  "title": "เพิ่งรู้ว่ามันมีค่า — ตอนมันไม่อยู่แล้ว (agent rewrite r1)",
+  "file": "posts/20261003-cnt-friction-reports-after-loss.md",
+  "link": "https://app.notion.com/p/3eedf8d88d8c819e8d42f14b9d584e1a",
+  "note": "pair #34 r1: CUT surface/inside family (ผิว/ข้างใน/ว่างเปล่า=0), one family = รายงาน; killer line scoped; Notion PATCHED same page Status=rewritten; 202 wc-w; พร 5/เรา ~4/คุณ 0"
  }
 ]
