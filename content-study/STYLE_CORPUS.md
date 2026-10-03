@@ -1179,3 +1179,12 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - Battery r1: 202 wc-w (1.00× v1 — no trim, re-architecture), 6 H1 + 1 H3, 36 beats, คุณ 0 / คับ 0, พร 5 / เรา ~4 (v1: 14/9 — de-narrated), codepoint + adjacency CLEAN, quote verbatim, bold-in-quote survived (EN pull-quote bold=True on read-back).
 - Notion: PATCHED same page 3eedf8d8-8d8c-819e-8d42-f14b9d584e1a (Name keeps v1 title, Status → rewritten), read-back 17/17 markers + CUT survivors 0. v1 archived verbatim: web-archive/20261003-friction-reports-after-loss-external-v1.md.
 - Standing note: drafts from other models follow the same pipeline — analyze → (on request) rewrite → PATCH same page → archive v1. Watchdog cron 32c2e88da5ce pings new Notion drafts to Telegram.
+
+### 2026-10-03 — pair #34 PRE-REWRITE r2: Benz-DNA critique ของ r1 (analyze-only, draft+Notion UNTOUCHED)
+- Critique verdict: "Insight จริง แต่ Compile ไกลกว่า Evidence เยอะกว่าสามกิ่งก่อนหน้า โดยเฉพาะครึ่งหลัง" — opening chain (ชงเอง→กดตู้→สังเกต→สงสัย) = "แข็งมาก พอเป็นหนึ่งโพสต์แล้ว"; theory layer = เกิน
+- Quote-verify vs r1: 15/16 HIT; 1 MISS = subtitle paraphrase ("สองแบบ" vs "สองชนิด") — content-identical, drift บันทึก ไม่ใช่ version-window (single-version, critique อยู่กับ r1 ตัวจริง)
+- 5 จุด substance ทั้งหมดลงตัวกับ r1: (1) subtitle = Taxonomy จากเคสเดียว + "ไม่เคยรายงาน" unfalsifiable (blind spot) → replacement = hypothesis subtitle (2) "ทุก/อย่างเดียวกัน" = jump ไป Universal Theory → two-case scope (3) 3 บรรทัดน่ารำคาญ = seed "Indicator Resolution ต่ำ" แต่ห้าม compile → เปลี่ยนเป็นคำถาม (4) เคสเพื่อน: "ยังไม่มีสัญญาณมาถึง" = claim ว่า signal มีและกำลังมา (ไม่มี evidence) → Unknown ต้องเปิดสองทาง (5) killer line conflates Loss vs Detection of Loss → "สิ่งที่หายไป กับวันที่เรารู้ว่ามันมีค่า อาจไม่ใช่วันเดียวกัน"
+- Keeps ที่ critic รับรอง: opening chain / two-case evidence shape / queue lines (เปลี่ยนสถานะเป็นคำถาม) / book quote as connection + disclaimer / "ของที่เงียบมาจนถึงวันนี้" = ไม่แตะ (no data)
+- Meta-finding: ontology crept in ตอน "ทำให้คม" — the sharpness pass ADDED structure (สองชนิด/สองหน้า/สองแบบอ่าน) จากเคสเดียว = over-compile ใน pass ที่ตั้งใจแก้ คม; คม จริง = claim-coupling กับ evidence ไม่ใช่การเพิ่ม structure (ครั้งที่ 3 ของ pattern "one observation → ontology": #33 กิ่ง2, #34 r1)
+- Status: PRE-REWRITE — รอ publish version จากพร; replacement lines ของ critic = acceptance markers รอบเกรด (ตาม EN #171 pattern)
+- Archive: web-archive/20261003-friction-reports-benz-dna-critique-r2.md
