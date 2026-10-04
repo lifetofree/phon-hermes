@@ -1,18 +1,23 @@
 <!--
 ContentID: 20261004-CNT-MEASURABLE-COMPASS (placeholder)
-Status: draft (v1 — fresh, successor of the published charted-course)
+Status: draft (v2 — rewrite after pre-critique review, SAME spine; v1 = commit a208f84, lives in git)
 Type: CURRENT FORM (system/mindset, post-#17 synthesis)
 Brief (user, 2026-10-04): "advertising and merchandising become exact sciences. Every course is charted. The compass of accurate knowledge directs the shortest, safest, cheapest course to any destination." + "all things -> can measure -> compass -> destination or not, i'm not sure"
 Fragment read: the trailing "or not / i'm not sure" is treated as the post's thesis boundary — the chain's validity is in question. The post resolves the chain structurally (names the missing link) and ends on the question move, NOT an assertion that the chain holds. If the user intended the chain as the claim to defend, a re-skin is needed.
-Source (verified 2026-10-01, references/scientific-advertising-research.md): quote VERBATIM from Hopkins, Scientific Advertising (1923), "The Science of Advertising" section; mechanism passage = keyed advertising / traced returns / coupons — "We learn the principles and prove them by repeated tests... and record the results."
+Source (verified 2026-10-01, references/scientific-advertising-research.md): quote VERBATIM from Hopkins, Scientific Advertising (1923), "The Science of Advertising" section; mechanism passage = keyed advertising / traced returns / coupons — "We learn the principles and prove them by repeated tests. This is done through keyed advertising, by traced returns, largely by the use of coupons. We compare one way with many others, backward and forward, and record the results."
 Series: successor of published "แผนที่ไม่ได้เกิดจากการเดินผ่านครั้งเดียว" (2026-10-01, page 3ebdf8d8-8d8c-815c-af6c-ce63bc2420a3, Status: published). Inherited return point = predecessor's closing question "อะไรให้สิทธิ์ Decision หนึ่ง ถูกเรียกว่า Stable?". The coupon branch graduates to the keyboard (EN #158: a branch that survives two cuts graduates to the queue) — this post IS the queued Measurement post ("coupon ของระบบเขียนคืออะไร").
 Draft-time gates:
 (a) re-skin — new decision: a Stable claim needs a return that can be MATCHED to the decision. Predecessor named the gap (?); this post names it. Not a 1:1 re-map.
 (b) thesis stack — user's chain (measurable → compass → destination) = the felt difficulty the thesis resolves (makes the thesis clearer, not a new thesis); the closer question "อยากให้มีอะไรกลับมา" = parked as aกิ่ง (coupon-design post), not built into the body.
-(c) evidence ceiling — Hopkins mechanism = verified primary source (paraphrase stays inside the verified passage); reach/วิว numbers = structural observation (platform returns them for every post) — no specific numbers claimed; the three-changes case = logical boundary (conditional "ถ้า"), not a data claim; the one-change week is hedged ("บางครั้ง") and explicitly capped at "หนึ่งคำตอบ".
+(c) evidence ceiling — Hopkins mechanism = verified primary source (paraphrase stays inside the verified passage); reach/วิว numbers = structural observation (platform returns them for every post) — no specific numbers claimed; the three-changes case = logical boundary (conditional "ถ้า"), not a data claim; the one-change week is hedged ("อาจ") and explicitly capped at "หนึ่งคำตอบ".
 (d) killer line — "ตัวเลขจะกลายเป็นเข็มทิศ — เมื่อมันรู้ว่ามันกำลังตอบ Decision ไหน" is scoped as a QUALIFICATION (necessary condition); the counterexample (a matchable but wrong number) is already owned by the predecessor's "เข็มทิศที่ดูจริง แต่ชี้ผิด" — series-level, not re-argued here.
 (e) scene spine — scene = the question returns + the chain on the desk + the word that wouldn't go away ("or not" = the user's own fragment, the receipt); the post ends where the event ends (the chain gets its link; the question moves); the concept (designing the return) becomes the closing question.
 (f) receipts — predecessor published 2026-10-01 (index.json) vs "ไม่กี่วันก่อน" (today 2026-10-04 = 3 วัน) ✓; "Hopkins เขียนไว้ในปี 1923" = verified reference ✓; no other time-relative claims; no invented numbers.
+Review round (2026-10-04: pre-critique review → user "rewrite draft") — 3 fixes implemented, spine unchanged:
+1. EN #152 (Source ≠ Interpretation): mechanism paraphrase now marked "สิ่งที่พรอ่านออกมาคือ" (v1 paraphrased in the source's voice).
+2. EN #164 (micro-paraphrase trap): coupon line re-anchored INSIDE the verified passage — "โฆษณาทุกชิ้นถูกทำเครื่องหมาย" (keyed advertising) + "คำตอบส่วนใหญ่ กลับมาทางคูปอง" (largely by the use of coupons); v1 "โฆษณาทุกชิ้นมีเครื่องหมาย — คูปอง" over-derived marker = coupon.
+3. EN #70/#154 (absolute): closer "เท่านั้น" dropped — "มองเห็นได้ผ่านเข็มทิศชนิดนี้" (claim intact, exclusivity claim gone).
+Not adopted (deliberate): H3 keeps its necessary-condition scope (counterexample owned by predecessor's "เข็มทิศที่ดูจริง แต่ชี้ผิด", series-level); the one-change week stays a hedged hypothesis (EN #135) — hedge lives in "อาจ...จริง / บังเอิญ / หนึ่งคำตอบ".
 Candidate hooks (for the critique round):
 A (in use): "ตัวเลขกลับมา — แต่ไม่ใช่ทุกตัวเลขจะเป็นเข็มทิศ"
 B: "เข็มทิศไม่ได้อยู่ในตัวเลข — แต่อยู่ใน 'มันตอบ Decision ไหน'"
@@ -66,13 +71,19 @@ or not
 
 Hopkins เขียนไว้ในปี 1923
 
-ว่าหลักการเรียนรู้จากการทดสอบ
+สิ่งที่พรอ่านออกมาคือ
+
+หลักการเรียนรู้จากการทดสอบ
 
 และผลของทุกการทดสอบ ถูกจดไว้
 
 .
 
-โฆษณาทุกชิ้นมีเครื่องหมาย — คูปอง
+โฆษณาทุกชิ้นถูกทำเครื่องหมาย
+
+คำตอบส่วนใหญ่ กลับมาทางคูปอง
+
+.
 
 คำตอบที่กลับมา
 
@@ -196,7 +207,7 @@ everything → can measure → **จับคู่กับ Decision ได้*
 
 Decision ที่หยุดถูกถาม
 
-มองเห็นได้ผ่านเข็มทิศชนิดนี้เท่านั้น
+มองเห็นได้ผ่านเข็มทิศชนิดนี้
 
 .
 
