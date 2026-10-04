@@ -1199,3 +1199,17 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - Nits (NOTES only, ของ user เอง): 3 trailing "> " ว่างหลัง quote = paste artifact (systematic 3/3; archive เก็บของจริง, Notion body ตัดออกเพื่อไม่ให้กลายเป็น empty quote blocks); "มันก็แค่...ยุ่งยาก" ellipsis style ตาม choice ของพร
 - Notion: PATCH หน้าเดิม `3eedf8d8-8d8c-819e-8d42-f14b9d584e1a` (Status: rewritten, Topic updated = PUBLISH provenance) — read-back 132 blocks, 12/12 markers, CUT survivors 0; **bold-in-quote รอดทั้ง 3 (single-line bold quotes import ได้ — pitfall 2026-10-02 คือ class หลายบรรทัด/multi-item, ขอบเขตแคบลง)**
 - Publish archive: web-archive/20261003-friction-reports-publish.md (verbatim)
+
+### 2026-10-04 — pair #35 PRE-REWRITE: Benz r1 on agent-review v2 (analyze-only)
+
+- **Flow ใหม่ครบวงจรครั้งแรก:** v1 fresh → agent pre-critique review (3 fixes: EN #152/#164/#70+#154) → user "rewrite draft" → v2 → **Benz r1 วิจารณ์ v2** — 3 fixes ของ review รอดหมด (coupon paraphrase / source-voice / absolute ไม่ถูกพูดถึง) = pre-critique review ลดของที่ Benz ต้องจับได้จริง; สิ่งที่เหลือให้ Benz จับ = การ Compile ระดับ Architecture ไม่ใช่ word-level
+- **Verdict:** "เจอของจริง แต่ Compile `?` เร็วไป" — ครึ่งแรก (story + Hopkins + สองโหมด) แข็ง; ครึ่งหลัง (chain ตั้งชื่อ `?` + destination + closer ออกแบบระบบ) = over-compile
+- **Blind spot ใหญ่สุด = hypothesis → architecture:** def-A มี "อาจ" (ระวังถูกชั้น) แต่ closer-flow `จับคู่ได้ → Stable` ตั้งชื่อ `?` ทั้งช่อง — stress test: จับคู่สมบูรณ์ (วิว +40% เปลี่ยนอย่างเดียว) ก็ยังตอบ "Stable แล้ว?" ไม่ได้ (ครั้งเดียว-ซ้ำ / Context / Metric↔Destination / Trade-off) — critic สั่ง "อย่าเพิ่ม 4 ตัวนี้" (ต่างจาก #33 กิ่ง 2 ที่ critic เตือนเรื่อง anatomy)
+- **Architecture ซื่อสัตย์กว่า:** `?` ค้างในโซ่ — Repeated Decision ↓ Result ที่จับคู่กับ Decision ได้ ↓ ? ↓ Stable Decision ↓ Default — "ไม่ได้ปิดช่องว่าง แค่ขยับเข้าใกล้หนึ่งชั้น"
+- **Necessary ≠ sufficient (subtitle):** "จะกลายเป็นเข็มทิศ เมื่อจับคู่ได้" = อ้างพอ; บทพิสูจน์ได้แค่ "ถ้ายังจับคู่ไม่ได้ — ยังช่วยตอบไม่ได้" — critic's subtitle: "วัดได้อย่างเดียวอาจยังไม่พอ — ตัวเลขนั้นกำลังตอบ Decision ไหน?"
+- **CUT 3:** `destination` ในลูกโซ่ (เปิด Metric–Goal Alignment framework ที่ "ยังไม่ถึงเวลา" — ใช้ Hopkins เปิด question เดียวพอ) / "หยุดเป็นการเดา" (measurement เพิ่ม Evidence ไม่ได้ฆ่าการเดา) / closer "อยากให้มีอะไรกลับมา" (= เริ่มออกแบบ Measurement System — pattern เดิม: Unknown → Candidate → Compile → System design — "หยุดก่อน System")
+- **REWORD:** "เครื่องหมาย" = Hopkins implementation ไม่ใช่ universal asset — asset ของพร = "Result ↔ Decision ต้อง Trace กลับหากันได้"
+- **NEW critic asset:** **Measured ≠ Decision-relevant** — "ตัวเลขกลับมา ไม่ได้แปลว่ามันกำลังตอบ Decision ที่เราถาม"; lineage ไม่ Force: Indicator (#27) → Feedback → Metric = skill เดียวกัน "อย่าถามแค่ว่ามี Data ไหม — ถามว่า Data ชิ้นนี้มีสิทธิ์ตอบคำถามไหน"
+- **Quote-verify 14/14 HIT + 1 drift:** Q14 critic แทรก hedge "อาจจะมีโอกาส" ใน def-A ที่ตัวจริง UNHEDGED ("ถึงจะเริ่มให้สิทธิ์") — ครั้งแรกที่ drift ทิศ **critic-hedges-the-draft** (เดิม drift ทิศเดียว: ทำให้ assertion แข็งขึ้นก่อนวิจารณ์ #31); criticism ยังยืนเพราะ closer-flow ยังตั้งชื่อ `?` ทั้งช่อง
+- **Guard ซ้ำ:** "ยังไม่ต้องตั้งชื่อ Framework คับ"
+- **Status:** analyze-only — draft + Notion UNTOUCHED; publish version รอจาก user (freeze list = acceptance markers ใน archive header)
