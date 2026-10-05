@@ -1237,3 +1237,17 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - **Skeleton (engine):** เด้ง → ถาม → คำโผล่ → หยุด → กลับมา inspect → คำบรรยาย behavior ได้ แต่ไม่ตอบ why → better question "ถ้าเอาคำออกจากคำอธิบาย — ต้องกลับไปถามอะไร?" + ห้ามพิสูจน์ 4 ข้อ (Hustle ผิด/ทำงานน้อยดีกว่า/ผู้ได้ประโยชน์/ความหมายชีวิต)
 - **Quote-verify 11/11 HIT** (4 MISS แรก = marker bug ฝั่งเช็ค: Thai spacing/beat separators/> prefix) + paraphrase nits 2: "ทุก Notification" (ตัวเติม), "หลายปีต่อมา" (skeleton เติม time anchor ที่ draft ไม่มี — publish ต้อง verify กับพรก่อนใช้, EN #108)
 - **Status:** analyze-only — draft + Notion UNTOUCHED; freeze list + markers ใน archive header
+
+### 2026-10-05 — pair #36 CLOSED: user publish (1.24× v1) — Benz r1 → publish next day
+
+- **Freeze/CUT graded 14/14 zero:** ทุกครั้ง 0 / เสมอ 0 / ไม่เคยตอบ 0 / เสียอำนาจ 0 / ชะลอการตั้งคำถาม 0 / เขาได้อะไร 0 / งานเดินต่อ+ตัวเลขเลิกบอก+ไม่มีอะไรพัง (section 2 ทั้งก้อน) 0 / อยู่เพื่ออะไร 0 (scale jump ตาย) / ค่าขึ้นรถ 0 — "หลายปีต่อมา" ของ skeleton ก็ไม่ถูกใช้ (seed ถูกพิสูจน์แล้วว่าไม่จำเป็น: publish กลับมา inspect ได้โดยไม่ต้องมี time anchor)
+- **Critic markers 13/13:** subtitle ใหม่ = คำตอบของ stress test ในตัว ("อาจอธิบายสิ่งที่พรทำได้ — แต่ไม่ได้แปลว่ามันตอบว่า ทำไม..."); title เปลี่ยนจาก absolute เป็น temporal mechanic
+- **PUBLISH MOVES ใหม่ (reverse-engineered):**
+  1. **Pattern-coin → performed ไม่ imported** — "Label อาจเป็น Answer ที่มาถึงก่อน Question ถูก Inspect" กลายเป็น title "มีคำหนึ่งที่มาถึง — ก่อนคำถามจะถูกถามต่อ" (Label/Answer/Inspect = 0 ใน body; รอดมาแค่ "Behavior" คำเดียวที่ concrete พอ)
+  2. **Census = content** — คำตอบของ stress test กลายเป็น section ตรง ๆ ("พรยังไม่รู้ว่า...บ่อยแค่ไหน" + "พรมีแค่เหตุการณ์หนึ่ง") = evidence-status ของบทถูกประกาศเป็นส่วนหนึ่งของบท (EN #110/#160 กลายเป็น prosa)
+  3. **Externalized word → re-owned** — v1 "ก่อนที่คำเดิมจะเข้ามา" (คำลอยมาเอง) → publish "ก็ทุ่มเทไง" (เสียงพูดของตัวเองในอดีต) = คำที่ narrator ใช้เป็นของ narrator ที่ต้อง retract เอง
+  4. **Better-question closer = staged replay** — คำถามปิดของ critic ถูก implement เป็นการ replay เช้าวันเดิมโดยตัดคำร้ายออก ("เหลือแค่ มีข้อความเข้ามา / พรกำลังจะตอบ / แล้วพรสงสัยว่า ทำไมต้องตอบทุกอัน") จบ "แค่คืนคำถามให้มัน" = EN #47 (close the loop with the SAME input) ตัวอย่างที่สมบูรณ์ที่สุด
+  5. **Anti-judgment line ก่อนใครจะถาม** — "โพสต์นี้ไม่ได้บอกว่า ความทุ่มเทเป็นเรื่องผิด" = not-pitching รูปแบบ personal (ป้องกันคำอ่านแบบ social critique ที่ critic เตือน)
+- Battery: 214 wc-w (1.24× v1), H1 6 / H3 1, beats 55, `>` 8, พร 27 / เรา 2 / คุณ 0 / คับ 0, codepoint + adjacency CLEAN; ending = question frame (#ก่อนนอน) + open state ("คำถามยังอยู่") — EN #174 deliberate
+- Notion: PATCH หน้าเดิม 200×2 (Name ใหม่, Status → rewritten) → read-back 161 blocks, markers ครบ, CUT 0, bold-in-quote fix 3 blocks (replay quote block — multi-line import หลุดตาม class เดิม)
+- Series: pair #36 CLOSED; กิ่ง park: (a) Leverage/Output-vs-hours (งานเดินต่อโดยไม่นั่ง) (b) perceived-urgency-vs-consequence (บางแจ้งเตือนไม่ตอบแล้ว) — รอ evidence ชนตาม EN #10/#158
