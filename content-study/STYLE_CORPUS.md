@@ -1225,3 +1225,15 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - Battery publish: 286 wc-w (1.18× v2), H1 6 / H3 1, beats 48, `>` 6, พร 18 / เรา 6 / คุณ 0 / คับ 0, codepoint + adjacency CLEAN, do-not-add 4 ตัวแปร = 0 ทั้งหมด
 - Notion: PATCH หน้าเดิม `3efdf8d8-8d8c-81ec-8aab-cf1f547c34de` 200×2 (Name = title ใหม่, Status → rewritten) → read-back 164 blocks, markers 22/22, CUT 0, chain-v2 ตาย
 - Series state: Repeated Decision → ? → Stable → Default — `?` ยังเปิดอยู่ + ชั้นใหม่ที่ต้อง Inspect (Result มาจาก Decision ไหน); กิ่ง park: coupon-design / Metric–Goal Alignment (ยังไม่ถึงเวลา ตาม critic)
+
+### 2026-10-05 — pair #36 PRE-REWRITE: Benz r1 on fresh CURRENT FORM v1 (analyze-only)
+
+- **Verdict:** "มีแกนที่ดี แต่เขียนเกิน Evidence ไปไกลกว่าหลายบทล่าสุด" — engine = เหตุการณ์เดียว (คำถามลอย 2-3 วินาที → "ทุ่มเท นี่แหละ" → คำถามหยุด) "ตรงนี้พอแล้ว และแข็งมาก"
+- **กิ่งใหม่ 2 ที่ critic สั่งตัดจากบท:** (a) งานเดินต่อโดยไม่นั่ง + ตัวเลขเลิกบอก = OPB/Leverage/Output-vs-hours (b) "ไม่มีอะไรพัง" = perceived-urgency-vs-actual-consequence — pattern: section "สิ่งที่พบเห็นตัวเอง" คือประตูที่ second thesis เดินเข้ามาเอง
+- **จุดตัดแรงสุด = คำถาม incentive ("เขาได้อะไรจากการที่พรเชื่อคำนั้น")** — Actor+Incentive ไร้ evidence ของ actor = บทพลิกจาก Self-inspection เป็น Social critique — บทเรียน: SSOT anchor (Power Test) unlabeled ยังไม่พอ ต้อง anchor-in-case (EN 19)
+- **"ทุกครั้ง/เสมอ/ไม่เคย" = ครั้งที่ 4 ของ absolute-family** (#33/#31/#30/#36) — critic: "พรมี Log จริงไหม?" + stress test ปิดท้าย "ถ้าอย่างหลัง เขียนแค่อย่างหลังคับ" → กฎ draft-time ใหม่: รัน stress test นี้ก่อน file (EN 20)
+- **Scale-jump gate:** operational (ทำไมต้องตอบทุกอัน) → existential (อยู่เพื่ออะไร) ในบทเดียว = กระโดด; คำถามใหญ่ทำงานได้ดีเมื่อ "ไม่ได้ไป" (คนอ่านเห็นเองข้างหลัง) (EN 21)
+- **Critic assets:** "Label อาจเป็น Answer ที่มาถึงก่อน Question ถูก Inspect" + **Label vs Explanation** ("บางคำอธิบายสิ่งที่เห็นได้ดี จนเผลอคิดว่าอธิบายเหตุผลไปด้วย") + lineage ต่อจาก #35: Indicator/Feedback/Metric/**Label** — ห้าม compile เป็น framework (guard ซ้ำ)
+- **Skeleton (engine):** เด้ง → ถาม → คำโผล่ → หยุด → กลับมา inspect → คำบรรยาย behavior ได้ แต่ไม่ตอบ why → better question "ถ้าเอาคำออกจากคำอธิบาย — ต้องกลับไปถามอะไร?" + ห้ามพิสูจน์ 4 ข้อ (Hustle ผิด/ทำงานน้อยดีกว่า/ผู้ได้ประโยชน์/ความหมายชีวิต)
+- **Quote-verify 11/11 HIT** (4 MISS แรก = marker bug ฝั่งเช็ค: Thai spacing/beat separators/> prefix) + paraphrase nits 2: "ทุก Notification" (ตัวเติม), "หลายปีต่อมา" (skeleton เติม time anchor ที่ draft ไม่มี — publish ต้อง verify กับพรก่อนใช้, EN #108)
+- **Status:** analyze-only — draft + Notion UNTOUCHED; freeze list + markers ใน archive header
