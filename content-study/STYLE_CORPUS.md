@@ -1296,3 +1296,18 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - Notion: PATCH 2 ก้าว (props + /markdown replace_content) 200×2 → 145 blocks read-back, CUT 9/9, markers 10/10 — archive `web-archive/20261006-count-breath-publish.md`
 - Skill: rule (27) SOURCE-REVEAL round + "บิดมุม" detection (ดู corpus entry เต็ม; สรุป: ถาม source จริงก่อนวิจารณ์โครง / scene ที่ grounded บางส่วน ≠ source จริง / emotion ที่ไม่บีบ = เว้นไม่พูด)
 
+### 2026-10-06 — pair #39 CLOSED: chosen-path publish (166 wc-w = 1.60× v3) — Question เปลี่ยน ไม่ใช่ Result ล้มเหลว
+
+- **Rounds:** v1 118 (counterfactual gap) → v2 98 → Benz r1 (re-spine: user ตอบ forced question "ต้องการแค่แก้ได้") → v3 104 → **Benz r2 = PASS + freeze list 3 ข้อ** → publish 166
+- **Freeze list grades (publish vs r2 baselines):** 9/9 zero — เศษ thesis เก่า (สร้าง Data/ไม่สร้าง Data/observe ผล) 0/0/0 · failure section ทั้งก้อน 0 (เคสเดียวกันนี้/hypothesis ผิด/failure = ไม่มี) · "ยังไม่ได้ตอบ" 0 · conditional "สาเหตุคือ" → publish ใช้ "พรเจอว่า" (infer-safe wording เอง ไม่รอถาม) — เกรดผ่านทั้ง 3 ข้อ
+- **Provisional adds adopted 3/3:** "Result ไม่ได้เปลี่ยน — คำถามต่างหากที่เปลี่ยน" (Benz: ประโยคถือบท) · ladder **Works? → Easier? → Better? → Best?** (evaluation criteria ถูกเพิ่มทีหลัง — ตอนนี้เป็น section เต็มพร้อมคำถาม quoted 4 ตัว) · replacement ending "คำถามใหม่ที่เกิดขึ้นหลัง Decision จบแล้ว — จำเป็นต้องถูกตอบทุกคำถามไหม" (closer = Benz verbatim)
+- **Publish moves ใหม่ (reverse-engineered, 5):**
+  1. **คำถาม quoted เป็น H1-content ไม่ใช่ inline** — "ทางไหนดีที่สุด" / "ทางที่เลือก จะแก้ปัญหาที่เห็นอยู่ได้ไหม" ขึ้น quote block ตรง ๆ = คำถาม 2 ตัวถูกวางเทียบกันให้เห็นก่อนเล่าผล
+  2. **"แต่ตอนนั้น พรก็ไม่ได้ต้องการ Result ของมัน"** — แทนการอธิบายว่าทำไมไม่มี Data (วิธีตัดเศษ thesis เก่าของ Benz เอง — ไม่ต้องอธิบาย counterfactual แค่พูดว่าไม่ได้ขอ)
+  3. **Ladder เป็นเส้นเวลาของคำถาม ไม่ใช่ taxonomy** — Works → Easier → Better → Best เกิดตามลำดับหลังคำตอบมาถึง ("พอได้คำตอบแล้ว คำถามขยับไปเป็น") + ปิดด้วย hedge "ทั้งหมดอาจเป็นคำถามที่ถามได้ / แต่ไม่ใช่คำถามเดียวกับตอนเลือก"
+  4. **Section "Result เดิมไม่ได้ตอบน้อยลง"** — ป้องกัน misreading ที่ Benz r2 จุด 6 เตือน ("ยังไม่ได้ตอบ ทำให้เหมือนทั้งสองฝั่ง Unknown"): Result เดิมไม่ได้เสียความหมาย — คำถามเก่ายังตอบแล้ว คำถามใหม่ยังไม่มี Result ต่างหาก + คำถามสด "ต้องกลับไปหาคำตอบมันทุกครั้งหรือเปล่า" (complexity โผล่เป็นคำถาม ไม่ใช่ rule)
+  5. **Engine rule (Benz ห้ามใส่) = ไม่อยู่ในบท** ✓ — บทเล่าเหตุการณ์อย่างเดียว ไม่มีประโยค compile
+- Battery: 166 wc-w, พร 16 / เรา 0 / คุณ 0 / คับ 0, H1 6, beats 54, double-beat 5 (layout ผู้เขียน — คง verbatim), quotes 10 (คำถามเป็นตัวยืนหลักของบท — บทคุยกันด้วยคำถาม), scans CLEAN
+- Notion: body PATCH 200 → 155 blocks read-back, CUT 0, markers 6/6, no leak; archive `web-archive/20261006-chosen-path-publish.md`
+- **กิ่ง park (จาก Benz r2 จุด 5):** "Failure → Evidence Boundary" — failure ไม่ได้ diagnose ทั้ง hypothesis (indicator pattern) — graduates เมื่อมีเคสจริง
+
