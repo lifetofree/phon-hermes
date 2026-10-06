@@ -260,6 +260,11 @@
 - huggingface.co จากเครื่องนี้ ~1.5 MB/s — ถ้าช้าให้ลอง mirror `hf-mirror.com` แทน `huggingface.co` ใน URL (path เดียวกัน)
 
 ## Recent Activity
+- 2026-10-06 (6th): **pair #40 CLOSED — embrace-the-limit publish (156 wc-w = 1.16× v2) + freeze grades 8/8 (r2+r3 รวม)** — user ส่ง publish "พอหยุดถามว่า ถ้ามี 48GB — พรเริ่มเห็นว่า 32GB นี้ทำอะไรได้":
+  - ครบรอบ: v1 143 → Benz r1 (re-spine ตัด philosophy family) → v2 135 → Benz r2 (PASS เกือบ Freeze) → Benz r3 (PASS + micro-fixes: ทุกอย่าง/evidence-สถานะ/วงเล็บ/ตลอด) → publish
+  - Grades: freeze list 8/8 zero — "ตัดสินใจทุกอย่าง...ตัวตั้ง" 0 → "โดยถือว่า 32GB จะยังอยู่ตรงนี้" (Benz ทางเลือกที่ชอบ) · "มันยืนอยู่บนเครื่องนี้ทั้งหมด" 0 → evidence สถานะชัด 4 แบบ (workload / รายงานเช้า*บางส่วน* / comparison / ประสบการณ์→โพสต์) + "ทั้งหมดนี้เกิดขึ้น ขณะที่เครื่องยังมี 32GB เท่าเดิม" ก่อน "ไม่มีชิ้นไหนเกิดบนการ์ด 48GB ในฝัน" · วงเล็บ boundary 0 → ยืนตรง + "พรยังไม่รู้" กลับมา 1 จุด ณ boundary (ตาม r3) · "ตลอด" 0 → "ถ้า 32GB ยังอยู่ตรงนี้" (ไม่สร้าง Forever Decision)
+  - Publish moves 4: question-boundary เป็นโครง (คำถามใหญ่ "ยังไม่ได้ถาม" → โผล่เป็น quote section ถัดไป) / ปิด arc หนีตัวเลขด้วยคู่ตรงข้ามโดยไม่ใช้ กอด/ยอมรับ / evidence สถานะ verbatim / closer freeze จาก v2 + blacklist ไม่มีหลุด
+  - Battery: 156 wc-w, พร 15/เรา-คุณ-คับ 0, H1 5, beats 38, double-beat 0, scans CLEAN; Notion body PATCH 200 → 129 blocks CUT 0 markers 13/13; archive `web-archive/20261006-embrace-limit-publish.md`; corpus #40 CLOSED + index (402); กิ่ง park สะสม: "Question Swap on Constraint" (evidence 2 ชิ้น) + "Failure → Evidence Boundary"; push b720ea2
 - 2026-10-06 (5th): **pair #39 CLOSED — chosen-path publish (166 wc-w = 1.60× v3) + freeze grades 9/9** — user ส่ง publish "พรถามว่า แก้ได้ไหม — แต่พอแก้ได้ กลับถามว่า เลือกดีที่สุดหรือยัง":
   - **Freeze list (Benz r2) เกรดผ่านทั้ง 3 ข้อ:** เศษ thesis เก่า 0/0/0 · failure section 0 ทั้งก้อน · "ยังไม่ได้ตอบ" 0 + unknown ใหม่ = "คำถามใหม่จำเป็นต้องถูกตอบไหม" (Benz verbatim) · **conditional ตอบเอง: "สาเหตุคือ" → "พรเจอว่า"** (infer-safe wording — ไม่ claim root cause)
   - Provisional adds 3/3 adopted: "Result ไม่ได้เปลี่ยน — คำถามต่างหากที่เปลี่ยน" · ladder **Works?→Easier?→Better?→Best?** เป็น section เต็ม (คำถามขยับหลังคำตอบมาถึง) · closer = คำถามใหม่จำเป็นไหม
