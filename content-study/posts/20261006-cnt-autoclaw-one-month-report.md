@@ -7,15 +7,9 @@ Type: Long form tech — usage report / decision post (v2 TECH form)
 Status: Draft — รอ review
 Date: 2026-10-06
 
-⚠️ SEED VERIFY BEFORE PUBLISH (user: ตัวเลขมาจาก AutoClaw บนอีกเครื่อง — ต้องส่งหลักฐานจากเครื่องนั้นมา verify ก่อน publish):
-- [ ] 43 ไฟล์ / 54MB ในโฟลเดอร์งานเขียน (path + screenshot)
-- [ ] skills 95 ตัวในเครื่องนั้น (ตัวเลข official แค่ "50+ built-in")
-- [ ] cron รายงานจำนวนผู้ใช้จาก Cloudflare D1 (task-logger) → Telegram ทุก 8 โมง — สถานะรอบล่าสุด "ok" (screenshot ผลล่าสุด)
-      NOTE (user 2026-10-06): cron นี้อยู่ใน AutoClaw และดึงจาก D1 เหมือนกัน แต่เป็นคนละรายงานจาก cron ข่าว (daily-foreign-news) ของ Hermes บน PHON-SERVER — ห้ามสับสนสองงานนี้ตอน verify
-- [ ] เคส Discord plugin debug → จดลง memory เอง → 2 สัปดาห์ต่อมาไม่เจอซ้ำ (ไฟล์ memory / บันทึกเหตุการณ์)
-- [ ] job timeout ที่เจอมาแล้ว (เคสจริงสำหรับ section ไม่น่าเชียร์)
-- [ ] ระยะเวลาใช้จริง "1 เดือนกว่า" (วันเริ่มใช้)
-- [ ] คำอธิบายเครื่องใน body ("เครื่องที่แยกตั้งไว้ให้ทำงานอัตโนมัติ") = การประกบของ agent — ให้พร confirm นิยามเครื่องนั้นจริง
+✅ PROVENANCE CONFIRMED (owner, 2026-10-06): ตัวเลข section "หลักฐานจากเครื่องจริง" ทั้งหมดมาจาก AutoClaw บนเครื่องจริงของพร (เครื่องแยก) — 43 ไฟล์/54MB, skills 95, cron ดึง Cloudflare D1 (task-logger) → Telegram ทุก 8 โมง สถานะ ok, เคส Discord plugin debug → memory, เคยเจอ job timeout, ระยะใช้งาน "1 เดือนกว่า" — owner-attested ไม่ต้องรอ artifact เพิ่มก่อน publish
+      (optional: ถ้าอยากเสริม credibility ตอน publish แนบ screenshot จากเครื่องได้ แต่ไม่บังคับ)
+      NOTE (user 2026-10-06): cron D1 ใน AutoClaw เป็นคนละรายงานจาก cron ข่าว (daily-foreign-news) ของ Hermes บน PHON-SERVER — ห้ามสับสนสองงานนี้
 
 Re-skin check: Part 1 = review เครื่องมือ / Part 2 = combo ecosystem / Part 3 = DECISION "runtime อยู่ที่ไหน (local vs cloud)" / Part 4 (this) = DECISION ก่อนหน้านั้น "ควรมี runtime เลยไหม เมื่อไหร่" — จาก on-demand chat → งานที่มีตารางเวลา — ไม่ re-map 1:1
 Bridge: Part 3 ถามที่อยู่ของ runtime — โพสต์นี้ถอยหนึ่งคำถาม มาตอบ "ใครควรมี runtime ตั้งแต่แรก"

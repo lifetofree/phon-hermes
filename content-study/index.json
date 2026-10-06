@@ -3173,6 +3173,6 @@
     "notion_page_id": "3f1df8d8-8d8c-8120-a1be-d7b38d720de4",
     "status": "draft",
     "series": "AutoClaw Part 4",
-    "note": "ตัวเลขเครื่องจริง (43 ไฟล์/54MB, skills 95, cron D1→Telegram, Discord memory) = SEED รอหลักฐานจากเครื่อง AutoClaw ก่อน publish — ต่างเครื่องจาก PHON-SERVER; cron D1 ใน AutoClaw และ cron ข่าว Hermes ดึง D1 คนละรายงาน (user ยืนยัน 2026-10-06)"
+    "note": "ตัวเลขเครื่องจริง (43 ไฟล์/54MB, skills 95, cron D1→Telegram, Discord memory) — owner-attested 2026-10-06 ว่ามาจาก AutoClaw บนเครื่องจริงของพร (เครื่องแยกจาก PHON-SERVER); cron D1 ใน AutoClaw และ cron ข่าว Hermes ดึง D1 คนละรายงาน"
   }
 ]
