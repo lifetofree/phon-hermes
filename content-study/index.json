@@ -3196,10 +3196,14 @@
   {
     "date": "2026-10-06",
     "slug": "20261006-cnt-chosen-path-no-report",
-    "title": "Pair #39 v1 fresh: เลือกทางแก้ — แล้ว \"เลือกถูกไหม\" ก็ถูกทิ้งไว้โดยไม่มีรายงาน (a working choice closes the comparison — the unchosen path never runs; successor of the question/decision arc)",
+    "title": "พรถามว่า \"แก้ได้ไหม\" — แต่พอแก้ได้ กลับถามว่า \"เลือกดีที่สุดหรือยัง\"",
     "file": "posts/20261006-cnt-chosen-path-no-report.md",
     "link": "https://app.notion.com/p/3f1df8d88d8c815892ffc477e11a2175",
-    "note": "fresh v1 118 wc-w; Observation→Question; real case = llama-server boot-race fix (verified ExecStartPre wait-for-cuda); NO tok/s (notes inconsistent, CUT per EN #150); distinct from measurable-not-compass (that=ambiguous return, this=clear return that destroys the counterfactual set); full-พร register (เรา 0)",
-    "notion_page_id": "3f1df8d8-8d8c-8158-92ff-c477e11a2175"
+    "note": "pair #39 re-spined — v1 118 (counterfactual gap) → v2 98 → Benz r1: 'เลือกถูก' undefined + success ไม่ได้ปิด inquiry + อย่าสร้าง experiment เกิน; user ตอบ forced question (ต้องการแค่ 'แก้ได้') → v3 104 wc-w: re-spine = คำถามเดียวตอนเลือก → Result พอ → หัวถามใหม่หลังเห็น Data; asset = อย่าเพิ่มมาตรฐาน Evidence หลัง decision จบ; closer = Benz verbatim; CUT เลือกถูกไหมทั้งบท",
+    "notion_page_id": "3f1df8d8-8d8c-8158-92ff-c477e11a2175",
+    "status": "rewritten (v3 re-spine per Benz r1 2026-10-06)",
+    "critique_archive": "content-study/web-archive/20261006-chosen-path-benz-critique.md",
+    "v2_archive": "content-study/web-archive/20261006-chosen-path-v2.md",
+    "v1_archive": "content-study/web-archive/20261006-chosen-path-v1.md"
   }
 ]
