@@ -3180,12 +3180,17 @@
   {
     "date": "2026-10-06T00:00:00",
     "slug": "20261006-cnt-count-breath-what-we-see",
-    "title": "ตั้ง timer นับลมหายใจ — แต่สิ่งที่เห็นจริงๆ ไม่ใช่ลมหายใจ",
+    "title": "ตอนมองเขาหายใจ — พรเผลอนับสิ่งที่ลมหายใจไม่ได้บอก",
     "file": "content-study/posts/20261006-cnt-count-breath-what-we-see.md",
     "link": "https://app.notion.com/p/timer-3f1df8d88d8c81f39646e17dc587a208",
-    "note": "v1 62 wc-w → Benz critique (10 แต้ม) → v2 52 wc-w (0.84×): รวมสอง thesis เป็นลำดับเดียว, CUT ช่วงว่าง/ฉากหลัง/จากไป/หยุดจริงๆ/double-beat, thesis เลื่อนจาก H3 → บทปิด section กลาง, closer = forced question 'ระหว่างที่นับหลุดกับตอนรู้ตัว — มีอะไรปรากฏ' + honest spine 'ตรงนั้นพรไม่ทันเห็น'; critique + v1 archives ใน web-archive/",
+    "note": "pair #38 CLOSED — v1 62 → v2 52 → publish 101 (1.94× v2); Benz r2 SOURCE REVEAL: source จริง = น้องหมาป่วย (v1-v2 scene 'timer' = fiction wrapper ที่บิดมุม); publish = scene restore + น้องหมาเป็น evidence (ไม่มี death-word/อาการ/life-lesson/framework); CUT 9/9; closer 'ครั้งนี้ ยังอยู่ตรงนี้'",
     "notion_page_id": "3f1df8d8-8d8c-81f3-9646-e17dc587a208",
-    "status": "draft v2 (filed 2026-10-06, รอส่ง Benz DNA รอบสอง)",
-    "series": "pair #38"
+    "status": "rewritten (publish 2026-10-06, pair #38 CLOSED)",
+    "series": "pair #38",
+    "publish_archive": "content-study/web-archive/20261006-count-breath-publish.md",
+    "critique_archives": [
+      "content-study/web-archive/20261006-count-breath-benz-dna-critique.md",
+      "content-study/web-archive/20261006-count-breath-benz-dna-critique-r2.md"
+    ]
   }
 ]
