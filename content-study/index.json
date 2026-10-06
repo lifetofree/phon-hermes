@@ -3213,8 +3213,10 @@
     "date": "2026-10-06T00:00:00",
     "slug": "20261006-cnt-embrace-the-limit",
     "file": "content-study/posts/20261006-cnt-embrace-the-limit.md",
-    "status": "draft v1 (pair #40, ยังไม่ลง Notion)",
+    "status": "draft v1 (filed 2026-10-06, รอ Benz)",
     "series": "Observation arc (successor of count-breath #38 / chosen-path #39)",
-    "note": "fresh v1 143 wc-w; scene = 2× RTX 5060 Ti 32GB + Qwen3.8-27B 16.5GB (verified machine facts, tok/s CUT per EN #150); spine = ต่อสู้กับขีด (ลัด/รอของใหม่/โทษเครื่อง) → ยอมอยู่ในขีด (32GB คือ 32GB) → เครื่องจำกัดกลายเป็นพื้นที่ทั้ง local-LLM build ยืนอยู่ → ความเป็นจริงที่ปรากฏไม่ได้มาพร้อมคำตอบ มาพร้อมคำถาม; re-skin gates: limitless(09-28)=selector vs ground, margin(09-25)=ที่ว่าง vs ขอบแข็ง, hormesis=growth claim CUT 0, user-not-machine=stop-at-limit vs stay-at-limit"
+    "note": "fresh v1 143 wc-w; scene = 2× RTX 5060 Ti 32GB + Qwen3.8-27B 16.5GB (verified machine facts, tok/s CUT per EN #150); spine = ต่อสู้กับขีด (ลัด/รอของใหม่/โทษเครื่อง) → ยอมอยู่ในขีด (32GB คือ 32GB) → เครื่องจำกัดกลายเป็นพื้นที่ทั้ง local-LLM build ยืนอยู่ → ความเป็นจริงที่ปรากฏไม่ได้มาพร้อมคำตอบ มาพร้อมคำถาม; re-skin gates: limitless(09-28)=selector vs ground, margin(09-25)=ที่ว่าง vs ขอบแข็ง, hormesis=growth claim CUT 0, user-not-machine=stop-at-limit vs stay-at-limit",
+    "link": "https://app.notion.com/p/3f1df8d88d8c81ea8c2efe7f85b80016",
+    "notion_page_id": "3f1df8d8-8d8c-81ea-8c2e-fe7f85b80016"
   }
 ]
