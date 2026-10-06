@@ -259,6 +259,11 @@
 - huggingface.co จากเครื่องนี้ ~1.5 MB/s — ถ้าช้าให้ลอง mirror `hf-mirror.com` แทน `huggingface.co` ใน URL (path เดียวกัน)
 
 ## Recent Activity
+- 2026-10-06 (5th): **pair #39 CLOSED — chosen-path publish (166 wc-w = 1.60× v3) + freeze grades 9/9** — user ส่ง publish "พรถามว่า แก้ได้ไหม — แต่พอแก้ได้ กลับถามว่า เลือกดีที่สุดหรือยัง":
+  - **Freeze list (Benz r2) เกรดผ่านทั้ง 3 ข้อ:** เศษ thesis เก่า 0/0/0 · failure section 0 ทั้งก้อน · "ยังไม่ได้ตอบ" 0 + unknown ใหม่ = "คำถามใหม่จำเป็นต้องถูกตอบไหม" (Benz verbatim) · **conditional ตอบเอง: "สาเหตุคือ" → "พรเจอว่า"** (infer-safe wording — ไม่ claim root cause)
+  - Provisional adds 3/3 adopted: "Result ไม่ได้เปลี่ยน — คำถามต่างหากที่เปลี่ยน" · ladder **Works?→Easier?→Better?→Best?** เป็น section เต็ม (คำถามขยับหลังคำตอบมาถึง) · closer = คำถามใหม่จำเป็นไหม
+  - Publish moves 5 อย่างใน corpus: คำถาม quoted เป็น content / "ไม่ได้ต้องการ Result ของมัน" (ตัด counterfactual โดยไม่อธิบาย) / ladder เป็นเส้นเวลาไม่ใช่ taxonomy / section "Result เดิมไม่ได้ตอบน้อยลง" (กัน misreading จุด 6) / engine rule (ห้ามใส่) ไม่อยู่ในบท ✓
+  - Battery: 166 wc-w, พร 16/เรา-คุณ-คับ 0, H1 6, beats 54, quotes 10 (บทคุยด้วยคำถาม), scans CLEAN; Notion body PATCH 200 → 155 blocks CUT 0 markers 6/6; archive `web-archive/20261006-chosen-path-publish.md`; กิ่ง park: "Failure → Evidence Boundary" (รอเคสจริง); push 69535b9
 - 2026-10-06 (4th): **pair #38 CLOSED — count-breath publish (source restore) + skill rule (27) SOURCE-REVEAL** — user ส่ง publish "ตอนมองเขาหายใจ — พรเผลอนับสิ่งที่ลมหายใจไม่ได้บอก" (101 wc-w = 1.94× v2) + "แค่ reverse engineering เก็บไว้พัฒนาต่อ":
   - ครบรอบ: v1 62 → Benz r1 (10 แต้ม) → v2 52 → Benz r2 (PASS + **SOURCE REVEAL: source จริง = น้องหมาป่วย, scene timer = บิดมุมกลัวแรงไป → "ปลอดภัยขึ้นแต่เสียสิ่งที่เห็นจริงเกือบหมด"**) → publish
   - Grades: CUT 9/9 zero (สิ่งเดียว/การนับไม่ได้เริ่มลมหายใจ/มันเริ่มการเห็น/จะดูตรงนั้นให้ดี/title เก่า/scene timer ทั้งก้อน) · source-reveal filter ผ่าน (death-word 0, อาการ-ความกลัว 0, life-lesson 0, framework 0 — "ดูเหมือนเป็นข้อมูล" 1 hedged) · r2 markers 19/19 · scans CLEAN
