@@ -301,3 +301,7 @@
 .
 
 พรยังไม่รู้
+
+.
+
+#Adduckivity #DuckOS #NeuroDivergent #Mindfulness #Attention #Observation #SystemThinking
