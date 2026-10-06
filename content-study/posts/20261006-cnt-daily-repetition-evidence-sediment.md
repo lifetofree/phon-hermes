@@ -1,39 +1,24 @@
 <!--
 ContentID: 20261006-CNT-REPSED-01 (placeholder)
-Status: draft (v1 — fresh, CURRENT FORM, pair #40)
-Type: CURRENT FORM (system/mindset, post-#17 synthesis)
-Brief (user, 2026-10-06): "draft content from this idea — การทำซ้ำๆทุกวัน -> หาหลักฐาน -> ตะกอนความคิด"
-Beat mapping (3 beats, 1:1 to the spine):
-- การทำซ้ำๆทุกวัน → opening story + dispatch (2 modes of the same repetition)
-- หาหลักฐาน → section "หลักฐานไม่ใช่ วันที่ทำ — แต่เป็น วันที่ทำอีก" (first time = event, second time = evidence, real corpus numbers)
-- ตะกอนความคิด → section "ตะกอนไม่ใช่ความคิด — แต่เป็น Decision ที่ไม่ต้องทำใหม่" + near-miss section (evaporation + rut)
-Draft-time gates (run at write time):
-(a) re-skin — flow-vs-stock (2026-09-22) owns Flow→Pattern→Stock + "ซ้ำ 3+ ครั้ง" + "หน้าที่ของ Flow". THIS post's new decisions it lacked: (1) evidence = the second time, not the first; (2) sediment = a decision we don't have to make again; (3) the RUT caveat — repetition without the question can sediment a wrong decision. Not a re-map: the spine is the repetition question, the sediment word is the brief's own.
-(b) thesis stack — ONE thesis: repetition only becomes evidence when it is watched; unwatched repetition spins in place (or sediments a rut). The "Flow→Stock" thesis stays parked (inherited vocabulary, not restated as the spine).
-(c) evidence ceiling — the corpus numbers (400+ / 300+ / 100+ / 39 pairs) measured live 2026-10-06 in index.json + posts/ + web-archive/; all hedged ("กว่า"); "ส่วนใหญ่" for the news-items claim; no percentages invented.
-(d) killer-line counterexample — "จำนวนบอกแค่ว่ามันซ้ำ / คำถามถึงจะบอกว่ามันซ้ำเพื่ออะไร": counterexample = a count that IS the question (counting the same question across days) — handled in-body by the rut caveat (the count alone sediments a bad decision), not denied.
-(e) scene spine — the 08:00 daily news + per-post log line (both real, verifiable: cron daily-foreign-news + corpus entries) + the moment an old log line is still referenced by a new post; ends where the event ends (the question reopened as the night question).
-(f) receipts — no time-relative claims (no "เดือนก่อน/สัปดาห์ก่อน" anchors); news count = 10 items (the real cron payload); corpus numbers measured live 2026-10-06.
-COLLISION SCAN (2026-10-06, posts + web-archive):
-- flow-vs-stock (20260922-cnt-flow-vs-stock-pattern-compounding.md) — CUT guard (expect 0 in body): "Reservoir" / "Stock" / "3+ ครั้ง" / "หน้าที่ของ Flow" / "ให้ Data" / "สังเกต Flow แทน". Inherited unlabeled: the word "Flow" once (H3 only).
-- context-switching family (legacy, 2026-05) — owns "Attention Residue = ตะกอนความคิด" in the NEGATIVE sense (residue that lingers). THIS post reclaims "ตะกอน" positive per the brief (user's own word); the direction of the word comes from the post's own scene; no cite of the old post.
-- Routine-as-Shield / pair #21 (2026-09-23) — owns "Decision compiled into a Default" + the selector question "มี Decision ไหนที่พรยังตอบซ้ำอยู่". Mode-inheritance (unlabeled series member): "Decision ที่ไม่ต้องทำใหม่" without "Default"/"Stable"/"Automation" — CUT guard: "Default" 0 / "Stable" 0 / "Automation" 0.
-- hustle-sweet-word (pair #36, 2026-10-04) — owns "คำหวานที่มาปิดคำถาม" + closing "คำถามกลับมาถูกถามแล้ว". CUT guard: "คำหวาน" 0 / "ถูกถามแล้ว" 0.
-- count-breath (pair #38) — owns the "หนึ่ง สอง สาม" breath-count scene; this post's ladder is "ซ้ำครั้งที่สอง/ครั้งที่สาม" (a repetition ladder, not a breath count) — distinct scene. "พรยังไม่รู้" = corpus open-state convention (EN #174), not a killer line.
-SSOT anchors (verified, used UNLABELED in body):
-- duck-os/Main_Data_for_UDO.md:231 — Asset Lock-in Test "ทำแล้วเหลืออะไร? (ถ้าไม่เหลือ = งานชั่วคราว)" → the nightly question "ซ้ำอะไร — ตกตะกอนไหม" (the residue check)
-- duck-os/Main_Data_for_UDO.md:355 — `duck residue` "เช็คว่าได้ Asset อะไรกลับมาบ้าง" → the same residue question, unlabeled
-- duck-os/Content_Thinking_Playbook.md:38 — "Compile เมื่อ Evidence พอเท่านั้น (ไม่พอ = จบที่คำถาม)" → the ending (no sediment → it's still Flow, the question stays open)
-- duck-os/OPB_Core_System.md:4 — Quiet Power / Asset-first → the stress test (stop for a day, what remains still works)
-Register target: พร (story) / เรา (only in the two > questions, reader-inclusive closing per gate 10) / คุณ 0 / คับ 0
-Candidate hooks (for the critique round):
-A (in use): "ทำซ้ำทุกวัน แต่ไม่มีอะไรตกตะกอน"
-B: "คำถามเดียวที่พรถามซ้ำทุกวัน — วันนี้เหลืออะไรไว้"
-C: "ซ้ำ ≠ สะสม — ระหว่างสองคำนี้ มีคำถามหนึ่งคั่นอยู่"
+Status: draft v2 — rewrite per pre-Benz review (pair #40; user "rewrite เลย")
+Type: CURRENT FORM (system/mindset) — Observation post
+v1 archive: content-study/web-archive/20261006-daily-repetition-v1.md (136 wc-w)
+Notion: PATCH same page 3f1df8d8-8d8c-8116-850b-d636c82a7772 — title คงเดิม + body replace
+
+Review fixes (v1 → v2):
+1. FIX "39 คู่" → "40 คู่" (ตรวจ corpus live 2026-10-06: pair #40 ปิดแล้ว — v1 ใช้ตัวเลขเก่าก่อน pair ปิด)
+2. FIX "log ของโพสต์ 400 กว่ารายการ" → "รายการใน index 400 กว่ารายการ" (index.json เก็บ draft+publish+critique รวม — ไม่ใช่ log โพสต์เว็บ)
+3. double-beat 15 จุด → 0 (section break = H1 เท่านั้น — กฎเดียวกับที่ count-breath โดน Benz จับ)
+4. H3 subtitle ตัด ("ซ้ำคือ Flow / หลักฐานคือสิ่งที่ซ้ำ / ตะกอนคือสิ่งที่ใช้ซ้ำได้") — เปิดเกมด้วยสามนิยามพร้อมกัน = ประกาศ thesis ก่อนเล่า (count-breath v1 lesson) + มีคำว่า Flow ซึ่งเป็น inherited vocab ที่ header เองกำหนดให้ใช้ได้แค่ 1 ครั้ง
+5. โครงสองแบบ (มีใครดู/ไม่มีใครดู) ยุบจาก H1 เป็นส่วนใน opening — ลด H1 จาก 6 เหลือ 5 ให้เนื้อเดินต่อเนื่อง
+6. near-miss section ("สิ่งที่หน้าตาเหมือนตะกอน") ยก "Decision ที่ผิดก็ตกตะกอนได้" ขึ้นเป็นจุดเดียวที่ต้องอยู่ — ตัด "อย่างแรก—วันที่ไม่มีอะไรซ้ำ" (taxonomy ที่ไม่จำเป็น — เศษของ Flow-Stock lineage) + เปลี่ยน H1 เป็นประโยคคมตรง
+7. เพิ่ม micro-receipt จริง: "บรรทัดจากงานเก่า ที่โพสต์ใหม่ยังอ้างอิงอยู่" (ชัดกว่า v1 "บางบรรทัด")
+8. FIX "300 กว่าไฟล์" ชี้ชัดว่าเป็นไฟล์ draft ในเครื่อง (posts/ = 332 verified)
+CUT zero-count list (เกรดรอบหน้า): H3 · double-beat · "39 คู่" · "log ของโพสต์" · "อย่างแรก—วันที่ไม่มีอะไรซ้ำ" · "หน้าที่ของวันที่ไม่มีหลักฐาน" · "มีสองอย่าง"
+Register: พร (story) / เรา 2 (คำถาม quoted) / คุณ 0 / คับ 0
+Hashtags: #Adduckivity #DuckOS #SystemThinking #Routine #Evidence #Observation
 -->
 # ทำซ้ำทุกวัน แต่ไม่มีอะไรตกตะกอน
-
-### ซ้ำคือ Flow / หลักฐานคือสิ่งที่ซ้ำ / ตะกอนคือสิ่งที่ใช้ซ้ำได้
 
 .
 
@@ -42,6 +27,7 @@ C: "ซ้ำ ≠ สะสม — ระหว่างสองคำนี้
 .
 
 ทุกโพสต์ที่ผ่านไป
+
 มี log หนึ่งบรรทัดถูกเขียนไว้
 
 .
@@ -54,13 +40,15 @@ C: "ซ้ำ ≠ สะสม — ระหว่างสองคำนี้
 
 จนวันหนึ่งพรเปิด log เก่ามาอ่าน
 
-แล้วเห็นว่ามีบางบรรทัด
+แล้วเห็นว่ามีบรรทัดจากงานเก่า
+
 ที่โพสต์ใหม่ยังอ้างอิงอยู่
 
 .
 
-สิ่งที่สะสมไว้ก่อนหน้า
-ไม่ต้องเริ่มจากศูนย์อีก
+สิ่งที่เขียนสะสมไว้ก่อนหน้า
+
+ทำให้งานใหม่ไม่ต้องเริ่มจากศูนย์
 
 .
 
@@ -69,17 +57,14 @@ C: "ซ้ำ ≠ สะสม — ระหว่างสองคำนี้
 .
 
 ว่าสิ่งที่ทำซ้ำทุกวัน
+
 กำลังสะสมอะไร
 
 .
 
 หรือกำลังหมุนอยู่ที่เดิม
 
-.
-
-.
-
-# การทำซ้ำหน้าตาเหมือนกันหมด — แต่พรเริ่มเห็นว่ามันมีสองแบบ
+# ซ้ำสองแบบ — ต่างกันที่มีใครสังเกต
 
 .
 
@@ -94,9 +79,8 @@ C: "ซ้ำ ≠ สะสม — ระหว่างสองคำนี้
 .
 
 วันที่ไม่มีอะไรเปลี่ยน
-ก็ไม่มีวันรู้ว่าอะไรกำลังจะเปลี่ยน
 
-.
+ก็ไม่มีวันรู้ว่าอะไรกำลังจะเปลี่ยน
 
 .
 
@@ -128,8 +112,6 @@ C: "ซ้ำ ≠ สะสม — ระหว่างสองคำนี้
 
 .
 
-.
-
 ความต่างไม่ใช่จำนวนวันที่ทำ
 
 .
@@ -140,10 +122,6 @@ C: "ซ้ำ ≠ สะสม — ระหว่างสองคำนี้
 
 > **วันนี้เราซ้ำอะไร — และมันซ้ำเพื่ออะไร**
 
-.
-
-.
-
 # หลักฐานไม่ใช่ "วันที่ทำ" — แต่เป็น "วันที่ทำอีก"
 
 .
@@ -152,11 +130,11 @@ C: "ซ้ำ ≠ สะสม — ระหว่างสองคำนี้
 
 .
 
-— log ของโพสต์ 400 กว่ารายการ
+— รายการใน index 400 กว่ารายการ
 
 .
 
-— draft ที่เขียนไว้ 300 กว่าไฟล์
+— ไฟล์ draft ที่เขียนไว้ 300 กว่าไฟล์
 
 .
 
@@ -164,7 +142,7 @@ C: "ซ้ำ ≠ สะสม — ระหว่างสองคำนี้
 
 .
 
-— คู่ของร่างกับฉบับจริง 39 คู่
+— คู่ของร่างกับฉบับจริง 40 คู่
 
 .
 
@@ -177,11 +155,8 @@ C: "ซ้ำ ≠ สะสม — ระหว่างสองคำนี้
 .
 
 สิ่งที่พรทำซ้ำ
+
 มีหลักฐานกองอยู่
-
-.
-
-.
 
 # ตะกอนไม่ใช่ความคิด — แต่เป็น Decision ที่ไม่ต้องทำใหม่
 
@@ -196,6 +171,7 @@ C: "ซ้ำ ≠ สะสม — ระหว่างสองคำนี้
 .
 
 แต่ความคิดที่จดไว้แล้วไม่ได้หยิบใช้
+
 ไม่ใช่ตะกอน
 
 .
@@ -204,12 +180,9 @@ C: "ซ้ำ ≠ สะสม — ระหว่างสองคำนี้
 
 .
 
-.
-
 ตะกอนที่พรเริ่มเห็นชัดขึ้น
-มีลักษณะอย่างเดียว
 
-.
+มีลักษณะอย่างเดียว
 
 .
 
@@ -218,11 +191,13 @@ C: "ซ้ำ ≠ สะสม — ระหว่างสองคำนี้
 .
 
 คำถามที่เคยต้องตอบทุกเช้า
+
 ตอนนี้คำตอบมาก่อนมือ
 
 .
 
 โพสต์ใหม่ทุกชิ้น
+
 มีกฎที่สะสมจากโพสต์ก่อนหน้าอยู่ในตัวแล้ว
 
 .
@@ -231,65 +206,15 @@ C: "ซ้ำ ≠ สะสม — ระหว่างสองคำนี้
 
 .
 
-.
-
 ถ้าหยุดทำงานหนึ่งวัน
+
 สิ่งที่เหลืออยู่ยังทำงานต่อได้
 
 .
 
 นั่นคือตะกอน
 
-.
-
-.
-
-# สิ่งที่หน้าตาเหมือนตะกอน
-
-.
-
-มีสองอย่าง
-
-.
-
-.
-
-อย่างแรก — วันที่ไม่มีอะไรซ้ำ
-
-.
-
-เครื่องมือที่ลองครั้งเดียว
-ถ้าไม่กลับมาทำอีก
-ก็ไม่มีอะไรให้ตกตะกอน
-
-.
-
-ข่าวของเช้าวันนี้
-ส่วนใหญ่ไม่มีใครพูดถึงอีกในวันนั้น
-
-.
-
-.
-
-นั่นไม่ใช่ความล้มเหลว
-
-.
-
-นั่นคือหน้าที่ของวันที่ไม่มีหลักฐาน
-
-.
-
-.
-
-อย่างที่สอง — วันที่ซ้ำ แต่ไม่เคยตั้งคำถาม
-
-.
-
-Decision ที่ผิด
-ถ้าทำซ้ำทุกวัน
-ก็ตกตะกอนได้เหมือนกัน
-
-.
+# แต่ Decision ที่ผิด ก็ตกตะกอนได้เหมือนกัน
 
 .
 
@@ -301,6 +226,10 @@ Decision ที่ผิด
 
 .
 
+ทำผิดแบบเดิมทุกวัน
+
+จนมือจำได้เอง
+
 .
 
 จำนวนบอกแค่ว่ามันซ้ำ
@@ -308,10 +237,6 @@ Decision ที่ผิด
 .
 
 คำถามถึงจะบอกว่ามันซ้ำเพื่ออะไร
-
-.
-
-.
 
 # ก่อนนอน
 

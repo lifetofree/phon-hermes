@@ -3232,8 +3232,9 @@
     "title": "ทำซ้ำทุกวัน แต่ไม่มีอะไรตกตะกอน",
     "file": "content-study/posts/20261006-cnt-daily-repetition-evidence-sediment.md",
     "link": "https://app.notion.com/p/3f1df8d88d8c8116850bd636c82a7772",
-    "note": "pair #40 PRE-CRITIQUE — fresh CURRENT FORM from 3-beat brief (การทำซ้ำๆทุกวัน -> หาหลักฐาน -> ตะกอนความคิด); 239 wc-w; H1 6/H3 1/beats 78; พร 10/เรา 2/คุณ 0/คับ 0; collision guards 0× (flow-vs-stock / pair #21 / pair #36 vocab); real corpus receipts (400+/300+/100+/39 pairs, measured live); dispatch Q = ซ้ำโดยไม่มีใครดู vs ซ้ำแล้วมีตัวสังเกต; near-miss = rut caveat (Decision ที่ผิดก็ตกตะกอนได้); closer = night question 'ตกตะกอนไหม' + open state (พรยังไม่รู้)",
+    "note": "pair #40 v2 (rewrite per pre-Benz review) — 121 wc-w (0.89× v1); fixes: 39→40 คู่ (pair ปิดแล้ว), 'log ของโพสต์'→'รายการใน index' (index เก็บ draft+publish+critique), double-beat 15→0, H3 subtitle ตัด (สามนิยามเปิดเกม), ยุบโครงสองแบบ, near-miss ยก 'Decision ที่ผิดก็ตกตะกอนได้' เป็น H1 ตรง + ตัด taxonomy 'อย่างแรก—วันที่ไม่มีอะไรซ้ำ'; CUT 6/6; kept lines 14/14; battery CLEAN; v1 archive web-archive/20261006-daily-repetition-v1.md",
     "notion_page_id": "3f1df8d8-8d8c-8116-850b-d636c82a7772",
-    "status": "draft (Notion Content Drafts DB, read-back 165 blocks / markers 15/15 / bold quotes 2/2)"
+    "status": "draft (Notion Content Drafts DB, read-back 165 blocks / markers 15/15 / bold quotes 2/2)",
+    "v1_archive": "content-study/web-archive/20261006-daily-repetition-v1.md"
   }
 ]
