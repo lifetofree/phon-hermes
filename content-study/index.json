@@ -3165,14 +3165,16 @@
   },
   {
     "id": "20261006-CNT-AUTOCLAW-1MONTH",
-    "title": "1 เดือนกว่ากับ AutoClaw — ทำไมพรเลิก \"ถาม AI\" แล้วเริ่ม \"จ้าง AI\" แทน",
+    "title": "พรไม่ได้เปิด AI — แต่งานเกิดไปแล้ว",
     "date": "2026-10-06T00:00:00",
     "slug": "20261006-cnt-autoclaw-one-month-report",
     "link": "https://app.notion.com/p/1-AutoClaw-AI-AI-3f1df8d88d8c8120a1bed7b38d720de4",
     "file": "content-study/posts/20261006-cnt-autoclaw-one-month-report.md",
     "notion_page_id": "3f1df8d8-8d8c-8120-a1be-d7b38d720de4",
-    "status": "draft",
+    "status": "rewritten (publish version PATCHed same page 2026-10-06)",
     "series": "AutoClaw Part 4",
-    "note": "ตัวเลขเครื่องจริง (43 ไฟล์/54MB, skills 95, cron D1→Telegram, Discord memory) — owner-attested 2026-10-06 ว่ามาจาก AutoClaw บนเครื่องจริงของพร (เครื่องแยกจาก PHON-SERVER); cron D1 ใน AutoClaw และ cron ข่าว Hermes ดึง D1 คนละรายงาน"
+    "note": "pair #37 CLOSED — v1 agent draft 525 wc-w → Benz critique (tech-form แรก) → user publish 487 wc-w (0.93×); CUT 12/12 + critic markers 18/18; ตัวเลขเครื่องจริง owner-attested (AutoClaw บนเครื่องแยกของพร); cron D1 ใน AutoClaw และ cron ข่าว Hermes ดึง D1 คนละรายงาน",
+    "publish_archive": "content-study/web-archive/20261006-autoclaw-p4-publish.md",
+    "critique_archive": "content-study/web-archive/20261006-autoclaw-p4-benz-dna-critique.md"
   }
 ]
