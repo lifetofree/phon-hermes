@@ -3213,12 +3213,18 @@
     "date": "2026-10-06T00:00:00",
     "slug": "20261006-cnt-embrace-the-limit",
     "file": "content-study/posts/20261006-cnt-embrace-the-limit.md",
-    "status": "rewritten (v2 re-spine per Benz r1 2026-10-06)",
+    "status": "published-ready (pair #40 CLOSED 2026-10-06 — publish PATCHed same page)",
     "series": "Observation arc (successor of count-breath #38 / chosen-path #39)",
-    "note": "pair #40 v2 re-spine — Benz r1: v1 ให้ความหมายกับ constraint เร็วกว่า evidence (กอด/กำแพง→พื้น/หันหลังให้ความเป็นจริง = philosophy); v2 135 wc-w: spine ใหม่ = หนีตัวเลข → เงื่อนไขที่ใช้ออกแบบ → คำถามที่ใช้กับมันเปลี่ยน; CUT 13/13 (กอด/หยุดต่อสู้/กำแพง-พื้น/หันหลัง/ความเป็นจริง/สิ่งกีดขวาง/โทษเครื่อง/possibility list/ไม่ได้มาพร้อมคำตอบ); keep 'ไม่มีชิ้นไหนเลย ที่ยืนบนการ์ด 48GB ในฝัน' + boundary guard; engine sentence ห้าม compile = ไม่อยู่ในบท ✓",
+    "note": "pair #40 CLOSED — v1 143 (กอด→เห็นจริง→คำถาม) → Benz r1 re-spine → v2 135 → Benz r2 PASS → Benz r3 PASS + micro-fixes → publish 156 (1.16× v2); freeze grades 8/8 zero; กิ่ง park: Question Swap on Constraint (evidence 2 ชิ้น) + Failure → Evidence Boundary",
     "link": "https://app.notion.com/p/3f1df8d88d8c81ea8c2efe7f85b80016",
     "notion_page_id": "3f1df8d8-8d8c-81ea-8c2e-fe7f85b80016",
-    "v1_archive": "content-study/web-archive/20261006-embrace-limit-v1.md"
+    "v1_archive": "content-study/web-archive/20261006-embrace-limit-v1.md",
+    "publish_archive": "content-study/web-archive/20261006-embrace-limit-publish.md",
+    "critique_archives": [
+      "content-study/web-archive/20261006-embrace-limit-benz-critique.md",
+      "content-study/web-archive/20261006-embrace-limit-benz-critique-r2.md",
+      "content-study/web-archive/20261006-embrace-limit-benz-critique-r3.md"
+    ]
   },
   {
     "date": "2026-10-06",
