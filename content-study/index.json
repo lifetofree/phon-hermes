@@ -3229,12 +3229,14 @@
   {
     "date": "2026-10-06",
     "slug": "20261006-cnt-daily-repetition-evidence-sediment",
-    "title": "ทำซ้ำทุกวัน แต่ไม่มีอะไรตกตะกอน",
+    "title": "ทำซ้ำทุกวัน — แต่รอบถัดไปได้อะไรจากรอบก่อน",
     "file": "content-study/posts/20261006-cnt-daily-repetition-evidence-sediment.md",
     "link": "https://app.notion.com/p/3f1df8d88d8c8116850bd636c82a7772",
-    "note": "pair #40 v2 (rewrite per pre-Benz review) — 121 wc-w (0.89× v1); fixes: 39→40 คู่ (pair ปิดแล้ว), 'log ของโพสต์'→'รายการใน index' (index เก็บ draft+publish+critique), double-beat 15→0, H3 subtitle ตัด (สามนิยามเปิดเกม), ยุบโครงสองแบบ, near-miss ยก 'Decision ที่ผิดก็ตกตะกอนได้' เป็น H1 ตรง + ตัด taxonomy 'อย่างแรก—วันที่ไม่มีอะไรซ้ำ'; CUT 6/6; kept lines 14/14; battery CLEAN; v1 archive web-archive/20261006-daily-repetition-v1.md",
+    "note": "pair #40(daily-rep) v3 re-spine — Benz r1: v2 Compile เร็ว (ซ้ำสองแบบ model + ตะกอน=Decision = Identity Leakage ของ Routine-Decision-Asset); v3 75 wc-w (0.62× v2): spine = หนี→เก็บ→Retrieve→ไม่เริ่มศูนย์→จำนวน=Boundary (เก็บไว้เท่าไร ≠ ใช้จริงเท่าไร) → คำถามใหม่; CUT 15/15; กิ่ง park: Bad Sediment (Decision ผิดตกตะกอน) + Stored ≠ Reused (Question Swap family ชิ้นที่ 3)",
     "notion_page_id": "3f1df8d8-8d8c-8116-850b-d636c82a7772",
-    "status": "draft (Notion Content Drafts DB, read-back 165 blocks / markers 15/15 / bold quotes 2/2)",
-    "v1_archive": "content-study/web-archive/20261006-daily-repetition-v1.md"
+    "status": "rewritten (v3 re-spine per Benz r1 2026-10-06)",
+    "v1_archive": "content-study/web-archive/20261006-daily-repetition-v1.md",
+    "v2_archive": "content-study/web-archive/20261006-daily-repetition-v2.md",
+    "critique_archive": "content-study/web-archive/20261006-daily-repetition-benz-critique.md"
   }
 ]
