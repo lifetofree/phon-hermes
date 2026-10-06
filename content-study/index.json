@@ -3176,5 +3176,13 @@
     "note": "pair #37 CLOSED — v1 agent draft 525 wc-w → Benz critique (tech-form แรก) → user publish 487 wc-w (0.93×); CUT 12/12 + critic markers 18/18; ตัวเลขเครื่องจริง owner-attested (AutoClaw บนเครื่องแยกของพร); cron D1 ใน AutoClaw และ cron ข่าว Hermes ดึง D1 คนละรายงาน",
     "publish_archive": "content-study/web-archive/20261006-autoclaw-p4-publish.md",
     "critique_archive": "content-study/web-archive/20261006-autoclaw-p4-benz-dna-critique.md"
+  },
+  {
+    "date": "2026-10-06",
+    "slug": "20261006-cnt-count-breath-what-we-see",
+    "title": "Pair #38 v1 fresh: ตั้ง timer นับลมหายใจ — แต่สิ่งที่เห็นจริงๆ ไม่ใช่ลมหายใจ (Observation post: the gap, not the breath; observation of the observation itself)",
+    "file": "posts/20261006-cnt-count-breath-what-we-see.md",
+    "link": "https://app.notion.com/p/timer-3f1df8d88d8c81e3b8dec7e18fd7f0db",
+    "note": "fresh v1 93 wc-w; Observation type (EN #138 shape); scene = user's own breath-counting practice (clarify-confirmed); spine = counting starts the seeing, not the breath; ends on the smaller question (breath stopped or did we leave); no protocol/prescription"
   }
 ]
