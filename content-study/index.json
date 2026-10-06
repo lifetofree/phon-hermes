@@ -3199,6 +3199,7 @@
     "title": "Pair #39 v1 fresh: เลือกทางแก้ — แล้ว \"เลือกถูกไหม\" ก็ถูกทิ้งไว้โดยไม่มีรายงาน (a working choice closes the comparison — the unchosen path never runs; successor of the question/decision arc)",
     "file": "posts/20261006-cnt-chosen-path-no-report.md",
     "link": "https://app.notion.com/p/3f1df8d88d8c815892ffc477e11a2175",
-    "note": "fresh v1 118 wc-w; Observation→Question; real case = llama-server boot-race fix (verified ExecStartPre wait-for-cuda); NO tok/s (notes inconsistent, CUT per EN #150); distinct from measurable-not-compass (that=ambiguous return, this=clear return that destroys the counterfactual set); full-พร register (เรา 0)"
+    "note": "fresh v1 118 wc-w; Observation→Question; real case = llama-server boot-race fix (verified ExecStartPre wait-for-cuda); NO tok/s (notes inconsistent, CUT per EN #150); distinct from measurable-not-compass (that=ambiguous return, this=clear return that destroys the counterfactual set); full-พร register (เรา 0)",
+    "notion_page_id": "3f1df8d8-8d8c-8158-92ff-c477e11a2175"
   }
 ]
