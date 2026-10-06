@@ -3209,14 +3209,15 @@
   },
   {
     "id": "20261006-CNT-EMBRACE-THE-LIMIT",
-    "title": "กอดขีดจำกัด — แล้วสิ่งที่ปรากฏ ไม่ใช่คำตอบ",
+    "title": "พอหยุดถามว่า \"ถ้ามี 48GB\" — พรเริ่มเห็นว่า 32GB นี้ทำอะไรได้",
     "date": "2026-10-06T00:00:00",
     "slug": "20261006-cnt-embrace-the-limit",
     "file": "content-study/posts/20261006-cnt-embrace-the-limit.md",
-    "status": "draft v1 (filed 2026-10-06, รอ Benz)",
+    "status": "rewritten (v2 re-spine per Benz r1 2026-10-06)",
     "series": "Observation arc (successor of count-breath #38 / chosen-path #39)",
-    "note": "fresh v1 143 wc-w; scene = 2× RTX 5060 Ti 32GB + Qwen3.8-27B 16.5GB (verified machine facts, tok/s CUT per EN #150); spine = ต่อสู้กับขีด (ลัด/รอของใหม่/โทษเครื่อง) → ยอมอยู่ในขีด (32GB คือ 32GB) → เครื่องจำกัดกลายเป็นพื้นที่ทั้ง local-LLM build ยืนอยู่ → ความเป็นจริงที่ปรากฏไม่ได้มาพร้อมคำตอบ มาพร้อมคำถาม; re-skin gates: limitless(09-28)=selector vs ground, margin(09-25)=ที่ว่าง vs ขอบแข็ง, hormesis=growth claim CUT 0, user-not-machine=stop-at-limit vs stay-at-limit",
+    "note": "pair #40 v2 re-spine — Benz r1: v1 ให้ความหมายกับ constraint เร็วกว่า evidence (กอด/กำแพง→พื้น/หันหลังให้ความเป็นจริง = philosophy); v2 135 wc-w: spine ใหม่ = หนีตัวเลข → เงื่อนไขที่ใช้ออกแบบ → คำถามที่ใช้กับมันเปลี่ยน; CUT 13/13 (กอด/หยุดต่อสู้/กำแพง-พื้น/หันหลัง/ความเป็นจริง/สิ่งกีดขวาง/โทษเครื่อง/possibility list/ไม่ได้มาพร้อมคำตอบ); keep 'ไม่มีชิ้นไหนเลย ที่ยืนบนการ์ด 48GB ในฝัน' + boundary guard; engine sentence ห้าม compile = ไม่อยู่ในบท ✓",
     "link": "https://app.notion.com/p/3f1df8d88d8c81ea8c2efe7f85b80016",
-    "notion_page_id": "3f1df8d8-8d8c-81ea-8c2e-fe7f85b80016"
+    "notion_page_id": "3f1df8d8-8d8c-81ea-8c2e-fe7f85b80016",
+    "v1_archive": "content-study/web-archive/20261006-embrace-limit-v1.md"
   }
 ]
