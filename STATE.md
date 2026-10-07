@@ -260,6 +260,11 @@
 - huggingface.co จากเครื่องนี้ ~1.5 MB/s — ถ้าช้าให้ลอง mirror `hf-mirror.com` แทน `huggingface.co` ใน URL (path เดียวกัน)
 
 ## Recent Activity
+- 2026-10-06 (8th): **pair #41 CLOSED (read-others) — publish (92 wc-w = 1.31× v2) + Benz r1 grades 14/14 zero** — user ส่ง publish "สิ่งที่สะดุดตาตอนอ่าน — กับสิ่งที่พรจำได้ตอนเช้า อาจไม่ใช่ชิ้นเดียวกัน":
+  - ครบรอบ: v1 79 → Benz r1 (ปน 3 เรื่อง: สิ่งที่เจ้าของอยากให้เห็น/สิ่งที่คนจำ/evidence ของสิ่งที่เขาพูด → ตัด 2 branches + de-mindread) → v2 70 → publish 92
+  - Grades: 14/14 zero — mind reading 0 · Claim→Evidence branch ("100 เล่มเปลี่ยนงานเขาไปกี่ตอน") 0 · Memorable×Evidence Matrix 0 · "ประโยคที่ดีที่สุด" 0 · title causality 0 · hypothesis family 4 ตัว 0 (Story>Number ฯลฯ)
+  - Publish moves: timeline ต่อเนื่อง / "พรเชื่อว่าเขาอ่านจริง ไม่ได้ติดอะไรกับตัวเลขนั้น" (กันอ่านว่าโจมตี) / "แล้วพรปิดหน้าไป" / "พอข้ามคืน" (เวลา = mechanism) / ย่อหน้า 3 ชั้นตำแหน่ง-ขนาด-ความจำ / H2 "พรยังไม่รู้ว่าทำไม" + อาจ-list ไม่ compile / closer fact pair เห็นเลขก่อน→จำประโยคได้
+  - Battery: 92 wc-w, พร 18/เรา-คุณ-คับ 0, scans CLEAN; Notion PATCH 200 → 107 blocks CUT 0 markers 9/9; archive `web-archive/20261006-read-others-publish.md`; skill pair-history EN-41a..e (Observation-of-others double entitlement / question-you-added / Recall≠Evidence-backed / hypothesis-list-as-อาจ / time-as-silent-mechanism); กิ่ง park เพิ่ม 3
 - 2026-10-06 (7th): **pair #40 CLOSED (daily-repetition) — publish (109 wc-w = 1.51× v4) + Benz r2 conditions 8/8 zero** — user ส่ง publish "ทำซ้ำทุกวัน — แต่รอบถัดไปได้อะไรจากรอบก่อน":
   - ครบรอบ: v1 136 → pre-Benz review (fix 39→40 คู่) → v2 121 → Benz r1 (re-spine: Compile เร็ว + Identity Leakage) → v3 75 (Stored ≠ Reused) → Benz r2 (PASS conditions: ตัด context/ข่าว + Value claim + metric-jump) → v4 72 → publish 109
   - Grades: 8/8 zero — "ลด context" 0 · "ข่าวสิบชิ้น/แปดโมง" 0 (ตัวเปิดหลอก Daily Automation ถูกตัด) · "ช่วยได้พอดี" 0 (Value → Reuse: "ถูกหยิบกลับมาใช้จริง") · "ต้องวัดมันยังไง" 0 (metric-jump — ending = Benz verbatim "พรยังรู้แค่เคสเดียว / Log เก่าหนึ่งบรรทัด กลับมาอยู่ในงานใหม่จริง ๆ") · "มีหลักฐาน" 0 · "ตะกอน/ซ้ำสองแบบ/Decision ที่ผิด" 0
