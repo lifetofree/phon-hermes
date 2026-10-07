@@ -3232,13 +3232,14 @@
     "title": "ทำซ้ำทุกวัน — แต่รอบถัดไปได้อะไรจากรอบก่อน",
     "file": "content-study/posts/20261006-cnt-daily-repetition-evidence-sediment.md",
     "link": "https://app.notion.com/p/3f1df8d88d8c8116850bd636c82a7772",
-    "note": "pair #40(daily-rep) v4 — Benz r2 PASS conditions: ตัด 'ลด context ลง' (branch อื่น) + 'ข่าวสิบชิ้น' (ตัวเปิดหลอก Daily Automation) + 'เข้าไปช่วยได้พอดี' (Value claim → 'ถูกหยิบกลับมาใช้จริง' Reuse-only) + 'มีหลักฐาน'→'มีของจากรอบก่อนเหลืออยู่' + ending แก้ metric-jump (ตัด 'ต้องวัดมันยังไง' → Benz ending verbatim จบที่ 'พรยังรู้แค่เคสเดียว'); Asset เล็ก: มีของเก็บ ≠ กลับมามีบทบาทรอบถัดไป · Evidence: Log เก่า 1 บรรทัดถูก Retrieve — ขนาด insight = ขนาด evidence แล้ว",
+    "note": "pair #40(daily-rep) CLOSED — publish 109 wc-w (1.51× v4); Benz r2 conditions 8/8 zero; spine: Log เก่า 1 บรรทัดถูก Retrieve → งานใหม่ไม่เริ่มศูนย์ / จำนวน 400-300-100-40 = Boundary (เก็บไว้เท่าไร ≠ ใช้ต่อเท่าไร); ending = Benz verbatim 'พรยังรู้แค่เคสเดียว'; กิ่ง park: Stored ≠ Reused + Bad Sediment",
     "notion_page_id": "3f1df8d8-8d8c-8116-850b-d636c82a7772",
-    "status": "rewritten (v4 per Benz r2 PASS conditions 2026-10-06 — awaiting publish version)",
+    "status": "published-ready (pair #40 daily-repetition CLOSED 2026-10-06 — publish PATCHed same page)",
     "v1_archive": "content-study/web-archive/20261006-daily-repetition-v1.md",
     "v2_archive": "content-study/web-archive/20261006-daily-repetition-v2.md",
     "critique_archive": "content-study/web-archive/20261006-daily-repetition-benz-critique.md",
     "v3_archive": "content-study/web-archive/20261006-daily-repetition-v3.md",
-    "critique_r2_archive": "content-study/web-archive/20261006-daily-repetition-benz-critique-r2.md"
+    "critique_r2_archive": "content-study/web-archive/20261006-daily-repetition-benz-critique-r2.md",
+    "publish_archive": "content-study/web-archive/20261006-daily-repetition-publish.md"
   }
 ]

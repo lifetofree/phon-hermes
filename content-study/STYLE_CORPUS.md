@@ -1296,14 +1296,6 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - Notion: PATCH 2 ก้าว (props + /markdown replace_content) 200×2 → 145 blocks read-back, CUT 9/9, markers 10/10 — archive `web-archive/20261006-count-breath-publish.md`
 - Skill: rule (27) SOURCE-REVEAL round + "บิดมุม" detection (ดู corpus entry เต็ม; สรุป: ถาม source จริงก่อนวิจารณ์โครง / scene ที่ grounded บางส่วน ≠ source จริง / emotion ที่ไม่บีบ = เว้นไม่พูด)
 
-### 2026-10-06 — pair #40 CLOSED: embrace-the-limit publish (156 wc-w = 1.16× v2) — Constraint ไม่เปลี่ยน คำถามเปลี่ยน
-
-- **Rounds:** v1 143 (กอด→เห็นความเป็นจริง→เกิดคำถาม) → Benz r1 (re-spine: ให้ความหมายเร็วกว่า evidence + romanticize constraint) → v2 135 (หนี→เงื่อนไข→คำถามเปลี่ยน) → Benz r2 (PASS "เกือบ Freeze" + 3 fixes) → Benz r3 (PASS + 3 micro-fixes: ทุกอย่าง/evidence-สถานะ/วงเล็บ/ตลอด) → publish 156
-- **Freeze grades (r2+r3 lists รวม):** 8/8 zero — "ตัดสินใจทุกอย่าง...ตัวตั้ง" 0 (→ "โดยถือว่า 32GB จะยังอยู่ตรงนี้" = Benz ทางเลือกที่ชอบ) · "มันยืนอยู่บนเครื่องนี้ทั้งหมด" 0 (→ evidence สถานะชัด 4 แบบ: workload/รายงานเช้า*บางส่วน*/comparison/ประสบการณ์→โพสต์ + "ทั้งหมดนี้เกิดขึ้น ขณะที่เครื่องยังมี 32GB เท่าเดิม" ก่อน "ไม่มีชิ้นไหนเกิดบนการ์ด 48GB ในฝัน") · วงเล็บ boundary 0 (→ ยืนตรง "นี่ไม่ได้แปลว่า 48GB ไม่มีประโยชน์...พรยังไม่รู้ / สิ่งที่รู้ตอนนี้มีแค่ว่า Output ที่เกิดขึ้นแล้ว ไม่ได้เกิดบนการ์ด 48GB ใบนั้น" — รับ "พรยังไม่รู้" กลับมา 1 จุด ณ boundary ตาม r3) · "ตลอด" 0 (→ "ถ้า 32GB ยังอยู่ตรงนี้" ไม่สร้าง Forever Decision) · conditional "สาเหตุคือ" ยังไม่ปรากฏ (v2 รู้ตัวก่อน — ใช้ narrative ไม่ claim root cause)
-- **Provisional adopted:** Benz r2 ประโยคถือบท "Result ไม่ได้เปลี่ยน—คำถามเปลี่ยน" family → publish ขยายเป็น section "แต่หัวพรเริ่มถามใหม่" (v3 lineage) — ladder Works→Best ไม่ถูกใช้ในบทนี้ (อยู่ใน chosen-path pair #39 แทน — ไม่ซ้ำสองบทติดกัน)
-- **Publish moves 4:** (1) คำถามใหญ่ (32GB ยังอยู่ตรงนี้) ถูก "ยังไม่ได้ถาม" ใน H1#1 แล้วโผล่เป็น quote ตอนต้น section ถัดไป — question-boundary ทำงานเป็นโครง (2) "แทนที่จะเป็นตัวเลข ที่รอวันหนีออกไป" — ปิด arc หนีตัวเลขด้วยคู่ตรงข้ามโดยไม่ใช้คำว่า กอด/ยอมรับ (3) evidence สถานะตาม Benz r3 verbatim (4) closer freeze ตรงจาก v2 — blacklist (constraint-creates-creativity ฯลฯ) ไม่มีตัวใดหลุด
-- Battery: 156 wc-w, พร 15 / เรา-คุณ-คับ 0, H1 5, beats 38, double-beat 0, scans CLEAN; Notion body PATCH 200 → 129 blocks read-back CUT 0 markers 13/13; archive `web-archive/20261006-embrace-limit-publish.md`
-- **กิ่ง park สะสม:** "Question Swap on Constraint" (escape→works-within — evidence 2 ชิ้น: บทนี้ + llama.cpp โดยพฤตินัย) · "Failure → Evidence Boundary" (จาก chosen-path #39) — รอเคสชนตาม EN #158
 
 ### 2026-10-06 — pair #39 CLOSED: chosen-path publish (166 wc-w = 1.60× v3) — Question เปลี่ยน ไม่ใช่ Result ล้มเหลว
 
@@ -1321,3 +1313,20 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - **กิ่ง park (จาก Benz r2 จุด 5):** "Failure → Evidence Boundary" — failure ไม่ได้ diagnose ทั้ง hypothesis (indicator pattern) — graduates เมื่อมีเคสจริง
 
 
+
+### 2026-10-06 — pair #40 CLOSED: embrace-the-limit publish (156 wc-w = 1.16× v2) — Constraint ไม่เปลี่ยน คำถามเปลี่ยน
+
+- **Rounds:** v1 143 (กอด→เห็นความเป็นจริง→เกิดคำถาม) → Benz r1 (re-spine: ให้ความหมายเร็วกว่า evidence + romanticize constraint) → v2 135 (หนี→เงื่อนไข→คำถามเปลี่ยน) → Benz r2 (PASS "เกือบ Freeze" + 3 fixes) → Benz r3 (PASS + 3 micro-fixes: ทุกอย่าง/evidence-สถานะ/วงเล็บ/ตลอด) → publish 156
+- **Freeze grades (r2+r3 lists รวม):** 8/8 zero — "ตัดสินใจทุกอย่าง...ตัวตั้ง" 0 (→ "โดยถือว่า 32GB จะยังอยู่ตรงนี้" = Benz ทางเลือกที่ชอบ) · "มันยืนอยู่บนเครื่องนี้ทั้งหมด" 0 (→ evidence สถานะชัด 4 แบบ: workload/รายงานเช้า*บางส่วน*/comparison/ประสบการณ์→โพสต์ + "ทั้งหมดนี้เกิดขึ้น ขณะที่เครื่องยังมี 32GB เท่าเดิม" ก่อน "ไม่มีชิ้นไหนเกิดบนการ์ด 48GB ในฝัน") · วงเล็บ boundary 0 (→ ยืนตรง "นี่ไม่ได้แปลว่า 48GB ไม่มีประโยชน์...พรยังไม่รู้ / สิ่งที่รู้ตอนนี้มีแค่ว่า Output ที่เกิดขึ้นแล้ว ไม่ได้เกิดบนการ์ด 48GB ใบนั้น" — รับ "พรยังไม่รู้" กลับมา 1 จุด ณ boundary ตาม r3) · "ตลอด" 0 (→ "ถ้า 32GB ยังอยู่ตรงนี้" ไม่สร้าง Forever Decision) · conditional "สาเหตุคือ" ยังไม่ปรากฏ (v2 รู้ตัวก่อน — ใช้ narrative ไม่ claim root cause)
+- **Provisional adopted:** Benz r2 ประโยคถือบท "Result ไม่ได้เปลี่ยน—คำถามเปลี่ยน" family → publish ขยายเป็น section "แต่หัวพรเริ่มถามใหม่" (v3 lineage) — ladder Works→Best ไม่ถูกใช้ในบทนี้ (อยู่ใน chosen-path pair #39 แทน — ไม่ซ้ำสองบทติดกัน)
+- **Publish moves 4:** (1) คำถามใหญ่ (32GB ยังอยู่ตรงนี้) ถูก "ยังไม่ได้ถาม" ใน H1#1 แล้วโผล่เป็น quote ตอนต้น section ถัดไป — question-boundary ทำงานเป็นโครง (2) "แทนที่จะเป็นตัวเลข ที่รอวันหนีออกไป" — ปิด arc หนีตัวเลขด้วยคู่ตรงข้ามโดยไม่ใช้คำว่า กอด/ยอมรับ (3) evidence สถานะตาม Benz r3 verbatim (4) closer freeze ตรงจาก v2 — blacklist (constraint-creates-creativity ฯลฯ) ไม่มีตัวใดหลุด
+- Battery: 156 wc-w, พร 15 / เรา-คุณ-คับ 0, H1 5, beats 38, double-beat 0, scans CLEAN; Notion body PATCH 200 → 129 blocks read-back CUT 0 markers 13/13; archive `web-archive/20261006-embrace-limit-publish.md`
+- **กิ่ง park สะสม:** "Question Swap on Constraint" (escape→works-within — evidence 2 ชิ้น: บทนี้ + llama.cpp โดยพฤตินัย) · "Failure → Evidence Boundary" (จาก chosen-path #39) — รอเคสชนตาม EN #158
+
+### 2026-10-06 — pair #40 CLOSED (daily-repetition): publish (109 wc-w = 1.51× v4) — Stored ≠ Reused
+
+- **Rounds:** v1 136 (ซ้ำสองแบบ+ตะกอน=Decision+ rut) → pre-Benz review (fix 39→40 คู่) → v2 121 → Benz r1 (re-spine: Compile เร็ว — ซ้ำสองแบบ model + ตะกอน=Decision = Identity Leakage) → v3 75 (Stored ≠ Reused) → Benz r2 (PASS conditions) → v4 72 → publish 109
+- **Freeze grades (Benz r2 conditions, publish):** 8/8 zero — "ลด context ลง" 0 (branch อื่น) · "ข่าวสิบชิ้นตอนแปดโมง" 0 (ตัวเปิดหลอก Daily Automation — ตัด ตามจุด 5) · "ช่วยได้พอดี" 0 (Value claim → Reuse only) · "ต้องวัดมันยังไง" 0 (metric-jump — Benz ending verbatim: "แต่วันนั้น พรเพิ่งเห็นอีกอย่างหนึ่ง / ของจากรอบก่อนหนึ่งชิ้น กลับมาอยู่ในงานรอบใหม่จริง ๆ / ... / ตอนนี้ พรยังรู้แค่เคสเดียว / Log เก่าหนึ่งบรรทัด กลับมาอยู่ในงานใหม่จริง ๆ") · "มีหลักฐาน" 0 (version ≠ evidence อัตโนมัติ) · "ตะกอน" ยัง 0 (ยังไม่ Define) · "ซ้ำสองแบบ/Decision ที่ผิด" 0
+- **Publish moves 4:** (1) เปิดด้วย "ตอนแรก พรก็แค่เก็บมันไว้" (Benz r2 จุด 5 — จบที่การเก็บ ก่อนเข้า Retrieve) (2) Event แรกขยายเป็นจุดจบ section: "สิ่งที่เขียนไว้ก่อนหน้า กลับมาอยู่ในงานรอบใหม่ / วันนั้น งานใหม่ไม่ได้เริ่มจากศูนย์" (3) "400 รายการ ยังเป็น 400 รายการ" ยืนโดด + "ไม่ได้ตอบว่า มีรายการไหนถูกหยิบกลับมาใช้อีก" (Benz จุด 3 — ตัวเลข = Boundary) (4) H3 "ของที่เก็บไว้ — กับของที่ถูกใช้ต่อ" เปิดด้วย "ก่อนหน้านี้ พรไม่ได้แยกสองอย่างนี้ออกจากกันชัด ๆ" (confession = spine)
+- Battery: 109 wc-w, พร 9 / เรา-คุณ-คับ 0, H1 4, beats 33, double-beat 3 (layout ผู้เขียน — คง verbatim), scans CLEAN; Notion body PATCH 200 → 105 blocks read-back CUT 0 markers 7/7; archive `web-archive/20261006-daily-repetition-publish.md`
+- **กิ่ง park สะสม:** "Stored ≠ Reused" (Lens หลังบ้าน — Benz ห้ามใส่เป็นสูตร) · "Bad Sediment" (Decision ผิดตกตะกอน) · "Question Swap on Constraint" · "Failure → Evidence Boundary" — รอเคสชน
