@@ -20,6 +20,8 @@ Hashtags: #Adduckivity #DuckOS #SystemThinking #Observation #Evidence #Writing
 -->
 # อ่านงานคนอื่นแล้วเจออะไร
 
+## อ่าน about page ของคนแปลกหน้าหนึ่งคน — แล้วพบว่า สิ่งที่เขาวางไว้ให้เห็น กับสิ่งที่ทำให้คนจำได้ อาจไม่ใช่ชิ้นเดียวกัน
+
 .
 
 เมื่อคืนพรอ่าน about page ของคนแปลกหน้า
