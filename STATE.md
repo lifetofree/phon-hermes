@@ -260,6 +260,11 @@
 - huggingface.co จากเครื่องนี้ ~1.5 MB/s — ถ้าช้าให้ลอง mirror `hf-mirror.com` แทน `huggingface.co` ใน URL (path เดียวกัน)
 
 ## Recent Activity
+- 2026-10-06 (7th): **pair #40 CLOSED (daily-repetition) — publish (109 wc-w = 1.51× v4) + Benz r2 conditions 8/8 zero** — user ส่ง publish "ทำซ้ำทุกวัน — แต่รอบถัดไปได้อะไรจากรอบก่อน":
+  - ครบรอบ: v1 136 → pre-Benz review (fix 39→40 คู่) → v2 121 → Benz r1 (re-spine: Compile เร็ว + Identity Leakage) → v3 75 (Stored ≠ Reused) → Benz r2 (PASS conditions: ตัด context/ข่าว + Value claim + metric-jump) → v4 72 → publish 109
+  - Grades: 8/8 zero — "ลด context" 0 · "ข่าวสิบชิ้น/แปดโมง" 0 (ตัวเปิดหลอก Daily Automation ถูกตัด) · "ช่วยได้พอดี" 0 (Value → Reuse: "ถูกหยิบกลับมาใช้จริง") · "ต้องวัดมันยังไง" 0 (metric-jump — ending = Benz verbatim "พรยังรู้แค่เคสเดียว / Log เก่าหนึ่งบรรทัด กลับมาอยู่ในงานใหม่จริง ๆ") · "มีหลักฐาน" 0 · "ตะกอน/ซ้ำสองแบบ/Decision ที่ผิด" 0
+  - Publish moves 4: เปิด "ตอนแรก พรก็แค่เก็บมันไว้" / Event แรกขยายเป็นจุดจบ section ("งานใหม่ไม่ได้เริ่มจากศูนย์") / "400 รายการ ยังเป็น 400 รายการ" ยืนโดด + "ไม่ได้ตอบว่า มีรายการไหนถูกหยิบกลับมาใช้อีก" (ตัวเลข = Boundary) / H3 confession "พรไม่ได้แยกสองอย่างนี้ออกจากกันชัด ๆ"
+  - Battery: 109 wc-w, พร 9/เรา-คุณ-คับ 0, H1 4, beats 33, scans CLEAN; Notion PATCH 200 → 105 blocks CUT 0 markers 7/7; archive `web-archive/20261006-daily-repetition-publish.md`; กิ่ง park สะสม: Stored ≠ Reused / Bad Sediment / Question Swap / Failure → Evidence Boundary; push f9525bf
 - 2026-10-06 (6th): **pair #40 CLOSED — embrace-the-limit publish (156 wc-w = 1.16× v2) + freeze grades 8/8 (r2+r3 รวม)** — user ส่ง publish "พอหยุดถามว่า ถ้ามี 48GB — พรเริ่มเห็นว่า 32GB นี้ทำอะไรได้":
   - ครบรอบ: v1 143 → Benz r1 (re-spine ตัด philosophy family) → v2 135 → Benz r2 (PASS เกือบ Freeze) → Benz r3 (PASS + micro-fixes: ทุกอย่าง/evidence-สถานะ/วงเล็บ/ตลอด) → publish
   - Grades: freeze list 8/8 zero — "ตัดสินใจทุกอย่าง...ตัวตั้ง" 0 → "โดยถือว่า 32GB จะยังอยู่ตรงนี้" (Benz ทางเลือกที่ชอบ) · "มันยืนอยู่บนเครื่องนี้ทั้งหมด" 0 → evidence สถานะชัด 4 แบบ (workload / รายงานเช้า*บางส่วน* / comparison / ประสบการณ์→โพสต์) + "ทั้งหมดนี้เกิดขึ้น ขณะที่เครื่องยังมี 32GB เท่าเดิม" ก่อน "ไม่มีชิ้นไหนเกิดบนการ์ด 48GB ในฝัน" · วงเล็บ boundary 0 → ยืนตรง + "พรยังไม่รู้" กลับมา 1 จุด ณ boundary (ตาม r3) · "ตลอด" 0 → "ถ้า 32GB ยังอยู่ตรงนี้" (ไม่สร้าง Forever Decision)
