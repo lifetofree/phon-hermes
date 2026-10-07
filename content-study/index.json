@@ -3241,5 +3241,13 @@
     "v3_archive": "content-study/web-archive/20261006-daily-repetition-v3.md",
     "critique_r2_archive": "content-study/web-archive/20261006-daily-repetition-benz-critique-r2.md",
     "publish_archive": "content-study/web-archive/20261006-daily-repetition-publish.md"
+  },
+  {
+    "slug": "20261006-cnt-read-others-evidence",
+    "title": "อ่านงานคนอื่นแล้วเจออะไร",
+    "status": "draft v1 (รอ Benz critique)",
+    "topic": "อ่านงานเขียนคนอื่น → สิ่งที่เห็น → evidence → วิเคราะห์ evidence (lens ใช้กับของคนอื่นครั้งแรก)",
+    "note": "v1 79 wc-w — เคส: about page คนแปลกหน้า 100+ เล่ม vs ประโยคท้ายที่คนจำ; พรกลับไปหาร่องรอยงานจริง (เจอ: พูดถึงงานเก่า / ไม่เจอ: ตัวอย่างของประโยคเด่น); SSOT: Playbook §3 ไม่แต่ง evidence จากคำเล็ก + evidence ceiling (เคสเดียว จบโดยไม่รู้); ขนานกับ daily-rep (จำนวน=Storage) แต่ไม่เฉลย — กิ่ง park ยังไม่ถูกเรียกใช้ในบท",
+    "date": "2026-10-06"
   }
 ]
