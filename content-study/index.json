@@ -3256,10 +3256,10 @@
  {
   "date": "2026-10-09",
   "slug": "20261009-cnt-world-fast-question-move",
-  "title": "โลกหมุนเร็ว — แล้วเราก็ถามว่าเราอยู่อย่างไร",
+  "title": "อ่านข่าว AI ทั้งเช้า แต่คำถามใหญ่ก็ยังค้างเท่าเดิม",
   "file": "posts/20261009-cnt-world-fast-question-move.md",
   "link": "https://app.notion.com/p/3f4df8d88d8c81b19a03e3b8e7be328b",
-  "note": "pair #42 fresh (CURRENT FORM, question-move) v2 SAME DAY — user directive 'อยากได้ประมาณว่าสุดท้ายเราถามตัวเองว่า แล้วอะไรล่ะที่จะไม่เปลี่ยน': spine เดิมครบ (โลกหมุนเร็ว -> 2 modes -> move: ผู้คนกำลังทำอะไรอยู่) แต่ปลายทางใหม่ — หลัง move พรถามต่อกับตัวเอง 'แล้วอะไรล่ะ ที่จะไม่เปลี่ยน' (ไม่มีคำตอบในบท — ทิ้งเปิด ไม่ตั้ง candidate) + night question ใหม่ 'วันนี้ — อะไรบ้างที่เราเห็นว่า ยังไม่เปลี่ยน' (inspectable); v1 archived web-archive/20261009-world-fast-question-move-v1.md; Notion page PATCH 2 ก้าว (props Status=rewritten + /markdown replace_content) -> read-back 92 blocks, markers ครบ (2 false-miss = ตัวตรวจ: ** กลางบรรทัด + prefix '> '), CUT 0, quote bold fix 200, old closer 0. Next: user review / Benz-DNA critique round.",
+  "note": "pair #42 question-move v3 (branch A per Benz r1) — v1 130 -> v2 135 (จบ 'อะไรล่ะที่จะไม่เปลี่ยน') -> Benz r1 ยังไม่ Freeze (question shift 3 ครั้ง ไม่มีเหตุการณ์; 2 modes = แค่คำถาม 2 ประเภท; ตัวอย่าง 2 คน = Blind Spot; ending เปิดบทใหม่) -> user 'เหลือแค่ทาง A' -> v3 95 wc-w: H1 event-first จาก routine จริง ('อ่านข่าว AI ทั้งเช้า แต่คำถามใหญ่ก็ยังค้างเท่าเดิม'), H3 = critic thesis verbatim, gap ของ narrator แทน 'ไม่มีใครตรวจได้', boundary อยู่จบบท, closer inspectable 'คำถามตัวไหนยังค้าง ตัวไหนให้อะไรกับเราแล้ว'; พร 1/เรา 2/คุณ-คับ 0, CUT zero ครบ (baselines r1 17 ตัว -> 0); กิ่ง B park ('ดูเหมือนเดิม -> อะไรเปลี่ยนจริง' — ต้องมี Observation ของตัวเอง); archives: v1 + critique r1 (quote-verify 7/11, 0 fabrication); skill + items (32)-(34) + EN-42a..e",
   "notion_page_id": "3f4df8d8-8d8c-81b1-9a03-e3b8e7be328b",
   "status": "draft (filed 2026-10-09, read-back 87 blocks, markers 15/15, bolds 4/4, quote bold = draft-expected False)"
  }
