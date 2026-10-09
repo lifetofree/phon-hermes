@@ -1349,3 +1349,18 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - **Battery v3:** 95 wc-w, พร 1/เรา 2/คุณ-คับ-ผม 0, H1 4/H3 1/beats 24, codepoint+adjacency CLEAN, CUT zero ครบทุกตัว
 - **กิ่ง park:** (1) กิ่ง B "สิ่งที่ดูเหมือนเดิม → อะไรเปลี่ยน/ไม่เปลี่ยนจริง" (Benz: เป็นอีกบทหนึ่ง ต้องมี Observation ของตัวเอง) (2) "อะไรที่จะไม่เปลี่ยน" — กลับได้เมื่อมี evidence ของตัวเอง (3) ทำไมคำถามใหญ่ถึงกว้างจน Inspect ไม่ได้ (mechanism — ต้อง evidence)
 - Skill: items **(32) Question-shift budget** / **(33) Abstract-opening audit** / **(34) Non-overlap of an evidenced no-answer** + EN-42a..e ใน pair-history.md
+
+
+### 2026-10-09 (addendum) — pair #42 Benz r2: "โครงเก่าค้างทำให้บทเดินวน" → v4 thesis เดียว (critic verbatim ทั้ง title/opener/sharp line/ending)
+
+- **Verdict r2:** ใกล้ Freeze — "เริ่มมี Evidence รองรับ Question Shift แล้ว แต่ยังมีโครงจากเวอร์ชันเก่าค้างอยู่ ทำให้บทเดินวน" (5 sections ของ v3 พยายามอธิบายความต่าง big/small ซ้ำกัน ทั้งที่หลักฐานมีเหตุการณ์เดียว)
+- **Pre-rewrite question (critic บังคับตอบก่อนเขียน):** ตั้งใจอ่านเพื่อหาคำตอบตั้งแต่แรก หรือคำถามเพิ่งโผล่ระหว่างอ่าน? → user (clarify): **คำถามอยู่ในหัวก่อนแล้ว (ความสงสัยเดิม) เช้านี้อ่านข่าวตามปกติ ไม่ได้เปิดเพื่อหาคำตอบข้อนี้** → บท = ไม่ใช่ failed search แต่คือ co-residence (routine กับคำถามเดินคู่กันโดยไม่ช่วยกัน) — body บรรทัด "คำถามนี้อยู่ในหัวพรมาก่อนเปิดข่าว / เช้านี้ก็ไม่ได้เปิดข่าวเพื่อหาคำตอบของมัน" = attestation นี้โดยตรง
+- **CUT ที่ r2 สั่ง (v4 zero-verified ทั้งไฟล์และ Notion read-back):** "แย่กว่านั้น" (verdict-opener — critic: "กำลังตัดสินสถานการณ์ทางอารมณ์") / framework คำถามใหญ่-เล็กทั้งก้อน ("คำถามใหญ่ถามถึงโลกทั้งใบ..." = ความต่างที่อธิบายได้ แต่ไม่ใช่ Insight หลัก) / closer "คำถามตัวไหนยังค้าง..." (กว้างกว่าสิ่งที่บทค้นพบ) / "สังเกตผู้คน" ออกจาก body ทั้งหมด (Candidate Question parked — "อย่าเพิ่งทำให้กลายเป็นคำตอบ") / ตัวอย่างคนทำงานเดิม (ไม่ได้เกิดจาก Observation ของเช้านี้)
+- **Verbatim adoption 4 ชิ้น (rule 39):** title "อ่านข่าว AI ทั้งเช้า — แต่คำถามเดิมยังอยู่ที่เดิม" / opener "เช้านี้พรอ่านข่าว AI หลายเรื่องต่อกัน ข่าวหนึ่งจบ อีกข่าวก็มา ข้อมูลเพิ่มขึ้นเรื่อย ๆ" / sharp line "แล้วพรเพิ่งสังเกตว่า ยังไม่รู้ด้วยซ้ำว่า ถ้าคำตอบมาจริง จะรู้ได้ยังไงว่าเจอแล้ว" / ending "จบตรงนี้ได้เลย — ไม่จำเป็นต้องสร้างคำถามใหม่ทุกโพสต์" (v4 ไม่มี closer question และไม่มี quote block)
+- **Thesis เดียว (critic verbatim เป็น H3):** "ข้อมูลเพิ่มขึ้นได้ โดยที่เรายังไม่รู้ว่าอะไรจะนับเป็นคำตอบ" + boundary "ไม่ได้แปลว่าข่าวไม่มีประโยชน์ ข้อมูลก็เข้ามาจริง ๆ"
+- **v4 battery:** 69 wc-w, พร 3/เรา 3/คุณ-คับ 0, H1 4/H3 1/beats 16, r2 baselines 13 ตัว → 0, codepoint+adjacency CLEAN; Notion PATCH 200×2 → 44 blocks markers 27/27 CUT 0
+- **กิ่ง park สะสม:** สังเกตผู้คน (candidate — ต้องมีเหตุผลจากเหตุการณ์จริงก่อน) / สิ่งที่ดูเหมือนเดิม → อะไรเปลี่ยนจริง / อะไรที่จะไม่เปลี่ยน / mechanism ทำไมข่าวไม่ช่วยคำถามกว้าง
+- **EN-42f:** loop symptom = sections ที่มาจาก version ก่อนยัง argument distinction ที่ thesis ใหม่ไม่ต้องใช้ — เปลี่ยน spine = re-derive ทุก section จาก thesis ใหม่ (เช็ค: section นี้เพิ่ม fact ใหม่อะไร) ไม่ใช่ trim อันเก่า
+- **EN-42g:** คำถาม pre-rewrite ของ critic เรื่อง ownership ของ scene ("ตั้งใจหาคำตอบตั้งแต่แรก?") = content decision ที่เปลี่ยน CASE ของบท ไม่ใช่ formality — ต้องถามผู้เขียนก่อนเขียนเสมอ
+- Archives: r2 = `web-archive/20261009-world-fast-question-move-v3-benz-dna-critique-r2.md` (quote-verify 9/12; 3 MISS = section names จาก v2 = version-window)
+- Skill: item (32) extended (no-closer-question rule + verdict-opener ban + one-scene-one-content) + pair-history EN-42f/g

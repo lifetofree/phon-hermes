@@ -3256,10 +3256,10 @@
  {
   "date": "2026-10-09",
   "slug": "20261009-cnt-world-fast-question-move",
-  "title": "อ่านข่าว AI ทั้งเช้า แต่คำถามใหญ่ก็ยังค้างเท่าเดิม",
+  "title": "อ่านข่าว AI ทั้งเช้า — แต่คำถามเดิมยังอยู่ที่เดิม",
   "file": "posts/20261009-cnt-world-fast-question-move.md",
   "link": "https://app.notion.com/p/3f4df8d88d8c81b19a03e3b8e7be328b",
-  "note": "pair #42 question-move v3 (branch A per Benz r1) — v1 130 -> v2 135 (จบ 'อะไรล่ะที่จะไม่เปลี่ยน') -> Benz r1 ยังไม่ Freeze (question shift 3 ครั้ง ไม่มีเหตุการณ์; 2 modes = แค่คำถาม 2 ประเภท; ตัวอย่าง 2 คน = Blind Spot; ending เปิดบทใหม่) -> user 'เหลือแค่ทาง A' -> v3 95 wc-w: H1 event-first จาก routine จริง ('อ่านข่าว AI ทั้งเช้า แต่คำถามใหญ่ก็ยังค้างเท่าเดิม'), H3 = critic thesis verbatim, gap ของ narrator แทน 'ไม่มีใครตรวจได้', boundary อยู่จบบท, closer inspectable 'คำถามตัวไหนยังค้าง ตัวไหนให้อะไรกับเราแล้ว'; พร 1/เรา 2/คุณ-คับ 0, CUT zero ครบ (baselines r1 17 ตัว -> 0); กิ่ง B park ('ดูเหมือนเดิม -> อะไรเปลี่ยนจริง' — ต้องมี Observation ของตัวเอง); archives: v1 + critique r1 (quote-verify 7/11, 0 fabrication); skill + items (32)-(34) + EN-42a..e",
+  "note": "pair #42 question-move v4 (Benz r2: ใกล้ Freeze) — v1 130 -> v2 135 -> Benz r1 -> v3 95 -> Benz r2 ('เริ่มมี Evidence รองรับ Question Shift แล้ว แต่ยังมีโครงจากเวอร์ชันเก่าค้างอยู่ ทำให้บทเดินวน'; pre-rewrite question ตอบผ่าน clarify: คำถามอยู่ในหัวก่อนแล้ว ไม่ได้เปิดข่าวเพื่อหาคำตอบ) -> v4 69 wc-w: title+opener+sharp line+ending = critic verbatim, thesis เดียว 'ข้อมูลเพิ่มขึ้นได้ โดยที่เรายังไม่รู้ว่าอะไรจะนับเป็นคำตอบ', ไม่มี closer question (critic: ไม่จำเป็นต้องสร้างคำถามใหม่ทุกโพสต์), boundary 'ไม่ได้แปลว่าข่าวไม่มีประโยชน์'; พร 3/เรา 3/คุณ-คับ 0; r2 baselines 13 ตัว -> 0; Notion PATCH 200x2 -> 44 blocks markers 27/27; กิ่ง park: สังเกตผู้คน (candidate) / ดูเหมือนเดิม->เปลี่ยนจริง / อะไรไม่เปลี่ยน / mechanism ข่าว vs คำถามกว้าง; skill (32) extended + EN-42f/g; รอ Benz r3 / publish",
   "notion_page_id": "3f4df8d8-8d8c-81b1-9a03-e3b8e7be328b",
   "status": "draft (filed 2026-10-09, read-back 87 blocks, markers 15/15, bolds 4/4, quote bold = draft-expected False)"
  }
