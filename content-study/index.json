@@ -3259,7 +3259,7 @@
   "title": "อ่านข่าว AI ทั้งเช้า — แต่คำถามเดิมยังอยู่ที่เดิม",
   "file": "posts/20261009-cnt-world-fast-question-move.md",
   "link": "https://app.notion.com/p/3f4df8d88d8c81b19a03e3b8e7be328b",
-  "note": "pair #42 question-move v4 (Benz r2: ใกล้ Freeze) — v1 130 -> v2 135 -> Benz r1 -> v3 95 -> Benz r2 ('เริ่มมี Evidence รองรับ Question Shift แล้ว แต่ยังมีโครงจากเวอร์ชันเก่าค้างอยู่ ทำให้บทเดินวน'; pre-rewrite question ตอบผ่าน clarify: คำถามอยู่ในหัวก่อนแล้ว ไม่ได้เปิดข่าวเพื่อหาคำตอบ) -> v4 69 wc-w: title+opener+sharp line+ending = critic verbatim, thesis เดียว 'ข้อมูลเพิ่มขึ้นได้ โดยที่เรายังไม่รู้ว่าอะไรจะนับเป็นคำตอบ', ไม่มี closer question (critic: ไม่จำเป็นต้องสร้างคำถามใหม่ทุกโพสต์), boundary 'ไม่ได้แปลว่าข่าวไม่มีประโยชน์'; พร 3/เรา 3/คุณ-คับ 0; r2 baselines 13 ตัว -> 0; Notion PATCH 200x2 -> 44 blocks markers 27/27; กิ่ง park: สังเกตผู้คน (candidate) / ดูเหมือนเดิม->เปลี่ยนจริง / อะไรไม่เปลี่ยน / mechanism ข่าว vs คำถามกว้าง; skill (32) extended + EN-42f/g; รอ Benz r3 / publish",
+  "note": "pair #42 CLOSED — publish 67 wc-w (0.97x v4) after Benz r3 freeze ('เกลา 2 จุด แล้ว Freeze'): polish1 = critic replacement verbatim ('พรยังบอกไม่ได้ว่า คำถามนี้มีคำตอบแบบไหน'), polish2 = จบสั้น 'พรยังไม่ได้คำตอบ' (critic option B), 'ยังไม่รู้ด้วยซ้ำ' 1x กลางบท; freeze grades 10/10 zero; battery พร 2/เรา 3/คุณ-คับ 0 H1 4/H3 1/beats 15; Notion PATCH -> 45 blocks markers 28/28; lineage v1 130 -> v2 135 -> r1 -> v3 95 -> r2 (+clarify) -> v4 69 -> r3 freeze -> publish; archives r3-freeze + publish; EN-42h; กิ่ง park 4 รอ evidence",
   "notion_page_id": "3f4df8d8-8d8c-81b1-9a03-e3b8e7be328b",
   "status": "draft (filed 2026-10-09, read-back 87 blocks, markers 15/15, bolds 4/4, quote bold = draft-expected False)"
  }

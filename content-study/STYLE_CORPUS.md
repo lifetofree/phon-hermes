@@ -1364,3 +1364,15 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - **EN-42g:** คำถาม pre-rewrite ของ critic เรื่อง ownership ของ scene ("ตั้งใจหาคำตอบตั้งแต่แรก?") = content decision ที่เปลี่ยน CASE ของบท ไม่ใช่ formality — ต้องถามผู้เขียนก่อนเขียนเสมอ
 - Archives: r2 = `web-archive/20261009-world-fast-question-move-v3-benz-dna-critique-r2.md` (quote-verify 9/12; 3 MISS = section names จาก v2 = version-window)
 - Skill: item (32) extended (no-closer-question rule + verdict-opener ban + one-scene-one-content) + pair-history EN-42f/g
+
+
+### 2026-10-09 (CLOSED) — pair #42 COMPLETE: Benz r3 Freeze ("เกลา 2 จุด") → publish 67 wc-w (0.97× v4) — freeze grades 10/10 zero
+
+- **Rounds ทั้งคู่:** v1 130 → v2 135 → Benz r1 (ยังไม่ Freeze) → v3 95 → Benz r2 (ใกล้ Freeze + pre-rewrite question ผ่าน clarify) → v4 69 → Benz r3 (**"เกลา 2 จุด แล้ว Freeze ... พอแล้วสำหรับโพสต์นี้คับ"**) → publish 67 wc-w (0.97× v4)
+- **Freeze grades (publish, 10/10 PASS):** "ไม่ใช่ว่าไม่มีคำตอบ" 0 → replacement critic verbatim "พรยังบอกไม่ได้ว่า คำถามนี้มีคำตอบแบบไหน" · "ยังไม่รู้ด้วยซ้ำ" 1× (กลางบทเท่านั้น — จุดเดียวที่ Insight ปรากฏเต็ม) · dup ending "อะไรจะนับเป็นคำตอบของคำถามนี้" 0 · short ending chosen = **"พรยังไม่ได้คำตอบ"** (critic option B: "ถ้ารู้สึกว่าซ้ำอยู่ ก็จบตั้งแต่...") · don't-add ครบ: mode 0 / ผู้คน 0 / ไม่เปลี่ยน 0 / "ไม่ช่วย" family 0 / critic asset line "บางครั้งสิ่งที่ยังขาด..." ไม่ถูกเติมลงบท
+- **Publish moves 6:** (1) polish1 replacement verbatim + "เพราะ" ต่อเข้า sharp line (จาก "แล้ว") (2) ending ใหม่ = critic proposed แบบสั้น: "เช้านี้ / ข่าว AI เพิ่มขึ้นอีกหลายเรื่อง / แต่คำถามเดิมยังอยู่" + quote คำถามเต็ม curly “ ” (3) จบ "พรยังไม่ได้คำตอบ" — ประโยคเดียว ไม่มีคำอธิบายซ้ำ (4) ยืนยัน protect line เดิม (อยู่ในหัวก่อนเปิดข่าว) (5) H1/subtitle ไม่แตะ (critic: "ทำงานคนละหน้าที่ได้แล้ว...ไม่จำเป็นต้องปรับ Hook ให้แรงกว่านี้") (6) ไม่เติมอะไรกลับ — asset ของบท = "ก่อนหาคำตอบ เราอาจยังไม่รู้ว่าอะไรจะนับเป็นคำตอบ" (Lens จากเหตุการณ์หนึ่ง ไม่ใช่ Rule)
+- **Notion:** body PATCH 200 → read-back 45 blocks, markers 28/28, freeze checks 9/9, tail hashtags ✓, no comment leak; Status: rewritten, Name = publish title
+- **Battery publish:** 67 wc-w, พร 2/เรา 3/คุณ-คับ 0, H1 4/H3 1/beats 15, curly quotes 1 คู่ (ใน quote คำถาม), scans CLEAN
+- **Archive:** r3 = `web-archive/20261009-world-fast-question-move-v4-benz-dna-critique-r3-freeze.md` (quote-verify 6/10 HIT; 4 MISS = critic's own hypotheticals/replacements) · publish = `web-archive/20261009-world-fast-question-move-publish.md` (verbatim)
+- **EN-42h (r3, skill item 32 family):** freeze-round polish = entitlement polish — "ไม่ใช่ว่าไม่มีคำตอบ" → "ยังบอกไม่ได้ว่ามีคำตอบแบบไหน" (อย่า claim ถึง non-existence ที่ narrator ไม่รู้); และ insight เดียวปรากฏเต็มที่จุดเดียว — ถ้า insight ซ้ำสองจุด เลือกจุดที่แรงกว่าแล้วตัดอีกจุดจนเหลือประโยคเปล่า ("พรยังไม่ได้คำตอบ"); การเพิ่มคำอธิบายเพื่อความชัด = Tension ลด (critic verbatim)
+- **Pair #42 CLOSED** — 5 versions, 3 critiques, 1 clarify; กิ่ง park สะสม 4 กิ่งรอ evidence

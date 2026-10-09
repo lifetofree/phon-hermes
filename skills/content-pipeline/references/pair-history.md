@@ -108,7 +108,7 @@ User pasted the publish version same day. CUT zero-count **16/16** (decision-cap
 
 ---
 
-## Pair #42 (question-move, 2026-10-09 — IN PROGRESS, v4 pending Benz r3 / publish)
+## Pair #42 (question-move, 2026-10-09 — CLOSED: publish 67 wc-w after Benz r3 freeze, grades 10/10 zero)
 
 **Versions:** v1 130 wc-w ("โลกหมุนเร็ว — แล้วเราก็ถามว่าเราอยู่อย่างไร" — abstract opener, 2 modes → move สังเกตผู้คน, จบที่ move ตาม clarify) → v2 135 wc-w (user directive: จบ "แล้วอะไรล่ะที่จะไม่เปลี่ยน") → Benz r1 (ยังไม่ Freeze; branch A) → v3 95 wc-w (event-first "อ่านข่าว AI ทั้งเช้า แต่คำถามใหญ่ก็ยังค้างเท่าเดิม") → Benz r2 (ใกล้ Freeze — "เริ่มมี Evidence รองรับ Question Shift แล้ว แต่ยังมีโครงจากเวอร์ชันเก่าค้างอยู่ ทำให้บทเดินวน"; pre-rewrite question ถูกตอบผ่าน clarify: คำถามอยู่ในหัวก่อนแล้ว ไม่ได้เปิดข่าวเพื่อหาคำตอบ) → v4 69 wc-w (title + opener + sharp line + ending = critic verbatim; thesis เดียว "ข้อมูลเพิ่มขึ้นได้ โดยที่เรายังไม่รู้ว่าอะไรจะนับเป็นคำตอบ"; ไม่มี closer question)
 **Archives:** v1 = web-archive/20261009-world-fast-question-move-v1.md · critique r1 + baselines 17 ตัว = web-archive/20261009-world-fast-question-move-v2-benz-dna-critique.md (quote-verify 7/11 — 4 MISS = 2 multi-line joins + 2 critic paraphrases, 0 fabrication)
@@ -130,4 +130,5 @@ User pasted the publish version same day. CUT zero-count **16/16** (decision-cap
 - Notion PATCH 200×2 → read-back 44 blocks markers 27/27 CUT 0 (quote block ไม่มีแล้ว — บทจบการค้นพบ ไม่มี night question)
 - **EN-42f (r2):** the "loop" symptom has a precise cause — SECTIONS inherited from a previous version keep arguing a distinction the new thesis no longer needs; when the spine changes, re-derive every section from the new thesis (count: does each section add a NEW fact about it?) instead of trimming the old ones
 - **EN-42g (r2):** pre-rewrite question of the critic ("ตั้งใจอ่านเพื่อหาคำตอบตั้งแต่แรก หรือคำถามเพิ่งโผล่ระหว่างอ่าน?") = ownership check that changes the post's CASE; answer came via clarify (คำถามอยู่ในหัวก่อนแล้ว — routine อ่านตามปกติ) → the honest post is about co-residence (routine กับคำถามเดินคู่กันโดยไม่ช่วยกัน), not a failed search; park-questions to the narrator are CONTENT decisions, not formality
+- (EN-42h) **Freeze-round polish = entitlement polish** — the 2-point freeze (r3) both SHRANK claims: "ไม่ใช่ว่าไม่มีคำตอบ" (claims non-existence the narrator cannot know) → "ยังบอกไม่ได้ว่า คำถามนี้มีคำตอบแบบไหน"; and one insight may appear FULL at exactly one point — if it repeats (mid-post "จะรู้ได้ยังไงว่าเจอแล้ว" vs ending "อะไรจะนับเป็นคำตอบ"), keep the stronger and cut the other to a bare sentence ("พรยังไม่ได้คำตอบ" — critic option B); adding explanations for clarity lowers tension (critic verbatim: "ทุกครั้งที่อธิบายซ้ำ Tension ของบทจะลดลง"); the asset stayed a LENS from one event, never promoted to a Rule ("ยังเป็น Lens จากเหตุการณ์หนึ่ง ไม่ใช่ Rule ที่พิสูจน์แล้ว").
 
