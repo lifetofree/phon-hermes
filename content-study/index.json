@@ -3265,7 +3265,7 @@
  },
  {
   "date": "2026-10-10",
-  "title": "Pair #43 v2 rewrite (CURRENT FORM): วินัยที่มองเห็นได้ — อาจไม่ใช่วินัยที่ลงมือจริง (วินัย display vs input trap; v1→v2 same-day agent rewrite: spine = brief order วินัย→กับดัก→all-in→question, mechanism-theft CUT (hustle 10-04 owns word-closes-question), invented-scene CUT (มีอยู่คืนหนึ่ง), questions 4→1 (question-shift budget); v1 153 → v2 130 wc-w, CUT 0, พร 12/เรา 0/คุณ 0/คับ 0; v1 archived; Notion Status → rewritten) [title set by user pick: วินัยที่มองเห็นได้ — อาจไม่ใช่วินัยที่ลงมือจริง]",
+  "title": "Pair #43 v3 (CURRENT FORM, Benz r1+r2 rewrite): เห็นเขาทำทุกวัน — แล้วพรเอาอะไรมาตัดสินว่าตัวเองไม่มีวินัยเท่าเขา (spine = SELF-inspection of comparison; false contrast วินัยที่มองเห็นได้ vs ลงมือจริง CUT → data-completeness axis; ผลลัพธ์/สัญญา claims CUT; 99 wc-w, CUT 26 = 0, พร 11/คุณ 0; critiques r1+r2 archived, pre-rewrite Q answered ยัง; Notion 76 blocks 11/11, Status rewritten)",
   "file": "posts/20261010-cnt-discipline-trap-quiet-effort.md",
   "slug": "20261010-cnt-discipline-trap-quiet-effort",
   "link": "https://app.notion.com/p/3f5df8d88d8c81598e6bfd7f877590aa"
@@ -3275,6 +3275,27 @@
   "title": "Pair #43 v1 archive (agent fresh draft, superseded by v2 rewrite same day; verbatim incl. HTML header)",
   "file": "web-archive/20261010-discipline-trap-quiet-effort-v1.md",
   "slug": "20261010-discipline-trap-quiet-effort-v1",
+  "link": "https://app.notion.com/p/3f5df8d88d8c81598e6bfd7f877590aa"
+ },
+ {
+  "date": "2026-10-10",
+  "title": "Pair #43 Benz-DNA critique r1 archive (verbatim, quote-verify 6/6)",
+  "file": "web-archive/20261010-discipline-trap-benz-dna-critique-r1.md",
+  "slug": "20261010-discipline-trap-benz-critique-r1",
+  "link": "https://app.notion.com/p/3f5df8d88d8c81598e6bfd7f877590aa"
+ },
+ {
+  "date": "2026-10-10",
+  "title": "Pair #43 Benz-DNA critique r2 archive (verbatim, quote-verify 3/3; spine question resolved = self-inspection)",
+  "file": "web-archive/20261010-discipline-trap-benz-dna-critique-r2.md",
+  "slug": "20261010-discipline-trap-benz-critique-r2",
+  "link": "https://app.notion.com/p/3f5df8d88d8c81598e6bfd7f877590aa"
+ },
+ {
+  "date": "2026-10-10",
+  "title": "Pair #43 v2 snapshot (agent rewrite, superseded by v3 same day)",
+  "file": "web-archive/20261010-discipline-trap-quiet-effort-v2.md",
+  "slug": "20261010-discipline-trap-quiet-effort-v2",
   "link": "https://app.notion.com/p/3f5df8d88d8c81598e6bfd7f877590aa"
  }
 ]

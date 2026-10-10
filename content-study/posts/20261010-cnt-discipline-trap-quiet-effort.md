@@ -1,126 +1,35 @@
 <!--
 ContentID: 20261010-CNT-DISCIPLINE-TRAP (placeholder)
-Title: วินัยที่มองเห็นได้ — อาจไม่ใช่วินัยที่ลงมือจริง
+Title: เห็นเขาทำทุกวัน — แล้วพรเอาอะไรมาตัดสินว่าตัวเองไม่มีวินัยเท่าเขา
 Slug: discipline-trap-quiet-effort
-Type: CURRENT FORM (system/mindset, post-#17 synthesis) — rewrite v2 (same brief, agent rewrite round)
-Brief (user, 2026-10-10): "rewrite draft จาก brief วินัย → กับดัก → สังเกตคน all in → จบที่คำถาม"
-Brief order = spine, enforced literally in v2: (1) the word วินัย first, (2) กับดัก (definition) second, (3) the all-in observation third, (4) END at the question.
-v1 → v2 (rewrite round, 2026-10-10):
-- v1 archived verbatim: web-archive/20261010-discipline-trap-quiet-effort-v1.md (draft commit 29e7fa8)
-- (1) SECTION ORDER FIXED: v1 opened on the all-in scene and let the word arrive later ("คำที่มาปิดฉาก") — inverted the brief; v2 opens with the word and follows the brief sequence.
-- (2) MECHANISM THEFT CUT: v1's section "คำที่มาปิดฉาก" re-imported the closing-question mechanism of the 10-04 hustle post (sibling: ความทุ่มเท) — 0× in v2; ความทุ่มเท appears only as the observed scene's own vocabulary (title + one body line), never graded (10-04 owns word-grading).
-- (3) INVENTED SCENE CUT: v1's "มีอยู่คืนหนึ่ง พรหยุดอยู่ตรงนั้นนานกว่าปกติ" = a fabricated moment with no attested source (pair #38 lesson); v2 keeps only self-attesting moves (พรเคยใช้คำนี้ / พรกลับมานึกถึงคนกลุ่มนั้น — the post itself is that remembering).
-- (4) QUESTION BUDGET: v1 asked 4 distinct questions (ถามตัวเอง / ลงมือ-แสดง / วัดจากภาพ / เหลืออะไร) — violates (32); v2 = ONE move (turn the measurement question inward) paid by the observed scene; the display/input line stays as the trap definition, not a second closer.
-- (5) pair label fix: index entry wrongly said "Pair #37 v1" (37 = AutoClaw tech pair, CLOSED 10-06); correct next pair = #43.
-- (6) TITLE SET (user pick, 2026-10-10): "วินัยที่มองเห็นได้ — อาจไม่ใช่วินัยที่ลงมือจริง" — the thesis line itself (CURRENT FORM atom: H1 = condition/observable criterion); v1 title "คนที่ทุ่มเทสุด ๆ ที่พรเห็น — ผลลัพธ์ไม่ได้ดีขึ้น" retired (0× in body, CUT-guard for future rounds).
-Draft-time gates (re-run on v2):
-(a) re-skin vs 10-04 hustle — PASS (different asset: display-vs-input, not word-closes-question; scene = observed others, not own schedule)
-(b) thesis stack — ONE thesis: คำว่าวินัยถูกใช้กับสิ่งที่มองเห็นได้ แต่สิ่งที่มองเห็นได้อาจไม่ใช่ตัวที่ลงมือจริง — the trap = measuring by display. Parked (not in body): "วินัยจริงคืออะไร" answer / Load-Noise diagnosis (09-27 owns) / routine-Default (09-23 thread owns) / burnout-rest prescription / สังเกตผู้คน-as-method (pair #42 park, needs own evidence).
-(c) evidence ceiling — observed CLASS of people, no named case ⇒ hedged universals (ดูเหมือน / อาจ / น่าจะ); no mechanism claim (WHY display ≠ input stays open — the post ends there).
-(d) killer-line counterexample — "วินัยที่มองเห็น ≠ วินัยที่ลงมือ" scoped with อาจ (some visible input may be real — display alone cannot tell = the weaker, true form).
-(e) scene spine — the display scene + the result line + the word + the question; ends where the question opens (end-on-open-state, EN #174).
-(f) receipts — no numbers, no named people, no time anchors ("ช่วงที่ผ่านมา" = vague by intent).
-COLLISION SCAN (carried from v1, re-checked on v2): 01-31 system-over-willpower (SELF-diagnosis, inward) / 09-27 load-or-noise (SELF-diagnosis + Load/Noise vocab = 0 in body) / 10-04 hustle (word-closes-question mechanism = 0×) / 02-14 cage / 03-25 asset / pair #42 park — all distinct, no reskin.
-SSOT anchors (verified, used UNLABELED in body):
-- duck-os/Main_Data_for_UDO.md:232 — Power Test (ดึงอำนาจตัดสินใจกลับมา) → turning the question inward is the reclaim
-- duck-os/Duck_OS_Instruction.md:17 — Anti-Hype ("ถ้าอะไรเสียงดัง = ผิด") → the visible display is the loud thing; the quiet line asks what it measures
-- duck-os/OPB_Core_System.md:4 — Quiet Power → effort that doesn't announce itself (implied, never named)
-Register: พร (story/observation) / เรา (universal, hedged) / คุณ 0 / คับ 0
-CUT zero-count: Load / Noise / Capture / Default / Compile / Margin / burnout / พัก / rest / cage / คุก / กรง / ขาดทุน / exchange / Hero / FOMO / JOMO / XX-0N / Law / protocol names / คุณ / คับ / "คำที่มาปิดฉาก" family (ปิดฉาก / ปิดคำถาม) / "มีอยู่คืนหนึ่ง"
+Type: CURRENT FORM (system/mindset, post-#17 synthesis) — v3 (Benz-DNA critique r1+r2 rewrite round)
+Version chain: v1 fresh (archived) → v2 agent rewrite (archived) → v3 critique rewrite (this file). Critiques archived: web-archive/20261010-discipline-trap-benz-dna-critique-{r1,r2}.md (quote-verify 6/6 + 3/3 HIT, 0 drift).
+SPINE CHOICE (r2's question, resolved): Inspect วิธีที่พรเอาภาพการทำงานของคนอื่นมาตัดสินตัวเอง (option B) — determined by the r1 pre-rewrite answer "ยัง" (no two-sided event; boundary-inspection fork per r1's own rule) + both critiques' skeleton. The word วินัย stays as the EVENT's vocabulary, never defined for others (r1 §4).
+v3 implements (critic lines verbatim where marked):
+- TITLE + SUBTITLE = r1 §6 verbatim ("เห็นเขาทำทุกวัน — ..." / "สิ่งที่เห็นจากภายนอกอาจเป็นเรื่องจริง แต่ยังไม่ใช่ข้อมูลทั้งหมดที่ใช้เปรียบเทียบ") — replaces the v2 title (false contrast "วินัยที่มองเห็นได้ — อาจไม่ใช่วินัยที่ลงมือจริง" = retired, 0× in v3).
+- OPEN = event-first (r1 §6): the observed class + the comparison question "ทำไมพรไม่มีวินัยเท่าเขา" — NOT the abstract "คำว่าวินัย ฟังเหมือนคำตอบ" hook (retired 0×). Brief-order override documented: original brief said วินัย-first, but r1 §6 explicitly prescribes event-first — critique wins over brief.
+- ANOMALY = r1 §6 verbatim-adapted: พรรู้แค่ว่าเขาโพสต์อะไร และทำบ่อยแค่ไหน / พรไม่ได้รู้ทั้งหมดว่าเขาทำงานภายใต้เงื่อนไขแบบไหน + the unseen list = r1 §3 table verbatim family (เงื่อนไข เหตุผล การตัดสินใจ และผลลัพธ์ที่เกี่ยวข้อง) — ผลลัพธ์ appears ONLY here as an UNSEEN item (critic's own usage), never as an outcome claim about anyone.
+- NEW AXIS = r2 verbatim: "สิ่งที่พรเห็นเขาทำ — ยังไม่ใช่ข้อมูลทั้งหมด ที่ใช้ตัดสินวินัยของเขา" (from วินัยที่มองเห็นได้ ≠ วินัยที่ลงมือจริง). The visible is affirmed REAL first ("สิ่งเหล่านี้เป็นเรื่องจริง") — never called fake (r1 §3).
+- QUOTE (blockquote) = r1 §3 verbatim: "สิ่งที่มองเห็นอาจเป็นเรื่องจริง แต่ยังไม่ใช่ข้อมูลทั้งหมด"
+- PIVOT = the spine's own line: if it is not his whole data, it is not the whole data พรใช้ตัดสินตัวพรเอง either.
+- QUESTION SHIFT (ONE, per budget (32)) = r1 §5 verbatim: ก่อน "ทำไมพรไม่มีวินัยเท่าเขา" → หลัง "พรรู้อะไรเกี่ยวกับวิธีที่เขาทำงานจริง ๆ บ้าง ก่อนจะเอาตัวเองไปเปรียบเทียบ" (the closer blockquote).
+- END = open state: พรยังตอบคำถามใหม่ไม่ได้ แต่คำถามที่ใช้ตัดสินตัวเองเปลี่ยนไปแล้ว — no verdict on anyone's วินัย (r1 Direction), no new Law/Compile (r1 §7).
+CUT zero-count (v3, body + hashtags): สัญญา / ไม่ได้ดีขึ้น / วินัยที่มองเห็นได้ / ลงมือจริง / ชี้ไปที่ / ฟังเหมือนคำตอบ / คำตอบ / กับดัก / แล้วมันเงียบ / ความทุ่มเท / ภาพของวินัย / Load / Noise / Capture / Default / Compile / Margin / burnout / พัก / rest / คุก / กรง / ขาดทุน / Hero / FOMO / JOMO / Law / XX-0N / protocol names / คุณ / คับ  (ผลลัพธ์ allowed ONLY in the unseen list, 1×)
+Question-shift audit: ONE shift (comparison question), paid by the boundary noticing (รู้แค่บางส่วน). Closer = the new question itself.
+Re-skin check vs 09-27 load-or-noise: distinct entry point per r1 §7 (others'-behavior standard vs own-failure diagnosis) — 09-27 vocab 0× in body.
+Register: พร full (story + inspection) / เรา 0 / คุณ 0 / คับ 0 (no-answer post ⇒ full-พร correct)
 Hashtags: #Adduckivity #DuckOS #NeuroDivergent #Discipline
 -->
 
-# วินัยที่มองเห็นได้ — อาจไม่ใช่วินัยที่ลงมือจริง
+# เห็นเขาทำทุกวัน — แล้วพรเอาอะไรมาตัดสินว่าตัวเองไม่มีวินัยเท่าเขา
 
-### คำว่าวินัย ฟังเหมือนคำตอบ — แต่ไม่เคยมีใครถามว่า มันวัดจากอะไร
-
-.
-
-คำว่า วินัย
+### สิ่งที่เห็นจากภายนอกอาจเป็นเรื่องจริง แต่ยังไม่ใช่ข้อมูลทั้งหมดที่ใช้เปรียบเทียบ
 
 .
-
-ฟังเหมือนคำตอบ
-
-.
-
-พอพูดคำนี้ได้
-
-เรื่องก็เหมือนจบ
-
-ไม่มีใครถามต่อ
-
-.
-
-.
-
-พรเคยใช้มันแบบนั้นด้วย
-
-.
-
-ใช้กับคนอื่น
-
-ใช้กับตัวเอง
-
-ทั้งที่ไม่เคยถามเลยว่า
-
-คำนี้วัดอะไร
-
-.
-
-.
-
-# กับดัก
-
-ถ้าให้เดา
-
-กับดักน่าจะอยู่ตรงที่คำนี้ชี้
-
-.
-
-วินัย ชี้ไปที่สิ่งที่มองเห็นได้
-
-.
-
-ตื่นเมื่อไหร่
-
-ทำงานนานแค่ไหน
-
-ทำต่อเนื่องกี่วัน
-
-.
-
-ทั้งหมดนี้วัดด้วยตาได้
-
-จากข้างนอก
-
-โดยที่ไม่ต้องเข้าไปเห็นเลยว่า
-
-ข้างในมีอะไรกำลังถูกคิด
-
-อะไรกำลังถูกตัดสินใจ
-
-อะไรกำลังถูกเลือกซ้ำ ๆ
-
-.
-
-.
-
-> วินัยที่มองเห็นได้ กับวินัยที่ลงมือจริง อาจไม่ใช่สิ่งเดียวกัน
-
-.
-
-แต่คำเดียวกัน ถูกใช้กับทั้งสองอย่าง
-
-.
-
-.
-
-# คนที่ทุ่มเทสุด ๆ ที่พรเห็น
 
 ช่วงที่ผ่านมา
 
-พรเห็นคนแบบนี้บ่อยขึ้น
+พรเห็นคนแบบหนึ่งบ่อยขึ้น
 
 .
 
@@ -142,76 +51,124 @@ Hashtags: #Adduckivity #DuckOS #NeuroDivergent #Discipline
 
 .
 
-.
+และแทบทุกครั้งที่เห็นภาพแบบนี้
 
-ดูจากข้างนอก
-
-เหมือนภาพของวินัยชัด ๆ
+ในหัวพรจะมีคำถามเดิมเด้งขึ้นมา
 
 .
 
-แต่ผลลัพธ์ของพวกเขา
-
-ไม่ได้ดีขึ้น
+ทำไมพรไม่มีวินัยเท่าเขา
 
 .
 
-ไม่ได้ดีขึ้นแบบที่ภาพของพวกเขาสัญญาไว้
+คำถามนี้มาเร็ว
 
-.
-
-.
-
-พรไม่รู้ว่าอะไรหายไป
-
-.
-
-แต่ถ้าคำว่าวินัยบอกอะไรได้จริง
-
-มันน่าจะบอกอะไรสักอย่างได้ในจุดนี้
-
-แล้วมันเงียบ
+เหมือนรออยู่แล้ว
 
 .
 
 .
 
-# คำถามที่เหลืออยู่
+# สิ่งที่พรรู้ กับสิ่งที่พรยังไม่เห็น
 
-ตอนที่พรกลับมานึกถึงคนกลุ่มนั้น
+พอลองถอยมาดูคำถามนั้น
 
-สิ่งที่ค้างอยู่ในหัว คือ
-
-.
-
-วินัยที่พรเห็น — คือสิ่งที่เขาลงมือ
-
-หรือแค่สิ่งที่เขาแสดง
+พรเริ่มแยกสิ่งที่พรรู้จริง ๆ ออกมา
 
 .
 
-.
+พรรู้ว่าเขาโพสต์อะไร
 
-คำถามนี้ ตอบไม่ได้จากข้างนอก
+รู้ว่าเขาทำบ่อยแค่ไหน
 
-.
-
-แต่มันเปลี่ยนคำถามของตัวพรเอง
+รู้ว่าเขาทำต่อเนื่อง
 
 .
 
-จากที่เคยถามว่า ทำไมพรไม่มีวินัยเท่าเขา
-
-เป็น
+สิ่งเหล่านี้เป็นเรื่องจริง
 
 .
 
-> วินัยของตัวพรเอง — พรกำลังวัดมันจากภาพ หรือจากสิ่งที่ลงมือจริง ๆ
+แต่มีอีกส่วนที่พรไม่เห็น
+
+.
+
+พรไม่เห็นว่าเขาทำงานภายใต้เงื่อนไขแบบไหน
+
+ไม่เห็นเหตุผลที่อยู่เบื้องหลัง
+
+ไม่เห็นว่าอะไรถูกตัดสินใจ
+
+ไม่เห็นผลลัพธ์ที่เกี่ยวข้องกับมันจริง ๆ
 
 .
 
 .
 
-พรยังไม่มีคำตอบ
+สิ่งที่พรเห็นเขาทำ
+
+ยังไม่ใช่ข้อมูลทั้งหมด
+
+ที่ใช้ตัดสินวินัยของเขา
+
+.
+
+> สิ่งที่มองเห็นอาจเป็นเรื่องจริง
+> แต่ยังไม่ใช่ข้อมูลทั้งหมด
+
+.
+
+และถ้ามันยังไม่ใช่ข้อมูลทั้งหมดของเขา
+
+มันก็ยังไม่ใช่ข้อมูลทั้งหมด
+
+ที่พรเอามาตัดสินตัวพรเอง
+
+.
+
+.
+
+# คำถามที่เปลี่ยนไป
+
+คำถามเดิมถามได้เร็ว
+
+เพราะมันเทียบจากภาพ
+
+.
+
+คำถามที่พรอยากถามแทน คือ
+
+.
+
+> พรรู้อะไรเกี่ยวกับวิธีที่เขาทำงานจริง ๆ บ้าง
+> ก่อนจะเอาตัวเองไปเปรียบเทียบ
+
+.
+
+คำถามใหม่ไม่ได้ตอบว่าวินัยคืออะไร
+
+และไม่ได้สรุปว่าใครมีวินัยจริงหรือไม่
+
+.
+
+มันแค่หยุด
+
+การเอาข้อมูลที่มองเห็นเพียงบางส่วน
+
+ไปตัดสินตัวเองทั้งหมด
+
+.
+
+.
+
+พรยังตอบคำถามใหม่นี้ไม่ได้
+
+.
+
+แต่คำถามที่พรใช้ตัดสินตัวเอง
+
+เปลี่ยนไปแล้ว
+
+.
 
 #Adduckivity #DuckOS #NeuroDivergent #Discipline
