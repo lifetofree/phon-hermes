@@ -2,23 +2,20 @@
 ContentID: 20261010-CNT-DF-MY-DAY (placeholder)
 Title: ตอนเย็นถึงรู้สึกเหนื่อย — แต่ระหว่างวันพรเริ่มเลือกเรื่องเล็ก ๆ ยากขึ้นแล้ว
 Slug: decision-fatigue-my-day
-Type: CURRENT FORM (system/mindset, post-#17 synthesis) — v2 (Benz-DNA critique r1 rewrite round, pair #44)
-Version chain: v1 fresh (archived web-archive/20261010-decision-fatigue-my-day-v1.md) → v2 critique rewrite (this file). Critique r1 archived: web-archive/20261010-decision-fatigue-benz-dna-critique-r1.md (quote-verify 8/8 HIT, 0 drift).
-Pre-rewrite question (rule 36) ANSWERED IN the critique (user's own appended line): "เพิ่งมารู้สึกเหนื่อยชัด ๆ ตอนเย็น" → TIMELINE branch: ระหว่างวัน = ลังเลกับเรื่องเล็ก → ตอนเย็น = เหนื่อยชัด; sequence observed ≠ cause proven.
-NEW SPINE (critic Direction verbatim): จาก "ทำไมการตัดสินใจทั้งวันทำให้พรเหนื่อย" → "ก่อนจะรู้สึกเหนื่อยตอนเย็น พรสังเกตเห็นอะไรระหว่างวัน"
-v2 implements (critic lines verbatim where marked):
-- TITLE = critic candidate verbatim: "ตอนเย็นถึงรู้สึกเหนื่อย — แต่ระหว่างวันพรเริ่มเลือกเรื่องเล็ก ๆ ยากขึ้นแล้ว" (v1 title "ไม่ได้ทำอะไรหนัก..." retired 0×; "งานก็งานเดิม" kept in open — not flagged).
-- SUBTITLE = critic verbatim: "พรเริ่มเห็นความลังเลระหว่างวัน แต่ยังไม่รู้ว่ามันเป็นสาเหตุหรือผลของความเหนื่อย" (DF word kept OUT of title+subtitle per critic: reader needs no prior DF knowledge).
-- MID = critic's sanctioned block verbatim: ระหว่างวันยังไม่เหนื่อยชัด / เริ่มเห็นตัวเองลังเลกับเรื่องที่ปกติเลือกได้ง่ายกว่า / หน้าจอเปิดค้าง งานยังไม่เริ่ม / จนเย็นเหนื่อยถึงชัด / ยังไม่รู้ว่าลังเลระหว่างวันเกี่ยวกับความเหนื่อยตอนเย็นอย่างไร.
-- DF DEMOTED 1×: "คำที่พรเจอระหว่างพยายามทำความเข้าใจ" — not diagnosis, not spine (critic §4).
-- CAUSAL CUT: "แบบนั้นแหละ" / "ทุกอย่างมาถึงตัวพรหมด" / "ตัดสินใจแทนพร" / "วันที่ต้องเลือกเองทั้งวัน" 0×; replaced by critic §3 verbatim-adapted: "วันที่พรจำได้ว่าเหนื่อยแบบนี้ มีการเลือกเล็ก ๆ หลายครั้งอยู่ในนั้น / แต่พรยังไม่รู้ว่า มันเป็นสิ่งที่ทำให้เหนื่อย หรือเป็นสิ่งที่เริ่มยากขึ้นเพราะพรเหนื่อยอยู่แล้ว".
-- JUDGMENT FIXED: "นานเกินกว่าของขนาดมัน" → "นานกว่าที่พรคุ้นเคย" (critic verbatim; requires baseline). "ของจิ๋ว" → "เรื่องเล็ก ๆ / เรื่องที่ปกติเลือกได้ง่ายกว่า" 0×.
-- TRACKING PLAN CUT: "วันถัดไป…ตัวเลือกแรกของวัน" 0× (critic §5 — unknown ไม่ควรถูกบังคับเป็นระบบ; ตัวเลือกแรก = self-chosen anchor ไม่มี evidence).
-- ENDING = critic verbatim beats: พรเคยสังเกตความเหนื่อย ตอนมันชัดขึ้นในตอนเย็น / แต่ตอนนี้พรเริ่มเห็นว่า ระหว่างวันมีบางอย่างเกิดขึ้นก่อน / การเลือกเรื่องเล็ก ๆ ใช้เวลานานกว่าที่พรคุ้นเคย / สองอย่างนี้เกี่ยวกันอย่างไร / พรยังไม่รู้ — no answer, no experiment design.
-- CORE KEPT (user's "polish with our core", 1×, unlabeled — not flagged by critic): "มองมันเป็นข้อมูล ไม่ใช่คำสั่ง" (SSOT Law #1 :41).
-- สามข้อสรุปที่ยังห้ามพูด (critic "สิ่งที่ยังสรุปไม่ได้"): ตัดสินใจสะสม→เหนื่อย / เป็น DF แน่นอน / ลด decision แล้วหาย — Hypothesis ทั้งหมด, ไม่อยู่ใน body เป็นข้อสรุป; "ไม่ต้องออกแบบระบบนับ Decision".
-CUT zero-count (v2 body + hashtags): ไม่ได้ทำอะไรหนัก / แบบนั้นแหละ / ทุกอย่างมาถึงตัวพรหมด / ตัดสินใจแทนพร / เลือกเองทั้งวัน / ของจิ๋ว / นานเกินกว่าของขนาดมัน / วันถัดไป / ตัวเลือกแรกของวัน / เหนื่อยแบบไม่รู้เหนื่อยอะไร / PFC / Dopamine / Kahneman / แบตเตอรี่ / Load / Noise / วินัย / คุณ / คับ / ผม / Law / XX-0N / protocol / นับ Decision  (Decision Fatigue allowed EXACTLY 1× — the word พรเจอ)
-Question-shift audit: ONE shift (feeling → what happened before it), paid by the midday noticing; closer = the link question + ยังไม่รู้ (nothing minted after it).
+Type: CURRENT FORM (system/mindset, post-#17 synthesis) — v3 (Benz-DNA critique r2 FREEZE-list rewrite round, pair #44)
+Version chain: v1 fresh → v2 r1 rewrite → v3 r2 freeze rewrite (this file). Archives: web-archive/20261010-decision-fatigue-my-day-{v1,v2}.md + benz-dna-critique-{r1,r2-freeze}.md (quote-verify 8/8 + 9/9 HIT after dot-normalization, 0 drift).
+Pre-rewrite question (r2, rule 36) ANSWERED IN critique (user appended): "พรกำลังลังเลว่าจะเลือกทำอันไหนจริง ๆ" → event-grade evidence confirmed → scene upgraded to first-person mid-struggle.
+v3 implements the FREEZE LIST (critic lines verbatim):
+(1) DUPLICATE-TAIL CUT: section "# สองอย่างนี้เกี่ยวกันอย่างไร" (observation round 3) CUT WHOLE — post now ends inside the DF section at the ONE closer (critic: "เลือกจุดจบเพียงจุดเดียว").
+(2) H1 FIX: "ระหว่างวัน ก่อนความเหนื่อยจะมา" → "ระหว่างวัน ก่อนจะรู้สึกเหนื่อยชัด" (claim เหนื่อยยังไม่เกิด → รับรู้ยังไม่ชัด).
+(3) PHILOSOPHY STATEMENT CUT (r2's directive — supersedes earlier keep): "สิ่งที่พรทำได้ตอนนี้ คือมองมันเป็นข้อมูล / ไม่ใช่คำสั่ง" 0× ("บทนี้ไม่จำเป็นต้องมี Philosophy Statement — Observation ของพรเพียงพอแล้ว"). NOTE: this was the SSOT-core line from the original brief; the user should know it's out per critic (his call to restore at publish = owner's call, record either way).
+(4) TWO-WAY SPLIT COMPRESSED: "แต่พรยังไม่รู้ว่า มันเป็นสิ่งที่ทำให้เหนื่อย หรือ...เพราะพรเหนื่อยอยู่แล้ว / ทั้งสองทางยังแยกไม่ออก" CUT ( DF section duty = คำที่เจอ → คำอธิบายที่เป็นไปได้ → ยังยืนยันไม่ได้; จบที่คำถามท้ายบทจุดเดียว).
+(5) EVENT SCENE UPGRADED (critic verbatim, answer-backed): "พรเปิดงานค้างไว้สองสามหน้าจอ แล้วนั่งลังเลว่าจะเลือกทำอันไหนก่อน / ทั้งที่ปกติ พรไม่ได้ใช้เวลากับการเลือกแบบนี้นานขนาดนั้น" (replaces บางหน้าจอเปิดค้าง/บางงานยังไม่ได้เริ่ม/เพราะพรยังเลือกไม่ได้ — first-person mid-struggle, not retrospective).
+NEW ENDING (critic verbatim): พรเจอคำว่า Decision Fatigue ระหว่างพยายามทำความเข้าใจสิ่งที่เกิดขึ้น / มันเป็นคำอธิบายหนึ่งที่พรนึกถึง / แต่พรยังไม่รู้ว่า การลังเลระหว่างวัน กับความเหนื่อยที่ชัดขึ้นตอนเย็น / เกี่ยวกันอย่างไร
+KEEP (unchanged): title / subtitle / opening (งานก็งานเดิม...ความเหนื่อยชัดขึ้นเอง + ช่วงแรกพรคิด...) / "แต่เริ่มเห็นตัวเองลังเล กับเรื่องที่ปกติเลือกได้ง่ายกว่า" / "จนถึงตอนเย็น ความเหนื่อยถึงเริ่มชัดขึ้น" / "แต่วันของพรเล่าได้ละเอียดกว่าคำเดียว" + "วันที่พรจำได้ว่าเหนื่อยแบบนี้ มีการเลือกเล็ก ๆ หลายครั้งอยู่ในนั้น" / hashtags.
+WARNINGS (freeze-exact): ห้ามเลื่อนจาก evidence-of-ลังเล → claim evidence-of-สาเหตุความเหนื่อย; ไม่นับ decision / ไม่สร้างระบบติดตาม; คำ "เพราะ" ใช้ได้เมื่อรู้จากประสบการณ์ตรง (critic §3) — ไม่ต้องกลัวเหตุ-ผลทุกประโยค.
+CUT zero-count (v3 body + hashtags): ก่อนความเหนื่อยจะมา / บางหน้าจอเปิดค้าง / บางงานยังไม่ได้เริ่ม / เพราะพรยังเลือกไม่ได้ว่าจะไปทางไหน / เป็นข้อมูล / ไม่ใช่คำสั่ง / ทั้งสองทางยังแยกไม่ออก / เริ่มยากขึ้น เพราะพรเหนื่อยอยู่แล้ว / สองอย่างนี้เกี่ยวกันอย่างไร  (as a STANDALONE section heading; kept as the ending's closing line per critic's new closer) / พรเคยสังเกตความเหนื่อย / ระหว่างวันมีบางอย่างเกิดขึ้นก่อน / PFC / Dopamine / Kahneman / แบตเตอรี่ / Load / Noise / วินัย / คุณ / คับ / ผม / Law / XX-0N / protocol / นับ Decision / ระบบติดตาม  (Decision Fatigue allowed EXACTLY 1×)
+Question-shift audit: ONE shift (same as v2); closer = link question inside DF section, nothing after it.
 Register: พร full / เรา 0 / คุณ 0 / คับ 0
 Hashtags: #Adduckivity #DuckOS #NeuroDivergent #DecisionFatigue
 -->
@@ -45,7 +42,7 @@ Hashtags: #Adduckivity #DuckOS #NeuroDivergent #DecisionFatigue
 
 .
 
-# ระหว่างวัน ก่อนความเหนื่อยจะมา
+# ระหว่างวัน ก่อนจะรู้สึกเหนื่อยชัด
 
 ระหว่างวัน พรยังไม่ได้รู้สึกเหนื่อยชัด ๆ
 
@@ -57,11 +54,13 @@ Hashtags: #Adduckivity #DuckOS #NeuroDivergent #DecisionFatigue
 
 .
 
-บางหน้าจอเปิดค้าง
+พรเปิดงานค้างไว้สองสามหน้าจอ
 
-บางงานยังไม่ได้เริ่ม
+แล้วนั่งลังเลว่าจะเลือกทำอันไหนก่อน
 
-เพราะพรยังเลือกไม่ได้ว่าจะไปทางไหน
+.
+
+ทั้งที่ปกติ พรไม่ได้ใช้เวลากับการเลือกแบบนี้นานขนาดนั้น
 
 .
 
@@ -73,69 +72,25 @@ Hashtags: #Adduckivity #DuckOS #NeuroDivergent #DecisionFatigue
 
 # คำที่พรเจอ
 
-ระหว่างพยายามทำความเข้าใจ
-
-พรเจอคำว่า Decision Fatigue
-
-.
-
-คำนี้อธิบายได้ว่า
-
-การเลือกหลาย ๆ ครั้ง อาจมีส่วนกับความล้า
-
-.
-
-แต่วันของพรเล่าได้ละเอียดกว่าคำเดียว
-
-.
-
 วันที่พรจำได้ว่าเหนื่อยแบบนี้
 
 มีการเลือกเล็ก ๆ หลายครั้งอยู่ในนั้น
 
 .
 
-แต่พรยังไม่รู้ว่า
-
-มันเป็นสิ่งที่ทำให้เหนื่อย
-
-หรือเป็นสิ่งที่เริ่มยากขึ้น เพราะพรเหนื่อยอยู่แล้ว
+พรเจอคำว่า Decision Fatigue ระหว่างพยายามทำความเข้าใจสิ่งที่เกิดขึ้น
 
 .
 
-ทั้งสองทางยังแยกไม่ออก
+มันเป็นคำอธิบายหนึ่งที่พรนึกถึง
 
 .
 
-สิ่งที่พรทำได้ตอนนี้ คือมองมันเป็นข้อมูล
-
-ไม่ใช่คำสั่ง
+แต่พรยังไม่รู้ว่า การลังเลระหว่างวัน กับความเหนื่อยที่ชัดขึ้นตอนเย็น
 
 .
 
-.
-
-# สองอย่างนี้เกี่ยวกันอย่างไร
-
-พรเคยสังเกตความเหนื่อย ตอนมันชัดขึ้นในตอนเย็น
-
-.
-
-แต่ตอนนี้พรเริ่มเห็นว่า
-
-ระหว่างวันมีบางอย่างเกิดขึ้นก่อน
-
-.
-
-การเลือกเรื่องเล็ก ๆ ใช้เวลานานกว่าที่พรคุ้นเคย
-
-.
-
-สองอย่างนี้เกี่ยวกันอย่างไร
-
-.
-
-พรยังไม่รู้
+เกี่ยวกันอย่างไร
 
 .
 

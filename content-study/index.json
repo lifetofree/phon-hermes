@@ -3307,7 +3307,7 @@
  },
  {
   "date": "2026-10-10",
-  "title": "Pair #44 v2 (Benz r1 rewrite): ตอนเย็นถึงรู้สึกเหนื่อย — แต่ระหว่างวันพรเริ่มเลือกเรื่องเล็ก ๆ ยากขึ้นแล้ว (spine = ก่อนเหนื่อยตอนเย็น เห็นอะไรระหว่างวัน; causal cut แบบนั้นแหละ/ทุกอย่างมาถึงตัวพรหมด; DF ลดเหลือคำที่พรเจอ 1×; tracking plan cut; ending 4-beat verbatim; 88 wc-w 0.96×, CUT 23 = 0, พร 12/คุณ 0; pre-rewrite Q ตอบใน critique = เพิ่งเหนื่อยชัดตอนเย็น; v1 archived, critique r1 archived; Notion 58 blocks 19/19)",
+  "title": "Pair #44 v3 (Benz r2 FREEZE rewrite): ตอนเย็นถึงรู้สึกเหนื่อย — แต่ระหว่างวันพรเริ่มเลือกเรื่องเล็ก ๆ ยากขึ้นแล้ว (freeze list: duplicate-observation tail section CUT, H1 fix ก่อนจะรู้สึกเหนื่อยชัด, PHILOSOPHY STATEMENT cut (ข้อมูล-ไม่ใช่คำสั่ง 0× — supersede earlier keep, owner-call note), two-way split compressed, event scene upgraded first-person (นั่งลังเลจริง per answer); ending = critic verbatim 4 beats; 62 wc-w 0.70×, CUT 24 = 0, พร 8/คุณ 0; v2 snapshot + critique r2 archived; Notion 37 blocks 17/17)",
   "file": "posts/20261010-cnt-decision-fatigue-my-day.md",
   "slug": "20261010-cnt-decision-fatigue-my-day",
   "link": "https://app.notion.com/p/3f5df8d88d8c817d858dda04cf06780c"
@@ -3324,6 +3324,20 @@
   "title": "Pair #44 Benz-DNA critique r1 archive (verbatim, quote-verify 8/8; pre-rewrite Q answered in-text; Direction adopted)",
   "file": "web-archive/20261010-decision-fatigue-benz-dna-critique-r1.md",
   "slug": "20261010-decision-fatigue-benz-critique-r1",
+  "link": "https://app.notion.com/p/3f5df8d88d8c817d858dda04cf06780c"
+ },
+ {
+  "date": "2026-10-10",
+  "title": "Pair #44 v2 snapshot (r1 rewrite, superseded by v3 same day)",
+  "file": "web-archive/20261010-decision-fatigue-my-day-v2.md",
+  "slug": "20261010-decision-fatigue-my-day-v2",
+  "link": "https://app.notion.com/p/3f5df8d88d8c817d858dda04cf06780c"
+ },
+ {
+  "date": "2026-10-10",
+  "title": "Pair #44 Benz-DNA critique r2 FREEZE archive (verbatim, quote-verify 9/9 dot-normalized; freeze list + pre-rewrite Q answered in-text)",
+  "file": "web-archive/20261010-decision-fatigue-benz-dna-critique-r2-freeze.md",
+  "slug": "20261010-decision-fatigue-benz-critique-r2",
   "link": "https://app.notion.com/p/3f5df8d88d8c817d858dda04cf06780c"
  }
 ]
