@@ -1,6 +1,6 @@
 <!--
 ContentID: 20261010-CNT-DISCIPLINE-TRAP (placeholder)
-Title: คนที่ทุ่มเทสุด ๆ ที่พรเห็น — ผลลัพธ์ไม่ได้ดีขึ้น
+Title: วินัยที่มองเห็นได้ — อาจไม่ใช่วินัยที่ลงมือจริง
 Slug: discipline-trap-quiet-effort
 Type: CURRENT FORM (system/mindset, post-#17 synthesis) — rewrite v2 (same brief, agent rewrite round)
 Brief (user, 2026-10-10): "rewrite draft จาก brief วินัย → กับดัก → สังเกตคน all in → จบที่คำถาม"
@@ -12,6 +12,7 @@ v1 → v2 (rewrite round, 2026-10-10):
 - (3) INVENTED SCENE CUT: v1's "มีอยู่คืนหนึ่ง พรหยุดอยู่ตรงนั้นนานกว่าปกติ" = a fabricated moment with no attested source (pair #38 lesson); v2 keeps only self-attesting moves (พรเคยใช้คำนี้ / พรกลับมานึกถึงคนกลุ่มนั้น — the post itself is that remembering).
 - (4) QUESTION BUDGET: v1 asked 4 distinct questions (ถามตัวเอง / ลงมือ-แสดง / วัดจากภาพ / เหลืออะไร) — violates (32); v2 = ONE move (turn the measurement question inward) paid by the observed scene; the display/input line stays as the trap definition, not a second closer.
 - (5) pair label fix: index entry wrongly said "Pair #37 v1" (37 = AutoClaw tech pair, CLOSED 10-06); correct next pair = #43.
+- (6) TITLE SET (user pick, 2026-10-10): "วินัยที่มองเห็นได้ — อาจไม่ใช่วินัยที่ลงมือจริง" — the thesis line itself (CURRENT FORM atom: H1 = condition/observable criterion); v1 title "คนที่ทุ่มเทสุด ๆ ที่พรเห็น — ผลลัพธ์ไม่ได้ดีขึ้น" retired (0× in body, CUT-guard for future rounds).
 Draft-time gates (re-run on v2):
 (a) re-skin vs 10-04 hustle — PASS (different asset: display-vs-input, not word-closes-question; scene = observed others, not own schedule)
 (b) thesis stack — ONE thesis: คำว่าวินัยถูกใช้กับสิ่งที่มองเห็นได้ แต่สิ่งที่มองเห็นได้อาจไม่ใช่ตัวที่ลงมือจริง — the trap = measuring by display. Parked (not in body): "วินัยจริงคืออะไร" answer / Load-Noise diagnosis (09-27 owns) / routine-Default (09-23 thread owns) / burnout-rest prescription / สังเกตผู้คน-as-method (pair #42 park, needs own evidence).
@@ -29,7 +30,7 @@ CUT zero-count: Load / Noise / Capture / Default / Compile / Margin / burnout / 
 Hashtags: #Adduckivity #DuckOS #NeuroDivergent #Discipline
 -->
 
-# คนที่ทุ่มเทสุด ๆ ที่พรเห็น — ผลลัพธ์ไม่ได้ดีขึ้น
+# วินัยที่มองเห็นได้ — อาจไม่ใช่วินัยที่ลงมือจริง
 
 ### คำว่าวินัย ฟังเหมือนคำตอบ — แต่ไม่เคยมีใครถามว่า มันวัดจากอะไร
 
