@@ -1,146 +1,113 @@
 <!--
 ContentID: 20261010-CNT-DF-MY-DAY (placeholder)
-Title: ไม่ได้ทำอะไรหนัก แต่เหนื่อยเหมือนใช้แรงมาทั้งวัน — พรไล่ดูว่ามันเกิดกับพรยังไง
+Title: ตอนเย็นถึงรู้สึกเหนื่อย — แต่ระหว่างวันพรเริ่มเลือกเรื่องเล็ก ๆ ยากขึ้นแล้ว
 Slug: decision-fatigue-my-day
-Type: CURRENT FORM (system/mindset, post-#17 synthesis) — fresh brief, pair #44
-Brief (user, 2026-10-10): "create draft from this idea polish with our core — Decision Fatigue -> why did happen with me -> what I see when happen"
-Brief order = spine (rule 38): (1) Decision Fatigue (the word arrives, naming the feeling), (2) why did it happen WITH ME (turn inward — trace own days), (3) what I see when it happens (the catch — ends on the watching intent, no fix).
-"polish with our core" = SSOT anchors used UNLABELED (per rule 1c):
-- duck-os/Main_Data_for_UDO.md:41 — Law #1 System > Emotion ("ความรู้สึกคือข้อมูล ไม่ใช่คำสั่ง") → body line "มันคือข้อมูล ไม่ใช่คำสั่ง" (the core polish, one line, unlabeled)
-- duck-os/Main_Data_for_UDO.md:173 + :276-277 — Decision Fatigue core (ยิ่งเลือกเยอะ ยิ่งล้า / routine ทำแทนได้ให้ระบบทำแทน) → body = plain-language inverse observed in own days: "วันที่ไม่มีอะไรตัดสินใจแทนพรเลย ทุกอย่างมาถึงตัวพรหมด" — NO PFC/Dopamine/Kahneman vocabulary (neuro = private lens, not the published argument)
-EVIDENCE NOTE (EN #108): story = class-level pattern of พร's own days (hedged: บ่อย ๆ / ดูเหมือน / บางวัน) — NO invented micro-events with times/objects; the concrete specifics of the user's real days are his to own/replace before publish (flagged in reply).
-Draft-time gates:
-(a) re-skin vs legacy duck-os-decision-fatigue-protocol (WP) — that post OWNS theory + fix (Kahneman/PFC battery/ตัดตัวเลือก/DEC protocols, คุณ-คับ register). THIS = personal observation arc (why with ME → the catch), zero fix, zero theory-lecture, full-พร. Distinct asset. — PASS
-(b) re-skin vs binary-decision-logic-50-50 (WP, DEC-02 owns choice-paralysis algorithm) — untouched angle: 0× (DEC / 50/50 / Infinite Loop).
-(c) re-skin vs 09-27 load-or-noise (owns "ด่าตัวเอง → Load/Noise" self-diagnosis) — Load/Noise/ด่า = 0 in body; this post never self-diagnoses blame, it traces conditions.
-(d) re-skin vs pair #43 (just published — วินัย comparison with others) — วินัย = 0×, others = 0×; this is inward fatigue, not comparison.
-(e) thesis stack — ONE thesis: ความเหนื่อยแบบนี้ไม่ใช่จากงานหนัก แต่จากวันที่ทุกอย่างมาให้พรตัดสินใจเองหมด — and the catch is now visible mid-day. Parked (not in body): the FIX (routine/system ทำแทน — legacy owns solutions), neuroscience mechanism.
-(f) question budget — ONE shift (feeling → why-with-me), paid by the day-trace; beat 3 = observation list, no new question minted; ends evidence-collection (จับให้ทันตั้งแต่ตัวเลือกแรกของวัน).
-(g) receipts — no numbers, no dates, no named people; "ช่วงที่ผ่านมา"-class vagueness only.
-Register: พร full (own case) / เรา 0 / คุณ 0 / คับ 0
-CUT zero-count (body + hashtags): DEC-0N / protocol / PFC / Dopamine / Kahneman / แบตเตอรี่ / คุณ / คับ / ผม / Load / Noise / ด่า / วินัย / เปรียบเทียบ / วิธีแก้ / Law / XX-0N
+Type: CURRENT FORM (system/mindset, post-#17 synthesis) — v2 (Benz-DNA critique r1 rewrite round, pair #44)
+Version chain: v1 fresh (archived web-archive/20261010-decision-fatigue-my-day-v1.md) → v2 critique rewrite (this file). Critique r1 archived: web-archive/20261010-decision-fatigue-benz-dna-critique-r1.md (quote-verify 8/8 HIT, 0 drift).
+Pre-rewrite question (rule 36) ANSWERED IN the critique (user's own appended line): "เพิ่งมารู้สึกเหนื่อยชัด ๆ ตอนเย็น" → TIMELINE branch: ระหว่างวัน = ลังเลกับเรื่องเล็ก → ตอนเย็น = เหนื่อยชัด; sequence observed ≠ cause proven.
+NEW SPINE (critic Direction verbatim): จาก "ทำไมการตัดสินใจทั้งวันทำให้พรเหนื่อย" → "ก่อนจะรู้สึกเหนื่อยตอนเย็น พรสังเกตเห็นอะไรระหว่างวัน"
+v2 implements (critic lines verbatim where marked):
+- TITLE = critic candidate verbatim: "ตอนเย็นถึงรู้สึกเหนื่อย — แต่ระหว่างวันพรเริ่มเลือกเรื่องเล็ก ๆ ยากขึ้นแล้ว" (v1 title "ไม่ได้ทำอะไรหนัก..." retired 0×; "งานก็งานเดิม" kept in open — not flagged).
+- SUBTITLE = critic verbatim: "พรเริ่มเห็นความลังเลระหว่างวัน แต่ยังไม่รู้ว่ามันเป็นสาเหตุหรือผลของความเหนื่อย" (DF word kept OUT of title+subtitle per critic: reader needs no prior DF knowledge).
+- MID = critic's sanctioned block verbatim: ระหว่างวันยังไม่เหนื่อยชัด / เริ่มเห็นตัวเองลังเลกับเรื่องที่ปกติเลือกได้ง่ายกว่า / หน้าจอเปิดค้าง งานยังไม่เริ่ม / จนเย็นเหนื่อยถึงชัด / ยังไม่รู้ว่าลังเลระหว่างวันเกี่ยวกับความเหนื่อยตอนเย็นอย่างไร.
+- DF DEMOTED 1×: "คำที่พรเจอระหว่างพยายามทำความเข้าใจ" — not diagnosis, not spine (critic §4).
+- CAUSAL CUT: "แบบนั้นแหละ" / "ทุกอย่างมาถึงตัวพรหมด" / "ตัดสินใจแทนพร" / "วันที่ต้องเลือกเองทั้งวัน" 0×; replaced by critic §3 verbatim-adapted: "วันที่พรจำได้ว่าเหนื่อยแบบนี้ มีการเลือกเล็ก ๆ หลายครั้งอยู่ในนั้น / แต่พรยังไม่รู้ว่า มันเป็นสิ่งที่ทำให้เหนื่อย หรือเป็นสิ่งที่เริ่มยากขึ้นเพราะพรเหนื่อยอยู่แล้ว".
+- JUDGMENT FIXED: "นานเกินกว่าของขนาดมัน" → "นานกว่าที่พรคุ้นเคย" (critic verbatim; requires baseline). "ของจิ๋ว" → "เรื่องเล็ก ๆ / เรื่องที่ปกติเลือกได้ง่ายกว่า" 0×.
+- TRACKING PLAN CUT: "วันถัดไป…ตัวเลือกแรกของวัน" 0× (critic §5 — unknown ไม่ควรถูกบังคับเป็นระบบ; ตัวเลือกแรก = self-chosen anchor ไม่มี evidence).
+- ENDING = critic verbatim beats: พรเคยสังเกตความเหนื่อย ตอนมันชัดขึ้นในตอนเย็น / แต่ตอนนี้พรเริ่มเห็นว่า ระหว่างวันมีบางอย่างเกิดขึ้นก่อน / การเลือกเรื่องเล็ก ๆ ใช้เวลานานกว่าที่พรคุ้นเคย / สองอย่างนี้เกี่ยวกันอย่างไร / พรยังไม่รู้ — no answer, no experiment design.
+- CORE KEPT (user's "polish with our core", 1×, unlabeled — not flagged by critic): "มองมันเป็นข้อมูล ไม่ใช่คำสั่ง" (SSOT Law #1 :41).
+- สามข้อสรุปที่ยังห้ามพูด (critic "สิ่งที่ยังสรุปไม่ได้"): ตัดสินใจสะสม→เหนื่อย / เป็น DF แน่นอน / ลด decision แล้วหาย — Hypothesis ทั้งหมด, ไม่อยู่ใน body เป็นข้อสรุป; "ไม่ต้องออกแบบระบบนับ Decision".
+CUT zero-count (v2 body + hashtags): ไม่ได้ทำอะไรหนัก / แบบนั้นแหละ / ทุกอย่างมาถึงตัวพรหมด / ตัดสินใจแทนพร / เลือกเองทั้งวัน / ของจิ๋ว / นานเกินกว่าของขนาดมัน / วันถัดไป / ตัวเลือกแรกของวัน / เหนื่อยแบบไม่รู้เหนื่อยอะไร / PFC / Dopamine / Kahneman / แบตเตอรี่ / Load / Noise / วินัย / คุณ / คับ / ผม / Law / XX-0N / protocol / นับ Decision  (Decision Fatigue allowed EXACTLY 1× — the word พรเจอ)
+Question-shift audit: ONE shift (feeling → what happened before it), paid by the midday noticing; closer = the link question + ยังไม่รู้ (nothing minted after it).
+Register: พร full / เรา 0 / คุณ 0 / คับ 0
 Hashtags: #Adduckivity #DuckOS #NeuroDivergent #DecisionFatigue
-Candidate hooks (EN #39, for critique round):
-A (in use): ไม่ได้ทำอะไรหนัก แต่เหนื่อยเหมือนใช้แรงมาทั้งวัน — พรไล่ดูว่ามันเกิดกับพรยังไง
-B: วันที่เหนื่อยที่สุดของพร คือวันที่ต้องเลือกเองทั้งวัน
-C: Decision Fatigue อธิบายความเหนื่อยได้ — แต่วันของพรเล่าได้ละเอียดกว่า
 -->
 
-# ไม่ได้ทำอะไรหนัก แต่เหนื่อยเหมือนใช้แรงมาทั้งวัน — พรไล่ดูว่ามันเกิดกับพรยังไง
+# ตอนเย็นถึงรู้สึกเหนื่อย — แต่ระหว่างวันพรเริ่มเลือกเรื่องเล็ก ๆ ยากขึ้นแล้ว
 
-### คำว่า Decision Fatigue อธิบายความรู้สึกได้ — แต่ทำไมมันเกิดกับพร ต้องดูที่วันของพรเอง
+### พรเริ่มเห็นความลังเลระหว่างวัน แต่ยังไม่รู้ว่ามันเป็นสาเหตุหรือผลของความเหนื่อย
 
 .
-
-มีวันแบบนี้บ้าง
-
-ไม่ได้แบกอะไรหนัก
 
 งานก็งานเดิม
 
-แต่พอถึงเย็น
+แต่พอถึงตอนเย็น
 
-เหนื่อยเหมือนใช้แรงมาทั้งวัน
-
-.
-
-พอเป็นแบบนี้บ่อย ๆ
-
-พรเริ่มเจอคำที่คนใช้เรียกมัน
+ความเหนื่อยชัดขึ้นเอง
 
 .
 
-Decision Fatigue
+ช่วงแรกพรคิดว่าเหนื่อยก็เพราะทำงาน
 
-.
-
-ความล้าจากการตัดสินใจ
-
-.
-
-คำนี้อธิบายความรู้สึกได้ตรง
-
-แต่พรไม่อยากหยุดแค่คำอธิบาย
+จนพรเริ่มสังเกตเห็นอีกอย่างที่เกิดก่อน
 
 .
 
 .
 
-# ทำไมมันเกิดกับพร
+# ระหว่างวัน ก่อนความเหนื่อยจะมา
 
-พรลองไล่ดูวันที่มันเกิด
-
-.
-
-วันที่เหนื่อยแบบนี้
-
-ไม่ใช่วันที่งานหนักที่สุด
-
-แต่ดูเหมือนจะเป็นวันที่พรต้องเลือกเองทั้งวัน
+ระหว่างวัน พรยังไม่ได้รู้สึกเหนื่อยชัด ๆ
 
 .
 
-เริ่มจากอะไรก่อน
+แต่เริ่มเห็นตัวเองลังเล
 
-ทำต่อหรือเปลี่ยนไปก่อน
-
-อันนี้เอาตอนนี้หรือไว้ก่อน
+กับเรื่องที่ปกติเลือกได้ง่ายกว่า
 
 .
 
-อะไรเล็ก ๆ แบบนี้ ตัวเดียวไม่มีอะไร
+บางหน้าจอเปิดค้าง
 
-แต่มันไม่ได้มาตัวเดียว
+บางงานยังไม่ได้เริ่ม
 
-.
-
-วันที่ไม่มีอะไรตัดสินใจแทนพรเลย
-
-ทุกอย่างมาถึงตัวพรหมด
+เพราะพรยังเลือกไม่ได้ว่าจะไปทางไหน
 
 .
 
-แบบนั้นแหละ
-
-ที่เย็นมา พรเหนื่อยแบบไม่รู้เหนื่อยอะไร
+จนถึงตอนเย็น ความเหนื่อยถึงเริ่มชัดขึ้น
 
 .
 
 .
 
-# สิ่งที่เห็นตอนมันกำลังเกิด
+# คำที่พรเจอ
 
-ตอนนี้พรเริ่มจับได้ตอนมันกำลังเกิด
+ระหว่างพยายามทำความเข้าใจ
 
-.
-
-สิ่งที่เห็นไม่ใช่ความเหนื่อย
+พรเจอคำว่า Decision Fatigue
 
 .
 
-แต่เห็นตัวเองลังเลกับของจิ๋ว
+คำนี้อธิบายได้ว่า
 
-นานเกินกว่าของขนาดมัน
-
-.
-
-เห็นหน้าจอที่เปิดค้างสองสามอัน
-
-โดยที่ยังไม่ได้ตัดสินใจกับอันไหนเลย
+การเลือกหลาย ๆ ครั้ง อาจมีส่วนกับความล้า
 
 .
 
-เห็นงานที่ปกติเริ่มได้เลย
-
-วันนั้นกลับต้องนั่งคิดก่อนว่าจะเริ่มตรงไหน
+แต่วันของพรเล่าได้ละเอียดกว่าคำเดียว
 
 .
 
+วันที่พรจำได้ว่าเหนื่อยแบบนี้
+
+มีการเลือกเล็ก ๆ หลายครั้งอยู่ในนั้น
+
 .
 
-ความเหนื่อยแบบนี้
+แต่พรยังไม่รู้ว่า
 
-พรเริ่มมองมันเป็นข้อมูล
+มันเป็นสิ่งที่ทำให้เหนื่อย
+
+หรือเป็นสิ่งที่เริ่มยากขึ้น เพราะพรเหนื่อยอยู่แล้ว
+
+.
+
+ทั้งสองทางยังแยกไม่ออก
+
+.
+
+สิ่งที่พรทำได้ตอนนี้ คือมองมันเป็นข้อมูล
 
 ไม่ใช่คำสั่ง
 
@@ -148,17 +115,27 @@ Decision Fatigue
 
 .
 
-พรยังไม่ได้แก้อะไร
+# สองอย่างนี้เกี่ยวกันอย่างไร
 
-แค่พอเห็นมันตอนมันกำลังเกิด
+พรเคยสังเกตความเหนื่อย ตอนมันชัดขึ้นในตอนเย็น
 
 .
 
-วันถัดไป ถ้ามันเกิดอีก
+แต่ตอนนี้พรเริ่มเห็นว่า
 
-พรอยากจับให้ทัน
+ระหว่างวันมีบางอย่างเกิดขึ้นก่อน
 
-ตั้งแต่ตัวเลือกแรกของวัน
+.
+
+การเลือกเรื่องเล็ก ๆ ใช้เวลานานกว่าที่พรคุ้นเคย
+
+.
+
+สองอย่างนี้เกี่ยวกันอย่างไร
+
+.
+
+พรยังไม่รู้
 
 .
 

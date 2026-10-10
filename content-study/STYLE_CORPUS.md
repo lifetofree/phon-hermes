@@ -1401,3 +1401,10 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - Battery: 89 wc-w (0.90× v3), H1 3/H3 1, beats 22, quotes 4 lines, พร 14/เรา 0/คุณ 0/คับ 0, CUT 24 ศัพท์ = 0, scans CLEAN.
 - Asset ของบท (r3 verbatim): Inspection Question "ก่อนเอาตัวเองไปเทียบกับใคร — เรารู้อะไรเกี่ยวกับสิ่งที่เขาทำจริง ๆ บ้าง?" + ขอบเขต 3 ข้อ (ไม่ได้แปลว่าอีกฝ่ายไม่ขยัน / ผลงานเขาไม่จริง / พิสูจน์ว่าพรมีวินัยมากหรือน้อยกว่า) — ไม่ขยายเป็นปรัชญาวินัย.
 - Skill: items (46) nouns-carry-evidence-status + (47) end-on-question-not-self-report.
+
+### 2026-10-10 — pair #44 r1 REWRITE (Benz r1 → v2, decision-fatigue my-day)
+
+- Critique archived verbatim (`web-archive/20261010-decision-fatigue-benz-dna-critique-r1.md`, quote-verify 8/8 HIT, 0 drift); pre-rewrite question (rule 36) answered IN the critique (user's own appended line "เพิ่งมารู้สึกเหนื่อยชัด ๆ ตอนเย็น") → timeline branch; spine re-aimed verbatim: "ทำไมการตัดสินใจทั้งวันทำให้พรเหนื่อย" → "ก่อนจะรู้สึกเหนื่อยตอนเย็น พรสังเกตเห็นอะไรระหว่างวัน".
+- v2 cuts (CUT zero-count verified file + Notion): causal conclusion ("แบบนั้นแหละ" = question-closer verb; "ทุกอย่างมาถึงตัวพรหมด" / "ตัดสินใจแทนพร" / "เลือกเองทั้งวัน") → critic §3 two-hypothesis block verbatim (ทำให้เหนื่อย vs ยากขึ้นเพราะเหนื่อยอยู่แล้ว — direction unknown); hidden judgment ("นานเกินกว่าของขนาดมัน" → "นานกว่าที่พรคุ้นเคย" baseline grammar); "ของจิ๋ว" → "เรื่องที่ปกติเลือกได้ง่ายกว่า"; tracking plan ("วันถัดไป…ตัวเลือกแรกของวัน") — unknown ไม่ถูกบังคับเป็นระบบ.
+- DF demoted to 1× = "คำที่พรเจอระหว่างพยายามทำความเข้าใจ" (not diagnosis/spine); title+subtitle carry NO DF word (critic: reader needs no prior knowledge); title/subtitle/ending = critic verbatim; SSOT core "มองมันเป็นข้อมูล ไม่ใช่คำสั่ง" KEPT 1× (not flagged).
+- Battery v2: 88 wc-w (0.96× v1), H1 4/H3 1, beats 22, พร 12/เรา 0/คุณ 0/คับ 0, CUT 23 = 0, scans CLEAN; Notion PATCH 200×2 → 58 blocks, markers 19/19, CUT 0/8, Status rewritten, v1 archived + critique archived + index (n=413).
