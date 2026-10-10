@@ -3307,7 +3307,7 @@
  },
  {
   "date": "2026-10-10",
-  "title": "Pair #44 v3 (Benz r2 FREEZE rewrite): ตอนเย็นถึงรู้สึกเหนื่อย — แต่ระหว่างวันพรเริ่มเลือกเรื่องเล็ก ๆ ยากขึ้นแล้ว (freeze list: duplicate-observation tail section CUT, H1 fix ก่อนจะรู้สึกเหนื่อยชัด, PHILOSOPHY STATEMENT cut (ข้อมูล-ไม่ใช่คำสั่ง 0× — supersede earlier keep, owner-call note), two-way split compressed, event scene upgraded first-person (นั่งลังเลจริง per answer); ending = critic verbatim 4 beats; 62 wc-w 0.70×, CUT 24 = 0, พร 8/คุณ 0; v2 snapshot + critique r2 archived; Notion 37 blocks 17/17)",
+  "title": "Pair #44 CLOSED — publish (1.00× v3 parity, freeze list 10/10 zero-drift): ตอนเย็นถึงรู้สึกเหนื่อย — แต่ระหว่างวันพรเริ่มเลือกเรื่องเล็ก ๆ ยากขึ้นแล้ว (Notion Status published; owner did not restore philosophy line; asset image 20261010-CNT-DECISION-FATIGUE-EARLY-WARNING.webp; full chain v1→v2→v3→publish archived)",
   "file": "posts/20261010-cnt-decision-fatigue-my-day.md",
   "slug": "20261010-cnt-decision-fatigue-my-day",
   "link": "https://app.notion.com/p/3f5df8d88d8c817d858dda04cf06780c"
@@ -3338,6 +3338,13 @@
   "title": "Pair #44 Benz-DNA critique r2 FREEZE archive (verbatim, quote-verify 9/9 dot-normalized; freeze list + pre-rewrite Q answered in-text)",
   "file": "web-archive/20261010-decision-fatigue-benz-dna-critique-r2-freeze.md",
   "slug": "20261010-decision-fatigue-benz-critique-r2",
+  "link": "https://app.notion.com/p/3f5df8d88d8c817d858dda04cf06780c"
+ },
+ {
+  "date": "2026-10-10",
+  "title": "Pair #44 publish archive (verbatim, = v3 parity 1.00×, freeze 10/10, Status published)",
+  "file": "web-archive/20261010-decision-fatigue-my-day-publish.md",
+  "slug": "20261010-decision-fatigue-my-day-publish",
   "link": "https://app.notion.com/p/3f5df8d88d8c817d858dda04cf06780c"
  }
 ]
