@@ -1391,3 +1391,13 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - Critic verbatim adopted: title + subtitle (r1 §6) / blockquote "สิ่งที่มองเห็นอาจเป็นเรื่องจริง แต่ยังไม่ใช่ข้อมูลทั้งหมด" / closer question "พรรู้อะไรเกี่ยวกับวิธีที่เขาทำงานจริง ๆ บ้าง ก่อนจะเอาตัวเองไปเปรียบเทียบ" / unseen list family (เงื่อนไข เหตุผล การตัดสินใจ ผลลัพธ์ที่เกี่ยวข้อง — ผลลัพธ์ 1× unseen-only).
 - Battery v3: 99 wc-w (0.76× v2), H1 3/H3 1, beats 26, quotes 2 (4 quote lines), พร 11/เรา 0/คุณ 0/คับ 0, CUT 26 terms = 0, codepoint+adjacency CLEAN; question-shift = ONE (comparison question), paid by the boundary noticing.
 - Notion `3f5df8d8-8d8c-8159-8e6b-fd7f877590aa`: PATCH 200×2 → 76 blocks, markers 11/11, CUT survivors 0/11, Name = new title, Status rewritten. Version snapshots: v1 + v2 in web-archive/. Skill: items (40) boundary-thesis self-violation, (41) false-contrast audit, (42) word- vs self-inspection fork.
+
+### 2026-10-10 — pair #43 CLOSED (publish version, 0.90× v3 — freeze list 14/14 + KEEP 6/6 zero-drift)
+
+- Publish archived verbatim: `web-archive/20261010-discipline-trap-quiet-effort-publish.md`; Notion PATCH 200×2 → 66 blocks, markers 16/16, CUT 0/10, Status → **published** (first social-standalone publish with Status published in the Drafts DB).
+- Freeze list (r3) implemented 14/14 in file AND Notion read-back: (1) ตื่นก่อนใคร/ดึกกว่าใคร 0 → reported-speech triple "บางคนโพสต์ว่าตื่นเช้า / บางคนเล่าว่าทำงานจนดึก / มีงานใหม่ออกมาให้เห็นต่อเนื่อง" verbatim; (2) รู้-triple → เห็น-triple + "อย่างน้อย ส่วนนี้พรเห็นจริง" ("สิ่งเหล่านี้เป็นเรื่องจริง" 0); (3) insight-trio → ONE peak pair verbatim ("พรเห็นงานที่เขาเผยแพร่ แต่ไม่เห็นเงื่อนไขทั้งหมดที่ทำให้งานนั้นเกิดขึ้น" + "แล้วพรเอาข้อมูลเพียงเท่านี้ มาตัดสินว่าตัวเองมีวินัยน้อยกว่าเขาได้ยังไง").
+- Publish moves (beyond freeze list): (a) noun-swap ของกลุ่ม — "เป็นคนหลายคน ที่หน้าตาเหมือนกัน" → "เป็นภาพการทำงานคล้าย ๆ กันที่พรเห็นจากหลายคน" (การตัดสินย้ายจากตัวคนไปที่ภาพ — boundary discipline ทำงานในประโยค scene เอง); (b) ตัดบรรทัดจบ v3 "แต่คำถามที่พรใช้ตัดสินตัวเอง / เปลี่ยนไปแล้ว" → จบที่ unknown ("พรยังตอบคำถามใหม่นี้ไม่ได้") — self-report of change = verdict กับตัวเอง (อาการเดียวกับที่บทแก้).
+- Owner's call บันทึกเป็น NOTE: subtitle ถูก critic แนะตัด ("เฉลยเกือบทั้งหมด") — publish KEEP ทั้งก้อน.
+- Battery: 89 wc-w (0.90× v3), H1 3/H3 1, beats 22, quotes 4 lines, พร 14/เรา 0/คุณ 0/คับ 0, CUT 24 ศัพท์ = 0, scans CLEAN.
+- Asset ของบท (r3 verbatim): Inspection Question "ก่อนเอาตัวเองไปเทียบกับใคร — เรารู้อะไรเกี่ยวกับสิ่งที่เขาทำจริง ๆ บ้าง?" + ขอบเขต 3 ข้อ (ไม่ได้แปลว่าอีกฝ่ายไม่ขยัน / ผลงานเขาไม่จริง / พิสูจน์ว่าพรมีวินัยมากหรือน้อยกว่า) — ไม่ขยายเป็นปรัชญาวินัย.
+- Skill: items (46) nouns-carry-evidence-status + (47) end-on-question-not-self-report.
