@@ -51,6 +51,34 @@ All quotes below are verbatim from the corpus (same orthography as source files)
 | 2026-09-26 | save-state-preserve-not-finish | web-archive/save-state-preserve-not-finish.md | 496 | A |
 | 2026-09-26 | capacity-uncommitted-margin | web-archive/capacity-uncommitted-margin.md | 639 | A |
 | 2026-09-27 | load-or-noise-not-discipline | web-archive/load-or-noise-not-discipline.md | 719 | A |
+| 2026-09-27 | interrupt-not-override | web-archive/interrupt-not-override.md | 534 | A |
+| 2026-09-27 | trigger-without-notification | web-archive/trigger-without-notification.md | 353 | A |
+| 2026-09-28 | system-without-dependency-on-readiness | web-archive/system-without-dependency-on-readiness.md | 543 | A |
+| 2026-09-28 | tool-change-behavior-persists | web-archive/tool-change-behavior-persists.md | 470 | A |
+| 2026-09-29 | loop-without-exit-condition | web-archive/loop-without-exit-condition.md | 526 | A |
+| 2026-09-29 | priority-versus-capacity-commitment | web-archive/priority-versus-capacity-commitment.md | 530 | A |
+| 2026-09-30 | possible-not-equal-reality-log | web-archive/possible-not-equal-reality-log.md | 211 | A |
+| 2026-09-30 | choice-overload-constraints-filter | web-archive/choice-overload-constraints-filter.md | 362 | A |
+| 2026-09-30 | indicator-boundary-not-tell-all | web-archive/indicator-boundary-not-tell-all.md | 298 | A |
+| 2026-10-01 | batch-work-over-context-switching | web-archive/batch-work-over-context-switching.md | 165 | A |
+| 2026-10-01 | observation-over-premature-rules | web-archive/observation-over-premature-rules.md | 265 | A |
+| 2026-10-02 | repeat-decision-not-equal-evidence | web-archive/repeat-decision-not-equal-evidence.md | 312 | A |
+| 2026-10-02 | feedback-types-indicator-boundary | web-archive/feedback-types-indicator-boundary.md | 268 | A |
+| 2026-10-03 | automation-time-saved-landing-state | web-archive/automation-time-saved-landing-state.md | 229 | A |
+| 2026-10-03 | ai-fomo-tool-versus-work-reality | web-archive/ai-fomo-tool-versus-work-reality.md | 132 | A |
+| 2026-10-04 | possible-not-equal-capacity | web-archive/possible-not-equal-capacity.md | 171 | A |
+| 2026-10-04 | convenience-trap-hidden-friction-value | web-archive/convenience-trap-hidden-friction-value.md | 196 | A |
+| 2026-10-05 | metric-to-decision-mapping-gap | web-archive/metric-to-decision-mapping-gap.md | 287 | A |
+| 2026-10-06 | label-bypass-system-question | web-archive/label-bypass-system-question.md | 208 | A |
+| 2026-10-07 | agent-runtime-vs-manual-chatbot | web-archive/agent-runtime-vs-manual-chatbot.md | 628 | A |
+| 2026-10-07 | breath-count-data-versus-unknown | web-archive/breath-count-data-versus-unknown.md | 181 | A |
+| 2026-10-08 | decision-works-vs-post-optimization | web-archive/decision-works-vs-post-optimization.md | 243 | A |
+| 2026-10-08 | hardware-constraints-over-ideal-run | web-archive/hardware-constraints-over-ideal-run.md | 219 | A |
+| 2026-10-09 | archived-versus-reused-asset | web-archive/archived-versus-reused-asset.md | 163 | A |
+| 2026-10-09 | visual-salience-vs-longterm-resonance | web-archive/visual-salience-vs-longterm-resonance.md | 151 | A |
+| 2026-10-10 | input-without-acceptance-criteria | web-archive/input-without-acceptance-criteria.md | 82 | A |
+| 2026-10-10 | partial-data-discipline-trap | web-archive/partial-data-discipline-trap.md | 99 | A |
+| 2026-10-11 | decision-fatigue-early-warning | web-archive/decision-fatigue-early-warning.md | 78 | A |
 
 Type key: A = System/Mindset, B = Tool Review, C = other. (Word count = `wc -w` on the archived file, including front-matter lines.)
 
@@ -133,6 +161,7 @@ Top terms: RAM 83, Server 52, GPU 50, API 48, CLI 44, VRAM 28, Token 27, Protoco
 7. **New recurring devices in 2026-09:** "Misdiagnosis" as named first move (9router), "single point of failure" → "พวงกุญแจทั้งพวง" extended metaphors (9router, superclick), "ระบบ > X" one-liners ("ระบบ > ค่า token", "ระบบ > rent", "ระบบ > ความพยายาม") as closing formulas, emoji status chips (🔴/🟢/✔️/📝/🐞/📁 in weekly-calibration; ✓/☰/◉ tab icons in task-logger).
 8. **Protocol era ended on public WP (2026-09-20 → 09-22); "โพสต์ก่อน" series chain.** The 4 protocol posts of 09-20..09-21 (dispatch-01 / string-tax / llamacpp / stream-01) are the LAST XX-01 generation on public WP (DISPATCH-01, CALIB-01, STREAM-01 + Success Criteria + "มุมของ Duck OS" + 3 Laws + คับ). From 09-22 (exhaust-over-engine) every public WP post is v2 line-per-sentence: NO protocol name (3 posts explicitly say "ยังไม่อยากสร้าง Protocol"), NO 3-Laws block, คับ ≈ 0 (only inspectable-artifact has 6), standing kit = 1-question test + "Tiny Experiment" + "Medium ไม่ใช่ประเด็น" + ↓-flow closer + English aphorism. 8 of the 16 new posts are published versions of user rewrites already analyzed (pairs #12–#19) — corpus analysis now runs AHEAD of publication. New structural convention: 7/16 posts bridge via "โพสต์ก่อน..." and extend the previous post thesis one level — the Recompile philosophy applied to the content itself.
 
+9. **Closing split into two tracks + unknown-ending standard (09-27..10-11 batch).** 28-post batch (avg 280 wc-w, range 78–628 — shortest in corpus; 09 batch avg ~500-720): 14 keep "สรุปแบบวิศวกรเป็ด" + ↓-flow; 13 use the NEW "ก่อนนอน" section label (plain "ก่อนนอน" 7 / "#ก่อนนอน" 6) ending on ONE night question — no summary label at all. The unknown-ending ("จบที่ unknown": "พรยังไม่ได้คำตอบ" / "พรยังตอบคำถามใหม่นี้ไม่ได้", no question) is the standard closer of the new observation posts (input-without-acceptance-criteria, partial-data-discipline-trap end on unknown; decision-fatigue-early-warning has NO closer form at all — first post with zero closing device). "ตอนนี้พรยังรู้แค่เคสเดียว" boundary line = 2×. "โพสต์ก่อน" bridges continue (2×, explicit). First full batch in which the สรุป label is optional — the series' ending has migrated from summary to question.
 ## Updates
 
 ### 2026-09-13 — seed analysis (37 posts)
@@ -1414,3 +1443,95 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - Publish archived verbatim: `web-archive/20261010-decision-fatigue-my-day-publish.md` — LINE-SEQUENCE IDENTICAL to v3 (parity 1.00× = critique loop fully converged; the 2nd exact-parity publish in corpus after pair #29). Freeze list (r2) implemented 10/10: tail-section cut / H1 fix / philosophy-statement cut (owner did NOT restore "ข้อมูล-ไม่ใช่คำสั่ง" — followed critic) / two-way split compressed / scene upgraded first-person / ending 4-beat verbatim / no cause-claim / no counting-system / DF 1×.
 - Notion `3f5df8d8-8d8c-817d-858d-da04cf06780c`: Status → published (body unchanged from v3, 37 blocks/17 markers already verified). Asset image filename noted from user paste: `20261010-CNT-DECISION-FATIGUE-EARLY-WARNING.webp` (file not on this box — provenance only).
 - Takeaway: parity publishes arrive when the freeze round already converged; grade = verify identity + freeze list, resist re-litigating.
+
+### 2026-10-11 — new posts: interrupt-not-override, trigger-without-notification, system-without-dependency-on-readiness, tool-change-behavior-persists, loop-without-exit-condition, priority-versus-capacity-commitment, possible-not-equal-reality-log, choice-overload-constraints-filter, indicator-boundary-not-tell-all, batch-work-over-context-switching, observation-over-premature-rules, repeat-decision-not-equal-evidence, feedback-types-indicator-boundary, automation-time-saved-landing-state, ai-fomo-tool-versus-work-reality, possible-not-equal-capacity, convenience-trap-hidden-friction-value, metric-to-decision-mapping-gap, label-bypass-system-question, agent-runtime-vs-manual-chatbot, breath-count-data-versus-unknown, decision-works-vs-post-optimization, hardware-constraints-over-ideal-run, archived-versus-reused-asset, visual-salience-vs-longterm-resonance, input-without-acceptance-criteria, partial-data-discipline-trap, decision-fatigue-early-warning
+
+ภาพรวม batch: 28 โพสต์ (09-27..10-11) = publish ของ pair ที่วิเคราะห์ไว้แล้ว 17 (pair #22 A, #24 ×2, #29 ×2, #32, #33 ×3, #34, #35, #38, #40 ×2, #41, #42, #43, #44) + ครั้งแรก 11 — ยืนยันว่า corpus วิเคราะห์วิ่งนำหน้า publication ต่อเนื่อง (batch นี้ publish หนาแน่นสุด) — ความยาวเฉลี่ย 280 คำ (range 78–628, สั้นสุดใน corpus) — สรุปแบบวิศวกรเป็ด 14/28 + ปิด "#ก่อนนอน" 13 — Voice: คับ 0 (2 hits = "บังคับ" substring), คุณ 6 (agent-runtime 5 — advice register กลับมาเฉพาะตัวเดียว), พร 674 / เรา 112 — hashtags ใหม่ 21 (รวม #ScientificAdvertising ×2, #Stoicism, #InnerCitadel, #IntentionalNeglect, #ConvenienceTrap, #FOMO, #AI, #LocalLLM) — ≠-equation 6 โพสต์ — devices ประจำ batch: "โพสต์ก่อน" bridge / จบที่ unknown ("พรยัง…ไม่ได้/ตอบไม่ได้") / "ตอนนี้พรยังรู้แค่เคสเดียว" (2×) / "โพสต์นี้ไม่ได้พิสูจน์/ไม่ได้ชวน"
+- interrupt-not-override:
+  - ยืนยัน publish ของ pair Interrupt/Override (pre-analyzed): "Cost of Waiting" question asset + "เขียนไว้ ≠ ทำทันที" + "10:15 รอบที่สอง" verification loop ครบ
+  - ใหม่: rule statement "ของใหม่ต้องขอสิทธิ์ ไม่ใช่ได้สิทธิ์อัตโนมัติ"; closer ↓-flow 2 กิ่ง (ใช่ → Override อย่างตั้งใจ / ไม่ → เขียนไว้ ทำต่อ กลับมาทีหลัง)
+- trigger-without-notification:
+  - ยืนยัน publish ของ pair #22 Content A: ฉาก 07:00 + "Decision หายไปตอนไหน" + observation-before-diagnosis ("ยังไม่ต้องตั้งชื่อ / ยังไม่ต้องสร้าง Protocol")
+  - ใหม่: question-shift ในบท ("อะไรเด้ง?" → "อะไรมาก่อน?") — pattern "คำถามขยับ ไม่ใช่คำตอบเปลี่ยน"; closing question "ก่อนมือจะหยิบมันแต่ละครั้ง — เมื่อกี้เกิดอะไรขึ้น?"
+- system-without-dependency-on-readiness:
+  - ครั้งแรก — ยาวที่สุดในหมู่โพสต์ใหม่ (543): SYNTHESIS post — ร้อย Routine/Capture/Save State/Margin ของโพสต์ก่อนหน้าเป็น "Dependency เดียว" — meta-move ใหม่: brand ร้อยงานที่ publish ของตัวเองในโพสต์เดียว
+  - ใหม่: "Reminder 17 ตัว = Prompt 17 ตัว ที่เข้ามาขอ Decision"; boundary "ระบบไม่ได้มีไว้บังคับให้วันที่แย่ Produce"; closing question "ถ้าพรุ่งนี้ไม่พร้อม — อะไรยังไม่จำเป็นต้องเริ่มใหม่จากศูนย์?"
+  - Drift: orthography "พร" (สะกดขาด) ~8 ครั้งในกลางบท
+- tool-change-behavior-persists:
+  - ยืนยัน publish ของ pair #22 Content B: "ถอยขึ้นหนึ่ง Layer" + "แก้ผิดชั้น" + "App A → Website B" chain ครบ
+  - ใหม่: "Block List ยาวขึ้น — Behavior เดิมยังอยู่" visual (Block A → Block B → Website C); "ลบ Tool = Experiment ไม่ใช่คำตอบ"; "อะไรยังไม่เปลี่ยน ทั้งที่ Tool เปลี่ยนไปแล้ว?" question
+- loop-without-exit-condition:
+  - ยืนยัน publish ของ pair #23 v4: Exit Condition + Work-Loop falsifier + "เดี๋ยวเช็คกับเขาตรงๆ" action ครบ
+  - ใหม่: "อารมณ์ = Signal ให้หยุดแล้ว Inspect — ไม่ใช่ classifier"; parked-connection "Space ≠ Margin — เก็บ Connection ไว้ก่อน" (boundary discipline ในโพสต์ publish); closing question "Loop ไหนที่พรพยายามคิดให้จบ — ทั้งที่ยังตอบไม่ได้ว่ามันต้องการอะไรถึงจะจบ?"
+- priority-versus-capacity-commitment:
+  - ยืนยัน publish ของ pair #24 part 1: "หิน 8 ก้อน vs โหล" + "ปล่อยมือ ≠ หลุด" (ตั้งใจไม่ Commit vs ค้างอยู่ใน Commitment)
+  - ใหม่: concept "เส้นหยุด Commitment"; explicit callback "Incoming ≠ Priority" ของโพสต์ interrupt — cross-ref ระหว่างโพสต์ publish 2 ตัว (convention ใหม่ — bridge "โพสต์ก่อน" ยังไม่มาถึง แต่ asset เดียวถูกรื้อใช้); closing question "พรเลือกให้อะไรได้ Capacity และเลือกให้อะไรยังไม่ได้มัน?"; tag #IntentionalNeglect ใหม่
+- possible-not-equal-reality-log:
+  - ยืนยัน publish ของ pair #24 part 2 (exercise-postponed): 17:00 timeline เก็บเป็น pure event — "สิ่งที่รู้จริงๆ มีแค่นี้" 4 facts ไม่มี cause
+  - ใหม่: "เป็นไปได้ ≠ เกิดขึ้นจริง"; "ให้ Pattern โผล่ออกมาจากสิ่งที่เกิดขึ้น — มากกว่าสร้าง Pattern ก่อนแล้วหาเหตุการณ์ใส่" (observation-before-pattern discipline); สั้นสุดในหมู่ที่มียังมีสรุป (211) — length band ใหม่
+- choice-overload-constraints-filter:
+  - ยืนยัน publish ของ case 48 ไอเดีย: chain "48 → 40 นาที + มือถือ → ไอเดียที่ 12" + "Constraint ตัด Choice ออกจากรอบนี้"
+  - ใหม่: anti-overclaim "ข้อจำกัดไม่ได้แปลว่างานจะเริ่มเสมอไป"; closing question "ด้วยของที่มีอยู่ — อะไรไม่ต้องเอามาเลือกในรอบนี้?"
+- indicator-boundary-not-tell-all:
+  - ยืนยัน publish ของ pair #27 ไฟเขียว (v3 → publish): ฉาก GPU ว่าง / 24→11 tok/s / boot race + fix "สั่ง server รอ GPU"
+  - ใหม่: question asset "Indicator นี้กำลังบอกอะไรเรา — และไม่ได้บอกอะไร?"; reframe core "ไฟไม่ผิด — พรอ่านมันเกินสิ่งที่มันวัด"; trigger rule "Reality ไม่ตรงกับไฟ → เปิดดูเพิ่ม" — machine incident ของ brand กลายเป็นเนื้อหาสาธารณะครั้งที่ 2
+- batch-work-over-context-switching:
+  - ยืนยัน publish ของ pair #29 part 1 (งานเดียวห้ารอบ): ฉาก 5 ชิ้น = งานเดียว 5 รอบ + "พรยังไม่กล้าสรุปอะไรจากวันเดียว"
+  - ใหม่: two-axis hypothesis "จำนวนชิ้น = แกนแรก / เปลี่ยนโหมด = แกนที่สอง"; evidence discipline "พรมีแค่วันเดียว — ยังไม่มีวันเทียบ"; closing = observation handoff "ครั้งหน้าลองแยกเป็นสองจำนวนก่อน" — ตั้งโพสต์ถัดไปล่วงหน้า (convention handoff)
+- observation-over-premature-rules:
+  - ยืนยัน publish ของ pair #29 part 2: bridge "โพสต์ก่อนจบไว้ที่คำถาม" + ฉาก 5 rules
+  - ใหม่: "Rule → Candidate" status concept (rule ที่ยังไม่ได้ Test เป็นได้แค่ Candidate); measurement-definition question "แล้วหนึ่ง 'การเปลี่ยนโหมด' คืออะไร?" — ไม่วัดก่อนจนรู้ว่ากำลังวัดอะไร; โพสต์ publish ตัวแรกที่ audit gap observation→rule ของกระบวนการเขียนตัวเอง
+- repeat-decision-not-equal-evidence:
+  - ยืนยัน publish ของ pair #31 (แผนที่): "Repeat ≠ Evidence" + chain "Repeated Decision → ? → Stable → Default"
+  - ใหม่: citation "Claude Hopkins, Scientific Advertising" (compass quote) — classical advertising source เข้า corpus ครั้งแรก + tag #ScientificAdvertising; section "Hopkins ไม่ได้ให้คำตอบ — เขาทำให้คำถามเดิมยากขึ้น" (citation ที่ทำให้ question ยากขึ้น ไม่ใช่ confirm); closing "แผนที่ไม่ได้เกิดจากการเดินผ่านถนนเดิมครั้งเดียว"
+- feedback-types-indicator-boundary:
+  - ยืนยัน publish ของ pair #32: ฉาก "นั่งเฝ้ายอดทุก 5 นาที" + "งานดี — แค่คนยังไม่เห็น" ที่ถูก Inspect
+  - ใหม่: feedback taxonomy "Positive Reaction ≠ Reported Outcome ≠ Cause" (3 ขั้น); closing = title question ทับท้ายโพสต์ — closer shape ใหม่ (title-as-closing-question)
+- automation-time-saved-landing-state:
+  - ยืนยัน publish ของ pair #33 กิ่ง 1: case automation 20 นาที + contrast week "loop ไม่เกิด" + "20 นาที ก็ยังเป็น 20 นาที"
+  - ใหม่: "ก่อนนอน" section label (plain) แทนที่สรุป — ครั้งแรกของ form นี้ใน batch; attribution "ประโยคจากหนังสือเรื่องเวลาที่ถูกอ้างถึงบ่อย" — quote โดยไม่ naming book (attribution-generic) — citation style ใหม่; scope line "โพสต์นี้ไม่ได้พิสูจน์ว่า automation ไม่ดี"
+- ai-fomo-tool-versus-work-reality:
+  - ยืนยัน publish ของ pair #33 กิ่ง 3: case Grok Bot → Muse wave + "คลื่นก่อน ๆ จบเหมือนเดิม" + 2 owner's-call keeps ตามบันทึก
+  - ใหม่: pattern-recall section ("และนี่ไม่ใช่ครั้งแรกที่พรจำ Pattern แบบนี้ได้"); night question "ครั้งล่าสุดที่รู้สึก 'ตามไม่ทัน' — อะไรในงานจริงของพรที่กำลังตามไม่ทัน?"; "โพสต์นี้ไม่ได้ชวนให้หยุดดูคลื่นใหม่" non-pitching line
+- possible-not-equal-capacity:
+  - ยืนยัน publish ของ pair #33 กิ่ง 2: case "โมเดล 27B ในห้องนอน" + "list ยาวขึ้นทันที / ที่ทำได้จริง — พรยังไม่รู้"
+  - ใหม่: "Possible ≠ Capacity" equation; hypothesis self-label "เป็น Hypothesis ไม่ใช่ข้อสรุป" — โพสต์ระบุ epistemic status ของตัวเอง (convention ใหม่); night question "ครั้งล่าสุดที่รู้สึก 'ตามไม่ทัน' — อะไรเพิ่มขึ้นจริง?" — sibling question ของ FOMO post (2 โพสต์จบที่คำถามคู่)
+- convenience-trap-hidden-friction-value:
+  - ยืนยัน publish ของ pair #34: case ตู้กาแฟ + "Friction ที่กำลังเอาออก — ทำหน้าที่อะไรอีกหรือเปล่า?"
+  - ใหม่: "ตอนอยู่เห็น Cost / หลังหายไปเห็นอีกหน้าที่" frame; attribution-generic book quote (ซ้ำ style ของ automation post); "#ก่อนนอน" hashtag form — ครั้งแรก (ก่อนหน้านั้น plain); tag #ConvenienceTrap
+- metric-to-decision-mapping-gap:
+  - ยืนยัน bridge "โพสต์ก่อน" explicit (ยก chain + คำถามค้างของแผนที่) + Hopkins re-use (coupon trace mechanism)
+  - ใหม่: "เปลี่ยนอย่างเดียว — คำถามก็ยังไม่จบ" (single traceable result ยังไม่ใช่ Stable); "ช่องว่างยังอยู่ — เห็นชั้นที่ต้อง Inspect เพิ่มหนึ่งอย่าง" — chain "?" ขยับลง 1 ชั้น (convention: gap ไม่ถูกเติม — ถูกขยาย); closing "ยังไม่ต้องรีบเติม ?"
+- label-bypass-system-question:
+  - ครั้งแรก — publish ของ hustle brief (pair ที่ corpus อ้างถึงเป็น "10-04 post" — สิบของ word-grading): คำ "ทุ่มเท/Hustle" + "ทำไมต้องตอบทุกอัน?"
+  - ใหม่: "คำที่อธิบาย Behavior ได้ ≠ คำที่ตอบว่าทำไม Behavior นั้นจำเป็น" (describing vs explaining-why split); "คืนคำถามให้มัน" — หน้าที่ของโพสต์ = re-open คำถามที่คำปิดไว้; anti-judgment "โพสต์นี้ไม่ได้บอกว่าความทุ่มเทเป็นเรื่องผิด"; tag #SelfCheck
+- agent-runtime-vs-manual-chatbot:
+  - ยืนยัน publish ของ pair #35 (agent-review) — ยาวสุด batch (628): "8 โมงเช้า — งานเกิดไปแล้ว" + self-proof 43 files/95 skills + "ใครต้องอยู่ตรงนั้น ตอนงานเริ่ม" single-question reduction
+  - ใหม่: type-B conventions ย้ายเข้า personal post — dated vendor-data block "ณ วันที่ 6 ตุลาคม 2026" + "ตัวเลขพวกนี้เปลี่ยนได้" + section "ข้อมูลที่เปลี่ยนเร็ว"; anti-hype section "ของที่ไม่น่าเชียร์" (job timeout / permission / sensitive) ในโพสต์ personal; "Chatbot ยังทำงานได้ดี — ใช้ต่อ" non-pitching
+  - Drift: คุณ 5 (advice register กลับมา — ตัวเดียวของ batch), "—ทั้งที่" ขีดหาย (typo ของผู้เขียน ตาม nit ที่บันทึกไว้)
+- breath-count-data-versus-unknown:
+  - ยืนยัน publish ของ pair #38 (count-breath): ฉากหมาป่วย + "นับไปแล้ว ≠ เหลืออีก" + "ตัวเลขหาย — ลมหายใจไม่หายตาม"
+  - ใหม่: Stoicism line — #Stoicism + #InnerCitadel (หนังสือของ Marcus) — สาย Stoicism ตัวแรกของ corpus (ต่อจาก Seneca quote ใน originals); minimal ending "พรยังไม่รู้." — จบที่ unknown + full stop ไม่มี question (closer form ใหม่)
+- decision-works-vs-post-optimization:
+  - ยืนยัน publish ของ pair #39 (chosen-path): incident GPU + "Works → Easier → Better → Best" question drift + "Result เดิมไม่ได้ตอบน้อยลง"
+  - ใหม่: question "คำถามใหม่ที่เกิดขึ้นหลัง Decision จบแล้ว — จำเป็นต้องถูกตอบทุกคำถามไหม?"; "#ก่อนนอน" closer; tag #TechOps
+- hardware-constraints-over-ideal-run:
+  - ยืนยัน publish ของ pair #40 (embrace-the-limit): 2×5060 Ti 32GB vs 48GB dream + "Output ที่เกิดแล้วไม่ได้เกิดบน 48GB"
+  - ใหม่: question flip "ทำไมมันไม่มากกว่านี้" → "ภายใต้ 32GB นี้ — อะไรทำงานได้จริง"; "การ์ดไม่ได้เปลี่ยน — คำถามที่พรใช้กับมันต่างหากที่เปลี่ยน"; machine spec ของ brand เป็นเนื้อหาสาธารณะอีกครั้ง (ครั้งที่ 3 — คราวนี้ในฐานะ constraint story ไม่ใช่ benchmark)
+  - Drift: subtitle = "." (โพสต์เดียวใน batch ที่ไม่มี subtitle); "#ก่อนนอน"
+- archived-versus-reused-asset:
+  - ยืนยัน publish ของ pair #40 (daily-repetition): case "Log เก่า 1 บรรทัดที่โพสต์ใหม่ยังอ้างอิง" + "Stored ≠ Reused"
+  - ใหม่: self-count กลับมาที่ scale ใหม่ (Index 400+ / Drafts 300+ / Versions 100+ / pairs 40 คู่); closing "รอบนี้เริ่มจากศูนย์ — หรือมีอะไรจากรอบก่อนกลับมาด้วย?" + "ตอนนี้พรยังรู้แค่เคสเดียว"
+- visual-salience-vs-longterm-resonance:
+  - ยืนยัน publish ของ pair #41 (read-others): case "หน้าคนแปลกหน้า — 100 กว่าเล่ม vs ประโยคเล็กช่วงท้าย" + "สะดุดตา ≠ อยู่ต่อข้ามคืน"
+  - ใหม่: "พรยังไม่รู้ว่าทำไม" + zero mechanism (list ของ hypothesis โดยไม่เลือก); closer "ครั้งหน้าที่พรอ่าน — มีคำถามหนึ่งเพิ่มขึ้นมา"; "ยังรู้แค่เคสเดียว"
+- input-without-acceptance-criteria:
+  - ยืนยัน publish ของ pair #42 (0.97× v4): สั้นสุด batch (82) — "คำถามนี้อยู่ในหัวพรมาก่อนเปิดข่าว" attestation line + thesis "ข้อมูลเพิ่มขึ้นได้ โดยที่ยังไม่รู้ว่าอะไรจะนับเป็นคำตอบ"
+  - ใหม่: acceptance-criteria question "ถ้าคำตอบมาจริง จะรู้ได้ยังไงว่าเจอแล้ว?"; ending 3-beat "เช้านี้ / ข่าว AI เพิ่มขึ้นอีกหลายเรื่อง / แต่คำถามเดิมยังอยู่" + "พรยังไม่ได้คำตอบ" — จบที่ unknown ไม่มี question
+- partial-data-discipline-trap:
+  - ยืนยัน publish ของ pair #43: reported-speech triple "บางคนโพสต์ว่าตื่นเช้า / บางคนเล่าว่าทำงานจนดึก / มีงานใหม่ออกมาต่อเนื่อง" + "อย่างน้อย ส่วนนี้พรเห็นจริง" + peak pair "เห็นงานที่เขาเผยแพร่ — แต่ไม่เห็นเงื่อนไขทั้งหมด"
+  - ใหม่: question "พรรู้อะไรเกี่ยวกับวิธีที่เขาทำงานจริง ๆ บ้าง — ก่อนจะเอาตัวเองไปเปรียบเทียบ?"; ending "พรยังตอบคำถามใหม่นี้ไม่ได้" — จบที่ unknown; tag #Discipline
+- decision-fatigue-early-warning:
+  - ยืนยัน publish ของ pair #44 (1.00× v3 parity): scene "ลังเลกับเรื่องที่ปกติเลือกได้ง่ายกว่า" + DF demoted 1× ("คำที่พรเจอระหว่างพยายามทำความเข้าใจ")
+  - ใหม่: ending "พรยังไม่รู้ว่า…เกี่ยวกันอย่างไร" — ไม่มี closer form ใดๆ เลย (no question / no ก่อนนอน / no สรุป) — โพสต์ตัวแรกของ batch ที่ไม่มี closing device
+
