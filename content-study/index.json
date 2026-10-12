@@ -3611,9 +3611,9 @@
   "title": "พอพรรู้สึกตัวเองเล็ก — สิ่งที่พรเห็นกลับมากขึ้น",
   "date": "2026-10-12T00:00:00",
   "link": "https://app.notion.com/p/3f7df8d88d8c8123a706cab68c56cbd1",
-  "words": 114,
+  "words": 42,
   "file": "/home/lifetofree/hermes-agent/content-study/posts/20261012-cnt-see-cant-hold-overload.md",
-  "note": "chain v1(d3f858a)→v2(b247abc)→v3(2cbf23e)→v4(a20c1f9, Benz r3 rewrite — hook 'เลิกถือบางอย่างแล้ว…ยังเต็มเหมือนเดิม', event-first, see/hold เป็น lens, Unknown ending) — v4 ลง Notion page ใหม่ 3f7df8d8-8d8c-8187-829b-ceaa15db2d52 (เดิม archived); critiques+snapshots ใน web-archive/20261012-see-cant-hold-overload-*; รอ freeze/publish"
+  "note": "chain v1(d3f858a)→v2(b247abc)→v3(2cbf23e)→v4(a20c1f9)→v5(r4 rewrite, 42wc) — gate r4 ตอบ: EXTERNAL (งานค้างโผล่บนจอจริง) → v5 = two-tasks separation + มาตลอด→เคยรู้ (critic verbatim) + def-section ตัด + จบ anomaly จุดเดียว (closer 3 บรรทัด critic verbatim); Notion page 3f7df8d8-8d8c-8187-829b-ceaa15db2d52 PATCH → Status rewritten (27 blocks, markers 11/11); critiques r3+r4 + snapshots v1-v4 ใน web-archive/; ใกล้ freeze"
  },
  {
   "slug": "diligence-inside-not-outside",
