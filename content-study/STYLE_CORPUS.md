@@ -1546,3 +1546,13 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - Battery: **322 wc-w = 0.39× FB variant (ตัดหนักสุดที่เคยวัด)**, H1 6 + H3 subtitle 1, beats 48, bold 22, blockquote 7, พร 15/เรา 7/คุณ 2/คับ 1/ผม 0, ลิงก์ 2, CJK 0
 - ไฟล์: `web-archive/20261012-snapzy-fb-publish.md` (verbatim จาก paste, fidelity byte-identical) + critique `web-archive/20261012-snapzy-fb-benz-dna-critique.md` · Notion FB page `3f7df8d8-8d8c-81f2-8cdf-cb62e8c3201d` PATCH → Status published
 - Skill: items (178)-(180) tech-review evidence-status / popularity-≠-continuity / hook-promise honesty
+
+### 2026-10-12 — pair #46 CLOSED (see-cant-hold-overload — รอบยาวสุดของ corpus: v1→publish 6 เวอร์ชัน 1 วัน)
+
+- ครบรอบ: v1 105 (fresh brief) → r1 self (v2 114: invented-time ×3 ตาย) → r2 user-steer "สรุปเร็วไป" (v3 120: verdict-after-fork ตาย) → Benz r3 + gate "internal?" (v4 78: event-first, def-section) → Benz r4 + gate "โผล่บนจอจริง?" ตอบ EXTERNAL (v5 42: two-tasks verbatim, มาตลอด→เคยรู้) → Benz r5 "เกือบ Freeze" + gate "เปิดเองไหม?" → **publish 69 (1.64× v5)**
+- Gate-question grammar (rule 36) ใช้ 3 รอบติด — ทุกรอบเปลี่ยนความหมายของคำหลัก ("เห็น") และ publish ตอบคำสุดท้ายด้วยการ **supersede ทั้ง fork**: ไม่ใช่ "เปิดเอง" ไม่ใช่ "จอแสดงเอง" แต่ "ความสนใจขยับไปหางาน" (owner framing — rule 175 owner's-call)
+- Grades vs r5: **9/9 PASS** — title = critic §4 verbatim ("ปิดงานไปแล้วหนึ่งชิ้น — แต่ทำไมพรยังรู้สึกเต็มเหมือนเดิม") · "โผล่" = 0 (ตัดคำที่ข้ามหัวใจเหตุการณ์) · เหตุการณ์ = นึกถึงเองในจังหวะวางงาน (critic §3 replacement direction) · ending ไม่มี "เพราะ"-ฟันธง + เล่าไม่ซ้ำ → two-truths frame ("นั่นเป็นเรื่องจริง / อีกเรื่องที่จริงเหมือนกันคือ") · closer เรา-inspectable ("เราได้หยุดอยู่กับงานที่เสร็จแล้วสักพัก / หรือความสนใจขยับไปหาเรื่องถัดไปทันที")
+- CUT zero-count 23 ศัพท์ = 0 รวม legacy ทั้ง 6 เวอร์ชัน (ถือ/โผล่/มาตลอด/เลิกเห็น/ขยับไปถือ/ระบบเต็ม/Finitude/ควร/คนละตัว/คนละที่/คุณ/คับ) · "เพราะ" 2 จุดรอด = ใน fork "พรไม่แน่ใจว่า เป็นเพราะ A หรือเพราะ B...ยังแยกไม่ออก" (hypothesis-เพราะ ไม่ใช่ฟันธง — NOTES)
+- Publish moves: bold compile line ×1 hedged "อาจ" ("งานที่เสร็จไป กับสิ่งที่ยังอยู่ในความสนใจ อาจไม่ได้ลดลงพร้อมกัน") · closer เปลี่ยน narrator พร→เรา (ครั้งแรกของ pair นี้) จบ inspectable ไม่มีคำถามตรง
+- Battery: 69 wc-w (1.64× v5 — publish ขยายหลัง 3 รอบตัด), H1 3 + H3 1, beats 16, bold 1, พร 14/เรา 2/คุณ 0/คับ 0, CJK 0
+- Notion `3f7df8d8-8d8c-8187-829b-ceaa15db2d52` PATCH 200×2 → 55 blocks markers 11/11 **Status → published**; publish archive byte-identical (web-archive/20261012-see-cant-hold-overload-publish.md) + critique r5 + v4 snapshot; skill item (181) gate-question grammar; index n=450
