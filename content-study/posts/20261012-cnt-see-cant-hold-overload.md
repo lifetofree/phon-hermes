@@ -1,63 +1,53 @@
 <!--
-ContentID: 20261012-CNT-SEE-CANT-HOLD-OVERLOAD (placeholder)
-Title: พอพรรู้สึกตวัเองเล็ก — สิ่งที่พรเห็นกลับมากขึ้น
+ContentID: 20261012-CNT-SEE-CANT-HOLD-OVERLOAD
+Title: พอพรรู้สึกตัวเองเล็ก — สิ่งที่พรเห็นกลับมากขึ้น
 Slug: see-cant-hold-overload
-Type: CURRENT FORM (system/mindset, post-#17 synthesis) — fresh single-idea brief drafted straight into the form
-Origin (user, 2026-10-12, verbatim): "observe my feel finitude -> what I see -> I can't hold them all -> system overload -> what I see"
-Arc (the brief IS the observed case — no invented micro-event):
-  1. observe my felt finitude (พรรู้สึกตวัเองเล็ก)
-  2. what I see (สิ่งที่พรเห็น — increases)
-  3. I can't hold them all (ถือไม่หมด)
-  4. system overload (ระบบเต็ม)
-  5. what I see (invariant — the seeing does not disappear)
-Core (compile-able, H3): สิ่งที่พรเห็นไม่ได้หายไป — ที่ overload คือ "ที่ถือ" ไม่ใช่ "ที่เห็น"
-Mechanism (gap): SEEING multiplies freely; HOLDING is finite. Finitude is what makes the gap visible. Overload lives in the gap, not in the seeing.
-Dispatch question (forks the mechanism's own 2 failure shapes — no third invented):
-  > สิ่งที่พรเห็นมีมากกว่าที่ถือไหว — overload มาจาก "ของที่ถือไม่ไหว" หรือจาก "การเห็นที่ไม่มีขอบ"?
-    - Mode A  ของที่ถือไม่ไหว = list (the seen-things exceed holding capacity)
-    - Mode B  การเห็นที่ไม่มีขอบ = the seeing itself (perception has no edge; capacity irrelevant)
-Worked example (load-bearing, grounded ONLY in the user's own practice — many open threads):
-  งานที่เปิดค้างไว้ / สิ่งที่ทำได้ / สิ่งที่ยังไม่ได้เริ่ม → พรลองถือทุกอย่างพร้อมกัน → ระบบเต็ม
-Near-miss (boundary case, one case ⇒ hedged "มีจังหวะที่"): the moment the seen FIT the holding — no overload.
-Reskin guards (checked against siblings):
-  - possible-vs-capacity: that post's core = "สิ่งที่ทำได้"(list) grows faster than "ที่ทำได้จริง"(hours/energy) — a CAPABILITY LEDGER. This post's core = the SEEING is invariant while the HOLDING overloads — a PERCEPTION/OVERLOAD distinction. Different core. Does NOT re-map the Possible≠Capacity ledger; "overload" is this post's word, not a Possible/Capacity restatement.
-  - embrace-the-limit: that post's core = 32GB CONSTRAINT as design input (reframe the question). This post does NOT use the 32GB number as hero and does NOT reframe a constraint — it uses "that I can hold" as the finite side of a see/hold gap. Scene kept abstract (open work), NOT the 32GB ceiling line.
-  - decision-fatigue: that post's scene = "สองสามหน้าจอ + เลือกไม่ถูก" (choice paralysis). This post does NOT reuse the choosing scene — the overload here is holding/seeing, not choosing.
-  - world-fast / count-breath: different scenes (news-morning / breath-count). No reuse.
-Design (CURRENT FORM):
-  - H1 = condition (finitude → seeing increases); H3 = compile-able definition (seeing invariant / holding overloads)
-  - open with the story (the felt finitude), never a metric
-  - ONE dispatch question → 2 named modes (described, not "โหมดที่ N" labels)
-  - worked example = concrete artifacts (open work / things to do / things not started) + near-miss immediately after
-  - success = the post stands on the see/hold distinction, never on form
-  - closer = standalone night question (this post is a STANDALONE observation, not a thread compilation — it does NOT extend the saved-time/Possible-Capacity member list)
-Register target: พร (narrator, story + universal claims) / เรา 0 (full-พร is correct for a no-answer post) / คุณ 0 / คับ 0
-CUT zero-count list (body + hashtags; baselines → 0): protocol / Law / H2 / table / checklist / Tiny Experiment / Success Criteria / "โหมดที่" / "ควร" / "จง" / 32GB / "constraint" / "Possible" / "Capacity" / คุณ / คับ / ครับ
+Type: CURRENT FORM (system/mindset, post-#17 synthesis) — r1 self-rewrite (v2) 2026-10-12
+Origin (user brief, verbatim): "observe my feel finitude -> what I see -> I can't hold them all -> system overload -> what I see"
+Fork answer (rule 36, evidence-source): ฉากเดียวที่ attested = "เพิ่งรู้สึก ตอนทำงานหนักๆ อยู่ดีๆก็เบาไปเอง" (user ตอบผ่าน clarify) — brief ไม่มี invented ฉากใด
+Rewrite r1 (v2) — pre-rewrite findings กับ v1:
+  (1) ละเมิดกฎ invented-time-marker (EN #135 class / pair #43 "มีอยู่คืนหนึ่ง" lesson): "วันหนึ่งพรหยุด", "จนวันหนึ่ง", "ครั้งหนึ่งที่เห็นกับที่ถือพอดีกัน" = 3 จุด — v2 เปิดด้วยเหตุการณ์จริง attested แบบ continuous ("กลางงานที่หนักที่สุด...") ตาม corpus และ near-miss ใช้ "มีจังหวะ" ตามที่ brief เขียนไว้แต่ v1 ลืม
+  (2) ละเมิด rule 48 (insight-once): thesis "สิ่งที่พรเห็นไม่ได้หายไป — ที่ overload คือที่ถือ" ปรากฏ ×2 (H3 subtitle + ก่อนนอน section verbatim) — v2 เก็บจุดเดียว
+  (3) ละเมิด EN #43/EN #106: v1 มีทั้ง "คำถามคืนนี้" label และ closer question = ซ้ำซ้อน — v2 เหลือ blockquote เดียว
+  (4) typo: "ตวัเอง" → "ตัวเอง" (ทั้ง header + H1)
+  (5) H3-หลัง-H1 แบบ STREAM-01 เดิมถูกตัดใน rewrites หลัง #17 — v2 ใช้ H1 เดี่ยวตาม rewrites ใหม่
+v2 spine (ตาม brief order เป๊ะ — rule 38): รู้สึกตัวเองเล็ก (เหตุการณ์จริง) → เห็นมากขึ้น → ถือไม่หมด → ระบบเต็ม → สิ่งที่เห็นไม่หาย (สิ่งเดียวที่คงอยู่)
+Core (compile-able): ที่ overload คือ "ที่ถือ" ไม่ใช่ "ที่เห็น"
+Reskin guards (checked): possible-vs-capacity (capability ledger — ไม่ใช่) / embrace-the-limit (32GB constraint reframe — ไม่ใช่) / decision-fatigue (choosing scene — ไม่ใช่) / world-fast / count-breath — 0 คำศัพท์พี่น้องใน body
+CUT zero-count (body+hashtags → 0): protocol / Law / H2 / table / "โหมดที่" / "ควร" / "จง" / 32GB / Possible / Capacity / คุณ / คับ / ครับ / "วันหนึ่ง" / "ครั้งหนึ่ง" / คำถามคืนนี้
 Hashtags: #Adduckivity #DuckOS #NeuroDivergent #Overload #Finitude
-Candidate hooks (for the critique round):
-  A (USED): พอพรรู้สึกตวัเองเล็ก — สิ่งที่พรเห็นกลับมากขึ้น
-  B: พรเห็นได้มากขึ้น — แต่พรถือมันไม่หมด
-  C: สิ่งที่พรเห็นไม่ได้หายไป — ที่ overload คือที่ถือ
-Notion: not yet filed (file after battery clean)
+Notion: page 3f7df8d8-8d8c-8123-a706-cab68c56cbd1 (PATCH in place, Status → rewritten)
 -->
 
-# พอพรรู้สึกตวัเองเล็ก — สิ่งที่พรเห็นกลับมากขึ้น
-
-### สิ่งที่พรเห็นไม่ได้หายไป — ที่ overload คือ "ที่ถือ" ไม่ใช่ "ที่เห็น"
+# พอพรรู้สึกตัวเองเล็ก — สิ่งที่พรเห็นกลับมากขึ้น
 
 .
 
-วันหนึ่งพรหยุด
+กลางงานที่หนักที่สุดของวัน
 
-แล้วรู้สึกว่าตัวเองเล็กมาก
+พรเพิ่งรู้สึก
 
-มีเวลาจำกัด มีที่จำกัด มีกำลังจำกัด
+ตอนทำงานหนัก ๆ อยู่ดี ๆ ก็เบาไปเอง
 
 .
 
-พอพรรู้สึกถึงความเล็กนั้น
+พอเบา
 
-พรก็เริ่ม "เห็น" มากขึ้น
+พรรู้สึกว่าตัวเองเล็กมาก
+
+มีเวลาจำกัด
+
+มีที่จำกัด
+
+มีกำลังจำกัด
+
+.
+
+พอรู้สึกถึงความเล็กนั้น
+
+พรก็เริ่มเห็นมากขึ้น
+
+.
 
 เห็นสิ่งนี้ สิ่งนั้น
 
@@ -65,13 +55,11 @@ Notion: not yet filed (file after battery clean)
 
 .
 
-สิ่งที่พรเห็นมันเพิ่มขึ้นมาเรื่อย ๆ
+สิ่งที่พรเห็น เพิ่มขึ้นมาเรื่อย ๆ
 
 .
 
 # แล้วพรก็ถือมันไม่หมด
-
-สิ่งที่พรเห็นมีมาก
 
 งานที่เปิดค้างไว้
 
@@ -81,13 +69,7 @@ Notion: not yet filed (file after battery clean)
 
 .
 
-แต่ที่พร "ถือ" ได้มีจำกัด
-
-.
-
-จนวันหนึ่ง
-
-ระบบของพรก็ overload
+ที่พรถือได้ มีจำกัด
 
 .
 
@@ -99,7 +81,7 @@ Notion: not yet filed (file after battery clean)
 
 # overload มาจากไหน
 
-> สิ่งที่พรเห็นมีมากกว่าที่ถือไหว — overload มาจาก "ของที่ถือไม่ไหว" หรือจาก "การเห็นที่ไม่มีขอบ"?
+> สิ่งที่พรเห็นมีมากกว่าที่ถือไหว — overload มาจาก "ของที่ถือไม่ไหว" หรือจาก "การเห็นที่ไม่มีขอบ"
 
 .
 
@@ -111,7 +93,7 @@ Notion: not yet filed (file after battery clean)
 
 "ของที่ถือไม่ไหว" = list
 
-ของที่เห็นมันเยอะเกินกว่าที่พรจะเก็บได้หมด
+ของที่เห็นเยอะเกินกว่าที่พรจะเก็บได้หมด
 
 .
 
@@ -123,19 +105,19 @@ Notion: not yet filed (file after battery clean)
 
 มันเห็นทุกอย่างพร้อมกัน
 
-จนการเห็นตัวมันเองคือสิ่งที่ไม่เคยพัก
+จนการเห็นตัวมันเอง คือสิ่งที่ไม่เคยพัก
 
 .
 
-# ครั้งหนึ่งที่เห็นกับที่ถือพอดีกัน
+# มีจังหวะที่เห็นกับที่ถือพอดีกัน
 
 มีจังหวะที่พรเห็นเท่าที่ถือ
 
-สิ่งที่พรเห็นพอดีกับที่พรเก็บไว้
+สิ่งที่พรเห็น พอดีกับที่พรเก็บไว้
 
 .
 
-จังหวะนั้นไม่มี overload
+จังหวะนั้น ไม่มี overload
 
 .
 
@@ -150,10 +132,6 @@ Notion: not yet filed (file after battery clean)
 .
 
 พรยังไม่ได้วัดว่า พรถ่วงที่ "ของเยอะ" หรือที่ "การเห็นไม่มีขอบ" มากกว่า
-
-.
-
-คำถามคืนนี้
 
 .
 
