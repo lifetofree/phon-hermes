@@ -1535,3 +1535,14 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
   - ยืนยัน publish ของ pair #44 (1.00× v3 parity): scene "ลังเลกับเรื่องที่ปกติเลือกได้ง่ายกว่า" + DF demoted 1× ("คำที่พรเจอระหว่างพยายามทำความเข้าใจ")
   - ใหม่: ending "พรยังไม่รู้ว่า…เกี่ยวกันอย่างไร" — ไม่มี closer form ใดๆ เลย (no question / no ก่อนนอน / no สรุป) — โพสต์ตัวแรกของ batch ที่ไม่มี closing device
 
+
+### 2026-10-12 — pair #45 CLOSED (Snapzy FB — tech-review evidence-status: 826 FB variant → Benz critique ยังไม่ Freeze → publish 322 wc-w)
+
+- รอบแรกที่ FB variant ผ่านรอบ Benz เต็ม — critic §6 ขอ FB Attention Post skeleton 4 beats + แยก tech detail เป็น Technical Reference ต่างหาก (= long form ที่มีอยู่แล้ว — Asset สองชิ้นจริง)
+- Quote-verify critique: **10/10 HIT, 0 drift** กับไฟล์ FB variant (normalized diff ใน code)
+- **CUT zero-count 8/8** (publish + จะเช็คซ้ำใน Notion read-back): "คำตอบอยู่ท้ายโพสต์" 0 (open-loop tease ตาย — critic §2) · "3,300"/"stars"/"community ใหญ่พอ" 0 (survival guarantee ตาย — §4) · "ลองแล้วลืมไม่ได้" 0 → "น่าลอง" (§7 experience-verb) · "กัน secret หลุด" 0 → boundary "ไม่ควรถูกใช้แทนการตรวจภาพด้วยตัวเองก่อนแชร์" (§5) · "ปัญหาจริง" 0 (absolute — §3) · "$10" 0 (Pro tier ที่ต้องกำกับเงื่อนไขถูกตัดทิ้งทั้ง tier — §4)
+- **Adoption 11/11**: subtitle = critic variant แทบ verbatim ("ต้นทุน...อาจไม่ได้อยู่ที่การจับภาพ แต่อยู่ที่ขั้นตอนหลังจากนั้น") · decline-to-rank KEEP ("พรจะยังไม่สรุปว่า Snapzy ดีกว่า CleanShot X เพราะการดูรายการฟีเจอร์ ยังไม่ใช่การทดสอบ Workflow จริง") · skeleton 4 beats = เปิดเล่าที่มา → ทำไมเทียบ CleanShot → แลกกับอะไร 3 ข้อ (ความใหม่/cloud setup/สิทธิ์-sandbox เป็น trade-off ไม่ใช่สแกนดัล) → เลือกตามลักษณะงาน (fork 3 ทาง + "ยังไม่มีเหตุผลให้ต้องย้าย") · fork question ของ critic ตอบในตัวเนื้อ (First Look branch)
+- Publish moves: hook เปลี่ยนจาก "จ่ายหรือไม่จ่าย" → "แอปไหนพาจาก Capture ไปถึง Share โดยไม่สลับเครื่องมือ" (question-sized-to-evidence) · คำถาม shift เดียวจบบท ("จ่ายให้ฟีเจอร์ หรือจ่ายเพื่อให้ขั้นตอนระหว่างงานหายไป") · CTA ตอบได้ (Capture/Annotate/Share) · ลิงก์ 2 อันท้าย (GitHub + CleanShot pricing) · ไม่มีตาราง/protocol/ตัวเลข repo
+- Battery: **322 wc-w = 0.39× FB variant (ตัดหนักสุดที่เคยวัด)**, H1 6 + H3 subtitle 1, beats 48, bold 22, blockquote 7, พร 15/เรา 7/คุณ 2/คับ 1/ผม 0, ลิงก์ 2, CJK 0
+- ไฟล์: `web-archive/20261012-snapzy-fb-publish.md` (verbatim จาก paste, fidelity byte-identical) + critique `web-archive/20261012-snapzy-fb-benz-dna-critique.md` · Notion FB page `3f7df8d8-8d8c-81f2-8cdf-cb62e8c3201d` PATCH → Status published
+- Skill: items (178)-(180) tech-review evidence-status / popularity-≠-continuity / hook-promise honesty

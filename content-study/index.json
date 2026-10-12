@@ -3587,7 +3587,23 @@
   "link": "https://app.notion.com/p/Snapzy-FB-social-line-break-variant-long-form-2026-10-12-3f7df8d88d8c81f28cdfcb62e8c3201d",
   "words": 826,
   "file": "/home/lifetofree/hermes-agent/content-study/posts/20260907-cnt-snapzy-macos-screenshot-intro-fb.md",
-  "note": "FB variant form (b) re-flow — ลง Notion แล้ว 2026-10-12 (หน้าใหม่ แยกจาก long form), read-back 127 blocks markers 15/15",
+  "note": "FB variant — ผ่าน Benz critique (pair #45) แล้ว publish แทนที่ (322 wc-w, 0.39x) — หน้า Notion เดิม PATCH Status published; ตัว FB 826 wc คือ v1 ใน git history + ไฟล์ posts/",
   "notion_page": "3f7df8d8-8d8c-81f2-8cdf-cb62e8c3201d"
+ },
+ {
+  "slug": "20261012-snapzy-fb-benz-dna-critique",
+  "title": "Benz-DNA critique — Snapzy FB variant (pair #45 pre-rewrite, quote-verify 10/10)",
+  "date": "2026-10-12T00:00:00",
+  "link": null,
+  "words": 538,
+  "file": "/home/lifetofree/hermes-agent/content-study/web-archive/20261012-snapzy-fb-benz-dna-critique.md"
+ },
+ {
+  "slug": "20261012-snapzy-fb-publish",
+  "title": "Snapzy — แอป Screenshot ฟรีบน Mac ที่ทำให้พรกลับมาถามว่า จำเป็นต้องจ่าย $35 ไหม (publish, 322 wc-w)",
+  "date": "2026-10-12T00:00:00",
+  "link": "https://app.notion.com/p/Snapzy-FB-social-line-break-variant-long-form-2026-10-12-3f7df8d88d8c81f28cdfcb62e8c3201d",
+  "words": 322,
+  "file": "/home/lifetofree/hermes-agent/content-study/web-archive/20261012-snapzy-fb-publish.md"
  }
 ]

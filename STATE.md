@@ -438,3 +438,5 @@
 - 2026-08-27: สร้างหน้า "Tailscale — Mesh VPN บน WireGuard สำหรับเข้าถึงอุปกรณ์ส่วนตัว" ใน KB
   - Page ID: `3c9df8d8-8d8c-8121-925f-ed6030d82b76`
   - Category: tech | Tags: networking, vpn, wireguard, security, self-hosted | Status: active
+
+- 2026-10-12: **pair #45 CLOSED (Snapzy FB — tech-review evidence-status)** — FB variant 826 → Benz critique (7 ข้อ "ข้อมูลมากจนกลบการตัดสินใจหลัก" ยังไม่ Freeze; fork question hands-on-vs-first-look → publish ตอบในตัว = First Look branch) → publish **322 wc-w (0.39× — ตัดหนักสุดใน corpus)**; quote-verify 10/10; CUT 8/8 zero (open-loop tease/stars-survival/ลองแล้วลืมไม่ได้→น่าลอง/กัน secret→ตรวจภาพก่อนแชร์/ปัญหาจริง/$10 tier ตัดทิ้ง); adoption 11/11 (subtitle=critic variant verbatim, decline-to-rank, skeleton 4 beats §6, redaction boundary); Notion FB page `3f7df8d8-8d8c-81f2-8cdf-cb62e8c3201d` PATCH → **Status published**; archives critique+publish (publish byte-identical กับ paste); skill items (178)-(180); index n=448; corpus pair #45 CLOSED — push ด้านล้างล่าง
