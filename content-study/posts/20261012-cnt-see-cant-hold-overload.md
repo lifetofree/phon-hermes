@@ -1,156 +1,111 @@
 <!--
 ContentID: 20261012-CNT-SEE-CANT-HOLD-OVERLOAD
-Title: พอพรรู้สึกตัวเองเล็ก — สิ่งที่พรเห็นกลับมากขึ้น
+Title: พรเลิกถือบางอย่างแล้ว — แต่ทำไมยังรู้สึกเต็มเหมือนเดิม (critic option B verbatim — keeps "ถือ")
 Slug: see-cant-hold-overload
-Type: CURRENT FORM (system/mindset, post-#17 synthesis) — r1 self-rewrite (v2) 2026-10-12
+Type: CURRENT FORM (system/mindset, post-#17 synthesis) — pair #46 r3 rewrite (v3 → v4), pre-rewrite-question round
 Origin (user brief, verbatim): "observe my feel finitude -> what I see -> I can't hold them all -> system overload -> what I see"
-Fork answer (rule 36, evidence-source): ฉากเดียวที่ attested = "เพิ่งรู้สึก ตอนทำงานหนักๆ อยู่ดีๆก็เบาไปเอง" (user ตอบผ่าน clarify) — brief ไม่มี invented ฉากใด
-Rewrite r1 (v2) — pre-rewrite findings กับ v1:
-  (1) ละเมิดกฎ invented-time-marker (EN #135 class / pair #43 "มีอยู่คืนหนึ่ง" lesson): "วันหนึ่งพรหยุด", "จนวันหนึ่ง", "ครั้งหนึ่งที่เห็นกับที่ถือพอดีกัน" = 3 จุด — v2 เปิดด้วยเหตุการณ์จริง attested แบบ continuous ("กลางงานที่หนักที่สุด...") ตาม corpus และ near-miss ใช้ "มีจังหวะ" ตามที่ brief เขียนไว้แต่ v1 ลืม
-  (2) ละเมิด rule 48 (insight-once): thesis "สิ่งที่พรเห็นไม่ได้หายไป — ที่ overload คือที่ถือ" ปรากฏ ×2 (H3 subtitle + ก่อนนอน section verbatim) — v2 เก็บจุดเดียว
-  (3) ละเมิด EN #43/EN #106: v1 มีทั้ง "คำถามคืนนี้" label และ closer question = ซ้ำซ้อน — v2 เหลือ blockquote เดียว
-  (4) typo: "ตวัเอง" → "ตัวเอง" (ทั้ง header + H1)
-  (5) H3-หลัง-H1 แบบ STREAM-01 เดิมถูกตัดใน rewrites หลัง #17 — v2 ใช้ H1 เดี่ยวตาม rewrites ใหม่
-v2 spine (ตาม brief order เป๊ะ — rule 38): รู้สึกตัวเองเล็ก (เหตุการณ์จริง) → เห็นมากขึ้น → ถือไม่หมด → ระบบเต็ม → สิ่งที่เห็นไม่หาย (สิ่งเดียวที่คงอยู่)
-Core (compile-able): ที่ overload คือ "ที่ถือ" ไม่ใช่ "ที่เห็น"
-Reskin guards (checked): possible-vs-capacity (capability ledger — ไม่ใช่) / embrace-the-limit (32GB constraint reframe — ไม่ใช่) / decision-fatigue (choosing scene — ไม่ใช่) / world-fast / count-breath — 0 คำศัพท์พี่น้องใน body
-CUT zero-count (body+hashtags → 0): protocol / Law / H2 / table / "โหมดที่" / "ควร" / "จง" / 32GB / Possible / Capacity / คุณ / คับ / ครับ / "วันหนึ่ง" / "ครั้งหนึ่ง" / คำถามคืนนี้ / "คนละตัว" (verdict ตาม steer r2) / list-label
-Hashtags: #Adduckivity #DuckOS #NeuroDivergent #Overload #Finitude
-Notion: page 3f7df8d8-8d8c-8123-a706-cab68c56cbd1 (PATCH in place, Status → rewritten)
+Pre-rewrite question (critic r3) ANSWERED (user via clarify 2026-10-12): INTERNAL case — a task ที่ค้างอยู่ (already lingering) popped up on screen / attention's own movement. NOT an external ping (no one sent new work). => "สิ่งใหม่เข้ามาแทน" = not new; = the unheld task the attention just grabbed. The holding did not release — it TRANSFERRED.
+Critique: web-archive/20261012-see-cant-hold-overload-benz-dna-critique-r3.md (quote-verify: load-bearing event quotes §2/§3 all HIT live v3; 4 def/closing lines = critic paraphrase, live v3 uses shorter forms — NOT a stale view)
+Version chain: v1 (d3f858a, 105wc) → v2 (b247abc, 114wc) → v3 (2cbf23e, 120wc = live Notion 67 blocks) → v4 (this). Archives: web-archive/20261012-see-cant-hold-overload-{v1,v2}.md + benz-dna-critique-r3.md.
+r3 implementation (critic lines verbatim where given):
+  (1) CENTER on the single event (point 2 + §8): "พรทำงานบางส่วนเสร็จ แต่ความเต็มไม่ลดลง" is the spine — demoted the "รู้สึกตัวเองเล็ก / อยู่ดี ๆ ก็เบาไปเอง" poetic opening (point 3: "ต้องมีสิ่งที่เกิดขึ้นจริงเป็นพื้นให้มันยืน"). Opening now the concrete event (a task closed).
+  (2) "เห็น" reduced to ONE job (point 4 — was doing 5): = รับรู้ว่ายังค้างอยู่ (a task is still present/pending). CUT the 5-job usage (ไม่ได้เห็นความเป็นไปได้ใหม่ / ตระหนักถึงข้อจำกัด / รับผิดชอบเพิ่มขึ้น).
+  (3) see/hold kept as a TEMPORARY LENS (point 5 — "ไม่ทิ้งคำสองคำนี้...รักษาสถานะของมัน"), and the key gap made: "พรเห็น task นั้นมาตลอด แต่เพิ่งถือมันในวินาทีนั้น" (seeing ≠ always holding = "ถ้าแยกสองคำนี้ได้จริง บทจะคมขึ้นมาก").
+  (4) CUT the "มีจังหวะที่เห็นเท่าที่ถือพอดีกัน" section WHOLE (point 6 — no event evidence, "มันทำหน้าที่สร้างภาพของสภาวะที่สมดุล มากกว่าเล่าสิ่งที่สังเกตได้").
+  (5) Ending keeps the Unknown (point 7 — "ถ้าบทนี้เป็น Observation ให้รักษา Unknown"): "พรยังไม่รู้ว่าความเต็มที่ไม่ขยับ มาจากการเห็นที่ยังวน หรือจากการถือที่ไม่เคยปล่อยจริง" — NO "overload อยู่ที่ที่ถือ ไม่ใช่ที่เห็น" verdict (the contradiction the critic flagged).
+  (6) No Finitude / Cognitive Capacity framework (point 8 — "ยังไม่ถึงเวลา"); "overload" 0 in body (kept in hashtag only), "เต็ม" = the felt word; NO "ระบบเต็ม" mechanism claim.
+Core (H3, compile-able, event-grounded, NOT a mechanism verdict): เลิกถือ ไม่เท่ากับ เลิกเห็น
+Design (CURRENT FORM):
+  - H1 = condition (stopped holding something, but still feel just as full); H3 = the see/hold distinction as the observed gap
+  - open with the concrete event (a task closed, left the screen), never a metric, never the poetic finitude
+  - NO dispatch-question taxonomy here — the r3 critique rejects the multi-layer comparison ("ใช้คำเปรียบเทียบหลายชั้น"); the post is a single observation with ONE event + ONE lens. (Dispatch structure was v1/v2/v3; the critic's §8 direction for this post = keep ONE event, don't build a framework.)
+  - worked example = the event itself (closed task / lingering task pops up / holding transfers)
+  - closer = smaller inspectable night question (next time check: did I stop seeing it, or just move to holding something new)
+CUT zero-count (body + hashtags → 0): Finitude / "ระบบเต็ม" / "การเห็นไม่มีขอบ" (as rule) / "มีจังหวะที่เห็นเท่าที่ถือ" / "รู้สึกว่าตัวเองเล็ก" (opening) / "อยู่ดี ๆ ก็เบาไปเอง" / "ของเยอะ" / "ไม่เคยหายไป" / "พรยังไม่ได้วัด" / "โหมดที่" / protocol / Law / H2 / table / "จง" / คุณ / คับ / ครับ
+  - "ควร" → 0: rephrased the expectation to "จะเบาลง" (prediction), not "ควรเบาลง"
+Reskin guards: see-cant-hold v1/v2/v3 (same post, new spine) / ai-race-what-we-can-control (indicator answering wrong question — 0) / discipline-trap (comparison with others — 0) / possible-vs-capacity (capability ledger — 0)
+Hashtags: #Adduckivity #DuckOS #NeuroDivergent #Overload #Attention
+Register target: พร (narrator + universal) / เรา 0 / คุณ 0 / คับ 0
+Notion: NEW page 3f7df8d8-8d8c-8187-829b-ceaa15db2d52 (created — block-append endpoint unavailable on 2022-06-28, so v4 landed as a fresh page). OLD page 3f7df8d8-8d8c-8123-a706-cab68c56cbd1 emptied + archived. Status → rewritten.
+v3 archive: web-archive/20261012-see-cant-hold-overload-v3.md (live page the critic saw, transcribed verbatim).
 -->
 
-# พอพรรู้สึกตัวเองเล็ก — สิ่งที่พรเห็นกลับมากขึ้น
+# พรเลิกถือบางอย่างแล้ว — แต่ทำไมยังรู้สึกเต็มเหมือนเดิม
+
+### เลิกถือ ไม่เท่ากับ เลิกเห็น
 
 .
 
-กลางงานที่หนักที่สุดของวัน
+พรปิดงานชิ้นหนึ่งได้
 
-พรเพิ่งรู้สึก
-
-ตอนทำงานหนัก ๆ อยู่ดี ๆ ก็เบาไปเอง
+งานนั้นหายไปจากหน้าจอตลอด
 
 .
 
-พอเบา
-
-พรรู้สึกว่าตัวเองเล็กมาก
-
-มีเวลาจำกัด
-
-มีที่จำกัด
-
-มีกำลังจำกัด
+พรคิดว่า ความรู้สึก "ยังมีอะไรค้างอยู่" จะเบาลง
 
 .
 
-พอรู้สึกถึงความเล็กนั้น
+# แต่ความเต็มไม่ขยับ
 
-พรก็เริ่มเห็นมากขึ้น
+งานที่ปิดไป หายออกจากจอ
 
-.
+แต่พรยังเห็นมันค้างอยู่
 
-เห็นสิ่งนี้ สิ่งนั้น
-
-เห็นสิ่งที่ทำได้ สิ่งที่ยังไม่ได้ทำ
+และไม่ได้รู้สึกเบาลงตาม
 
 .
 
-สิ่งที่พรเห็น เพิ่มขึ้นมาเรื่อย ๆ
+# สิ่งที่พรเห็นในช่วงนั้น
+
+ไม่มีอะไรเข้ามาใหม่จากภายนอก
 
 .
 
-# แล้วพรก็ถือมันไม่หมด
+ที่พรเห็น คือ task เดิมที่ค้างอยู่
 
-งานที่เปิดค้างไว้
+task ที่พรเห็นมาตลอด
 
-สิ่งที่ทำได้
+แต่เพิ่งโผล่กลับขึ้นมาบนจอ
 
-สิ่งที่ยังไม่ได้เริ่ม
-
-.
-
-ที่พรถือได้ มีจำกัด
+แล้วพรก็ขยับไปถือมัน
 
 .
 
-พรลองถือทุกอย่างพร้อมกัน
+มันไม่ได้ใหม่
 
-แล้วระบบก็เต็ม
-
-.
-
-# overload มาจากไหน
-
-> สิ่งที่พรเห็นมีมากกว่าที่ถือไหว — overload มาจาก "ของที่ถือไม่ไหว" หรือจาก "การเห็นที่ไม่มีขอบ"
+มันค้างอยู่แล้ว
 
 .
 
-ถ้ามันคือของเยอะ
+# เห็น กับ ถือ
 
-พอจัดการของบางส่วนไปได้
+เห็น = รับรู้ว่ายังค้างอยู่
 
-ปริมาณที่เหลือก็เบาลง
-
-.
-
-แต่ที่พรเจอ
-
-พอจัดการไปได้ส่วนหนึ่ง
-
-ก็ยังรู้สึกเต็มเหมือนเดิม
+ถือ = กำลังจับมันไว้ในความสนใจ
 
 .
 
-งานที่ปิดไปแล้ว พรเลิกถือมันไปแล้ว
+พรเห็น task นั้นมาตลอด
 
-แต่ไม่ได้เลิกเห็น
-
-สิ่งใหม่เข้ามาแทนที่อันเก่า
-
-แต่ความเต็มมันไม่ขยับ
-
-.
-
-"การเห็นที่ไม่มีขอบ" = การเห็น
-
-ไม่ใช่ของเยอะ
-
-แต่การเห็นของพรมันไม่หยุด
-
-มันเห็นทุกอย่างพร้อมกัน
-
-จนการเห็นตัวมันเอง คือสิ่งที่ไม่เคยพัก
-
-.
-
-# มีจังหวะที่เห็นกับที่ถือพอดีกัน
-
-มีจังหวะที่พรเห็นเท่าที่ถือ
-
-สิ่งที่พรเห็น พอดีกับที่พรเก็บไว้
-
-.
-
-จังหวะนั้น ไม่มี overload
+แต่เพิ่งถือมันในวินาทีนั้น
 
 .
 
 # ก่อนนอน
 
-สิ่งที่พรเห็น ไม่เคยหายไป
+พรยังไม่รู้
 
-ที่ overload คือ "ที่ถือ"
+ว่าความเต็มที่ไม่ขยับ
 
-ไม่ใช่ "ที่เห็น"
+มาจากการเห็นที่ยังวนอยู่
 
-.
-
-พรยังไม่ได้วัดว่า พรถ่วงที่ "ของเยอะ" หรือที่ "การเห็นไม่มีขอบ" มากกว่า
+หรือจากการถือที่ไม่เคยปล่อยจริง
 
 .
 
-> ครั้งล่าสุดที่รู้สึก overload — พรกำลัง "ถือไม่ไหว" หรือ "เห็นไม่มีขอบ"
+> ครั้งล่าสุดที่ปิดงานแล้วแต่ไม่เบาลง — พร "เลิกเห็น" มัน หรือแค่ "ขยับไปถือ" อันใหม่
 
 .
 
-#Adduckivity #DuckOS #NeuroDivergent #Overload #Finitude
+#Adduckivity #DuckOS #NeuroDivergent #Overload #Attention
