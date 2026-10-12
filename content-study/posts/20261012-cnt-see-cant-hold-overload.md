@@ -14,7 +14,7 @@ Rewrite r1 (v2) — pre-rewrite findings กับ v1:
 v2 spine (ตาม brief order เป๊ะ — rule 38): รู้สึกตัวเองเล็ก (เหตุการณ์จริง) → เห็นมากขึ้น → ถือไม่หมด → ระบบเต็ม → สิ่งที่เห็นไม่หาย (สิ่งเดียวที่คงอยู่)
 Core (compile-able): ที่ overload คือ "ที่ถือ" ไม่ใช่ "ที่เห็น"
 Reskin guards (checked): possible-vs-capacity (capability ledger — ไม่ใช่) / embrace-the-limit (32GB constraint reframe — ไม่ใช่) / decision-fatigue (choosing scene — ไม่ใช่) / world-fast / count-breath — 0 คำศัพท์พี่น้องใน body
-CUT zero-count (body+hashtags → 0): protocol / Law / H2 / table / "โหมดที่" / "ควร" / "จง" / 32GB / Possible / Capacity / คุณ / คับ / ครับ / "วันหนึ่ง" / "ครั้งหนึ่ง" / คำถามคืนนี้
+CUT zero-count (body+hashtags → 0): protocol / Law / H2 / table / "โหมดที่" / "ควร" / "จง" / 32GB / Possible / Capacity / คุณ / คับ / ครับ / "วันหนึ่ง" / "ครั้งหนึ่ง" / คำถามคืนนี้ / "คนละตัว" (verdict ตาม steer r2) / list-label
 Hashtags: #Adduckivity #DuckOS #NeuroDivergent #Overload #Finitude
 Notion: page 3f7df8d8-8d8c-8123-a706-cab68c56cbd1 (PATCH in place, Status → rewritten)
 -->
@@ -85,15 +85,29 @@ Notion: page 3f7df8d8-8d8c-8123-a706-cab68c56cbd1 (PATCH in place, Status → re
 
 .
 
-สองอย่างนี้หน้าตาคล้ายกัน
+ถ้ามันคือของเยอะ
 
-แต่เป็นคนละตัว
+พอจัดการของบางส่วนไปได้
+
+ปริมาณที่เหลือก็เบาลง
 
 .
 
-"ของที่ถือไม่ไหว" = list
+แต่ที่พรเจอ
 
-ของที่เห็นเยอะเกินกว่าที่พรจะเก็บได้หมด
+พอจัดการไปได้ส่วนหนึ่ง
+
+ก็ยังรู้สึกเต็มเหมือนเดิม
+
+.
+
+งานที่ปิดไปแล้ว พรเลิกถือมันไปแล้ว
+
+แต่ไม่ได้เลิกเห็น
+
+สิ่งใหม่เข้ามาแทนที่อันเก่า
+
+แต่ความเต็มมันไม่ขยับ
 
 .
 
