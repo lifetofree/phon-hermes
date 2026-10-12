@@ -1,107 +1,109 @@
 <!--
 ContentID: 20261012-CNT-DILIGENCE-INSIDE-NOT-OUTSIDE
-Title: พรทำงานหนัก — แต่พรเลือกทำงานกับข้างใน ไม่ใช่ข้างนอก
+Title: โพสต์งานเสร็จแล้ว — แต่พรยังรู้สึกอยากทำอะไรกับยอดวิว (critic r1 §6 verbatim)
 Slug: diligence-inside-not-outside
-Type: CURRENT FORM (system/mindset, post-#17 synthesis) — r1 self-rewrite (v2) 2026-10-12
+Type: CURRENT FORM (system/mindset, post-#17 synthesis) — pair #47 r1 rewrite (v2 → v3), thesis-selection round
 Origin (user brief, verbatim): "You must diligently work either on your own reasoning or on things out of your control — take great care with the inside and not what's outside."
-Fork answer (rule 36, evidence-source): ฉาก attested = หลังโพสต์งาน หันไปดูยอดวิว (SSOT anchor ยอดวิว = สิ่งที่คุมไม่ได้ ตาม Main_Data_for_UDO.md:259-260) — brief ไม่มี invented ฉากใด
-Rewrite r1 (v2) — pre-rewrite findings กับ v1:
-  (1) verdict-after-fork: "สองทางนี้หน้าตาคล้ายกัน / แต่เป็นคนละที่" = สรุปเร็วไป (grammar เดียวกับ steer r2 ของโพสต์พี่น้อง see-cant-hold) → v2 เดินเป็นเงื่อนไข: แรงลงผล = ไม่มีอะไรกลับ / แรงลงเหตุผล = แกะกลับได้ — ความต่างโผล่เอง
-  (2) invented-time-marker: section "ครั้งหนึ่ง ที่แรงไหลไปข้างนอก" → "มีจังหวะ" hedged ตาม design (EN #135 / pair #43 lesson)
-  (3) thesis ×2 (rule 48): H3-subtitle + ก่อนนอน verbatim → เหลือ ก่อนนอน จุดเดียว; H3-subtitle ตัด (H3-หลัง-H1 ตายใน rewrites หลัง #17)
-  (4) "คำถามคืนนี้" label ตัด (EN #43) + double-beat ท้าย near-miss ทำความสะอาด
-  (5) def "ข้างนอก = ผล" ยุบเข้าเงื่อนไข walk (ยอดวิว/คำตอบ ถูก instantiate ในนั้น) — เหลือ def ข้างใน จุดเดียว (รูปแบบเดียวกับ r2 พี่น้อง: def รอดข้างเดียว)
-v2 spine (ตาม brief order): นั่งทำงาน รู้ว่าขยัน → สองทิศทาง (เหตุผล vs ผล) → เลือกดูแลข้างใน → มีจังหวะแรงไหลไปข้างนอก (view counter) → ก่อนนอน (thesis ×1 + ยังไม่วัด + คำถาม)
-SSOT anchor (header only — ใช้ UNLABELED): Main_Data_for_UDO.md:259-260 Dichotomy of Control / โฟกัส Output ที่เราสร้าง ตัดสิ่งที่คุมไม่ได้
-Reskin guards: ai-race-what-we-can-control (indicator-answers-wrong-question — ไม่ใช่) / discipline-trap (comparison — ไม่ใช่) / possible-vs-capacity (ledger — ไม่ใช่) / see-cant-hold-overload (see/hold — ไม่ยืม device; คำ "overload/ถือ/เห็น" = 0 ใน body)
-CUT zero-count (body+hashtags → 0): protocol / Law / H2 / table / "โหมดที่" / "ควร" / "จง" / Dichotomy / Stoicism / "ควบคุมไม่ได้" / ไฟเขียว / GPU / 32GB / Possible / Capacity / คุณ / คับ / ครับ / "ครั้งหนึ่ง" / "คนละที่" / "คำถามคืนนี้" / overload / ถือ
-Hashtags: #Adduckivity #DuckOS #NeuroDivergent #Focus #Reasoning
-Candidate hooks: A (USED) เดิม
-Notion: page 3f7df8d8-8d8c-8105-a772-914c318f5e74 (PATCH in place, Status → rewritten)
+Version chain: v1 (5a0276d) → v2 (761ba03, 85wc) → v3 (this).
+  Archives: web-archive/20261012-diligence-inside-not-outside-{v1,v2}.md + benz-dna-critique-r1.md
+Critique r1: web-archive/20261012-diligence-inside-not-outside-benz-dna-critique-r1.md (quote-verify 6/6 HIT live v2 — q1/q3 = multi-block joins, per-fragment 7/7, not stale)
+Verdict: ยังไม่ Freeze — "ปัญหาไม่ใช่ภาษา แต่เป็นการเลือก Thesis" — critic เลือกแกน B (งานจบแล้ว แต่ยังอยากจัดการผลลัพธ์) ทิ้งแกน A (ความขยันสองทิศทาง — philosophy ที่เหตุการณ์เดียวไม่พอรองรับ)
+Gate question (critic r1, rule 36) ANSWERED (user via clarify 2026-10-12): **ไม่ได้ลงมือทำอะไรต่อ — แค่รู้สึกอยากทำ**
+  => ตาม critic: "บทนี้อาจไม่ได้พูดเรื่อง การใช้แรงผิดที่ เลย แต่อาจกำลังพูดถึง ความรู้สึกว่างานยังไม่จบ ทั้งที่ส่วนที่พรทำได้จบไปแล้ว"
+  => ไม่มีการตัดสินความรู้สึก (critic §4: "ยังไม่ตัดสินว่าความรู้สึกนั้นถูกหรือผิด") — ความรู้สึกอยากทำ = ข้อมูล ไม่ใช่ความผิดพลาด (SSOT Law #1 unlabeled)
+r1 implementations (critic lines verbatim where given):
+  (1) §6 retitle verbatim: "โพสต์งานเสร็จแล้ว — แต่พรยังรู้สึกอยากทำอะไรกับยอดวิว" — ตัด Control/Focus/Reasoning ทั้งชุด (critic: "ไม่ต้องใส่คำว่า Control, Focus หรือ Reasoning เพื่อให้เรื่องดูเป็นระบบ")
+  (2) §4 opening = critic's direction: เริ่มที่โพสต์เสร็จ ตัด "นั่งลงทำงาน และรู้ว่าพรกำลังขยัน" (false clarity) + "สองทิศทาง" (กรอบที่สร้างเอง) — ใช้ critic lines: "งานที่พรแก้ได้ในตอนนั้นก็จบไปแล้ว / แต่พรยังไม่หยุดคิดถึงมัน / พรเปิดดูยอดวิว แล้วเริ่มรู้สึกว่าอยากทำอะไรสักอย่างกับตัวเลขนั้น" + "ยังไม่ตัดสินว่าความรู้สึกนั้นถูกหรือผิด"
+  (3) §3 "ทำงานกับตัวเลข" ต้องชัดว่าหมายถึงอะไร → ตอบด้วยข้อเท็จจริงจาก gate: ไม่ได้ลงมือทำอะไรเลย — critic's menu ใช้เป็น negative list (ไม่ได้รีเฟรชซ้ำ / ไม่ได้แก้โพสต์ / ไม่ได้วางแผน hook / ไม่ใช่นั่งสงสัยทำไมยอดไม่ขึ้น) — มีแค่ความรู้สึกอยากลงมือ โดยไม่มีอะไรให้ลงมือ
+  (4) §2 reframe: การดูยอดวิวไม่ผิดในตัวเอง (feedback ที่ตอบคำถามได้จริง — critic verbatim "คนเห็นโพสต์มากน้อยแค่ไหน") — คู่ตรงข้าม ควบคุมได้=ควร/คุมไม่ได้=ไม่ควร ตายทั้งคู่; คำถามใหม่ (critic): "ตัวเลขกำลังจะตอบคำถามอะไรของพร และตอนนั้นมีการตัดสินใจอะไรที่ต้องใช้มันหรือเปล่า" — ยังตอบไม่ได้
+  (5) §5 ending เดิม (thesis ข้างใน/ข้างนอก + "ยังไม่ได้วัด") ตายทั้งก้อน — critic: "ยังไม่ต้องวัด" (System ก่อน Signal) → จบด้วยความรู้สึกยังไม่จบ + inspectable: "ความรู้สึกนั้นนำไปสู่การกระทำอะไรจริง ๆ หรือเปล่า" (critic §6 direction "ตรวจว่าความรู้สึกนั้นนำไปสู่การกระทำอะไรจริง ๆ")
+  (6) §1 spine เก็บ: ปิดงานสำเร็จ → คาดเบาลง → อยากจัดการกับยอดวิว → ไม่มีอะไรให้ทำกับมันโดยตรง (critic: "นี่คือจุดที่ควร Inspect")
+Core (compile-able, event-grounded): งานที่ทำได้จบแล้ว — ความรู้สึกว่ายังต้องทำอะไรอีก ยังไม่จบ
+CUT zero-count (body + hashtags → 0): "ขยัน" / "สองทิศทาง" / "ข้างใน" / "ข้างนอก" / "ควบคุม" / "คุมได้" / "คุมไม่ได้" / Control / Focus / Reasoning / "แรง" / "วัด" / "ควร" / "จง" / "โหมดที่" / protocol / Law / H2 / table / คุณ / คับ / ครับ / "เหตุผลที่พรคุม" / Dichotomy / Stoicism
+Reskin guards: see-cant-hold-overload (pair #46 เพิ่ง publish — พี่น้องใกล้มาก: ต่างที่ #46 = งาน"อื่น"เข้ามาในความสนใจ / อันนี้ = งาน"ตัวเดิม"ที่จบแล้วยังรู้สึกต้องจัดการผล — ห้ามยืมคำ ค้าง/เต็ม/ถือ/เห็นมากขึ้น = 0) / ai-race / discipline-trap / possible-vs-capacity
+Hashtags: #Adduckivity #DuckOS #Attention #WritingInPublic
+Register target: พร / เรา 0 (personal no-answer post) / คุณ 0 / คับ 0
+Notion: page 3f7df8d8-8d8c-81d1-b2e0-f90354194e22 (PATCH in place — Name ใหม่ + body replace_content + Status → rewritten)
 -->
 
-# พรทำงานหนัก — แต่พรเลือกทำงานกับข้างใน ไม่ใช่ข้างนอก
+# โพสต์งานเสร็จแล้ว — แต่พรยังรู้สึกอยากทำอะไรกับยอดวิว
 
 .
 
-พรนั่งลงทำงาน
+พรโพสต์งานเสร็จแล้ว
 
-และรู้ว่าพรกำลังขยัน
-
-.
-
-แต่พรเพิ่งสังเกต
-
-ว่าความขยันนี้มีสองทิศทาง
-
-หนึ่ง — ไปที่การคิด การเหตุผล ที่พรคุมได้
-
-อีกทาง — ไปที่ผล ที่พรคุมไม่ได้
+งานที่พรแก้ได้ในตอนนั้น ก็จบไปแล้ว
 
 .
 
-พรเลือกดูแลข้างใน
-
-ไม่ใช่ข้างนอก
+แต่พรยังไม่หยุดคิดถึงมัน
 
 .
 
-# สองทิศทางของแรง
+พรเปิดดูยอดวิว
 
-> พรกำลัง "ขยัน" กับเหตุผลที่พรคุมได้ — หรือกับผลที่พรคุมไม่ได้?
-
-.
-
-ถ้าแรงไปที่ผล
-
-ยอดวิวไม่ขยับตามแรงที่พรเหวี่ยงไป
-
-คำตอบไม่มาเพราะพรเพิ่มแรง
+แล้วเริ่มรู้สึกว่า อยากทำอะไรสักอย่างกับตัวเลขนั้น
 
 .
 
-แต่แรงที่ลงที่เหตุผล แกะกลับได้
+# แต่ไม่มีอะไรให้ทำกับมันโดยตรง
 
-คิดไม่ตรง ก็คิดใหม่
-
-ตัดเกิน ก็ตัดกลับ
+พรไล่ดูว่า ความรู้สึก "อยากทำอะไรสักอย่าง" นั้น พอมีอะไรให้ทำจริงไหม
 
 .
 
-"ข้างใน" = วิธีคิด การตัด การเลือก ว่าอะไรจะอยู่ อะไรจะไป
+ไม่ได้อยากรีเฟรชยอดซ้ำ ๆ
 
-ที่พรทำงานกับมันได้จริง
+ไม่ได้อยากกลับไปแก้โพสต์
 
-.
+ไม่ได้อยากวางแผน hook โพสต์ถัดไป
 
-# มีจังหวะ ที่แรงไหลไปข้างนอก
-
-โพสต์งานเสร็จ
-
-พรหันไปดูยอดวิว
+ก็ยังไม่ใช่นั่งสงสัยว่าทำไมยอดไม่ขึ้น
 
 .
 
-พรรู้สึกอยาก "ทำงาน" กับตัวเลขนั้น
+มันเป็นความรู้สึกอยากลงมือ
 
-ทั้งที่ตัวเลขนั้น ไม่ได้ทำงานด้วยพร
+โดยที่ยังไม่มีอะไรให้ลงมือ
+
+.
+
+# การดูยอดวิวยังไม่ใช่ปัญหา
+
+การเปิดดูยอดวิว ไม่ได้ผิดในตัวมันเอง
+
+.
+
+มันเป็น feedback ที่ตอบคำถามได้จริง
+
+เช่น คนเห็นโพสต์มากน้อยแค่ไหน
+
+.
+
+จุดที่พรสังเกตตอนนี้คือ
+
+ตัวเลขนั้นกำลังจะตอบคำถามอะไรของพร
+
+และตอนนั้น มีการตัดสินใจอะไรที่ต้องใช้มันหรือเปล่า
+
+.
+
+พรยังตอบไม่ได้
 
 .
 
 # ก่อนนอน
 
-ความขยันที่ลงกับข้างใน
+งานที่พรทำได้ จบไปแล้ว
 
-ไม่ใช่ความขยันที่ลงกับข้างนอก
-
-.
-
-พรยังไม่ได้วัดว่า วันนี้แรงของพรลงที่ไหนมากกว่า
+แต่ความรู้สึกว่า ยังต้องทำอะไรอีก ยังไม่จบ
 
 .
 
-> วันนี้ พรขยันกับอะไร — กับเหตุผลที่พรคุมได้ หรือกับผลที่พรคุมไม่ได้
+ครั้งล่าสุดที่ความรู้สึกนั้นมา
+
+มันนำไปสู่การกระทำอะไรจริง ๆ หรือเปล่า
 
 .
 
-#Adduckivity #DuckOS #NeuroDivergent #Focus #Reasoning
+#Adduckivity #DuckOS #Attention #WritingInPublic
