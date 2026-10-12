@@ -3620,9 +3620,9 @@
   "title": "โพสต์งานเสร็จแล้ว — แต่พรยังรู้สึกอยากทำอะไรกับยอดวิว",
   "date": "2026-10-12T00:00:00",
   "link": "https://app.notion.com/p/3f7df8d88d8c81d1b2e0f90354194e22",
-  "words": 69,
+  "words": 59,
   "file": "/home/lifetofree/hermes-agent/content-study/posts/20261012-cnt-diligence-inside-not-outside.md",
-  "note": "pair #47 r1 rewrite (v3, 69wc, 0.81×v2) — Benz r1 thesis-selection: ทิ้งแกน A (ขยันสองทิศทาง) เลือกแกน B ตาม critic; gate ตอบ 'ไม่ได้ลงมือทำ' → บท = ความรู้สึกว่างานยังไม่จบ; title/opening = critic verbatim; Notion 3f7df8d8-8d8c-81d1-b2e0-f90354194e22 PATCH Name ใหม่ + rewritten (40 blocks 13/13); รอ r2"
+  "note": "pair #47 CLOSED 2026-10-12 — chain v1→v2→v3→publish(59wc, 0.86×v3, grades 12/12); Benz r2 freeze conditions ครบ (feedback section cut, negative list ย่อ, gate two-layers ตอบในเนื้อ); Notion 3f7df8d8-8d8c-81d1-b2e0-f90354194e22 Status published (46 blocks, markers 13/13); archives ครบทุกรอบ"
  },
  {
   "slug": "20261012-see-cant-hold-overload-benz-dna-critique-r5",
@@ -3639,5 +3639,21 @@
   "link": "https://app.notion.com/p/3f7df8d88d8c8187829bceaa15db2d52",
   "words": 69,
   "file": "/home/lifetofree/hermes-agent/content-study/web-archive/20261012-see-cant-hold-overload-publish.md"
+ },
+ {
+  "slug": "20261012-diligence-inside-not-outside-benz-dna-critique-r2",
+  "title": "Benz-DNA critique r2 — diligence v3 (ใกล้ Freeze; 7/7 effective quote-verify)",
+  "date": "2026-10-12T00:00:00",
+  "link": null,
+  "words": 500,
+  "file": "/home/lifetofree/hermes-agent/content-study/web-archive/20261012-diligence-inside-not-outside-benz-dna-critique-r2.md"
+ },
+ {
+  "slug": "20261012-diligence-inside-not-outside-publish",
+  "title": "โพสต์งานเสร็จแล้ว — แต่พรยังรู้สึกอยากทำอะไรกับยอดวิว (publish, 59 wc-w, grades 12/12)",
+  "date": "2026-10-12T00:00:00",
+  "link": "https://app.notion.com/p/3f7df8d88d8c81d1b2e0f90354194e22",
+  "words": 59,
+  "file": "/home/lifetofree/hermes-agent/content-study/web-archive/20261012-diligence-inside-not-outside-publish.md"
  }
 ]

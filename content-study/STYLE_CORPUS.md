@@ -1556,3 +1556,12 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - Publish moves: bold compile line ×1 hedged "อาจ" ("งานที่เสร็จไป กับสิ่งที่ยังอยู่ในความสนใจ อาจไม่ได้ลดลงพร้อมกัน") · closer เปลี่ยน narrator พร→เรา (ครั้งแรกของ pair นี้) จบ inspectable ไม่มีคำถามตรง
 - Battery: 69 wc-w (1.64× v5 — publish ขยายหลัง 3 รอบตัด), H1 3 + H3 1, beats 16, bold 1, พร 14/เรา 2/คุณ 0/คับ 0, CJK 0
 - Notion `3f7df8d8-8d8c-8187-829b-ceaa15db2d52` PATCH 200×2 → 55 blocks markers 11/11 **Status → published**; publish archive byte-identical (web-archive/20261012-see-cant-hold-overload-publish.md) + critique r5 + v4 snapshot; skill item (181) gate-question grammar; index n=450
+
+### 2026-10-12 — pair #47 CLOSED (diligence-inside-not-outside → แกน B: งานจบแล้ว แต่ความรู้สึกอยากลงมือยังไม่จบ)
+
+- ครบรอบ: v1 85 (thesis สองทิศทาง) → r1 self (v2 69: verdict-after-fork ตาย) → Benz r1 thesis-selection + gate "ทำอะไรต่อจริง?" ตอบ "ไม่ได้ลงมือ" (v3 69: แกน A ตายทั้งแกน, title/opening = critic verbatim) → Benz r2 "ใกล้ Freeze" (ตัด feedback section + ย่อ negative list + gate "ตรวจตอนนั้นหรือตอนเขียน?") → **publish 59 (0.86× v3)**
+- Grades vs r2: **12/12 PASS** — feedback section ตายทั้ง section (รวมคำ "feedback" + two-question lens — critic: "ตอบข้อโต้แย้งที่คนอ่านยังไม่ได้ยก") · negative list ย่อ 4→2 (รีเฟรช/ทำไมยอดไม่ขึ้น ตาย) · killer line = arrival ผ่านเสียงเหตุการณ์ ("แค่รู้สึกว่า น่าจะมีอะไรให้ทำต่อ" — ไม่ต้องมีรายการพิสูจน์) · old closer ตาย (ห้ามตรวจผลลัพธ์ของความรู้สึก) · จบด้วยความไม่ลงรอย ไม่มีคำถาม ("บางที...อาจไม่ใช่ว่าต้องทำอะไรเพิ่ม แต่เป็นเหตุผลที่พรยังรู้สึกว่าต้องทำ")
+- **Gate two-layers ตอบในตัวเนื้อ** (critic: "สิ่งที่เกิดตอนดูยอดวิว กับสิ่งที่เพิ่งเข้าใจตอนเขียน = คนละชั้นของ Observation"): ชั้นตอนนั้น "ทั้งที่พรถามตัวเองแล้ว ก็ยังบอกไม่ได้ว่าอยากทำอะไร" + ชั้นตอนเขียน "พรเพิ่งสังเกตว่า" — two observation layers แยกชัด
+- Publish moves: bold compile line = เรา-carried universal hedged "อาจ" ("บางครั้งงานที่เราทำเสร็จแล้ว กับความรู้สึกว่าเราควรทำอะไรต่อ อาจไม่ได้จบพร้อมกัน") · closer บางที-hedge (owner call ต่อยอดไม่รู้) · title เดิมคง (ไม่มี control-vocab)
+- Battery: 59 wc-w (0.86× v3), H1 3 + H3 1, beats 13, bold 1, พร 15/เรา 2/คุณ 0/คับ 0, CJK 0, insight-once ×1
+- Notion `3f7df8d8-8d8c-81d1-b2e0-f90354194e22` PATCH 200×2 → 46 blocks markers 13/13 **Status → published**; archives critique r1+r2 + v1/v2 snapshots + publish byte-identical; skill item (182) justification-list + preemptive-defense grammar; index n=454
