@@ -1,51 +1,26 @@
 <!--
-ContentID: 20261012-CNT-DILIGENCE-INSIDE-NOT-OUTSIDE (placeholder)
+ContentID: 20261012-CNT-DILIGENCE-INSIDE-NOT-OUTSIDE
 Title: พรทำงานหนัก — แต่พรเลือกทำงานกับข้างใน ไม่ใช่ข้างนอก
 Slug: diligence-inside-not-outside
-Type: CURRENT FORM (system/mindset, post-#17 synthesis) — fresh single-idea brief drafted straight into the form
-Origin (user, 2026-10-12, verbatim): "You must diligently work either on your own reasoning or on things out of your control — take great care with the inside and not what's outside."
-Interpretation (the brief's "either A or B" is the mechanism, the "take care with the inside" is the direction):
-  diligent effort has two places to land —
-    inside  = one's own reasoning / process / craft (controllable)
-    outside = the outcome / response / result (out of control)
-  the care goes to the INSIDE, not the outside.
-Core (compile-able, H3): ความขยันที่ลงกับข้างใน — ไม่ใช่ข้างนอก
-Mechanism (gap): effort is finite; it can be aimed at the reasoning you control OR the outcome you don't. Diligence aimed outside dissipates (you can't "work" an outcome); diligence aimed inside compounds (you can work the reasoning).
-Dispatch question (forks the mechanism's own 2 failure shapes — no third invented):
-  > พรกำลัง "ขยัน" กับเหตุผลที่พรคุมได้ — หรือกับผลที่พรคุมไม่ได้?
-    - Mode A  ข้างใน = เหตุผล (the reasoning / process you control)
-    - Mode B  ข้างนอก = ผล (the outcome you can't control)
-Worked example (load-bearing, grounded ONLY in the user's own practice — drafting a post):
-  inside = เหตุผลว่าอะไรจะเขียน / ตัดตรงไหน / ทำไม (the reasoning that shaped the draft)
-  outside = ยอดวิว / คำตอบ / ผล (the result that does not come from พร's hands)
-Near-miss (boundary case, one case ⇒ hedged): the moment AFTER posting — พร catches itself watching the view counter, wanting to "work" on something it can't work.
-SSOT anchor (header only — used UNLABELED in body, per rule 1c):
-  ~/hermes-agent/duck-os/Main_Data_for_UDO.md:259-260 — Stoicism "Dichotomy of Control (แยกสิ่งที่คุมได้และคุมไม่ได้)" / โฟกัสแค่ Output ที่เราสร้าง (ตัวคอนเทนต์, ระบบ) และตัดสิ่งที่คุมไม่ได้ (ยอดวิว, อัลกอริทึม, คำวิจารณ์) / "ถ้าระบบกำลังกังวลกับสิ่งที่คุมไม่ได้ = เกิด Error"
-Reskin guards (checked against siblings):
-  - ai-race-what-we-can-control (2026-09-29): that post's core = an INDICATOR answers the wrong question (ไฟเขียว / GPU-on-CPU boot). Different core. This post = where DILIGENT EFFORT lands (reasoning vs outcome). No re-map.
-  - discipline-trap (2026-10-10): that post = judging your own discipline by others' visible output (comparison). This post = directing your own effort inside vs outside (no comparison, no other person). No reuse of the "เห็นเขาทำทุกวัน" scene.
-  - possible-vs-capacity: that post = Possible(list) vs Capacity(hours/energy). This post = reasoning(controllable) vs outcome(uncontrollable). Different axes. "outside" here is NOT "Capacity."
-  - see-cant-hold-overload (2026-10-12): that post = the SEEING is invariant while the HOLDING overloads. This post = effort direction (inside vs outside). No reuse of the see/hold device.
-Design (CURRENT FORM):
-  - H1 = condition (diligent, but the effort is aimed at the inside not the outside); H3 = compile-able definition (effort lands on the reasoning, not the outcome)
-  - open with the story (sitting down to work, the effort splitting in two), never a metric
-  - ONE dispatch question → 2 named modes (described, not "โหมดที่ N" labels)
-  - worked example = concrete artifacts (the draft / the reasoning / the view counter) + near-miss immediately after
-  - success = the post stands on the inside/outside distinction, never on form
-  - closer = standalone night question (fresh observation, not a thread compilation)
-Register target: พร (narrator + universal claims) / เรา 0 / คุณ 0 / คับ 0
-CUT zero-count list (body + hashtags; baselines → 0): protocol / Law / H2 / table / checklist / Tiny Experiment / Success Criteria / "โหมดที่" / "ควร" / "จง" / "Dichotomy" / "Stoicism" / "ควบคุมไม่ได้" / "ไฟเขียว" / "GPU" / คุณ / คับ / ครับ
+Type: CURRENT FORM (system/mindset, post-#17 synthesis) — r1 self-rewrite (v2) 2026-10-12
+Origin (user brief, verbatim): "You must diligently work either on your own reasoning or on things out of your control — take great care with the inside and not what's outside."
+Fork answer (rule 36, evidence-source): ฉาก attested = หลังโพสต์งาน หันไปดูยอดวิว (SSOT anchor ยอดวิว = สิ่งที่คุมไม่ได้ ตาม Main_Data_for_UDO.md:259-260) — brief ไม่มี invented ฉากใด
+Rewrite r1 (v2) — pre-rewrite findings กับ v1:
+  (1) verdict-after-fork: "สองทางนี้หน้าตาคล้ายกัน / แต่เป็นคนละที่" = สรุปเร็วไป (grammar เดียวกับ steer r2 ของโพสต์พี่น้อง see-cant-hold) → v2 เดินเป็นเงื่อนไข: แรงลงผล = ไม่มีอะไรกลับ / แรงลงเหตุผล = แกะกลับได้ — ความต่างโผล่เอง
+  (2) invented-time-marker: section "ครั้งหนึ่ง ที่แรงไหลไปข้างนอก" → "มีจังหวะ" hedged ตาม design (EN #135 / pair #43 lesson)
+  (3) thesis ×2 (rule 48): H3-subtitle + ก่อนนอน verbatim → เหลือ ก่อนนอน จุดเดียว; H3-subtitle ตัด (H3-หลัง-H1 ตายใน rewrites หลัง #17)
+  (4) "คำถามคืนนี้" label ตัด (EN #43) + double-beat ท้าย near-miss ทำความสะอาด
+  (5) def "ข้างนอก = ผล" ยุบเข้าเงื่อนไข walk (ยอดวิว/คำตอบ ถูก instantiate ในนั้น) — เหลือ def ข้างใน จุดเดียว (รูปแบบเดียวกับ r2 พี่น้อง: def รอดข้างเดียว)
+v2 spine (ตาม brief order): นั่งทำงาน รู้ว่าขยัน → สองทิศทาง (เหตุผล vs ผล) → เลือกดูแลข้างใน → มีจังหวะแรงไหลไปข้างนอก (view counter) → ก่อนนอน (thesis ×1 + ยังไม่วัด + คำถาม)
+SSOT anchor (header only — ใช้ UNLABELED): Main_Data_for_UDO.md:259-260 Dichotomy of Control / โฟกัส Output ที่เราสร้าง ตัดสิ่งที่คุมไม่ได้
+Reskin guards: ai-race-what-we-can-control (indicator-answers-wrong-question — ไม่ใช่) / discipline-trap (comparison — ไม่ใช่) / possible-vs-capacity (ledger — ไม่ใช่) / see-cant-hold-overload (see/hold — ไม่ยืม device; คำ "overload/ถือ/เห็น" = 0 ใน body)
+CUT zero-count (body+hashtags → 0): protocol / Law / H2 / table / "โหมดที่" / "ควร" / "จง" / Dichotomy / Stoicism / "ควบคุมไม่ได้" / ไฟเขียว / GPU / 32GB / Possible / Capacity / คุณ / คับ / ครับ / "ครั้งหนึ่ง" / "คนละที่" / "คำถามคืนนี้" / overload / ถือ
 Hashtags: #Adduckivity #DuckOS #NeuroDivergent #Focus #Reasoning
-Candidate hooks (for the critique round):
-  A (USED): พรทำงานหนัก — แต่พรเลือกทำงานกับข้างใน ไม่ใช่ข้างนอก
-  B: ขยันจริง ๆ — ลงกับเหตุผล  ไม่ใช่กับผล
-  C: พรดูแลข้างใน ไม่ใช่ข้างนอก
-Notion: not yet filed (file after battery clean)
+Candidate hooks: A (USED) เดิม
+Notion: page 3f7df8d8-8d8c-8105-a772-914c318f5e74 (PATCH in place, Status → rewritten)
 -->
 
 # พรทำงานหนัก — แต่พรเลือกทำงานกับข้างใน ไม่ใช่ข้างนอก
-
-### ความขยันที่ลงกับข้างใน — ไม่ใช่ข้างนอก
 
 .
 
@@ -55,7 +30,7 @@ Notion: not yet filed (file after battery clean)
 
 .
 
-แต่พรเพิ่งเห็น
+แต่พรเพิ่งสังเกต
 
 ว่าความขยันนี้มีสองทิศทาง
 
@@ -77,39 +52,39 @@ Notion: not yet filed (file after battery clean)
 
 .
 
-สองทางนี้หน้าตาคล้ายกัน
+ถ้าแรงไปที่ผล
 
-แต่เป็นคนละที่
+ยอดวิวไม่ขยับตามแรงที่พรเหวี่ยงไป
 
-.
-
-"ข้างใน" = เหตุผล
-
-คือวิธีคิด การตัด การเลือก ว่าอะไรจะอยู่ อะไรจะไป
+คำตอบไม่มาเพราะพรเพิ่มแรง
 
 .
 
-"ข้างนอก" = ผล
+แต่แรงที่ลงที่เหตุผล แกะกลับได้
 
-คือยอดวิว คำตอบ ผลลัพธ์
+คิดไม่ตรง ก็คิดใหม่
 
-ที่ไม่ได้มาจากมือพร
-
-.
-
-# ครั้งหนึ่ง ที่แรงไหลไปข้างนอก
-
-มีจังหวะที่พรโพสต์งานเสร็จ
-
-แล้วหันไปดูยอดวิว
+ตัดเกิน ก็ตัดกลับ
 
 .
 
-พรรู้สึกว่าอยาก "ทำงาน" กับตัวเลขนั้น
+"ข้างใน" = วิธีคิด การตัด การเลือก ว่าอะไรจะอยู่ อะไรจะไป
 
-ทั้งที่ตัวเลขนั้นไม่ได้ทำงานด้วยพร
+ที่พรทำงานกับมันได้จริง
 
 .
+
+# มีจังหวะ ที่แรงไหลไปข้างนอก
+
+โพสต์งานเสร็จ
+
+พรหันไปดูยอดวิว
+
+.
+
+พรรู้สึกอยาก "ทำงาน" กับตัวเลขนั้น
+
+ทั้งที่ตัวเลขนั้น ไม่ได้ทำงานด้วยพร
 
 .
 
@@ -122,10 +97,6 @@ Notion: not yet filed (file after battery clean)
 .
 
 พรยังไม่ได้วัดว่า วันนี้แรงของพรลงที่ไหนมากกว่า
-
-.
-
-คำถามคืนนี้
 
 .
 
