@@ -2,7 +2,7 @@
 ContentID: 20261015-CNT-NITEN-WATER-HEART
 Title: น้ำเปลี่ยนรูปตามภาชนะ — แต่พรกำลังไหลไปหาอะไร
 Slug: niten-water-heart
-Type: CURRENT FORM (system/mindset, post-#17 synthesis) — v2 self-rewrite after review (2026-10-15)
+Type: CURRENT FORM (system/mindset, post-#17 synthesis) — v3 self-rewrite r2 (2026-10-15, user สั่งเปลี่ยน opening block ใหม่)
 Origin (user brief, verbatim): "The heart of my school—the Niten Ichi-ryQ, or Two Heavens as One—is like water. Water shapes itself according to the vessel that contains it; it flows naturally, effortlessly, yet always toward the most advantageous position."
   (brief typos: "Niten Ichi-ryQ" → Niten Ichi-ryū ; "adventageous" → advantageous — corrected in body)
 
@@ -49,11 +49,27 @@ Notion: file to Content Drafts DB (Status: draft) — PENDING token verify; re-s
 
 # น้ำเปลี่ยนรูปตามภาชนะ — แต่พรกำลังไหลไปหาอะไร
 
-### แกนของสำนักนี้ เหมือนน้ำ
+### วันของพรเปลี่ยนรูปอยู่ทุกวัน
 
 .
 
-สำนักของพร ตั้งชื่อตามวิชาดาบหนึ่ง — Niten Ichi-ryū
+แผนที่เขียนไว้ตอนเช้า กับของจริงตอนเย็น มักไม่เหมือนกัน
+
+พรจัดใหม่ สลับ ตัด ต่อ แล้วเดินต่อ
+
+.
+
+ทำมาจนคล่อง จนเปลี่ยนรูปได้เร็วกว่าเดิม
+
+.
+
+แต่ความคล่องนั้นเอง ที่ทำให้พรเริ่มสงสัย
+
+ถ้าวันเปลี่ยนรูปได้ง่ายขนาดนี้ — แล้วพรกำลังไหลไปทางไหน
+
+.
+
+คำถามนี้ พรเจอคำตอบครึ่งหนึ่งในวิชาดาบเก่า — Niten Ichi-ryū
 
 สองฟ้าเป็นหนึ่ง
 
