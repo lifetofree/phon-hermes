@@ -1565,3 +1565,12 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - Publish moves: bold compile line = เรา-carried universal hedged "อาจ" ("บางครั้งงานที่เราทำเสร็จแล้ว กับความรู้สึกว่าเราควรทำอะไรต่อ อาจไม่ได้จบพร้อมกัน") · closer บางที-hedge (owner call ต่อยอดไม่รู้) · title เดิมคง (ไม่มี control-vocab)
 - Battery: 59 wc-w (0.86× v3), H1 3 + H3 1, beats 13, bold 1, พร 15/เรา 2/คุณ 0/คับ 0, CJK 0, insight-once ×1
 - Notion `3f7df8d8-8d8c-81d1-b2e0-f90354194e22` PATCH 200×2 → 46 blocks markers 13/13 **Status → published**; archives critique r1+r2 + v1/v2 snapshots + publish byte-identical; skill item (182) justification-list + preemptive-defense grammar; index n=454
+
+
+### 2026-10-15 — pair #48 r1 (niten-water-heart — v1 fresh draft → v2 self-rewrite after review; รอ Benz)
+
+- บริบท: fresh CURRENT FORM จาก single-idea brief (Niten Ichi-ryū water = รูปตามภาชนะ แต่ทิศลงหาตำแหน่งได้เปรียบ) — review จับ 4 ประเด็น → v2; v1 snapshot `web-archive/20261015-niten-water-heart-v1.md`
+- บทเรียน r1: (1) **invented-time ×2** ("วันหนึ่งที่มีงานใหม่แทรก" + "บ่ายนั้น") — worked example ประกาศใน header ว่าเป็น SCENARIO แต่ body แต่ง grammar วันจำเพจ → แก้ด้วย habitual/conditional ("งานใหม่แทรกเข้ามา" / "ระหว่างวัน") ตามบทเรียน #43/#46 (2) **question-collapse** — dispatch question ซ้ำ 3 รอบใน 30 บรรทัด (title + H1§2 + blockquote) → title ทำหน้าที่เดียว, H1§2 กลายเป็นหัวทำงาน "รูป กับ ทิศ" (3) "โหมดแรก/โหมดที่สอง" → "ทางแรก/ทางที่สอง" (โหมดที่ = CUT ศัพท์ #46) (4) closer self-report → คำถาม (item 47) (5) thesis-once §5 — H1 กับ body เดิมพูด claim เดียวห่าง 4 beats → unpack "ก่อน" แทน
+- Battery v2: 121 wc-w (0.94× v1), H1 5 + H3 1, beats 22, blockquote 1, พร 13/เรา 2/คุณ 0/คับ 0, CUT 19 ศัพท์ = 0, codepoint CLEAN (ū ตั้งใจ)
+- Notion `3fadf8d8-8d8c-817b-99de-c508937a0913` PATCH 200×2 → 66 blocks markers 9/9 v1 survivors 0 Status → rewritten
+- ⚠️ **Pitfall (source-of-truth):** markdown replace_content shape ถูกบันทึกไว้ใน skill แถว "Update an EXISTING draft" ตั้งแต่ pair #37 — รอบนี้ไปอ่าน STATE.md ที่บันทึกย่อ `{type:"replace_content"}` อย่างเดียว (stale) เลยเสียเวลา 400 ซ้อน; lesson = shape ของ API ให้เช็ค skill ก่อนเสมอ ไม่ใช่ STATE.md; `new_str` อย่างเดียวก็ผ่าน (ไม่ต้องมี old_str); urllib ผ่านหมดรอบนี้ (ไม่เจอ 401 หลอก); Status prop ของ DB นี้ = **select** ไม่ใช่ status type (status-type payload = 400)
