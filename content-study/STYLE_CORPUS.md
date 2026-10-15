@@ -1583,3 +1583,10 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - ผล 3 รอบ: r1 = definition gap ("ทิศ" ไม่มีนิยามในบท) + จุดแข็ง "คล่อง ≠ ก้าวหน้า" + physics "แข็งที่สุด" + "ไหลขึ้น" ตัดสินเร็ว; gate 1 → เจ้าของ: "ทิศ คือ วันนี้ต้องไม่พัง"; r2 = re-spine productivity→system-protection + "จัดวันได้ ≠ ปกป้องวันได้" + ตัด "ไหลขึ้น"; gate 2 → เจ้าของ: "ทั้งหมดนี้เลย" (3 เกณฑ์); r3 = เกณฑ์ร่วมไม่ใช่ checklist + spine "เปลี่ยนรูปเพื่อรักษาทิศ ไม่ใช่เปลี่ยนรูปเพื่อรับทุกอย่างที่เข้ามา" + brief "แก้ตัวอย่างให้เห็น 3 เกณฑ์ตัดสินใจ"
 - Acceptance markers สำหรับเกรด publish: ดู pair-history #48 (10 ข้อ — owned spine, 3 เกณฑ์, จัดวันได้≠ปกป้องวันได้, ตัดไหลขึ้น, physics แข็ง, สถานะตีความ, น้ำ=ภาพ/ประสบการณ์=หลักฐาน, worked example 3 เกณฑ์, เกณฑ์ร่วมไม่ใช่ checklist, ไม่เติมปรัชญา)
 - Skill: item (184) (เลขถัดจาก 183; ห้ามใช้ (32) ซ้ำ — ชน Question-shift budget ของ pair #42); ไฟล์ draft คง v3 (ยังไม่แตะ), Notion คง rewritten (ยังไม่ PATCH) — รอ user ส่ง publish version แล้ว rewrite+PATCH ตามสั่ง
+
+### 2026-10-15 — pair #48 CLOSED (niten-water-heart → publish 197 wc-w = 1.43× v3; markers 12/12 PASS, CUT 0)
+
+- ครบรอบ: v1 129 (fresh) → r1 self v2 121 → r2 user-opening v3 138 → Benz r1-r3 (definition-gap "ทิศ"; gate โดยเจ้าของ "วันนี้ต้องไม่พัง" → "ทั้งหมดนี้เลย") → publish 197
+- Grades: markers 12/12 zero — owned spine H1 "ทิศของพร คือ วันนี้ต้องไม่พัง" · 3 เกณฑ์ bold triple · จัดแผนสำเร็จ≠ปกป้องวันได้ · ไหลขึ้น/ไหลหนี/แข็ง-ต่ำ-ได้เปรียบ/พรว่า = 0 ทั้งไฟล์และ Notion (140 blocks) · เกณฑ์ร่วมไม่ใช่ checklist + บางวัน = แจ้งเลื่อน/ลดขอบเขต · worked example "สมมติว่า" + 3 คำถามตัดสินใจ bold · spine pair "รับทุกอย่าง vs รักษาสิ่งสำคัญ"
+- Publish moves (ลง pair-history): closer จบด้วย RESOLVE ไม่ใช่คำถาม (mirror rule ของ (32)) · interpretive status แทนคำอ้างสำนัก · title หาอะไร→ทางไหน (rule 83, retired zero) · publish ขยาย 1.43× ให้ spine ใหม่มีที่ยืน (cf. #40 1.51×)
+- Battery: 197 wc-w, H1 6 + H3 1, beats 46, bold 16, พร 29/เรา 2/คุณ-คับ 0; Notion PATCH 200×2 Status published; archives: v1 + benz r1/r2/r3 + publish (verbatim ครบ); skill item (184); index n=455 status published-notion

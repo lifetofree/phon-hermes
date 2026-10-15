@@ -3658,12 +3658,12 @@
   },
   {
     "slug": "niten-water-heart",
-    "title": "น้ำเปลี่ยนรูปตามภาชนะ — แต่พรกำลังไหลไปหาอะไร (Niten Ichi-ryū water heart)",
+    "title": "น้ำเปลี่ยนรูปตามภาชนะ — แต่พรกำลังไหลไปทางไหน (Niten Ichi-ryū water heart)",
     "date": "2026-10-15T00:00:00",
     "link": "https://app.notion.com/p/3fadf8d88d8c817b99dec508937a0913",
-    "words": 138,
+    "words": 197,
     "file": "/home/lifetofree/hermes-agent/content-study/posts/20261015-cnt-niten-water-heart.md",
-    "status": "draft-notion",
-    "note": "pair #48 r1 self-rewrite 2026-10-15 — v2 121wc (v1 snapshot web-archive/20261015-niten-water-heart-v1.md): invented-time ×2 ตาย (วันหนึ่ง/บ่ายนั้น→ระหว่างวัน) + question-collapse 3→1 (title เดียว; H1§2→รูป กับ ทิศ; blockquote ตาย) + โหมด→ทาง + closer self-report→คำถาม (item 47) + thesis-once §5 + สำนัก×3; Notion 3fadf8d8-8d8c-817b-99de-c508937a0913 PATCH 200×2 (Status select→rewritten, 66 blocks, markers 9/9, v1 survivors 0); r2 v3 opening event-first (138wc, Notion 74 blocks) — รอ Benz"
+    "status": "published",
+    "note": "pair #48 CLOSED 2026-10-15 — chain v1 129 → v2 121 (self: invented-time/question-collapse) → v3 138 (user opening event-first) → Benz r1-r3 (definition-gap ทิศ; gate ตอบโดยเจ้าของ 2 ชั้น: วันนี้ต้องไม่พัง → 3 เกณฑ์) → publish 197 (1.43× v3); acceptance markers 12/12 PASS CUT 0; Notion 3fadf8d8-8d8c-817b-99de-c508937a0913 Status published (140 blocks); archives v1+benz-r1/r2/r3+publish"
   }
 ]
