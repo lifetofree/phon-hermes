@@ -1,190 +1,163 @@
-# 45 wpm กับ 220 wpm — ช่องทางที่ช้ากว่าคือตัวที่คุณยังใช้พิมพ์อยู่
+# พิมพ์ด้วยเสียงแล้วต้องกลับมาแก้ทุกครั้ง — เราประหยัดแรงได้จริงหรือเปล่า
 
-### ตัวที่ให้ raw text รอแก้ กับตัวที่ให้ข้อความที่กดส่งได้
+### บทวิเคราะห์ก่อนทดลอง — ไม่ใช่รีวิว
 
 <!--
 ContentID: 20261016-CNT-WISPR-FLOW
-Series: standalone tool review — ref: 20260917-cnt-orca-ade-parallel-coding-agents (2026-09-17, v2 TECH form)
-Type: v2 line-per-sentence TECH form (stat-line / signals / mental model / table / two-fork)
-Status: Draft r1 — self-rewrite pre-critique (user direction 2026-10-16: "self-review ตามกฎ corpus แล้ว self-rewrite คง spine เดิม" — pair #46 r1 / #48 r1 pattern)
-R1 SELF-REVIEW (v1 findings, fixes applied):
-- FORM: v1 ใช้ H2 ล้วน 14 หัว (top sections ต้องเป็น `#`, signals `## 1.`–`## 5.` ซ้อนใต้ `# 5 สัญญาณ`) — แก้ตาม canonical v2; ใส่ `###` subtitle ที่หายไป; `#สรุปแบบวิศวกรเป็ด` เป็น H1
-- CLOSER: 🦆⚡ + "System > Keyboard." sign-off ถูกตัด (v2 closer rule — แยกจาก 2026-09 สายเก่า, corpus wins); คับ particle 2→1 (เหลือแค่บรรทัด "คำถามที่แท้จริง…คับ")
-- SSOT UNLABELED: "First Principle: User ≠ Machine" label + `≠` ออกจาก body — เหลือหลักเป็นภาษาไทยไม่ติดป้าย (mapping คงไว้ใน header นี้)
-- BORROWED-LINE (EN #149): caveat v1 ยม canonical sample verbatim ("Evidence ที่ต่อเนื่องกว่า") → เขียนใหม่เป็นถ้อยคำของโพสต์นี้ (ใครเป็นคนทำขั้นแก้)
-- EVIDENCE SPECIFICS (EN #108 class): ชื่อตัวอย่าง "Adithya / Guillain-Barre / Andreessen Horowitz" ไม่มี receipt จาก source — แทนด้วย class ของคำ; ตัวอย่าง self-correction ติดป้าย "feature ที่หน้าเว็บเขาโชว์"
-- REGISTER: คุณ 28→7 / พร 2→5 (expert-credence lines) / bold ลดเหลือ thesis + killer lines + pricing tiers
-- HONESTY: stat-line เติม "ที่ Wispr บอกว่า" (evidence-status verb, rule 178); pricing "ณ วันที่ตรวจ"; funding เหลือบริบท 1 บรรทัด
-- v1 snapshot: web-archive/20261016-wispr-flow-voice-dictation-v1.md
-Sources (researched live 2026-10-16, primary):
-- wisprflow.ai (homepage, fetched live 2026-10-16): "4x faster than typing" — Keyboard 45 wpm vs Flow 220 wpm (vendor demo, not independent test)
-  + features: filler removal / punctuation / formatting / self-corrections / 100+ languages auto-detect / personal dictionary /
-  snippets / per-app style (Formal-Casual-Very casual) + "no plugins required... wherever your cursor is" +
-  privacy: "never sold" + opt-in data use + SOC 2 Type II / ISO 27001 / HIPAA + testimonials
-  (Steven Bartlett "gap between my thought and my delivery collapses", Alex Lieberman "I literally do not use my fingers to type anymore",
-  Elena Verna, Dave Gilboa Warby Parker)
-- wisprflow.ai/pricing (fetched live 2026-10-16): Free $0 = 2,000 words/week desktop + 1,000/week mobile, 100+ languages,
-  dictionary+snippets, limited Notetaker, "no trial countdown or credit card" / Pro $15/user/mo monthly = $12/user/mo annual (20% off)
-  = unlimited dictations + Notetaker longer history + shared dictionary + team analytics / Growth $33→$23 = SSO SAML + enforced HIPAA BAA
-  + admin model-training control / Enterprise custom = SCIM, audit logs, MDM, model training locked off, domain capture
-  + students/educators 50% off + Notetaker full access promo "through October 31"
-- wisprflow.ai/why-flow (fetched live 2026-10-16): Zero-Edit Rate Benchmark — Wispr Flow 90% / OpenAI 71% / ElevenLabs 63% / Siri 52%
-  (SOURCE = Wispr's own benchmark — vendor-reported, no independent replication found) + "most people save over an hour a day" (vendor claim)
-  + "we predate OpenAI's Whisper" + dev features: camelCase/snake_case, file tagging in Cursor+Windsurf, tool names
-  + Wall Street Journal quote "replaces built-in voice transcription with a model that's scary good"
-- docs.wisprflow.ai "What is Wispr Flow?" (fetched live 2026-10-16): internet REQUIRED for transcription; Mac = hold Fn,
-  Windows = Ctrl+Win (customizable; Mac without Fn = Ctrl+Option); iPhone = Flow keyboard; Android = Flow Bubble (hidden in password
-  fields); desktop inserts completed text AFTER stop, not live word-by-word; dictation history stored on-device, deletion permanent
-- wisprflow.ai/notetaker (fetched live 2026-10-16): Mac + Windows only (mobile on roadmap); NO bot joins the meeting (runs on your device);
-  transcript with named speakers + topic-organized summary + next steps; "What did I miss?" catch-up; Ask-across-meetings + web search;
-  MCP = use notes in Claude/ChatGPT; works in-person too; zoom/meet/teams/slack huddles
-- wisprflow.ai/new-funding (via search, dated 2025-11-20): $25M new funding led by Notable Capital w/ Steven Bartlett's Flight Fund,
-  total ~$81M, "to build the Voice OS" (secondary confirmation: vctavern 2026-04-26, aivoicenewsletter 2026-04-14)
-SSOT anchors (verified 2026-10-16, used UNLABELED in body): First Principle "User ≠ Machine — Productivity พังเพราะใช้ระบบผิดประเภท"
-= ~/hermes-agent/duck-os/Main_Data_for_UDO.md:38 (input-channel bottleneck framing); Asset>Activity (งานที่ควรเป็น asset ไม่จมเป็น activity)
-Benchmarks: NOT self-run — all speed/accuracy numbers are vendor-reported (Anti-Hype note in body).
-Candidate hooks (for critique round): (1) 45 vs 220 stat-line (used) (2) "พิมพ์มาทั้งชีวิต — แต่ไม่เคยถามว่ามือมันเร็วได้สุดที่เท่าไร"
-(3) "คุณไม่ได้พิมพ์ช้า — คุณใช้ช่องทางที่ช้ากว่าคิด"
+Series: standalone pre-trial analysis — ref: 20260917-cnt-orca-ade-parallel-coding-agents (v2 TECH form), pair #45 rule 178 (evidence-status classes)
+Type: v2 line-per-sentence TECH form — DECISION ASSET variant (critic's spine: เกณฑ์ 3 ข้อ + Tiny Experiment, ไม่ใช่ feature catalog)
+Status: Draft r2 — re-spine ตาม Benz-DNA critique (2026-10-16) + gate ตอบโดยเจ้าของ: "บทวิเคราะห์จากเอกสารเพื่อช่วยคนตัดสินใจว่าจะทดลองไหม" (rule 36 — answer supplied in the same paste)
+CRITIQUE ARCHIVE: web-archive/20261016-wispr-flow-benz-dna-critique.md (verbatim + baselines; quote-verify HIT 8/8)
+R2 CHANGE LIST (critic จุดต่อจุด):
+- จุด 1 hook: title/hook เดิม 45 vs 220 wpm (vendor marketing) ตาย → title = critic's suggested hook verbatim; แกนใหม่ = critic's spine line verbatim (bold); 45/220/4x/save-over-an-hour หลุดจาก body ทั้งหมด
+- จุด 2 ตารางเหมารวม: ตารางตัดสิน Flow-vs-built-in ตาย → ตาราง "สิ่งที่ต้องตรวจเอง" (ความแม่นยำภาษาไทย / งานแก้หลังพูด / การทำงานข้ามแอป / ความเป็นส่วนตัว) ตาม critic; built-ins ระบุว่าไม่ใช่ระบบเดียวกัน (ไม่เหมารวม); zero-edit 90/52 รอด 1× ในฐานะ vendor-bench "รันโดย Wispr เอง" + ต้องตรวจจุดแก้เองก่อนเชื่อ
+- จุด 3 pricing: Growth แก้เป็น $23 รายเดือน หรือ $18 รายปี (critic re-verified wisprflow.ai/pricing วันเดียวกัน — r1 เขียน "annual $23" ผิด); Free soft/hard cap = hedge 1 บรรทัด ไม่ลงลึก (critic: โพสต์ FB ไม่ต้อง)
+- จุด 4 privacy: ยกขึ้นเป็นเงื่อนไขก่อนตัดสินใจ (ต่ออินเทอร์เน็ตตอน transcribe = ข้อมูลเดินทางผ่านระบบเขา) — ไม่ใช่ tail detail
+- จุด 5: Notetaker + Funding + Enterprise pricing ตัดออกทั้งหมด → กิ่ง park (ข้อมูลอ้างอิงของอีกบทความ — source คงใน header ด้านล่าง)
+- จุด DuckOS: "ท่อ / The bottleneck was never your head" (throughput frame) ตาย → กรอบใหม่ = critic verbatim "คอขวดคือขั้นตอนที่ทำให้ต้องจ่ายแรงเกินจำเป็น" + สามแบบ (พูดลดแรง / พิมพ์ช่วยคิดเป็นลำดับ / เสียงอาจเหนื่อยกว่า)
+- เก็บตาม critic ระบุ: "ตัวที่ให้ raw text รอแก้ กับตัวที่ให้ข้อความที่กดส่งได้" (แกนดีที่สุด — เดินเข้า subtitle + one-line) + "ถ้าของเดิมทำงานได้ — ไม่ต้องเปลี่ยน" + การแยก vendor-claim ออกจากประสบการณ์จริง
+- position blockquote ตั้งแต่ต้น = critic verbatim; 5 สัญญาณคงอยู่แต่ reframe: "ควรทดลองเครื่องมืออื่น" ไม่ใช่ "ต้องใช้ Flow"
+PARKED (กิ่ง, อีกบทความ — critic: "ตัดออกจากโพสต์หลัก แล้วเก็บเป็นข้อมูลอ้างอิงได้"):
+- Notetaker (Mac+Win, no bot, transcript+speakers+summary+next steps, "What did I miss?", ask-across-meetings, MCP→Claude/ChatGPT)
+- Funding: $25M round led by Notable Capital 2025-11, total ~$81M, "build the Voice OS"
+- Enterprise tier: SCIM, audit logs, MDM, model training locked off, domain capture
+Sources (researched live 2026-10-16, primary; pricing re-verified by critic same day):
+- wisprflow.ai (homepage): "4x faster than typing" 45→220 wpm (vendor demo) / filler removal, punctuation, formatting, self-corrections, 100+ languages, personal dictionary, snippets, per-app style (Formal-Casual-Very casual) / "no plugins required... wherever your cursor is" / privacy: "never sold", opt-in data use, SOC 2 Type II, ISO 27001, HIPAA
+- wisprflow.ai/pricing (re-verified 2026-10-16 by Benz): Free $0 = 2,000 words/week desktop + 1,000/week mobile ("no trial countdown or credit card"; docs เพิ่มรายละเอียด soft/hard cap) / Pro $15/user/mo รายเดือน = $12 รายปี / Growth (dictation only) $23 รายเดือน = $18 รายปี (r1 "annual $23" ผิด — แก้ตาม critic) / students-educators 50% off
+- wisprflow.ai/why-flow: Zero-Edit Rate — Flow 90% / OpenAI 71% / ElevenLabs 63% / Siri 52% (Wispr's own benchmark, no independent replication)
+- docs.wisprflow.ai: internet REQUIRED during transcription / desktop inserts text AFTER stop (not live) / Bluetooth earbuds reduce accuracy / dictation history on-device, deletion permanent / Mac Fn + Win Ctrl+Win hotkeys / iPhone keyboard, Android Flow Bubble
+SSOT anchors (verified 2026-10-16, used UNLABELED): Boundary First + Power of Omission (critic: "ถ้าของเดิมทำงานได้ — ไม่ต้องเปลี่ยน" = ทั้งสองอย่างในทางปฏิบัติ); User ≠ Machine แบบที่ถูกต้อง = "คอขวดคือขั้นตอนที่ทำให้ต้องจ่ายแรงเกินจำเป็น" (critic's correction of the throughput frame); Anti-Hype (vendor numbers carry source + no independent bench note); Asset>Activity (ข้อความที่กดส่งได้ = asset, นั่งแก้ = activity) — unlabeled
+Benchmarks: NOT self-run — Flow ยังไม่ติดตั้ง ยังไม่มีผลทดสอบของตัวเอง (โพสต์ประกาศสถานะนี้ตรง ๆ ตั้งแต่ต้น)
+Hooks history: v1/r1 stat-line (45/220 — dead per critic จุด 1) / r2 = critic's hook (used)
 -->
 
-คุณพิมพ์เร็วแค่ไหน
+พิมพ์ด้วยเสียงไปเรื่อย ๆ แล้วเจอตัวเองนั่งแก้อยู่ทุกครั้ง
 
 .
 
-45 wpm คือค่าเฉลี่ยความเร็วพิมพ์ของคีย์บอร์ด
+> **โพสต์นี้วิเคราะห์จากเอกสารของ Wispr Flow ยังไม่ใช่รีวิวจากการใช้งานจริงของพร**
 
-220 wpm คือความเร็วที่ Wispr บอกว่าเสียงของคุณคิดได้จริง
+พรยังไม่ได้ติดตั้ง Flow ยังไม่มีผลทดสอบของตัวเอง — ทุกอย่างในโพสต์นี้มาจากสามที่: หน้าเว็บผู้ผลิต pricing ออฟฟิเชียล และ docs
 
-.
-
-ถ้าของเดิมทำงานได้ — ไม่ต้องเปลี่ยน
-
-โพสต์นี้ไม่ได้มาให้เลิกพิมพ์คีย์บอร์ด
-
-มันมาสำหรับคนที่ "พิมพ์ด้วยเสียงแล้วต้องแก้" — คนที่ voice input ในตัวให้มาทั้งก้อน แล้วต้องนั่งขัดทั้งก้อนก่อนกดส่ง
+**ปัญหาไม่ใช่ว่าพิมพ์ด้วยเสียงได้เร็วแค่ไหน แต่คือหลังพูดจบ เรายังต้องใช้แรงอีกเท่าไร กว่าจะได้ข้อความที่ใช้งานได้จริง**
 
 .
 
 คำถามที่แท้จริงของโพสต์นี้คับ:
 
-> **เมื่อไหร่ที่ "พิมพ์ด้วยเสียง" ในตัวยังพอ — และเมื่อไหร่ที่มันเริ่มไม่พอ**
+> **เมื่อไหร่ที่ voice input ในตัวยังพอ — และเมื่อไหร่ที่ควรทดลองเครื่องมือที่ช่วยจัดการข้อความหลังพูด**
 
 .
 
-# 5 สัญญาณว่า voice input ในตัว เริ่มไม่พอ
+ถ้าของเดิมทำงานได้ — ไม่ต้องเปลี่ยน
+
+โพสต์นี้ไม่ได้มาชวนเปลี่ยนเครื่องมือ — มาช่วยตัดสินใจว่า ปัญหาที่กำลังเจออยู่ คุ้มไหมกับการเพิ่มเครื่องมืออีกตัว และถ้าคุ้ม ควรทดลองยังไงก่อนตัดสิน
+
+บางคนที่อ่านจบควรได้ข้อสรุปว่า ไม่ต้องติดตั้งอะไรเพิ่ม — นั่นถือว่าโพสต์ทำงานสำเร็จ
+
+.
+
+# 5 สัญญาณว่า อาจถึงเวลาทดลองเครื่องมืออื่น
+
+สัญญาณต่อไปนี้วัดจากสิ่งที่เกิดหลังพูดจบ ไม่ใช่ความเร็วตอนพูด — เจอกี่ข้อ ค่อยคุ้มไหมที่จะทดลอง
 
 ## 1. แก้ข้อความหลังหยุดพูด ทุกครั้ง
 
-voice input ในตัว (Siri / Apple Dictation / Gboard / Windows) transcribe ตรงตัว — ทุก "เอ่อ" ทุกจุดที่พูดผิด ทุกครั้งที่คิดใหม่
+voice input ในตัว (Siri / Apple Dictation / Gboard / Windows Voice Typing) transcribe ตรงตัว — ทุก "เอ่อ" ทุกจุดที่พูดแก้กลางทาง
 
-พูดว่า "นัดบ่าย 3 — เอ้ย บ่าย 4" — มันเขียนทั้ง 3 และ 4 ลงไป — แล้วคนแก้คือมือที่พิมพ์ตาม
+พูดว่า "นัดบ่าย 3 — เอ้ย บ่าย 4" — มันเขียนทั้ง 3 และ 4 — แล้วคนแก้คือมือที่พิมพ์ตาม
 
-Flow ออกแบบมาเพื่อจุดนี้ — ตัด filler จับการแก้กลางประโยค ได้เวอร์ชันสุดท้ายกลับมา (feature ที่หน้าเว็บเขาโชว์ — ยังไม่ได้วัดเอง)
+## 2. ได้ "กำแพงข้อความ" กลับมา ไม่ใช่ข้อความที่กดส่งได้
 
-## 2. ได้ "กำแพงข้อความ" กลับมา ไม่ใช่ข้อความที่ส่งได้
-
-ตัวในตัวใส่จุดได้ — แต่ไม่จัด list ไม่แยกย่อหน้า ไม่จัดโครงอีเมล
-
-Flow จัด format ระหว่างพูด — numbered list ย่อหน้า โครงอีเมล — จากประโยคที่พูดไปเรื่อย ๆ
+ตัวในตัวส่วนใหญ่ใส่จุดได้ แต่ไม่จัด list ไม่แยกย่อหน้า ไม่จัดโครงอีเมล — งานจัดรูปทั้งหมดตกที่มือ
 
 ## 3. ชื่อคน ศัพท์เฉพาะ — ผิดซ้ำทุกวัน
 
-ตัวในตัวไม่มี context ของผู้ใช้ — ชื่อที่สะกดไม่แบบพจนานุกรม ศัพท์เฉพาะทีม ชื่อระบบภายใน = นั่งแก้ซ้ำเป็นวิธีการทำงาน
-
-Flow มี personal dictionary — เพิ่มคำเองได้ ครั้งต่อไปสะกดถูก (docs + homepage)
+ตัวในตัวไม่รู้จักชื่อที่สะกดไม่แบบพจนานุกรม ศัพท์เฉพาะทีม ชื่อระบบภายใน — นั่งแก้ซ้ำกลายเป็นวิธีทำงานประจำวัน
 
 ## 4. prompt AI ด้วยนิ้ว — แล้ว AI ได้บริบทครึ่งเดียว
 
-พิมพ์ต้องสรุป — พูดจะเล่าครบ — homepage อ้างว่าคนใช้ Flow ให้ context เยอะขึ้นมากตอน prompt ChatGPT/Claude
+พิมพ์ต้องสรุป พูดจะเล่าครบ — ถ้างานหลักคือคุยกับ AI บริบทที่หายไปคือแรงที่เสียไป
 
-ข้อนี้เป็น claim ของ vendor — พรยังไม่ได้วัดเอง — แต่มันตรงกับประสบการณ์ที่หลายคนเล่าเหมือนกัน
+## 5. ใช้เสียงใน 5 แอป — แต่ละแอปมี voice ของมันเอง
 
-## 5. พิมพ์ใน 5 แอป — แต่ละแอปมี voice ของมันเอง
-
-Gboard มีของ Gboard — Apple มี dictation — Cursor มี voice mode — 5 ตัว 5 quirk
-
-Flow = ตัวเดียว — cursor อยู่ที่ไหน พูดได้ที่นั่น — "If you can type there, you can Flow there" — Mac / Windows / iPhone / Android
+Gboard แบบหนึ่ง Apple แบบหนึ่ง Cursor แบบหนึ่ง — หลายตัวหลาย quirk หลายจุดที่ต้องจำ
 
 .
 
-# Flow = Post-Processing Layer ไม่ใช่ "เครื่องพิมพ์ดีดเสียง"
+# สามเกณฑ์ตัดสินใจ — ก่อนจะทดลองอะไรเพิ่ม
 
-raw transcription คือขั้นแรกเท่านั้น — ตัวในตัวจบที่ขั้นนั้น
+| เกณฑ์ | สิ่งที่ต้องดู |
+|---|---|
+| **Effort** | พูดแล้วต้องกลับมาแก้มากแค่ไหน |
+| **Quality** | ข้อความสุดท้ายถูกต้องและสื่อความหมายตรงหรือไม่ |
+| **Complexity** | เครื่องมือใหม่ลดภาระรวม หรือสร้างภาระใหม่ |
 
-Flow เติมชั้นหลัง: จับการแก้ตัวเอง จัด format ใส่คำศัพท์ส่วนตัว ปรับ tone ตามแอป (Formal / Casual / Very casual)
+เกณฑ์ที่ตัดสินจริงคือข้อสาม — การติดตั้ง การตั้งค่า การเรียนรู้ การแก้ข้อผิดพลาดของเครื่องมือใหม่ เป็นต้นทุนที่จ่ายทุกวัน ไม่ใช่จ่ายครั้งเดียว
 
-**คุณต้องการ raw transcript หรือข้อความที่กดส่งได้เลย?**
-
-ตัวในตัวก็แต่งได้ — ถ้ายอมนั่งแก้เองทุกครั้ง — ความต่างไม่ได้อยู่ที่ความสามารถ อยู่ที่ว่าใครเป็นคนทำขั้นแก้ — เครื่อง หรือมือ
-
-.
-
-# เปรียบเทียบ — Flow vs ตัวในตัว vs voice mode ของแอป
-
-| | Wispr Flow | Built-in (Siri/Apple/Gboard) | ChatGPT/Cursor voice mode |
-|---|---|---|---|
-| Zero-edit rate | 90% (vendor bench) | 52% Siri (vendor bench) | n/a — วัดต่างเกณฑ์ |
-| ใช้ข้ามแอปทุก device | ได้ — 1 app ทุก text field | จำกัด — ยึด ecosystem ของมัน | ไม่ได้ — ในแอปตัวเองเท่านั้น |
-| จัด format/list/email | ได้ — ระหว่างพูด | ไม่ได้ — raw text | แล้วแต่แอป |
-| คำศัพท์ส่วนตัว + style ต่อแอป | ได้ | ไม่ได้ | จำกัด |
-| ราคา | Free 2,000 คำ/สัปดาห์ | $0 | ตาม subscription ของแอป |
-| Platform | Mac/Win/iOS/Android | ตาม device | ตามแอป |
-
-One-line จากตาราง: **ตัวในตัว = raw text รอแก้ / Flow = ข้อความที่กดส่งได้ — ส่วน voice mode ของแต่ละแอป = ของดี แต่ติดอยู่ในแอปตัวเอง**
+และมีเงื่อนไขที่ต้องตอบก่อนพี่น้องทั้งสาม: **ข้อมูลอะไรบ้างที่จะเดินทางผ่านระบบ** — docs ของ Flow ระบุว่า transcription ต้องต่ออินเทอร์เน็ต — คำถามนี้เป็นเงื่อนไข ไม่ใช่รายละเอียดท้ายโพสต์
 
 .
 
-# ตัวเลข — และสิ่งที่พรต้องบอกตรง ๆ
+# แยกให้ชัด — ผู้ผลิตระบุ / ข้อจำกัด / ยังต้องทดลองจริง
 
-220 wpm / "4x faster" / "save over an hour a day" / zero-edit 90% — ทั้งหมดเป็นตัวเลขจาก vendor (wisprflow.ai) — benchmark ที่เทียบ Siri/OpenAI/ElevenLabs ก็รันโดย Wispr เอง
+**สิ่งที่ผู้ผลิตระบุ (ยังไม่มีผลทดสอบอิสระ):** ตัด filler จับการแก้กลางประโยค จัด format ระหว่างพูด personal dictionary ปรับ tone ตามแอป — benchmark Zero-Edit ที่โชว์ 90% เทียบ Siri 52% รันโดย Wispr เอง — อ่านเป็น claim ของผู้ขาย ไม่ใช่ผลทดลอง
 
-พรไม่ได้ลง Flow ไว้บนเครื่องนี้ — ไม่มีการวัดเอง — ตัวเลขข้างบนคือ claim ที่ควรไป verify กับ 2,000 คำฟรีของตัวเอง — และไม่ควรเอาไปเทียบเครื่องอื่นโดยไม่ควบคุมเงื่อนไข — ถ้าใครมี independent benchmark เทียบตรง ๆ ส่งมาในคอมเมนต์ได้เลย
+**ข้อจำกัดที่ docs ยอมรับเอง:** ต้องต่ออินเทอร์เน็ตตอน transcribe — desktop ใส่ข้อความหลังหยุดพูด ไม่ได้พิมพ์ตามแบบ live — หูฟัง Bluetooth ลดความแม่นยำ — dictation history เก็บบนเครื่อง ลบแล้วหายทุก platform
 
-ข้อควรรู้จาก docs (ไม่ใช่ marketing):
+**ยังต้องทดลองจริงก่อนเชื่อ:** ความเร็วในการพูด ไม่เท่ากับ ความเร็วที่ได้ข้อความใช้ได้จริง — และภาษาไทยมีงานที่ต้องพิสูจน์เพิ่ม เว้นวรรค ชื่อเฉพาะ การแก้คำกลางประโยค เวลาตรวจทาน
 
-— ต้องมีอินเทอร์เน็ตตอน transcribe
-— desktop ใส่ข้อความหลังหยุดพูด — ไม่ใช่พิมพ์ตามคำแบบ live
-— AirPods / Bluetooth earbuds ลดความแม่นยำ (docs แนะนำไมค์ในตัวเครื่อง)
-— dictation history เก็บบน device — ลบแล้วหายทุก platform
+ราคา (ตรวจ 2026-10-16): Free $0 — 2,000 คำ/สัปดาห์ desktop + 1,000 mobile (docs มีเงื่อนไข cap เพิ่ม ไม่ลงลึกในโพสต์นี้) — Pro $15 รายเดือน หรือ $12 รายปี — Growth (dictation only) $23 รายเดือน หรือ $18 รายปี
 
 .
 
-# Notetaker — ของแถมใน subscription เดียว
+# สิ่งที่ต้องตรวจเอง — ไม่ว่าจะใช้ตัวไหน
 
-Wispr Notetaker (Mac + Windows, mobile ยังอยู่ใน roadmap) — ไม่มี bot เข้าประชุม รันบนเครื่องเอง — transcript + ชื่อผู้พูด + สรุปตามหัวข้อ + next steps — หลุดช่วงไหนถาม "What did I miss?" แล้วมันสรุปช่วงนั้น — ใช้ได้ตั้งแต่ Zoom/Meet/Teams/Slack huddles จนถึงประชุมตัวต่อตัว — MCP ดัน note ไปใช้ต่อใน Claude/ChatGPT
+built-in ทุกตัวไม่ใช่ระบบเดียวกัน — Siri, Apple Dictation, Gboard, Windows Voice Typing ต่างกันตามรุ่นและแพลตฟอร์ม — ตารางนี้ไม่ตัดสินแทน มันคือรายการที่ต้องตรวจกับเครื่องและภาษาของตัวเอง
+
+| ต้องตรวจอะไร | ทำไม |
+|---|---|
+| ความแม่นยำภาษาไทย | เว้นวรรค ชื่อเฉพาะ การแก้คำ — ต่างจากภาษาอังกฤษที่ demo ส่วนใหญ่โชว์ |
+| งานแก้หลังพูด | นับจุดที่ต้องแก้ต่อข้อความจริง ก่อนเชื่ออัตรา zero-edit ของใครทั้งนั้น |
+| การทำงานข้ามแอป | ใช้จริงกี่แอป — ตัวเดียวทุกที่กับหลายตัวหลาย quirk ต่างกันแค่ไหนในงานจริง |
+| ความเป็นส่วนตัว | ข้อมูลอะไรเดินทางไปไหน — ตัวในตัวกับเครื่องมือภายนอกไม่ได้ตอบเหมือนกัน |
+
+**One-line: ตัวเลขของผู้ผลิตตอบว่า "เขาบอกว่าดี" — ตารางนี้ตอบว่า "ดีกับงานของคุณไหม"**
 
 .
 
-# Pricing (ตรวจ 2026-10-16)
+# การทดลองเล็ก เดียว — ก่อนตัดสินใจอะไร
 
-— **Free $0** — 2,000 คำ/สัปดาห์ desktop + 1,000 คำ/สัปดาห์ mobile — 100+ ภาษา — dictionary + snippets — ไม่ต้องใช้บัตร ไม่มี countdown
-— **Pro $15/user/mo** (annual = $12) — unlimited dictation + Notetaker เต็ม + shared dictionary + team analytics
-— **Growth $23/user/mo annual** — SSO/SAML + HIPAA BAA + admin คุม model training
-— **Enterprise** — SCIM + audit logs + MDM + model training locked off
-— นักเรียน/อาจารย์ 50% off — Notetaker full-access promo ถึง 31 ต.ค. (ณ วันที่ตรวจ)
+เลือกข้อความชนิดเดียวกันที่ใช้จริงทุกวัน ลองกับเครื่องมือเดิมและ Flow แล้วเทียบสามอย่าง
 
-บริบท: บริษัท raise รวม ~$81M (รอบล่าสุด $25M นำโดย Notable Capital, 2025-11) ประกาศว่าจะ "build the Voice OS" — funding ไม่ใช่เหตุผลซื้อ — แต่บอกทิศว่า feature จะไหลไปทางไหน
+— เวลารวมทั้งหมดจนได้ข้อความที่พร้อมส่ง
+— จำนวนจุดที่ต้องแก้
+— แรงที่ใช้ไปทั้งกระบวนการ
+
+ไม่ใช่เทียบความเร็วพิมพ์หรือความเร็วพูด — เทียบภาระรวมจนถึงจุดกดส่ง
+
+ถ้าของเดิมผ่าน — ไม่ต้องเปลี่ยน
 
 .
 
 # มุมของ Duck OS
 
-คีย์บอร์ดคือ input channel ที่ ceiling 45 wpm — เสียงคือ channel ที่คิดได้ 220 — ปัญหาไม่ใช่คนพิมพ์ช้า — **ปัญหาคือระบบยังบังคับให้ความคิดเดินทางผ่านท่อที่เล็กกว่ามัน**
+คอขวดไม่ได้อยู่ที่คีย์บอร์ดเสมอไป — สำหรับบางคน การพูดช่วยลดแรง — สำหรับบางคน การพิมพ์ช่วยให้คิดเป็นลำดับ — สำหรับบางคน การใช้เสียงเหนื่อยกว่าหรือไม่เหมาะกับที่ทำงาน
 
-หลักที่พรใช้ทุกวัน: งานที่ควรเป็น asset (ข้อความที่กดส่งได้ note ที่ใช้ต่อได้) ไม่ควรจมกลายเป็น activity (นั่งแก้ transcript ทั้งวัน) — ทุก channel ที่ช้ากว่าความคิด คือจุดที่ความคิดต้องรอท่อ
+คอขวดคือขั้นตอนที่ทำให้ผู้ใช้ต้องจ่ายแรงเกินจำเป็น เพื่อให้ได้ผลลัพธ์ที่ต้องการ — เครื่องมือที่ถูกต้องคือตัวตัดขั้นตอนนั้น ไม่ใช่ตัวเพิ่มความเร็วที่ตอนจบยังต้องเก็บงานแก้เหมือนเดิม
 
-Flow ปิดช่องว่างนั้นได้ — แต่ตัวตัดสินว่า "อันนี้ส่งได้" ยังเป็นคุณเสมอ — เครื่องเร็วขึ้นแค่กลายเป็นเครื่องแปล — **คนอนุมัติ = คุณ**
+และต่อให้เครื่องแปลงเสียงเป็นข้อความดีแค่ไหน — ตัวตัดสินว่า "อันนี้ส่งได้" ยังเป็นคุณเสมอ
 
 .
 
 # สรุปแบบวิศวกรเป็ด
 
-voice input ในตัวยังจบงานได้ — อย่าลงมา — Free tier ไม่ได้บังคับอะไร ใช้ของเดิมต่อไป
+voice input ในตัวยังจบงานได้ — ไม่ต้องเพิ่มเครื่องมือ — Free tier ของทุกที่ไม่เคยบังคับใคร
 
-ทุกครั้งที่พูดจบต้องแก้ — ชื่อคนผิดทุกครั้ง — prompt AI แล้ว context ไม่ครบ — ค่อยลงมา — 2,000 คำ/สัปดาห์ฟรีคือ window ทดลองที่ไม่มีต้นทุน
+สัญญาณเจอหลายข้อ — คุ้มที่จะรู้จริง — รันการทดลองเล็กข้างบนหนึ่งรอบ เทียบภาระรวม แล้วค่อยตัดสิน — **ถ้า Flow ลดภาระรวมได้จริง ค่อยพิจารณาใช้ต่อ**
 
-**The bottleneck was never your head — it was the pipe.**
+**โพสต์นี้ไม่ได้ตอบว่า Flow ดีไหม — มันตอบว่าคุณจำเป็นต้องลองหรือไม่**
 
-คุณพิมพ์ได้กี่ wpm — และถ้าเสียงให้จริง 220 — จะเอาความเร็วที่คืนมาไปทำอะไรต่อ คอมเมนต์ด้านล่างได้เลย
+ข้อความชนิดไหนที่คุณพิมพ์ด้วยเสียงบ่อยสุด — และตอนนี้ต้องแก้กี่จุดต่อครั้ง — คอมเมนต์ไว้ได้เลย
 
-#Adduckivity #DuckOS #WisprFlow #VoiceTyping #Dictation #Productivity #AI
+#Adduckivity #DuckOS #WisprFlow #VoiceTyping #Dictation #Productivity #DecisionAsset
