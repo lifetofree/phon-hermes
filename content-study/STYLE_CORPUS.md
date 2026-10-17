@@ -1614,3 +1614,11 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - Notion `3fbdf8d8-8d8c-81c0-ab74-d9085e7b2b1c` PATCH 200×2 + Name ใหม่ → 63 blocks markers MISS 0 CUT 0 quotes-bold 2/2 **Status → rewritten**; index title+words อัปเดต (n=456)
 - กิ่ง park (อีกบทความ — critic: "เก็บเป็นข้อมูลอ้างอิงได้"): Notetaker (no-bot, transcript+speakers, What did I miss?, MCP→Claude/ChatGPT) / Funding ($25M Notable Capital 2025-11, ~$81M, Voice OS) / Enterprise tier (SCIM, audit logs, MDM)
 - สถานะ: รอ user publish version (ถ้า Benz r2 มาเพิ่ม = cumulative ต่อจากรอบนี้)
+
+
+### 2026-10-16 — pair #49 CLOSED (wispr-flow → publish 488 wc-w = 0.95× r2; dead-terms 23/23 zero, keeps 22/22)
+
+- ครบรอบ: v1 796 → r1 746 (self, spine kept) → Benz r1 + gate-in-paste → r2 462 (re-spine decision asset) → Benz r2 PASS-with-conditions → publish 488
+- Grades: dead 23/23 zero (45/220 family รอดเฉพาะใน section "# ตัวเลขที่ยังไม่ควรใช้ตัดสิน" — labeled context); keeps 22/22 ครบรวม เคยไหม-hook / ไม่เหมารวม built-ins / tradeoff-resolution line / เร็วกว่า≠แรงน้อยกว่า / ฟรีราคา≠ฟรีพลังงาน / แหล่งตรวจสอบท้ายบท; r2 spine re-mined (EN #128); single spine ตาม critic §4; battery พร 14/เรา 13/คุณ 4/คับ 0, H1 9, beats 89, bold 25
+- Publish moves → skill (185)-(190): vendor-claims-as-context / experience-opener ban in docs posts / tool-limits→user-symptoms / tradeoff-resolution rule / 4-blocks→1-spine collapse (0.95×) / pricing+citation hygiene
+- Notion `3fbdf8d8-8d8c-81c0-ab74-d9085e7b2b1c` PATCH 200×2 → 253 blocks MISS 0 **Status → published**; gate (ลดภาระจริงหรือยัง?) ตอบในตัว publish ("เวลารวมจนงานเสร็จ สำคัญกว่า..." + tradeoff line); index n=456 → publish archive; archives: v1 + r1 + r2 + benz r1 + benz r2 + publish
