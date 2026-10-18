@@ -1692,3 +1692,14 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
   - ยืนยัน publish ของ pair #50: 2-question swap ("A ดีที่สุดหรือยัง" → "A ผ่านเกณฑ์พอให้ทดลองหรือยัง") + 3 checks (ผ่านเกณฑ์/ลองเล็กได้/ถอยได้) + reversible ≠ free + closer = line ของ critic verbatim ("37% ไม่ได้บอกว่าเราควรเลือกเมื่อไร จนกว่าเราจะรู้ก่อนว่า กำลังเล่นเกมแบบไหน") — ครบตาม pair history
   - ยืนยัน convention "condition-match audit" (list เงื่อนไข Secretary Problem 5 ข้อ vs เงื่อนไขชีวิตจริง) + accuracy-debt fixes เข้า publish (เงื่อนไขครบใน first statement / edge case "อาจจบรอบโดยไม่ได้เลือกใครเลย")
   - Drift: "เรา" 27 / "พร" 18 — we-heavy สูงสุดของ batch (โพสต์คณิตศาสตร์ → "เรา" เป็นตัวเล่า)
+
+
+### 2026-10-18 — pair #52 r1 (price-of-pain-is-progress: fresh idea brief → Benz r1 → v2 re-spine same-day)
+
+- Brief: "The Price of Pain is Progress" + TH expansion (เจ็บ/ผิดพลาด = ต้นทุนการเติบโต, ช่วงแรกหนักเสมอ, กล้ามเนื้อทางความคิดแข็งขึ้นตามการทำซ้ำ) — quote EN ไม่มีแหล่งเดียวชัด (Kettering = "progress is trouble" คนละประโยค) → ไม่ใช้เป็น quote
+- v1 (130 wc-w, 2.56h): แกน "รอบแรกแพงโดยดีไซน์ vs ราคาที่ควรลด" → closer "สิ่งที่พิสูจน์ว่ากำลังเติบโต คือราคาของรอบถัดไปที่ถูกลง" — battery PASS แต่ติด universal 3 จุด (แพงเสมอ/พิสูจน์/เจ็บสองความหมาย)
+- Benz r1 verdict: ไปต่อแต่ต้องแก้ — core = single-signal swap (ปลด "เจ็บ=เติบโต" แต่สร้าง "ราคาไม่ลด=ยังไม่เติบโต" = โรคเดียวกัน) + ออกกำลังกาย = คำว่าเจ็บรับผิดชอบสองความหมาย (กายภาพ = health signal / ความฝืดของงาน = workflow data) + "ราคา" ไร้หน่วยวัด; quote-verify 7/8 HIT + 1 ตัวย่อ (ไม่ใช่ misquote)
+- v2 (142 wc-w = 1.09× v1): re-spine ตาม skeleton §6 — title "แพงเสมอ"→"มักมีต้นทุนการเรียนรู้เพิ่ม" / CUT ออกกำลังกายทั้งก้อน / CUT mirror-rule → 3 สถานการณ์สมมติ + หน่วยราคา 5 ตัว (เวลา/จำนวนครั้งที่ตัดสินใจ/งานแก้ซ้ำ/แรง/สิ่งที่ตกไปถึงวันถัดไป) / reframe critic verbatim เป็น subtitle+body / Skill-Asset bridge 1× (critic-supplied) / gate (รอบที่สิบเวลาเท่าเดิมแต่เกณฑ์ชัดขึ้น) ตอบในตัวบท → "ราคา = ภาระทั้งหมด"
+- battery v2: พร 10/เรา 0/คุณ 0/คับ 0, H1 1+H3 1, beats 7, CUT 22 = 0; พิสูจน์ 2× ทั้งหมดอยู่ในรูปปฏิเสธ verbatim ของ critic (subtitle + body) — false positive ที่ถือว่าใช้ได้; ✍️ scanner note: "คุณภาพ" เดิมโดนนับเป็น คุณ (lookalike-class) — เขียนให้พ้น substring ตั้งแต่ต้น
+- Notion: หน้าเดิม `3fddf8d8-8d8c-8188-ba4f-eb082e55b712` PATCH 200×2 (Name ใหม่ + Status → rewritten) → 32 blocks markers 11/11 MISS 0, CUT survivors 0, H1 #สรุปแบบวิศวกรเป็ด ✓, quote bold ✓
+- Archives: v1 snapshot + critique r1 (baselines ใน header: เสมอ 3 / พิสูจน์ 2 / แพง 9 / กล้ามเนื้อ 2 / ราคา 16)
