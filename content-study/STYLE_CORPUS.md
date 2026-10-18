@@ -1710,3 +1710,13 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - r2 ใกล้พร้อม + 3 fixes (ลดลงได้เอง / ข้อผิดพลาดเดิม→การค้นพบเดิมที่เริ่มใหม่ซ้ำ / closer บังคับต้นทุนลด) — quote-verify 5/5; r3 owner-fact downgrade ตัวอย่าง (เกณฑ์สกัด → Reuse) — 2/2; r4 FREEZE + replacement block/closer verbatim
 - คำสั่ง rewrite ถูกเจ้าของเพิกถอนในข้อความเดียว → no-rewrite round: archives 3 ไฟล์ + baselines, draft/Notion คง v2 (rewritten), รอ publish จากเจ้าของ
 - Lesson บันทึกเป็น skill items (204)-(206): insight-transfer audit / freeze-with-replacement-block = publish spec / owner-answer reclassifies evidence class
+
+
+### 2026-10-18 — pair #52 CLOSED (price-of-pain: publish 145 wc-w = 1.02× v2; freeze keys graded in code)
+
+- publish archived verbatim `web-archive/20261018-price-of-pain-is-progress-publish.md` → Notion หน้าเดิม `3fddf8d8-8d8c-8188-ba4f-eb082e55b712` PATCH 200×2 → **79 blocks, markers 12/12, kills 0, Status → published**
+- grades: old/kill terms **0 ทั้งหมด** (ลดลงได้เอง / hook แบบไหน / เกณฑ์ตรวจ / ออกกำลังกาย / กล้ามเนื้อ / Asset / Skill / Reuse-Template ศัพท์ / v2 closer "ราคาที่แท้จริง…") — System 1× = #SystemThinking hashtag only; พิสูจน์ 3× ปฏิเสธทั้งหมด; เสมอ 1× ในรูปปฏิเสธ (r4 block family); คุณ 1× = "คุณค่า" lookalike; คับ-ผม 0
+- replacements รอด 16/17 keys: r2 hedge ("พอทำซ้ำและได้เรียนรู้จากผลจริง ต้นทุนบางส่วนอาจลดลงได้" + ปฏิเสธ "ไม่ได้หมายความว่าจะลดลงเองทุกครั้ง") / r4 block verbatim 2 บรรทัด + caution "เหมาะกับโจทย์ครั้งนี้จริงไหม" / r4 closer verbatim bold / หน่วยราคา 5 ตัว / "รู้แล้วยังแก้ไม่ได้" bold def / gate question v1 verbatim / night question ใหม่ bold
+- 2 owner-call NOTEs: (1) r2 closer replacement ถูกแทนด้วย r4 closer (later-critic wins) (2) curly-quote kill ถูกแทน ("ราคาถูกลง" ยังอยู่ในเครื่องหมาย quote 1 จุด เป็น object ของการตรวจ)
+- publish moves: Reuse ศัพท์ของ critic ถูก PERFORM ไม่ import ("หยิบมาปรับให้เข้ากับงานใหม่" / "ของเดิม…เหมาะกับโจทย์ครั้งนี้จริงไหม") / gate = bold paragraph แทน blockquote (publish-style conversion) / เรา 6× กลับมาในบรรทัด universal ของ reframe
+- register: พร 17/เรา 6, beats 11, bold 8, H1 1+H2(closer) 1+H3 1, CJK clean; WP entry ยังไม่ live — เติมเมื่อขึ้น (แบบ #49/#51)

@@ -185,3 +185,10 @@ Skill items (196)-(200) shipped post-publish (condition-carrying rules / rule-as
 - **Benz r4 (paste 4) = FREEZE:** ยอมรับ classification + replacement block v2 (เติม "พรไม่ได้ใช้มันเหมือนเดิมทั้งหมด แต่เอามาปรับให้เข้ากับงานใหม่") + closer verbatim ("สิ่งที่ได้จากการเรียนรู้ ไม่ใช่คำรับประกันว่ารอบหน้าจะง่ายขึ้น แต่คือการมีบางอย่างจากรอบก่อนให้หยิบมาปรับใช้ โดยไม่ต้องเริ่มจากศูนย์ทุกครั้ง") + "หยุดขยายกรอบ — ไม่ต้องเพิ่ม Checklist/Framework/System อีก"
 - **User command "reverse engineer and rewrite it" + ยกเลิกในข้อความเดียวกัน ("did not rewrite it I will send publish version")** → รอบนี้ = archive r2/r3/r4 verbatim + baselines เท่านั้น; draft + Notion ยังเป็น v2 (Status rewritten) — publish version มาจากเจ้าของ
 - **Publish grading keys สะสม:** ลดลงได้เอง=0 (→ "พอทำซ้ำและได้เรียนรู้จากผลจริง ต้นทุนส่วนนี้อาจลดลงได้") / closer v2 "เบาลง"=0 (→ r4 closer) / hook แบบไหน (เกณฑ์สกัด)=0 (→ r4 example block) / "ทำซ้ำแล้วราคาต้องถูกลง"=0 / r4 block + closer = verbatim / Skill-Asset ระวัง "ไม่ใช่ของระบบ" → แยก Asset vs System ชั้นเดียว
+
+
+### Pair #52 publish round — CLOSED (2026-10-18, same day v1→r1→v2→r2→r3→r4→publish)
+
+- user ส่ง publish version → archive-before-grade → grade keys สะสม r1-r4 ในโค้ด → Notion PATCH หน้าเดิม Status published (79 blocks) → read-back 12/12 kills 0
+- verdict summary: ทุก kill เก่า = 0; replacement block/closer ของ r4 เข้า verbatim; 2 owner-call NOTEs (r2 closer superseded by r4; curly-quote kill replaced); ratio 1.02× v2 = parity class
+- loop ปิดเต็มรอบ: brief → v1 (130) → r1 self-contradiction → v2 re-spine (142) → r2 ใกล้พร้อม → owner gate ×2 → r4 freeze-with-replacement → publish (145) — 5 rounds 1 วัน
