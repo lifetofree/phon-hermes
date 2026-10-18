@@ -201,3 +201,10 @@ Skill items (196)-(200) shipped post-publish (condition-carrying rules / rule-as
 - **Benz r4 = FACT-LOCK:** ล็อกข้อเท็จจริง + replacement verbatim 2 จุด ("เลือกเล่มที่อยากอ่าน แล้วเริ่มอ่านจริง...ไม่ได้ทดลองทั้งสองทางภายใต้เงื่อนไขเดียวกัน" / "ประเมินว่า...เหมาะกับพลังงานที่มี จึงเลือกและเริ่มอ่าน...ยังไม่จำเป็นต้องสรุปว่าดีที่สุด") + spine "พรรับฟังคำแนะนำ แต่ไม่ได้ปล่อยให้คำแนะนำนั้นตัดสินใจแทน"
 - **User command "reverse engineer and rewrite it" + เพิกถอน ("did not rewrite it I will send publish version")** → no-rewrite round ตาม item (205): archives + baselines เท่านั้น, draft/Notion คง v3, รอ publish
 - **Publish keys สะสม:** จนจบ=0 / รอบนั้นมันผ่าน=0 / ถ้าตอบ binary=0 / ตั้งแต่นั้น=0 / duplicate quote → r3 quote swap / r4 replacements verbatim 2 จุด / r3 §4 block (softened rule) + §5 quote swap + opener rephrase ยังค้างเป็น keys
+
+
+### Pair #53 publish round — CLOSED (2026-10-18, same day)
+
+- publish 167 wc-w (1.55× v3) → archive-before-grade → keys รอด 16/16 → Notion published (68 blocks)
+- zero owner-call NOTEs — ทุก fix เข้าครบทั้ง r3 (4 fixes) และ r4 (fact-lock 2 จุด near-verbatim)
+- full loop: v1 (other model) → v2 rewrite (KhaoKlong) → r1 (ฐานเหตุผล: ข้ออ้างที่ข้อสรุปไม่ต้องใช้) → owner gate 1 (เหตุการณ์หนังสือ) → r2 (re-spine เหตุการณ์จริง) → v3 → r3 (พร้อมปิดงาน, fact-audit) → owner gate 2 (เริ่มอ่าน) → r4 (fact-lock) → publish

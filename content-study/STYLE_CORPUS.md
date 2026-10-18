@@ -1750,3 +1750,14 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - Owner gate "เริ่มอ่าน" → r4 fact-lock with verbatim replacements = publish keys
 - Lesson → skill items (207)-(209): fact-lock round / ห้ามอัปเกรดสถานะเหตุการณ์ (จนจบ) / binary self-test ต้องมี ≥3 outcomes
 - คำสั่ง rewrite ถูกเพิกถอนในข้อความเดียวกัน → draft + Notion คง v3 (rewritten) — รอ publish version
+
+
+### 2026-10-18 — pair #53 CLOSED (ai-no-desire → book-event: publish 167 wc-w = 1.55× v3; r3+r4 keys รอด 16/16)
+
+- publish archived verbatim `web-archive/20261018-ai-no-desire-human-direction-publish.md` → Notion หน้าเดิม `3fddf8d8-8d8c-8166-b21e-db38d781b99e` PATCH 200×2 → **68 blocks, markers 10/10, kills 0, Status → published**
+- grades: kills 0 ทั้งหมด (จนจบ / รอบนั้นมันผ่าน / ถ้าตอบ binary / ตั้งแต่นั้น / ยกเว้นอยาก / เริ่มเอง family / ว่างเปล่า / แรงเดิน / เสมอ / คุณ / คับ); พิสูจน์ 5× ปฏิเสธล้วน; ต้นทุน 1× = "ถ้าต้นทุนและความเสี่ยงยอมรับได้" (clause ของ r3 §4 block เอง)
+- fixes รอด 16/16 keys: r4 fact-lock near-verbatim ("เลือกเล่มที่อยากอ่านแล้วเริ่มอ่านจริง ก็ไม่ได้พิสูจน์ว่าเลือกได้ดีกว่า…ไม่ได้ทดลองทั้งสองทางภายใต้เงื่อนไขเดียวกัน") / r3 §3 block owner-call fuller form ("ไม่ได้ดูแค่ว่าอยากอ่านอะไร แต่ประเมินด้วยว่า…มีพลังงานพอ…") + tail "เท่านี้ยังไม่พิสูจน์…" / r3 §4 softened rule สามทาง (ถามเพิ่ม/ทดลองเล็ก/พักการตัดสินใจ) / r3 §5 quote swap verbatim + opener rephrase / KEEP "ยังไม่มีหลักฐานว่าเล่มที่ AI แนะนำไม่เหมาะ"
+- publish moves: spine performed ไม่ import ("AI ช่วยคิดแทนเราได้บางส่วน แต่ไม่ควรทำให้เราหยุดมีส่วนร่วมในการตัดสินใจของตัวเอง" = bold closer) / anti-contrarian guard ("ไม่ใช่การปฏิเสธ AI เพื่อพิสูจน์ว่าตัวเองคิดเป็น") / AI-credit section (ท้วง/ชี้จุดมองข้าม — จาก r1) / question restructure รับ-ปรับ-ไม่รับ + "ไม่ใช่แค่ตอบว่าเพราะพรอยากทำ" (ทั้งสองฝั่งต้องตรวจ)
+- register: พร 27/เรา 13, beats 10, bold 8, H1 1+H2(closer) 1+H3 1; ratio 1.55× v3 (ขยายตาม reframe ของ critic — post-#52 publish เฉลี่ย 1.3×)
+- loop: v1 (other model) → v2 (KhaoKlong) → Benz r1 ฐานเหตุผล → gate เหตุการณ์ → r2 re-spine → v3 → r3 พร้อมปิดงาน → gate เริ่มอ่าน → r4 fact-lock → publish — 8 rounds 1 วัน, 2 gates ตอบโดยเจ้าของ
+- WP ยังไม่ live — เติมเมื่อขึ้น
