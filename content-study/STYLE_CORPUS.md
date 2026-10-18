@@ -1703,3 +1703,10 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - battery v2: พร 10/เรา 0/คุณ 0/คับ 0, H1 1+H3 1, beats 7, CUT 22 = 0; พิสูจน์ 2× ทั้งหมดอยู่ในรูปปฏิเสธ verbatim ของ critic (subtitle + body) — false positive ที่ถือว่าใช้ได้; ✍️ scanner note: "คุณภาพ" เดิมโดนนับเป็น คุณ (lookalike-class) — เขียนให้พ้น substring ตั้งแต่ต้น
 - Notion: หน้าเดิม `3fddf8d8-8d8c-8188-ba4f-eb082e55b712` PATCH 200×2 (Name ใหม่ + Status → rewritten) → 32 blocks markers 11/11 MISS 0, CUT survivors 0, H1 #สรุปแบบวิศวกรเป็ด ✓, quote bold ✓
 - Archives: v1 snapshot + critique r1 (baselines ใน header: เสมอ 3 / พิสูจน์ 2 / แพง 9 / กล้ามเนื้อ 2 / ราคา 16)
+
+
+### 2026-10-18 — pair #52 r2–r4 ADDENDUM (price-of-pain: v2 → Benz r2/r3/r4 → FREEZE, agent no-rewrite round)
+
+- r2 ใกล้พร้อม + 3 fixes (ลดลงได้เอง / ข้อผิดพลาดเดิม→การค้นพบเดิมที่เริ่มใหม่ซ้ำ / closer บังคับต้นทุนลด) — quote-verify 5/5; r3 owner-fact downgrade ตัวอย่าง (เกณฑ์สกัด → Reuse) — 2/2; r4 FREEZE + replacement block/closer verbatim
+- คำสั่ง rewrite ถูกเจ้าของเพิกถอนในข้อความเดียว → no-rewrite round: archives 3 ไฟล์ + baselines, draft/Notion คง v2 (rewritten), รอ publish จากเจ้าของ
+- Lesson บันทึกเป็น skill items (204)-(206): insight-transfer audit / freeze-with-replacement-block = publish spec / owner-answer reclassifies evidence class
