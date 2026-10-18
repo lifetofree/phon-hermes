@@ -3765,11 +3765,20 @@
   },
   {
     "slug": "ai-no-desire-human-direction",
-    "title": "AI ทำทุกอย่างได้ ยกเว้นอยาก — ความฉลาดที่แท้จริงของมนุษย์ อยู่ที่รู้ว่าต้องการอะไร (CURRENT FORM fresh draft, idea brief AI ไม่มีปรารถนา)",
+    "title": "AI ทำทุกอย่างได้ ยกเว้นอยาก — ความฉลาดที่แท้จริงของมนุษย์ อยู่ที่รู้ว่าต้องการอะไร (v1 by another model — superseded same-day by v2 rewrite; see ai-no-desire-human-direction-rewrite)",
     "date": "2026-10-18T00:00:00",
     "link": "https://app.notion.com/p/AI-3fddf8d88d8c8166b21edb38d781b99e",
     "words": 147,
     "file": "/home/lifetofree/hermes-agent/content-study/posts/20261018-cnt-ai-no-desire-human-direction.md",
     "status": "draft"
+  },
+  {
+    "slug": "ai-no-desire-human-direction-rewrite",
+    "title": "AI ทำทุกอย่างได้ ยกเว้นอยาก — ความฉลาดที่แท้จริงของมนุษย์ อยู่ที่รู้ว่าต้องการอะไร (pair #53 v2 — cross-author rewrite by KhaoKlong)",
+    "date": "2026-10-18T00:00:00",
+    "link": "https://app.notion.com/p/AI-3fddf8d88d8c8166b21edb38d781b99e",
+    "words": 143,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/20261018-cnt-ai-no-desire-human-direction-rewrite.md",
+    "status": "rewritten"
   }
 ]

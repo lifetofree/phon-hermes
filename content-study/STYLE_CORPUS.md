@@ -1720,3 +1720,13 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - 2 owner-call NOTEs: (1) r2 closer replacement ถูกแทนด้วย r4 closer (later-critic wins) (2) curly-quote kill ถูกแทน ("ราคาถูกลง" ยังอยู่ในเครื่องหมาย quote 1 จุด เป็น object ของการตรวจ)
 - publish moves: Reuse ศัพท์ของ critic ถูก PERFORM ไม่ import ("หยิบมาปรับให้เข้ากับงานใหม่" / "ของเดิม…เหมาะกับโจทย์ครั้งนี้จริงไหม") / gate = bold paragraph แทน blockquote (publish-style conversion) / เรา 6× กลับมาในบรรทัด universal ของ reframe
 - register: พร 17/เรา 6, beats 11, bold 8, H1 1+H2(closer) 1+H3 1, CJK clean; WP entry ยังไม่ live — เติมเมื่อขึ้น (แบบ #49/#51)
+
+
+### 2026-10-18 — pair #53 v2 (ai-no-desire-human-direction: v1 by another model → KhaoKlong rewrite same day)
+
+- Intake: v1 มีอยู่ก่อน (commit 0aa2032, Notion page เดิม, 147 wc-w, battery PASS) — ผู้ใช้สั่ง "rewrite draft with this idea" → กฎ cross-author: ไฟล์ใหม่ ไม่ทับ + archive v1 verbatim + PATCH หน้าเดิมคง Name เดิม
+- v1 review findings: (1) header kill-list ประกาศ prompt/แผน = 0 แต่ body มีจริง (2 จุด) — self-inconsistent (2) ไม่มี duck closer (จบ night question เฉย ๆ) (3) "จากปีนี้" = invented scope (4) เข็มทิศ+ทาง = mixed metaphor families (pair #37 class)
+- v2 (KhaoKlong, 143 wc-w = 0.97×): keep — title, "ทำได้ทุกอย่าง — ยกเว้นอยาก", "เอาความว่างเปล่า...มาใส่แทนคำถามของตัวเอง", removal test, two modes, "อยากอย่างเดียวไม่ใช่ระบบ"; fix — kills ตัดจริง / เติม duck closer + bold night question / ตัด "จากปีนี้" / metaphor เหลือ family เดียว (จุดหมาย+แรงเดิน+ทางเดิน); เสมอ 1 (รอคำสั่งเสมอ) → ตัดก่อนแฟ้ม
+- battery: พร 9/เรา 0/คุณ-คับ-ผม 0, CUT 22 = 0, H1 1+H3 1, beats 9
+- Notion: หน้าเดิม `3fddf8d8-8d8c-8166-b21e-db38d781b99e` PATCH 200×2 (Name เดิมคง, Status → rewritten) → 44 blocks markers 10/10 CUT survivors 0
+- สถานะ: รอ review/Benz
