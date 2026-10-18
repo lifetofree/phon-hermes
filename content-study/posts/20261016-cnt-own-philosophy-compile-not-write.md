@@ -6,7 +6,7 @@
 ContentID: 20261016-CNT-OWN-PHILOSOPHY
 Series: standalone (system/mindset, idea-only brief "Focus on your philosophy จงสร้างปรัชญาของตัวเอง")
 Type: CURRENT FORM (fresh) — habitual open (corpus-attested reading/collecting habit, ไม่มี invented scene/time-markers), ONE dispatch question + 2 modes, worked example = SSOT's own compiled lines (owner-attested), near-miss (wish-list trap + over-compile trap), stress-test, duck closer + night question [standalone]
-Status: Draft v1 — รอ review
+Status: CLOSED 2026-10-18 — publish 383 wc-w (2.68×) archived verbatim at web-archive/20261018-own-philosophy-publish.md; Notion page Status → published; ไฟล์นี้คง v1 ตาม convention
 SSOT anchors (verified verbatim 2026-10-16, used UNLABELED in body):
 - Duck_OS_Instruction.md ADVISORY POSITION block: "ถ้าอะไรเสียงดัง = ผิด / ถ้าอะไรต้อง effort สูง = redesign / ถ้าอะไรเร่ง = หยุด" (+ Quiet Power / Product-first / Asset-first ล้อมรอบ)
 - Main_Data_for_UDO.md:232 "Power Test: ดึงอำนาจตัดสินใจกลับมาไหม? (ถ้าพึ่งคนอื่นมากขึ้น = ปฏิเสธ)"

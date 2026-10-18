@@ -79,6 +79,13 @@ All quotes below are verbatim from the corpus (same orthography as source files)
 | 2026-10-10 | input-without-acceptance-criteria | web-archive/input-without-acceptance-criteria.md | 82 | A |
 | 2026-10-10 | partial-data-discipline-trap | web-archive/partial-data-discipline-trap.md | 99 | A |
 | 2026-10-11 | decision-fatigue-early-warning | web-archive/decision-fatigue-early-warning.md | 78 | A |
+| 2026-10-12 | screenshot-workflow-cost-snapzy-vs-cleanshot | web-archive/screenshot-workflow-cost-snapzy-vs-cleanshot.md | 345 | B |
+| 2026-10-14 | user-not-machine-ebook-system-manual | web-archive/user-not-machine-ebook-system-manual.md | 113 | A |
+| 2026-10-14 | closed-task-persistent-attention-full | web-archive/closed-task-persistent-attention-full.md | 87 | A |
+| 2026-10-15 | post-completion-action-inertia-view-count | web-archive/post-completion-action-inertia-view-count.md | 77 | A |
+| 2026-10-16 | water-shape-vs-direction-niten-ichi-ryu | web-archive/water-shape-vs-direction-niten-ichi-ryu.md | 209 | A |
+| 2026-10-17 | voice-input-flow-effort-vs-editing-cost | web-archive/voice-input-flow-effort-vs-editing-cost.md | 492 | B |
+| 2026-10-18 | optimal-stopping-37-percent-rule-reality | web-archive/optimal-stopping-37-percent-rule-reality.md | 393 | A |
 
 Type key: A = System/Mindset, B = Tool Review, C = other. (Word count = `wc -w` on the archived file, including front-matter lines.)
 
@@ -1643,3 +1650,45 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - Battery: 385 wc-w, พร 14/เรา 27/คุณ 1/คับ 0, H2 7, beats 81, CJK clean; v1 snapshot `web-archive/20261016-37-rule-v1.md`; publish archive byte-faithful
 - Reverse engineering: DEFER ตามกฎ — grammar ย้ายเข้า skill แล้วตอน PRE-REWRITE (items (191)-(195)); publish moves เสริมเข้า pair-history (owner-reworded half-line = NOTE class; 37 คนตัวอย่างเปลี่ยนเป็น "คนที่ 42 ดีกว่าทั้ง 41" = concrete-index upgrade)
 - Notion `3fcdf8d8-8d8c-81d4-9eb1-cc825dd083e8` PATCH 200×2 → 241 blocks MISS 0 **Status → published**; index words 385 → publish archive
+
+### 2026-10-18 — pair #51 CLOSED (own-philosophy → publish 383 wc-w = 2.68× v1; dead 5/5 zero, gate 5/5 PASS, critic-lines 10/13 verbatim + 3 owner-rewording)
+
+- ครบรอบ: v1 143 (fresh) → Benz r1 (blocker-class "ยังไม่ควรเผยแพร่โดยไม่แก้ตัวอย่างสามกฎ" + gate "หยุด = หยุดรับ หรือหยุดตอบสนองอัตโนมัติ?") + gate answered ในข้อความเดียวกัน (paste 2) → publish 383 (2.68× — publish ขยายตาม skeleton: กฎทั้ง 3 ได้ section ขอบเขตของตัวเอง + เพิ่ม feedback loop "วงจรที่สมบูรณ์กว่า" ที่ critic ร่าง)
+- Quote-verify r1: HIT 8/8 vs v1 (no stale view); critique + gate + post-gate direction archived รวมไฟล์เดียว `web-archive/20261018-own-philosophy-benz-dna-critique.md`
+- Grades: dead 5/5 zero ("กฎตอบแทนแล้ว" / "น้ำเสียงของคนที่ผ่านงานแบบนั้นมาเอง" / ความเด็ดขาด-as-evidence ("จ่ายค่าเรียน...ทั้งรอบ" — เด็ดขาดรอด 1× ในสรุปแบบ negative "เป้าหมายไม่ใช่การมีปรัชญาที่เด็ดขาดที่สุด" = คนละฟังก์ชัน) / stress test เดิม "ประโยคนั้นตอบแทนการคิดใหม่ได้ไหม") · gate 5/5 PASS (definition verbatim bold "หยุดการตอบสนองอัตโนมัติ ก่อนตัดสินใจว่าจะรับหรือไม่รับ" / "ไม่ให้ความเร่งของเรื่องที่เข้ามา กลายเป็นคำสั่งของระบบเราโดยอัตโนมัติ" / ฉุกเฉิน exception "ตอบสนองตามความจำเป็น" / "กฎไม่ได้มีไว้ให้หยุดจนเกิดความเสียหาย" / "ไม่ได้เลือกคำตอบให้พร" + "ลดการคิดซ้ำ...ไม่จำเป็นต้องตัดการคิดทิ้ง") · keeps 3/3 (hook / subtitle ยกระดับ "คอมไพล์จากชีวิตจริง" / กลไก line)
+- Critic-supplied 10/13 verbatim + 3 owner rewording (semantics ครบ — NOTE class เหมือน #50): mechanism line แยกเป็น bold beat "ไม่ต้องเริ่มกระบวนการตัดสินใจจากศูนย์" / ownership "ความเป็นเจ้าของไม่ได้อยู่ที่ว่าใครพูดก่อน แต่อยู่ที่เรารู้หรือยังว่ามันใช้กับสถานการณ์แบบไหน และมีหลักฐานจากชีวิตจริงพอให้เชื่อมันแค่ไหน" / "ไม่ใช่สิ่งที่มาแทนการคิด" → "ไม่ได้มีหน้าที่ตัดสินใจแทนเราทุกครั้ง — มีหน้าที่เรียกวิธีคิดที่เหมาะสมขึ้นมา ในเวลาที่เราต้องใช้มัน"
+- Structure: H1 7 + H2 3 (กฎแต่ละบรรทัดได้ section ขอบเขต — เปิดด้วย "สิ่งที่กฎไม่ได้หมายถึง" ก่อน "สิ่งที่หมายถึง") · 3-questions ของ critic ถูกดูดเข้า §"กฎไม่ได้ตอบแทนทุกอย่าง" (กฎ = สัญญาณเรียกกระบวนการประเมิน) · §"แต่คอมไพล์แล้ว ก็ยังมีบั๊กได้" (ผิดซ้ำจนคล่องได้ / ความโล่ง ≠ พิสูจน์ / ถามผลลัพธ์ไม่ใช่ความถี่ + 3 สิ่งที่ต้องรักษา: งานสำคัญไม่หลุด สุขภาพไม่ทรุด มีแรงสำหรับพรุ่งนี้) · §"ปรัชญาของตัวเอง ไม่จำเป็นต้องคิดเองทุกคำ" (ยืมมา = วัตถุดิบ / ความเป็นเจ้าของ = การตรวจ ไม่ใช่แหล่งกำเนิด) · §Decision Asset วงจรครบ verbatim + keep/fix fork + "ไม่ต้องปกป้องประโยคเพียงเพราะเราเป็นคนเขียนมัน"
+- Battery: 383 wc-w, พร 30/เรา 18/คุณ 2/คับ 0, H1 8(รวม title)/H2 3/H3 1, beats 98, bold 17, CJK clean; publish archive `web-archive/20261018-own-philosophy-publish.md` byte-faithful
+- Reverse engineering → skill items (196)-(200): condition-carrying rules / rule-as-signal reframe / compiled ≠ verified / origin-agnostic ownership / feedback-loop closure
+- Notion `3fcdf8d8-8d8c-81f5-9063-e24ffd6f0706` PATCH 200×2 → 272 blocks MISS 0 (H1 ×7 + H2 ×3 ถูก type, สรุปแบบวิศวกรเป็ด = heading_1) CUT 0/5 **Status → published**; index words 383 → publish archive (WP ยังไม่ขึ้น ณ วัน CLOSE — ค้างรูปแบบ #49/#50 เติม WP entry เมื่อ live)
+### 2026-10-18 — new posts: screenshot-workflow-cost-snapzy-vs-cleanshot, user-not-machine-ebook-system-manual, closed-task-persistent-attention-full, post-completion-action-inertia-view-count, water-shape-vs-direction-niten-ichi-ryu, voice-input-flow-effort-vs-editing-cost, optimal-stopping-37-percent-rule-reality
+
+ภาพรวม batch: 7 โพสต์ (10-12..10-18, avg 225 wc-w — สั้นกว่า batch 09-27..10-11 ที่ avg 280) — 6 ใน 7 = publish ของ pair ที่ corpus วิเคราะห์ไว้แล้ว (pair #45 Snapzy, #46, #47, #48 niten-water, #49 Wispr, #50 37%) + ครั้งแรก 1 (user-not-machine e-book) — corpus วิเคราะห์วิ่งนำหน้า publication ต่อเนื่องเป็น batch ที่ 3 — คับ ≈ 0 ทั้ง batch (ยกเว้น CTA ของ Snapzy post 1 hit "อยู่คับ" = การสะกดแบบย่อของ "ครับ" — อนุภาคกลับเข้ามาเฉพาะช่อง CTA) — #สรุปแบบวิศวกรเป็ด กลับมาเป็น closer มาตรฐานของโพสต์ยาว (2/2 ของโพสต์ ≥393 คำ) — โพสต์สั้น 4 ตัวใช้ closer track เดิม (ก่อนนอน ×1 / unknown ending ×1 / non-question closing ×2) — closing split 2 tracks (note #9) ยังดำเนินต่อ; batch นี้ไม่มีโพสต์แบบ zero-closing-device
+
+- screenshot-workflow-cost-snapzy-vs-cleanshot:
+  - ยืนยัน publish ของ pair #45: skeleton 4 beats + decline-to-rank ("พรจะยังไม่สรุปว่า Snapzy ดีกว่า CleanShot X") + fork 3 ทาง (macOS built-in / Snapzy / อยู่ต่อ) + CTA ตอบได้ (Capture/Annotate/Share) + ลิงก์ 2 อันท้าย — ครบตาม pair history
+  - ยืนยัน convention "question-sized-to-evidence" + question-shift เดียวจบบท ("เราจ่ายเงินให้ฟีเจอร์ หรือจ่ายเพื่อให้ขั้นตอนระหว่างงานหายไป") + evidence-status discipline (ฟีเจอร์ ≠ ผลการใช้งานจริง)
+  - Drift: CTA "คนใช้ Mac ตอนนี้ใช้ตัวไหนจับภาพหน้าจอกันอยู่คับ" — อนุภาคกลับเข้ามาที่ช่อง CTA (คับ = 1 ทั้งโพสต์); "เรา" 7 สูงกว่าโพสต์ A — advice register ของ type B
+- user-not-machine-ebook-system-manual:
+  - ครั้งแรก — โพสต์ e-book launch (113): scene "วันที่แค่ลุกจากเตียงก็ยาก" → DuckOS positioning 3-line ("ไม่ใช่แอป / ไม่ใช่สูตร Productivity / ไม่ใช่การบังคับให้ทำงานได้มากขึ้น") → แจกฟรี + duckshort.cc link (CTA รูปแบบ 2026-05 กลับมา แต่เป็น e-book link ไม่ใช่ Session 20 ท่าน)
+  - ใหม่: closer = English aphorism + full stop ("User ≠ Machine.") — ≠-equation มาใช้เป็น closer — closer form ของ batch ที่ไม่ใช่ question / ไม่ใช่สรุป / ไม่ใช่ก่อนนอน
+  - ใหม่: emoji 📖 ก่อน CTA link (emoji กลับมาในโพสต์ publish — batch ก่อนหน้าแทบไม่มี); hashtag core #DuckOS นำหน้า #Adduckivity (ตัวเดียวของ batch)
+- closed-task-persistent-attention-full:
+  - ยืนยัน publish ของ pair #46 (see-cant-hold-overload): scene "งานหนึ่งหายไป อีกงานกลับเข้ามาทันที" + owner framing "ความสนใจขยับไปหาอีกงาน" (supersede critic fork ตาม pair history) + ending ไม่มี "เพราะ"-ฟันธง + hedged "อาจ" — ครบตาม pair history
+  - ยืนยัน closer "ก่อนนอน" (plain) + night question 1 ข้อ — track เดิมของ note #9
+  - ยืนยัน length band สั้นสุดของ corpus (87 คำ — 4 ใน 7 โพสต์ของ batch น้อยกว่า 120 คำ)
+- post-completion-action-inertia-view-count:
+  - ยืนยัน publish ของ pair #47 (diligence-inside-not-outside): feedback section ตายทั้ง section / negative list ย่อ 4→2 / two observation layers ("ตอนนั้น...ถามตัวเองแล้วบอกไม่ได้" + "ตอนเขียน...พรเพิ่งสังเกตว่า") / killer line "แค่รู้สึกว่า น่าจะมีอะไรให้ทำต่อ" — ครบตาม pair history
+  - closing = non-question (hedge "บางที" + universal line) ตาม owner call — closer form ที่ 3 ของ batch; สั้น (77 — สั้นสุด corpus ใหม่)
+- water-shape-vs-direction-niten-ichi-ryu:
+  - ยืนยัน publish ของ pair #48 (niten-water-heart): spine shape-vs-direction + "ทิศของพร คือ วันนี้ต้องไม่พัง" (3 items) + two-mode split (เปลี่ยนรูปเพื่อรับทุกอย่าง vs เพื่อรักษาสิ่งสำคัญ) — publish 1.43× v3 ตาม pair history
+  - ใหม่: external reference สาย martial art (Niten Ichi-ryū) + tags #NitenIchiRyu #Water — สายปรัชญาตะวันออกตัวแรกของ corpus (ต่อจาก Stoicism ของ batch ก่อน)
+  - ใหม่: closer = aphorism + full stop ("เปลี่ยนรูปได้ แต่อย่าหลงทิศ.") + question-as-artifact ("ตอนนี้พรมีคำถามไว้ตรวจการตัดสินใจของตัวเองแล้ว") — โพสต์จบด้วยการมอบเครื่องมือคิด ไม่ใช่คำตอบ; batch นี้ 3/7 โพสต์จบด้วย non-question closer
+- voice-input-flow-effort-vs-editing-cost:
+  - ยืนยัน publish ของ pair #49: pre-trial analysis (ยังไม่ได้ทดลอง) + 5 สัญญาณ + 3 metrics (Effort/Quality/Complexity) + "มุมของ DuckOS" + #สรุปแบบวิศวกรเป็ด + dead-terms 23/23 zero — ครบตาม pair history
+  - ยืนยัน type-B convention ใหม่: dated vendor-data block ("ตามข้อมูลราคาที่พรตรวจเมื่อ 16 ตุลาคม 2026") + "ราคาและเงื่อนไขอาจเปลี่ยนได้" + evidence-status labeling ("สิ่งที่ผู้ผลิตระบุ...จะยังไม่ถูกนับว่าเป็นผลลัพธ์ที่พิสูจน์แล้ว") — pair #45/#49 ยืนยันว่าเป็น standard แล้วในโพสต์เครื่องมือ
+  - ยืนยัน "คุณ" advice register (คุณ 4) เฉพาะโพสต์ B ที่สอนวิธีใช้ — consistent กับ drift note ของ agent-runtime (คุณ 5)
+- optimal-stopping-37-percent-rule-reality:
+  - ยืนยัน publish ของ pair #50: 2-question swap ("A ดีที่สุดหรือยัง" → "A ผ่านเกณฑ์พอให้ทดลองหรือยัง") + 3 checks (ผ่านเกณฑ์/ลองเล็กได้/ถอยได้) + reversible ≠ free + closer = line ของ critic verbatim ("37% ไม่ได้บอกว่าเราควรเลือกเมื่อไร จนกว่าเราจะรู้ก่อนว่า กำลังเล่นเกมแบบไหน") — ครบตาม pair history
+  - ยืนยัน convention "condition-match audit" (list เงื่อนไข Secretary Problem 5 ข้อ vs เงื่อนไขชีวิตจริง) + accuracy-debt fixes เข้า publish (เงื่อนไขครบใน first statement / edge case "อาจจบรอบโดยไม่ได้เลือกใครเลย")
+  - Drift: "เรา" 27 / "พร" 18 — we-heavy สูงสุดของ batch (โพสต์คณิตศาสตร์ → "เรา" เป็นตัวเล่า)
