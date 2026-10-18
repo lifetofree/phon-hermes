@@ -1742,3 +1742,11 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - battery: พร 11/เรา 2/คุณ-คับ-ผม 0, CUT = 0 (FP ยอมรับ: รูป=สำเร็จรูป, รถ=พรถาม)
 - Notion: หน้าเดิม PATCH 200×2 (Name → r2 reframe title, Status → rewritten) → 31 blocks markers 9/9 kills 0
 - สถานะ: รอ review/Benz
+
+
+### 2026-10-18 — pair #53 r3-r4 ADDENDUM (v3 → Benz r3 พร้อมปิดงาน + r4 FACT-LOCK → no-rewrite round)
+
+- r3 quote-verify 8/8 HIT; verdict "พร้อมปิดงานหลังแก้เฉพาะจุด ไม่ต้องรื้อ"; 4 fixes + 2 keeps + spine
+- Owner gate "เริ่มอ่าน" → r4 fact-lock with verbatim replacements = publish keys
+- Lesson → skill items (207)-(209): fact-lock round / ห้ามอัปเกรดสถานะเหตุการณ์ (จนจบ) / binary self-test ต้องมี ≥3 outcomes
+- คำสั่ง rewrite ถูกเพิกถอนในข้อความเดียวกัน → draft + Notion คง v3 (rewritten) — รอ publish version

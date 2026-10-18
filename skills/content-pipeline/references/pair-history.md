@@ -192,3 +192,12 @@ Skill items (196)-(200) shipped post-publish (condition-carrying rules / rule-as
 - user ส่ง publish version → archive-before-grade → grade keys สะสม r1-r4 ในโค้ด → Notion PATCH หน้าเดิม Status published (79 blocks) → read-back 12/12 kills 0
 - verdict summary: ทุก kill เก่า = 0; replacement block/closer ของ r4 เข้า verbatim; 2 owner-call NOTEs (r2 closer superseded by r4; curly-quote kill replaced); ratio 1.02× v2 = parity class
 - loop ปิดเต็มรอบ: brief → v1 (130) → r1 self-contradiction → v2 re-spine (142) → r2 ใกล้พร้อม → owner gate ×2 → r4 freeze-with-replacement → publish (145) — 5 rounds 1 วัน
+
+
+### Pair #53 r3-r4 (2026-10-18 evening) — v3 → Benz r3 (พร้อมปิดงาน+4 fixes) → owner gate ("เริ่มอ่าน") → Benz r4 FACT-LOCK → no-rewrite round
+
+- **Benz r3:** "พร้อมปิดงานหลังแก้เฉพาะจุด" — fixes: (1) "อ่านจนจบ" = ข้อเท็จจริงเกิน (gate: อ่านจบจริงไหม) (2) "รอบนั้นมันผ่าน" = เกณฑ์ลอย + ยังไม่รู้ผลหลังอ่าน (replacement 4 บรรทัด) (3) กฎตรวจท้าย binary แข็งเกิน — ตอบไม่ได้ ≠ เชื่อ AI ไม่คิด (replacement: ถามเพิ่ม/ทดลองเล็ก/พักการตัดสินใจ) (4) quote ซ้ำ title → "คำแนะนำที่มีเหตุผล ไม่ได้ทำให้สิทธิ์ในการเลือกย้ายจากเราไปอยู่ที่เครื่องมือ" + "ตั้งแต่นั้น" → "เหตุการณ์นี้ทำให้พรกลับมามอง..."; KEEP: "ยังไม่มีหลักฐานว่าเล่มที่ AI แนะนำไม่เหมาะ" + spine "การไม่ทำตาม AI ไม่ได้พิสูจน์ว่าเราถูกกว่า — แต่แสดงว่ายังมีส่วนร่วมในการตัดสินใจของตัวเอง"; quote-verify 8/8 HIT
+- **Owner gate answer:** "เริ่มอ่าน" (ไม่ใช่อ่านจบ)
+- **Benz r4 = FACT-LOCK:** ล็อกข้อเท็จจริง + replacement verbatim 2 จุด ("เลือกเล่มที่อยากอ่าน แล้วเริ่มอ่านจริง...ไม่ได้ทดลองทั้งสองทางภายใต้เงื่อนไขเดียวกัน" / "ประเมินว่า...เหมาะกับพลังงานที่มี จึงเลือกและเริ่มอ่าน...ยังไม่จำเป็นต้องสรุปว่าดีที่สุด") + spine "พรรับฟังคำแนะนำ แต่ไม่ได้ปล่อยให้คำแนะนำนั้นตัดสินใจแทน"
+- **User command "reverse engineer and rewrite it" + เพิกถอน ("did not rewrite it I will send publish version")** → no-rewrite round ตาม item (205): archives + baselines เท่านั้น, draft/Notion คง v3, รอ publish
+- **Publish keys สะสม:** จนจบ=0 / รอบนั้นมันผ่าน=0 / ถ้าตอบ binary=0 / ตั้งแต่นั้น=0 / duplicate quote → r3 quote swap / r4 replacements verbatim 2 จุด / r3 §4 block (softened rule) + §5 quote swap + opener rephrase ยังค้างเป็น keys
