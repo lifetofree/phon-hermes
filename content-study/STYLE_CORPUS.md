@@ -1730,3 +1730,15 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - battery: พร 9/เรา 0/คุณ-คับ-ผม 0, CUT 22 = 0, H1 1+H3 1, beats 9
 - Notion: หน้าเดิม `3fddf8d8-8d8c-8166-b21e-db38d781b99e` PATCH 200×2 (Name เดิมคง, Status → rewritten) → 44 blocks markers 10/10 CUT survivors 0
 - สถานะ: รอ review/Benz
+
+
+### 2026-10-18 — pair #53 v3 (Benz r1+r2 → book-event re-spine; gate answered via clarify)
+
+- Benz r1 (ยังไม่ควรเผยแพร่ — ฐานเหตุผล ไม่ใช่ภาษา): v2 ใช้ข้ออ้าง "AI ไม่เคยเริ่มเอง/ไม่ถาม/ยกเว้นอยาก" เพื่อไปข้อสรุปที่ยืนได้โดยไม่ต้องใช้ข้ออ้างเหล่านี้เลย; "ความว่างเปล่า" แรงเกิน; removal test รวม tool-dependence กับ ownership-loss เข้าด้วยกัน; "แรงเดินได้ทั้งวัน" ไม่มีต้นทุนตรวจ — และเสนอ hook reframe + คำถามหาเหตุการณ์จริง
+- Owner gate (paste 7): เหตุการณ์ = AI แนะนำหนังสือเล่ม X ตามพลังงาน / พรอยากอ่านอีกเล่ม + เห็นว่าเหมาะกับพลังงานตัวเอง → ไม่ทำตาม — Benz r2: ไม่ใช่ AI เข้าใจผิด ไม่ใช่ AI ผิด — AI มีเหตุผลชุดหนึ่ง พรมีข้อมูลอีกชุดจากประสบการณ์ตรง
+- PRE-REWRITE gate (r2 ถามปิดท้าย): ผ่าน clarify เจ้าของตอบ "เลือกอ่านเล่มที่ตัวเองอยากอ่านจริง (ลงมืออ่าน)" = แขนง ลงมือเลือกทางของตัวเอง (ไม่ใช่แค่ไม่รับคำแนะนำ)
+- v3 (108 wc-w = 0.76× v2): spine = เหตุการณ์หนังสือ (owner-supplied, ไม่มี invented detail) → gate reframe verbatim → ไม่มีใครผิด (สองชุดเหตุผล) → honesty census (ไม่มีหลักฐานเล่ม X ไม่เหมาะ / ไม่มีอะไรให้เทียบ / อยาก ≠ คำตอบสำเร็จรูป) → accept/refuse test (จาก r1 เก็บมา) → closer = r2 reframe verbatim
+- CUT ทั้งก้อน: การอธิบายธรรมชาติของ AI ทั้งหมด (เริ่มเอง family / ยกเว้นอยาก / ว่างเปล่า / แรงเดิน / removal test)
+- battery: พร 11/เรา 2/คุณ-คับ-ผม 0, CUT = 0 (FP ยอมรับ: รูป=สำเร็จรูป, รถ=พรถาม)
+- Notion: หน้าเดิม PATCH 200×2 (Name → r2 reframe title, Status → rewritten) → 31 blocks markers 9/9 kills 0
+- สถานะ: รอ review/Benz
