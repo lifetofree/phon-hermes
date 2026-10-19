@@ -251,3 +251,20 @@ Title/subtitle/closer = critic verbatim ทั้งสาม; เปิดเ�
 
 ### Publish round — CLOSED (owner text 89 wc-w = 1.06x v2, r2 keys 9/9, freeze dead 0)
 Owner ใช้ replacement ทั้งสอง verbatim + เพิ่ม #NeuroDivergent + ตัดเก็บภาษี. Notion -> published (24 blocks หลังลบ quote เปล่า 1 — trailing `> ` artifact ซ้ำ #54). Loop: brief→v1→r1→gate→v2→r2→publish = 4 rounds 1 วัน. Skill: (214) latent-lens inversion, (215) gate decides evidence class. ต่อยอดจาก #54: สองโพสต์แฝงหลักคิดเดียวกัน (ใช้พลังงาน/ความสนใจอย่างมีเจตนา) ตาม corpus strategy.
+
+
+## Pair #56 — exploit-stable-system (2026-10-19, Exploit-only brief → self-review → 3-round gate conversation → PASS → publish same day)
+
+**Brief:** ครึ่งหลังของ "Explore vs. Exploit" (กิ่ง park จาก #55) + แฝง duckos. Latent carry: First Principle :238 + Brain-Safe :230 → วิวัฒน์เป็น "ความไม่มั่นใจ = ข้อมูลไม่ใช่คำสั่ง" (Law #1) ตาม gate answers.
+
+### v1 (96 wc-w) → PRE-CRITIQUE SELF-REVIEW (user: "ถ้าส่งไปแบบนี้โดน Benz DNA ตีกลับมาแน่นอน") → v2 (95)
+4 จุดที่จับเองได้ก่อนส่ง: วินัย-in-body ขัด header claim / invented-time เช้าหนึ่ง / mini-story timeline สร้างเอง / hidden fork "สองหน้าตา" + verdict closer. บทเรียน: header claims ต้องตรวจด้วย battery ที่ใส่ guard จริงใน cut-list.
+
+### Benz r1 + 3-round gate conversation (quote-verify 6/6)
+r1: ตีของจริง/ของปลอม + ตัววัดเดี่ยวแรงเหลือ + เดาแรงจูงใจ + ย่อหน้าอธิบายคนอื่น + เส้นตัด → gate Q1 (แก้เพราะเห็นปัญหาจริงหรือไม่มั่นใจ?) → "ก็ไม่มั่นใจ ว่าจะปล่อยออกไป". Follow-up: แกน "หยุดแก้ไม่ได้" + ห้ามสร้างกฎ (ยังไม่รู้เกณฑ์ ready) → gate Q2 (เห็นจุดผิดจริงหรือรู้สึก?) → "เห็นว่าบางจุดยังไม่ชัดเจน". Critic แก้ข้อวิเคราะห์ตัวเอง: ความไม่มั่นใจมีเหตุผลรองรับ → gate Q3 (กังวลคนอ่านเข้าใจผิดหรืออธิบายไม่ชัด?) → "คนอ่านอาจเข้าใจความหมายผิด" + owner แยกเอง 2 ประเภท (คลาดเคลื่อนจริง/ตีความหลายทาง). Skill 216 (multi-round gates — รอคำตอบสุดท้าย converge, critic self-correction supersedes) + 217 (owner self-observation = content; ห้ามเดาแรงจูงใจ).
+
+### v3 (88 wc-w = 0.93x v2) → Benz r2 PASS-round ("ใกล้พร้อมเผยแพร่ แก้เฉพาะ 3 จุด")
+Freeze list: (1) "ทั้งที่ยังไม่เห็นปัญหาใหม่" ขัด gate → "เพราะยังเห็นจุดที่ความหมายไม่ชัด" (2) "รอบแก้พวกนี้แหละที่ยืดงานเงียบ ๆ" ฟันธงไร้หลักฐาน → "อาจไม่จำเป็นต้องแก้ทุกครั้ง" (3) title ซ้ำคำถามเปิด verbatim (code-verified) → "เพราะความหมายยังไม่ชัด หรือเพราะเรายังไม่รู้ว่าชัดแค่ไหนถึงพอ". Closer ซ้อน 2 ประโยค → แกนตัวหนา "แก้เพื่อรักษาความหมาย ไม่ใช่แก้เพื่อปิดทุกความเป็นไปได้". Keep: คำถามสารหลัก + เงื่อนไข "ตัวช่วยตัดสินใจ ไม่ใช่เครื่องรับประกัน" + ตรวจข้อเท็จจริง/ความปลอดภัยแยก. Latent carry ครบสูตร Law #1 สองด้าน (critic เรียกเอง). NO-REWRITE — รอ publish.
+
+### Publish round — CLOSED (owner text 99 wc-w = 1.13x v3, freeze keys 12/12, dead 0)
+Owner moves: replacement ทั้ง 2 แทบ verbatim + คำสารภาพ "ตอนนี้พรยังไม่ได้แยกการแก้แต่ละรอบอย่างชัดเจน" (ตรงข้อห้ามฟันธงของ critic เป๊ะ) + closer เก่าขึ้นเป็นคำอธิบาย + bold คำถามสารหลัก. Notion -> published (33 blocks หลังลบ quote เปล่า 1 — trailing `> ` artifact ครั้งที่ 3 ติดกัน). Loop: brief→v1→self-review→v2→r1-gate×3→v3→r2-PASS→publish = 5 rounds 1 วัน. Signal triad ครบ #54/#55/#56 — ไม่รวม Framework. Skill: (216)/(217).
