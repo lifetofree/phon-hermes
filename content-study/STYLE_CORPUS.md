@@ -1811,3 +1811,16 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - battery: 89 wc-w (1.06x v2), H1 1+H2 1+H3 1, พร 5/เรา 1/คุณ-ผม 0, scans CLEAN
 - loop: brief -> v1 94 (lens-inversion trap) -> Benz r1 (แก้แกน) -> gate มีจริง -> v2 80 (ต้นทุนเริ่มซ้ำ) -> Benz r2 (พร้อมเผยแพร่ 2 fixes) -> publish 89 — 4 rounds 1 วัน
 - WP ยังไม่ live ณ CLOSE — เติมเมื่อขึ้น
+
+
+### 2026-10-19 — pair #56 r1 (exploit-stable-system: v2 -> Benz 3-round gate conversation -> v3 re-spine)
+
+- pre-critique self-review (user สั่ง) จับ 4 จุดก่อนส่ง: วินัย-in-body ขัด header / invented-time เช้าหนึ่ง / mini-story timeline / hidden fork+verdict — battery PASS ก่อนส่งจริง
+- Benz r1 (paste 6): ตีของจริง/ของปลอม + ตัววัดเดี่ยวแรงเหลือ + เดาแรงจูงใจ + ย่อหน้าอธิบายคนอื่น + เส้นตัด; gate Q1 -> owner: "ก็ไม่มั่นใจ ว่าจะปล่อยออกไป"
+- Benz follow-up (paste 7): แกนเปลี่ยนเป็น "หยุดแก้ไม่ได้" + ห้ามสร้างกฎหยุดแก้ (ยังไม่รู้เกณฑ์ ready) + gate Q2 -> owner: "เห็นว่าบางจุดยังไม่ชัดเจน"
+- Benz correction #2 (paste 8): ปรับข้อวิเคราะห์ตัวเอง — ความไม่มั่นใจมีเหตุผลรองรับ + gate Q3 -> owner: "คนอ่านอาจเข้าใจความหมายผิด" + แยก 2 ประเภทเอง (คลาดเคลื่อนจริง/ตีความหลายทาง)
+- v3 (88 wc-w = 0.93x v2): title/subtitle/bold closer = critic verbatim ทั้งสาม ("ใช้ Format เดิม — แต่ทำไมบางชิ้นยังต้องแก้หลายรอบ") + replacement §3 verbatim (แก้ประโยคเดิม ไม่เดาแรงจูงใจ) + แกนใหม่ตาม gate (แก้เพราะความเสี่ยงการตีความผิด + สองประเภท) + OPB question + ข้อจำกัดตรวจข้อเท็จจริง/ความปลอดภัย
+- CUT ทั้งหมด: ของจริง/ของปลอม/แม่น/นิ่ง/เหลือ/กลัว/ทุ่มเท/คนพวกนี้/เส้นตัด (baselines v2 -> 0 หมด)
+- battery: พร 2/เรา 2/คุณ-คับ-ผม 0, CUT 25 = 0 (declared: เสมอ 1 critic verbatim ปฏิเสธ, ต้นทุน 2 critic-supplied), scans CLEAN
+- Notion: หน้าเดิม PATCH 200x2 (Name ใหม่, Status -> rewritten) -> 23 blocks kills 0 markers 7/7 quote bold - รอ review/Benz r2
+- skill items (216) multi-round gate conversations + (217) owner self-observation = content, ไม่เดาแรงจูงใจ

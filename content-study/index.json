@@ -3839,12 +3839,12 @@
  },
  {
   "slug": "20261019-cnt-exploit-stable-system",
-  "title": "ทำสิ่งเดิมให้นิ่งขึ้น ก็ยังเป็นการใช้ชีวิตที่คุมได้ (pair #56 fresh draft — Exploit ครึ่งหลัง, แฝง duckos)",
+  "title": "ใช้ Format เดิม — แต่ทำไมบางชิ้นยังต้องแก้หลายรอบ (pair #56 r1, Benz gate-conversation re-spine — แกน แก้ความหมายที่อาจผิด vs ป้องกันทุกการตีความ)",
   "date": "2026-10-19T00:00:00",
   "link": "https://app.notion.com/p/3fedf8d88d8c8155bca1d7bc454cb672",
-  "words": 95,
+  "words": 88,
   "file": "/home/lifetofree/hermes-agent/content-study/posts/20261019-cnt-exploit-stable-system.md",
-  "status": "draft",
-  "note": "pair #56; sibling ของ #55; pre-critique self-review 2026-10-19: ตัด วินัย 2 ตาม header claim (คนพวกนี้ทุ่มเทสูง), ตัด invented-time เช้าหนึ่ง (hedges: หลายครั้ง/ดูจะ/อาจ), ย่อ mini-story เป็น pattern, closer hedged (น่าเชื่อได้ในตอนนี้) — battery PASS incl. วินัย-cut; Notion 3fedf8d8-8d8c-8155-bca1-d7bc454cb672 PATCH 200x2 (22 blocks วินัย 0)"
+  "status": "rewritten",
+  "note": "pair #56 r1; 3-round gate conversation archived (3 pastes + owner replies); v2 snapshot + critique archive; Notion 3fedf8d8-8155 PATCH 200x2 -> 23 blocks kills 0"
  }
 ]
