@@ -1800,3 +1800,14 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - battery: พร 5/เรา 0/คุณ-ผม 0, kills 0 (declared: ระบบ 3 + ต้นทุน 2 = critic-supplied, คับ 1 = FP บังคับ), scans CLEAN
 - latent carry ยังอยู่: Asset Lock-in กลับด้านเป็น avoided-loss + Reuse+Adapt (critic เรียกเอง) — unnamed, Duck-in-body 0, bridge กับ #54 ผ่าน §7 ไม่ cite
 - Notion: หน้าเดิม PATCH 200x2 (Name ใหม่, Status -> rewritten) -> 23 blocks kills 0 markers 9/9 quote bold — รอ review/Benz r2
+
+
+### 2026-10-19 — pair #55 CLOSED (explore-collect-what-remains: publish 89 wc-w = 1.06x v2; r2 keys 9/9, freeze dead 0)
+
+- Benz r2 quote-verify 8/8 HIT vs v2; verdict "พร้อมเผยแพร่หลังปรับถ้อยคำ 2 จุดหลัก" + สั่งหยุดแก้ ("หลังจากนั้นควรหยุดแก้ ไม่ต้องเพิ่มทฤษฎีหรือ Framework ใหม่"); keep-list: title + ประโยคแกน + บทสรุป (ผ่านทั้งหมด)
+- r2 fixes: (1) "รอบสองไม่ได้เรียนรู้อะไรใหม่...ทั้งดุ้น" (ฟันธงแรงเกิน) -> critic replacement verbatim "พรต้องเสียแรงกลับไปเจอปัญหาที่เคยพบแล้ว...อาจไม่ต้องเริ่มจากจุดเดิม" (2) consultant tail "ถ้ายังไม่เจอ ก็ไม่ต้องรีบสร้างระบบ...อย่าสร้างระบบก่อนเห็นต้นทุน" -> "พรเลยเริ่มเห็นว่า...อย่างน้อยควรมีร่องรอยบางอย่างไว้ให้ตัวเองในครั้งหน้า" (กลับเป็นเสียงเล่า) (3) เก็บภาษี -> "เป็นชิ้นเป็นอัน" (owner ตัดสินตัดตาม critic เสนอ)
+- publish archive `web-archive/20261019-explore-collect-what-remains-publish.md` verbatim -> Notion หน้าเดิม PATCH 200x2 (Status -> published) -> 25 blocks -> ลบ quote เปล่า 1 (trailing `> ` artifact ซ้ำรูปแบบ #54) -> **24 blocks, freeze dead 0, keys 9/9, Status published**
+- grades: freeze keys 9/9 HIT (replacement 2 จุด verbatim + keep-list 3 ชิ้น 0 drift + แกน + เดินวน-นิยามใหม่ + r1 §2 line); owner moves: #NeuroDivergent เพิ่ม + ตัด "เก็บภาษี"
+- battery: 89 wc-w (1.06x v2), H1 1+H2 1+H3 1, พร 5/เรา 1/คุณ-ผม 0, scans CLEAN
+- loop: brief -> v1 94 (lens-inversion trap) -> Benz r1 (แก้แกน) -> gate มีจริง -> v2 80 (ต้นทุนเริ่มซ้ำ) -> Benz r2 (พร้อมเผยแพร่ 2 fixes) -> publish 89 — 4 rounds 1 วัน
+- WP ยังไม่ live ณ CLOSE — เติมเมื่อขึ้น

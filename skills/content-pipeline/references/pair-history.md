@@ -231,3 +231,23 @@ Benz: แฝง ≠ กระจาย; 1 โพสต์ = 1 ปัญหาจ
 
 ### Publish round — CLOSED (owner text 0.88x v2, r1 keys 13/13)
 Owner moves: งานที่ตั้งใจขึ้น hook / worked example เป็น contrast "บางครั้ง...แต่บางเช้า..." / closer ใช้งาน "ลองถามว่า..." / ใส่ duck closer + #NeuroDivergent. Kills 0, keys 13/13, battery PASS. Notion -> published (24 blocks หลังลบ quote เปล่า 1 จาก trailing `> ` — artifact ของ paste ไม่ใช่ข้อความ). Loop: brief→v1→r1→gate→v2→publish = 4 rounds 1 วัน. Skill: (210) mechanism-first trap, (211) gate-question-before-rewrite.
+
+
+## Pair #55 — explore-collect-what-remains (2026-10-19, Explore-only brief → Benz r1 re-spine → r2 polish → publish same day)
+
+**Brief:** Explore vs. Exploit แต่สั่ง "คุยแค่ explore อย่างเดียวก่อน" + "explore ตัวเอง" + "แฝง duckos" — exploit = กิ่ง parked; latent carry ครั้งแรกหลัง item 212 (Asset Lock-in :231 unnamed, Duck-in-body 0 verify ใน read-back).
+
+### v1 (94 wc-w) — latent-lens inversion (skill 214)
+แกน "มาตรวัดการสำรวจ" = ทำแล้วเหลืออะไร/ติดมือ/วัดที่กลับมาพร้อมข้อมูล + census ending (หน่วยของการสำรวจ นับยังไง) — หลักคิดที่แฝงกลายเป็นเกณฑ์ตัดสินว่าการลองแบบไหน "ดี" (เก็บภาษีการลอง).
+
+### Benz r1 (quote-verify 7/7) — "แก้แกนการตัดสินเล็กน้อยก่อนเผยแพร่" + 3 คำสั่ง
+Blind spot: "การเก็บสิ่งที่มีประโยชน์จากการสำรวจ" ≠ "การบังคับให้ทุกการสำรวจต้องเหลืออะไร" — lens ต้อง protect ไม่ใช่ grade. §2 worked example = จุดน้ำหนัก + replacement "ไม่จำเป็นต้องกลับไปลองซ้ำโดยไม่มีเหตุผลใหม่". §3 เดินวน = กลับมาทำสิ่งเดิมโดยไม่ใช้สิ่งที่เรียนรู้ (ไม่ใช่ ลองแล้วไม่มีผล). §4 ตัดหน่วยวัด + "อย่าสร้างระบบก่อนเห็นต้นทุนของการไม่มีระบบ". §5 จำกัดขอบเขตเครื่องมือ+วิธีทำงาน. §6 สามประโยค verbatim (title/คำโปรย/สรุป). Gate: "มีเรื่องไหนที่กลับไปลองซ้ำเพราะจำไม่ได้?" → owner: **มีจริง** → แกน = ต้นทุนการเริ่มซ้ำ (skill 215).
+
+### v2 (80 wc-w = 0.89x v1) — re-spine avoided-loss
+Title/subtitle/closer = critic verbatim ทั้งสาม; เปิดเหตุการณ์จริง class-level (รอบสองเจอสิ่งที่ครั้งก่อนเคยเจอ); kills: ติดมือ/หน่วย/นิยาม/ขอบเขตขยาย = 0.
+
+### Benz r2 (quote-verify 8/8) — "พร้อมเผยแพร่หลังปรับถ้อยคำ 2 จุดหลัก" + สั่งหยุดแก้
+(1) "ทั้งดุ้น" ฟันธงแรงเกิน → replacement verbatim (เสียแรงกลับไปเจอปัญหาเดิม / ถ้าจำได้...อาจไม่ต้องเริ่มจากจุดเดิม); (2) consultant tail → "พรเลยเริ่มเห็นว่า...ร่องรอยบางอย่างไว้ให้ตัวเองในครั้งหน้า"; (3) เก็บภาษี = style choice owner ตัด. Keep-list: title + ประโยคแกน + บทสรุป. OPB: อย่าต่อยอดเป็น Exploration Log/KMS/Template — Signal Content พอ; Asset เล็กสุด = "เคยลองอะไร ติดตรงไหน" เฉพาะเรื่องที่มีโอกาสกลับมาเจอ.
+
+### Publish round — CLOSED (owner text 89 wc-w = 1.06x v2, r2 keys 9/9, freeze dead 0)
+Owner ใช้ replacement ทั้งสอง verbatim + เพิ่ม #NeuroDivergent + ตัดเก็บภาษี. Notion -> published (24 blocks หลังลบ quote เปล่า 1 — trailing `> ` artifact ซ้ำ #54). Loop: brief→v1→r1→gate→v2→r2→publish = 4 rounds 1 วัน. Skill: (214) latent-lens inversion, (215) gate decides evidence class. ต่อยอดจาก #54: สองโพสต์แฝงหลักคิดเดียวกัน (ใช้พลังงาน/ความสนใจอย่างมีเจตนา) ตาม corpus strategy.

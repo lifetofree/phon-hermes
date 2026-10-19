@@ -3820,12 +3820,21 @@
  },
  {
   "slug": "20261019-cnt-explore-collect-what-remains",
-  "title": "ลองของใหม่ได้ — แต่อย่าให้สิ่งที่เคยเรียนรู้หายไปโดยไม่จำเป็น (pair #55 r1, Benz re-spine — แกนต้นทุนการเริ่มซ้ำ)",
+  "title": "ลองของใหม่ได้ — แต่อย่าให้สิ่งที่เคยเรียนรู้หายไปโดยไม่จำเป็น (pair #55 CLOSED publish)",
   "date": "2026-10-19T00:00:00",
   "link": "https://app.notion.com/p/3fedf8d88d8c81d89b90c2d1b1526c72",
-  "words": 80,
+  "words": 89,
   "file": "/home/lifetofree/hermes-agent/content-study/posts/20261019-cnt-explore-collect-what-remains.md",
-  "status": "rewritten",
-  "note": "pair #55 r1; v1 snapshot + critique archived; gate=มีจริง (ต้นทุนเริ่มซ้ำ); Notion 3fedf8d8-8d8c-81d8-9b90-c2d1b1526c72 PATCH 200x2 -> 23 blocks kills 0"
+  "status": "published",
+  "note": "publish archived; Notion 3fedf8d8-81d8 Status published (24 blocks หลังลบ quote เปล่า 1)"
+ },
+ {
+  "slug": "20261019-explore-collect-what-remains-publish",
+  "title": "ลองของใหม่ได้ — แต่อย่าให้สิ่งที่เคยเรียนรู้หายไปโดยไม่จำเป็น (pair #55 publish verbatim)",
+  "date": "2026-10-19T00:00:00",
+  "link": "https://app.notion.com/p/3fedf8d88d8c81d89b90c2d1b1526c72",
+  "words": 89,
+  "file": "/home/lifetofree/hermes-agent/content-study/web-archive/20261019-explore-collect-what-remains-publish.md",
+  "status": "published"
  }
 ]
