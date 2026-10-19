@@ -1761,3 +1761,13 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - register: พร 27/เรา 13, beats 10, bold 8, H1 1+H2(closer) 1+H3 1; ratio 1.55× v3 (ขยายตาม reframe ของ critic — post-#52 publish เฉลี่ย 1.3×)
 - loop: v1 (other model) → v2 (KhaoKlong) → Benz r1 ฐานเหตุผล → gate เหตุการณ์ → r2 re-spine → v3 → r3 พร้อมปิดงาน → gate เริ่มอ่าน → r4 fact-lock → publish — 8 rounds 1 วัน, 2 gates ตอบโดยเจ้าของ
 - WP ยังไม่ live — เติมเมื่อขึ้น
+
+
+### 2026-10-19 — pair #54 r1 (survival-hardware-reacting-mode: fresh v1 -> Benz r1 re-spine)
+
+- v1 (fresh, 131 wc-w) = mechanism-first: เปิดพฤติกรรม (เอื้อมโทรศัพท์หลายเช้า) แล้วอธิบายด้วยกลไกเดียว "ระบบชุดนี้ถูกสร้างบนโจทย์เดียว คือรอด" + fork ภัยจริง/สัญญาณปลอม + ย่อหน้าวัดสัดส่วน
+- Benz r1 quote-verify 7/9 HIT (2 drifts: critic เขียน "การทำงานของ" แทน "สมรรถนะของ" + "หลายครั้ง" แทน "หลายเช้า" — substitution ไม่เปลี่ยนเป้าวิจารณ์); verdict = "ปรับแกนก่อนเผยแพร่ ไม่ใช่แค่ขัดภาษา" (Blind Spot: พฤติกรรมเดียวสรุปกลไกเดียวไม่ได้ / fork เด็ดขาดเกิน / ย่อหน้าวัด = ความซับซ้อนไม่สร้างคุณค่า)
+- Owner gate (clarify): เหตุการณ์จริง — เช้านั้นมีชิ้นงานที่ตั้งใจทำจริง -> v2 เขียนเป็นเหตุการณ์ของพร (งานที่ตั้งใจ = evidence หลัก); สิ่งที่ยังไม่ได้เล่า (จัดการความขัดแย้งยังไง) = คำถามปิด ไม่แต่ง
+- v2 (80 wc-w = 0.59x v1): title critic verbatim / spine behavior-first (สังเกต ไม่อ้างอวัยวะ) / frame ใหม่ critic §3 "เรียกความสนใจได้ != ควรได้รับทันที" / fork เก่าตายทั้งชุด (baselines: ระบบ 10, โจทย์ 15, ภัย 9 -> 0) / critic verbatim: §2 block 3 lines + "ความปลอดภัยมาก่อน" + "ไม่บังคับหยุดวิเคราะห์จนเสียเวลา" + "แม่นยำทุกครั้ง" + bold closer "ตัดสินความสำคัญแทนเรา" + spine "ข้อมูลที่ควรรับรู้ ไม่ใช่คำสั่ง" (Law #1 unlabeled ผ่านปาก critic)
+- battery: พร 2/เรา 1/คุณ-ผม 0, CUT 22 = 0 (FP 2 ยอมรับ: ภัย in ปลอดภัย, คับ in บังคับ), scans CLEAN
+- Notion: หน้าเดิม PATCH 200x2 (Name = title critic, Status -> rewritten) -> 22 blocks markers 10/10 kills 0 quote bold - รอ review/Benz r2
