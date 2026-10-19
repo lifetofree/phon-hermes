@@ -1789,3 +1789,14 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - battery: 75 wc-w (0.88x v2), H1 1+H2 1(closer)+H3 1, พร 6/เรา 2/คุณ-ผม 0, scans CLEAN, PASS
 - loop: brief -> v1 131 (mechanism-first) -> Benz r1 (ปรับแกนก่อนเผยแพร่) -> gate เจ้าของ (เหตุการณ์จริง) -> v2 80 (behavior-first re-spine) -> publish 75 — 4 rounds 1 วัน + 1 corpus-strategy round แทรก (skill 212-213)
 - WP ยังไม่ live ณ CLOSE — เติมเมื่อขึ้น (แบบ #49-#53)
+
+
+### 2026-10-19 — pair #55 r1 (explore-collect-what-remains: fresh v1 -> Benz r1 re-spine)
+
+- v1 (94 wc-w) carried Asset Lock-in as lens but promoted it into a judgment criterion (วัดที่กลับมาพร้อมข้อมูล / ติดมือ / เหลืออะไรแยกเดินวน) + census ending (หน่วยของการสำรวจ)
+- Benz r1 quote-verify 7/7 HIT (no drift); verdict "แก้แกนการตัดสินเล็กน้อยก่อนเผยแพร่" + 3 คำสั่ง (เปลี่ยนเหลืออะไร -> ไม่สูญหายโดยไม่จำเป็น / ตัดหน่วยวัด / จำกัดขอบเขตเครื่องมือ+วิธีทำงาน)
+- Gate (clarify): "มีจริง — เคยกลับไปลองซ้ำเพราะจำไม่ได้ว่าครั้งก่อนพบอะไร" -> แกนที่มีหลักฐาน = ต้นทุนการเริ่มซ้ำ (critic §3); คนละบทความกับ "การยอมรับว่าบางการสำรวจยังไม่มีข้อสรุป"
+- v2 (80 wc-w = 0.89x v1): title/subtitle/bold closer = critic §6 ทั้งสามประโยค verbatim / แกนใหม่ = เหตุการณ์จริง class-level (รอบสองไม่ได้เรียนรู้ใหม่ จ่ายเพื่อทำซ้ำ) / critic §2 replacement verbatim ("ไม่จำเป็นต้องกลับไปลองซ้ำโดยไม่มีเหตุผลใหม่") / §4 คำถาม OPB + "อย่าสร้างระบบก่อนเห็นต้นทุน" / CUT ติดมือ/หน่วย/นิยาม/ขอบเขตขยาย
+- battery: พร 5/เรา 0/คุณ-ผม 0, kills 0 (declared: ระบบ 3 + ต้นทุน 2 = critic-supplied, คับ 1 = FP บังคับ), scans CLEAN
+- latent carry ยังอยู่: Asset Lock-in กลับด้านเป็น avoided-loss + Reuse+Adapt (critic เรียกเอง) — unnamed, Duck-in-body 0, bridge กับ #54 ผ่าน §7 ไม่ cite
+- Notion: หน้าเดิม PATCH 200x2 (Name ใหม่, Status -> rewritten) -> 23 blocks kills 0 markers 9/9 quote bold — รอ review/Benz r2
