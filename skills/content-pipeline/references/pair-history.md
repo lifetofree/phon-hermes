@@ -208,3 +208,26 @@ Skill items (196)-(200) shipped post-publish (condition-carrying rules / rule-as
 - publish 167 wc-w (1.55× v3) → archive-before-grade → keys รอด 16/16 → Notion published (68 blocks)
 - zero owner-call NOTEs — ทุก fix เข้าครบทั้ง r3 (4 fixes) และ r4 (fact-lock 2 จุด near-verbatim)
 - full loop: v1 (other model) → v2 rewrite (KhaoKlong) → r1 (ฐานเหตุผล: ข้ออ้างที่ข้อสรุปไม่ต้องใช้) → owner gate 1 (เหตุการณ์หนังสือ) → r2 (re-spine เหตุการณ์จริง) → v3 → r3 (พร้อมปิดงาน, fact-audit) → owner gate 2 (เริ่มอ่าน) → r4 (fact-lock) → publish
+
+
+## Pair #54 — survival-hardware-reacting-mode (2026-10-19, idea brief TH → Benz r1 re-spine → publish same day)
+
+**Brief:** 3-beat TH (สมองสัญชาตญาณเอาตัวรอด × โลกทุนนิยม × Reacting Mode/System One) — no story seed.
+
+### v1 (131 wc-w) — mechanism-first trap (skill 210)
+Spine: เอื้อมโทรศัพท์ habitual → อธิบายด้วยกลไกเดียว "ระบบชุดนี้ถูกสร้างบนโจทย์เดียว คือรอด" (SSOT :269-274 3 Brain Layers unlabeled) → fork ภัยจริง/สัญญาณปลอม (SSOT :73) → worked example ตกขบวน → census ending (สัดส่วน นับยังไง, note 145) → near-miss "ระบบพัง" + bold closer "ปัญหาไม่ใช่ความเร็ว — ปัญหาคือโจทย์ที่ความเร็วตอบ". Battery PASS 22 kills 0.
+
+### Benz r1 (verdict: ปรับแกนก่อนเผยแพร่ ไม่ใช่แค่ขัดภาษา)
+Quote-verify 7/9 (2 drifts: "การทำงานของ" vs draft "สมรรถนะของ" / "หลายครั้ง" vs "หลายเช้า"). Blind Spot §2: พฤติกรรมเดียวสรุปกลไกเดียวไม่ได้ (หยิบโทรศัพท์ = เคยชิน/คาดหวัง/เบื่อ/อยากรู้ ก็ได้) — replacement block 3 lines verbatim. §3: อุปมา "แต่งตัวเป็นภัย" ทำให้เหลือ 2 ทางเด็ดขาด → frame ใหม่ "สิ่งที่เรียกความสนใจได้ ≠ สิ่งที่ควรได้รับทันที". §4: ตัวอย่างภัยจริงรวมของต่างระดับ (รถ/อาการ/ไฟ) + DuckOS line "ความปลอดภัยมาก่อน แต่ความรู้สึกเร่งด่วนไม่ได้บอกระดับอันตรายได้แม่นยำทุกครั้ง" + "ไม่ควรบังคับหยุดวิเคราะห์จนเสียเวลา". §5: ตัดย่อหน้าวัดทั้งย่อหน้า ("ตัดทั้งย่อหน้าได้เลย"). §6: gate question = ชิ้นงานจริงหรือสมมติ. §7 skeleton: Hook มือหยิบก่อนรู้ / ความขัดแย้ง เร่ง≠จำเป็น / ตัวอย่าง ข่าววงการ vs งานที่ตั้งใจ / Reframe ไม่กำจัดแต่แยกครั้งไหนให้นำ / บทสรุป "สิ่งเร้าเรียกความสนใจได้ แต่ไม่ควรได้สิทธิ์กำหนดลำดับความสำคัญโดยอัตโนมัติ" + title ใหม่ + closer "ปัญหาไม่ใช่การตอบสนองเร็ว แต่คือการปล่อยให้ความเร็วของสิ่งเร้ามาตัดสินความสำคัญแทนเรา".
+
+### Gate (owner, clarify): เหตุการณ์จริง — เช้านั้นมีชิ้นงานที่ตั้งใจทำจริง
+→ v2 เขียนเป็นเหตุการณ์ของพร (งานที่ตั้งใจ = evidence หลัก); วิธีจัดการความขัดแย้ง = คำถามปิด ไม่แต่ง (skill 211).
+
+### v2 (80 wc-w = 0.59x v1) — re-spine behavior-first
+Title critic verbatim / spine = การสังเกต (ไม่อ้างอวัยวะ) / fork ใหม่ = ความรู้สึกว่าต้องรีบ vs ความจำเป็นต้องรีบ / critic verbatim ทั้งชุด / spine "ความรู้สึกเร่งด่วนเป็นข้อมูลที่ควรรับรู้ — แต่ไม่ใช่คำสั่ง" (Law #1 unlabeled ผ่านปาก critic). Kills 22 = 0. Notion PATCH 200x2 Status rewritten.
+
+### Corpus-strategy round แทรก (owner Q: แฝงหลักคิดไหม) — analyze-only
+Benz: แฝง ≠ กระจาย; 1 โพสต์ = 1 ปัญหาจริง + 1 หลักคิด; seam = duck closer + #DuckOS; audit Q "ถ้าเอาชื่อ DuckOS ออก..." — skill 212-213; latent audit วัดแล้ว corpus อยู่ในสถานะนั้นแล้ว.
+
+### Publish round — CLOSED (owner text 0.88x v2, r1 keys 13/13)
+Owner moves: งานที่ตั้งใจขึ้น hook / worked example เป็น contrast "บางครั้ง...แต่บางเช้า..." / closer ใช้งาน "ลองถามว่า..." / ใส่ duck closer + #NeuroDivergent. Kills 0, keys 13/13, battery PASS. Notion -> published (24 blocks หลังลบ quote เปล่า 1 จาก trailing `> ` — artifact ของ paste ไม่ใช่ข้อความ). Loop: brief→v1→r1→gate→v2→publish = 4 rounds 1 วัน. Skill: (210) mechanism-first trap, (211) gate-question-before-rewrite.

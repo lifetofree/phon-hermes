@@ -3791,13 +3791,13 @@
  },
  {
   "slug": "20261019-cnt-survival-hardware-reacting-mode",
-  "title": "มือหยิบโทรศัพท์ก่อนคิด — แต่สิ่งที่เรียกความสนใจ ไม่ได้แปลว่าสำคัญที่สุด (pair #54 r1, Benz re-spine)",
+  "title": "มือหยิบโทรศัพท์ก่อนคิด — แต่สิ่งที่เรียกความสนใจ ไม่ได้แปลว่าสำคัญที่สุด (pair #54 CLOSED publish)",
   "date": "2026-10-19T00:00:00",
   "link": "https://app.notion.com/p/3fedf8d88d8c81b98636f41eb209d77e",
-  "words": 80,
+  "words": 75,
   "file": "/home/lifetofree/hermes-agent/content-study/posts/20261019-cnt-survival-hardware-reacting-mode.md",
-  "status": "rewritten",
-  "note": "pair #54; v1 snapshot web-archive/20261019-survival-hardware-reacting-mode-v1.md; Notion 3fedf8d8-8d8c-81b9-8636-f41eb209d77e PATCH 200x2 (Name ใหม่, Status rewritten) -> 22 blocks kills 0 (FP ปลอดภัย 1) markers 10/10 quote bold"
+  "status": "published",
+  "note": "publish archived web-archive/20261019-survival-hardware-reacting-mode-publish.md; Notion 3fedf8d8 Status published (24 blocks หลังลบ quote เปล่า)"
  },
  {
   "slug": "20261019-benz-dna-corpus-strategy-latent-principle",
@@ -3808,5 +3808,14 @@
   "file": "/home/lifetofree/hermes-agent/content-study/web-archive/20261019-benz-dna-corpus-strategy-latent-principle.md",
   "status": "archived",
   "note": "corpus-level strategy round; latent audit measured; no draft/Notion edits"
+ },
+ {
+  "slug": "20261019-survival-hardware-reacting-mode-publish",
+  "title": "มือหยิบโทรศัพท์ก่อนคิด — แต่สิ่งที่เรียกความสนใจ ไม่ได้แปลว่าสำคัญที่สุด (pair #54 publish verbatim)",
+  "date": "2026-10-19T00:00:00",
+  "link": "https://app.notion.com/p/3fedf8d88d8c81b98636f41eb209d77e",
+  "words": 75,
+  "file": "/home/lifetofree/hermes-agent/content-study/web-archive/20261019-survival-hardware-reacting-mode-publish.md",
+  "status": "published"
  }
 ]

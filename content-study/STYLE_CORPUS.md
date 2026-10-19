@@ -1779,3 +1779,13 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - Verification: table 4 แถวตรงของจริง (#53 ไม่ใช่คำสั่ง+ข้อมูลประกอบ HIT / #52 หยิบกลับมาใช้+Asset HIT / #54 ตัดสินความสำคัญแทนเรา+ข้อมูลที่ควรรับรู้ HIT / แถวพลังงาน = WP energy line ใน index)
 - Latent audit (code, 9 posts 10-12..10-19): DuckOS-in-body 0 ทั้งหมด, #DuckOS = hashtag-only ทุกชิ้น, duck closer 4/9 (mixed — seam เดียวที่ยังไม่สม่ำเสมอ) -> corpus อยู่ในสถานะที่ Benz แนะอยู่แล้ว ไม่ต้องแก้โพสต์
 - Round = analyze-only: archive + verify + measure + skill items (212)-(213); drafts/Notion ไม่ถูกแตะ
+
+
+### 2026-10-19 — pair #54 CLOSED (survival-hardware-reacting-mode: publish 75 wc-w = 0.88x v2; r1 keys 13/13)
+
+- publish archived verbatim `web-archive/20261019-survival-hardware-reacting-mode-publish.md` -> Notion หน้าเดิม `3fedf8d8-8d8c-81b9-8636-f41eb209d77e` PATCH 200x2 (Status -> published) -> 25 blocks -> ลบ quote block เปล่า 1 (trailing `> ` ของ owner paste = rendering artifact) -> **24 blocks, markers HIT ทุกตัว, kills 0, Status published**
+- grades: kills 0 ทั้งหมด (สัญชาตญาณ/สมอง/ระบบ/โจทย์/ฝูง/สัญญาณ/สัดส่วน/ทุนนิยม/System One/Reacting/เครื่อง/เสมอ/คุณ/ผม + FP ประกาศ: ภัย 1 = ปลอดภัย, คับ 1 = บังคับ, ทุกครั้ง 1 = critic verbatim "ไม่ได้บอกระดับอันตรายได้แม่นยำทุกครั้ง"); r1 keys 13/13 HIT (title critic / §2 block / ความปลอดภัยมาก่อน / ไม่บังคับหยุดวิเคราะห์ / แม่นยำทุกครั้ง / ข้อมูลที่ควรรับรู้ / ตัดสินความสำคัญแทนเรา / ต้องรีบก่อนตกขบวน)
+- publish moves (owner): hook ยืดรวมงานที่ตั้งใจเป็น 1 บรรทัด ("ทั้งที่บางเช้ามีงานที่ตั้งใจจะทำรออยู่แล้ว" — ยก evidence หลักจากกลางบทขึ้น hook) / worked example เขียนใหม่เป็น contrast สั้น "บางครั้งเพราะเคยชิน — แต่บางเช้า..." (ลบกรอบเวลา เหลือ class) / เสียง พร 6 เรา 2 (v2: 2/1) / closer เปลี่ยนจากคำถาม open "จะให้ความเร็วนำหรือเก็บการเลือกไว้" -> คำถามใช้งาน "ลองถามว่า สิ่งที่กำลังจะดูจำเป็นต้องมาก่อนสิ่งที่ตั้งใจไว้จริงไหม" / ใส่ duck closer (ตาม corpus seam) + hashtag เพิ่ม #NeuroDivergent
+- battery: 75 wc-w (0.88x v2), H1 1+H2 1(closer)+H3 1, พร 6/เรา 2/คุณ-ผม 0, scans CLEAN, PASS
+- loop: brief -> v1 131 (mechanism-first) -> Benz r1 (ปรับแกนก่อนเผยแพร่) -> gate เจ้าของ (เหตุการณ์จริง) -> v2 80 (behavior-first re-spine) -> publish 75 — 4 rounds 1 วัน + 1 corpus-strategy round แทรก (skill 212-213)
+- WP ยังไม่ live ณ CLOSE — เติมเมื่อขึ้น (แบบ #49-#53)
