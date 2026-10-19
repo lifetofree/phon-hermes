@@ -1771,3 +1771,11 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - v2 (80 wc-w = 0.59x v1): title critic verbatim / spine behavior-first (สังเกต ไม่อ้างอวัยวะ) / frame ใหม่ critic §3 "เรียกความสนใจได้ != ควรได้รับทันที" / fork เก่าตายทั้งชุด (baselines: ระบบ 10, โจทย์ 15, ภัย 9 -> 0) / critic verbatim: §2 block 3 lines + "ความปลอดภัยมาก่อน" + "ไม่บังคับหยุดวิเคราะห์จนเสียเวลา" + "แม่นยำทุกครั้ง" + bold closer "ตัดสินความสำคัญแทนเรา" + spine "ข้อมูลที่ควรรับรู้ ไม่ใช่คำสั่ง" (Law #1 unlabeled ผ่านปาก critic)
 - battery: พร 2/เรา 1/คุณ-ผม 0, CUT 22 = 0 (FP 2 ยอมรับ: ภัย in ปลอดภัย, คับ in บังคับ), scans CLEAN
 - Notion: หน้าเดิม PATCH 200x2 (Name = title critic, Status -> rewritten) -> 22 blocks markers 10/10 kills 0 quote bold - รอ review/Benz r2
+
+
+### 2026-10-19 — pair #54 window — Benz corpus-strategy round (latent-principle carry, analyze-only)
+
+- Owner Q "content ควรแฝงไปกับหลายๆ content ถูกมั้ย" -> Benz: แฝง != กระจาย; 1 โพสต์ = 1 ปัญหาจริง + 1 หลักคิดใช้ได้; หลักคิดปรากฏผ่านปัญหาโดยไม่เรียกชื่อ; seam ที่สม่ำเสมอ = #สรุปแบบวิศวกรเป็ด + #DuckOS; ห้ามเด้งไป funnel; คำถาม audit = "ถ้าเอาชื่อ DuckOS ออก ยังเห็นวิธีคิดเดียวกันจากหลายโพสต์ไหม"
+- Verification: table 4 แถวตรงของจริง (#53 ไม่ใช่คำสั่ง+ข้อมูลประกอบ HIT / #52 หยิบกลับมาใช้+Asset HIT / #54 ตัดสินความสำคัญแทนเรา+ข้อมูลที่ควรรับรู้ HIT / แถวพลังงาน = WP energy line ใน index)
+- Latent audit (code, 9 posts 10-12..10-19): DuckOS-in-body 0 ทั้งหมด, #DuckOS = hashtag-only ทุกชิ้น, duck closer 4/9 (mixed — seam เดียวที่ยังไม่สม่ำเสมอ) -> corpus อยู่ในสถานะที่ Benz แนะอยู่แล้ว ไม่ต้องแก้โพสต์
+- Round = analyze-only: archive + verify + measure + skill items (212)-(213); drafts/Notion ไม่ถูกแตะ
