@@ -1824,3 +1824,13 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - battery: พร 2/เรา 2/คุณ-คับ-ผม 0, CUT 25 = 0 (declared: เสมอ 1 critic verbatim ปฏิเสธ, ต้นทุน 2 critic-supplied), scans CLEAN
 - Notion: หน้าเดิม PATCH 200x2 (Name ใหม่, Status -> rewritten) -> 23 blocks kills 0 markers 7/7 quote bold - รอ review/Benz r2
 - skill items (216) multi-round gate conversations + (217) owner self-observation = content, ไม่เดาแรงจูงใจ
+
+
+### 2026-10-19 — pair #56 r2 ADDENDUM (Benz PASS-round: "ใกล้พร้อมเผยแพร่ แก้เฉพาะ 3 จุด" — analyze-only, publish กำลังมา)
+
+- quote-verify 6/6 HIT; verdict "ใกล้พร้อมเผยแพร่ แก้เฉพาะ 3 จุดด้านบนก็พอ" + ไม่รื้อชื่อ ไม่เพิ่มทฤษฎี ไม่ขยาย Exploit
+- freeze list (publish acceptance markers): (1) "ทั้งที่ยังไม่เห็นปัญหาใหม่..." ขัด gate เจ้าของ -> "เพราะยังเห็นจุดที่ความหมายไม่ชัด..." (2) "รอบแก้พวกนี้แหละที่ยืดงานเงียบ ๆ" ฟันธงไร้หลักฐาน -> "ส่วนจุดที่ตีความต่างกันได้...อาจไม่จำเป็นต้องแก้ทุกครั้ง..." (3) title ซ้ำคำถามเปิด verbatim (code-verified duplicate=True) -> คำถามใหม่ "ที่ต้องแก้หลายรอบ เพราะความหมายยังไม่ชัด หรือเพราะเรายังไม่รู้ว่าชัดแค่ไหนถึงพอ"
+- closer ซ้อน 2 ประโยค -> เก็บประโยคแรกเป็นคำอธิบาย + แกนตัวหนาใหม่ "แก้เพื่อรักษาความหมาย ไม่ใช่แก้เพื่อปิดทุกความเป็นไปได้"
+- keep + เงื่อนไข: คำถามสารหลัก = ตัวช่วยตัดสินใจ ไม่ใช่เครื่องรับประกัน + ยังไม่รู้จนกว่าได้ feedback หลังเผยแพร่; แกนสุดท้าย "Format ช่วยให้ไม่ต้องเริ่มงานใหม่ทุกครั้ง..."
+- latent carry ครบสูตร Law #1 สองด้าน (critic เรียกเอง): ไม่ปล่อยให้ความกังวลเป็นคำสั่งอัตโนมัติ + ไม่ปฏิเสธข้อมูลที่ความกังวลชี้; ไม่สร้าง Editing Framework/Checklist ตอนนี้
+- สถานะ: PASS-round -> archive + baselines (แก้ 19/เงียบ ๆ 1/ทุกการตีความ 3/สารหลัก 5) ไว้เป็นเกณฑ์เกรด publish; drafts/Notion ไม่แตะ — รอ publish version จากเจ้าของ
