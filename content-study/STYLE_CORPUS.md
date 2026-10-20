@@ -1853,4 +1853,8 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - เก็บ 4: ประสบการณ์ตรง Agent (น้ำหนักสุด) / วงจร งาน→แก้→กฎ→งานรอบหน้า (candidate Asset รอ receipt) / คำถามแก้กลับ (ขยาย: แก้กลับมีหลายระดับ) / ย่อหน้าไม่ตัดสินระบบแนะนำเป็นของร้าย
 - keys (critic-supplied verbatim): gloss เทรน / spine "คำถามไม่ใช่แค่ว่าใครเทรนใคร แต่คือเราเห็นและเปลี่ยนทิศทางของวงจรที่กำลังเปลี่ยนพฤติกรรมเราได้แค่ไหน" / two-way ระบบ-เรา / closer §5 3 องก์ / title keep แต่ body ต้องคลี่ไม่ยืนยันสองสถานะ
 - gate (รอคำตอบก่อนเขียน v2 — rule 36/211): "เวลาแก้กฎในไฟล์ให้ Agent แล้ว เห็นหลักฐานจากงานรอบถัดไปว่ามันใช้กฎนั้นจริง หรือเห็นเพียงว่าผลงานรอบหลังดีขึ้น?" — adoption vs outcome evidence (skill item 224)
-- loop: brief -> v1 119 -> r1 — รอ gate -> v2
+- loop: brief -> v1 119 -> r1 (gate ADOPTION) -> v2 95 -> **r1b title change (owner: "Title ยังไม่เห็นเปลี่ยนเลย" → เลือก spine sentence verbatim เป็น title; quote ซ้ำ title ใน body ถูกตัด — กัน title-ซ้ำคำถามเปิด บทเรียน #56 r2; battery PASS 91 wc-w, quote 0) -> publish 94 (1.03× v2 = near-parity) CLOSED 2026-10-20**
+- publish grades: archive `web-archive/20261020-train-or-trained-publish.md` byte-identical ✓; r1 keys 9/9 HIT; kills 17 ตัว = 0; '=' = 0; battery PASS (H1 1/H2 1/H3 1, beats 6, quote 1 bold, พร 6/เรา 9/คุณ-คับ-ผม 0, CUT 26 = 0, scans CLEAN)
+- publish moves (owner): bridge line reword + hedge "ในอีกลักษณะหนึ่ง — ระบบนำพฤติกรรมของเราไปประกอบการปรับสิ่งที่แสดง" / quote คำถามเปิดกลับมาเป็น dispatch (owner call — ประกาศตาม rule 175 เป็น NOTE ไม่ใช่ fail) / scope บรรทัด agent "อย่างน้อยส่วนที่พรใช้ควบคุมงานก็ตรวจสอบย้อนกลับได้" (แทน "วงจรเปิดให้ดูทั้งรอบ" — gradient ตาม item 218)
+- Notion `3ffdf8d8-8d8c-8125-9310-deea50bbd81d` PATCH 200×2 → 23 blocks H1 0 markers MISS 0 quote bold ✓ empty-quote 0 (stray `> ` ของ paste ถูก skip ตอน import — archive คง verbatim) **Status → published**; index n=479
+- **WP ยังไม่ live ณ CLOSE — เติมเมื่อขึ้น**
