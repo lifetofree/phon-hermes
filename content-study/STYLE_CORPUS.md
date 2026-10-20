@@ -1845,3 +1845,12 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - loop: brief -> v1 96 -> self-review (4 จุด) -> v2 95 -> Benz r1 3-round gate conversation -> v3 88 -> Benz r2 PASS (3 จุด) -> publish 99 — 5 rounds 1 วัน + 1 gate conversation 3 คำถาม
 - Signal triad ครบ: #54 Attention / #55 Explore / #56 Exploit (แกนร่วม ลดต้นทุนที่ไม่จำเป็น) — ยังไม่รวม Framework
 - WP ยังไม่ live ณ CLOSE — เติมเมื่อขึ้น
+
+### 2026-10-20 pair #57 r1 (PRE-REWRITE) — "จะถูกเทรน หรือจะเป็นผู้เทรน" (train-or-trained, fresh draft v1 119 wc-w push 4b0c095)
+- archive: `web-archive/20261020-train-or-trained-benz-dna-critique-r1.md` (verbatim + baselines: เทรน 12 / แก้กลับ 4 / รอบแก้ 3 / สองแบบ 2 / สิ่งเดียวที่ถูกปรับ 1 / ช่วงที่ผ่านมา 1 / ไม่ทันตั้งหลัก 1 / หยุดมันได้ 1 / ไม่มีที่ให้แก้ 2) + v1 snapshot `web-archive/20261020-train-or-trained-v1.md`
+- quote-verify 7/7 HIT no drift
+- verdict: **ยังไม่ควรเผยแพร่ในเวอร์ชันนี้** — ข้อสรุป "ใครเทรนใคร" ทำให้ความสัมพันธ์คน-ระบบง่ายเกินความจริง; 4 stress points: (1) เทรน = term-of-art ต้อง gloss (2) สองระบบไม่สมมาตร — axis จริง = มองเห็น+ควบคุมวงจร ไม่ใช่มี/ไม่มีปุ่มแก้ (3) "สิ่งเดียวที่ถูกปรับ" = one-party overclaim → two-way (4) ย่อหน้า AI-progress = stakes คนละแกน → ตัดทั้งย่อหน้า
+- เก็บ 4: ประสบการณ์ตรง Agent (น้ำหนักสุด) / วงจร งาน→แก้→กฎ→งานรอบหน้า (candidate Asset รอ receipt) / คำถามแก้กลับ (ขยาย: แก้กลับมีหลายระดับ) / ย่อหน้าไม่ตัดสินระบบแนะนำเป็นของร้าย
+- keys (critic-supplied verbatim): gloss เทรน / spine "คำถามไม่ใช่แค่ว่าใครเทรนใคร แต่คือเราเห็นและเปลี่ยนทิศทางของวงจรที่กำลังเปลี่ยนพฤติกรรมเราได้แค่ไหน" / two-way ระบบ-เรา / closer §5 3 องก์ / title keep แต่ body ต้องคลี่ไม่ยืนยันสองสถานะ
+- gate (รอคำตอบก่อนเขียน v2 — rule 36/211): "เวลาแก้กฎในไฟล์ให้ Agent แล้ว เห็นหลักฐานจากงานรอบถัดไปว่ามันใช้กฎนั้นจริง หรือเห็นเพียงว่าผลงานรอบหลังดีขึ้น?" — adoption vs outcome evidence (skill item 224)
+- loop: brief -> v1 119 -> r1 — รอ gate -> v2
