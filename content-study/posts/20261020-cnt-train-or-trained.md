@@ -26,9 +26,9 @@ RESKIN GUARDS:
 EVIDENCE: เหตุการณ์จริง class-level (item 215 pattern) — การเทรน Hermes = แก้งาน → กฎสะสม → งานรอบหน้าเปลี่ยน; receipts จริงใน repo (skill items (32)-(217), memory, corrections เช่น chapter-5 fix)
 Zero-count kills (body + hashtags): คุณ, คับ, ผม, เสมอ, ทุกครั้ง, โดพามีน, อยาก, ชอบ, แฮ็ก, หลอก, สัญชาตญาณ, สมอง, แนะนำ, วินัย, ฝืน, เจได, ซิธ, Godzilla, Agentic, System One, Reacting, รัฐบาล, ต่อต้าน, ตัวเลขเวอร์ชัน
 Declared: "ถูกเทรน/เทรน/รอบแก้/แก้กลับ" หนาแน่น = แกนของบท (ตั้งใจ แบบ "แก้" ใน #56); "ทุกวัน" = standing corpus usage ไม่ใช่ "ทุกครั้ง"
-Battery: body 119 wc-w; H1 1 / H2 1 (duck closer = H2 ตาม owner directive 2026-10-20) / H3 1; beats 6; quote 1; พร 3 / เรา 6 / คุณ 0 / คับ 0 / ผม 0; CUT 23 ศัพท์ = 0; codepoint CLEAN; adjacency CLEAN; ชื่อคนในไฟล์ = 0; declared: '=' 2× ใน bold closer = equation-style (precedent รับจาก #52)
+Battery: body 119 wc-w; H1 1 = บรรทัด title เท่านั้น (Name/WP — body H1 = 0 ตาม owner directive) / H2 1 = เป็ด / H3 1 = subtitle; beats 6; quote 1; พร 3 / เรา 6 / คุณ 0 / คับ 0 / ผม 0; CUT 23 ศัพท์ = 0; codepoint CLEAN; adjacency CLEAN; ชื่อคนในไฟล์ = 0; declared: '=' 2× ใน bold closer = equation-style (precedent รับจาก #52)
 Candidate hooks (สำหรับรอบแก้ title ถ้ามีคำสั่ง): (1) ใช้ title นี้ (2) "รอบที่แก้กลับได้ กับรอบที่ไม่มีให้แก้" (3) "ในหน้าจอที่ใช้ทุกวัน — ใครเขียนกฎใครอยู่"
-Hashtags: #Adduckivity #DuckOS #AI #SystemThinking
+Hashtags: #Adduckivity #DuckOS #NeuroDivergent (default trio ทุกโพสต์ ตาม owner directive 2026-10-20) + #AI #SystemThinking (ตามความเหมาะสม); ก่อนบรรทัด hashtag มีจุดขั้น `.` หนึ่งบรรทัด
 -->
 
 งานหนึ่งที่พรทำทุกวันคือเทรน agent ตัวช่วยที่ทำงานให้พร
@@ -73,4 +73,6 @@ Hashtags: #Adduckivity #DuckOS #AI #SystemThinking
 
 ครั้งต่อไปที่เปิดระบบที่มี algorithm อยู่ข้างใน — ลองสังเกตว่าตรงไหนเราแก้กลับได้ และตรงไหนสิ่งเดียวที่ปรับได้คือตัวเรา
 
-#Adduckivity #DuckOS #AI #SystemThinking
+.
+
+#Adduckivity #DuckOS #NeuroDivergent #AI #SystemThinking
