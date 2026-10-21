@@ -1869,3 +1869,11 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - battery: 127 wc-w, H1 1/H2 1/H3 1, quotes 2 (bold 1), พร 6/เรา 3/คุณ-คับ-ผม 0, CUT scan 0, scans CLEAN — PASS
 - Notion `400df8d8-8d8c-810e-9d2b-f4fd305c4395` (64 blocks, quote bold ✓, H2 เป็ด / H3 subtitle, จุดขั้นก่อนแท็ก ✓, Status draft) — รอ review/Benz r1
 - เคสยังเปิด: การตัดสินใจจริง (จ่าย/ไม่จ่าย) ยังไม่เกิด ณ วัน draft — ผลหลังตัดสินใจเป็น evidence สำรองของรอบ critique ถ้า owner เล่าเพิ่ม
+
+### 2026-10-21 pair #58 v3 (owner steer รอบแรก — ยัง PRE-CRITIQUE) — data-arrives-after-use re-spine บนข้อมูลใหม่
+
+- owner steer: ตัด countdown "ฟรีถึงสองทุ่มคืนนี้" + ไทม์ไลน์จริงคือครบ 1 สัปดาห์ (ไม่ใช่เดือน) + เริ่มติดใจใช้ + เพิ่ม referral (ชวนเพื่อน → ต่อ Pro ฟรี 1 เดือนได้) + เพิ่ม projection (ครบเดือน-ไม่มีเพื่อนต่อ = ต้องตัดสินว่าจ่ายไหม)
+- receipts เพิ่ม (docs ปฐมภูมิ "Refer friends and earn Flow Pro credit"): referral ครบเงื่อนไข = เครดิต Pro 1 เดือน เมื่อเพื่อนพิมพ์ครบ 2,000 คำสะสม (ตัวเลขเดียวกับขอบเขตฟรี desktop — ตั้งใจของระบบ ไม่ใช่บังเอิญที่บทจับได้) หรือมี subscription ส่วนตัว / "Signing up alone earns you nothing" / เพื่อนแบบ referral ได้ trial 30 วันแทน 14
+- v2 archived `web-archive/20261021-data-arrives-after-use-v2.md`; v3 = 146 wc-w (1.15x v2) battery PASS (พร 8/เรา 3/คุณ-คับ-ผม 0, scans CLEAN)
+- spine v3: ครบอาทิตย์แรก-เริ่มติดใจ → ชุดอ่าน vs ชุดใช้ → ตัวนับเงียบทั้ง trial → **referral = ทางต่อฟรีที่ยังจ่ายด้วยการใช้จริง (ของเพื่อน — 2,000 คำ)** → projection วันครบเดือน → dispatch ลังเล 2 แบบ → quote แกน → counter 2 ทาง → "อีกสามสัปดาห์" จบเปิด
+- Notion `400df8d8...` PATCH /markdown replace_content (endpoint นี้ = create-shape เท่านั้น — PATCH /pages/{id} ปฏิเสธ markdown param ตามที่ skill บันทึกไว้) → 77 blocks, markers 6/6 HIT, v2 remnants (สองทุ่ม/คืนนี้ฟรีจะหมด) = 0, quote bold ✓, จุดขั้น+แท็ก ✓ — รอ review/Benz r1
