@@ -1877,3 +1877,8 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - v2 archived `web-archive/20261021-data-arrives-after-use-v2.md`; v3 = 146 wc-w (1.15x v2) battery PASS (พร 8/เรา 3/คุณ-คับ-ผม 0, scans CLEAN)
 - spine v3: ครบอาทิตย์แรก-เริ่มติดใจ → ชุดอ่าน vs ชุดใช้ → ตัวนับเงียบทั้ง trial → **referral = ทางต่อฟรีที่ยังจ่ายด้วยการใช้จริง (ของเพื่อน — 2,000 คำ)** → projection วันครบเดือน → dispatch ลังเล 2 แบบ → quote แกน → counter 2 ทาง → "อีกสามสัปดาห์" จบเปิด
 - Notion `400df8d8...` PATCH /markdown replace_content (endpoint นี้ = create-shape เท่านั้น — PATCH /pages/{id} ปฏิเสธ markdown param ตามที่ skill บันทึกไว้) → 77 blocks, markers 6/6 HIT, v2 remnants (สองทุ่ม/คืนนี้ฟรีจะหมด) = 0, quote bold ✓, จุดขั้น+แท็ก ✓ — รอ review/Benz r1
+
+### 2026-10-21 pair #58 v3.1 (owner steer รอบสอง — layout) — data-arrives-after-use
+
+- owner steer: "ช่วยแบ่งว่าตอนแต่ละย่อหน้า ด้วยจุดเหมือนเดิมหน่อย... ตอนนี้มันยาวติดกันเป็นพื้นเลย อ่านลำบาก" + "อย่าลืมเครื่องหมาย # ตรงข้างหน้าสรุปแบบวิศวกรเป็ดด้วย" → บทเรียน layout: CURRENT FORM body = ย่อหน้าประโยคต่อเนื่อง 2–4 ประโยค (line-per-clause อ่านเป็นพื้น) + `.` คั่นองก์ (7 จุด) + หัวสรุป = `## #สรุปแบบวิศวกรเป็ด` (publish convention ล่าสุด — heading + hashtag บรรทัดเดียว, ไม่ใช่ `## สรุป...` แยกแท็ก) — ลง skill แล้ว (CURRENT FORM atom 10 layout note)
+- เนื้อคำ v3 ไม่เปลี่ยน (146 wc-w battery PASS, beat dots 1→7, H2 1 = #สรุปแบบวิศวกรเป็ด) — Notion PATCH /markdown replace_content → 34 blocks (จาก 77), empty paragraphs 0, quote bold ✓, H3 subtitle ✓
