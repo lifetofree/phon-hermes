@@ -3876,10 +3876,10 @@
   },
   {
     "slug": "20261021-cnt-data-arrives-after-use",
-    "title": "ฟรีหนึ่งเดือน — และตัวเลขที่ตัดสินได้ เริ่มนับตอนฟรีหมด (pair #58 v3 — อาทิตย์แรก+referral, battery PASS)",
+    "title": "ฟรีหนึ่งเดือน — แต่ข้อมูลที่ช่วยตัดสินใจว่าจะจ่ายต่อ เพิ่งเริ่มเกิดขึ้นตอนใช้จริง (pair #58 CLOSED publish, 151 wc-w)",
     "date": "2026-10-21T16:47:11",
     "link": "https://app.notion.com/p/400df8d88d8c810e9d2bf4fd305c4395",
-    "words": 146,
+    "words": 151,
     "file": "/home/lifetofree/hermes-agent/content-study/posts/20261021-cnt-data-arrives-after-use.md",
     "note": "กิ่ง Data จาก brief 6 องค์ประกอบ AI Learning Algorithm — เคสจริง Wispr Flow trial (ครบอาทิตย์แรก วัน draft, เริ่มติดใจ) + referral beat (เพื่อนใช้ครบ 2,000 คำ = ต่อ Pro ฟรี 1 เดือน, 'Signing up alone earns you nothing') + projection ครบเดือน; v1 generic + v2 archived; Model branch parked; ไม่ประกาศ framework (item 225)"
   },
@@ -3891,5 +3891,14 @@
     "words": null,
     "file": "/home/lifetofree/hermes-agent/content-study/web-archive/20261021-data-arrives-after-use-benz-dna-critique-r1.md",
     "note": "quote-verify 3/3 HIT; baselines = publish acceptance markers (สำคัญที่สุด 1 / ชุดที่ตัดสินใจได้ 2 / ไม่ได้เริ่มจากการอ่านอีกแล้ว 1); owner จะส่ง publish version เอง — draft/Notion ไม่แตะ"
+  },
+  {
+    "slug": "20261021-data-arrives-after-use-publish",
+    "title": "ฟรีหนึ่งเดือน — แต่ข้อมูลที่ช่วยตัดสินใจว่าจะจ่ายต่อ เพิ่งเริ่มเกิดขึ้นตอนใช้จริง (pair #58 publish verbatim)",
+    "date": "2026-10-21T17:42:01",
+    "link": "https://app.notion.com/p/400df8d88d8c810e9d2bf4fd305c4395",
+    "words": 151,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/20261021-data-arrives-after-use-publish.md",
+    "note": "pair #58 CLOSED — grades ผ่านทั้งหมด: Benz fixes 2/2 (สำคัญที่สุด=0 + subtitle/carve-out รักษาฝั่งอ่าน) / dead 3=0 (สำคัญที่สุด, ชุดที่ตัดสินใจได้, old ending) / keys keep 3/3 (เริ่มติดใจ 1, สองพันคำ 2, สามสัปดาห์ 1) / battery PASS (H1 1+H2 1+H3 1, dots 11, quotes 4 bold 2, พร 10/เรา 7/คุณ-คับ-ผม 0, scans CLEAN); ลบ empty quote 2 (trailing `> ` artifact ครั้งที่ 4 ติดกัน #54-#58) → 57 blocks dead 0 keys ครบ Status published; 1.16x v3.1; Notion = publish text"
   }
 ]

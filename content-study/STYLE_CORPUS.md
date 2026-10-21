@@ -1894,3 +1894,13 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - replacement (critic verbatim, model shape): "เราอาจรู้ว่าเครื่องมือทำอะไรได้ ก่อนเริ่มใช้ แต่ยังไม่รู้ว่ามันมีคุณค่ากับงานของเรามากแค่ไหน จนกว่าจะได้ใช้จริง"
 - OPB: ขั้น Signal — อ่าน = คัดกรอง, ใช้ = ตรวจ fit กับงานจริง; ห้ามสร้างระบบ/ฟอร์มก่อนรู้ข้อมูลอะไรจำเป็น ("อาจเพิ่มภาระมากกว่าช่วยลดภาระ")
 - skill items ใหม่: **(227) superlative demotion on countable signals (226 = voice-dump intake ของ flow เดียวกัน) / (228) two-sided data frames ห้ามลดคุณค่าฝั่งอ่าน / (229) ending = noticing ไม่ใช่ installed system / (230) pending-decision opening class** (+ renumber ครั้งเดียว: 226→230 กันชนกับ item 226 เดิม)
+
+### 2026-10-21 pair #58 CLOSED — publish 151 wc-w (1.16x v3.1) + Benz r1 keys รอด + fixes 2/2 + Notion → published
+
+- publish archived verbatim `web-archive/20261021-data-arrives-after-use-publish.md` ก่อนเกรด
+- grades: **Benz r1 fixes 2/2** — fix1 "สำคัญที่สุด" = 0 + ใช้ wording "ข้อมูลที่ช่วยตัดสินใจ" (critic-supplied) 1 / fix2 title ใหม่ "ข้อมูลที่ช่วยตัดสินใจว่าจะจ่ายต่อ เพิ่งเริ่มเกิดขึ้นตอนใช้จริง" + subtitle ใหม่แยกงานสองฝั่ง (อ่าน=เลือก, ใช้=เหมาะกับเราไหม) + carve-out "ไม่ใช่ทุกเครื่องมือที่ต้องทดลองก่อนตัดสินใจ" = 1 ตรง stress point 2; **dead 3 = 0** (สำคัญที่สุด / ชุดที่ตัดสินใจได้ / old ending "ไม่ได้เริ่มจากการอ่านอีกแล้ว"); **keys 3/3** (เริ่มติดใจ 1 / สองพันคำ 2 / สามสัปดาห์ 1); stress point 3 ตอบตรง — disclaimer "ยังไม่ได้มีระบบวัดผลอะไรเป็นเรื่องเป็นราว" + closer ใหม่ "สองอย่างนี้ทดแทนกันไม่ได้" (แทน method-claim เดิม) = noticing state ตาม critic
+- owner moves: แตกชุดข้อมูลเป็น 2 ชุดเต็มพร้อมหน้าที่ (คัดกรอง/งบ vs คุณค่ากับงาน) + เพิ่ม question จับตอนใช้ "ถ้าพรุ่งนี้ไม่มีเครื่องมือนี้แล้ว งานที่เคยทำจะกลับไปเป็นแบบเดิมหรือเปล่า" + bold closer ใน duck + closer ท้ายบทเป็นคำถามที่นำไปใช้ได้ (ตาม critic keep 4) + hashtag เพิ่ม #DecisionMaking #SystemThinking
+- battery: 151 wc-w (1.16x v3.1), H1 1+H2 1+H3 1, dots 11, quotes 4 (bold 2), พร 10/เรา 7/คุณ-คับ-ผม 0 (คุณ 2 = "คุณค่า" negative-lookahead declared), scans CLEAN — PASS
+- Notion `400df8d8-8d8c-810e-9d2b-f4fd305c4395` PATCH props (Name ใหม่ + Status → published) + PATCH /markdown replace_content → 59 blocks → ลบ empty quote 2 (trailing `> ` artifact ติดกันเป็นครั้งที่ 4: #54/#55/#56/#58) → **57 blocks, dead 0, keys ครบ, quote bold ✓, Status published**
+- loop: brief (voice-dump) → v1 127 generic → owner case → v2 → steer 1 (อาทิตย์แรก+referral+projection) → v3 146 → steer 2 (layout+จุด+หัวสรุป #) → v3.1 → Benz r1 (แกนผ่าน+2 fixes) → publish 151 — วันเดียว 3 steers 1 critique round
+- ปิดกิ่ง Data ของ brief 6 องค์ประกอบ; Model ยัง park / framework ยังไม่ compile (item 225)
