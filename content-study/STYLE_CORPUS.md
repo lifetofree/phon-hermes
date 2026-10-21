@@ -1858,3 +1858,14 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - publish moves (owner): bridge line reword + hedge "ในอีกลักษณะหนึ่ง — ระบบนำพฤติกรรมของเราไปประกอบการปรับสิ่งที่แสดง" / quote คำถามเปิดกลับมาเป็น dispatch (owner call — ประกาศตาม rule 175 เป็น NOTE ไม่ใช่ fail) / scope บรรทัด agent "อย่างน้อยส่วนที่พรใช้ควบคุมงานก็ตรวจสอบย้อนกลับได้" (แทน "วงจรเปิดให้ดูทั้งรอบ" — gradient ตาม item 218)
 - Notion `3ffdf8d8-8d8c-8125-9310-deea50bbd81d` PATCH 200×2 → 23 blocks H1 0 markers MISS 0 quote bold ✓ empty-quote 0 (stray `> ` ของ paste ถูก skip ตอน import — archive คง verbatim) **Status → published**; index n=479
 - **WP ยังไม่ live ณ CLOSE — เติมเมื่อขึ้น**
+
+### 2026-10-21 pair #58 fresh draft (PRE-CRITIQUE) — "ฟรีหนึ่งเดือน — และตัวเลขที่ตัดสินได้ เริ่มนับตอนฟรีหมด" (data-arrives-after-use, กิ่ง Data จาก brief 6 องค์ประกอบ AI Learning Algorithm) — CURRENT FORM, voice-dump workflow ครั้งแรก
+
+- brief intake รูปใหม่: owner ยิงไอเดียลอย ๆ ผ่าน speech-to-text (เก็บดิบ `voice-dumps/20261021-voice-dump-data-case.md`) → แตกกิ่ง 6 องค์ประกอบด้วย corpus scan ก่อนเขียน: Data = โพสต์นี้ / Model = park (ฉากชน #54 grab + นิยาม signal เอนไป Asset>Activity) / Loss = #52 / Feedback = #51 / Compute = ตระกูลแบต / Repeat = Routine-as-Default → ไม่ประกาศ framework/series (skill item 225 ใหม่)
+- v1 generic-app archived `web-archive/20261021-data-arrives-after-use-v1-generic-app.md` → owner ให้เคสจริงแทน: Wispr Flow Pro ฟรี 1 เดือน (ระบบนับถอยหลัง หมด 2 ทุ่มคืนนี้) + ลังเลว่าจะจ่ายต่อไหม → v2 re-spine บนเคสจริง (127 wc-w, battery PASS)
+- receipts ปฐมภูมิ ตรวจ 2026-10-21: wisprflow.ai/pricing (Free $0 / Pro $15 รายเดือน, $12 เมื่อจ่ายรายปี) + docs "Free tier weekly dictation limit" (desktop soft 2,000 คำ / block 5,000, รีเซ็ตรายสัปดาห์, **"Active trials and paid subscriptions are exempt"** = ระหว่าง trial ระบบนับเงียบ — กลไก load-bearing ของบท: ตัวเลขที่ตัดสินได้เริ่มนับตอนฟรีหมด)
+- spine: ฟรีหมดคืนนี้ → ข้อมูลชุดอ่าน (ราคา/ฟีเจอร์) vs ข้อมูลชุดใช้ (ใช้อะไรจริง — ไม่มีในเอกสาร) → ตัวนับคำของแพลนฟรีคือข้อมูลใช้ที่แอปมี แต่ trial ทำให้มันไม่ทำงานทั้งเดือน → dispatch ลังเล 2 แบบ (ด้วยข้อมูลอ่าน / ด้วยข้อมูลใช้) → quote แกน bold → counter 2 ทาง (อ่านละเอียดขึ้น = ยังได้ชุดเดิม / เชื่อตัวนับ = นับได้แค่ปริมาณ) → จบเปิด "การตัดสินใจครั้งหน้าไม่ได้เริ่มจากการอ่านอีกแล้ว"
+- guards: sibling #49 TECH (45/220 wpm / zero-edit / คอขวด / ตารางเทียบ = 0) + #52 (อุปมาราคา-ต้นทุน = 0 — จ่าย = เงินจริงเท่านั้น) + vocab #51/#54/#55/#19-20 = 0; absolutes เข้าขอบเขต (โควตามาหยุด / ตัวเลขของพร / เอกสารที่พรอ่านมา / "ยังตอบไม่ได้")
+- battery: 127 wc-w, H1 1/H2 1/H3 1, quotes 2 (bold 1), พร 6/เรา 3/คุณ-คับ-ผม 0, CUT scan 0, scans CLEAN — PASS
+- Notion `400df8d8-8d8c-810e-9d2b-f4fd305c4395` (64 blocks, quote bold ✓, H2 เป็ด / H3 subtitle, จุดขั้นก่อนแท็ก ✓, Status draft) — รอ review/Benz r1
+- เคสยังเปิด: การตัดสินใจจริง (จ่าย/ไม่จ่าย) ยังไม่เกิด ณ วัน draft — ผลหลังตัดสินใจเป็น evidence สำรองของรอบ critique ถ้า owner เล่าเพิ่ม
