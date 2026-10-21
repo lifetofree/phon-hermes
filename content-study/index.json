@@ -3900,5 +3900,14 @@
     "words": 151,
     "file": "/home/lifetofree/hermes-agent/content-study/web-archive/20261021-data-arrives-after-use-publish.md",
     "note": "pair #58 CLOSED — grades ผ่านทั้งหมด: Benz fixes 2/2 (สำคัญที่สุด=0 + subtitle/carve-out รักษาฝั่งอ่าน) / dead 3=0 (สำคัญที่สุด, ชุดที่ตัดสินใจได้, old ending) / keys keep 3/3 (เริ่มติดใจ 1, สองพันคำ 2, สามสัปดาห์ 1) / battery PASS (H1 1+H2 1+H3 1, dots 11, quotes 4 bold 2, พร 10/เรา 7/คุณ-คับ-ผม 0, scans CLEAN); ลบ empty quote 2 (trailing `> ` artifact ครั้งที่ 4 ติดกัน #54-#58) → 57 blocks dead 0 keys ครบ Status published; 1.16x v3.1; Notion = publish text"
+  },
+  {
+    "slug": "20261021-cnt-long-message-verdict-line",
+    "title": "ข้อความยาวทั้งก้อน — อ่านไหวตั้งแต่มีประโยคที่บอกว่าอะไรต้องแก้ก่อน (pair #59 fresh draft, กิ่ง Model เปิดใหม่)",
+    "date": "2026-10-21T18:04:20",
+    "link": "https://app.notion.com/p/400df8d88d8c81e7b17bf449b48b5464",
+    "words": 96,
+    "file": "/home/lifetofree/hermes-agent/content-study/posts/20261021-cnt-long-message-verdict-line.md",
+    "note": "กิ่ง Model จาก brief 6 องค์ประกอบ — เคส class-level วันเดียวกัน (ข้อความตรวจงานยาว + ประโยคตัดสินท้ายก้อน) — ไม่อ้าง Benz/persona ตามสั่ง; guards: #19 Load-Noise + #58 กรอบข้อมูลสองชุด + Signal/Noise โพสต์เก่า = 0; honesty: ประโยคตัดสินครั้งนี้มีคนเขียนให้ ครั้งหน้าถ้าไม่มี = ยังไม่มีคำตอบ (item 232); battery PASS 96 wc-w; รอ owner ดูก่อน — ยังไม่ส่ง critique"
   }
 ]
