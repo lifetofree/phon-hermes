@@ -1882,3 +1882,15 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 
 - owner steer: "ช่วยแบ่งว่าตอนแต่ละย่อหน้า ด้วยจุดเหมือนเดิมหน่อย... ตอนนี้มันยาวติดกันเป็นพื้นเลย อ่านลำบาก" + "อย่าลืมเครื่องหมาย # ตรงข้างหน้าสรุปแบบวิศวกรเป็ดด้วย" → บทเรียน layout: CURRENT FORM body = ย่อหน้าประโยคต่อเนื่อง 2–4 ประโยค (line-per-clause อ่านเป็นพื้น) + `.` คั่นองก์ (7 จุด) + หัวสรุป = `## #สรุปแบบวิศวกรเป็ด` (publish convention ล่าสุด — heading + hashtag บรรทัดเดียว, ไม่ใช่ `## สรุป...` แยกแท็ก) — ลง skill แล้ว (CURRENT FORM atom 10 layout note)
 - เนื้อคำ v3 ไม่เปลี่ยน (146 wc-w battery PASS, beat dots 1→7, H2 1 = #สรุปแบบวิศวกรเป็ด) — Notion PATCH /markdown replace_content → 34 blocks (จาก 77), empty paragraphs 0, quote bold ✓, H3 subtitle ✓
+
+### 2026-10-21 pair #58 Benz r1 (PRE-REWRITE, analyze-only — publish version กำลังมา) — data-arrives-after-use
+
+- owner directive: "ยังไม่ต้องทำอะไร เดี๋ยวส่งฉบับที่จะ publish ให้ แต่ให้ reverse engineering ในส่วนของคำ comment แล้วนำมาปรับปรุงในการเขียน skill" → archive + baselines + skill fold ONLY; draft/Notion ไม่แตะ (item 7/205)
+- archive: `web-archive/20261021-data-arrives-after-use-benz-dna-critique-r1.md` (verbatim + baselines header)
+- quote-verify 3/3 HIT no drift; baselines วัด v3.1: สำคัญที่สุด 1 / ชุดที่ตัดสินใจได้ 2 / ไม่ได้เริ่มจากการอ่านอีกแล้ว 1 / ข้อมูลที่อ่านได้ 1 / เริ่มติดใจ 1 / สองพันคำ 2 / สามสัปดาห์ 1 → **publish acceptance markers**
+- verdict: "แกนบทความใช้ได้ แต่ควรแก้ข้อสรุป 2 จุดก่อนเผยแพร่" + ไม่รื้อ ไม่เพิ่มทฤษฎี ไม่ออกแบบระบบติดตาม
+- stress points: (1) "ข้อมูลที่สำคัญที่สุด" สรุปเร็ว — ตัวนับตอบปริมาณเท่านั้น ต้องแยก ข้อมูลที่ระบบนับได้ vs สังเกตเอง (2) "ชุดที่ตัดสินใจได้" กว้างเกิน — ข้อมูลอ่านก็ตัดสินได้ (ราคาเกินงบ = ตัดก่อนทดลอง) (3) ตอนจบฟังเป็น "มีระบบแล้ว" — คงสถานะ noticing
+- keeps 4: กรอบเวลา trial จริง / แยกตัวนับ vs คุณค่า / ยอมรับยังไม่รู้ / คำถามท้ายบทเปิด
+- replacement (critic verbatim, model shape): "เราอาจรู้ว่าเครื่องมือทำอะไรได้ ก่อนเริ่มใช้ แต่ยังไม่รู้ว่ามันมีคุณค่ากับงานของเรามากแค่ไหน จนกว่าจะได้ใช้จริง"
+- OPB: ขั้น Signal — อ่าน = คัดกรอง, ใช้ = ตรวจ fit กับงานจริง; ห้ามสร้างระบบ/ฟอร์มก่อนรู้ข้อมูลอะไรจำเป็น ("อาจเพิ่มภาระมากกว่าช่วยลดภาระ")
+- skill items ใหม่: **(227) superlative demotion on countable signals (226 = voice-dump intake ของ flow เดียวกัน) / (228) two-sided data frames ห้ามลดคุณค่าฝั่งอ่าน / (229) ending = noticing ไม่ใช่ installed system / (230) pending-decision opening class** (+ renumber ครั้งเดียว: 226→230 กันชนกับ item 226 เดิม)
