@@ -3903,11 +3903,11 @@
   },
   {
     "slug": "20261021-cnt-long-message-verdict-line",
-    "title": "ข้อความยาวทั้งก้อน — อ่านไหวตั้งแต่มีประโยคที่บอกว่าอะไรต้องแก้ก่อน (pair #59 fresh draft, กิ่ง Model เปิดใหม่)",
+    "title": "คอมเมนต์ยาวทั้งก้อน — ไม่ใช่ทุกบรรทัดคืองานที่ต้องทำตอนนี้ (pair #59 v2, กิ่ง Model — core A + generic case)",
     "date": "2026-10-21T18:04:20",
     "link": "https://app.notion.com/p/400df8d88d8c81e7b17bf449b48b5464",
-    "words": 96,
+    "words": 84,
     "file": "/home/lifetofree/hermes-agent/content-study/posts/20261021-cnt-long-message-verdict-line.md",
-    "note": "กิ่ง Model จาก brief 6 องค์ประกอบ — เคส class-level วันเดียวกัน (ข้อความตรวจงานยาว + ประโยคตัดสินท้ายก้อน) — ไม่อ้าง Benz/persona ตามสั่ง; guards: #19 Load-Noise + #58 กรอบข้อมูลสองชุด + Signal/Noise โพสต์เก่า = 0; honesty: ประโยคตัดสินครั้งนี้มีคนเขียนให้ ครั้งหน้าถ้าไม่มี = ยังไม่มีคำตอบ (item 232); battery PASS 96 wc-w; รอ owner ดูก่อน — ยังไม่ส่ง critique"
+    "note": "v2 หลัง owner steer ×2 ('งง' + 'ไม่แน่ใจว่าต้องการสื่ออะไร'): core เปลี่ยนเป็น A (feedback ก้อนใหญ่ไม่ได้แปลว่าต้องทำทุกจุด — จุดที่ต้องเกิดก่อนมีไม่กี่จุด ที่เหลือคือของถือระหว่างทาง) + เคส generic (งานส่งกลับพร้อมคอมเมนต์ยาว หัวหน้า/ลูกค้า/ทีม) เล่าด้วย เรา — v1 (spine บรรทัดตัดสิน) superseded ทั้งบท"
   }
 ]

@@ -1904,3 +1904,13 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - Notion `400df8d8-8d8c-810e-9d2b-f4fd305c4395` PATCH props (Name ใหม่ + Status → published) + PATCH /markdown replace_content → 59 blocks → ลบ empty quote 2 (trailing `> ` artifact ติดกันเป็นครั้งที่ 4: #54/#55/#56/#58) → **57 blocks, dead 0, keys ครบ, quote bold ✓, Status published**
 - loop: brief (voice-dump) → v1 127 generic → owner case → v2 → steer 1 (อาทิตย์แรก+referral+projection) → v3 146 → steer 2 (layout+จุด+หัวสรุป #) → v3.1 → Benz r1 (แกนผ่าน+2 fixes) → publish 151 — วันเดียว 3 steers 1 critique round
 - ปิดกิ่ง Data ของ brief 6 องค์ประกอบ; Model ยัง park / framework ยังไม่ compile (item 225)
+
+### 2026-10-21 pair #59 v2 (owner steer ×2 — PRE-CRITIQUE) — long-message-verdict-line re-spine: "คอมเมนต์ยาวทั้งก้อน — ไม่ใช่ทุกบรรทัดคืองานที่ต้องทำตอนนี้"
+
+- steer 1: v1 "อ่านแล้ว งงมาก" → ประโยค meta ("คำที่แรงกว่าสิ่งที่เล่า"/"ชื่อเรื่องสื่อมากกว่าตัวบท") คนนอกงานอ่านไม่รู้เรื่อง + นามธรรม "ก้อนยาวจัดตัวเองขึ้นมา"
+- steer 2: "ไม่แน่ใจว่างานต้องการสื่ออะไร... ส่งไปแบบนี้โดนตีกลับแน่นอน" → จับได้ว่าร่างเล่ากลไกแต่ไม่ตอบว่าคนอ่านเอาไปทำอะไร → gate ผ่าน clarify ×2: **core = A "feedback ก้อนใหญ่ไม่ได้แปลว่าต้องทำทุกจุด — จุดที่ต้องเกิดก่อนมีไม่กี่จุด ที่เหลือคือของถือระหว่างทาง" (แกนการตัดสินลำดับงาน)** + เคส generic (งานส่งกลับพร้อมคอมเมนต์ยาว จากหัวหน้า/ลูกค้า/ทีม — class-level)
+- v2 = re-spine ทั้งบท: spine v1 (บรรทัดตัดสินเรียงก้อน) superseded — CUT บรรทัดตัดสิน/ประโยคตัดสิน = 0, หน้าตาเหมือน/คล้ายกัน = 0, คิดซ้ำ = 0, ทุกครั้ง = 0 (แก้ตอน draft หลัง self-catch); เก็บคู่ concept ใหม่ "จุดที่ต้องเกิดก่อน" (5×) vs "ของถือระหว่างทาง" (3×) + bold quote "คอมเมนต์ยาวบอกขนาดของสิ่งที่มาถึง ไม่ได้บอกขนาดของงานที่ต้องทำตอนนี้" + near-miss "ของถือ ≠ ของทิ้ง (ไม่ผิด ไม่หาย แค่ยังไม่ถึงคิว)" + honest disclaimer (แยกไม่ชัดบ้าง/เคยแยกผิด ยังไม่มีวิธีการันตี) + closer คำถามนับ
+- register: เล่าด้วย เรา (กฎ-post register) พร 2 ครั้งแรก — ไม่แต่งเหตุการณ์ส่วนตัวใหม่
+- battery: 84 wc-w (กฎ-post band, เทียบ #44 v3 ที่ 62), H1 1/H2 1/H3 1, dots 5, quotes 2 bold 1, พร 2/เรา 1/คุณ-คับ-ผม 0, scans CLEAN — PASS
+- Notion `400df8d8-8d8c-81e7-b17b-f449b48b5464` PATCH (Name ใหม่ + body) → 25 blocks markers ครบ v1 vocabulary 0 quote bold ✓ Status draft — รอ review/Benz r1
+- บทเรียน: "งง" จาก owner = สัญญาณว่า post เล่ากลไกได้แต่ core ไม่ชัด — ถาม core ตรง ๆ (clarify) ก่อน rewrite รอบสอง ดีกว่าเดาและเขียนซ้ำ
