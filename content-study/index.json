@@ -3918,8 +3918,9 @@
     "link": "https://app.notion.com/p/401df8d88d8c81f292cfddb6ced39c80",
     "notion_page_id": "401df8d8-8d8c-81f2-92cf-ddb6ced39c80",
     "date": "2026-10-22",
-    "status": "draft (pair #60 v1 — รอ review/Benz r1)",
-    "note": "reading-habit/Naval = กิ่งใหม่ 0 collision ใน corpus 483; guards vs #53 (เลือกเอง)/#58 (เริ่มติดใจ) HOLD; กฎห้ามชื่อคนจริงถูก owner ยกเว้นเฉพาะชิ้นนี้ (ใส่ชื่อ+quote ครั้งเดียว)"
+    "status": "published-ready (pair #60 CLOSED 2026-10-22 — publish PATCHed same page)",
+    "note": "reading-habit/Naval = กิ่งใหม่ 0 collision ใน corpus 483; guards vs #53 (เลือกเอง)/#58 (เริ่มติดใจ) HOLD; กฎห้ามชื่อคนจริงถูก owner ยกเว้นเฉพาะชิ้นนี้ (ใส่ชื่อ+quote ครั้งเดียว) | CLOSED 2026-10-22: publish 103 wc-w (1.10x v1) — spine = gate answer verbatim (แกนลบ); dead 5/5 (ปลูก/เกณฑ์/ปากคนอื่น/ยังไม่ถึงไหน/ไม่ใช่ข้อแม้) keeps 10/10; moves: cost-of-belief line + counterexample beat + subtitle demote possibility + '?' deviation logged; skill (243)-(249); Naval exception เฉพาะชิ้นนี้",
+    "words": 103
   },
   {
     "slug": "20261022-cnt-wispr-notetaker-decision-asset",

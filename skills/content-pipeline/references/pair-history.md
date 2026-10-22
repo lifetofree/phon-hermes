@@ -306,3 +306,16 @@ Owner publish moves (thinking-level, reverse-engineered per owner directive "Rev
 - **Loop เต็ม:** brief (6 องค์ประกอบ, กิ่ง Model) → v1 (บรรทัดตัดสิน, โดน steer ×2) → v2 (84, core ใหม่) → Benz r1 (6/6 HIT, เพิ่ม dimension "ต้นทุนย้อนกลับ" — ไม่ flip thesis) → v3 (113, fork 3 ทาง + replacement verbatim) → publish (115, calibrate + de-loss) = 3 วัน 5 เวอร์ชัน · **กิ่ง Model CLOSED สมบูรณ์ — brief 6 องค์ประกอบถูกเขียนครบทุกกิ่งแล้ว (ยังห้าม compile ประกาศ — item 225)**
 - **ครู่คิดที่สกิลเก็บ (item 242):** critique ที่ดี = เพิ่มมิติตัดสิน ไม่ใช่พลิก thesis → publish = calibrate certainty ตามตำแหน่ง + เปลี่ยนศัพท์ความสูญเสียเป็นศัพท์ลงมือ
 - WP ยังไม่ live ณ CLOSE — เติมเมื่อขึ้น (แบบ #49-#58)
+
+### Publish round — CLOSED (owner text 103 wc-w = 1.10x v1; dead 5/5 zero; keeps 10/10 HIT; ? deviation logged)
+
+Publish moves (thinking-level, reverse-engineered per owner directive):
+- **Spine = gate answer verbatim:** "เราไม่จำเป็นต้องรักการอ่านก่อนจึงจะเริ่มอ่านได้" ขึ้นเป็น beat เดี่ยว (item 243) — แกนบวก "เริ่มจากสิ่งที่สนใจ" ถอยเป็นกลไก ("เราอาจเริ่มจากเรื่องที่ตัวเองอยากรู้...") ไม่ขึ้น takeaway
+- **Cost-of-belief line ใหม่ (item 247):** "เงื่อนไขนั้นอาจกลายเป็นสิ่งที่ขวางไม่ให้เราเริ่มอ่านเสียเอง" — teardown ที่ไม่บอกต้นทุนของความเชื่อเดิม = teardown ครึ่งใบ
+- **Counterexample ของ critic กลายเป็น beat (item 248):** "บางเล่มอาจพาเราไปเจอเรื่องใหม่ที่ไม่เคยคิดว่าจะสนใจ" (จาก §A "คำแนะนำทำให้เจอเรื่องที่ไม่รู้ว่าชอบ") — กระสุนของ critique กลายเป็นวัสดุของ publish
+- **Subtitle demote mechanism→possibility:** "ถูกปลูกขึ้น" (v1 mechanism claim) → "อาจเกิดขึ้นหลังจากเราเริ่มอ่าน" — ศัพท์ "ปลูก/เกณฑ์/ปากคนอื่น" หายหมดจาก publish (dead 5/5)
+- **Anti-KPI guard + negation-form universals (item 246):** "ไม่จำเป็นต้องทำให้การอ่านทุกครั้งกลายเป็นความสำเร็จ" — universal ในรูปปฏิเสธ = รูปที่อนุญาต
+- **Closing question re-aimed ที่ความเชื่อ:** "จำเป็นต้องรักการอ่านก่อนจริง ๆ หรือแค่มีบางเรื่องที่อยากรู้มากพอจะเริ่ม" (v1 ถามหมวดหมู่ปก-vs-เรื่อง — item 245) + **'?' 1 ตัว** (deviation จาก house style — archive verbatim บันทึกไว้, item 249)
+- **Bold closer:** "แต่อาจเป็นแค่ **เรื่องหนึ่งที่เราอยากรู้**" — แกนลบปิดท้ายด้วยของที่เล็กที่สุดที่พอ
+- **Loop เต็ม:** quote-brief → verify ปฐมภูมิ (nav.al) → v1 83 → Benz r1 (gate แกนลบ) → publish 103 = 2 รอบใน 1 วัน · กิ่ง reading-habit/Naval CLOSED · **owner exception ครั้งแรกของกฎห้ามชื่อคนจริง — ใช้เฉพาะชิ้นนี้**
+- Skill items: (243)-(249) · Notion `401df8d8-8d8c-81f2-92cf-ddb6ced39c80` 49 blocks dead 0 empty 0 Status published · WP ยังไม่ live ณ CLOSE — เติมเมื่อขึ้น
