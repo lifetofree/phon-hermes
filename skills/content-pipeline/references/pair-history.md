@@ -319,3 +319,15 @@ Publish moves (thinking-level, reverse-engineered per owner directive):
 - **Bold closer:** "แต่อาจเป็นแค่ **เรื่องหนึ่งที่เราอยากรู้**" — แกนลบปิดท้ายด้วยของที่เล็กที่สุดที่พอ
 - **Loop เต็ม:** quote-brief → verify ปฐมภูมิ (nav.al) → v1 83 → Benz r1 (gate แกนลบ) → publish 103 = 2 รอบใน 1 วัน · กิ่ง reading-habit/Naval CLOSED · **owner exception ครั้งแรกของกฎห้ามชื่อคนจริง — ใช้เฉพาะชิ้นนี้**
 - Skill items: (243)-(249) · Notion `401df8d8-8d8c-81f2-92cf-ddb6ced39c80` 49 blocks dead 0 empty 0 Status published · WP ยังไม่ live ณ CLOSE — เติมเมื่อขึ้น
+
+### Publish round — CLOSED (owner rewrite 224 wc-w = 0.98x v1 near-parity; dead 10/10 zero; keeps 10/10 HIT; **เวอร์ชันนี้ขึ้นเว็บจริง**)
+
+Publish moves (thinking-level):
+- **สอง tier: draft = audit trail, web = evergreen (item 250)** — publish ถอดทุกของที่ rot: ฿240/฿360 (geo-price), "22 ตุลาคม" (verify date), Claude/ChatGPT/Gemini/MCP (vendor names), HIPAA, promo note, duck-summary heading — เหลือ "ราคา/โควตา/เงื่อนไขเปลี่ยนแปลงได้ ตรวจล่าสุดก่อนสมัคร" (evergreen caveat) — ลดโครงสร้าง H จาก 5+4 เป็น ## 6 อันเดียวแบบ article
+- **Task-adjacency loss framing (item 251):** "เวลาที่เสียไปไม่ได้อยู่ในห้องประชุม แต่อยู่ในงานที่ต้องทำต่อหลังจากประชุมจบแล้ว" — ตั้งชื่อตำแหน่งของ loss ไม่ใช่ชิ้นส่วนของมัน (v1: "แรงส่วนจดและสรุป" = part-list ตาย)
+- **Sibling verdict-question export (item 252):** "ช่วยลดงานจริง ๆ หรือแค่เปลี่ยนงานจากแบบหนึ่งไปเป็นอีกแบบ" = คำถามตัดสินจาก #49 publish กลับมาเป็นคำถามกลางของโพสต์นี้ — คำถามของตระกูลเครื่องมือ compound ข้ามโพสต์
+- **Feature list → คู่ benefit/condition (item 254):** "อาจช่วย...แต่ต้องตรวจ..." 4 ชุด + checklist ก่อนสมัคร 4 ข้อ + วัดแบบมี baseline ("บันทึกวิธีทำงานเดิมไว้ก่อนทดลอง" — ไม่มี baseline ไม่มีสิทธิ์ตัดสิน) + trial=สัญญาณ ceiling คงเดิม
+- **Monetized post (item 253):** referral CTA เข้ามาครั้งแรกใน corpus — disclosure ตรง ("พรอาจได้รับ Plan Pro...เปิดเผยไว้ตรง ๆ") + two-fork ไม่ถูกทำลาย + ปิดด้วย driver-line "การสมัครหรือไม่สมัครขึ้นอยู่กับว่าคุณมีปัญหา...จริงหรือเปล่า" + goal inversion "เป้าหมายไม่ใช่มี AI เพิ่ม แต่งานที่ต้องทำลดลง" — การมี CTA ไม่ลดมาตรฐานหลักฐาน
+- **Register:** พร 5 / คุณ 4 (TECH-WEB กลับมาใช้ คุณ) / **? 7 ตัว** — publish ยืนยันว่า '?' เป็นมาตรฐานเว็บของ owner แล้ว (supersedes item 249 draft-convention; ยังคงห้ามใน draft ส่ง critique)
+- **Loop เต็ม:** กิ่ง park #49 → v1 230 → owner rewrite 224 (วันเดียว) · กิ่ง Notetaker CLOSED · [ใส่ลิงก์ Reference] = placeholder รอพรใส่ก่อนขึ้นเว็บจริง
+- Skill items: (250)-(254) · Notion `401df8d8-8d8c-818a-9f91-d1a20915c8db` 67 blocks dead 0 markers 9/9 Status published

@@ -3929,7 +3929,8 @@
     "link": "https://app.notion.com/p/401df8d88d8c818a9f91d1a20915c8db",
     "notion_page_id": "401df8d8-8d8c-818a-9f91-d1a20915c8db",
     "date": "2026-10-22",
-    "status": "draft (pair #61 v1 — รอ review/Benz r1)",
-    "note": "ตรวจ live 2026-10-22: pricing แสดงบาท (Pro ฿240/Growth ฿360) + โปร Notetaker 'through Oct 31' หายจากหน้าเว็บ = shelf-life flag; Funding/Enterprise ยัง park ต่อ; ตารางเทียบถูกแทนด้วยคู่บรรทัด (odd-codepoint hygiene)"
+    "status": "published-ready (pair #61 CLOSED 2026-10-22 — publish = เวอร์ชันขึ้นเว็บจริง)",
+    "note": "ตรวจ live 2026-10-22: pricing แสดงบาท (Pro ฿240/Growth ฿360) + โปร Notetaker 'through Oct 31' หายจากหน้าเว็บ = shelf-life flag; Funding/Enterprise ยัง park ต่อ; ตารางเทียบถูกแทนด้วยคู่บรรทัด (odd-codepoint hygiene) | CLOSED: publish 224 wc-w (0.98x v1) = WEB tier — ตัดของ rot ทั้งหมด (฿/วันตรวจ/Claude-MCP/HIPAA/promo) + referral CTA + disclosure + two-fork คงเดิม; spine = verdict-question ของ #49 กลับมา; skill (250)-(254); '?' = มาตรฐานเว็บ owner ยืนยัน; placeholder ลิงก์ Reference รอพรใส่",
+    "words": 224
   }
 ]
