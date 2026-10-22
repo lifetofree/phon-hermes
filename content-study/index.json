@@ -3940,7 +3940,8 @@
     "link": "https://app.notion.com/p/401df8d88d8c81bdab26e136e0e154c5",
     "notion_page_id": "401df8d8-8d8c-81bd-ab26-e136e0e154c5",
     "date": "2026-10-22",
-    "status": "draft (pair #62 v1.1 — รอ owner ดู/Benz r1)",
-    "note": "กิ่ง Mental Model จากคิว 2026-10-22 (gate: class-level ด้วย เรา); 94 wc-w battery PASS CUT 35=0 (self-catch: หน้าตาคล้ายเดิม #47 + คิดซ้ำ 27 ก.ย. แก้ก่อนรัน); guards #51/#57; ลง Notion หลัง owner ถามหา — สมบัติลงหลังสร้างไฟล์ 1 รอบ | v1.1 2026-10-22: owner 'กฎอ่านแล้วงง' → swap ข้อตกลงกับตัวเอง (self-explaining, ไม่ชน #51/#57); กฎ=0 ใน body; battery PASS CUT 36=0; Notion same-page PATCH; skill item 255"
+    "status": "published-ready (pair #62 CLOSED 2026-10-22 — publish PATCHed same page)",
+    "note": "กิ่ง Mental Model จากคิว 2026-10-22 (gate: class-level ด้วย เรา); 94 wc-w battery PASS CUT 35=0 (self-catch: หน้าตาคล้ายเดิม #47 + คิดซ้ำ 27 ก.ย. แก้ก่อนรัน); guards #51/#57; ลง Notion หลัง owner ถามหา — สมบัติลงหลังสร้างไฟล์ 1 รอบ | v1.1 2026-10-22: owner 'กฎอ่านแล้วงง' → swap ข้อตกลงกับตัวเอง (self-explaining, ไม่ชน #51/#57); กฎ=0 ใน body; battery PASS CUT 36=0; Notion same-page PATCH; skill item 255 | CLOSED: publish 98 wc-w (1.04x v1.1) — self-referential consistency (verdict→inspect) + 2-candidate fork + non-universal summary hedge + USE criterion = นิยามของ 'เข้าใจพอ'; dead 5/5 keeps 12/12; skill (255)-(258); กิ่ง Mental Model CLOSED",
+    "words": 98
   }
 ]
