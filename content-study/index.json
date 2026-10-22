@@ -3932,5 +3932,15 @@
     "status": "published-ready (pair #61 CLOSED 2026-10-22 — publish = เวอร์ชันขึ้นเว็บจริง)",
     "note": "ตรวจ live 2026-10-22: pricing แสดงบาท (Pro ฿240/Growth ฿360) + โปร Notetaker 'through Oct 31' หายจากหน้าเว็บ = shelf-life flag; Funding/Enterprise ยัง park ต่อ; ตารางเทียบถูกแทนด้วยคู่บรรทัด (odd-codepoint hygiene) | CLOSED: publish 224 wc-w (0.98x v1) = WEB tier — ตัดของ rot ทั้งหมด (฿/วันตรวจ/Claude-MCP/HIPAA/promo) + referral CTA + disclosure + two-fork คงเดิม; spine = verdict-question ของ #49 กลับมา; skill (250)-(254); '?' = มาตรฐานเว็บ owner ยืนยัน; placeholder ลิงก์ Reference รอพรใส่",
     "words": 224
+  },
+  {
+    "slug": "20261022-cnt-rule-vs-model",
+    "title": "จำกฎได้ขึ้นใจ — แต่กฎเงียบพอเจอหน้าตาใหม่ (pair #62 v1 — กิ่ง Mental Model กฎ-vs-โมเดล, gate ผ่านแล้ว; ไม่ใช้ศัพท์ Mental Model ใน body)",
+    "file": "posts/20261022-cnt-rule-vs-model.md",
+    "link": "https://app.notion.com/p/401df8d88d8c81bdab26e136e0e154c5",
+    "notion_page_id": "401df8d8-8d8c-81bd-ab26-e136e0e154c5",
+    "date": "2026-10-22",
+    "status": "draft (pair #62 v1 — รอ owner ดู/Benz r1)",
+    "note": "กิ่ง Mental Model จากคิว 2026-10-22 (gate: class-level ด้วย เรา); 94 wc-w battery PASS CUT 35=0 (self-catch: หน้าตาคล้ายเดิม #47 + คิดซ้ำ 27 ก.ย. แก้ก่อนรัน); guards #51/#57; ลง Notion หลัง owner ถามหา — สมบัติลงหลังสร้างไฟล์ 1 รอบ"
   }
 ]
