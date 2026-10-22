@@ -268,3 +268,21 @@ Freeze list: (1) "ทั้งที่ยังไม่เห็นปัญ�
 
 ### Publish round — CLOSED (owner text 99 wc-w = 1.13x v3, freeze keys 12/12, dead 0)
 Owner moves: replacement ทั้ง 2 แทบ verbatim + คำสารภาพ "ตอนนี้พรยังไม่ได้แยกการแก้แต่ละรอบอย่างชัดเจน" (ตรงข้อห้ามฟันธงของ critic เป๊ะ) + closer เก่าขึ้นเป็นคำอธิบาย + bold คำถามสารหลัก. Notion -> published (33 blocks หลังลบ quote เปล่า 1 — trailing `> ` artifact ครั้งที่ 3 ติดกัน). Loop: brief→v1→self-review→v2→r1-gate×3→v3→r2-PASS→publish = 5 rounds 1 วัน. Signal triad ครบ #54/#55/#56 — ไม่รวม Framework. Skill: (216)/(217).
+
+## Pair #60 — read-what-you-love (2026-10-22, v1 fresh — CURRENT FORM, รอ review)
+
+- **Brief:** owner ยิง quote มา ("อ่านไปจนกว่าเราจะรักมัน — ถ้าจำไม่ผิด") → quote จริง **"Read what you love until you love to read." — Naval Ravikant** (verify ปฐมภูมิ live: nav.al/love-read, transcript เจ้าตัวอธิบาย + Almanack) — สิ่งที่พรจำมากลับลำดับ: load-bearing = อ่านสิ่งที่ "รัก" (เงื่อนไข) / รักการอ่าน = ผลลัพธ์
+- **v1 83 wc-w battery PASS** (H1 1/H2 1/H3 1, dots 6, quotes 2 bold 1, พร 0/เรา 2/คุณ-คับ-ผม 0, CUT 26 = 0, scans CLEAN)
+- **Gates:** owner ยกเว้นกฎห้ามชื่อคนจริงเฉพาะชิ้น ("ใส่ชื่อ ได้...แต่อย่าให้เยอะ เอาเป็นแนวตัวของเราเอง") = ชื่อ+quote ครั้งเดียว เส้นทาง fiction→science เขียน paraphrase ไม่ quote ยาว; เคส = class-level ด้วย เรา (owner เลือกจาก clarify); Mental Model (กฎ-vs-โมเดล) ถูกแทนในคิววันนี้ — ยังอยู่ในคิว ไม่ยกเลิก
+- **Guards HOLD:** #53 (AI แนะนำหนังสือ/เลือกเอง=อำนาจ) / #58 (เริ่มติดใจ = แอปใช้จนพัวพัน ≠ นิสัยจากการเลือก) / #40 (ตกตะกอน) / #51 (ปรัชญา) / healing-heart WP เก่า (ฮีลใจ — ชื่อใกล้กันแต่คนละเรื่อง)
+- **Honesty:** เกณฑ์แยกของดีของร้ายในการอ่าน = เกิดทีหลังจากเริ่ม (caveat ของเจ้าของประโยคเอง หน้าเดียวกัน) — บทไม่สร้างเกณฑ์แทน; "อ่านอะไรก็ได้" ถูกปฏิเสธในบท (quote เลือกข้างไว้)
+- **Skill items ใหม่:** (233) battery cut-check substring/lookalike — แก้ vocab ไม่ใช่แก้ check; (234) TECH charset — comma/ตาราง; (235) geo-price + promo หมดอายุ
+- Notion `401df8d8-8d8c-81f2-92cf-ddb6ced39c80` 22 blocks markers HIT quote bold ✓ empty 0 — Status draft
+
+## Pair #61 — wispr-notetaker-decision-asset (2026-10-22, v1 fresh — TECH form, รอ review)
+
+- **Brief:** กิ่ง park จาก #49 r2 (critic สั่งเอง: Notetaker/Funding/Enterprise = "ข้อมูลอ้างอิงของอีกบทความ") + owner gate ราคา: ใช้บาทตามหน้าเว็บวันตรวจ + ป้าย region
+- **v1 230 wc-w battery PASS** (H1 5/H2 4/H3 1, dots 16, พร 0/เรา 3, CUT 30 = 0 รวม vocab #49 ทั้งชุด, scans CLEAN)
+- **Live verify 2026-10-22:** pricing แสดง ฿ (Pro 240/Growth 360) — geo-price; **โปร Notetaker "through Oct 31" หายจากหน้าเว็บแล้ว** → ปฏิบัติเป็น EXPIRED (Free = "Limited Notetaker access"); บทครอบเฉพาะ Notetaker — Funding/Enterprise ยัง park
+- **Structure:** decision-asset (ตัวช่วยจดประชุมไม่ได้ตัดงานประชุม — ตัดแรงส่วนจด+สรุปที่ต่อยื่นหลังปิดประชุม) + honesty ไม่ได้ติดตั้ง/ไม่มีผลทดสอบเอง + HIPAA-BAA ปิด Notetaker + วัด 3 ข้อก่อนจ่าย; ตารางเทียบ → คู่บรรทัด (item 234)
+- Notion `401df8d8-8d8c-818a-9f91-d1a20915c8db` 61 blocks markers 8/8 dead 0 empty 0 — Status draft
