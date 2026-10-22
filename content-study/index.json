@@ -3909,5 +3909,25 @@
     "words": 84,
     "file": "/home/lifetofree/hermes-agent/content-study/posts/20261021-cnt-long-message-verdict-line.md",
     "note": "v2 หลัง owner steer ×2 ('งง' + 'ไม่แน่ใจว่าต้องการสื่ออะไร'): core เปลี่ยนเป็น A (feedback ก้อนใหญ่ไม่ได้แปลว่าต้องทำทุกจุด — จุดที่ต้องเกิดก่อนมีไม่กี่จุด ที่เหลือคือของถือระหว่างทาง) + เคส generic (งานส่งกลับพร้อมคอมเมนต์ยาว หัวหน้า/ลูกค้า/ทีม) เล่าด้วย เรา — v1 (spine บรรทัดตัดสิน) superseded ทั้งบท"
+  },
+  {
+    "slug": "20261022-cnt-read-what-you-love",
+    "title": "อ่านสิ่งที่รัก จนกว่าจะรักการอ่าน (pair #60 v1 — quote Naval Ravikant verified ปฐมภูมิ nav.al/love-read; owner ยกเว้นกฎชื่อคนเฉพาะชิ้น; class-level ด้วย เรา; battery PASS 83 wc-w)",
+    "file": "posts/20261022-cnt-read-what-you-love.md",
+    "link": "https://app.notion.com/p/401df8d88d8c81f292cfddb6ced39c80",
+    "notion_page_id": "401df8d8-8d8c-81f2-92cf-ddb6ced39c80",
+    "date": "2026-10-22",
+    "status": "draft (pair #60 v1 — รอ review/Benz r1)",
+    "note": "reading-habit/Naval = กิ่งใหม่ 0 collision ใน corpus 483; guards vs #53 (เลือกเอง)/#58 (เริ่มติดใจ) HOLD; กฎห้ามชื่อคนจริงถูก owner ยกเว้นเฉพาะชิ้นนี้ (ใส่ชื่อ+quote ครั้งเดียว)"
+  },
+  {
+    "slug": "20261022-cnt-wispr-notetaker-decision-asset",
+    "title": "งานประชุมจบแล้ว ยังต้องนั่งเขียนสรุป — ถ้ามีตัวช่วยจดแทน แรงส่วนนั้นหายจริงไหม (pair #61 v1 — TECH decision-asset, กิ่ง park จาก #49: Notetaker)",
+    "file": "posts/20261022-cnt-wispr-notetaker-decision-asset.md",
+    "link": "https://app.notion.com/p/401df8d88d8c818a9f91d1a20915c8db",
+    "notion_page_id": "401df8d8-8d8c-818a-9f91-d1a20915c8db",
+    "date": "2026-10-22",
+    "status": "draft (pair #61 v1 — รอ review/Benz r1)",
+    "note": "ตรวจ live 2026-10-22: pricing แสดงบาท (Pro ฿240/Growth ฿360) + โปร Notetaker 'through Oct 31' หายจากหน้าเว็บ = shelf-life flag; Funding/Enterprise ยัง park ต่อ; ตารางเทียบถูกแทนด้วยคู่บรรทัด (odd-codepoint hygiene)"
   }
 ]
