@@ -295,3 +295,14 @@ Owner moves: replacement ทั้ง 2 แทบ verbatim + คำสารภ�
 - **Notion PITFALL ใหม่:** PATCH /pages/{id}/markdown บน API 2025-09-03 = 400 "body.type should be defined" (endpoint รับ payload รูปอื่น) → ทางเดียวที่ผ่าน = ลบ children เก่าทีละ block + POST children ใหม่ (32 blocks markers 8/8 quote bold ✓ empty 0) + PATCH props Status = rewritten แยกต่างหาก (ผ่านตามปกติ)
 - **Skill items ใหม่:** (236) critic self-answer = gate answered / (237) owner-supplied ≠ critic-proof — demote quantifier ได้โดยไม่ลบฟังก์ชัน / (238) closer แบกชั้นใหม่ล่าสุดเท่านั้น + duck-summary block parse แบบโครงสร้าง
 - Notion `400df8d8-8d8c-81e7-b17b-f449b48b5464` Status = rewritten — รอ review/Benz r2 · v2 snapshot `web-archive/20261021-long-message-verdict-line-v2.md` · critique `...benz-dna-critique-r1.md`
+
+### Publish round — CLOSED (owner text 115 wc-w = 1.02x v3 near-parity; dead 4/4 zero; keeps 10/10 HIT; battery PASS)
+
+Owner publish moves (thinking-level, reverse-engineered per owner directive "Reverse engineering about thinking, critical thinking"):
+- **เสียงาน → แก้งาน (2 จุด, supersede critic-verbatim "เสียงาน" — NOTE owner-rewording):** damage-verb → action-verb — same mechanism, agency frame คงอยู่ ความกลัวไม่ถูกสั่ง (item 240)
+- **สรุป hedged ลงชั้น caution ของตัวเอง:** "จุดที่ทำให้งานต้องย้อนกลับ = ต้องเกิดก่อน" (v3 ฟันธง) → "จุดที่ถ้าข้ามไปแล้วมีต้นทุนย้อนกลับสูง อาจต้องจัดการก่อน" — บรรทัด fork ที่เงื่อนไขอยู่ inline ยังฟันธงได้ / ตำแหน่งที่ย่อ (สรุป) ต้อง hedge ตามน้ำหนัก (item 239) — certainty ถูกจัดตามตำแหน่ง ไม่ใช่ตามความกลัวว่าโพสต์ดูไม่มั่น
+- **คำถามปิด consistency:** "ย้อนกลับมาที่มัน" (แน่นอน) → "อาจต้องย้อนกลับมาแก้งานส่วนนี้อีก" (+อาจ +เรา) — คำถามไม่สมมติความแม่นที่ body ปฏิเสธไว้เอง ("ยังไม่มีวิธีที่การันตีได้") (item 241)
+- **คำที่เลือก:** "เดินข้ามไปก่อน" → "ข้ามไปก่อน" (ตัดภาพเกิน) — word-image control
+- **Loop เต็ม:** brief (6 องค์ประกอบ, กิ่ง Model) → v1 (บรรทัดตัดสิน, โดน steer ×2) → v2 (84, core ใหม่) → Benz r1 (6/6 HIT, เพิ่ม dimension "ต้นทุนย้อนกลับ" — ไม่ flip thesis) → v3 (113, fork 3 ทาง + replacement verbatim) → publish (115, calibrate + de-loss) = 3 วัน 5 เวอร์ชัน · **กิ่ง Model CLOSED สมบูรณ์ — brief 6 องค์ประกอบถูกเขียนครบทุกกิ่งแล้ว (ยังห้าม compile ประกาศ — item 225)**
+- **ครู่คิดที่สกิลเก็บ (item 242):** critique ที่ดี = เพิ่มมิติตัดสิน ไม่ใช่พลิก thesis → publish = calibrate certainty ตามตำแหน่ง + เปลี่ยนศัพท์ความสูญเสียเป็นศัพท์ลงมือ
+- WP ยังไม่ live ณ CLOSE — เติมเมื่อขึ้น (แบบ #49-#58)
