@@ -1859,6 +1859,16 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - Notion `3ffdf8d8-8d8c-8125-9310-deea50bbd81d` PATCH 200×2 → 23 blocks H1 0 markers MISS 0 quote bold ✓ empty-quote 0 (stray `> ` ของ paste ถูก skip ตอน import — archive คง verbatim) **Status → published**; index n=479
 - **WP ยังไม่ live ณ CLOSE — เติมเมื่อขึ้น**
 
+### 2026-10-24 pair #63 CLOSED — publish 75 wc-w (0.89x v1) + Notion → published — notetaker-seminar (signal vs redundant noise)
+
+- publish archived `web-archive/20261024-notetaker-seminar-publish.md` byte-identical จาก paste (sha e582857b) ก่อนเกรด; ตัด tail `====` + `!20261024-CNT-NOTETAKER-SEMINAR-SIGNAL-VS-REDUNDANT-NOISE.webp` ออกจาก import (asset ไม่อยู่บนเครื่องนี้ — archive เก็บครบ)
+- owner moves (publish vs v1): (1) **ตัด §4 'ถูกออกแบบ' ทั้งองก์** — ทิศ "เครื่องมือทำงานได้ตรงข้ามที่ถูกออกแบบมา (สัมมนา ไม่ใช่ประชุม)" ไม่ส่งต่อ งาน publish เหลือแกนเดียว: ของที่หาย = คำซ้ำ ไม่ใช่แกน (2) ตัดประโยค self-congratulation §2 "และพออ่าน ก็เห็นเลยว่านั่นคือแกนจริง ๆ ของมัน" (3) plainify §3 "อาจไม่เคยเป็นเนื้อหาตั้งแต่แรก" → "อาจไม่ได้เพิ่มเนื้อหาใหม่...อาจเป็นรูปแบบการพูดที่หายไปได้" (ลดฟันธง ใช้ อาจ 2 ตัว) (4) duck ใหม่ 3 บรรทัด: "สรุปที่ดี...รักษาแกน" / "คำซ้ำหายไป แกนที่พรรับรู้ยังอยู่" / "หนึ่งรอบยังไม่พอตัดสินเครื่องมือ แต่พอให้เห็นว่าอะไรควรตรวจสอบต่อ" (ตัดทั้งคู่ v1-vocab และรักษา non-conclusion)
+- grades: dead 7/7 = 0 (เห็นเลยว่านั่นคือแกนจริง / ไม่เคยเป็นเนื้อหาตั้งแต่แรก / ออกแบบ ทั้ง family / อยู่ข้าง ๆ มัน / ตัดถูกอะไร / เครื่องมือพวกนี้ / ถูกสร้างมาสำหรับการประชุม); keeps 13/13 HIT (title/H3/จุดที่สะดุด/ไม่บางลง/ทดสอบ-ย่อ/honesty 1 รอบ/จุดเดียวชัด/quote 9 บรรทัด verbatim/duck 3 บรรทัด/hashtags เดิม)
+- battery: 75 wc-w (0.89x v1) PASS — H1 1/H2 1/H3 1, dots 7, quotes 2 (nonempty 1), พร 3 ตา (counter lookahead = 1: พรปล่อย/พรเลย/พรรับรู้ พลาดทั้งหมด — บันทึกสองเลข แบบ lesson #5 คุณค่า) เรา-คุณ-คับ-ผม 0, '?' 0, scans CLEAN
+- Notion `402df8d8-8d8c-8163-9ef1-c49a3edc772e` PATCH 200x2 (props Status → published + /markdown replace_content) → 27 blocks (H3 subtitle แรก, H2 = #สรุปแบบวิศวกรเป็ด, H1 ใน body = 0) dead 0 v1-remnant 0 **empty-quote 0 — trailing `> ` ถูกตัดที่ import ตาม standing handling (ครั้งที่ 5 ติดกัน #54/#55/#56/#58/#63; ต่างจากเดิม: กันตั้งแต่ import ไม่ต้องลบทีหลัง)**; quote ไม่ bold = layout ของ owner เก็บ verbatim
+- จุดสังเกตข้าม pair: #62 บีบ "ห้ามฟันธง" จนสรุปต้อง hedge / #63 owner ตัดสรุปที่บอกว่า "เห็นแกนจริง ๆ" ออกเอง — ทั้งสองเป็นรูปเดียวกัน: สรุปต้องรายงาน ไม่ตัดสิน
+- loop: v1 (2026-10-22, attestation Notetaker ครั้งแรก) → publish (2026-10-24) 2 รอบ ไม่มี critique round — รอบแรกของ #63 ที่ publish มาถึงโดยไม่ผ่าน Benz r1
+
 ### 2026-10-21 pair #58 fresh draft (PRE-CRITIQUE) — "ฟรีหนึ่งเดือน — และตัวเลขที่ตัดสินได้ เริ่มนับตอนฟรีหมด" (data-arrives-after-use, กิ่ง Data จาก brief 6 องค์ประกอบ AI Learning Algorithm) — CURRENT FORM, voice-dump workflow ครั้งแรก
 
 - brief intake รูปใหม่: owner ยิงไอเดียลอย ๆ ผ่าน speech-to-text (เก็บดิบ `voice-dumps/20261021-voice-dump-data-case.md`) → แตกกิ่ง 6 องค์ประกอบด้วย corpus scan ก่อนเขียน: Data = โพสต์นี้ / Model = park (ฉากชน #54 grab + นิยาม signal เอนไป Asset>Activity) / Loss = #52 / Feedback = #51 / Compute = ตระกูลแบต / Repeat = Routine-as-Default → ไม่ประกาศ framework/series (skill item 225 ใหม่)
