@@ -3954,5 +3954,93 @@
     "status": "published-ready (pair #63 CLOSED 2026-10-24 — publish PATCHed same page)",
     "note": "publish 75 wc-w (0.89x v1) — owner ตัด §4 'ถูกออกแบบ' ทั้งองก์ (ทิศ 'เครื่องมือทำงานตรงข้างที่ออกแบบ' ไม่ส่งต่อ) + ตัดประโยค self-congratulation §2 + plainify §3; dead 7/7 = 0 (เห็นเลยว่านั่นคือแกนจริง / ไม่เคยเป็นเนื้อหาตั้งแต่แรก / ออกแบบทั้ง family / อยู่ข้าง ๆ มัน / ตัดถูกอะไร / เครื่องมือพวกนี้ / ถูกสร้างมาสำหรับการประชุม); keeps 13/13 HIT — spine คำซ้ำ-vs-แกน + honesty 1 รอบ + duck ใหม่ 3 บรรทัด หายไป = คำซ้ำ ไม่ใช่แกน (ตัดทั้งคู่) + quote verbatim + hashtags เดิม; battery PASS (H1 1/H2 1/H3 1, dots 7, quotes 2 (nonempty 1), พร 3 ตา-1 counter, เรา-คุณ-คับ-ผม 0, '?' 0, scans CLEAN); Notion 402df8d8-8d8c-8163-9ef1-c49a3edc772e PATCH props (Status → published) + /markdown replace_content → 27 blocks dead 0 empty-quote 0 ล่าสุด = รอบที่ 5 ติดกัน (#54/#55/#56/#58/#63 กันที่ import); archive web-archive/20261024-notetaker-seminar-publish.md byte-identical sha e582857b; asset image 20261024-CNT-NOTETAKER-SEMINAR-SIGNAL-VS-REDUNDANT-NOISE.webp (ไม่อยู่บนเครื่องนี้)",
     "words": 75
+  },
+  {
+    "slug": "compiled-philosophy-decision-asset",
+    "title": "จดประโยคเด็ดไว้เยอะ — พอตัดสินใจจริง ไม่มีประโยคไหนมาตอบ",
+    "date": "2026-10-18T10:50:26",
+    "link": "https://wp.adduckivity.com/compiled-philosophy-decision-asset/",
+    "words": 368,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/compiled-philosophy-decision-asset.md"
+  },
+  {
+    "slug": "learning-cost-versus-redundant-pain",
+    "title": "รอบแรกมักมีต้นทุนการเรียนรู้เพิ่ม — ปัญหาคือเรายังจ่ายซ้ำกับเรื่องเดิมโดยไม่จำเป็นหรือเปล่า",
+    "date": "2026-10-19T08:00:00",
+    "link": "https://wp.adduckivity.com/learning-cost-versus-redundant-pain/",
+    "words": 139,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/learning-cost-versus-redundant-pain.md"
+  },
+  {
+    "slug": "ai-advice-vs-human-agency",
+    "title": "AI แนะนำสิ่งที่เหมาะสมได้ — แต่ไม่ได้แปลว่านั่นคือสิ่งที่เราอยากเลือก",
+    "date": "2026-10-20T08:00:00",
+    "link": "https://wp.adduckivity.com/ai-advice-vs-human-agency/",
+    "words": 158,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/ai-advice-vs-human-agency.md"
+  },
+  {
+    "slug": "urgency-feeling-versus-real-necessity",
+    "title": "มือหยิบโทรศัพท์ก่อนคิด — แต่สิ่งที่เรียกความสนใจ ไม่ได้แปลว่าสำคัญที่สุด",
+    "date": "2026-10-21T08:00:00",
+    "link": "https://wp.adduckivity.com/urgency-feeling-versus-real-necessity/",
+    "words": 63,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/urgency-feeling-versus-real-necessity.md"
+  },
+  {
+    "slug": "exploration-residue-prevent-relearning",
+    "title": "ลองของใหม่ได้ — แต่อย่าให้สิ่งที่เคยเรียนรู้หายไปโดยไม่จำเป็น",
+    "date": "2026-10-21T22:00:00",
+    "link": "https://wp.adduckivity.com/exploration-residue-prevent-relearning/",
+    "words": 81,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/exploration-residue-prevent-relearning.md"
+  },
+  {
+    "slug": "format-reuse-versus-over-editing",
+    "title": "ใช้ Format เดิม — แต่ทำไมบางชิ้นยังต้องแก้หลายรอบ",
+    "date": "2026-10-22T08:00:00",
+    "link": "https://wp.adduckivity.com/format-reuse-versus-over-editing/",
+    "words": 93,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/format-reuse-versus-over-editing.md"
+  },
+  {
+    "slug": "feedback-loop-asymmetry-who-trains-whom",
+    "title": "ใครกำลังเทรนใคร? เมื่อเราใช้ AI ทุกวัน การใช้ระบบ ไม่เท่ากับการกำหนดทิศทาง ของระบบ",
+    "date": "2026-10-22T13:32:00",
+    "link": "https://wp.adduckivity.com/feedback-loop-asymmetry-who-trains-whom/",
+    "words": 88,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/feedback-loop-asymmetry-who-trains-whom.md"
+  },
+  {
+    "slug": "free-trial-reading-data-vs-runtime-data",
+    "title": "ฟรีหนึ่งเดือน — แต่ข้อมูลที่ช่วยตัดสินใจว่าจะจ่ายต่อ เพิ่งเริ่มเกิดขึ้นตอนใช้จริง",
+    "date": "2026-10-23T08:00:00",
+    "link": "https://wp.adduckivity.com/free-trial-reading-data-vs-runtime-data/",
+    "words": 140,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/free-trial-reading-data-vs-runtime-data.md"
+  },
+  {
+    "slug": "feedback-chunk-blocking-vs-in-flight",
+    "title": "คอมเมนต์ยาวทั้งก้อน — ไม่ใช่ทุกบรรทัดคืองานที่ต้องทำตอนนี้",
+    "date": "2026-10-23T12:00:00",
+    "link": "https://wp.adduckivity.com/feedback-chunk-blocking-vs-in-flight/",
+    "words": 106,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/feedback-chunk-blocking-vs-in-flight.md"
+  },
+  {
+    "slug": "wispr-notetaker-meeting-afterwork-cost",
+    "title": "งานประชุมจบแล้ว แต่ทำไมงานยังไม่จบ? ลองดูว่า Wispr Notetaker ช่วยลดภาระตรงนี้ได้แค่ไหน",
+    "date": "2026-10-24T10:00:00",
+    "link": "https://wp.adduckivity.com/wispr-notetaker-meeting-afterwork-cost/",
+    "words": 213,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/wispr-notetaker-meeting-afterwork-cost.md"
+  },
+  {
+    "slug": "read-what-you-love-action-precedes-motivation",
+    "title": "อ่านสิ่งที่รัก จนกว่าจะรักการอ่าน",
+    "date": "2026-10-24T15:00:00",
+    "link": "https://wp.adduckivity.com/read-what-you-love-action-precedes-motivation/",
+    "words": 94,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/read-what-you-love-action-precedes-motivation.md"
   }
 ]
