@@ -4064,13 +4064,13 @@
   },
   {
     "slug": "20261025-cnt-jedi-sith-questions",
-    "title": "เจไดไม่ได้กลายเป็นซิธในวันเดียว (pair #64 v2 — re-spine ตาม Benz r1-r5; แกน: ลำดับการคิดกลับหัว — หลบแรงเริ่มคิด)",
+    "title": "เจไดไม่ได้กลายเป็นซิธในวันเดียว (pair #64 CLOSED — publish 124 wc-w 1.13x v2)",
     "file": "posts/20261025-cnt-jedi-sith-questions.md",
     "link": "https://app.notion.com/p/404df8d88d8c81059971f581ef748b93",
     "notion_page_id": "404df8d8-8d8c-8105-9971-f581ef748b93",
     "date": "2026-10-25",
-    "status": "rewritten (pair #64 v2 — Benz r1-r5 ครบ 5 รอบ gate 3 รอบ — รอ review/r6 หรือ publish)",
-    "note": "re-spine r1-r5: gate 3 รอบ (r1 'A: มีเรื่องต้องคิด แต่เปิด AI ก่อนลองคิดเอง' → r2 ถามต้นเหตุ A-D → ตอบ A → r3 ถาม ไม่รู้เริ่มตรงไหน vs ใช้แรงมาก → ตอบ 'ใช้แรงมากเกินไป'); แกนใหม่ (r3 verbatim): 'พรไม่ได้เปิด AI ก่อนคิดเองเพราะคิดไม่ออก แต่เพราะการคิดเองใช้แรงมากเกินไปเมื่อเทียบกับการเปิด AI แล้วเริ่มจากคำตอบที่มีอยู่ตรงหน้า' + ลำดับกลับหัว (r2 verbatim) + สิ่งที่แลก = โอกาสกำหนดคำถามเอง (r3 'เราลดแรงเริ่มต้น จนสูญเสียโอกาสที่จะกำหนดทิศทางความคิดเอง'); r5 FINAL ล็อก 4 ข้อ: ห้ามเขียนว่าเปิดก่อนคิด = ความผิด (กลายเป็นตัดสินพฤติกรรม) + จังหวะเล็ก verbatim + closer เดียว 'วันนี้ เราเปิด AI ก่อนลองคิดเองไปกี่ครั้งแล้ว' + รักษาอุปมาไม่สรุปแทนคนอ่าน; v2 110 wc-w (1.38x v1) battery PASS CUT 25=0 (declared: คับในบังคับ, ฝั่งมืด=อุปมา canon); keeps 12/12 critic verbatim; v1 dead 8/8=0 (ล่อลวง/ฝั่งมองเห็น-มองไม่เห็น/พึ่ง AI มากไปไหม/ครั้งนี้ขอให้มันตอบแทนก่อน ฯลฯ); พร 4 ตา-3 counter (lookahead พลาด พร+กริยา ตามบันทึก #63) / เรา 6; honesty: หลักฐาน = พฤติกรรมเปลี่ยน ไม่ใช่ความสามารถลดลง (r2 รูปปฏิเสธ) + จบ noticing (r1: ยังไม่ใช่ช่วงออกแบบระบบ); Notion 404df8d8-8d8c-8105-9971-f581ef748b93 PATCH 200x2 → 41 blocks v1-remnant 0 quote bold ✓ Status rewritten; archives: critique r1-r5 รวมไฟล์เดียว + v1 snapshot",
-    "words": 110
+    "status": "published-ready (pair #64 CLOSED 2026-10-25 — publish PATCHed same page)",
+    "note": "CLOSED: publish 124 wc-w (1.13x v2) — owner re-spine จาก v2: เปลี่ยนกรอบกลับเป็น 'ข้อยกเว้นสมเหตุสมผล' (spine เดิมของ v1) + เลิกใช้ architecture 'ลำดับกลับหัว/ใครกำหนดทิศทาง' ทั้งชุด (v2 dead 10/10 = 0 รวม bold เดิม 'ของที่หายไปไม่ใช่ความสามารถ' → แทนด้วย bold countable 'จำนวนครั้งที่เราไม่ได้เริ่มคิดด้วยตัวเอง'); r5 compliance 4/4 — closer verbatim +'?' (web standard) / จังหวะเล็ก variant 'มือก็เปิดแชทไปแล้ว' / no-blame (ความผิด=0, ใช้รูปปฏิเสธ 'ไม่มีใครตื่นมา...เลิกคิดเอง') / ไม่สรุปแทนคนอ่าน (duck ยังเปิด); keeps 11/11 (ข้อยกเว้นสมเหตุสมผล / ไม่ใช่เพราะคิดไม่ได้ / การเริ่มคิดเองต้องใช้แรง / พัลพาทีนไม่ได้บังคับอนาคิน / จุดเริ่มต้นอัตโนมัติ / ใช้ AI หลังจากเริ่มคิด vs แทนการเริ่มคิด / สองอย่างอาจให้คำตอบเหมือนกัน / ไม่มีอะไรพัง / ในหนึ่งวัน / พรเริ่มสังเกตเรื่องนี้จากตัวเอง / เครื่องมือไม่ได้ทำให้เลิกคิดเอง); battery PASS: H1 1/H2 1/H3 1, dots 9, quotes 1 bold, พร 4 ตา-3 counter / เรา 9, '?' 3 (web standard), CUT 25=0 (declared: คับในบังคับ + ฝั่งมืด canon); layout: line-per-sentence ยาวเต็ม (แบบ social long-form) — ครั้งแรกของ CURRENT FORM publish; ไม่มี asset image line ใน paste; Notion PATCH 200x2 → 81 blocks → ลบ H1 dup 1 (import pitfall ใหม่: paste มี H1 ติดมา) → **80 blocks H3-first H1=0 empty-quote 0 quote bold ✓ Status published**",
+    "words": 124
   }
 ]
