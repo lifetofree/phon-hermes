@@ -86,6 +86,17 @@ All quotes below are verbatim from the corpus (same orthography as source files)
 | 2026-10-16 | water-shape-vs-direction-niten-ichi-ryu | web-archive/water-shape-vs-direction-niten-ichi-ryu.md | 209 | A |
 | 2026-10-17 | voice-input-flow-effort-vs-editing-cost | web-archive/voice-input-flow-effort-vs-editing-cost.md | 492 | B |
 | 2026-10-18 | optimal-stopping-37-percent-rule-reality | web-archive/optimal-stopping-37-percent-rule-reality.md | 393 | A |
+| 2026-10-18 | compiled-philosophy-decision-asset | web-archive/compiled-philosophy-decision-asset.md | 391 | A |
+| 2026-10-19 | learning-cost-versus-redundant-pain | web-archive/learning-cost-versus-redundant-pain.md | 160 | A |
+| 2026-10-20 | ai-advice-vs-human-agency | web-archive/ai-advice-vs-human-agency.md | 181 | A |
+| 2026-10-21 | urgency-feeling-versus-real-necessity | web-archive/urgency-feeling-versus-real-necessity.md | 86 | A |
+| 2026-10-21 | exploration-residue-prevent-relearning | web-archive/exploration-residue-prevent-relearning.md | 102 | A |
+| 2026-10-22 | format-reuse-versus-over-editing | web-archive/format-reuse-versus-over-editing.md | 118 | A |
+| 2026-10-22 | feedback-loop-asymmetry-who-trains-whom | web-archive/feedback-loop-asymmetry-who-trains-whom.md | 117 | A |
+| 2026-10-23 | free-trial-reading-data-vs-runtime-data | web-archive/free-trial-reading-data-vs-runtime-data.md | 163 | A |
+| 2026-10-23 | feedback-chunk-blocking-vs-in-flight | web-archive/feedback-chunk-blocking-vs-in-flight.md | 127 | A |
+| 2026-10-24 | wispr-notetaker-meeting-afterwork-cost | web-archive/wispr-notetaker-meeting-afterwork-cost.md | 240 | B |
+| 2026-10-24 | read-what-you-love-action-precedes-motivation | web-archive/read-what-you-love-action-precedes-motivation.md | 113 | A |
 
 Type key: A = System/Mindset, B = Tool Review, C = other. (Word count = `wc -w` on the archived file, including front-matter lines.)
 
@@ -1924,3 +1935,61 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - battery: 84 wc-w (กฎ-post band, เทียบ #44 v3 ที่ 62), H1 1/H2 1/H3 1, dots 5, quotes 2 bold 1, พร 2/เรา 1/คุณ-คับ-ผม 0, scans CLEAN — PASS
 - Notion `400df8d8-8d8c-81e7-b17b-f449b48b5464` PATCH (Name ใหม่ + body) → 25 blocks markers ครบ v1 vocabulary 0 quote bold ✓ Status draft — รอ review/Benz r1
 - บทเรียน: "งง" จาก owner = สัญญาณว่า post เล่ากลไกได้แต่ core ไม่ชัด — ถาม core ตรง ๆ (clarify) ก่อน rewrite รอบสอง ดีกว่าเดาและเขียนซ้ำ
+
+### 2026-10-25 — new posts (10-18..10-24 window): compiled-philosophy-decision-asset, learning-cost-versus-redundant-pain, ai-advice-vs-human-agency, urgency-feeling-versus-real-necessity, exploration-residue-prevent-relearning, format-reuse-versus-over-editing, feedback-loop-asymmetry-who-trains-whom, free-trial-reading-data-vs-runtime-data, feedback-chunk-blocking-vs-in-flight, wispr-notetaker-meeting-afterwork-cost, read-what-you-love-action-precedes-motivation
+
+ภาพรวม batch: 11 โพสต์ (10-18..10-24, avg ~154 wc-w — สั้นสุดของ corpus, range 86–391) — 10 Type A + 1 Type B (wispr-notetaker) — corpus วิเคราะห์วิ่งนำหน้า publication ต่อเนื่อง (หลายโพสต์ = publish ของ pair ที่วิเคราะห์ไว้แล้ว: feedback-chunk = pair #59, compiled-philosophy/ai-advice/free-trial/wispr = pair #51/#53/#58/#49-#57 family)
+
+- **v2 line-per-sentence ครบทั้ง batch** (headingless, "." beats, — bullets) — **คับ = 0 ใน body** (เจอ "นะคับ" 1 จุด เฉพาะ affiliate CTA ของ wispr-notetaker; อีก 2 hit คือคำ "บังคับ" ไม่ใช่ particle) — trend note #8 (คับ≈0) ดำเนินต่อเป็น batch ที่ 2
+- **#สรุปแบบวิศวกรเป็ด (hash form) = closer มาตรฐานของโพสต์ A ทั้ง 10/10** — กลับมาเป็น closer หลักชัด (Type B wispr ไม่ใช้ label)
+- **closer = question-as-closer (note #9) ครอง batch:** "คืนนี้ลอง..." night-question ×4 (compiled-philosophy / learning-cost / ai-advice / free-trial) + "ครั้งหน้า/ครั้งถัดไป/รอบหน้า" next-time question ×8 — โพสต์จบที่คำถาม ไม่ใช่คำตอบ
+- **narrator = พร (system-post rule, pair #11) กลับมาเป็นตัวหลักในโพสต์ A** (compiled 30 / ai-advice 27 / free-trial 20 / learning-cost 17) — ตรงข้ามกับ draft→publish pairs ที่ "เรา" ชน; "เรา" สูงเฉพาะ read-what-you-love (17) + feedback-chunk (3)
+- **tag core #Adduckivity #DuckOS #NeuroDivergent** — #NeuroDivergent หาย 2 โพสต์ (format-reuse / feedback-chunk) = 9/11; **#SystemThinking = tag หลัก (9/11)**; batch เป็น theme cluster "cost / asset / loop / residue" (ไม่จ่ายซ้ำ + เก็บสิ่งที่เคยเรียนรู้)
+
+- compiled-philosophy-decision-asset:
+  - ยาวสุดของ batch (391) — โพสต์ A ที่ยาวใน band สั้นนี้หายาก (batch ส่วนใหญ่ 80–130)
+  - ใหม่: **"กฎสามบรรทัด" micro-protocol device** — 3 เส้น conditional one-liner ("ถ้าอะไรเสียงดัง = ผิด / ถ้าอะไรต้อง Effort สูง = Redesign / ถ้าอะไรเร่ง = หยุด") แต่ละเส้นมี sub-section ขยาย — เป็น realization ของ anti-protocol (note #15) ในรูป lightweight (3 สัญญาณ→action แทน 3-command protocol)
+  - ใหม่: **"Decision Asset" concept + loop diagram** "เจอเคสจริง → ตัดสินใจ → ดูผล → เห็นรูปแบบ → สกัดกฎ → ใช้ซ้ำ → ตรวจผลอีกครั้ง" — vocabulary ของ Corpus (Compile/Asset/Recompile) ถูกใช้เป็น spine
+  - closer = #สรุปแบบวิศวกรเป็ด + คืนนี้ night-question (สกัดกฎ 1 บรรทัด)
+- learning-cost-versus-redundant-pain:
+  - spine = **ต้นทุนการเรียนรู้** (ลดได้บางส่วน) vs **ต้นทุนที่จ่ายซ้ำกับปัญหาเดิม** (ที่ควรถามต่อ) — "ความเจ็บไม่ได้พิสูจน์ว่าเรากำลังเติบโต"
+  - ยืนยัน residue/asset vocabulary (ของเดิมให้หยิบมาปรับใช้ vs เริ่มจากหน้าว่าง) — "รอบสิบใช้เวลาเท่ารอบแรก" ไม่ได้แปลว่าไม่เรียนรู้
+  - closer = #สรุปแบบวิศวกรเป็ด + คืนนี้ night-question; tag ใหม่ #LearningCurve #GrowthMindset
+- ai-advice-vs-human-agency:
+  - spine = **คำแนะนำ AI = ข้อมูลประกอบการตัดสินใจ ไม่ใช่คำสั่ง** / ความต้องการของเรา = ข้อมูลอีกชุดที่ต้องนับ — "AI ช่วยคิดบางส่วน แต่ไม่ควรทำให้เราหยุดมีส่วนร่วมในการตัดสินใจ"
+  - register: พร 27 สูง — first-person system post เต็ม (ยืนยัน narrator=พร ในโพสต์ A)
+  - closer = #สรุปแบบวิศวกรเป็ด + คืนนี้ night-question (ย้อนดูคำแนะนำ AI ล่าสุด); tag #AI #DecisionMaking
+- urgency-feeling-versus-real-necessity:
+  - spine = **ความรู้สึกเร่ง (ต้องรีบ) vs ความจำเป็นต้องรีบ (จำเป็นจริง)** — "มือหยิบโทรศัพท์ก่อนคิด"
+  - สั้น (86) — กฎ-post band; ยืนยัน "ความเร็วควรนำเฉพาะเหตุฉุกเฉินจริง" (edge-case hedge)
+  - closer = #สรุปแบบวิศวกรเป็ด + next-time question; tag ใหม่ #Attention #Urgency
+- exploration-residue-prevent-relearning:
+  - spine = **เก็บ residue จากการลอง** (ทางเลือก/ความรู้ว่าอะไรไม่ใช่ทาง) vs บังคับให้ทุกการลองต้องเหลือผล — "การเดินวนเกิดจริง = กลับมาทำสิ่งเดิมโดยไม่มีสิ่งที่เคยเรียนรู้ติดตัว"
+  - residue vocabulary (pair #14 5-residue) วนกลับมา — "residue" เป็น connective tissue ของ batch
+  - closer = #สรุปแบบวิศวกรเป็ด + next-time question; tag #Exploration #Learning
+- format-reuse-versus-over-editing:
+  - spine = **Format เดิมลดงานจัดโครง แต่ไม่ทำให้ความหมายชัดโดยอัตโนมัติ** — "แก้เพื่อรักษาความหมาย ไม่ใช่แก้เพื่อปิดทุกความเป็นไปได้"
+  - ใหม่ (lightweight device): **1-question test** "ถ้าไม่แก้จุดนี้ คนอ่านจะเข้าใจสารหลักผิดไหม" — self-check ที่ช่วยแยกเหตุผลของการแก้ ออกจากความรู้สึกยังไม่มั่นใจ
+  - #NeuroDivergent หาย (tag 4 ตัว) — core tag missing; closer = #สรุปแบบวิศวกรเป็ด + next-time question
+- feedback-loop-asymmetry-who-trains-whom:
+  - spine = **การใช้ระบบ ≠ การกำหนดทิศทางของระบบ** — 2 loop เทียบ (เทรน agent ของตัวเอง = แก้กฎได้โดยตรง/ตรวจผลย้อนกลับได้ vs ระบบแนะนำเนื้อหา = ส่งได้แค่สัญญาณ ไม่เห็นว่ามันถูกนำไปปรับ) — asymmetry
+  - register: พร 9 / เรา 13 (we-mix สูง — โพสต์ conceptual)
+  - closer = #สรุปแบบวิศวกรเป็ด + next-time question (สังเกตว่าระบบกำลังเปลี่ยนสิ่งที่เราเห็นไปทางไหน); tag #AI
+- free-trial-reading-data-vs-runtime-data:
+  - spine = **ข้อมูลจากการอ่าน** (ราคา/ฟีเจอร์/ข้อจำกัด) vs **ข้อมูลจากการใช้จริง** (runtime) — "สองชุดทดแทนกันไม่ได้" — pre-trial analysis ของ voice-dictation tool (Wispr cluster)
+  - evidence-status discipline (ตัวนับคำยังไม่ทำงานช่วง Pro trial / ตัวเลขอาจต่างตามเครื่องและบัญชี) — type-B convention วนมาในโพสต์ A
+  - closer = #สรุปแบบวิศวกรเป็ด + คืนนี้ night-question; tag #Data #DecisionMaking
+- feedback-chunk-blocking-vs-in-flight:
+  - **publish ของ pair #59 (long-message-verdict-line)** — ตาม pair history: คู่ concept "จุดที่ต้องเกิดก่อน" vs "ของถือระหว่างทาง" + bold quote "คอมเมนต์ยาวบอกขนาดของสิ่งที่มาถึง ไม่ได้บอกขนาดของงานที่ต้องทำตอนนี้" + near-miss "ของถือ ≠ ของทิ้ง" + honest disclaimer + closer คำถามนับ
+  - register: พร 2 / เรา 3 (สั้น, we-light) — สั้น (127)
+  - #NeuroDivergent หาย (tag 4 ตัว); closer = #สรุปแบบวิศวกรเป็ด + next-time question (นับจุดที่ต้องเกิดก่อน)
+- wispr-notetaker-meeting-afterwork-cost:
+  - **Type B tool review ของ batch** (240) — Wispr Notetaker, pre-trial analysis (หมายเหตุ: วิเคราะห์จากเอกสาร ไม่ใช่รีวิวการใช้งานจริง)
+  - structure 4 ส่วน: Wispr คืออะไร / สิ่งที่อาจช่วย + ยังต้องพิสูจน์ (4 งานหลังประชุม) / ก่อนสมัครดู 4 ข้อ / ถ้าจะทดลองวัดผลอย่างไร — evidence-status + metrics discipline
+  - **ใหม่ (ครั้งแรกของ corpus): affiliate/rebate disclosure** — "พรอาจได้รับสิทธิ์ Plan Pro เพิ่ม 1 เดือน...จึงขอเปิดเผยเรื่องนี้ไว้ตรง ๆ เพื่อให้คนอ่านมีข้อมูลครบถ้วน" — standing transparency convention สำหรับโพสต์เครื่องมือแบบ sponsored/affiliate
+  - "นะคับ" particle กลับมาที่ช่อง affiliate CTA (จุดเดียวของ batch); ไม่มี #สรุป label (Type B); tag #Meetings #AI
+- read-what-you-love-action-precedes-motivation:
+  - **hook = external quote** (Naval Ravikant: "Read what you love until you love to read.") — quote-hook type (seed secondary pattern) วนกลับมา — cleanest quote→reframe post ของ batch
+  - spine = **ความรักในการอ่านไม่ใช่เงื่อนไขตั้งต้น แต่เป็นผลที่อาจเกิดขึ้นหลังเริ่มอ่าน** — "action precedes motivation" (title) — เริ่มจากเรื่องที่อยากรู้ได้ โดยไม่ต้องรู้ล่วงหน้าว่าจะรักการอ่านหรือไม่
+  - register: เรา 17 (we-heavy สูงสุดของ batch — โพสต์ quote/philosophy) / พร 1
+  - closer = #สรุปแบบวิศวกรเป็ด + next-time question; tag ใหม่ #Reading
