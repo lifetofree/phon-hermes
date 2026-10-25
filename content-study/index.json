@@ -4057,6 +4057,9 @@
     "date": "2026-10-25T14:29:41",
     "link": "https://wp.adduckivity.com/reliable-system-over-fallible-memory/",
     "words": 70,
-    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/reliable-system-over-fallible-memory.md"
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/reliable-system-over-fallible-memory.md",
+    "status": "published (WP 2026-10-25 — owner-authored, ไม่ผ่าน draft pair)",
+    "type": "A",
+    "note": "'เรื่องเล่าจากหมาแก่' — ครั้งแรกของ corpus: ผู้ร่วมเล่าเป็นสัตว์เลี้ยง (ข้าวกล้อง = หมา, นัดหมอ) ใช้เป็นฉากของแกน ความจำคลาดเคลื่อน vs ระบบที่เชื่อถือได้+ตรวจย้อนกลับได้ (Calendar แจ้งเตือนถูก พรจำผิด) — ผลลัพธ์ที่สำคัญ = 'ไม่ต้องเสียเวลาตำหนิตัวเอง'; 81 wc-w (body), พร 5/เรา 4 (พรเล่าเหตุการณ์ เราถือส่วนขยาย), dots 5, quotes 0, '?' 0 (จบ declarative ไม่ใช่ question-closer ของ batch ก่อน), em-dash 0; **ไม่มี #สรุปแบบวิศวกรเป็ด closer — หลุด streak 10/10 ของ batch 10-18..10-24** (ปิดด้วยสรุปเปล่า ๆ 2 บรรทัด) + tag ใหม่ #Dog (ครั้งแรก); sibling: #62 rule-vs-model (ความจำ-vs-ความเข้าใจ) — แกนไม่ชน (อันนี้ = ความจำ-vs-ระบบภายนอก); workflow ใหม่: ลง Content DB (303df8d8-8d8c-8013-baa1-c2fd25e7c9a5) ContentID 20261025-CNT-RELIABLE-SYSTEM-OVER-FALLIBLE-MEMORY Status ✅ Published Platform WP/FB/TH/IG หมวด 🛡️ Survival Guide Type 🔴 Core — ข้าม Content Drafts DB ทั้งรอบ; archive sync จับแล้ว (web-archive/reliable-system-over-fallible-memory.md)"
   }
 ]

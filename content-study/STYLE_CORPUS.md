@@ -1870,6 +1870,17 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - Notion `3ffdf8d8-8d8c-8125-9310-deea50bbd81d` PATCH 200×2 → 23 blocks H1 0 markers MISS 0 quote bold ✓ empty-quote 0 (stray `> ` ของ paste ถูก skip ตอน import — archive คง verbatim) **Status → published**; index n=479
 - **WP ยังไม่ live ณ CLOSE — เติมเมื่อขึ้น**
 
+### 2026-10-25 (2nd) — เรื่องเล่าจากหมาแก่ (reliable-system-over-fallible-memory) — owner-authored, WP live วันเดียวกัน
+
+- publish archive `web-archive/reliable-system-over-fallible-memory.md` (sync จับรอบสอง — ครั้งแรก silent: script วิ่ง 10:02 ก่อนโพสต์ขึ้น 14:29 + stale-fetch pitfall เดิม; retry = ทางแก้ ตามระเบียบเดิม) — WP id 2525 date 2026-10-25T14:29:41
+- workflow สังเกต: โพสต์ลงผ่าน **Content DB (303df8d8-8d8c-8013-baa1-c2fd25e7c9a5)** ContentID 20261025-CNT-RELIABLE-SYSTEM-OVER-FALLIBLE-MEMORY / Status ✅ Published / Platform WP,FB,TH,IG / 🛡️ Survival Guide / 🔴 Core / Publish Date 11:13+07 — **ข้าม Content Drafts DB ทั้งรอบ** (ไม่มี draft page, ไม่มี critique round — รูปแบบเดียวกับยุค WP-era ที่ owner เขียนเอง)
+- spine: ความจำคลาดเคลื่อน (พรจำเวลานัดผิด) vs ระบบที่เชื่อถือได้ + กลับไปตรวจสอบได้ (Calendar แจ้งเตือนชั้น 2h/1h/30m/15m มีหน้าที่ต่างกัน) — "สมองไม่ได้มีไว้จำทุกอย่าง แค่มีระบบที่เชื่อถือได้" + ปลายทางที่แกนต้องการ = "ไม่ต้องเสียเวลาตำหนิตัวเอง"
+- measured (body): 81 wc-w, พร 5 / เรา 4 (พรเล่าเหตุการณ์, เราถือบทสรุปกลาง — ตามกฎ personal-diagnostic), dots 5, quotes 0, '?' 0, em-dash 0, curly 0, headings: H1 title + H2 subtitle-line "สมองไม่ได้มีไว้จำทุกอย่าง..." (จาก block read-back ของ Content DB)
+- **โครงหลุด convention ของ batch ก่อน 2 จุด:** (1) **ไม่มี #สรุปแบบวิศวกรเป็ด closer** — streak 10/10 ของ batch 10-18..10-24 จบที่นี่ (ปิดด้วยสรุปประกาศ 2 บรรทัด "บางเรื่องไม่จำเป็นต้องฝึกตัวเอง..." ไม่มี label, ไม่มีคำถาม) (2) จบ declarative — question-as-closer (×8 ของ batch) ไม่ถูกใช้; tag tail = #Adduckivity #DuckOS #NeuroDivergent + **#Dog ใหม่ (ครั้งแรกใน corpus)**
+- อุปกรณ์ใหม่: **ตัวละครสัตว์เลี้ยงเป็นผู้ร่วมเหตุการณ์** (ข้าวกล้อง = หมาแก่, นัดหมอ) — เหตุการณ์จริงของบ้านถูกใช้เป็นฉากของแกน system-post โดยตรง (ไม่ใช่ metaphor แต่ง) — ครั้งแรกที่ corpus มี co-protagonist ที่ไม่ใช่คน
+- sibling guard: #62 rule-vs-model (ข้อตกลงกับตัวเอง vs ความเข้าใจ — ความจำเงียบ) กับโพสต์นี้ (ความจำ vs ระบบภายนอกที่ตรวจย้อนกลับได้) — ตระกูล memory เดียว แกนต่างกัน ไม่ชน; WP slug ยังจับคู่ concept เดียวกับ draft #62 v1 ("reliable system over fallible memory" ≈ "จำข้อตกลง...แต่มันเงียบ") — โพสต์นี้ = อีกมุมของแขนงเดียวกัน
+- สถานะ: analyze-only (เจ้าของ publish เอง) — ไม่มีอะไรต้อง patch; ยังไม่ได้เกรดใส่ pair ใด (ไม่มี draft ต้นทาง)
+
 ### 2026-10-24 pair #63 CLOSED — publish 75 wc-w (0.89x v1) + Notion → published — notetaker-seminar (signal vs redundant noise)
 
 - publish archived `web-archive/20261024-notetaker-seminar-publish.md` byte-identical จาก paste (sha e582857b) ก่อนเกรด; ตัด tail `====` + `!20261024-CNT-NOTETAKER-SEMINAR-SIGNAL-VS-REDUNDANT-NOISE.webp` ออกจาก import (asset ไม่อยู่บนเครื่องนี้ — archive เก็บครบ)
