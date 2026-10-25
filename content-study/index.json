@@ -4061,5 +4061,15 @@
     "status": "published (WP 2026-10-25 — owner-authored, ไม่ผ่าน draft pair)",
     "type": "A",
     "note": "'เรื่องเล่าจากหมาแก่' — ครั้งแรกของ corpus: ผู้ร่วมเล่าเป็นสัตว์เลี้ยง (ข้าวกล้อง = หมา, นัดหมอ) ใช้เป็นฉากของแกน ความจำคลาดเคลื่อน vs ระบบที่เชื่อถือได้+ตรวจย้อนกลับได้ (Calendar แจ้งเตือนถูก พรจำผิด) — ผลลัพธ์ที่สำคัญ = 'ไม่ต้องเสียเวลาตำหนิตัวเอง'; 81 wc-w (body), พร 5/เรา 4 (พรเล่าเหตุการณ์ เราถือส่วนขยาย), dots 5, quotes 0, '?' 0 (จบ declarative ไม่ใช่ question-closer ของ batch ก่อน), em-dash 0; **ไม่มี #สรุปแบบวิศวกรเป็ด closer — หลุด streak 10/10 ของ batch 10-18..10-24** (ปิดด้วยสรุปเปล่า ๆ 2 บรรทัด) + tag ใหม่ #Dog (ครั้งแรก); sibling: #62 rule-vs-model (ความจำ-vs-ความเข้าใจ) — แกนไม่ชน (อันนี้ = ความจำ-vs-ระบบภายนอก); workflow ใหม่: ลง Content DB (303df8d8-8d8c-8013-baa1-c2fd25e7c9a5) ContentID 20261025-CNT-RELIABLE-SYSTEM-OVER-FALLIBLE-MEMORY Status ✅ Published Platform WP/FB/TH/IG หมวด 🛡️ Survival Guide Type 🔴 Core — ข้าม Content Drafts DB ทั้งรอบ; archive sync จับแล้ว (web-archive/reliable-system-over-fallible-memory.md)"
+  },
+  {
+    "slug": "20261025-cnt-jedi-sith-questions",
+    "title": "เจไดไม่ได้กลายเป็นซิธในวันเดียว (pair #64 v1 — กิ่ง park จาก brief #57: เจได→ซิธ; Let them fight ยัง park เป็นโพสต์แยก)",
+    "file": "posts/20261025-cnt-jedi-sith-questions.md",
+    "link": "https://app.notion.com/p/404df8d88d8c81059971f581ef748b93",
+    "notion_page_id": "404df8d8-8d8c-8105-9971-f581ef748b93",
+    "date": "2026-10-25",
+    "status": "draft (pair #64 v1 — รอ review/Benz r1)",
+    "note": "spine: การพลิกฝั่งไม่ได้มาจากการตัดสินใจครั้งใหญ่ แต่มาจากข้อยกเว้นเล็ก ๆ ที่สมเหตุสมผล — สิ่งที่จับได้ = คำถามที่เลิกเกิดในหัว ('ของที่หายไปไม่ใช่ความสามารถ แต่คือคำถามที่ไม่ได้เกิด'); เคส generic class-level (เราถือเรื่อง, พร bookends 1 + dispatch ใน quote); fiction names อนาคิน/พัลพาทีน = ไม่ใช่ชื่อคนจริง (กฎไม่กระทบ) จำกัดเปิดเรื่อง+near-miss; guards: #57 เทรน-family=0 (คนละแกน: #57=มองเห็นวงจร / อันนี้=จังหวะคำถามเลิกเกิด), #42 (คำถามไม่เปลี่ยน ≠ คำถามไม่เกิด), #63, #61-family, Let them fight=park; honesty: จับได้แค่ตอนหลังเปิดแล้ว ยังไม่มีวิธีจับก่อนเปิด (ไม่ออกแบบ — item 229); battery PASS 80 wc-w (H1 1/H2 1/H3 1, dots 8, quote 1 bold, พร 2/เรา 1, CUT 25=0 declared: คับในบังคับ + สรุปในหัวเป็ด), '?' 0; Notion 35 blocks read-back ครบ dead 0 empty-quote 0 comment-leak 0"
   }
 ]
