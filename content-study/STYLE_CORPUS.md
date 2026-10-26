@@ -2035,3 +2035,13 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - **sibling-guard หนาแน่นสุดของ corpus:** "คุมหลัง" = 0 (vocab ของ survival-checksum 9-24 → "วางไว้นอกหัว/ระบบรับ") / "โยนเหรียญ-หัวก้อย" = 0 (binary-decision 50-50 — เหรียญที่นี่ = สองด้านของลักษณะเดียว ไม่ใช่การสุ่ม) / "ชิปสมอง" = 0 (unbreakable-duck-ep7 — ใช้ "ชิป" ลำพัง) / memory-family ("ความจำ/เชื่อถือได้/สมองไม่ได้มีไว้จำ") = 0 ต่อ WP 10-25 reliable-system (axis แยก: นั่น = ความจำคลาดเคลื่อน vs ระบบตรวจย้อน / นี่ = ห้ามดัดชิป + ระบบรับเฉพาะชั้นที่พัง) / รีดผลงาน-วันดี-เสถียรภาพ = 0 (law-3 WP เก่า overclocking)
 - battery: ~120 wc-w (สั้น band กฎ-post), H1 1/H3 1/H2 1, beats 7, quote 1 bold, bold closer "ค่าเฉลี่ยไม่ได้เก็บด้านที่เราชอบไว้ — มันลบทั้งสองด้านพร้อมกัน", CUT 16 = 0, วินัย 2 = near-miss รูปปฏิเสธ (precedent #56 "คนวินัยสูงทำ"), CJK+adjacency CLEAN
 - Notion `405df8d8-8d8c-8163-be7a-c6ddf26251fc` (Content Drafts DB, Status draft, 37 blocks read-back ครบ, empty-quote 0, heading types ✓, tail shape ✓ — URL: https://app.notion.com/p/405df8d88d8c8163be7ac6ddf26251fc); index n=502 — รอ review/Benz r1
+
+### 2026-10-26 pair #65 r1 (Benz PRE-REWRITE, analyze-only) — two-sides-one-chip — gate = B (single-letter, answered in paste)
+
+- **critique shape ใหม่สุดของ corpus: verdict เดียวแบบนุ่ม + stress test 3 จุด + keeps 2 + do-not-do + gate A/B คำถามเดียว** — owner ตอบ "B" ตัวเดียว แล้ว critic ขยายทิศทางต่อใน paste เดียวกัน (3 bullets + guard + คำถามเป้าหมาย) = round-trip สั้นสุดที่เคยวัดได้ (1 คำถาม 1 คำตอบ จบ re-spine order)
+- **two-layer read รอบนี้ = "premise แท้ vs ข้ออ้างที่เขียนออกมา":** สิ่งที่พรค้นพบ = หลักการออกแบบ (ไม่ต้องพึ่งสมองในทุกเรื่อง) / สิ่งที่ v1 เขียน = คำตัดสินความสามารถ (แก้สมอง "ไม่ได้") — critic ชี้ว่ารูป normative ("เราไม่ควรต้องใช้แรงควบคุมตัวเองกับทุกเรื่องตลอดเวลา") แข็งแรงกว่าและพาไประบบได้ตรงกว่า
+- quote-verify 5/5 HIT vs v1 บนดิสก์ (ทุก quote ที่ critic อ้าง มีจริงใน v1 รวม "เรายังแยกไม่ออก")
+- keeps 2 ทำงานรู้คู่ (กรอบ + ตัวแปลงกรอบเป็นหลักการ) — บันทึกไว้เป็น publish acceptance markers ฝั่ง FUNCTION (publish อาจรวม/ตัด token ต้นฉบับ แต่ฟังก์ชันต้องอยู่)
+- do-not-do ครั้งแรกที่ critic สั่งเชิงบวกทั้งข้อ: "ไม่เพิ่มตัวอย่างระบบ ไม่เขียนวิธีแยกงาน — ไม่งั้นกลายเป็น how-to ก่อนแกนตกผลึก"
+- measurements: v1 105 wc-w / quote 5/5 / baselines ลง header ของ archive ครบ ('คำตอบคือไม่ได้' 1, 'ค่าเฉลี่ยไม่ได้เก็บ' 2, วินัย 2, เรา 11, พร 0, '?' 1 ฯลฯ)
+- archives: `20261026-two-sides-one-chip-benz-dna-critique-r1.md` (header + verbatim 2 ชิ้น: critique + gate answer/post-gate direction) — draft posts/ + Notion ไม่แตะตามสั่ง ("ตอนนี้แค่วิเคราะห์และ Reverse Engineering") — รอ publish version จากพร
