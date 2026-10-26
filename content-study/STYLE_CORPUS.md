@@ -2063,3 +2063,16 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - register: no-case class-level (brief ไม่มีเคส) — เรา 7/พร 0, '?' 1 เฉพาะ dispatch quote, จบไม่มีคำถาม (สภาพไม่รู้ = ending), อาจ-hedge ในองก์ lifestyle
 - battery: ~113 wc-w, beats 7, quote 1 bold, bold closer "ข้อมูลนั้นเป็นข้อมูลก่อนจะเป็นข้อหา — และยังอ่านไม่จบ", CUT 25 = 0 (รวม guard "ไหล" niten / "อ่าน" read-what-you-love ยกเว้นอุปมา title+closer / ชิป-เหรียญ-ค่าเฉลี่ย #65 / เงิน-อิสระ-ธุรกิจ OPB-overt), spine 8 beats ascending ✓, CJK CLEAN
 - Notion `405df8d8-8d8c-81eb-8389-ee6de8f2d83c` (36 blocks read-back ครบ, empty-quote 0, heading types ✓, tail shape ✓ — URL: https://app.notion.com/p/405df8d88d8c81eb8389ee6de8f2d83c); index n=504 — รอ review/Benz r1
+
+### 2026-10-26 pair #66 r1 (Benz PRE-REWRITE, analyze-only + RE) — work-fun-signal — gate = A (single-letter + direction ใน paste เดียว, ครั้งที่ 2 ติดกัน)
+
+- **round type ใหม่ใน corpus: WORD-PRECISION round** — critic สั่ง "ยังไม่ต้อง rewrite ทั้งบทความ แค่ทำให้ประโยคนี้ชัดขึ้น" = อยู่ระหว่าง PASS-round กับ re-spine (แก้ coined phrase ให้ตรง sense ที่ gate เลือก คง architecture)
+- **quote-verify 5/6 HIT + 1 paraphrase-drift:** critic ย่อ dispatch quote (v1 "หลบมัน...ที่เราได้เปรียบ" → "หลบงาน...ที่ได้เปรียบ") = paraphrase ไม่ใช่ stale view (load-bearing HIT ทุกตัว) — ตามกฎ 43 บันทึก drift ใน archive header
+- stress 3 จุด: (1) equation "แรงรักษาต่ำ = ได้เปรียบ" เชื่อมเร็วเกิน — ความสนุก = ข้อมูลเรื่อง fit กับตัวเรา ไม่ใช่หลักฐานความได้เปรียบในตลาด (แยกข้อมูลตัวเอง/ข้ออ้างสิทธิ์ตลาด — skill item 273) (2) "เวลาหายไป" สองความหมาย (ดูดดำในงาน / หลบเรื่องอื่น) — ต้องแยกเป็น 2 ชั้นข้อมูล ขณะทำ vs หลังทำ (274) (3) จบคู่ "ข้อมูลก่อนข้อหา" + "คำถามแยกประเภท" = ปฏิบัติเสริมกัน สั่งรักษาทั้งคู่ (276)
+- gate A/B/C ครั้งแรกที่มี 3 ตัวเลือก + คำถามถาม **intent ของเจ้าของ** ("พรหมายถึงอะไรเป็นหลัก") ไม่ใช่ข้อเท็จจริง → พรตอบ A ตัวเดียว + critic ขยาย: "ความสนุกที่ทิ้งผลงานไว้ แม้เราหยุดทำไปแล้ว" — คำตอบ reclassify ชั้นข้อมูลที่เป็น spine evidence (หลังทำ ไม่ใช่ขณะทำ)
+- do-not-build ซ้ำรูป #65: "ยังไม่ควรเพิ่มวิธีค้นหางานที่ใช่ หรือรายการวิธีวัด" (how-to-guard)
+- precision target (publish acceptance): "สนุกแบบที่พอเลิกแล้วไม่เหลืออะไร กับสนุกแบบที่งานเดินต่อเองหลังเลิก" → ความหมายต้องกลายเป็น "ผลงานยังคงมีคุณค่า แม้เราหยุดลงมือแล้ว" (ตัด ambiguity agency-verb 'งานเดินต่อเอง' = แรงบันดาลใจไหล — ซึ่งเผอิญชน guard 'ไหล' ของ niten พอดี) + คำถามปิดอัปเกรด "ความสนุกนั้นสร้างอะไรที่ยังอยู่ หลังจากเราเลิกทำแล้ว?"
+- keep-BOTH pair (ห้ามตัด/merge): "ข้อมูลนั้นเป็นข้อมูลก่อนจะเป็นข้อหา — และยังอ่านไม่จบ" + "ยังเหลือคำถามว่า สนุกแบบไหนคือสัญญาณ..."
+- baselines ครบใน archive header (จุดที่แรงในการรักษาต่ำ 1 / ได้เปรียบ 2 / งานเดินต่อเอง 1 / ยังอ่านไม่จบ 2 / จุดตัดของหลายความถนัด 1 / เวลาหาย 4 / เรา 7 / พร 0 / '?' 1 / wc-w 113)
+- skill items ใหม่: **(273) effort-as-position leap (แยก pull/fit vs advantage/market) / (274) time-loss two layers / (275) coinage-precision round (verb-connotation gate) / (276) keep-BOTH ending pair (status + question = dyad ไม่ใช่ insight-once ผิด) / (277) single-gate-with-direction 2 รอบติดกัน = cadence / (278) stigmatized-signal reframe 5-move shape** — draft/Notion ไม่แตะ รอ publish version
+- archive: `20261026-work-fun-signal-benz-dna-critique-r1.md`
