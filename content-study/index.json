@@ -4092,5 +4092,15 @@
   "date": "2026-10-26",
   "status": "superseded (เกรดแล้วในรอบ CLOSED — ดู entry หลัก slug 20261026-cnt-two-sides-one-chip)",
   "note": "publish paste (131 บรรทัด) archive byte-identical แล้ว; publish wc-w 180 (1.71x v1) — register: เรา 31/พร 0/คุณ-คับ-ผม 0 (คับ 1 ใน 'บังคับ' lookalike), '?' 1, อาจ 11, bold 3, hard-break 36 (publish wrapping ตาม item 272); owner moves เบื้องต้น: verdict 'คำตอบคือไม่ได้' = 0 ตาม critique / ค่าเฉลี่ย-line ถูกตัดแต่กรอบถูก converge เป็น bold 'ระบบที่ดี...' / ending เพิ่ม two-fork (ซับซ้อนชุดใหม่ vs รับผิดชอบทุกเรื่องเหมือนเดิม) / memory-line กลับมาในรูปปฏิเสธ; skill items (266)-(272) ลง SKILL.md แล้ว; การเกรดเต็มรอบ = เมื่อพรสั่ง file publish (freeze keys + keeps ฝั่ง FUNCTION ตาม item 268)"
+ },
+ {
+  "slug": "20261026-cnt-work-fun-signal",
+  "title": "ความสนุกที่เกิดกับงาน — ข้อมูลที่ยังอ่านไม่จบ (pair #66 v1)",
+  "file": "posts/20261026-cnt-work-fun-signal.md",
+  "link": "https://app.notion.com/p/405df8d88d8c81eb8389ee6de8f2d83c",
+  "notion_page_id": "405df8d8-8d8c-81eb-8389-ee6de8f2d83c",
+  "date": "2026-10-26",
+  "status": "draft (pair #66 v1 fresh CURRENT FORM — รอ review/Benz r1)",
+  "note": "idea brief: คนส่วนมากไม่สนุกกับงาน — ถ้าเราสนุก = แตะวิถีชีวิต OPB — spine: นิยามข้างมาก 'ถ้ามันสนุก แสดงว่ายังไม่ใช่งาน' (reported ไม่อ้างเจ้าของ) → คนกลุ่มเล็กเวลาหายไปกับงาน เจอความระแวงก่อนความดีใจ → dispatch 'สนุก = หลบงาน หรือยืนจุดที่ได้เปรียบ?' → ความระแวง = ยืมนิยามข้างมาก (งานต้องฝืน-อึด) → ถอนตัวจากงานที่ทำได้ดีสุด → ข้อมูลฝั่งตำแหน่ง: แรงรักษาต่ำ = ได้เปรียบ (Phon DNA Filter effort-less latent) + เวลาหาย = จุดตัดหลายความถนัด (skill stacking latent) → แตะวิถี OPB 1 องก์ (ย้ายงานไปกองเดียวกับสิ่งที่เวลาหาย — ไม่เรียกชื่อ ไม่สัญญาเงิน/อิสระ) → honesty: ยังแยกสนุกแบบหนี vs สนุกแบบงานเดินต่อตอนกำลังเกิดไม่ออก จับได้แต่หลังจบ — register: no-case class-level (เรา 7/พร 0/คุณ-คับ-ผม 0), '?' 1 เฉพาะ dispatch, จบไม่มีคำถาม (สภาพไม่รู้) — battery: ~113 wc-w, H1 1/H3 1/H2 1, beats 7, quote 1 bold, bold closer 'ข้อมูลนั้นเป็นข้อมูลก่อนจะเป็นข้อหา — และยังอ่านไม่จบ', CUT 25 ศัพท์ = 0 (OPB/ธุรกิจ/ขาย/ไหล/ชิป/เหรียญ/ค่าเฉลี่ย/เสมอ/ทุกครั้ง/ตลอด/ทุกวัน/เจได/เงิน/อิสระ/ทำสิ่งที่รัก...), เส้นทาง 1 ประกาศ, spine 8 beats positions ascending ✓, CJK+adjacency CLEAN, sibling guards: niten-water-heart (ไหล=0)/read-what-you-love (อ่าน-family=0 นอกอุปมา 'ยังอ่านไม่จบ')/pair #65 (ชิป-เหรียญ-ค่าเฉลี่ย=0)/WP willpower (ฝืน-อึด = reported frame ของเสียงข้างมากเท่านั้น) — Notion 405df8d8-8d8c-81eb-8389-ee6de8f2d83c 36 blocks read-back ครบ empty-quote 0 quote bold ✓ heading types ✓ tail shape ✓"
  }
 ]
