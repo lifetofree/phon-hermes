@@ -2096,3 +2096,14 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - **tags 8 ตัว ครั้งแรกของ corpus:** core 3 + #FlowState #SystemThinking #AssetFirst #UnfairAdvantage #WorkPhilosophy
 - Notion `405df8d8-8d8c-81eb-8389-ee6de8f2d83c` delete+rebuild 36→86 blocks Status → published read-back ครบ dead 0 quote bold ✓ (URL: https://app.notion.com/p/405df8d88d8c81eb8389ee6de8f2d83c); index n=506
 - **กิ่งจากโพสต์นี้ (park):** "แยกสองความสนุกตอนกำลังเกิด" ยังไม่มีวิธี — ถ้าพรเจอเคสจริง graduate ต่อ; คำถามสินทรัพย์ "ความสนุกสร้างอะไรที่ยังอยู่" = สะพานตรงไป OPB asset-family ยัง unnamed
+
+### 2026-10-26 pair #67 r1 (Benz PRE-REWRITE, analyze-only + RE) — stress-read-before-choose — gate answered IN PROSE ("เรื่องเดียวกันมีทั้งส่วนที่ควบคุมได้และควบคุมไม่ได้") → re-spine order
+
+- **quote-verify 8/8 HIT** (สมบูรณ์ทุก quote รวม blockquote ยาว — ครั้งแรกที่ critique quote ครบทุกตัวโดยไม่มี drift)
+- **critic สร้างโมเดล 3 ชั้นจากบท (อ่าน/เลือก/ตรวจผล) แล้วเกรดรายชั้น** — ชั้น 1-2 อธิบายได้ ชั้น 3 = ตรวจย้อนหลังเท่านั้น; จุดแข็ง = แยก "รู้สึกเครียด" ออกจาก "สิ่งที่ควรทำ" — model-grade critique รูปแบบที่ 2 (item 282)
+- stress 3 จุด: (A) **แบ่งกองง่ายกว่าความจริง** — เรื่องเดียวมีทั้งส่วนแก้ได้/ไม่ได้ → สิ่งที่ต้องอ่าน = "ส่วนไหนของเรื่องที่เรามีอิทธิพล" (B) **'อ่านผิด' ไม่มีเกณฑ์** — ผลไม่ดี ≠ อ่านผิด (อ่านถูกแต่ผลยังไม่เกิดก็มี) → เหนื่อยเปล่า/เบาลง = คมภาษาแต่เหตุผลอ่อน (C) **สรุปย้ำกลไกเดิม** ไม่เพิ่มขั้น → closer ต้อง advance (item 281)
+- **gate ครั้งแรกที่คำตอบเป็นประโยค ไม่ใช่ตัวอักษร:** พรตอบ "เรื่องเดียวกันมีทั้งส่วนที่ควบคุมได้และควบคุมไม่ได้" = เลือกแกนที่สอง (แบ่งเรื่องผิดตั้งแต่ต้น) — critic ยืนยัน re-spine order: "ขยับจากการแบ่งเรื่องเป็นสองกอง มาเป็นการแยกส่วนภายในเรื่องเดียวกัน" + รักษาแกนเดิม "เริ่มจัดการไปแล้วก่อนรู้ตัว" + รักษาน้ำเสียง/โครงสร้าง + ห้ามเพิ่มเครื่องมือ/สูตร (do-not-build ครั้งที่ 3 ติดกัน #65/#66/#67 = standing directive)
+- KEEP-list 4 (critic ยกเอง — ห้ามตัด): ตะกร้าสองใบ / ล็อกอยู่ที่เดิมทั้งก้อน / เหนื่อยหน้าตาคล้ายกันแต่ทิ้งผลไม่เหมือน / ยังไม่มีวิธีเช็ค = ความซื่อตรงทางความคิด
+- **stage label ครั้งแรก:** critic ประเมินตำแหน่งบท "Signal → Attention ไม่ใช่บทความเครื่องมือ" + ใช้เป็นเงื่อนไข gate (item 283)
+- baselines + KEEP-list + DEAD เป้า ('อ่านผิดกอง' รูปเดิม/'สองกอง' เป็นโมเดลหลัก) ลงครบใน archive header; skill items ใหม่: **(279) whole-thing binning / (280) outcome-as-verdict gap / (281) closer must advance / (282) model-grade critique / (283) situation-stage label** — draft/Notion ไม่แตะ รอ publish version
+- archive: `20261026-stress-read-before-choose-benz-dna-critique-r1.md`
