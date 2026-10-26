@@ -2076,3 +2076,12 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - baselines ครบใน archive header (จุดที่แรงในการรักษาต่ำ 1 / ได้เปรียบ 2 / งานเดินต่อเอง 1 / ยังอ่านไม่จบ 2 / จุดตัดของหลายความถนัด 1 / เวลาหาย 4 / เรา 7 / พร 0 / '?' 1 / wc-w 113)
 - skill items ใหม่: **(273) effort-as-position leap (แยก pull/fit vs advantage/market) / (274) time-loss two layers / (275) coinage-precision round (verb-connotation gate) / (276) keep-BOTH ending pair (status + question = dyad ไม่ใช่ insight-once ผิด) / (277) single-gate-with-direction 2 รอบติดกัน = cadence / (278) stigmatized-signal reframe 5-move shape** — draft/Notion ไม่แตะ รอ publish version
 - archive: `20261026-work-fun-signal-benz-dna-critique-r1.md`
+
+### 2026-10-26 pair #67 v1 (fresh draft, PRE-CRITIQUE) — "เครียดมาแล้ว — แต่เครียดกับอะไร" (stress-read-before-choose) — CURRENT FORM line-per-sentence
+
+- **idea brief:** "ว่ากันว่า การรับมือกับความเครียดมีอยู่สองวิธี คือการจัดการกับอารมณ์และการจัดการกับปัญหา แล้วเราจะเลือกแบบไหนล่ะ?" — ครั้งแรกที่แกน = ขั้นที่เกิด "ก่อน" การเลือก (การอ่านว่าเครียดกับอะไร) ไม่ใช่การเลือกระหว่างสองวิธี
+- spine: 'ว่ากันว่า' = reported frame (ไม่ตัดสิน taxonomy ไม่ gloss coping) → วันเครียดจริงแทบไม่ได้ยืนหน้าตะกร้าสองใบ → สิ่งที่เกิดก่อน = อ่านว่าเครียดกับอะไร (ตัดสินแทนเราแล้ว) → dispatch "เครียดในงาน vs เครียดในเรื่องคิดเอง — วันนี้มีกี่เรื่องที่อยู่กองไหน?" → fork: แก้ได้ = เหลือน้อยลงจริง / แก้ไม่ได้ = ล็อกที่เดิม งานจริงย้ายไปที่ 'ทำให้ตัวเองรับได้พอจะเดินต่อ' (Law #1 ความรู้สึก=ข้อมูล + Law #3 เสียงดัง=redesign — UNNAMED) → จุดพังบ่อยสุด = อ่านผิดกอง (แก้ไม่ได้แล้วไปแก้วน / แก้ได้แล้วปล่อยให้รู้สึก) → honesty จบสภาพไม่รู้ (เช็ค ณ เวลานั้นยังไม่มี — เหนื่อยเปล่า vs เบาลง จับได้ตอนถอยหลัง)
+- register: no-case class-level (เรา 9/พร 0/คุณ-คับ-ผม 0), '?' 1 เฉพาะ dispatch, จบไม่มีคำถาม
+- **guard สำคัญของเรื่องนี้: ครอบครัว stress เขียนมาแล้วในอีก register — attention-shock-dopamine-cortisol (9-10, เทคนิคสารเคมี) กับ survival-hardware (#54, สัญชาตญาณ) = พี่น้องตระกูลเครียด — อันนี้ = การอ่านโจทย์ก่อนเลือกวิธี (ตัดสินใจระดับ meta) → CUT สารเคมี/สมอง/สัญชาตญาณ = 0 ทั้งชุด + ไม่ gloss coping (ใช้ภาษากลางตาม brief)**
+- battery: ~107 wc-w, beats 6, quote 1 bold, bold closer "อ่านผิดว่าเครียดกับอะไร เท่ากับเลือกวิธีไปแล้วโดยไม่รู้ตัว", CUT 26 = 0, spine 10 beats ascending ✓, CJK CLEAN
+- Notion `405df8d8-8d8c-81f9-ad1d-f3636372a921` (33 blocks read-back ครบ, empty-quote 0, heading types ✓, tail shape ✓ — URL: https://app.notion.com/p/405df8d88d8c81f9ad1df3636372a921); index n=506 — รอ review/Benz r1
