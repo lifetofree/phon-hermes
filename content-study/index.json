@@ -4075,13 +4075,13 @@
  },
  {
   "slug": "20261026-cnt-two-sides-one-chip",
-  "title": "จุดแข็งสุดขั้ว กับจุดที่พัง — เป็นชิปเดียวกัน (pair #65 v1)",
+  "title": "จุดแข็งสุดขั้ว กับจุดที่พัง — เป็นชิปเดียวกัน (pair #65 CLOSED — publish 180 wc-w 1.71x v1)",
   "file": "posts/20261026-cnt-two-sides-one-chip.md",
   "link": "https://app.notion.com/p/405df8d88d8c8163be7ac6ddf26251fc",
   "notion_page_id": "405df8d8-8d8c-8163-be7a-c6ddf26251fc",
   "date": "2026-10-26",
-  "status": "draft (pair #65 v1 fresh CURRENT FORM — รอ review/Benz r1)",
-  "note": "idea brief: เหรียญสองด้าน — จุดแข็งสุดขั้ว+จุดพัง = ชิปเดียวกัน ห้ามดัดให้เป็นค่าเฉลี่ย ใช้ระบบนอกหัวรับชั้นที่พัง (Law #3 latent ตามสั่ง ไม่อ้างชื่อ) — class-level ล้วน ด้วย 'เรา' (เรา 11/พร 0/คุณ-คับ-ผม 0) ไม่มีเคสส่วนตัว (brief ไม่มี) — layout line-per-sentence เต็มรูป (publish form ของ pair #64) — battery: wc-w ~120, H1 1/H3 1/H2 1 (สรุปเป็ด), beats 7, quote 1 bold + '?' 1, bold closer 1, CUT 16 ศัพท์ = 0 (คุมหลัง/Law/ความจำ/ดัดสมอง/โยนเหรียญ/ชิปสมอง/เสมอ/ทุกครั้ง/ตลอด ฯลฯ), วินัย 2 = near-miss รูปปฏิเสธ (precedent #56), CJK+adjacency CLEAN — sibling guards: reliable-system-over-fallible-memory (WP 10-25) = คนละแกน (นั่น = ความจำ vs ระบบตรวจย้อน / นี่ = ห้ามดัดชิป ระบบรับเฉพาะชั้นพัง), survival-checksum 'คุมหลัง' = 0, binary-decision 'โยนเหรียญ' = 0, unbreakable-duck-ep7 'ชิปสมอง' = 0 — honesty: ยังไม่มีเกณฑ์แยกอะไรยกให้ระบบ/เหลือให้ตัวเอง (จบที่สภาพไม่รู้) — Notion 405df8d8-8d8c-8163-be7a-c6ddf26251fc 37 blocks read-back ครบ empty-quote 0 quote bold ✓ heading types ✓ tail shape ✓"
+  "status": "published-ready (pair #65 CLOSED 2026-10-26 — publish PATCHed same page 47 blocks)",
+  "note": "CLOSED: publish 180 wc-w (1.71x v1 — โตจาก feedback ของ critique: เพิ่ม B-spine section ออกแบบชีวิต + two-fork จบ) — owner moves: verdict 'คำตอบคือไม่ได้' หาย → รูป normative ตาม critic / ค่าเฉลี่ย-line ถูกตัดแต่กรอบ converge เป็น bold กลางบท 'ระบบที่ดี ไม่ได้ทำให้เราเก่งขึ้นทุกด้าน แต่มันทำให้เราไม่ต้องใช้ความเก่งไปกับทุกด้าน' (item 268: กรอบ+ตัวแปลงรวมประโยคเดียว) / dispatch ใช้คำ critic 'โดยไม่ต้องลดทอนด้านที่เราเก่ง' / memory-line กลับมารูปปฏิเสธ (owner re-add) / จบ two-fork ซับซ้อนชุดใหม่ vs รับผิดชอบทุกเรื่องเหมือนเดิม + 'ยังแยกไม่ออกทั้งหมด' — grades: fixes 8/8 PASS + keeps 7/7 HIT + guards CLEAN (คุมหลัง/โยนเหรียญ/ชิปสมอง/DuckOS-in-body = 0, วินัย 1 รูปปฏิเสธ, เรา 31/พร 0/'?' 1, CJK 0) — register ปิด: full-เรา conceptual (เรา 31/พร 0/อาจ 11) + hard-break wrapping 36 จุด (publish ร่าง, item 272) — loop: v1 105 → Benz r1 (gate B, single-letter + direction ใน paste เดียว) → publish 180 ไม่มี rewrite รอบ agent (owner เขียนเองตรง) — Notion 405df8d8-8d8c-8163-be7a-c6ddf26251fc PATCH → delete+rebuild 47 blocks (markdown replace endpoint 400 ตาม skill) Status → published read-back ครบ dead 0 quote bold ✓ tail shape ✓"
  },
  {
   "slug": "20261026-two-sides-one-chip-publish-archived",
@@ -4090,7 +4090,7 @@
   "link": "",
   "notion_page_id": "405df8d8-8d8c-8163-be7a-c6ddf26251fc",
   "date": "2026-10-26",
-  "status": "publish-archived (analyze/RE round — ยังไม่เกรด ยังไม่ PATCH Notion จนกว่าพรสั่ง)",
+  "status": "superseded (เกรดแล้วในรอบ CLOSED — ดู entry หลัก slug 20261026-cnt-two-sides-one-chip)",
   "note": "publish paste (131 บรรทัด) archive byte-identical แล้ว; publish wc-w 180 (1.71x v1) — register: เรา 31/พร 0/คุณ-คับ-ผม 0 (คับ 1 ใน 'บังคับ' lookalike), '?' 1, อาจ 11, bold 3, hard-break 36 (publish wrapping ตาม item 272); owner moves เบื้องต้น: verdict 'คำตอบคือไม่ได้' = 0 ตาม critique / ค่าเฉลี่ย-line ถูกตัดแต่กรอบถูก converge เป็น bold 'ระบบที่ดี...' / ending เพิ่ม two-fork (ซับซ้อนชุดใหม่ vs รับผิดชอบทุกเรื่องเหมือนเดิม) / memory-line กลับมาในรูปปฏิเสธ; skill items (266)-(272) ลง SKILL.md แล้ว; การเกรดเต็มรอบ = เมื่อพรสั่ง file publish (freeze keys + keeps ฝั่ง FUNCTION ตาม item 268)"
  }
 ]
