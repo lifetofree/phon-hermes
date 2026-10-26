@@ -2107,3 +2107,14 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - **stage label ครั้งแรก:** critic ประเมินตำแหน่งบท "Signal → Attention ไม่ใช่บทความเครื่องมือ" + ใช้เป็นเงื่อนไข gate (item 283)
 - baselines + KEEP-list + DEAD เป้า ('อ่านผิดกอง' รูปเดิม/'สองกอง' เป็นโมเดลหลัก) ลงครบใน archive header; skill items ใหม่: **(279) whole-thing binning / (280) outcome-as-verdict gap / (281) closer must advance / (282) model-grade critique / (283) situation-stage label** — draft/Notion ไม่แตะ รอ publish version
 - archive: `20261026-stress-read-before-choose-benz-dna-critique-r1.md`
+
+### 2026-10-26 pair #67 CLOSED — publish 162 wc-w (1.51x v1) + re-spine fixes 8/8 + KEEP 8/8 + gate (prose answer) + Notion → published — stress-read-before-choose
+
+- **re-spine round แรกที่ critic สั่งแกนใหม่แล้ว owner ทำเองครบในวันเดียว (v1 107 → r1 → publish 162):** โมเดลสองกอง (แก้ได้/แก้ไม่ได้) → แยกส่วนภายในเรื่องเดียวกัน — ประโยคแกนใหม่ "ปัญหาอาจไม่ได้อยู่ที่เราเลือกตะกร้าผิด แต่อยู่ที่เราเอาทั้งเรื่องใส่ลงไปในตะกร้าใบเดียว"
+- **worked example ใหม่ = critic's own example กลายเป็นเคสบทจริง:** "คนที่เราดูแลกำลังป่วย — บางอย่างเราเร่งไม่ได้ บางอย่างเราตัดสินใจแทนไม่ได้...ขณะเดียวกันยังมีสิ่งที่เราทำได้" (critic r1 §3A ยกเป็นตัวอย่าง → publish รับมาเป็นองก์หลัก — ครั้งแรกที่ example ของ critic ถูกดึงขึ้นเป็นเคสของบท)
+- **grades: re-spine fixes 8/8 PASS** — (1) 'อ่านผิด' = 0 ทั้งบท (คำที่ไม่มีเกณฑ์รองรับถูกถอน — item 280) (2) จบใหม่ = 2 สัญญาณถอยหลังที่วัดสิ่งอื่น ไม่ใช่ผลเป็นคำตัดสิน ("ใช้แรงไปมากแต่สิ่งที่อยากเปลี่ยนยังอยู่ที่เดิม" + "บางอย่างที่พอจะทำได้กลับถูกทิ้งไว้นานเกินไป") (3) bold closer advance ขั้นใหม่ "กำลังพยายามจัดการทั้งก้อน ทั้งที่มีเพียงบางส่วนเท่านั้นที่เราจัดการได้" (item 281) (4) สรุปเปิดยอมรับสองวิธียังอยู่ (ไม่ทิ้ง taxonomy ของ brief)
+- **KEEP-list 8/8 HIT** — รวมแกนเดิมที่ critic สั่งรักษา "เรามักเริ่มจัดการไปแล้ว ก่อนจะรู้ตัวด้วยซ้ำว่ากำลังจัดการกับอะไร" + ว่ากันว่า reported frame + ทั้ง 4 ประโยคที่ยก
+- **battery ปิด: เรา 31/พร 0/คุณ-คับ-ผม 0 + '?' = 0 (ครั้งแรกของ publish ใน corpus ล่าสุดที่ไม่มี '?' — dispatch quote เดิมถูกถอนตาม re-spine บทจบด้วย bold ประโยค ไม่ใช่คำถาม) + CUT clean + v1 dead (อ่านผิดกอง/แบบไหนล่ะ/กองไหน) = 0**
+- layout: line-per-block บริสุทธิ์ (รอบที่ 2 ติดกัน ต่อจาก #66 — hard-break กลายเป็น owner-choice รายโพสต์ ไม่ใช่ convention)
+- Notion `405df8d8-8d8c-81f9-ad1d-f3636372a921` delete+rebuild 33→43 blocks Status → published read-back ครบ dead 0 heading types ✓ (URL: https://app.notion.com/p/405df8d88d8c81f9ad1df3636372a921); index n=507
+- **3 โพสต์ 1 วัน ปิดครบวง (65/66/67): ทุกโพสต์ = v1 → Benz r1 (analyze-only) → gate คำตอบสั้น → owner-authored publish → เกรด 0-fail ทั้งรอบ — cadence ใหม่ของ editorial loop; do-not-build directive 3 ครั้งติดกันยืนยันเป็นกฎถาวร (ห้ามเติมเครื่องมือก่อนแกนตกผลึก)**
