@@ -2148,3 +2148,12 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - Notion `406df8d8-8d8c-810c-8547-cfce821e0d0c` delete+rebuild 36→41 blocks Status → published read-back ครบ dead 0 quote bold ✓ (URL: https://app.notion.com/p/406df8d88d8c810c8547cfce821e0d0c); index n=509
 - skill items ใหม่: **(287) felt-result→standard conversion — ใครเป็นประธานของแต่ละขั้น / (288) two-direction open ending — เลือกกลไกเดียวก่อนยื่น (ยังเปิดคำถามได้ แต่ห้ามเปิดสองกลไก) / (289) pair-title symmetry — closer ต้องให้ verdict ทั้งสองฝั่ง / (290) จุดเปลี่ยนที่ critic ชี้ → publish ต้อง EXPAND กลไก ไม่ใช่ย้ำ / (291) standing loop ยืนยัน + DEAD checks ตามคำตอบ gate**
 - กิ่ง park: แกน 2 'คนรอบข้างเริ่มคาดหวังกับเราโดยไม่พูดตรง ๆ' = โพสต์แยกที่ยังไม่มีใครเขียน (critic เปิดทิศไว้เอง)
+
+### 2026-10-26 pair #69 ADDENDUM — publish v2 (owner post-publish update): real event case เข้าบท ("สักรูปน้องหมา") — 181 wc-w, Notion re-published
+
+- **owner ส่ง publish v2 หลัง #69 CLOSED — ครั้งแรกของ corpus ที่โพสต์ no-case class-level ได้ real event case เติมหลัง publish แล้ว** — เคสจริงของพร: "วันนี้พรไปสักรูปน้องหมาที่รักที่สุดมา / ก่อนสัก พรคิดว่าลายสักคงทำออกมาได้ละเอียดประมาณหนึ่ง..." — evidence-class ยกจาก class-level (เรา ล้วน) เป็น first-person attested event (พร 2 ครั้งในเคส — ครั้งแรกนับแต่ #68 ที่ พร กลับมาใน body)
+- **register เปลี่ยนตาม evidence:** เรา 21 + พร 2 (เคส) — mixed register แบบ #64 publish (พร 4/เรา 9)
+- owner moves รอบ v2: (1) เคสจริงแทน opener ทฤษฎี 2 บรรทัด ("ส่วนวันที่เราทำได้ดีกว่าที่คิดไว้ เจ็บคนละแบบ" ถูกถอน — เคสเล่าแทน) (2) third-way section ใหม่แทน near-miss เดิม: "เราไม่จำเป็นต้องทำให้ครั้งต่อไปแย่ลง...และก็ไม่จำเป็นต้องทำให้ทุกครั้งดีเท่าครั้งที่ดีที่สุด / บางผลงานควรมีพื้นที่ให้เราดีใจกับมัน โดยไม่ต้องรีบเอามันไปตั้งเป็นมาตรฐาน" (3) duck tail เปลี่ยนจากคำถามเปิดเป็น allow-statement "บางครั้ง เราควรปล่อยให้ตัวเองมีความสุขกับสิ่งที่เกิดขึ้น" (4) v1 near-miss 'ทำแย่ลง' + จบ 'เมื่อไหร่ที่เราเลิกมอง' = 0 ทั้งคู่ (5) KEEP ครบ: spine bold / ข้อมูลกับคำสั่ง / ไม่มีใครประกาศ-ไม่มีใครขอ / duck head สมมาตร
+- battery v2: 181 wc-w (0.98x v1 publish), เรา 21/พร 2/'?' 1, CJK CLEAN
+- Notion `406df8d8-8d8c-810c-8547-cfce821e0d0c` delete+rebuild 41→45 blocks Status → published read-back ครบ (URL: เดิม)
+- **บทเรียน (item 292 ใหม่): post-publish event-injection เป็น owner-move ที่ถูกต้องเมื่อเคสจริงมาถึง — ไม่ต้องรอ pair ใหม่; คลาสเดียวกับ "กิ่ง graduate เมื่อ evidence มา" (rule 10) แต่เกิดในโพสต์เดิม**
