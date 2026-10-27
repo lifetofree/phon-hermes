@@ -2127,3 +2127,12 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - register: no-case class-level (เรา 15/พร 0/'คุณ' 1 = คุณสมบัติ lookalike/'?' 1 เฉพาะ dispatch), STT-vocab เต็มที่ 1/สติ 2/เป้าหมาย 1 ตาม brief, คำ "คุณ" ของ brief ไม่เอาเข้าบท (target คุณ 0)
 - battery: ~109 wc-w, beats 6, quote 1 bold, bold closer "ความสนุกที่อยู่ได้นาน มาจากหลักฐานที่สะสมว่าเราจัดการอะไรได้ — ไม่ใช่จากวันที่ไม่มีอะไรมากวน", self-catch "ทุกครั้ง" → "แต่ละครั้ง" (CUT = 0), spine 10 beats ascending ✓, CJK CLEAN
 - Notion `406df8d8-8d8c-814d-9dd6-ea4359d3dad6` (34 blocks read-back ครบ, empty-quote 0, heading types ✓, tail shape ✓ — URL: https://app.notion.com/p/406df8d88d8c814d9dd6ea4359d3dad6); index n=508 — รอ review/Benz r1
+
+### 2026-10-26 pair #69 v1 (fresh draft, PRE-CRITIQUE) — "มีคู่ที่พูดถึงน้อยกว่า — คาดหวัง กับ เกินความคาดหวัง" (expectations-exceed-quiet-standard) — CURRENT FORM line-per-sentence
+
+- **idea brief:** "บางครั้งความคาดหวังไม่จำเป็นต้องมาพร้อมกับความผิดหวัง แต่บางครั้งมันมากับคำว่า 'เกินความคาดหวัง'" — แกน = คู่ที่สอง (คาดหวัง↔เกินความคาดหวัง) ที่สังคมพูดถึงน้อยกว่า คู่คุ้นเคย (คาดหวัง↔ผิดหวัง)
+- spine: 'ตั้งคาดหวังต่ำไว้จะได้ไม่ผิดหวัง' = reported คำแนะนำที่หาง่าย (ไม่ตอกย้ำ) → คู่ที่สอง: ผิดหวังเจ็บที่ได้น้อยกว่าคิด / เกินความคาดหวังเจ็บเงียบตรงที่มาตรฐานถูกยกโดยไม่มีใครประกาศ → dispatch "ครั้งล่าสุดที่ทำได้ดีกว่าคิด — ตามมาด้วยความภูมิใจ หรือความเงียบของคำถาม 'ครั้งหน้าทำซ้ำได้ไหม'?" → fork: แบบจบในตัว (โชค/งานเอื้อ — ไม่เปลี่ยนคาดหวัง) vs แบบกลายเป็นมาตรฐานใหม่ไปเอง (ครั้งต่อไปทำเท่าเดิมกลับรู้สึกไม่พอ) → **ข้อมูล-vs-คำสั่ง (Law #1 latent): ความรู้สึก 'เห็นตัวเองทำได้แบบนั้น' = ข้อมูลว่าทำได้ครั้งหนึ่ง แต่มักถูกอ่านต่อเป็นคำสั่งว่าต้องทำได้อีก** → near-miss: 'ทำแย่ลงเพื่อรักษาคาดหวังต่ำ' ปฏิเสธ (ย้ายปัญหาไปกองอื่น) → honesty: ยังฟังไม่ออกว่าคำถามนั้นมาจากเราหรือคนรอบข้าง (จบสภาพไม่รู้ ไม่สอนวิธีจัดการคาดหวัง)
+- **sibling แยกแกน:** ai-speed-demo-vs-real-work (10-02 ใช้คำว่า 'เกินความคาดหวัง' ปิดบท) = บริบท AI demo คาดหวังความเร็ว / อันนี้ = มาตรฐานที่ยกให้ตัวเองเงียบ ๆ หลังทำได้ดีกว่าคิด — CUT AI/demo/ความเร็ว = 0
+- register: no-case class-level (เรา 9/พร 0/คุณ-คับ-ผม 0/'?' 1 เฉพาะ dispatch)
+- battery: ~110 wc-w, beats 6, quote 1 bold, bold closer "วันที่เราทำได้ดีกว่าที่คิด มันคือข้อมูลหนึ่งชิ้น ไม่ใช่สัญญาที่ต้องรักษา", CUT 22 = 0, spine 11 beats ascending ✓, CJK CLEAN
+- Notion `406df8d8-8d8c-810c-8547-cfce821e0d0c` (36 blocks read-back ครบ, empty-quote 0, heading types ✓, tail shape ✓ — URL: https://app.notion.com/p/406df8d88d8c810c8547cfce821e0d0c); index n=509 — รอ review/Benz r1
