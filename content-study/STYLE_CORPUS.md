@@ -2118,3 +2118,12 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - layout: line-per-block บริสุทธิ์ (รอบที่ 2 ติดกัน ต่อจาก #66 — hard-break กลายเป็น owner-choice รายโพสต์ ไม่ใช่ convention)
 - Notion `405df8d8-8d8c-81f9-ad1d-f3636372a921` delete+rebuild 33→43 blocks Status → published read-back ครบ dead 0 heading types ✓ (URL: https://app.notion.com/p/405df8d88d8c81f9ad1df3636372a921); index n=507
 - **3 โพสต์ 1 วัน ปิดครบวง (65/66/67): ทุกโพสต์ = v1 → Benz r1 (analyze-only) → gate คำตอบสั้น → owner-authored publish → เกรด 0-fail ทั้งรอบ — cadence ใหม่ของ editorial loop; do-not-build directive 3 ครั้งติดกันยืนยันเป็นกฎถาวร (ห้ามเติมเครื่องมือก่อนแกนตกผลึก)**
+
+### 2026-10-26 pair #68 v1 (fresh draft, PRE-CRITIQUE) — "หางานที่สนุก — ประโยคที่เรียงลำดับผิด" (fun-follows-solved-problems) — CURRENT FORM line-per-sentence
+
+- **idea brief (STT มีตัวสะกดหลุด):** "เราทำงานอย่างเต็มที่และใช้สตริปัญหาทั้งหมดที่มี เพื่อทำเป้าหมายให้สำเร็จ คุณก็จะเริ่มเห็นความสนุกจากการทำงาน" → อ่านเป็น "ทำเต็มที่ + ใช้สติกับปัญหา → เป้าหมายสำเร็จ → สนุกเริ่มเห็น" — แกนที่เก็บ = **ลำดับเวลาของความสนุก (มาทีหลัง) ไม่ใช่เงื่อนไขตั้งต้น**
+- spine: 'หางานที่สนุกก่อน' = ประโยคที่เรียงลำดับผิด → วันสนุกจริง = วันที่ปัญหาเข้ามาแล้วใช้สติผ่าน → dispatch "สนุกตอนราบรื่น หรือตอนจัดการปัญหาได้?" → fork: สนุกแบบราบรื่นพึ่งวัน vs สนุกแบบผ่านปัญหาสะสมเป็นหลักฐาน (ข้ามวัน + เปลี่ยนหน้าตาปัญหาถัดไป) → เลี่ยงปัญหาทุกอย่าง = ปิดประตูความสนุก → **hedge สองฝั่ง: ปัญหาใหญ่เกินตัวไม่สนุก มันขู่ (สนุกเกิดที่ปัญหาพอดีกับแรง)** → จบสภาพไม่รู้ (แยกตอนเจอว่าอันไหนจะสนุก/อิดหนอบ ยังทำไม่ได้ — เบาลง หรือแบตหมด จับได้แต่หลัง)
+- **sibling guard แยกแกนจาก #66 ที่ publish วันเดียวกัน:** #66 = สนุกเป็นข้อมูลเรื่องตำแหน่ง "เราอยู่จุดไหน" (เวลาหาย/ผลงานคงอยู่/ความระแวง) / #68 = สนุกเป็นผลของการผ่านปัญหา "เราทำอะไรได้" (ลำดับเวลา/หลักฐานสะสม) — vocab ตรวจแล้ว 0 ทับกัน; Law #2 latent ("ไฟไม่มาก่อน การขยับจุดไฟ" — unnamed)
+- register: no-case class-level (เรา 15/พร 0/'คุณ' 1 = คุณสมบัติ lookalike/'?' 1 เฉพาะ dispatch), STT-vocab เต็มที่ 1/สติ 2/เป้าหมาย 1 ตาม brief, คำ "คุณ" ของ brief ไม่เอาเข้าบท (target คุณ 0)
+- battery: ~109 wc-w, beats 6, quote 1 bold, bold closer "ความสนุกที่อยู่ได้นาน มาจากหลักฐานที่สะสมว่าเราจัดการอะไรได้ — ไม่ใช่จากวันที่ไม่มีอะไรมากวน", self-catch "ทุกครั้ง" → "แต่ละครั้ง" (CUT = 0), spine 10 beats ascending ✓, CJK CLEAN
+- Notion `406df8d8-8d8c-814d-9dd6-ea4359d3dad6` (34 blocks read-back ครบ, empty-quote 0, heading types ✓, tail shape ✓ — URL: https://app.notion.com/p/406df8d88d8c814d9dd6ea4359d3dad6); index n=508 — รอ review/Benz r1
