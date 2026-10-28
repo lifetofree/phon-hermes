@@ -4152,5 +4152,15 @@
   "date": "2026-10-26",
   "status": "published-ready (pair #69 CLOSED 2026-10-26 — publish PATCHed same page 41 blocks)",
   "note": "v3 (owner): เคสขยายเต็ม — ประโยคที่สัก *Fortune Favor the Brave* + เจ้าหมาน้อยสู้โรค + 'เก็บความกล้าไว้กับตัว ไม่ใช่เพื่อบอกว่ามันต้องชนะ' + องก์สโตอิก (dichotomy of control UNNAMED) + คู่ 'ชื่นชม vs เรียกร้อง' + duck 'บางสิ่งมีคุณค่าเพราะมันเกิดขึ้น' + tail 'ครั้งต่อไปไม่เหมือนเดิมไม่ลบคุณค่าครั้งก่อน' — 232 wc-w (1.28x v2), พร 8/เรา 21, italic block ครั้งแรก — archive `...-publish-v3.md` — Notion 45→58 blocks published — skill item 293"
+ },
+ {
+  "slug": "20261028-cnt-work-reward-no-delivery-date",
+  "title": "ทำงานแล้วได้รางวัล — ประโยคที่จริง แต่ไม่มีใครบอกวันส่งของ (pair #70 v1)",
+  "file": "posts/20261028-cnt-work-reward-no-delivery-date.md",
+  "link": "https://app.notion.com/p/407df8d88d8c81709228e30e333df2b8",
+  "notion_page_id": "407df8d8-8d8c-8170-9228-e30e333df2b8",
+  "date": "2026-10-28",
+  "status": "draft (pair #70 v1 fresh CURRENT FORM — รอ review/Benz r1)",
+  "note": "idea brief (EN): 'if you do the work, you get rewarded. there are no shortcuts in life' — แกน = ประโยคจริงแต่พูดไม่ครบ (ไม่บอกว่ารางวัลมาเมื่อไหร่/มาในรูปไหน) → ทางลัดที่คนอยากได้ = ใบรับของที่บอกวันส่ง (ไม่มีอยู่จริง) — metaphor ครอบครัวเดียว: สั่งของ/ใบสั่ง/วันส่งของ — fork: เชื่อว่าทำงาน = สั่งของ (ของไม่มาตามวัน = เข้าใจว่าข้อตกลงพัง เลิกกลางทาง) vs รางวัลที่มาจริง = ของที่ไม่ได้สั่ง (ทักษะที่ติดมา/งานชุดถัดไป/คนที่เชื่อให้ทำต่อ) — honesty จบสภาพไม่รู้ (บอกตอนกำลังทำไม่ได้ว่าจะกลับมาในรูปไหน) — register: no-case class-level (เรา 4/พร 0/คุณ-คับ-ผม 0/'?' 1 เฉพาะ dispatch) — battery: 73 wc-w, H1 1/H3 1/H2 1 เป็ด, beats 6, quote 1 bold, bold closer 'การทำงานตอบแทนเราจริง — แต่มันไม่ได้ตอบแทนตามใบสั่ง และไม่มีวันส่งของที่ใครการันตีได้', CUT 56 = 0 (sibling guards ครบ: #68 publish+dead-spine/#66/#52/#69/hustle-family/เสมอ-ทุกครั้ง-ตลอด + self-catch 'เพราะ' lookalike แก้เป็น 'เริ่มได้จากงานนี้'), spine 8 beats ascending ✓, CJK CLEAN (คลื่น '?' = 1 ตามมาตรฐานเว็บ) — Notion 407df8d8-8d8c-8170-9228-e30e333df2b8 28 blocks read-back ครบ empty-quote 0 quote bold ✓ heading types ✓ tail shape ✓ — pitfall รอบนี้: import script ลืม strip HTML header รอบแรก (โพสต์ header เข้า body + title ผิด) → delete+rebuild แก้ครบ ตาม lesson #2/หลัก strip-at-import"
  }
 ]
