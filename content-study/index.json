@@ -4135,13 +4135,13 @@
  },
  {
   "slug": "20261026-cnt-fun-follows-solved-problems",
-  "title": "หางานที่สนุก — ประโยคที่เรียงลำดับผิด (pair #68 v1)",
+  "title": "หางานที่สนุก — บางคนกำลังทำงาน แต่บางคนกำลังเล่น (pair #68 CLOSED — publish re-spine: เคสจริง ZCode)",
   "file": "posts/20261026-cnt-fun-follows-solved-problems.md",
   "link": "https://app.notion.com/p/406df8d88d8c814d9dd6ea4359d3dad6",
   "notion_page_id": "406df8d8-8d8c-814d-9dd6-ea4359d3dad6",
-  "date": "2026-10-26",
-  "status": "draft (pair #68 v1 fresh CURRENT FORM — รอ review/Benz r1)",
-  "note": "idea brief (STT): ทำงานเต็มที่ + ใช้สติกับปัญหาทั้งหมด → เป้าหมายสำเร็จ → เริ่มเห็นความสนุกจากการทำงาน — spine: 'หางานที่สนุกก่อน' เรียงลำดับผิด (สนุกถูกขายเป็นคุณสมบัติของงาน) → วันสนุกจริง = วันที่ปัญหาเข้ามาแล้วใช้สติแก้ผ่าน (สนุกเป็นของที่มาทีหลัง — Law #2 action-precedes-motivation latent) → dispatch 'สนุกตอนราบรื่น หรือตอนจัดการปัญหาได้?' → fork: สนุกแบบราบรื่นพึ่งวัน (วันพัง = หาย) vs สนุกแบบผ่านปัญหาสะสมเป็นหลักฐานข้ามวัน + เปลี่ยนหน้าตาปัญหาถัดไป → เลี่ยงปัญหาทุกอย่าง = ปิดประตูความสนุกชุดนั้น → แต่ปัญหาใหญ่เกินตัวไม่สนุก มันขู่ (สองฝั่งไม่เท่ากัน — hedge) → จบสภาพไม่รู้ (แยกตอนเจอว่าปัญหาไหนจะให้สนุก/อิดหนอบ ยังทำไม่ได้ — จับได้แต่หลังผ่าน: เบาลง หรือแบตหมด) — register: no-case class-level (เรา 15/พร 0/คุณ 1 = 'คุณสมบัติ' lookalike/'?' 1 เฉพาะ dispatch) — battery: ~109 wc-w, H1 1/H3 1/H2 1, beats 6, quote 1 bold, bold closer 'ความสนุกที่อยู่ได้นาน มาจากหลักฐานที่สะสมว่าเราจัดการอะไรได้ — ไม่ใช่จากวันที่ไม่มีอะไรมากวน', self-catch 'ทุกครั้ง' → 'แต่ละครั้ง' = 0, เต็มที่ 1/สติ 2/เป้าหมาย 1 (คำของ brief), CUT 26 = 0 รวม #66-sibling vocab (เวลาหาย/ผลงาน/ระแวง/ตะกร้า/เหรียญ/ชิป/ไหล/อ่านไม่จบ/ข้อหา/วันดี→วันที่ราบรื่น-พัง/เส้นทาง), spine 10 beats ascending ✓, CJK CLEAN — **sibling guard แยกแกนจาก #66 (published วันเดียวกัน): #66 = สนุกเป็นข้อมูล 'เราอยู่จุดไหน' (สัญญาณตำแหน่ง+ผลงานคงอยู่+ความระแวง) / #68 = สนุกเป็นผลของการผ่านปัญหา 'เราทำอะไรได้' (หลักฐานสะสม+ลำดับเวลาของความสนุก) — vocab ไม่ทับกันเลย ตรวจแล้ว 0** — Notion 406df8d8-8d8c-814d-9dd6-ea4359d3dad6 34 blocks read-back ครบ empty-quote 0 quote bold ✓ heading types ✓ tail shape ✓"
+  "date": "2026-10-28",
+  "status": "published-ready (pair #68 CLOSED 2026-10-28 — publish PATCHed same page 33 blocks)",
+  "note": "publish 86 wc-w (1.10x v1 78) — owner re-spine แกนใหม่ทั้งบท: title 'หางานที่สนุก — บางคนกำลังทำงาน แต่บางคนกำลังเล่น' + เคสจริง ZCode (ADE, พร-narrator: พร 8/เรา 13) + แกน = สนุกอยู่ที่กระบวนการที่อยากเล่นซ้ำเองแล้วสร้างของที่ใช้งานได้จริง (เล่นที่มีจุดหมาย) — v1 dead-spine vocab 15/15 = 0 (re-spine จริง ไม่ใช่ trim); dispatch quote ถอน (quotes 0 ครั้งแรกของตระกูล สนุก) + H3 ถอน + คู่ italic Q&A 2 บล็อก + bold closer 'งานที่สนุกสำหรับเรา อาจไม่ใช่งานที่ไม่มีปัญหา แต่เป็นงานที่เราอยากเล่นกับมันต่อไป และการเล่นนั้นทำให้บางสิ่งเกิดขึ้นจริง' — loop สั้นแบบ #63: v1 → publish ตรง ไม่มี Benz r1 — archive web-archive/20261028-fun-follows-solved-problems-publish.md — Notion 34→33 blocks published read-back ครบ dead 0"
  },
  {
   "slug": "20261026-cnt-expectations-exceed-quiet-standard",
