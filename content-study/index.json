@@ -4175,12 +4175,12 @@
   },
   {
     "slug": "20261029-cnt-love-into-work-profit-question",
-    "title": "เอาสิ่งที่รักมาทำเป็นงาน — ของที่เปลี่ยนอาจไม่ใช่งาน แต่เป็นคำถามที่เราถามมัน (pair #72 v1)",
+    "title": "เอาสิ่งที่รักมาทำเป็นงาน — ของที่เปลี่ยนอาจไม่ใช่งาน แต่เป็นคำถามที่เราถามมัน (pair #72 CLOSED — publish ตาม 2 gates)",
     "file": "posts/20261029-cnt-love-into-work-profit-question.md",
     "link": "https://app.notion.com/p/408df8d88d8c8111a9a9dced155153f9",
     "notion_page_id": "408df8d8-8d8c-8111-a9a9-dced155153f9",
     "date": "2026-10-29",
-    "status": "draft (pair #72 v1 fresh CURRENT FORM — รอ review/Benz r1)",
-    "note": "brief: 'ทำไมเราไม่ควรเปลี่ยนสิ่งที่รักให้เป็นงาน? เพราะเมื่อขึ้นเปียง(STT: ขึ้น pay)แล้ว จะคิดถึงแต่เรื่องกำไร ทั้งที่เมื่อก่อนแค่สนุก' — แกน = งานไม่ได้ทำลายความรักเอง แต่เงินพาคำถามชุดใหม่เข้ามา: คำถามกับงานเปลี่ยนจาก สนุกไหม เป็น คุ้มไหม — agency beat (item 287): คำถามใหม่ไม่ได้มาแทนเอง เราหยิบมันขึ้นมาใช้ตั้งแต่วันที่เห็นว่ามีคนยอมจ่าย — near-miss 'งั้นอย่าเอามาทำเป็นงาน' ปฏิเสธ (มีรายได้จากของรักไม่ใช่ปัญหา — คำถามคุ้มไหมกินที่ว่างของคำถามสนุกไหม) — honesty: ยังแยกไม่ออกว่าคำถามใหม่เงินทำให้เกิดหรือเราหยิบเอง — sibling guards: #66 (สนุก=ข้อมูลตำแหน่ง)/#68 (สนุก=คุณสมบัติของงาน) แกนไม่ชน + CUT รางวัล/สั่งของ family ของ #70 + เฝ้า/แรงชุดเดียว ของ #71 = 0 — register: no-case class-level เรา 5/พร 0/คุณ 0 — battery: 72 wc-w, H1 0/H3 1/H2 1 เป็ด, beats 8, quote 1 bold, CUT 45 = 0 (allowed: ตั้งราคา 1/กำไร 1/สนุก 4 = ตัวแกนของ brief), CJK CLEAN — Notion 408df8d8-8d8c-8111-a9a9-dced155153f9 31 blocks read-back ครบ empty 0 (blank-line filter ตั้งแต่ import) quote bold ✓ — รอ review/Benz r1"
+    "status": "published-ready (pair #72 CLOSED 2026-10-29 — publish PATCHed same page 49 blocks)",
+    "note": "publish 87 wc-w (1.21x v1) — owner-authored ตาม 2 gates: GATE 1 แกน = \"คุ้มไหม ไม่ใช่ปัญหา — ปัญหาคือถามบ่อยจนคำถามเดิมหายไป\" (dispatch ปรับ \"คุ้มไหมมากกว่าเดิม?\" เทียบความถี่ / อาจ 4→11 กระจายความไม่แน่นอนสาเหตุตั้งแต่ต้น / องก์ งานชิ้นเดิม-ทักษะเดิม-เหตุผลตัดสินเปลี่ยน) + GATE 2 ตอนจบ = bold beat \"ฉันยังสนุกกับสิ่งนี้อยู่ไหม?\" กลางบท + duck = ฟอร์ม critic (line1 verbatim + line3 ย้ายชั้นมารวม line2 = FUNCTION item 268) + bold closer \"เราไม่จำเป็นต้องเลิกวัดความคุ้มค่า แต่อย่าลืมตรวจสอบความรู้สึกของตัวเองไปพร้อมกัน\" — grades: KEEP 8/9 verbatim + 1 ย้ายชั้น + DEAD ครบ (วัดมันด้วยกำไร/กลายเป็นงานตอนที่มีคนจ่าย/กำไร/เงินทำให้/agency วันแรกคนยอมจ่าย = 0 ไฟล์+หน้า) — battery: เรา 15/พร 0/question-mark 3 (มาตรฐานเว็บ)/H1 0/H2 1/H3 1/beats 8/quote bold + bold paragraph 2, CJK CLEAN — archive web-archive/20261029-love-into-work-profit-question-publish.md — Notion 31→49 blocks published read-back ครบ"
   }
 ]
