@@ -2197,7 +2197,7 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - register: no-case class-level (เรา 5/พร 0 eye — counter 1 = พร้อม ใน bold closer ประกาศ FP แบบ precedent คับ-บังคับ/คุณ-คับ-ผม 0/'?' 1 เฉพาะ dispatch)
 - battery: 93 wc-w, H1 1/H3 1/H2 1 เป็ด, beats 7, quote 1 bold, bold closer "เราไม่ได้พูดไม่เก่ง — เราแค่พูดพร้อมกับเฝ้าดูตัวเองพูด และแรงชุดเดียวกันนั้นไม่พอสำหรับสองงาน", CUT 57 = 0, spine 9 beats ascending ✓, CJK CLEAN
 - **self-catch 2 ก่อน battery:** (1) 'แรงกองเดียวกัน' → 'แรงชุดเดียวกัน' (กอง = signature #67 — แม้ sense ต่าง ต้อง 0 ที่ผิวบท) (2) 'พูดไม่เก่งเพราะกังวล' → 'ความกังวลทำให้พูดไม่เก่ง' (เพราะ = lookalike ตระกูลพร) — พร้อม 1 ที่เหลือ = คำ load-bearing ของ closer (พูดพร้อมกับเฝ้า = ทำสองงานพร้อมกัน) ประกาศ FP ตาม precedent คับ/บังคับ
-- Notion `407df8d8-8d8c-812e-9b2d-9f37e7a40ba8` (34 blocks read-back ครบ, empty-quote 0, quote bold ✓, heading types ✓, tail shape ✓ — URL: https://app.notion.com/p/407df8d88d8c812e9b2d9f37e7a40ba8); index n=511 — รอ review/Benz r1
+- Notion ~~`407df8d8-8d8c-812e-9b2d-9f37e7a40ba8`~~ (**หน้าเดิมถูกลบลง Trash — ตรวจ 2026-10-29: GET 404 object_not_found + search ไม่เจอ**) → **recreate จากไฟล์ v1: `408df8d8-8d8c-81b8-94c3-de9ca110dc4b` 36 blocks read-back ครบ, empty 0 (มี blank-line filter ตั้งแต่ import), quote bold ✓, heading types ✓, tail shape ✓ — URL ใหม่: https://app.notion.com/p/408df8d88d8c81b894c3de9ca110dc4b**; index updated — รอ review/Benz r1
 - **วันนี้ (28 ต.ค.) = 3 คู่ในวันเดียว: #68 CLOSED (publish ตรง) + #70 v1 + #71 v1 — ความเร็ว editorial loop เพิ่มขึ้นชัด ต่อจาก 26 ต.ค. (5 คู่)**
 
 ### 2026-10-28 pair #70 CLOSED — publish 74 wc-w (1.01× v1 near-parity) + owner re-spine โทน + v1-dead family 0 ครบ + Notion → published — work-reward-no-delivery-date
