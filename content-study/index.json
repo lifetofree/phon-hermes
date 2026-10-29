@@ -4182,5 +4182,15 @@
     "date": "2026-10-29",
     "status": "published-ready (pair #72 CLOSED 2026-10-29 — publish PATCHed same page 49 blocks)",
     "note": "publish 87 wc-w (1.21x v1) — owner-authored ตาม 2 gates: GATE 1 แกน = \"คุ้มไหม ไม่ใช่ปัญหา — ปัญหาคือถามบ่อยจนคำถามเดิมหายไป\" (dispatch ปรับ \"คุ้มไหมมากกว่าเดิม?\" เทียบความถี่ / อาจ 4→11 กระจายความไม่แน่นอนสาเหตุตั้งแต่ต้น / องก์ งานชิ้นเดิม-ทักษะเดิม-เหตุผลตัดสินเปลี่ยน) + GATE 2 ตอนจบ = bold beat \"ฉันยังสนุกกับสิ่งนี้อยู่ไหม?\" กลางบท + duck = ฟอร์ม critic (line1 verbatim + line3 ย้ายชั้นมารวม line2 = FUNCTION item 268) + bold closer \"เราไม่จำเป็นต้องเลิกวัดความคุ้มค่า แต่อย่าลืมตรวจสอบความรู้สึกของตัวเองไปพร้อมกัน\" — grades: KEEP 8/9 verbatim + 1 ย้ายชั้น + DEAD ครบ (วัดมันด้วยกำไร/กลายเป็นงานตอนที่มีคนจ่าย/กำไร/เงินทำให้/agency วันแรกคนยอมจ่าย = 0 ไฟล์+หน้า) — battery: เรา 15/พร 0/question-mark 3 (มาตรฐานเว็บ)/H1 0/H2 1/H3 1/beats 8/quote bold + bold paragraph 2, CJK CLEAN — archive web-archive/20261029-love-into-work-profit-question-publish.md — Notion 31→49 blocks published read-back ครบ"
+  },
+  {
+    "slug": "20261029-cnt-hobby-full-effort-practice-ground",
+    "title": "งานอดิเรกไม่ได้เป็นแค่เรื่องสนุก — มันคือสนามที่เราซ้อมการทำอะไรให้เต็มที่ (pair #73 v1)",
+    "file": "posts/20261029-cnt-hobby-full-effort-practice-ground.md",
+    "link": "https://app.notion.com/p/408df8d88d8c81c6af0bcb4c53834e0e",
+    "notion_page_id": "408df8d8-8d8c-81c6-af0b-cb4c53834e0e",
+    "date": "2026-10-29",
+    "status": "draft (pair #73 v1 fresh CURRENT FORM — รอ review/Benz r1)",
+    "note": "brief: 'งานอดิเรกถือเป็นเรื่องสนุก ถ้าเรายังไม่สามารถทำงานอดิเรกได้อย่างเต็มที่ ก็ไม่มีทางทำงานที่ไม่ใช่เรื่องสนุกได้อย่างเต็มที่' — แกน = ความเต็มที่เป็นความสามารถเดียวกันข้ามงานสนุก-ไม่สนุก: งานอดิเรก = สนามซ้อมของการอยู่กับสิ่งที่ยังไม่เสร็จ/กลับมาแก้ของเก่า/จบให้จริง — fork: วางที่จุดเลิกสนุก (เอาเท่านี้ก่อน มันแค่งานอดิเรก) vs ผ่านจุดนั้นเห็นทั้งรอบของงาน — near-miss: ไม่ใช่เรื่องคุณภาพ (แยก ดี ออกจาก เต็มที่) — honesty: ยังแยกไม่ออกตอนกำลังวางว่ายากจริงหรือคุ้นเคยกับการวาง — เห็นชัดแค่ย้อนหลัง — sibling guards: ตระกูล สนุก ครบ — #66 ตำแหน่ง/#68 คุณสมบัติ/#72 คำถามเงิน = แกนไม่ชน + CUT รางวัล/เฝ้า/กอง-ตะกร้า/hustle = 0 (self-catch: ผลงาน→ของที่ทำออกมา, เล่นได้→คอร์ดที่ตั้งใจไว้, ทุกวัน→เหมือนกัน) — register: no-case class-level เรา 6/พร 0/คุณ 1 = คุณภาพ lookalike ประกาศ FP — battery: 71 wc-w, H1 0/H3 1/H2 1 เป็ด, beats 7, quote 1 bold, CUT 40 = 0, CJK CLEAN — Notion 408df8d8-8d8c-81c6-af0b-cb4c53834e0e 33 blocks read-back ครบ empty 0 quote bold ✓ — รอ review/Benz r1"
   }
 ]
