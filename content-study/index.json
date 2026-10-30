@@ -4195,14 +4195,15 @@
   },
   {
     "slug": "20261030-cnt-good-enough-others-eyes",
-    "title": "เก่งพอตัว — คำที่มาถึงก่อนการวัด (pair #74 v1 — fresh draft: idea brief เก่ง 70-80% พอตัว)",
+    "title": "เก่งพอตัวไม่ได้วัดที่คำของคนอื่น แต่วัดที่จุดที่ทักษะประกอบกันได้ (pair #74 v2 — re-spine ตาม Benz chain r1-r3 + title เปลี่ยนตาม owner's call)",
     "file": "posts/20261030-cnt-good-enough-others-eyes.md",
     "link": "https://app.notion.com/p/409df8d88d8c8186bf11dfd502e0e731",
     "notion_page_id": "409df8d8-8d8c-8186-bf11-dfd502e0e731",
     "date": "2026-10-30",
-    "status": "draft (awaiting critique — รอ Benz r1)",
-    "words": 90,
+    "status": "rewritten (v2 agent re-spine — รอ Benz r1 รอบ v2 / publish)",
+    "words": 86,
     "form": "CURRENT FORM — no-case class-level (เรา carries, พร 0)",
-    "notion_verified_blocks": 42
+    "notion_verified_blocks": 42,
+    "note": "v1 90wc axis คนอื่นประเมิน → chain r1-r3 + owner gate (purpose: skill stacking, ความหมายข้อ 2) → v2 86wc spine critic verbatim; retired-axis 0; Notion 35 blocks"
   }
 ]
