@@ -4195,15 +4195,15 @@
   },
   {
     "slug": "20261030-cnt-good-enough-others-eyes",
-    "title": "เก่งพอตัวไม่ได้วัดที่คำของคนอื่น แต่วัดที่จุดที่ทักษะประกอบกันได้ (pair #74 v2 — re-spine ตาม Benz chain r1-r3 + title เปลี่ยนตาม owner's call)",
+    "title": "เก่งพอตัว — ไม่ต้องเก่งที่สุด ถ้าทักษะหลายอย่างประกอบกันได้ (pair #74 CLOSED — publish ตาม precision keys)",
     "file": "posts/20261030-cnt-good-enough-others-eyes.md",
     "link": "https://app.notion.com/p/409df8d88d8c8186bf11dfd502e0e731",
     "notion_page_id": "409df8d8-8d8c-8186-bf11-dfd502e0e731",
     "date": "2026-10-30",
-    "status": "publish-pending (r1-of-v2 analyzed — agent analyze+skill only ตาม owner สั่ง; รอ owner publish version → เกรดตาม keys ใน archive)",
-    "words": 86,
+    "status": "published (pair #74 CLOSED 2026-10-30 — publish PATCHed same page 39 blocks)",
+    "words": 81,
     "form": "CURRENT FORM — no-case class-level (เรา carries, พร 0)",
     "notion_verified_blocks": 42,
-    "note": "v2 86wc คงสถานะ; r1-of-v2 7/7 quote HIT, 3 replacement sentences + title-result + dependency-guard ลง publish keys; archives: chain + v1 + v2 + critique-v2-r1"
+    "note": "loop: v1 90wc (axis คนอื่นประเมิน) → Benz chain r1-r3 + purpose gate → v2 86wc (skill stacking) → title-change owner's call → r1-of-v2 precision keys → owner publish 81wc (0.94×v2) เกรด 10/10 keys + DEAD 0 + KEEP 3/3; owner keeps: คำชม 1 (opener hedged), ผลงาน 1 (generic)"
   }
 ]
