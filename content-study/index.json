@@ -4232,15 +4232,15 @@
   },
   {
     "slug": "20261030-cnt-rented-intelligence-accumulating-layer",
-    "title": "AI ทำงานผิด — จุดที่กฎควรเกิด (pair #77 v2 — re-spine ตาม Benz r1 gate B: วงจร ประสบการณ์→สินทรัพย์ + title-change owner's call)",
+    "title": "AI ทำงานผิด — อย่าแก้แค่คำตอบ แต่เก็บบทเรียนไว้ใช้รอบหน้า (pair #77 CLOSED — publish ตาม precision keys + เกณฑ์สกัด 3 ข้อ)",
     "file": "posts/20261030-cnt-rented-intelligence-accumulating-layer.md",
     "link": "https://app.notion.com/p/40adf8d88d8c81cc9a28e26e560c32a4",
     "notion_page_id": "40adf8d8-8d8c-81cc-9a28-e26e560c32a4",
     "date": "2026-10-30",
-    "status": "publish-pending (r1-of-v2 + gate เลือกสกัด + post-gate analyzed — owner authors publish, item 305 ครั้งที่ 5)",
+    "status": "published (pair #77 CLOSED 2026-10-30 — publish PATCHed same page 48 blocks)",
     "words": 108,
     "form": "CURRENT FORM — no-case class-level, สั้นตาม brief, ไม่ลงฟีเจอร์",
     "research": "learn.microsoft harnesses-overview + blogs.microsoft 2026-10-28 (primary)",
-    "note": "r1-of-v2 9/9 quote HIT — precision round (title ใหม่ critic เสนอ / ย่อข่าว / ประโยคงานพัง→สัญญาณ / ลดซ้ำ) + เกณฑ์สกัด 3 ข้อ + วงจรเวอร์ชันใหม่ verbatim; keys ลง critique archive"
+    "note": "loop: research harness → v1 74 → Benz r1 5/5 + gate B → v2 108 (title owner's call) → Benz r1-of-v2 9/9 precision + gate เลือกสกัด → publish 108wc 1.00× — keys 15/15, DEAD 5=0, เกณฑ์สกัด 3/3, DANGER verbatim"
   }
 ]
