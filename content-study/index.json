@@ -4229,5 +4229,17 @@
     "words": 237,
     "form": "TECH v2 (stat-line/tables/anti-hype/two-fork) — evidence: primary mistral.ai + HF LICENSE/README ตรวจแล้ว",
     "note": "loop: ข่าว → v1 458 (capability) → layout-change FB bullets → r1 6 จุด + gates C→B → r3 axis (ML4=กรณีศึกษา) → owner publish 237wc 0.52× — keys 15/15 HIT, DEAD 18=0 (benchmark ตัดทั้งชุด), 4 มิติ control เป็น H3, spine เชิงธุรกิจ function HIT"
+  },
+  {
+    "slug": "20261030-cnt-rented-intelligence-accumulating-layer",
+    "title": "ความฉลาดเช่าใหม่ได้ทุกเดือน — แต่ชั้นรอบความฉลาดสะสมไว้ได้ (pair #77 v1 — จาก research brief: GitHub Copilot harness)",
+    "file": "posts/20261030-cnt-rented-intelligence-accumulating-layer.md",
+    "link": "https://app.notion.com/p/40adf8d88d8c81cc9a28e26e560c32a4",
+    "notion_page_id": "40adf8d8-8d8c-81cc-9a28-e26e560c32a4",
+    "date": "2026-10-30",
+    "status": "draft (awaiting critique — รอ Benz r1)",
+    "words": 74,
+    "form": "CURRENT FORM — no-case class-level, สั้นตาม brief, ไม่ลงฟีเจอร์",
+    "research": "learn.microsoft harnesses-overview + blogs.microsoft 2026-10-28 (primary)"
   }
 ]
