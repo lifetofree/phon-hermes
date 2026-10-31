@@ -4220,14 +4220,14 @@
   },
   {
     "slug": "20261030-cnt-mistral-le-chonk-open-weights",
-    "title": "Le Chonk เปิดน้ำหนักตัวแล้ว — โมเดลล้านล้านพารามิเตอร์ที่หน่วยงานรัฐจับลงบ้านตัวเองได้ (pair #76 v1 — TECH v2 form, First-Look)",
+    "title": "Open Weights — เมื่อองค์กรมีทางเลือกมากขึ้น อำนาจต่อรองก็เปลี่ยนไป (pair #76 CLOSED — publish ตาม axis C→B)",
     "file": "posts/20261030-cnt-mistral-le-chonk-open-weights.md",
     "link": "https://app.notion.com/p/Le-Chonk-40adf8d88d8c814197cee80b1115ee3e",
     "notion_page_id": "40adf8d8-8d8c-8141-97ce-e80b1115ee3e",
     "date": "2026-10-30",
-    "status": "publish-pending (r1 + gates C→B + final axis analyzed — owner authors publish, item 305; agent analyze+skill only)",
-    "words": 485,
+    "status": "published (pair #76 CLOSED 2026-10-30 — publish PATCHed same page 59 blocks)",
+    "words": 237,
     "form": "TECH v2 (stat-line/tables/anti-hype/two-fork) — evidence: primary mistral.ai + HF LICENSE/README ตรวจแล้ว",
-    "note": "r1 effective 11/11 quote HIT (3 version-window artifacts), 6 จุด + verify-table; gates C (control) → B (leverage); publish keys ลง critique-chain archive; DEAD 6 + data-ceiling"
+    "note": "loop: ข่าว → v1 458 (capability) → layout-change FB bullets → r1 6 จุด + gates C→B → r3 axis (ML4=กรณีศึกษา) → owner publish 237wc 0.52× — keys 15/15 HIT, DEAD 18=0 (benchmark ตัดทั้งชุด), 4 มิติ control เป็น H3, spine เชิงธุรกิจ function HIT"
   }
 ]
