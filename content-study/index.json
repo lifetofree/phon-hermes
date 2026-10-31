@@ -4232,14 +4232,15 @@
   },
   {
     "slug": "20261030-cnt-rented-intelligence-accumulating-layer",
-    "title": "ความฉลาดเช่าใหม่ได้ทุกเดือน — แต่ชั้นรอบความฉลาดสะสมไว้ได้ (pair #77 v1 — จาก research brief: GitHub Copilot harness)",
+    "title": "AI ทำงานผิด — จุดที่กฎควรเกิด (pair #77 v2 — re-spine ตาม Benz r1 gate B: วงจร ประสบการณ์→สินทรัพย์ + title-change owner's call)",
     "file": "posts/20261030-cnt-rented-intelligence-accumulating-layer.md",
     "link": "https://app.notion.com/p/40adf8d88d8c81cc9a28e26e560c32a4",
     "notion_page_id": "40adf8d8-8d8c-81cc-9a28-e26e560c32a4",
     "date": "2026-10-30",
-    "status": "draft (awaiting critique — รอ Benz r1)",
-    "words": 74,
+    "status": "rewritten (v2 agent re-spine — รอ Benz r1 รอบ v2 / publish)",
+    "words": 108,
     "form": "CURRENT FORM — no-case class-level, สั้นตาม brief, ไม่ลงฟีเจอร์",
-    "research": "learn.microsoft harnesses-overview + blogs.microsoft 2026-10-28 (primary)"
+    "research": "learn.microsoft harnesses-overview + blogs.microsoft 2026-10-28 (primary)",
+    "note": "v1 74wc (แยกเช่า/สะสม) → r1 5/5 quote HIT 4 จุด (ชั้นไม่ต้องใหญ่ / บันทึก≠สะสม / ตัด ทันที / ปิดวงจร-วัดบทเรียน) + gate B (วงจร ทำงาน→ผิด→เรียนรู้→สกัด→ใช้ซ้ำ) → v2 108wc spine verbatim + practical-spine verbatim + title เปลี่ยนตาม owner"
   }
 ]
