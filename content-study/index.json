@@ -4225,8 +4225,9 @@
     "link": "https://app.notion.com/p/Le-Chonk-40adf8d88d8c814197cee80b1115ee3e",
     "notion_page_id": "40adf8d8-8d8c-8141-97ce-e80b1115ee3e",
     "date": "2026-10-30",
-    "status": "draft (awaiting critique — รอ Benz r1)",
+    "status": "publish-pending (r1 + gates C→B + final axis analyzed — owner authors publish, item 305; agent analyze+skill only)",
     "words": 485,
-    "form": "TECH v2 (stat-line/tables/anti-hype/two-fork) — evidence: primary mistral.ai + HF LICENSE/README ตรวจแล้ว"
+    "form": "TECH v2 (stat-line/tables/anti-hype/two-fork) — evidence: primary mistral.ai + HF LICENSE/README ตรวจแล้ว",
+    "note": "r1 effective 11/11 quote HIT (3 version-window artifacts), 6 จุด + verify-table; gates C (control) → B (leverage); publish keys ลง critique-chain archive; DEAD 6 + data-ceiling"
   }
 ]
