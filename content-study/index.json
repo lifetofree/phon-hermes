@@ -4216,5 +4216,16 @@
     "status": "draft (awaiting critique — รอ Benz r1)",
     "words": 86,
     "form": "CURRENT FORM — no-case class-level (เรา carries, พร/คุณ 0)"
+  },
+  {
+    "slug": "20261030-cnt-mistral-le-chonk-open-weights",
+    "title": "Le Chonk เปิดน้ำหนักตัวแล้ว — โมเดลล้านล้านพารามิเตอร์ที่หน่วยงานรัฐจับลงบ้านตัวเองได้ (pair #76 v1 — TECH v2 form, First-Look)",
+    "file": "posts/20261030-cnt-mistral-le-chonk-open-weights.md",
+    "link": "https://app.notion.com/p/Le-Chonk-40adf8d88d8c814197cee80b1115ee3e",
+    "notion_page_id": "40adf8d8-8d8c-8141-97ce-e80b1115ee3e",
+    "date": "2026-10-30",
+    "status": "draft (awaiting critique — รอ Benz r1)",
+    "words": 485,
+    "form": "TECH v2 (stat-line/tables/anti-hype/two-fork) — evidence: primary mistral.ai + HF LICENSE/README ตรวจแล้ว"
   }
 ]
