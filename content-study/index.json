@@ -4213,9 +4213,10 @@
     "link": "https://app.notion.com/p/40adf8d88d8c814f9a84fe45f6ecbb7b",
     "notion_page_id": "40adf8d8-8d8c-814f-9a84-fe45f6ecbb7b",
     "date": "2026-10-30",
-    "status": "draft (awaiting critique — รอ Benz r1)",
+    "status": "publish-pending (r1 + gate B + post-gate spine analyzed — owner authors publish, item 305; agent analyze+skill only)",
     "words": 86,
-    "form": "CURRENT FORM — no-case class-level (เรา carries, พร/คุณ 0)"
+    "form": "CURRENT FORM — no-case class-level (เรา carries, พร/คุณ 0)",
+    "note": "r1 8/8 quote HIT, 5 จุดแก้ + gate A/B → B → spine verbatim (title ใหม่/ประโยคแกน/ประโยคปิด); DEAD checks + keeps ลง publish keys ใน critique archive"
   },
   {
     "slug": "20261030-cnt-mistral-le-chonk-open-weights",
