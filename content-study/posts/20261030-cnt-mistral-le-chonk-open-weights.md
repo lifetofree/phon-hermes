@@ -7,7 +7,7 @@ Primary sources verified 2026-10-30:
 - TechCrunch (secondary, Lucas Ropek 2026-10-29): nickname Le Chonk; quotes Mensch "empowerment, not dominance"; Pierre Stock (VP Science): access "can't be cut off by definition"; MaaS-clause context; VentureBeat via aiweekly flags factual accuracy 26% (below several rivals) — จดไว้เป็น anti-hype footnote ไม่ใส่บท (เชื่อมั่นแหล่งรองแบบเดียวไม่พอ — ถ้าไม่ verify ต่อห้ามอ้าง)
 Evidence classes: ผู้ผลิตอ้างเอง (benchmarks, 47%, refusal 96.6%) ≠ independent (AA index = third-party benchmark ที่ Mistral อ้าง) ≠ ไม่ได้ทดสอบเอง — ทุกตัวเลขในบทติด label "Mistral อ้าง/จากการวัดของ Artificial Analysis"
 Spine (TECH v2): stat-line (1TB ที่เคยเป็นของห้องแถวโมเดลปิด ตอนนี้โหลดได้ 54 ไฟล์) → hook (เปิดไม่ใช่แค่ "ฟรี" — คือซื้ออิสระจากจุดเดียวของ fail) → คำถามแท้ (หน่วยงานที่เก็บข้อมูลอ่อนไหว ควรยกโมเดล 1TB มาอยู่ในบ้านจริงไหม หรือ API ก็พอ?) → ML4 คืออะไร + ตารางสเปก → ทำไมตลาด cyber ถึงเป็นเป้า (provider-refusal mid-incident = ความเสี่ยงที่โมเดลปิดมีแต่ไม่มีใครพูด) → ตารางเทียบ GLM-5.3/ตัวเปิดอื่น → Anti-Hype (ตัวเลขผู้ผลิตอ้าง + MaaS clause + 26% ข่าวรอง ยังไม่ verify — ไม่อ้าง / 1TB เต็มคืองานบ้านคุมไม่ทำนองเศรษฐี) → ฟอร์กใครควรลอง/ไม่ควร (two-fork) → สรุปวิศวกรเป็ด (v2 TECH closer = bold definitions + true question re-ask + one-liner problem + bold pair)
-Register: TECH = พรใช้ได้ (persona review voice) / คุณ ≥0 ตาม form / ตัวเลขเป๊ะทุกตัว (WP form) / '?' เฉพาะคำถามแท้ + closer
+Register: TECH = พรใช้ได้ (persona review voice) / คุณ ≥0 ตาม form / ตัวเลขเป๊ะทุกตัว (WP form) / '?' เฉพาะคำถามแท้ + closer | LAYOUT-CHANGE (owner 2026-10-30: "ปรับจากตารางได้ไหม เพราะใส่บน facebook ไม่ได้ — แก้ใน draft เดิม"): ตาราง 2 ตัว collapse เป็น flat `- ` bullet list ตาม FB MICRO-derivative form (skill line 191) — ข้อมูลครบทุก cell ย้ายเป็น bullet เดี่ยว, header note เดิมคงไว้
 Guards/CUT (declared): #45 Snapzy TECH sibling: ราคา-tier-ตัด/first-look-vs-hands-on gate = First Look (ไม่มีประสบการณ์ใช้จริง — ห้ามใช้ experience verbs: ลองแล้ว/ใช้มา = 0) | #22 wispr-notetaker: notetaker/ประชุม = 0 | #76-กิ่งอื่น: ไม่มี | เทรดข่าว AI: "แข่งกันแหลก/hallyu/hype" เทศนา = 0 | โครง CURRENT FORM (story/dispatch-2modes) ห้ามหลุดมา — TECH ใช้ stat-line/table/benchmark/fork | Le Chonk = ชื่อจริงที่ Mistral ตั้ง (quote-safe) | แหล่งรองอื่น (unite.ai/aiweekly/daily.dev/thenewstack) = research-only ไม่ quote
 Do-not-build (item 291): ห้ามสอนวิธี self-host ละเอียด / สูตรคำนวณค่า GPU / benchmark ที่ verify ไม่ได้ — ลิงก์ model card พอ
 Honesty: ทุก benchmark = ตัวเลขที่ Mistral ยกมาเองหรือจาก AA (third-party ที่ Mistral อ้าง) — บทนี้ไม่ได้รันโมเดล; เลข 26% factual จาก VentureBeat ยังไม่ verify ต้นทาง → ไม่ใส่บท
@@ -39,16 +39,14 @@ Mistral ปล่อย weights ของ **Mistral Large 4 (ML4)** ฉนวช
 
 ตัวเลขจาก model card บน Hugging Face (ตรวจแล้ว 30 ต.ค.):
 
-| สเปก | ค่า |
-|---|---|
-| พารามิเตอร์รวม | ~1T (MoE, 128 experts, ใช้จริง 4+1 ตัว/โทเคน) |
-| พารามิเตอร์ที่ทำงานจริง | ~52B ต่อโทเคน |
-| Context | 1M โทเคน |
-| อินพุต | ข้อความ + รูป (Pixtral-style encoder) |
-| ภาษา | 160+ ภาษา รวมทุกภาษาราชการ EU |
-| ไฟล์ weights | 54 shards ~20 GB (รวม ~1,060 GB) + เวอร์ชัน NVFP4 quantized |
-| เทรน | 3,800 NVIDIA Grace Blackwell ใน datacenter ยุโรปของ Mistral เอง |
-| ใบอนุญาต | Mistral Ecosystem Open-Weight (MIT ดัดแปลง) |
+- พารามิเตอร์รวม ~1T — MoE 128 experts ใช้จริง 4+1 ตัวต่อโทเคน
+- พารามิเตอร์ที่ทำงานจริง ~52B ต่อโทเคน
+- Context ยาว 1M โทเคน
+- อินพุต ข้อความ + รูป (Pixtral-style encoder)
+- ภาษา 160+ ภาษา รวมทุกภาษาราชการ EU
+- ไฟล์ weights 54 shards ไฟล์ละ ~20 GB รวม ~1,060 GB แถมเวอร์ชัน NVFP4 quantized
+- เทรนบน GPU 3,800 ตัว (NVIDIA Grace Blackwell) ใน datacenter ยุโรปของ Mistral เอง
+- ใบอนุญาต Mistral Ecosystem Open-Weight — MIT ดัดแปลง
 
 ใบอนุญาตตรวจจากไฟล์ LICENSE จริงบน HF — เอกสารบอกว่าเป็น "modified version of the MIT license"
 
@@ -82,13 +80,11 @@ open-weight ตัดความเสี่ยงนี้ทิ้ง เพ�
 
 ## เทียบกับคู่แข่งเปิด
 
-| รายการ | Mistral Large 4 | GLM-5.3 |
-|---|---|---|
-| AA Coding Agent Index | 48% | ระดับเดียวกัน ("effectively tied") |
-| โทเคนที่ใช้ต่องาน | **น้อยกว่า 47%** | baseline |
-| FrontierCode 2.0 | 19.7% | 17.3% |
-| AA Cyber Index | 51% | 57% (แต่ ML4 ปฏิเสธงานพิษสูงกว่า) |
-| เจ้าของเทคโนโลยี | ยุโรป / เปิด weights | จีน / เปิด weights |
+- AA Coding Agent Index: ML4 48% — GLM-5.3 อยู่ระดับเดียวกัน ("effectively tied")
+- โทเคนที่ใช้ต่องาน: ML4 น้อยกว่า GLM-5.3 อยู่ 47% (baseline คือ GLM-5.3)
+- FrontierCode 2.0: ML4 19.7% — GLM-5.3 17.3%
+- AA Cyber Index: GLM-5.3 57% สูงกว่า ML4 ที่ 51% — แต่ ML4 ปฏิเสธงานพิษสูงกว่า
+- เจ้าของเทคโนโลยี: ยุโรป กับ จีน — เปิด weights ทั้งคู่
 
 ตัวเลข 47% น้อยกว่าของ GLM-5.3 คือข้อเสนอเชิงต้นทุน — ค่า inference พุ่งตามจำนวนโทเคน
 
