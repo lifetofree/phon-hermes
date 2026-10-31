@@ -4237,10 +4237,10 @@
     "link": "https://app.notion.com/p/40adf8d88d8c81cc9a28e26e560c32a4",
     "notion_page_id": "40adf8d8-8d8c-81cc-9a28-e26e560c32a4",
     "date": "2026-10-30",
-    "status": "rewritten (v2 agent re-spine — รอ Benz r1 รอบ v2 / publish)",
+    "status": "publish-pending (r1-of-v2 + gate เลือกสกัด + post-gate analyzed — owner authors publish, item 305 ครั้งที่ 5)",
     "words": 108,
     "form": "CURRENT FORM — no-case class-level, สั้นตาม brief, ไม่ลงฟีเจอร์",
     "research": "learn.microsoft harnesses-overview + blogs.microsoft 2026-10-28 (primary)",
-    "note": "v1 74wc (แยกเช่า/สะสม) → r1 5/5 quote HIT 4 จุด (ชั้นไม่ต้องใหญ่ / บันทึก≠สะสม / ตัด ทันที / ปิดวงจร-วัดบทเรียน) + gate B (วงจร ทำงาน→ผิด→เรียนรู้→สกัด→ใช้ซ้ำ) → v2 108wc spine verbatim + practical-spine verbatim + title เปลี่ยนตาม owner"
+    "note": "r1-of-v2 9/9 quote HIT — precision round (title ใหม่ critic เสนอ / ย่อข่าว / ประโยคงานพัง→สัญญาณ / ลดซ้ำ) + เกณฑ์สกัด 3 ข้อ + วงจรเวอร์ชันใหม่ verbatim; keys ลง critique archive"
   }
 ]
