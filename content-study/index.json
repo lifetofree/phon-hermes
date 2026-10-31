@@ -4208,15 +4208,15 @@
   },
   {
     "slug": "20261030-cnt-silent-expectations-missing-questions",
-    "title": "คนรอบข้างเลิกถามงานเรา — นั่นอาจไม่ใช่ข่าวร้ายอย่างที่คิด (pair #75 v1 — กิ่งจาก #69 r1: คาดหวังเงียบ ๆ)",
+    "title": "คนรอบข้างเลิกถามงานเรา — สิ่งที่หายไปกำลังบอกอะไรบางอย่าง (pair #75 CLOSED — publish ตาม gate B spine)",
     "file": "posts/20261030-cnt-silent-expectations-missing-questions.md",
     "link": "https://app.notion.com/p/40adf8d88d8c814f9a84fe45f6ecbb7b",
     "notion_page_id": "40adf8d8-8d8c-814f-9a84-fe45f6ecbb7b",
     "date": "2026-10-30",
-    "status": "publish-pending (r1 + gate B + post-gate spine analyzed — owner authors publish, item 305; agent analyze+skill only)",
-    "words": 86,
+    "status": "published (pair #75 CLOSED 2026-10-30 — publish PATCHed same page 57 blocks)",
+    "words": 94,
     "form": "CURRENT FORM — no-case class-level (เรา carries, พร/คุณ 0)",
-    "note": "r1 8/8 quote HIT, 5 จุดแก้ + gate A/B → B → spine verbatim (title ใหม่/ประโยคแกน/ประโยคปิด); DEAD checks + keeps ลง publish keys ใน critique archive"
+    "note": "loop: กิ่งจาก #69 → v1 86 → Benz r1 8/8 (5 จุด) → gate B → spine verbatim → owner publish 94wc — keys 13/13 (spine=function item 21), DEAD 7/7=0, AXIS-B ✓; กิ่ง graduate วันเดียวจบ"
   },
   {
     "slug": "20261030-cnt-mistral-le-chonk-open-weights",
