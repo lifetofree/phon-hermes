@@ -4357,14 +4357,14 @@
   },
   {
     "slug": "20261030-cnt-page-anniversary-one-year",
-    "title": "หนึ่งปี 360 โพสต์ — ระบบที่ค่อย ๆ ก่อตัว ไม่ใช่แรงบันดาลใจวันเดียว (pair #78 v2 — re-spine: gates D(C)→ตกผลึก/สนุก, กลไก 3 ชั้น)",
+    "title": "หนึ่งปี 360 โพสต์ — ตัวเลขที่บอกว่าเดินมาได้เพราะระบบ ไม่ใช่แรงบันดาลใจ (pair #78 CLOSED — publish คืน title v1)",
     "file": "posts/20261030-cnt-page-anniversary-one-year.md",
     "link": "https://app.notion.com/p/360-40bdf8d88d8c8122b1e5f728267dd7ba",
     "notion_page_id": "40bdf8d8-8d8c-8122-b1e5-f728267dd7ba",
     "date": "2026-10-30",
-    "status": "rewritten (v2 agent re-spine — รอ Benz r1 รอบ v2 / publish)",
-    "words": 96,
+    "status": "published (pair #78 CLOSED 2026-10-30 — publish PATCHed same page 44 blocks)",
+    "words": 112,
     "form": "CURRENT FORM — milestone class (พร 5 เจ้าของเพจ, คุณ 4 ผู้อ่าน, receipts 360 จาก WP index)",
-    "note": "v1 88 → r1 8/8 quote HIT (ระบบไม่ชัด/เขียนทุกวัน≠360/ขาลงไม่มีตัววัด/ปีหน้ากว้าง + หัว-ท้ายขัด) + gates D(C)→ตกผลึก/สนุก → v2 96wc: กลไก 3 ชั้น (C ค้นพบ→A ผลิต→B เรียนรู้) + จุดเปลี่ยน verbatim + title ใหม่ (ระบบก่อตัว, ไม่ฟันธงนิเสธ)"
+    "note": "loop: milestone v1 88 → Benz r1 8/8 + gates D(C)→ตกผลึก/สนุก → v2 96 → publish 112wc (1.17×) — keys 13/13 (12 HIT + จุดเปลี่ยน function), DEAD 7=0; title คืน v1 (owner's call) — ฟันธงนิเสธถูกพิสูจน์ใน body แล้ว"
   }
 ]
