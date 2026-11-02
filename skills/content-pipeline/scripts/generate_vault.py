@@ -61,6 +61,72 @@ def ehash(e):
     return hashlib.sha1(json.dumps(e, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:10]
 
 
+
+def gen_tags(CS, VAULT, groups):
+    """Scan publish archives (fallback posts) of each pair for hashtags -> tags/<tag>.md"""
+    TAGDIR = os.path.join(VAULT, "tags")
+    os.makedirs(TAGDIR, exist_ok=True)
+    EXCLUDE = {"สรุปแบบวิศวกรเป็ด"}
+    tagmap = {}  # tag -> [(pairkey, date)]
+    for key, g in groups.items():
+        # prefer a publish archive, else the posts file
+        chosen = None
+        for slug in sorted(g["slugs"]):
+            p = os.path.join(CS, "web-archive", slug + ".md")
+            if os.path.exists(p) and ("publish" in slug or "closed" in slug):
+                chosen = p; break
+        if chosen is None:
+            for slug in sorted(g["slugs"]):
+                p = os.path.join(CS, "web-archive", slug + ".md")
+                if os.path.exists(p):
+                    chosen = p; break
+        if chosen is None:
+            for slug in sorted(g["slugs"]):
+                p = os.path.join(CS, "posts", slug + ".md")
+                if os.path.exists(p):
+                    chosen = p; break
+        if chosen is None:
+            continue
+        txt = open(chosen).read()
+        seen = set()
+        for line in txt.splitlines():
+            if line.lstrip().startswith("#"):   # markdown heading — skip
+                continue
+            for tok in re.findall(r"#([^\s#]+)", line):
+                if tok in EXCLUDE or tok.isdigit():
+                    continue
+                if not re.fullmatch(r"[A-Za-z0-9\u0E00-\u0E7F_-]{2,}", tok):
+                    continue
+                if re.fullmatch(r"\d+", tok):
+                    continue
+                if tok not in seen:
+                    seen.add(tok)
+                    tagmap.setdefault(tok, []).append((key, g["date"]))
+    # write tag files
+    valid = set()
+    written = created = 0
+    for tag, pairs in sorted(tagmap.items()):
+        path = os.path.join(TAGDIR, f"{tag}.md")
+        h = hashlib.sha1(json.dumps(sorted(pairs), ensure_ascii=False).encode()).hexdigest()[:10]
+        valid.add(f"{tag}.md")
+        body = "---\ntype: tag\nhash: " + h + "\ncount: " + str(len(pairs)) + "\n---\n\n#" + tag + " — ใช้ใน " + str(len(pairs)) + " คู่\n\n"
+        for k, d in sorted(pairs, key=lambda t: t[1], reverse=True):
+            body += f"- [[pair-{k}]] — {d}\n"
+        if os.path.exists(path):
+            mm = re.search(r"^hash: (\S+)$", open(path).read(), re.M)
+            if mm and mm.group(1) == h:
+                continue
+            written += 1
+        else:
+            created += 1
+        open(path, "w").write(body)
+    # stale cleanup
+    for f in os.listdir(TAGDIR):
+        if f.endswith(".md") and f not in valid:
+            os.remove(os.path.join(TAGDIR, f))
+    return len(tagmap), created, written
+
+
 def main():
     idx = json.load(open(os.path.join(CS, "index.json")))
     os.makedirs(PAIRS, exist_ok=True)
@@ -181,6 +247,28 @@ def main():
                 txt = open(os.path.join(brdir, f)).read()
                 if re.search(r"^status: (open|stock)$", txt, re.M):
                     M.append(f"- [[{f[:-3]}]]")
+    M += ["", "## บทเรียนที่วนซ้ำ (lessons — curated)", ""]
+    lesdir = os.path.join(VAULT, "lessons")
+    if os.path.isdir(lesdir):
+        for f in sorted(os.listdir(lesdir)):
+            if f.endswith(".md"):
+                M.append(f"- [[{f[:-3]}]]")
+    M += ["", "## เหตุการณ์ (events — curated)", ""]
+    evdir = os.path.join(VAULT, "events")
+    if os.path.isdir(evdir):
+        for f in sorted(os.listdir(evdir)):
+            if f.endswith(".md"):
+                M.append(f"- [[{f[:-3]}]]")
+    tag_count, tc, tw = gen_tags(CS, VAULT, groups)
+    M += ["", f"## แท็ก ({tag_count} ตัว — เรียงตามจำนวนคู่ที่ใช้)", ""]
+    TAGDIR = os.path.join(VAULT, "tags")
+    tagfiles = []
+    for f in os.listdir(os.path.join(VAULT, "tags")):
+        if f.endswith(".md"):
+            c = re.search(r"^count: (\d+)$", open(os.path.join(TAGDIR, f)).read(), re.M)
+            tagfiles.append((int(c.group(1)) if c else 0, f[:-3]))
+    for c, t in sorted(tagfiles, reverse=True)[:20]:
+        M.append(f"- [[{t}]] — {c} คู่")
     M += ["", "## Research", ""]
     resdir = os.path.join(VAULT, "research")
     if os.path.isdir(resdir):

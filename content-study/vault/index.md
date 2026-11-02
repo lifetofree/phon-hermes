@@ -109,6 +109,44 @@ type: moc
 - [[branch-rules-25-branches]]
 - [[branch-stock-79BC]]
 
+## บทเรียนที่วนซ้ำ (lessons — curated)
+
+- [[lesson-D-with-primary-gate]]
+- [[lesson-draft-publish-short-loop]]
+- [[lesson-insight-once]]
+- [[lesson-invented-time-marker]]
+- [[lesson-metaphor-stronger-than-conclusion]]
+- [[lesson-paste-import-artifacts]]
+- [[lesson-pronoun-lookalike]]
+- [[lesson-sibling-guard]]
+
+## เหตุการณ์ (events — curated)
+
+- [[event-20260925-system-outage]]
+
+## แท็ก (34 ตัว — เรียงตามจำนวนคู่ที่ใช้)
+
+- [[DuckOS]] — 19 คู่
+- [[Adduckivity]] — 19 คู่
+- [[NeuroDivergent]] — 13 คู่
+- [[SystemThinking]] — 10 คู่
+- [[Observation]] — 3 คู่
+- [[FOMO]] — 3 คู่
+- [[AI]] — 3 คู่
+- [[TimeManagement]] — 2 คู่
+- [[Evidence]] — 2 คู่
+- [[Attention]] — 2 คู่
+- [[Writing]] — 1 คู่
+- [[Urgency]] — 1 คู่
+- [[Trigger]] — 1 คู่
+- [[Routine]] — 1 คู่
+- [[PrefrontalCortex]] — 1 คู่
+- [[OnePersonBusiness]] — 1 คู่
+- [[MistralLarge4]] — 1 คู่
+- [[LocalLLM]] — 1 คู่
+- [[LearningCurve]] — 1 คู่
+- [[Learning]] — 1 คู่
+
 ## Research
 
 - [[autoclaw-research]]

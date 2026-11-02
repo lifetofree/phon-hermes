@@ -43,6 +43,20 @@ vault/
 5. กิ่ง graduate → เปลี่ยน status + ลิงก์ไปคู่ที่เขียนจริง
 6. กิ่งตาย/ถูกดูดเข้าโพสต์อื่น → status: dead + อ้างเหตุผล
 
+## ประเภท node + contract (เพิ่มชนิดใหม่ทำตามนี้)
+
+| type | โฟลเดอร์ | ใครสร้าง | generator ทำอะไร |
+|---|---|---|---|
+| `pair` | pairs/ | generator | สร้าง/ลบ stale อัตโนมัติ (มี hash) |
+| `tag` | tags/ | generator (สแกน hashtag จาก archive) | สร้าง/ลบ stale อัตโนมัติ (มี hash) |
+| `research` | research/ | มือ (front-matter `type: research` + used_by) | ไม่แตะ — แต่ขึ้น MOC เอง |
+| `branch` | branches/ | มือ (status: open/stock/graduated/dead) | ไม่แตะ — open/stock ขึ้น MOC |
+| `family` | families/ | มือ | ไม่แตะ — ขึ้น MOC |
+| `lesson` | lessons/ | มือ (แบบแผน critique ที่วนซ้ำ — สร้างเมื่อวน ≥2 ครั้ง) | ไม่แตะ — ขึ้น MOC |
+| `event` | events/ | มือ (**เงื่อนไข: เหตุการณ์เดียวกำเนิด ≥2 ชิ้นงานเท่านั้น**) | ไม่แตะ — ขึ้น MOC |
+
+กติกาเพิ่ม node ชนิดใหม่: (1) ตัดสินใจว่า generated (ต้องมี data source + hash + stale cleanup) หรือ curated (มือ + MOC section) (2) เพิ่มแถวในตารางนี้ (3) ถ้า generated ให้เข้า generator + มี hash เหมือน pair/tag
+
 ## หลัก symlink (ต้นฉบับเดียว)
 
 - ไฟล์จริงอยู่ใน vault เท่านั้น — จุดเข้าเดิมทุกจุดเป็น symlink ชี้เข้ามา
