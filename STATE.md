@@ -16,7 +16,7 @@
 
 ## Content workflow ปัจจุบัน (คงเดิม)
 
-- Skill หลัก: `skills/content-pipeline/SKILL.md` (items ถึง 318 — 313-316 จาก #78-#80, 317 opener-post class จาก #81, 318 owner-pick-non-top-ranked-gate = confirmation paste คือ spec จาก #82) + `references/pair-history.md`
+- Skill หลัก: `skills/content-pipeline/SKILL.md` (items ถึง 319 — 313-316 จาก #78-#80, 317 opener-post class, 318 owner-pick-non-top-ranked-gate, 319 insight-level ladder (L1-4 ปกติ / L5-6 event-driven เฉพาะมีกลไก+เคสจริง — owner rule)) + `references/pair-history.md`
 - จบคู่ = append index.json + STYLE_CORPUS.md + Notion PATCH → รัน generate_vault.py → สร้าง/อัปเดต pair-N.md ตาม workflow ใน vault/README.md
 - สถานะ: ไม่มี draft ค้าง ไม่มี publish รอเกรด
 

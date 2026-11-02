@@ -4,6 +4,7 @@ pair #82 v1 (fresh draft, PRE-CRITIQUE) — "แก้ปัญหาเก่�
 ORIGIN: quote-brief จาก owner (2026-11-02): "I don't want to be a great problem solver. I want to avoid problems—prevent them from happening and do it right from the beginning" + Thai expansion ของ owner: "เราไม่อยากแก้ปัญหาเก่ง แต่เราพยายามที่จะไม่ให้เกิดปัญหา โดยการแก้ที่ต้นเหตุของปัญหา"
 
 SPINE (ตามลำดับ brief 3 ชั้น — rule 38): (1) ไม่อยากแก้เก่ง (2) อยากไม่ให้เกิด (3) = แก้ที่ต้นเหตุ
+LEVEL: 3 (visibility-bias — เชื่อว่าเห็นผลงาน = เห็นคุณค่าทั้งหมด; ยืนยันโดย gate B 2026-11-02)
 INSIGHT-ONCE จัดสรร: องก์ 3 = โชว์ vs ไม่โชว์ (งานป้องกันสำเร็จแล้วโล่ง จึงแพ้ลำดับความสำคัญ) / องก์ 4 = คล่องขึ้น ≠ ใกล้หาย (การแก้ซ้ำ = ต้นเหตุยังอยู่; ต้นเหตุอยู่ก่อนปัญหามีชื่อ) / duck line 1 = advance ขั้นใหม่ (คุ้นเคย ≠ ก้าวหน้า — item 281) / bold = thesis owner (แก้ที่ต้นเหตุ)
 QUOTE: ไม่มีแหล่งเดียวชัด → ไม่อ้างเจ้าของ ใช้ reported "ว่ากันว่า" (precedent #81/#52); ไม่มีคำว่า ธุรกิจ ในบท
 EVIDENCE STATUS: no-case class-level เราล้วน — ประโยค "แก้ซ้ำ = ต้นเหตุยังอยู่" จริงในกรอบนิยาม (ไม่ใช่ mechanism claim เกินเคส); "คล่องขึ้นอาจยิ่งไม่ถาม" = อาจ รูป hypothesis
