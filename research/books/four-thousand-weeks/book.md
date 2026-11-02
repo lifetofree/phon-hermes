@@ -20,6 +20,11 @@ used_by_pairs: ["[[pair-017]]"]
 - Ch. 3 — Facing Finitude · ✅ INSTALLED — "เลิกฝืนธรรมชาติ การปฏิเสธสิ่งสำคัญบ้าง คือหนทางเดียวที่ระบบจะรอด"
 - อีก 16 แถว = ⬜ QUEUED / ⏳ LOADING (ดู [[catalog]] หรือ page ใน Notion)
 
+## เนื้อหาบทที่อ่านแล้ว (sync จาก body ของ row ใน Notion)
+
+- [[four-thousand-weeks/notes/ch-02|Ch. 2 — The Efficiency Trap]] (41 blocks)
+- [[four-thousand-weeks/notes/ch-03|Ch. 3 — Facing Finitude]] (35 blocks)
+
 ## โครงเล่ม (Core Messages ที่ยังไม่ INSTALLED — สรุปสั้นจาก Notion)
 
 | บท | ชื่อเดิม | Core Message (Duck OS) |
