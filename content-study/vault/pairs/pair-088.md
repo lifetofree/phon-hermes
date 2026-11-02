@@ -1,13 +1,13 @@
 ---
 pair: 088
-hash: efae773e3f-7e2bdc
+hash: e3b3440611-90bf4c
 date: 20261001
 ---
 
-# Pair #32 CLOSED: v3 คำชมที่พรได้รับ — จริง ๆ แล้วมันกำลังพิสูจน์อะไร? (Benz r1 → re-spine)
+# Pair #30 CLOSED (v2 rewrite): ตราบใดที่ยังต้องเลือกถนนเส้นเดิมซ้ำทุกวัน — เส้นทางนี้ยังไม่มีแผนที่ (coupon spine promoted, 213 wc-w, 0.89×)
 
-- **status:** 
+- **status:** draft
 - **date:** 20261001
-- **Notion:** https://app.notion.com/p/3ecdf8d88d8c81939e02f602ccef94a9
+- **Notion:** https://app.notion.com/p/3ebdf8d88d8c815caf6cce63bc2420a3
 - **ไฟล์โพสต์:**
-  - 20261001-cnt-performer-to-salesman-v3 (ไม่พบไฟล์)
+  - [20261001-cnt-charted-course-exact-science](../posts/20261001-cnt-charted-course-exact-science.md)

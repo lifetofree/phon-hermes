@@ -1,14 +1,14 @@
 ---
 pair: 086
-hash: e3b3440611-ec79f5
-date: 20261001
+hash: de3f876145-af161c
+date: 20260930
 ---
 
-# Pair #30 CLOSED (v2 rewrite): ตราบใดที่ยังต้องเลือกถนนเส้นเดิมซ้ำทุกวัน — เส้นทางนี้ยังไม่มีแผนที่ (coupon spine promoted, 213 wc-w, 0.89×)
+# วันที่งานล้น พรไม่ได้ทำงานห้าอย่าง (draft, angle-change rewrite of 20260403-CNT-SURV-02)
 
 - **status:** draft
-- **date:** 20261001
-- **Notion:** https://app.notion.com/p/3ebdf8d88d8c815caf6cce63bc2420a3
+- **date:** 20260930
+- **Notion:** https://app.notion.com/p/3ebdf8d88d8c81a7b409f8a7dab4b9c7
 - **ไฟล์โพสต์:**
-  - [20261001-cnt-charted-course-exact-science](../posts/20261001-cnt-charted-course-exact-science.md)
+  - [20260930-cnt-surv02-one-job-five-rounds](../posts/20260930-cnt-surv02-one-job-five-rounds.md)
 - **Research:** [[autoclaw-research]]

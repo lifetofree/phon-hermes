@@ -1,13 +1,13 @@
 ---
 pair: 085
-hash: ee2c7de905-7d33b4
+hash: 424b20af38-ef0f90
 date: 20260930
 ---
 
-# ถ้าการสลับมีราคา — วันงานล้นควรออกแบบยังไง (draft, split part 2 = Question Content)
+# 08:00 ทุกเช้า ระบบส่งข่าวออกเอง — ไม่สนว่าวันนั้นพรมีไฟหรือเปล่า (draft)
 
 - **status:** draft
 - **date:** 20260930
-- **Notion:** https://app.notion.com/p/3ebdf8d88d8c812e9dd8e8250afe6c3b
+- **Notion:** https://app.notion.com/p/08-00-3ebdf8d88d8c811d9269fa71ec16441a
 - **ไฟล์โพสต์:**
-  - [20260930-cnt-surv02-switching-experiment-question](../posts/20260930-cnt-surv02-switching-experiment-question.md)
+  - [20260930-cnt-commitment-device-answer-in-advance](../posts/20260930-cnt-commitment-device-answer-in-advance.md)

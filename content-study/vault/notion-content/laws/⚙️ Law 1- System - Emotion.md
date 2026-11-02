@@ -1,0 +1,154 @@
+---
+type: hub
+hub: laws
+name: "⚙️ Law 1: System > Emotion"
+---
+
+# ⚙️ Law 1: System > Emotion
+
+139 content (131 published, 8 ยังไม่ published)
+
+## ✅ Published
+
+- [[feelings-are-data-not-directives|ความรู้สึกของคุณ 'เชื่อไม่ได้' (ยิ่งในวันที่เหนื]] — 2026-02-11
+- [[low-battery-protocol-sleep-science-burnout|⚠️ การฝืนทำต่อไม่ใช่ความแกร่ง... แต่คือ System F]] — 2026-02-12
+- [[burnout-is-system-failure-neuroscience-boundaries|🔴 SYSTEM ALERT: "Burnout" ไม่ใช่เหรียญกล้าหาญ...]] — 2026-02-13
+- [[identity-source-code-error-system-conflict|🔴 System Alert: หยุด "พยายาม" ก่อนที่ระบบจะพัง..]] — 2026-02-16
+- [[valley-of-disappointment-latency-period|📉 System Alert: ทำแทบตายแต่ไม่มีผลลัพธ์ คุณไม่ได]] — 2026-02-18
+- [[rest-f1-pitstop-maintenance|🛠️ ไม่ผิดที่ต้อง "พัก" เพราะแม้แต่รถ F1 ก็ยังต้อ]] — 2026-02-21
+- [[visual-cues-phone-environment|🔴 เลิกโทษตัวเองว่า "กระจอก"... คุณไม่ได้ขี้เกียจ]] — 2026-02-25
+- [[engineering-friction-habit-design|🔴 เลิกใช้ "พลังใจ" สู้กับนิสัยแย่ๆ ได้แล้วคับ...]] — 2026-02-26
+- [[dopamine-nation-summary-part1|🌍 เมื่อโลกหมุนด้วย "โดพามีน"... ทำไมเราถึงมีความ]] — 2026-02-27
+- [[padded-office-career-malware|ทำไมการมีหัวหน้าที่ "โอ๋" เกินไป ถึงเป็นการฝัง M]] — 2026-03-01
+- [[embrace-pain-hormesis|🩹 อยากมีความสุข "ยาวๆ"? เลิกวิ่งหาความสุข... แล้]] — 2026-03-02
+- [[rest-vs-numbing|🔴 Rest vs. Numbing: คุณกำลัง "พักผ่อน" จริง ๆ หร]] — 2026-03-03
+- [[urge-surfing-technique|🌊 Urge Surfing: เลิก "กลั้นใจ" สู้กับกิเลส แล้วห]] — 2026-03-04
+- [[the-dopamine-protocol-system-reset-guide|⚙️ The D.O.P.A.M.I.N.E. Protocol: คู่มือ "ล้างขย]] — 2026-03-05
+- [[radical-honesty-patch|⚠️ [System Warning] การ "สร้างภาพ" กำลังกิน RAM ]] — 2026-03-07
+- [[dynamic-port-routing-rewire-noise|Dynamic Port Routing: เขียนทางเดินใหม่ เปลี่ยน "]] — 2026-03-10
+- [[to-be-or-to-do-ego|ทางแยกของมืออาชีพ: คุณทำงานเพื่อ "สร้าง Impact" ]] — 2026-03-15
+- [[dual-core-system-emotion|"รอพร้อม" = "ไม่ได้ทำ" ลองใช้ Dual Core รันดู แล]] — 2026-03-16
+- [[anchoring-effect-zero-based-mindset|ตั้งสติก่อนสตาร์ท ล้างค่า Default สมองก่อน: วิธี]] — 2026-03-18
+- [[asset-lock-in-system-vs-manual-labor|ASSET LOCK-IN: ทุ่มเทแทบตาย แต่ไม่เหลือ "ระบบ" ท]] — 2026-03-25
+- [[busyness-equals-broken-system|"ความยุ่ง" ไม่ใช่เหรียญตราแห่งความสำเร็จ แต่เป็น]] — 2026-03-26
+- [[the-system-core-vs-motivation|เราไม่ได้ขาย “แรงบันดาลใจ” เพราะมันพึ่งพาไม่ได้ใ]] — 2026-03-27
+- [[stable-boundary-system|คอนเทนต์ไม่ใช่ "โทรโข่ง" แต่มันคือ "กำแพง"]] — 2026-03-29
+- [[the-power-of-omission|พลังของการ "ตัดทิ้ง" (The Power of Omission)]] — 2026-03-30
+- [[motivation-trap|อย่าหลอกตัวเองด้วย Motivation ที่ไม่มีอยู่จริง!]] — 2026-03-31
+- [[duck-os-law-1-system-over-emotion-2|เลิกโดน "อารมณ์" หลอกใช้... แล้วปล่อยให้ "ระบบ" ]] — 2026-04-01
+- [[duck-os-law-1-system-over-emotion|Law #1: System > Emotion — กฎข้อแรกของการแฮ็กสมอ]] — 2026-04-01
+- [[science-of-burnout-dopamine-trap|เลิกฝากความสำเร็จไว้กับ "อารมณ์": วิทยาศาสตร์ของ]] — 2026-04-01
+- [[duck-os-commitment-device-system-over-emotion|ล็อกสเปกความสำเร็จ: แฮ็กสมองด้วย "Commitment Dev]] — 2026-04-02
+- [[duck-os-awareness-zeigarnik-effect-brain-ram|สมองค้างเพราะ "เปิดแท็บทิ้งไว้": ถอดรหัสตัวสูบแบ]] — 2026-04-03
+- [[real-time-logs-system-monitor-protocol|เลิกเดาว่าแบตเหลือเท่าไหร่: ติดตั้งโพรโทคอล "Sys]] — 2026-04-04
+- [[routine-logs-vs-todo-list-system|เลิกจดแค่สิ่งที่ "ต้องทำ": ทำไมการทำ Logs ถึงช่ว]] — 2026-04-04
+- [[the-human-stack-3-layer-brain-protocol|แกะรหัส The Human Stack: เข้าใจโครงสร้าง 3 ชั้นข]] — 2026-04-05
+- [[weekly-calibration-monday-frictionless|ออกแบบสถาปัตยกรรม "วันจันทร์" ให้ไร้แรงเสียดทานฉ]] — 2026-04-06
+- [[digital-declutter-system-speed-up-survival-protocol|Digital Declutter: กู้คืนความเร็วให้ชีวิตแบบความ]] — 2026-04-16
+- [[momentum-protocol-action-over-motivation|เปลี่ยนจาก 'ภาระ' ให้เป็น 'ระบบอัตโนมัติ' ที่ไม่]] — 2026-04-19
+- [[system-awareness-visible-architecture|ตื่นรู้ในระบบที่กำลัง "รัน" ชีวิตคุณอยู่โดยที่คุ]] — 2026-04-21
+- [[logs-04-system-patch-cognitive-overload|บันทึกการ Patch ระบบในวันที่ความรู้ท่วมหัวแต่ตัว]] — 2026-04-22
+- [[binary-decision-protocol-zero-friction|The Binary Decision Protocol: ตัดความลังเลด้วยตร]] — 2026-04-23
+- [[energy-based-scheduling-slot-allocation|Time is a Lie: จัดตารางงานตาม 'ระดับพลังงาน' ไม่]] — 2026-04-24
+- [[ai-augmentation-architecture-human-core|AI Augmentation Architecture: เปลี่ยน AI จาก 'ภั]] — 2026-04-25
+- [[the-unbreakable-kernel-3-laws-integration|The Unbreakable Kernel: ผสานกฎเหล็ก 3 ข้อ ให้กลา]] — 2026-04-27
+- [[action-precedes-motivation-ignition-switch|ทำลายวงจร 'รอให้มีไฟ' ด้วยระบบ Ignition Switch ข]] — 2026-04-28
+- [[system-auditing-patch-protocol|วิธีการ Audit และ Patch ชีวิตในวันที่ระบบพัง]] — 2026-04-28
+- [[the-recovery-protocol-v1-manual-launch|เมื่อสมองค้างไม่ใช่ความล้มเหลว แต่คือ System Cra]] — 2026-04-30
+- [[binary-decision-logic-50-50-rule-choice-paralysis|วิธีแก้ 'Infinite Loop' ของความลังเลด้วยอัลกอริท]] — 2026-04-30
+- [[survival-mode-low-energy-management-protocol|วิธีบริหารชีวิตในวันที่แบตเหลือ 5% ด้วยโพรโทคอล ]] — 2026-05-01
+- [[building-mental-infrastructure-asset-05|วิธีเปลี่ยนระบบชีวิตจาก 'ภาระ' ให้เป็น 'สินทรัพย]] — 2026-05-03
+- [[duck-os-philosophy-system-over-emotion|เมื่อชีวิตไม่ใช่การต่อสู้กับวินัย แต่คือการออกแบ]] — 2026-05-04
+- [[duck-os-3-laws-baseline-firmware|เจาะลึกกฎ 3 ข้อที่เปลี่ยนสมองพังให้กลับมารันได้อ]] — 2026-05-05
+- [[system-monitoring-aware-03-detecting-burnout|วิธีตรวจจับสัญญาณ 'เครื่องร้อน' ก่อนที่ชีวิตจะ C]] — 2026-05-06
+- [[the-atomizer-protocol-act-05|ศาสตร์แห่งการย่อยงานให้เหลือระดับอะตอม เพื่อดับเ]] — 2026-05-08
+- [[one-person-business-os-ai|One Person Business OS: สถาปัตยกรรม ‘ตัวคนเดียวแ]] — 2026-05-10
+- [[task-logger-memento-mori|Task Logger — Memento Mori ที่ทำงานได้จริง ไม่ใช]] — 2026-09-08
+- [[unfair-game-protocol|โลกไม่แฟร์ แล้วเราจะชนะได้อย่างไร — The Unfair G]] — 2026-09-09
+- [[dopamine-system-diagnostic-protocol|สมองไม่ได้ขี้เกียจ แค่เซนเซอร์ไหม้ — Dopamine + ]] — 2026-09-10
+- [[essentialism-the-admin-access|The Admin Access — สิทธิ์ Admin ของชีวิตไม่เคยหา]] — 2026-09-11
+- [[four-thousand-weeks-time-trap|ความสงบไม่ได้มาจากการทำครบทุกอย่าง: 3 คำสั่งรีเซ]] — 2026-09-13
+- [[sam-altman-writing-compiler-ink-01|Sam Altman ฉีกหน้าโน้ตทิ้งทุกวัน — เพราะการเขียน]] — 2026-09-15
+- [[interruption-glitch-alone-zone-sleep-07|อยู่ดึกไม่ใช่เพราะงานเยอะ — แต่เพราะระบบถูก Inte]] — 2026-09-16
+- [[rework-reasons-to-quit-quit-50|เริ่มไว้แล้วไม่ได้แปลว่าต้องจบ — Sunk Cost Trap ]] — 2026-09-16
+- [[rework-meetings-are-toxic|Meetings Are Toxic — การขอประชุม 1 ชั่วโมง คือกา]] — 2026-09-17
+- [[rework-estimates-chunking|The Magical Number Four — ทำไมงานที่หั่นเล็กกว่า]] — 2026-09-18
+- [[rework-hero-complex-hero-01|การทุ่มสุดตัวลากงานยากไม่ได้แปลว่ามีวินัย แต่มัน]] — 2026-09-18
+- [[rework-quick-wins|แรงจูงใจไม่ใช่ตัวจุดระบบ แต่เป็น ผลพลอยได้ของงาน]] — 2026-09-18
+- [[rework-tiny-decisions-ice-01|Ben Saunders — เป้าหมายขนาดใหญ่ ไม่ได้เกิดขึ้นจา]] — 2026-09-19
+- [[rework-long-lists-leak|To-do list ที่ยาวเป็นหางว่าว แค่มองก็เหนื่อยเหมื]] — 2026-09-19
+- [[tech-string-tax-jev-calib-01|Co-creator ของ ChatGPT ปล่อย model ที่ “ไม่พูด” ]] — 2026-09-20
+- [[kleon-daily-dispatch-dispatch-01|The Daily Dispatch — แผน 5 ปีที่สวยจนคุณไม่เคยได]] — 2026-09-20
+- [[kleon-portfolio-stream-stream-01|Resume เก็บอดีต แต่ Public Terminal แสดง Runtime]] — 2026-09-21
+- [[tech-llamacpp-infra-engine|27B ที่เคยต้องพึ่ง datacenter วันนี้รันในห้องนอน]] — 2026-09-21
+- [[exhaust-over-engine|ถ้าการ Show Your Work ทำให้คุณไม่มีแรงทำ Work — ]] — 2026-09-22
+- [[flow-stock-changed-thinking|โพสต์หายไป แต่สิ่งที่คุณ Compile จากมันควรเปลี่ย]] — 2026-09-23
+- [[ship-gate-boundary|Share Imperfect ≠ Share Everything — ก่อนกด Ship]] — 2026-09-23
+- [[inspectable-artifact|คุณ Debug ความคิดที่ยังอยู่แต่ในหัวไม่ได้]] — 2026-09-24
+- [[recompilable-asset-library|เว็บของพรไม่ได้มีไว้เก็บ 284 โพสต์ — มันมีไว้ทำใ]] — 2026-09-24
+- [[routine-as-compiled-default|Routine ไม่ใช่คุก — จนกว่าคุณจะเลิกแก้มัน]] — 2026-09-25
+- [[groundhog-day-loop|Progress ไม่จำเป็นต้องแปลว่าไปได้ไกลขึ้นทุกวัน]] — 2026-09-25
+- [[capacity-uncommitted-margin|ระบบที่ใช้ Capacity เต็มทุกช่อง ไม่มีที่ให้ Real]] — 2026-09-26
+- [[save-state-preserve-not-finish|วันที่แย่ไม่ต้องกู้ — แค่ทำให้พรุ่งนี้ไม่ต้องเริ]] — 2026-09-26
+- [[trigger-without-notification|ไม่มี Notification แล้วทำไมมือยังหยิบโทรศัพท์?]] — 2026-09-27
+- [[interrupt-not-override|สิ่งที่เด้งเข้ามา ไม่ได้แปลว่ามันสำคัญกว่าสิ่งที]] — 2026-09-27
+- [[tool-change-behavior-persists|ถ้าลบแอปหนึ่ง แล้วมือไปเปิดอีกแอปแทน — เราอาจกำล]] — 2026-09-28
+- [[system-without-dependency-on-readiness|ตราบใดที่ทุกอย่างต้องรอวันที่หัวพร้อม — ชีวิตนี้]] — 2026-09-28
+- [[priority-versus-capacity-commitment|การบริหารเวลาไม่ได้วัดแค่งานเสร็จ — แต่วัดด้วยว่]] — 2026-09-29
+- [[loop-without-exit-condition|บางลูปไม่ได้ต้องหยุดคิด — มันแค่ยังไม่มีเงื่อนไข]] — 2026-09-29
+- [[indicator-boundary-not-tell-all|ไฟเขียวขึ้นทั้งดวง — แต่งานยังช้าอยู่ดี]] — 2026-09-30
+- [[possible-not-equal-reality-log|ถ้าบอกว่าออกกำลังกายสำคัญมาตลอด — แล้วทำไมมันถึง]] — 2026-09-30
+- [[observation-over-premature-rules|เห็นข้อมูลวันเดียว — หัวพรออกกฎมาแล้วห้าข้อ]] — 2026-10-01
+- [[batch-work-over-context-switching|พรไม่ได้ทำงานห้าอย่าง — พรทำงานเดียว ห้ารอบ]] — 2026-10-01
+- [[feedback-types-indicator-boundary|คำชมที่พรได้รับ — จริง ๆ แล้วมันกำลังบอกอะไรเรา?]] — 2026-10-02
+- [[repeat-decision-not-equal-evidence|แผนที่ไม่ได้เกิดจากการเดินผ่านครั้งเดียว]] — 2026-10-02
+- [[ai-fomo-tool-versus-work-reality|คลื่น agent ออกถี่ขึ้น — ความรู้สึกตามไม่ทัน ก็ย]] — 2026-10-03
+- [[automation-time-saved-landing-state|ประหยัดได้ 20 นาที — ไม่ได้แปลว่าเรารู้ว่า 20 นา]] — 2026-10-03
+- [[possible-not-equal-capacity|Capability ใหม่ทำให้สิ่งที่เป็นไปได้เพิ่มขึ้นทัน]] — 2026-10-04
+- [[metric-to-decision-mapping-gap|ตัวเลขกลับมา — แต่ไม่ใช่ทุกตัวเลขจะตอบ Decision ]] — 2026-10-05
+- [[label-bypass-system-question|มีคำหนึ่งที่มาถึง — ก่อนคำถามจะถูกถามต่อ]] — 2026-10-06
+- [[agent-runtime-vs-manual-chatbot|พรไม่ได้เปิด AI — แต่งานเกิดไปแล้ว]] — 2026-10-07
+- [[archived-versus-reused-asset|ทำซ้ำทุกวัน — แต่รอบถัดไปได้อะไรจากรอบก่อน]] — 2026-10-09
+- [[input-without-acceptance-criteria|อ่านข่าว AI ทั้งเช้า — แต่คำถามเดิมยังอยู่ที่เดิ]] — 2026-10-10
+- [[decision-fatigue-early-warning|ตอนเย็นถึงรู้สึกเหนื่อย — แต่ระหว่างวันพรเริ่มเล]] — 2026-10-11
+- [[screenshot-workflow-cost-snapzy-vs-cleanshot|Snapzy — แอป Screenshot ฟรีบน Mac ที่ทำให้พรกลับ]] — 2026-10-12
+- [[user-not-machine-ebook-system-manual|Share Duck OS v0.3]] — 2026-10-14
+- [[closed-task-persistent-attention-full|ปิดงานไปแล้วหนึ่งชิ้น — แต่ทำไมพรยังรู้สึกเต็มเห]] — 2026-10-14
+- [[post-completion-action-inertia-view-count|โพสต์งานเสร็จแล้ว — แต่พรยังรู้สึกอยากทำอะไรกับย]] — 2026-10-15
+- [[water-shape-vs-direction-niten-ichi-ryu|น้ำเปลี่ยนรูปตามภาชนะ — แต่พรกำลังไหลไปทางไหน]] — 2026-10-16
+- [[voice-input-flow-effort-vs-editing-cost|พิมพ์ด้วยเสียงแล้วต้องกลับมาแก้ทุกครั้ง — เราประ]] — 2026-10-17
+- [[compiled-philosophy-decision-asset|จดประโยคเด็ดไว้เยอะ — พอตัดสินใจจริง ไม่มีประโยค]] — 2026-10-18
+- [[learning-cost-versus-redundant-pain|รอบแรกมักมีต้นทุนการเรียนรู้เพิ่ม — ปัญหาคือเราย]] — 2026-10-19
+- [[ai-advice-vs-human-agency|AI แนะนำสิ่งที่เหมาะสมได้ — แต่ไม่ได้แปลว่านั่นค]] — 2026-10-20
+- [[exploration-residue-prevent-relearning|ลองของใหม่ได้ — แต่อย่าให้สิ่งที่เคยเรียนรู้หายไ]] — 2026-10-21
+- [[urgency-feeling-versus-real-necessity|มือหยิบโทรศัพท์ก่อนคิด — แต่สิ่งที่เรียกความสนใจ]] — 2026-10-21
+- [[feedback-loop-asymmetry-who-trains-whom|ใครกำลังเทรนใคร? เมื่อเราใช้ AI ทุกวัน การใช้ระบ]] — 2026-10-22
+- [[feedback-chunk-blocking-vs-in-flight|คอมเมนต์ยาวทั้งก้อน — ไม่ใช่ทุกบรรทัดคืองานที่ต้]] — 2026-10-23
+- [[free-trial-reading-data-vs-runtime-data|ฟรีหนึ่งเดือน — แต่ข้อมูลที่ช่วยตัดสินใจว่าจะจ่า]] — 2026-10-23
+- [[wispr-notetaker-meeting-afterwork-cost|งานประชุมจบแล้ว แต่ทำไมงานยังไม่จบ? ลองดูว่า Wis]] — 2026-10-24
+- [[notetaker-seminar-signal-vs-redundant-noise|สัมมนาหนึ่งชั่วโมงที่พูดวนซ้ำ — สรุปที่ได้กลับเห]] — 2026-10-25
+- [[rule-agreement-vs-mechanism-understanding|จำข้อตกลงกับตัวเองได้ขึ้นใจ — แต่มันเงียบพอเจอหน]] — 2026-10-25
+- [[strength-and-fracture-same-chip|จุดแข็งสุดขั้ว กับจุดที่พัง — เป็นชิปเดียวกัน]] — 2026-10-26
+- [[stress-deconstruction-dichotomy-of-control|เครียดมาแล้ว — แต่เครียดกับอะไร]] — 2026-10-27
+- [[work-flow-enjoyment-data-vs-asset|ความสนุกที่เกิดกับงาน — ข้อมูลที่ยังอ่านไม่จบ]] — 2026-10-27
+- [[unintended-rewards-asset-residue|ทำงานแล้วได้รางวัล — แต่รางวัลอาจไม่ใช่ของที่เรา]] — 2026-10-28
+- [[work-vs-play-intrinsic-process-leverage|หางานที่สนุก — บางคนกำลังทำงาน แต่บางคนกำลังเล่น]] — 2026-10-28
+- [[work-love-vs-roi-question-shift|เอาสิ่งที่รักมาทำเป็นงาน — ของที่เปลี่ยนอาจไม่ใช]] — 2026-10-29
+- [[speaking-anxiety-self-monitoring-overload|พูดไม่เก่ง — ปัญหาไม่ได้อยู่ที่การพูด]] — 2026-10-29
+- [[skill-stacking-enough-composition-leverage|เก่งพอตัว — ไม่ต้องเก่งที่สุด ถ้าทักษะหลายอย่างป]] — 2026-10-30
+- [[hobby-diagnostic-sandbox-for-difficulty|งานอดิเรก — พื้นที่ที่เราเห็นตัวเองตอนเจอความยาก]] — 2026-10-30
+- [[unasked-questions-workflow-silence-signal|คนรอบข้างเลิกถามงานเรา — สิ่งที่หายไปกำลังบอกอะไ]] — 2026-10-31
+- [[ai-harness-over-model-lesson-residue|AI ทำงานผิด — อย่าแก้แค่คำตอบ แต่เก็บบทเรียนไว้ใ]] — 2026-11-01
+- [[big-tech-battle-ground-level-tools|ปล่อยให้พวกใหญ่สู้กันเอง — สิ่งที่ร่วงลงมาถึงพื้]] — 2026-11-02
+- [[blind-spots-counting-fallacy-margin-of-safety|คนที่ Blind Spot น้อยชนะ — แต่เราอาจนับของตัวเอง]] — 2026-11-03
+
+## · ยังไม่ published
+
+- [[system-failure-not-lazy|คุณไม่ได้ขี้เกียจ แต่เครื่องมันค้าง]] — 2026-05-11
+- [[brain-runtime-error-404-cache-cleaner|ทำไมตอนบ่ายถึงชอบขึ้น Error 404 (หาไม่เจอ) และวิ]] — 2026-05-25
+- [[4-background-apps-memory-leak-brain-ram|แฉ 4 Background Apps เบื้องหลังที่ทำ Memory Leak]] — 2026-06-03
+- [[one-year-360-posts-system-over-inspiration|หนึ่งปี 360 โพสต์ — ตัวเลขที่บอกว่าเดินมาได้เพรา]] — 2026-11-01
+- [[prevention-vs-firefighting-visibility-bias|เก่งแก้ปัญหา กับ ไม่ให้ปัญหาเกิด — เป็นสองงานที่]] — 2026-11-03
+- [[golden-window-dopamine-protection|ตื่นมาไถมือถือ = ทำลายแบตเตอรี่สมอง ทำไมคุณถึงเส]] — no date
+- [[law1-system-over-emotion|Law #1: System > Emotion ทำไมคนที่รอด ถึงไม่ใช้ ]] — no date
+- [[monthly-system-audit-february-2026|Audit กุมภาพันธ์: ระบบ Duck OS ของเรา "ซิ่ง" หรื]] — no date

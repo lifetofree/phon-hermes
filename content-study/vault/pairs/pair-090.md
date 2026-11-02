@@ -1,14 +1,14 @@
 ---
 pair: 090
-hash: 1c53be8e1e-1ee93f
-date: 20261002
+hash: efae773e3f-2ec9c6
+date: 20261001
 ---
 
-# สิ่งที่ทำได้เพิ่มเร็วกว่าที่ทำได้จริง — หรือเปล่า (Possible ≠ Capacity, CURRENT FORM observation/inspect, 184 wc-w, draft)
+# Pair #32 CLOSED: v3 คำชมที่พรได้รับ — จริง ๆ แล้วมันกำลังพิสูจน์อะไร? (Benz r1 → re-spine)
 
-- **status:** draft
-- **date:** 20261002
-- **Notion:** https://app.notion.com/p/3eddf8d88d8c819b961efc7490648cd9
+- **status:** 
+- **date:** 20261001
+- **Notion:** https://app.notion.com/p/3ecdf8d88d8c81939e02f602ccef94a9
 - **ไฟล์โพสต์:**
-  - [20261002-cnt-possible-vs-capacity](../posts/20261002-cnt-possible-vs-capacity.md)
+  - 20261001-cnt-performer-to-salesman-v3 (ไม่พบไฟล์)
 - **Research:** [[muse-research]]

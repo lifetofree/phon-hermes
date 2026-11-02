@@ -1,13 +1,13 @@
 ---
 pair: 095
-hash: 73cf7814d2-130948
-date: 20261010
+hash: 661fa251b9-d0bc66
+date: 20261004
 ---
 
-# Pair #44 CLOSED — publish (1.00× v3 parity, freeze list 10/10 zero-drift): ตอนเย็นถึงรู้สึกเหนื่อย — แต่ระหว่างวันพรเริ่มเลือกเรื่องเล็ก ๆ ยากขึ้นแล้ว (Notion Status published; owner did not restore philosophy line; asset image 20261010-CNT-DECISION-FATIGUE-EARLY-WARNING.webp; full chain v1→v2→v3→publish archived)
+# Pair #36 v1 fresh (CURRENT FORM): มีคำหนึ่งที่มาปิดคำถาม — ความทุ่มเท/Hustle ปิดคำถาม what we living for? (172 wc-w, CUT guard ระบบพัง/burnout/exchange-rate = 0)
 
 - **status:** 
-- **date:** 20261010
-- **Notion:** https://app.notion.com/p/3f5df8d88d8c817d858dda04cf06780c
+- **date:** 20261004
+- **Notion:** https://app.notion.com/p/3f0df8d88d8c81a99874d2c2b05fdd05
 - **ไฟล์โพสต์:**
-  - [20261010-cnt-decision-fatigue-my-day](../posts/20261010-cnt-decision-fatigue-my-day.md)
+  - [20261004-cnt-hustle-sweet-word-closes-question](../posts/20261004-cnt-hustle-sweet-word-closes-question.md)

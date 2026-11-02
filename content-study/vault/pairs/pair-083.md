@@ -1,14 +1,15 @@
 ---
 pair: 083
-hash: 424b20af38-3ca2f7
-date: 20260930
+hash: 4a488973a7-5ef2ca
+date: 20260927
 ---
 
-# 08:00 ทุกเช้า ระบบส่งข่าวออกเอง — ไม่สนว่าวันนั้นพรมีไฟหรือเปล่า (draft)
+# คิดซ้ำไม่เจ็บเสมอไป — มันเจ็บเมื่อในลูปมีอารมณ์
 
-- **status:** draft
-- **date:** 20260930
-- **Notion:** https://app.notion.com/p/08-00-3ebdf8d88d8c811d9269fa71ec16441a
+- **status:** 
+- **date:** 20260927
+- **words:** 378
+- **Notion:** https://app.notion.com/p/loop-3e8df8d88d8c81c7aa72c265bcc2ae97
 - **ไฟล์โพสต์:**
-  - [20260930-cnt-commitment-device-answer-in-advance](../posts/20260930-cnt-commitment-device-answer-in-advance.md)
+  - [20260927-cnt-thought-vs-thinking](../posts/20260927-cnt-thought-vs-thinking.md)
 - **Research:** [[grokbot-research]]

@@ -1,10 +1,10 @@
 ---
 type: tag
-hash: a7f53243b7
+hash: 4bdb2e775c
 count: 2
 ---
 
 #TimeManagement — ใช้ใน 2 คู่
 
 - [[pair-033]] — 20261002
-- [[pair-082]] — 20260928
+- [[pair-084]] — 20260928

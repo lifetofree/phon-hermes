@@ -4,13 +4,15 @@ type: moc
 
 # Content Study — สารบัญกลาง
 
-- คู่ทั้งหมด: **96** | published: **28** | ยังเปิด: **68**
+- คู่ทั้งหมด: **98** | published: **29** | ยังเปิด: **69**
 - กติกา: [[README]]
 
 ## คู่ล่าสุด
 
 - [[pair-079]] — 20261102 · published (pair #79 CLOSED 2026-11-02 — publish PA
 - [[pair-080]] — 20261102 · published (pair #80 CLOSED 2026-11-02 — publish PA
+- [[pair-081]] — 20261102 · published (pair #81 CLOSED 2026-11-02 — publish PA
+- [[pair-082]] — 20261102 · rewritten (pair #82 r1 PRE-REWRITE — Benz r1 + gat
 - [[pair-074]] — 20261030 · published (pair #74 CLOSED 2026-10-30 — publish PA
 - [[pair-075]] — 20261030 · published (pair #75 CLOSED 2026-10-30 — publish PA
 - [[pair-076]] — 20261030 · published (pair #76 CLOSED 2026-10-30 — publish PA
@@ -19,38 +21,37 @@ type: moc
 - [[pair-072]] — 20261029 · published-ready (pair #72 CLOSED 2026-10-29 — publ
 - [[pair-073]] — 20261029 · published-ready (pair #73 CLOSED 2026-10-29 — publ
 - [[pair-070]] — 20261028 · published-ready (pair #70 CLOSED 2026-10-28 — publ
-- [[pair-071]] — 20261028 · published-ready (pair #71 CLOSED 2026-10-29 — publ
-- [[pair-065]] — 20261026 · published-ready (pair #65 CLOSED 2026-10-26 — publ
 
 ## คู่ที่ยังเปิด
 
+- [[pair-082]] — 20261102 · rewritten (pair #82 r1 PRE-REWRITE — Benz r1 + gat
 - [[pair-058]] — 20261021 · 
 - [[pair-057]] — 20261020 · draft
 - [[pair-052]] — 20261018 · 
 - [[pair-049]] — 20261016 · 
 - [[pair-050]] — 20261016 · 
 - [[pair-051]] — 20261016 · 
-- [[pair-094]] — 20261010 · 
-- [[pair-095]] — 20261010 · 
+- [[pair-096]] — 20261010 · 
+- [[pair-097]] — 20261010 · 
 - [[pair-042]] — 20261009 · draft (filed 2026-10-09, read-back 87 blocks, mark
 - [[pair-037]] — 20261006 · rewritten (publish version PATCHed same page 2026-
 - [[pair-038]] — 20261006 · rewritten (publish 2026-10-06, pair #38 CLOSED)
 - [[pair-041]] — 20261006 · rewritten (v2 re-spine per Benz r1 — awaiting publ
-- [[pair-092]] — 20261004 · 
-- [[pair-093]] — 20261004 · 
-- [[pair-091]] — 20261003 · draft
+- [[pair-094]] — 20261004 · 
+- [[pair-095]] — 20261004 · 
+- [[pair-093]] — 20261003 · draft
 - [[pair-033]] — 20261002 · publish (Notion Status: rewritten)
-- [[pair-089]] — 20261002 · publish (Notion Status: rewritten)
-- [[pair-090]] — 20261002 · draft
-- [[pair-086]] — 20261001 · draft
-- [[pair-087]] — 20261001 · draft
-- [[pair-088]] — 20261001 · 
-- [[pair-083]] — 20260930 · draft
-- [[pair-084]] — 20260930 · draft
+- [[pair-091]] — 20261002 · publish (Notion Status: rewritten)
+- [[pair-092]] — 20261002 · draft
+- [[pair-088]] — 20261001 · draft
+- [[pair-089]] — 20261001 · draft
+- [[pair-090]] — 20261001 · 
 - [[pair-085]] — 20260930 · draft
+- [[pair-086]] — 20260930 · draft
+- [[pair-087]] — 20260930 · draft
 - [[pair-027]] — 20260929 · 
-- [[pair-082]] — 20260928 · 
-- [[pair-081]] — 20260927 · 
+- [[pair-084]] — 20260928 · 
+- [[pair-083]] — 20260927 · 
 - [[pair-053]] — 20260926 · 
 - [[pair-045]] — 20260925 · 
 - [[pair-046]] — 20260925 · 
@@ -177,4 +178,11 @@ type: moc
 - [[family-locked-system]] — ระบบที่ล็อกไว้: commitment device → วันที่ระบบพัง (#22 #79 + กิ่ง B/C stock)
 - [[family-explore-exploit]] — Explore vs Exploit (#55 #56)
 - [[family-signal-triad]] — Signal triad: Attention / Explore / Exploit (#54 #55 #56)
+
+## Notion publish master (synced — ห้ามแก้มือ, รัน sync_adduckivity_content.py)
+
+- MOC: [[notion-content/index]] — 248 content
+- Laws (5): [[⚙️ Law 1- System - Emotion]] · [[🏛️ Philosophy - Stoicism]] · [[🔥 Law 2- Action - Motivation]] · [[🛠️ Decision Protocol]] · [[🛡️ Law 3- Protect System]]
+- Categories (8): [[⚖️ Decision Protocols]] · [[⚙️ System Core]] · [[🎬 System in Action]] · [[📚 Asset Library]] · [[📝 Duck OS Logs]] · [[🛠️ Productivity Hacks]] · [[🛡️ Survival Guide]] · [[🩺 System Awareness]]
+- Tags รวมอยู่ใน tags/ ร่วมกับฝั่ง loops (hub เฉพาะ tag ใช้ ≥3 ครั้ง)
 

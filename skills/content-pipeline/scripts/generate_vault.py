@@ -278,6 +278,15 @@ def main():
     M += ["", "## สายเรื่อง (families)", ""]
     for name, desc in FAMILIES:
         M.append(f"- [[{name}]] — {desc}")
+    M += ["", "## Notion publish master (synced — ห้ามแก้มือ, รัน sync_adduckivity_content.py)", ""]
+    NC = os.path.join(VAULT, "notion-content")
+    if os.path.isdir(NC):
+        laws = sorted(f[:-3] for f in os.listdir(os.path.join(NC, "laws")) if f.endswith(".md")) if os.path.isdir(os.path.join(NC, "laws")) else []
+        cats = sorted(f[:-3] for f in os.listdir(os.path.join(NC, "categories")) if f.endswith(".md")) if os.path.isdir(os.path.join(NC, "categories")) else []
+        M.append(f"- MOC: [[notion-content/index]] — {sum(1 for f in os.listdir(NC) if f.endswith('.md') and f != 'index.md')} content")
+        M.append(f"- Laws ({len(laws)}): " + " · ".join("[[" + l + "]]" for l in laws))
+        M.append(f"- Categories ({len(cats)}): " + " · ".join("[[" + c + "]]" for c in cats))
+        M.append("- Tags รวมอยู่ใน tags/ ร่วมกับฝั่ง loops (hub เฉพาะ tag ใช้ ≥3 ครั้ง)")
     M.append("")
     open(os.path.join(VAULT, "index.md"), "w").write("\n".join(M) + "\n")
     print(f"pairs: {created} created, {updated} updated, {len(groups)} total; index.md refreshed")

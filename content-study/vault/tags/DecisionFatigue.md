@@ -1,9 +1,9 @@
 ---
 type: tag
-hash: bbbbefc30a
+hash: 40702b60e4
 count: 1
 ---
 
 #DecisionFatigue — ใช้ใน 1 คู่
 
-- [[pair-095]] — 20261010
+- [[pair-097]] — 20261010

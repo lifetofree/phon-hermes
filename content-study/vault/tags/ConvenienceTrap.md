@@ -1,9 +1,9 @@
 ---
 type: tag
-hash: afc456cc04
+hash: acfc7b9f09
 count: 1
 ---
 
 #ConvenienceTrap — ใช้ใน 1 คู่
 
-- [[pair-091]] — 20261003
+- [[pair-093]] — 20261003

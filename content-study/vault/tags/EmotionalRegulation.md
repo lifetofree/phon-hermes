@@ -1,9 +1,9 @@
 ---
 type: tag
-hash: 72d8303016
+hash: 2a14bf03ad
 count: 1
 ---
 
 #EmotionalRegulation — ใช้ใน 1 คู่
 
-- [[pair-081]] — 20260927
+- [[pair-083]] — 20260927

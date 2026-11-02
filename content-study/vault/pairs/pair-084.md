@@ -1,14 +1,15 @@
 ---
 pair: 084
-hash: de3f876145-0bc352
-date: 20260930
+hash: 7c1cccb413-9c8fdb
+date: 20260928
 ---
 
-# วันที่งานล้น พรไม่ได้ทำงานห้าอย่าง (draft, angle-change rewrite of 20260403-CNT-SURV-02)
+# การบริหารเวลาไม่ได้วัดที่งานที่เสร็จ — แต่วัดที่เราจงใจละเลยได้ดีแค่ไหน (CURRENT FORM, fresh brief: Big Rocks count bottleneck / neglect as the true metric / procrastination as natural filter — 2 modes fork: จงใจ vs ผ่าน)
 
-- **status:** draft
-- **date:** 20260930
-- **Notion:** https://app.notion.com/p/3ebdf8d88d8c81a7b409f8a7dab4b9c7
+- **status:** 
+- **date:** 20260928
+- **words:** 393
+- **Notion:** https://app.notion.com/p/3e9df8d88d8c810192dbf111a619d140
 - **ไฟล์โพสต์:**
-  - [20260930-cnt-surv02-one-job-five-rounds](../posts/20260930-cnt-surv02-one-job-five-rounds.md)
+  - [20260928-cnt-intentional-neglect-big-rocks](../posts/20260928-cnt-intentional-neglect-big-rocks.md)
 - **Research:** [[jev-research]]

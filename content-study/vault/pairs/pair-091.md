@@ -1,14 +1,14 @@
 ---
 pair: 091
-hash: ed4820477f-0e29be
-date: 20261003
+hash: 4970be131e-f502d1
+date: 20261002
 ---
 
-# เพิ่งรู้ว่ามันมีค่า — ตอนมันไม่อยู่แล้ว (Convenience Trap — ค่า friction อ่านได้เฉพาะตอนหายไป, CURRENT FORM observation, 206 wc-w, draft; thread 2026-09-13 §02 ด้วย decision ใหม่: absence = sensor ตัวเดียว + no-signal ambiguous)
+# คลื่น agent ออกถี่ขึ้น — ความรู้สึกตามไม่ทัน ก็ยังอยู่ (กิ่ง 3 CLOSED: Benz r1 freeze 5/5 + 2 owner's keeps, publish 1.04×, Notion = publish text Status rewritten; seed-drift Grok timing flagged)
 
-- **status:** draft
-- **date:** 20261003
-- **Notion:** https://app.notion.com/p/3eedf8d88d8c819e8d42f14b9d584e1a
+- **status:** publish (Notion Status: rewritten)
+- **date:** 20261002
+- **Notion:** https://app.notion.com/p/agent-3eddf8d88d8c81749cdbd1a9e3212a54
 - **ไฟล์โพสต์:**
-  - [20261003-cnt-convenience-trap-lagging-value](../posts/20261003-cnt-convenience-trap-lagging-value.md)
+  - [20261002-cnt-agent-wave-fomo-main-agent](../posts/20261002-cnt-agent-wave-fomo-main-agent.md)
 - **Research:** [[orca-research]]

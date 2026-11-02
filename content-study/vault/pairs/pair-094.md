@@ -1,13 +1,17 @@
 ---
 pair: 094
-hash: 1434377bc4-0c0c80
-date: 20261010
+hash: 5c2cb15f25-929477
+date: 20261004
 ---
 
-# Pair #43 CLOSED — publish (89 wc-w = 0.90× v3, freeze list 14/14 + KEEP 6/6 zero-drift): เห็นเขาทำทุกวัน — แล้วพรเอาอะไรมาตัดสินว่าตัวเองไม่มีวินัยเท่าเขา (self-inspection spine; Notion 66 blocks 16/16 Status published; owner call: subtitle KEEP; publish moves: reported-speech nouns, collective→ภาพ swap, cut self-report tail; skill items (46)(47))
+# Pair #35 v1 fresh: ตัวเลขกลับมา — แต่ไม่ใช่ทุกตัวเลขจะเป็นเข็มทิศ (measurable ≠ compass — coupon branch of charted-course graduates; successor of published แผนที่ไม่ได้เกิดจากการเดินผ่านครั้งเดียว)
 
 - **status:** 
-- **date:** 20261010
-- **Notion:** https://app.notion.com/p/3f5df8d88d8c81598e6bfd7f877590aa
+- **date:** 20261004
+- **Notion:** https://app.notion.com/p/3efdf8d88d8c81ec8aabcf1f547c34de
 - **ไฟล์โพสต์:**
-  - [20261010-cnt-discipline-trap-quiet-effort](../posts/20261010-cnt-discipline-trap-quiet-effort.md)
+  - [20261004-cnt-measurable-not-compass](../posts/20261004-cnt-measurable-not-compass.md)
+
+## บันทึก
+
+fresh v1 241 wc-w; successor of published charted-course (10-01); spine = matchable vs unmatchable return; coupon branch graduates (EN #158); Notion 3efdf8d8 draft

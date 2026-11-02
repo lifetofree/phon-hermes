@@ -1,14 +1,14 @@
 ---
 pair: 087
-hash: 091bbfd602-69b5cf
-date: 20261001
+hash: ee2c7de905-72180c
+date: 20260930
 ---
 
-# ถ้างานดีของคุณขายไม่ได้ จนกว่าจะมีคนชม — คุณกำลัง Perform ไม่ใช่ Sell (Performer vs Salesman, CURRENT FORM, 323 wc-w, draft)
+# ถ้าการสลับมีราคา — วันงานล้นควรออกแบบยังไง (draft, split part 2 = Question Content)
 
 - **status:** draft
-- **date:** 20261001
-- **Notion:** https://app.notion.com/p/Perform-Sell-3ecdf8d88d8c81939e02f602ccef94a9
+- **date:** 20260930
+- **Notion:** https://app.notion.com/p/3ebdf8d88d8c812e9dd8e8250afe6c3b
 - **ไฟล์โพสต์:**
-  - [20261001-cnt-performer-to-salesman](../posts/20261001-cnt-performer-to-salesman.md)
+  - [20260930-cnt-surv02-switching-experiment-question](../posts/20260930-cnt-surv02-switching-experiment-question.md)
 - **Research:** [[autoclaw-research]]

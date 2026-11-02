@@ -1,13 +1,13 @@
 ---
 pair: 089
-hash: 4970be131e-e4fa25
-date: 20261002
+hash: 091bbfd602-ad531a
+date: 20261001
 ---
 
-# คลื่น agent ออกถี่ขึ้น — ความรู้สึกตามไม่ทัน ก็ยังอยู่ (กิ่ง 3 CLOSED: Benz r1 freeze 5/5 + 2 owner's keeps, publish 1.04×, Notion = publish text Status rewritten; seed-drift Grok timing flagged)
+# ถ้างานดีของคุณขายไม่ได้ จนกว่าจะมีคนชม — คุณกำลัง Perform ไม่ใช่ Sell (Performer vs Salesman, CURRENT FORM, 323 wc-w, draft)
 
-- **status:** publish (Notion Status: rewritten)
-- **date:** 20261002
-- **Notion:** https://app.notion.com/p/agent-3eddf8d88d8c81749cdbd1a9e3212a54
+- **status:** draft
+- **date:** 20261001
+- **Notion:** https://app.notion.com/p/Perform-Sell-3ecdf8d88d8c81939e02f602ccef94a9
 - **ไฟล์โพสต์:**
-  - [20261002-cnt-agent-wave-fomo-main-agent](../posts/20261002-cnt-agent-wave-fomo-main-agent.md)
+  - [20261001-cnt-performer-to-salesman](../posts/20261001-cnt-performer-to-salesman.md)
