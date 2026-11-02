@@ -2,7 +2,7 @@
 type: research
 topic: Rework (37signals)
 kind: book
-used_by: [[[pair-021]], [[pair-024]], [[pair-025]]]
+used_by: [[pair-021]] [[pair-024]] [[pair-025]]
 ---
 
 # Rework (Jason Fried & DHH, 37signals, 2010) — verified quotes for content

@@ -1,1 +1,1 @@
-../../../content-study/vault/research/autoclaw-research.md
+../../../research/autoclaw-research.md

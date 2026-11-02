@@ -2,7 +2,7 @@
 type: research
 topic: Superclick (macOS)
 kind: TECH
-used_by: [[[pair-002]]]
+used_by: [[pair-002]]
 ---
 
 # Superclick — verified research (2026-09-03)

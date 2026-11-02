@@ -2,7 +2,7 @@
 type: research
 topic: Wispr Flow + Notetaker
 kind: TECH
-used_by: [[[pair-049]], [[pair-061]]]
+used_by: [[pair-049]] [[pair-061]]
 ---
 
 # Wispr Flow — verified research (2026-10-16)

@@ -2,7 +2,7 @@
 type: research
 topic: Grok Bot (xAI)
 kind: TECH
-used_by: [[[pair-083]]]
+used_by: [[pair-083]]
 ---
 
 # Grok Bot (xAI) — verified research (2026-09-11)

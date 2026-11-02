@@ -1,1 +1,1 @@
-../../../content-study/vault/research/orca-research.md
+../../../research/orca-research.md

@@ -2,7 +2,7 @@
 type: research
 topic: unsloth-core
 kind: TECH
-used_by: [[[pair-004]]]
+used_by: [[pair-004]]
 ---
 
 # Unsloth Core — verified research 2026-09-10

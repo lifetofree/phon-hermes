@@ -1,1 +1,1 @@
-../../../content-study/vault/research/wispr-flow-research.md
+../../../research/wispr-flow-research.md

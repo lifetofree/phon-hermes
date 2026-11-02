@@ -1,1 +1,1 @@
-../../../content-study/vault/research/essentialism-research.md
+../../../research/essentialism-research.md

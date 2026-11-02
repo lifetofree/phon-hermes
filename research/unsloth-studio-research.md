@@ -2,7 +2,7 @@
 type: research
 topic: unsloth-studio
 kind: TECH
-used_by: [[[pair-004]]]
+used_by: [[pair-004]]
 ---
 
 # Unsloth Studio — verified research 2026-09-07

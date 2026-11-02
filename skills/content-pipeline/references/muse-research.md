@@ -1,1 +1,1 @@
-../../../content-study/vault/research/muse-research.md
+../../../research/muse-research.md

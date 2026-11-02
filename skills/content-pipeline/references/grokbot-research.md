@@ -1,1 +1,1 @@
-../../../content-study/vault/research/grokbot-research.md
+../../../research/grokbot-research.md

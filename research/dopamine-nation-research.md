@@ -2,7 +2,7 @@
 type: research
 topic: Dopamine Nation (หนังสือ)
 kind: book
-used_by: [[[pair-007]], [[pair-008]]]
+used_by: [[pair-007]] [[pair-008]]
 ---
 
 # Dopamine Nation (Anna Lembke) — verified research notes

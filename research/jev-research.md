@@ -2,7 +2,7 @@
 type: research
 topic: Jev — TypeSafe System One
 kind: TECH
-used_by: [[[pair-084]]]
+used_by: [[pair-084]]
 ---
 
 # Jev (TypeSafe System One) — verified research (2026-09-20)

@@ -13,15 +13,19 @@
 ## โครงสร้าง
 
 ```
-vault/
-  README.md        ← ไฟล์นี้
-  index.md         ← สารบัญกลาง (MOC): pair ล่าสุด / คู่เปิด / research / กิ่ง / สายเรื่อง
-  pairs/           ← 1 ไฟล์/คู่ (generate จาก index.json) — มีลิงก์ Research: กลับไป research node
-  research/        ← ไฟล์ research จริง (front-matter type: research + used_by ลิงก์กลับ pair)
-  posts/           ← ไฟล์ draft จริง
-  web-archive/     ← ไฟล์ publish/critique archive จริง
-  branches/        ← กิ่ง (แก้มือได้)
-  families/        ← สายเรื่อง (แก้มือได้)
+~/hermes-agent/
+  research/            ← RESEARCH VAULT (ต้นฉบับ): *-research.md + books/ (โครงรับ book DB) + index.md
+  content-study/
+    vault/             ← CONTENT VAULT
+      README.md        ← ไฟล์นี้
+      index.md         ← MOC: pair / แท็ก / research / lessons / events / กิ่ง / สายเรื่อง
+      pairs/           ← 1 ไฟล์/คู่ (generate จาก index.json) — มีลิงก์ Research: → research node
+      research/        ← symlink → ../../research
+      posts/           ← ไฟล์ draft จริง
+      web-archive/     ← ไฟล์ publish/critique archive จริง
+      branches/ families/
+    posts/ web-archive/  ← symlink → vault (จุดเข้าเดิม)
+  skills/content-pipeline/references/ ← symlink → research (จุดเข้าเดิมของ skill)
 ```
 
 ## กติกา wiki-link
@@ -49,7 +53,7 @@ vault/
 |---|---|---|---|
 | `pair` | pairs/ | generator | สร้าง/ลบ stale อัตโนมัติ (มี hash) |
 | `tag` | tags/ | generator (สแกน hashtag จาก archive) | สร้าง/ลบ stale อัตโนมัติ (มี hash) |
-| `research` | research/ | มือ (front-matter `type: research` + used_by) | ไม่แตะ — แต่ขึ้น MOC เอง |
+| `research` | **อยู่นอก vault** — `~/hermes-agent/research/` (vault มี symlink ชี้) | มือ (front-matter `type: research` + used_by) | ไม่แตะ — ขึ้น MOC จาก research/ |
 | `branch` | branches/ | มือ (status: open/stock/graduated/dead) | ไม่แตะ — open/stock ขึ้น MOC |
 | `family` | families/ | มือ | ไม่แตะ — ขึ้น MOC |
 | `lesson` | lessons/ | มือ (แบบแผน critique ที่วนซ้ำ — สร้างเมื่อวน ≥2 ครั้ง) | ไม่แตะ — ขึ้น MOC |
@@ -59,8 +63,9 @@ vault/
 
 ## หลัก symlink (ต้นฉบับเดียว)
 
-- ไฟล์จริงอยู่ใน vault เท่านั้น — จุดเข้าเดิมทุกจุดเป็น symlink ชี้เข้ามา
+- ไฟล์จริง: posts/ + web-archive/ อยู่ใน vault — research/ อยู่ที่ `~/hermes-agent/research/` (repo root — vault เป็นสมาชิกผ่าน symlink ทั้งสองทิศ)
 - skill (`skill_view`/สคริปต์) และ cron (sync_wp_posts.py) ยังใช้ path เดิมได้เต็มรูปแบบ
+- Obsidian: **เปิด vault ที่ระดับ `~/hermes-agent/`** — content vault กับ research vault อยู่ graph เดียว คลิกข้ามได้
 - **ห้ามแก้ไฟล์ผ่านจุดเข้า symlink โดยไม่รู้ว่าเป็น symlink** — แก้ที่ไฟล์ใน vault คือแก้ต้นฉบับเดียวกัน
 
 ## สิ่งที่ย้ายออกจาก STATE.md (2026-11-02)

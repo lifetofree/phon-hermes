@@ -1,1 +1,1 @@
-../../../content-study/vault/research/superclick-research.md
+../../../research/superclick-research.md

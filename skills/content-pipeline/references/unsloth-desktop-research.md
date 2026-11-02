@@ -1,1 +1,1 @@
-../../../content-study/vault/research/unsloth-desktop-research.md
+../../../research/unsloth-desktop-research.md

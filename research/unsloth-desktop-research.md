@@ -2,7 +2,7 @@
 type: research
 topic: unsloth-desktop
 kind: TECH
-used_by: [[[pair-010]]]
+used_by: [[pair-010]]
 ---
 
 # Unsloth Desktop — verified research 2026-09-10

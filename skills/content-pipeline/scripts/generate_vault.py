@@ -270,10 +270,10 @@ def main():
     for c, t in sorted(tagfiles, reverse=True)[:20]:
         M.append(f"- [[{t}]] — {c} คู่")
     M += ["", "## Research", ""]
-    resdir = os.path.join(VAULT, "research")
+    resdir = os.path.join(os.path.dirname(CS), "research")
     if os.path.isdir(resdir):
         for f in sorted(os.listdir(resdir)):
-            if f.endswith(".md") and not os.path.islink(os.path.join(resdir, f)):
+            if f.endswith(".md") and f not in ("README.md", "index.md"):
                 M.append(f"- [[{f[:-3]}]]")
     M += ["", "## สายเรื่อง (families)", ""]
     for name, desc in FAMILIES:

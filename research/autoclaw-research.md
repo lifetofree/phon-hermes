@@ -2,7 +2,7 @@
 type: research
 topic: AutoClaw / Z.ai
 kind: TECH
-used_by: [[[pair-086]], [[pair-087]], [[pair-001]]]
+used_by: [[pair-086]] [[pair-087]] [[pair-001]]
 ---
 
 # AutoClaw (Zhipu AI / Z.ai) — verified research (2026-09-03)

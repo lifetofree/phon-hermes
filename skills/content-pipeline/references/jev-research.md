@@ -1,1 +1,1 @@
-../../../content-study/vault/research/jev-research.md
+../../../research/jev-research.md

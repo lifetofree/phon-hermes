@@ -2,7 +2,7 @@
 type: research
 topic: Essentialism (McKeown)
 kind: book
-used_by: [[[pair-009]]]
+used_by: [[pair-009]]
 ---
 
 # Essentialism (Greg McKeown) — verified research notes

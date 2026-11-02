@@ -2,7 +2,7 @@
 type: research
 topic: Orca (stablyai ADE)
 kind: TECH
-used_by: [[[pair-091]]]
+used_by: [[pair-091]]
 ---
 
 # Orca (stablyai/orca) — verified research (2026-09-17)

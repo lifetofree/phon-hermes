@@ -2,7 +2,7 @@
 type: research
 topic: Tailscale Serve
 kind: TECH
-used_by: [[[pair-012]]]
+used_by: [[pair-012]]
 ---
 
 # Tailscale Serve/Funnel — verified research (2026-09-03)

@@ -2,7 +2,7 @@
 type: research
 topic: Ollama (local LLM series)
 kind: TECH
-used_by: [[[pair-003]], [[pair-006]]]
+used_by: [[pair-003]] [[pair-006]]
 ---
 
 # Ollama research (verified 2026-09-05)

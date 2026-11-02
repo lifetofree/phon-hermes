@@ -2,7 +2,7 @@
 type: research
 topic: LM Studio + Bionic
 kind: TECH
-used_by: [[[pair-011]], [[pair-013]]]
+used_by: [[pair-011]] [[pair-013]]
 ---
 
 # LM Studio research (verified 2026-09-07, Bionic deep-dive 2026-09-08)

@@ -2,7 +2,7 @@
 type: research
 topic: Scientific Advertising (Hopkins)
 kind: book
-used_by: [[[pair-030]], [[pair-035]]]
+used_by: [[pair-030]] [[pair-035]]
 ---
 
 # Scientific Advertising (Claude C. Hopkins, 1923) — verified research

@@ -1,1 +1,1 @@
-../../../content-study/vault/research/lmstudio-research.md
+../../../research/lmstudio-research.md

@@ -1,1 +1,1 @@
-../../../content-study/vault/research/scientific-advertising-research.md
+../../../research/scientific-advertising-research.md

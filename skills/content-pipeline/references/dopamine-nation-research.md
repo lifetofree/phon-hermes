@@ -1,1 +1,1 @@
-../../../content-study/vault/research/dopamine-nation-research.md
+../../../research/dopamine-nation-research.md

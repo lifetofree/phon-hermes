@@ -5,7 +5,7 @@
 - **ประวัติ pair ทั้งหมดย้ายไป `content-study/vault/`** — markdown + wiki-link (เปิดใน Obsidian ได้):
   - `vault/index.md` = สารบัญกลาง (คู่ล่าสุด / คู่ที่ยังเปิด / กิ่ง / สายเรื่อง)
   - `vault/pairs/pair-0NN.md` = 1 ไฟล์/คู่ (generate จาก index.json — ห้ามแก้มือ, regenerate ด้วย `python3 skills/content-pipeline/scripts/generate_vault.py` — merge-safe, ลบไฟล์ stale เอง; มีลิงก์ Research: กลับ research node)
-  - `vault/research/` = ไฟล์ research จริง 21 ไฟล์ (front-matter used_by → pair; skill อ่านผ่าน symlink ที่ references/)
+  - `vault/research/` = symlink → `~/hermes-agent/research/` (RESEARCH VAULT — ต้นฉบับ 21 ไฟล์ + `books/` โครงรับ book database: books/<slug>/book.md + quotes.md + notes.md; skill อ่านผ่าน symlink ที่ references/, Obsidian เปิดที่ repo root เพื่อให้สอง vault อยู่ graph เดียว)
   - `vault/posts/` + `vault/web-archive/` = ไฟล์โพสต์/archive จริง (`content-study/posts/`, `web-archive/` = symlink เข้า vault — path เดิมใช้ได้ทุก script/cron)
   - `vault/branches/` = กิ่งที่ยังเปิด/stock/graduated (แก้มือได้ — generator ไม่แตะ)
   - `vault/families/` = สายเรื่องข้ามคู่ (แก้มือได้)

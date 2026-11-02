@@ -1,1 +1,1 @@
-../../../content-study/vault/research/rework-research.md
+../../../research/rework-research.md

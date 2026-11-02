@@ -1,1 +1,1 @@
-../../../content-study/vault/research/ollama-research.md
+../../../research/ollama-research.md

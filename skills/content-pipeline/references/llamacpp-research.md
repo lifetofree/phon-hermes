@@ -1,1 +1,1 @@
-../../../content-study/vault/research/llamacpp-research.md
+../../../research/llamacpp-research.md

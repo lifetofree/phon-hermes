@@ -2,7 +2,7 @@
 type: research
 topic: Muse (Meta personal AI agent)
 kind: TECH
-used_by: [[[pair-090]]]
+used_by: [[pair-090]]
 ---
 
 # Muse (Meta personal AI agent) — verified research

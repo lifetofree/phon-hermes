@@ -1,1 +1,1 @@
-../../../content-study/vault/research/tailscale-serve-research.md
+../../../research/tailscale-serve-research.md

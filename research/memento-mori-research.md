@@ -2,7 +2,7 @@
 type: research
 topic: Memento Mori (ปรัชญา + task-logger app)
 kind: philosophy
-used_by: [[[pair-018]]]
+used_by: [[pair-018]]
 ---
 
 # Memento Mori — Research Notes

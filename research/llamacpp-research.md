@@ -2,7 +2,7 @@
 type: research
 topic: llama.cpp
 kind: TECH
-used_by: [[[pair-005]]]
+used_by: [[pair-005]]
 ---
 
 # llama.cpp research (verified 2026-09-09)

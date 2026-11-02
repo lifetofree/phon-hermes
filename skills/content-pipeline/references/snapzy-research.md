@@ -1,1 +1,1 @@
-../../../content-study/vault/research/snapzy-research.md
+../../../research/snapzy-research.md

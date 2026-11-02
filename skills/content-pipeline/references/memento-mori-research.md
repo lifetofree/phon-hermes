@@ -1,1 +1,1 @@
-../../../content-study/vault/research/memento-mori-research.md
+../../../research/memento-mori-research.md

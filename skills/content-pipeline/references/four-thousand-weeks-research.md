@@ -1,1 +1,1 @@
-../../../content-study/vault/research/four-thousand-weeks-research.md
+../../../research/four-thousand-weeks-research.md

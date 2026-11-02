@@ -2,7 +2,7 @@
 type: research
 topic: Snapzy (macOS screenshot)
 kind: TECH
-used_by: [[[pair-015]], [[pair-045]]]
+used_by: [[pair-015]] [[pair-045]]
 ---
 
 # Snapzy (snapzy.app) — verified research 2026-09-07
