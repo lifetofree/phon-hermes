@@ -33,6 +33,11 @@ FAMILIES = [
 ]
 
 # research node back-links: pair key -> research files (in vault/research/)
+# โฟลเดอร์เล่มที่ graduate (research/books/<slug>/) — แสดงบรรทัด Book: ใน pair node
+BOOKS_LINKS = {
+    "017": ["four-thousand-weeks"],
+}
+
 RESEARCH_LINKS = {
     "001": ["autoclaw-research"], "086": ["autoclaw-research"], "087": ["autoclaw-research"],
     "007": ["dopamine-nation-research"], "008": ["dopamine-nation-research"],
@@ -208,7 +213,10 @@ def main():
             L.append(f"  - [{s}]({rel})" if rel else f"  - {s} (ไม่พบไฟล์)")
         rlinks = RESEARCH_LINKS.get(key)
         if rlinks:
-            L.append("- **Research:** " + " · ".join(f"[[{r}]]" for r in rlinks))
+            if rlinks:
+                L.append("- **Research:** " + " · ".join(f"[[{r}]]" for r in rlinks))
+            for b in BOOKS_LINKS.get(key, []):
+                L.append(f"- **Book:** [[{b}/book|{b}]] · quotes: [[{b}/quotes|quotes]]")
         if fin.get("note"):
             L.append(f"\n## บันทึก\n\n{fin['note']}")
         body = "\n".join(L) + "\n"

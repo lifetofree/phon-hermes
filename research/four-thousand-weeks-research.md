@@ -3,6 +3,7 @@ type: research
 topic: Four Thousand Weeks (Burkeman)
 kind: book
 used_by: [[pair-017]]
+book: "[[four-thousand-weeks]]"
 ---
 
 # Four Thousand Weeks research (2026-09-13)
@@ -30,3 +31,7 @@ Verified notes for *Four Thousand Weeks: Time Management for Mortals* — Oliver
 ## Pitfalls
 - Block read-back: `rich_text` nested under `b[b["type"]]` not top-level (updated in SKILL.md)
 - pythainlp NOT installed on this box (pip install blocked 2026-09-13) — use codepoint scan (JP kana/CJK/Korean ranges) as fallback for Thai draft QA
+
+## Book node
+
+- โฟลเดอร์เล่ม (quotes/notes/สถานะอ่าน): [[four-thousand-weeks/book]]
