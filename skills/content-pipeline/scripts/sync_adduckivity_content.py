@@ -329,24 +329,25 @@ def main():
     json.dump({STATE_KEY: state, "_updated": datetime.now(timezone.utc).isoformat()},
               open(STATE, "w"), ensure_ascii=False)
 
-    # MOC index.md
-    pub = [r for r in rows_with_meta if r["status"] == "✅ Published"]
-    idx = ["---", "type: moc", "---", "",
-           "# Adduckivity Content — Notion publish master (synced)",
-           "",
-           f"{len(rows_with_meta)} content · {len(pub)} published · synced {datetime.now(timezone.utc).astimezone().strftime('%Y-%m-%d %H:%M')}",
-           "",
-           "## ตามสถานะ",
-           ""]
-    from collections import Counter
-    for st, n in Counter(r["status"] or "ไม่ระบุ" for r in rows_with_meta).most_common():
-        idx.append(f'- {st}: {n}')
-    idx += ["", "## Hub", "",
-            "- Laws → `laws/` (5 hubs)", "- Categories → `categories/` (8 hubs)", "- Tags → `tags/` (รวม #Adduckivity #DuckOS ฯลฯ)", "",
-            "## Published ล่าสุด", ""]
-    for r in sorted(pub, key=lambda x: x["date"] or "9999")[:12]:
-        idx.append(f'- [[{r["fname_stem"]}|{r["headline"][:56]}]] — {r["date"] or "?"}')
-    open(os.path.join(OUT, "index.md"), "w").write("\n".join(idx))
+    # MOC index.md (เขียนเฉพาะเมื่อมีเนื้อหาเปลี่ยน — กัน commit เปล่ารายสัปดาห์)
+    if any_changed or need_hubs or not os.path.exists(os.path.join(OUT, "index.md")):
+        pub = [r for r in rows_with_meta if r["status"] == "✅ Published"]
+        idx = ["---", "type: moc", "---", "",
+               "# Adduckivity Content — Notion publish master (synced)",
+               "",
+               f"{len(rows_with_meta)} content · {len(pub)} published · synced {datetime.now(timezone.utc).astimezone().strftime('%Y-%m-%d %H:%M')}",
+               "",
+               "## ตามสถานะ",
+               ""]
+        from collections import Counter
+        for st, n in Counter(r["status"] or "ไม่ระบุ" for r in rows_with_meta).most_common():
+            idx.append(f'- {st}: {n}')
+        idx += ["", "## Hub", "",
+                "- Laws → `laws/` (5 hubs)", "- Categories → `categories/` (8 hubs)", "- Tags → `tags/` (รวม #Adduckivity #DuckOS ฯลฯ)", "",
+                "## Published ล่าสุด", ""]
+        for r in sorted(pub, key=lambda x: x["date"] or "9999")[:12]:
+            idx.append(f'- [[{r["fname_stem"]}|{r["headline"][:56]}]] — {r["date"] or "?"}')
+        open(os.path.join(OUT, "index.md"), "w").write("\n".join(idx))
 
     paired = sum(1 for r in rows_with_meta if r["paired"])
     print(f"written {written} (stale-removed {removed}) | skipped {skipped} | errors {errors}")
