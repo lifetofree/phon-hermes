@@ -1,6 +1,6 @@
 ---
 pair: 008
-hash: 78c43239a6-b3e82e
+hash: 78c43239a6-df6597
 date: 20260910
 ---
 
@@ -11,3 +11,4 @@ date: 20260910
 - **words:** 1793
 - **ไฟล์โพสต์:**
   - [20260910-cnt-unsloth-desktop-intro](../posts/20260910-cnt-unsloth-desktop-intro.md)
+- **Research:** [[dopamine-nation-research]]

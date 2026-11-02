@@ -1,6 +1,6 @@
 ---
 pair: 024
-hash: b10cd1e26d-23636d
+hash: b10cd1e26d-599ff3
 date: 20260918
 ---
 
@@ -11,3 +11,4 @@ date: 20260918
 - **words:** 694
 - **ไฟล์โพสต์:**
   - [20260918-cnt-system-diagnostic-hero-complex](../posts/20260918-cnt-system-diagnostic-hero-complex.md)
+- **Research:** [[rework-research]]

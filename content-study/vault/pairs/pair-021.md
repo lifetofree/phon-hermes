@@ -1,6 +1,6 @@
 ---
 pair: 021
-hash: 21072b9c98-f179dd
+hash: 21072b9c98-734134
 date: 20260917
 ---
 
@@ -11,3 +11,4 @@ date: 20260917
 - **words:** 526
 - **ไฟล์โพสต์:**
   - [20260917-cnt-meetings-are-toxic-context-switching-tax](../posts/20260917-cnt-meetings-are-toxic-context-switching-tax.md)
+- **Research:** [[rework-research]]

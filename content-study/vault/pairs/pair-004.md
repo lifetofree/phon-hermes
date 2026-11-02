@@ -1,6 +1,6 @@
 ---
 pair: 004
-hash: adca205db7-8993c5
+hash: adca205db7-82a72e
 date: 20260906
 ---
 
@@ -12,3 +12,4 @@ date: 20260906
 - **Notion:** https://wp.adduckivity.com/20260906-cnt-autoclaw-zcode-workflow/
 - **ไฟล์โพสต์:**
   - [20260906-cnt-autoclaw-zcode-workflow](../web-archive/20260906-cnt-autoclaw-zcode-workflow.md)
+- **Research:** [[unsloth-core-research]] · [[unsloth-studio-research]]

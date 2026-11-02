@@ -1,6 +1,6 @@
 ---
 pair: 091
-hash: ed4820477f-ad4469
+hash: ed4820477f-0e29be
 date: 20261003
 ---
 
@@ -11,3 +11,4 @@ date: 20261003
 - **Notion:** https://app.notion.com/p/3eedf8d88d8c819e8d42f14b9d584e1a
 - **ไฟล์โพสต์:**
   - [20261003-cnt-convenience-trap-lagging-value](../posts/20261003-cnt-convenience-trap-lagging-value.md)
+- **Research:** [[orca-research]]

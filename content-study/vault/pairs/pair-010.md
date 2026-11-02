@@ -1,6 +1,6 @@
 ---
 pair: 010
-hash: 2354d44491-ab634f
+hash: 2354d44491-d80fcb
 date: 20260910
 ---
 
@@ -11,3 +11,4 @@ date: 20260910
 - **words:** 808
 - **ไฟล์โพสต์:**
   - [20260910-cnt-admin-access-choice-essentialist](../posts/20260910-cnt-admin-access-choice-essentialist.md)
+- **Research:** [[unsloth-desktop-research]]

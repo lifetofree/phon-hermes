@@ -1,6 +1,6 @@
 ---
 pair: 012
-hash: b6f3344036-2fdb51
+hash: b6f3344036-840a27
 date: 20260922
 ---
 
@@ -11,6 +11,7 @@ date: 20260922
 - **words:** 664
 - **ไฟล์โพสต์:**
   - [20260922-cnt-flow-vs-stock-pattern-compounding](../posts/20260922-cnt-flow-vs-stock-pattern-compounding.md)
+- **Research:** [[tailscale-serve-research]]
 
 ## บันทึก
 

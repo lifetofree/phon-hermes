@@ -1,6 +1,6 @@
 ---
 pair: 011
-hash: e1c6280f5d-b4f393
+hash: e1c6280f5d-727b53
 date: 20260907
 ---
 
@@ -12,3 +12,4 @@ date: 20260907
 - **Notion:** https://wp.adduckivity.com/20260907-cnt-local-llm-laptop-offline-guide/
 - **ไฟล์โพสต์:**
   - [20260907-cnt-local-llm-laptop-offline-guide](../web-archive/20260907-cnt-local-llm-laptop-offline-guide.md)
+- **Research:** [[lmstudio-research]]

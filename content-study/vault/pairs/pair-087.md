@@ -1,6 +1,6 @@
 ---
 pair: 087
-hash: 091bbfd602-832a13
+hash: 091bbfd602-69b5cf
 date: 20261001
 ---
 
@@ -11,3 +11,4 @@ date: 20261001
 - **Notion:** https://app.notion.com/p/Perform-Sell-3ecdf8d88d8c81939e02f602ccef94a9
 - **ไฟล์โพสต์:**
   - [20261001-cnt-performer-to-salesman](../posts/20261001-cnt-performer-to-salesman.md)
+- **Research:** [[autoclaw-research]]

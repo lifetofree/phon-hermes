@@ -1,6 +1,6 @@
 ---
 pair: 035
-hash: edc0c4a776-54c834
+hash: edc0c4a776-02de95
 date: 20260921
 ---
 
@@ -11,6 +11,7 @@ date: 20260921
 - **words:** 931
 - **ไฟล์โพสต์:**
   - [20260921-cnt-internet-copy-machine-ship-gate](../posts/20260921-cnt-internet-copy-machine-ship-gate.md)
+- **Research:** [[scientific-advertising-research]]
 
 ## บันทึก
 

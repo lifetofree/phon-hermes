@@ -1,6 +1,6 @@
 ---
 pair: 009
-hash: 5a4ea3050d-b9adae
+hash: 5a4ea3050d-70dc21
 date: 20260910
 ---
 
@@ -11,3 +11,4 @@ date: 20260910
 - **words:** 1181
 - **ไฟล์โพสต์:**
   - [20260910-cnt-attention-shock-dopamine-cortisol](../posts/20260910-cnt-attention-shock-dopamine-cortisol.md)
+- **Research:** [[essentialism-research]]

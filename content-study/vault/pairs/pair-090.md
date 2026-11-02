@@ -1,6 +1,6 @@
 ---
 pair: 090
-hash: 1c53be8e1e-4c2911
+hash: 1c53be8e1e-1ee93f
 date: 20261002
 ---
 
@@ -11,3 +11,4 @@ date: 20261002
 - **Notion:** https://app.notion.com/p/3eddf8d88d8c819b961efc7490648cd9
 - **ไฟล์โพสต์:**
   - [20261002-cnt-possible-vs-capacity](../posts/20261002-cnt-possible-vs-capacity.md)
+- **Research:** [[muse-research]]

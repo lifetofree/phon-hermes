@@ -1,0 +1,25 @@
+---
+type: research
+topic: Scientific Advertising (Hopkins)
+kind: book
+used_by: [[[pair-030]], [[pair-035]]]
+---
+
+# Scientific Advertising (Claude C. Hopkins, 1923) — verified research
+
+Source of the "charting / exact science" idea behind the 2026-10-01 draft (`posts/20261001-cnt-charted-course-exact-science.md`, Notion page 3ebdf8d8-8d8c-815c-af6c-ce63bc2420a3, Status: draft).
+
+## Verified facts
+
+- **User-quoted passage = VERBATIM** from the "The Science of Advertising" section: "Under these conditions, where they long exist, advertising and merchandising become exact sciences. Every course is charted. The compass of accurate knowledge directs the shortest, safest, cheapest course to any destination."
+- **Mechanism passage (same section)** — how the "science" is produced: "We learn the principles and prove them by repeated tests. This is done through keyed advertising, by traced returns, largely by the use of coupons. We compare one way with many others, backward and forward, and record the results. When one method invariably proves best, that method becomes a fixed principle." + "The cost per reply and cost per dollar of sale show up with utter exactness." + "So no guesswork is permitted. One must know what is best."
+- **Context preceding the quote:** large agencies accumulate records — "Individuals may come and go, but they leave their records and ideas behind them... such agencies become storehouses of advertising experiences, proved principles, and methods." (i.e. the science comes from accumulated tested records, not from a person) — the "records outlive people" beat is the strongest bridge to the Asset/loop vocabulary.
+- **Primary source mirrors (fetched 2026-10-01, both work):** `https://s3.amazonaws.com/Commonsense/ScientificAdvertising.pdf` (used) + `https://www.castlewoodstudios.com/downloads/scientific_advertising.pdf`. Public domain (1923). Extract: `curl -sL -o sa.pdf <url>` then `pdftotext sa.pdf sa.txt` (poppler present on this host) then grep with context.
+- Ogilvy attribution ("Nobody should have anything to do with advertising until he has read this book seven times") appears on mirror landing pages — NOT verified against Ogilvy's own writing; treat as unverified if ever quoted.
+
+## Draft status + reuse
+
+- Original draft: fresh CURRENT FORM (239 wc-w), went through 3 critique rounds + publish — PUBLISHED as "แผนที่ไม่ได้เกิดจากการเดินผ่านครั้งเดียว" (2026-10-01, page 3ebdf8d8, Status: published; corpus pairs #30–#31). The coupon branch was cut twice (agent v1-critique, then confirmed dead in publish) and per EN #158 graduated to the queue as the approved Measurement post.
+- **2026-10-04: the queued Measurement post is DRAFTED** — `posts/20261004-cnt-measurable-not-compass.md`, Notion `3efdf8d8-8d8c-81ec-8aab-cf1f547c34de` (Content Drafts DB, Status: draft, 241 wc-w, pair #35). Spine = the user's own chain fragment ("all things -> can measure -> compass -> destination, or not / i'm not sure") read as the felt difficulty: the missing link is not "can measure" but a return that MATCHES the Decision (Hopkins' coupon = keyed return — the mechanism passage in this file is the body's engine). Dispatch = matchable vs unmatchable return; near-miss = the single-change week ("มันอาจตอบ Decision ตัวนั้นจริง หรืออาจเป็นแค่เรื่องบังเอิญ"). Bridge to the predecessor = mode-inheritance: the chain `Repeated Decision ↓ ? ↓ Stable` gets its ? named (`คำตอบที่จับคู่กับ Decision ได้`); the predecessor's closing question is inherited and MOVED ("อะไรให้สิทธิ์..." → "อยากให้มีอะไรกลับมา"), the design question parked as aกิ่ง (coupon-design post). The EN quote re-enters the series — it was already in the published predecessor, so this is continuation, not re-import; keep the attribution beat (1923, Scientific Advertising) in every version.
+- Still-open follow-ups: (a) v2 long-form with coupons as the worked engine; (b) Flow-vs-Stock pairing (records = Stock, campaigns = Flow); (c) the coupon-design กิ่ง ("อยากให้มีอะไรกลับมา") — draft only when a real keyed return exists in the writing system (evidence gate).
+- If the user names a specific chapter/claim from the book, verify against the full pdftotext before asserting — chapter numbering in mirrors varies.

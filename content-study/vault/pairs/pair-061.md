@@ -1,6 +1,6 @@
 ---
 pair: 061
-hash: abaf74f00f-8d1965
+hash: abaf74f00f-275fa7
 date: 20261022
 ---
 
@@ -12,6 +12,7 @@ date: 20261022
 - **Notion:** https://app.notion.com/p/401df8d88d8c818a9f91d1a20915c8db
 - **ไฟล์โพสต์:**
   - [20261022-cnt-wispr-notetaker-decision-asset](../posts/20261022-cnt-wispr-notetaker-decision-asset.md)
+- **Research:** [[wispr-flow-research]]
 
 ## บันทึก
 

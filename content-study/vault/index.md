@@ -109,6 +109,30 @@ type: moc
 - [[branch-rules-25-branches]]
 - [[branch-stock-79BC]]
 
+## Research
+
+- [[autoclaw-research]]
+- [[dopamine-nation-research]]
+- [[essentialism-research]]
+- [[four-thousand-weeks-research]]
+- [[grokbot-research]]
+- [[jev-research]]
+- [[llamacpp-research]]
+- [[lmstudio-research]]
+- [[memento-mori-research]]
+- [[muse-research]]
+- [[ollama-research]]
+- [[orca-research]]
+- [[rework-research]]
+- [[scientific-advertising-research]]
+- [[snapzy-research]]
+- [[superclick-research]]
+- [[tailscale-serve-research]]
+- [[unsloth-core-research]]
+- [[unsloth-desktop-research]]
+- [[unsloth-studio-research]]
+- [[wispr-flow-research]]
+
 ## สายเรื่อง (families)
 
 - [[family-ai-brief-chain]] — ยุค AI/Agentic: ถูกเทรน vs ผู้เทรน → เจได→ซิธ → Let them fight (#57 #64 #80)

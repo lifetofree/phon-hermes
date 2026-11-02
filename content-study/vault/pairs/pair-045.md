@@ -1,6 +1,6 @@
 ---
 pair: 045
-hash: 201067da76-15e8fd
+hash: 201067da76-80d577
 date: 20260925
 ---
 
@@ -11,3 +11,4 @@ date: 20260925
 - **Notion:** https://app.notion.com/p/100-Margin-3e6df8d88d8c81c7a6afc61f28597fcb
 - **ไฟล์โพสต์:**
   - [20260925-cnt-margin-not-maximum](../posts/20260925-cnt-margin-not-maximum.md)
+- **Research:** [[snapzy-research]]

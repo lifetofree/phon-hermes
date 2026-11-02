@@ -1,6 +1,6 @@
 ---
 pair: 003
-hash: b776c985c1-721d5a
+hash: b776c985c1-eeeb77
 date: 20260905
 ---
 
@@ -12,3 +12,4 @@ date: 20260905
 - **Notion:** https://wp.adduckivity.com/20260905-cnt-autoclaw-one-click-ai-agent/
 - **ไฟล์โพสต์:**
   - [20260905-cnt-autoclaw-one-click-ai-agent](../web-archive/20260905-cnt-autoclaw-one-click-ai-agent.md)
+- **Research:** [[ollama-research]]

@@ -1,6 +1,6 @@
 ---
 pair: 083
-hash: 424b20af38-42b053
+hash: 424b20af38-3ca2f7
 date: 20260930
 ---
 
@@ -11,3 +11,4 @@ date: 20260930
 - **Notion:** https://app.notion.com/p/08-00-3ebdf8d88d8c811d9269fa71ec16441a
 - **ไฟล์โพสต์:**
   - [20260930-cnt-commitment-device-answer-in-advance](../posts/20260930-cnt-commitment-device-answer-in-advance.md)
+- **Research:** [[grokbot-research]]

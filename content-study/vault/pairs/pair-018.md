@@ -1,6 +1,6 @@
 ---
 pair: 018
-hash: 76dd2540b7-c7bb75
+hash: 76dd2540b7-360eb2
 date: 20260913
 ---
 
@@ -11,3 +11,4 @@ date: 20260913
 - **words:** 579
 - **ไฟล์โพสต์:**
   - [20260913-cnt-real-artifact-single-source-of-truth](../posts/20260913-cnt-real-artifact-single-source-of-truth.md)
+- **Research:** [[memento-mori-research]]

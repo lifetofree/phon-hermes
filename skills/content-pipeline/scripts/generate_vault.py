@@ -32,6 +32,30 @@ FAMILIES = [
     ("family-signal-triad", "Signal triad: Attention / Explore / Exploit (#54 #55 #56)"),
 ]
 
+# research node back-links: pair key -> research files (in vault/research/)
+RESEARCH_LINKS = {
+    "001": ["autoclaw-research"], "086": ["autoclaw-research"], "087": ["autoclaw-research"],
+    "007": ["dopamine-nation-research"], "008": ["dopamine-nation-research"],
+    "009": ["essentialism-research"],
+    "017": ["four-thousand-weeks-research"],
+    "083": ["grokbot-research"],
+    "084": ["jev-research"],
+    "005": ["llamacpp-research"],
+    "011": ["lmstudio-research"], "013": ["lmstudio-research"],
+    "018": ["memento-mori-research"],
+    "090": ["muse-research"],
+    "003": ["ollama-research"], "006": ["ollama-research"],
+    "091": ["orca-research"],
+    "021": ["rework-research"], "024": ["rework-research"], "025": ["rework-research"],
+    "030": ["scientific-advertising-research"], "035": ["scientific-advertising-research"],
+    "015": ["snapzy-research"], "045": ["snapzy-research"],
+    "002": ["superclick-research"],
+    "012": ["tailscale-serve-research"],
+    "004": ["unsloth-core-research", "unsloth-studio-research"],
+    "010": ["unsloth-desktop-research"],
+    "049": ["wispr-flow-research"], "061": ["wispr-flow-research"],
+}
+
 
 def ehash(e):
     return hashlib.sha1(json.dumps(e, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:10]
@@ -101,7 +125,7 @@ def main():
     for key, g in groups.items():
         path = os.path.join(PAIRS, f"pair-{key}.md")
         fin = g["final"]
-        h = ehash(fin) + "-" + hashlib.sha1(",".join(sorted(g["slugs"])).encode()).hexdigest()[:6]
+        h = ehash(fin) + "-" + hashlib.sha1((",".join(sorted(g["slugs"])) + "|" + ",".join(sorted(RESEARCH_LINKS.get(key, [])))).encode()).hexdigest()[:6]
         L = ["---", f"pair: {key}", f"hash: {h}", f"date: {g['date']}", "---", "",
              f"# {fin.get('title', '(no title)')}", ""]
         L.append(f"- **status:** {fin.get('status', '')}")
@@ -116,6 +140,9 @@ def main():
         for s in sorted(g["slugs"]):
             rel = slug_rel(s)
             L.append(f"  - [{s}]({rel})" if rel else f"  - {s} (ไม่พบไฟล์)")
+        rlinks = RESEARCH_LINKS.get(key)
+        if rlinks:
+            L.append("- **Research:** " + " · ".join(f"[[{r}]]" for r in rlinks))
         if fin.get("note"):
             L.append(f"\n## บันทึก\n\n{fin['note']}")
         body = "\n".join(L) + "\n"
@@ -154,6 +181,12 @@ def main():
                 txt = open(os.path.join(brdir, f)).read()
                 if re.search(r"^status: (open|stock)$", txt, re.M):
                     M.append(f"- [[{f[:-3]}]]")
+    M += ["", "## Research", ""]
+    resdir = os.path.join(VAULT, "research")
+    if os.path.isdir(resdir):
+        for f in sorted(os.listdir(resdir)):
+            if f.endswith(".md") and not os.path.islink(os.path.join(resdir, f)):
+                M.append(f"- [[{f[:-3]}]]")
     M += ["", "## สายเรื่อง (families)", ""]
     for name, desc in FAMILIES:
         M.append(f"- [[{name}]] — {desc}")

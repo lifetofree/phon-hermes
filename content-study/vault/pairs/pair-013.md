@@ -1,6 +1,6 @@
 ---
 pair: 013
-hash: e32394c625-97b79a
+hash: e32394c625-f5da2e
 date: 20260907
 ---
 
@@ -12,3 +12,4 @@ date: 20260907
 - **Notion:** https://wp.adduckivity.com/20260907-cnt-ollama-server-team-infrastructure/
 - **ไฟล์โพสต์:**
   - [20260907-cnt-ollama-server-team-infrastructure](../web-archive/20260907-cnt-ollama-server-team-infrastructure.md)
+- **Research:** [[lmstudio-research]]

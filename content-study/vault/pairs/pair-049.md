@@ -1,6 +1,6 @@
 ---
 pair: 049
-hash: 8dcfe0f7f9-814796
+hash: 8dcfe0f7f9-8b3711
 date: 20261016
 ---
 
@@ -12,3 +12,4 @@ date: 20261016
 - **Notion:** https://app.notion.com/p/45-wpm-220-wpm-3fbdf8d88d8c81c0ab74d9085e7b2b1c
 - **ไฟล์โพสต์:**
   - [20261016-cnt-wispr-flow-voice-dictation](../posts/20261016-cnt-wispr-flow-voice-dictation.md)
+- **Research:** [[wispr-flow-research]]

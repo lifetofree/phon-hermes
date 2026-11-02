@@ -1,6 +1,6 @@
 ---
 pair: 005
-hash: 53baecca74-bdd407
+hash: 53baecca74-cf4e02
 date: 20260909
 ---
 
@@ -11,3 +11,4 @@ date: 20260909
 - **words:** 1572
 - **ไฟล์โพสต์:**
   - [20260909-cnt-llama-cpp-engine-intro](../posts/20260909-cnt-llama-cpp-engine-intro.md)
+- **Research:** [[llamacpp-research]]

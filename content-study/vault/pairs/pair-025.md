@@ -1,6 +1,6 @@
 ---
 pair: 025
-hash: 9968ec0087-75c307
+hash: 9968ec0087-1da314
 date: 20260918
 ---
 
@@ -11,3 +11,4 @@ date: 20260918
 - **words:** 2049
 - **ไฟล์โพสต์:**
   - [20260918-cnt-system-diagnostic-chunking-engine](../posts/20260918-cnt-system-diagnostic-chunking-engine.md)
+- **Research:** [[rework-research]]

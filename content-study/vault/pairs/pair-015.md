@@ -1,6 +1,6 @@
 ---
 pair: 015
-hash: b4cf0a12c4-3ca020
+hash: b4cf0a12c4-72db07
 date: 20260907
 ---
 
@@ -12,3 +12,4 @@ date: 20260907
 - **Notion:** https://wp.adduckivity.com/20260907-cnt-local-llm-speed-of-your-own/
 - **ไฟล์โพสต์:**
   - [20260907-cnt-local-llm-speed-of-your-own](../web-archive/20260907-cnt-local-llm-speed-of-your-own.md)
+- **Research:** [[snapzy-research]]

@@ -1,6 +1,6 @@
 ---
 pair: 084
-hash: de3f876145-9641ae
+hash: de3f876145-0bc352
 date: 20260930
 ---
 
@@ -11,3 +11,4 @@ date: 20260930
 - **Notion:** https://app.notion.com/p/3ebdf8d88d8c81a7b409f8a7dab4b9c7
 - **ไฟล์โพสต์:**
   - [20260930-cnt-surv02-one-job-five-rounds](../posts/20260930-cnt-surv02-one-job-five-rounds.md)
+- **Research:** [[jev-research]]

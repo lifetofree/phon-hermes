@@ -1,6 +1,6 @@
 ---
 pair: 017
-hash: 58ffb6dbb4-393a3a
+hash: 58ffb6dbb4-285346
 date: 20260913
 ---
 
@@ -11,3 +11,4 @@ date: 20260913
 - **words:** 774
 - **ไฟล์โพสต์:**
   - [20260913-cnt-four-thousand-weeks-time-fallacies](../posts/20260913-cnt-four-thousand-weeks-time-fallacies.md)
+- **Research:** [[four-thousand-weeks-research]]

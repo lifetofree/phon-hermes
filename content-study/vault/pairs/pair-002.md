@@ -1,6 +1,6 @@
 ---
 pair: 002
-hash: c2ab5f1c86-b10292
+hash: c2ab5f1c86-0682f2
 date: 20260904
 ---
 
@@ -12,3 +12,4 @@ date: 20260904
 - **Notion:** https://wp.adduckivity.com/20260904-cnt-tailscale-serve-local-llm/
 - **ไฟล์โพสต์:**
   - [20260904-cnt-tailscale-serve-local-llm](../web-archive/20260904-cnt-tailscale-serve-local-llm.md)
+- **Research:** [[superclick-research]]

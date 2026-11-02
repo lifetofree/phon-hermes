@@ -1,6 +1,6 @@
 ---
 pair: 007
-hash: 4ee64f42d7-3c1c45
+hash: 4ee64f42d7-ae68bd
 date: 20260910
 ---
 
@@ -11,3 +11,4 @@ date: 20260910
 - **words:** 1935
 - **ไฟล์โพสต์:**
   - [20260910-cnt-unsloth-core-finetune-intro](../posts/20260910-cnt-unsloth-core-finetune-intro.md)
+- **Research:** [[dopamine-nation-research]]
