@@ -2452,3 +2452,12 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - DEAD = 0 (ไม่มีทาง/ไม่ต้องจ่าย/ปิดบัญชี) — artifact: "> " ว่างหลัง quote (ต่อเนื่อง) — archive verbatim / Notion ตัด
 - battery: 97wc (1.17× v1 — publish ขยายจากช่องทางอื่น + guard เป็ด ตาม direction critic), เรา 6 (measured) / พร-eye 2 = เพราะ-lookalike (FP) / '?' 0 / อาจ 6
 - archive `web-archive/20261102-blind-spot-count-publish.md` (byte-verbatim) — Notion same page **Status → published** read-back ครบ (closer ✓ dead 0 quote bold ✓)
+
+### 2026-11-02 pair #82 r1 (PRE-REWRITE, analyze-only) — "เก่งแก้ปัญหา กับ ไม่ให้ปัญหาเกิด" (problem-prevention-over-solving) — Benz r1 + gate B + spec
+
+- **quote-verify 5/5 HIT** 0 drift; verdict: แกนชัด แต่เตือน 4 จุด — คู่ตรงข้ามที่อาจไม่ใช่คู่ตรงข้าม (แก้ที่ดี = จุดเริ่มของการป้องกันครั้งต่อไป — ห้าม demonize แก้เก่ง) / "ปัญหาซ้ำ = ต้นเหตุยังอยู่" ฟันธงเกิน (เสนอบรรทัดแทนพร้อม: "อาจเป็นสัญญาณว่าเรายังไม่ได้จัดการบางอย่าง") / "ครั้งที่สาม" = จุดสังเกตของผู้เขียน ไม่ใช่กฎสากล / closer ประกาศคำตอบที่บทไม่ได้พิสูจน์ → ควรสะท้อนสิ่งที่ค้นพบ
+- **critic ยก KEEP:** "แก้ได้เร็วขึ้นเรื่อย ๆ ดูเหมือนฝีมือกำลังดีขึ้น ทั้งที่ปัญหาก็ยังกลับมาเท่าเดิม" — "ควรเป็นหนึ่งในจุดหลัก"
+- **GATE รูปใหม่:** critic เสนอ A/B/C พร้อมจัดอันดับเอง ("A ครอบคลุมที่สุด, B เป็นกลไก, C เป็นจุดเปลี่ยน") → **owner เลือก B (อันดับสองตาม critic) และ paste ยืนยันกลายเป็น REWRITE SPEC 4 ข้อผูกพัน** (ป้องกัน-ไม่มีให้เห็น = แกนตั้งแต่ต้นจนจบ / แก้ซ้ำ = ตัวอย่างประกอบ / แก้เก่ง ≠ ปัญหาลดลง = ชั้นรอง / ไม่เพิ่มวิธี) + subtitle ขยับ encode แกน B + title เดิมใช้ได้ — owner ไม่ผูกติดอันดับที่ critic แนะนำ (contrast กับ #81 ที่ owner หยิบอันดับแรก)
+- สังเกต: B-lists 4×4 (สิ่งที่เกิด = เห็น/ลงมือ/ผลให้ชี้/ยอมรับ ↔ สิ่งที่ไม่เกิด = ไม่มีภาพ/เวลาไม่เสีย/เสียหายไม่เกิด/งานซ้ำหาย) = วัตถุดิบ expander ของ publish — v1 มีองก์นี้แค่ 1 บรรทัด
+- critic ยืนยัน do-not-build เอง (ไม่แนะนำ Root Cause method/เครื่องมือ — "จะกลายเป็นบทสอนแก้ปัญหา")
+- archive `web-archive/20261102-problem-prevention-benz-dna-critique-r1-gate-B.md` (20KB verbatim) — draft + Notion body ไม่แตะ — Status → rewritten — **รอ publish version จาก owner**

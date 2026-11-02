@@ -12,6 +12,14 @@ SIBLING GUARDS: #81 blind-spot bleed (blind spot/สายตา/feedback/เพ
 กิ่ง PARK (สำหรับบทต่อ/อนาคต — ยังไม่ออกแบบ): (1) เกณฑ์แยก "แก้ทันที vs ถอยไปดูต้นเหตุ" (2) งานป้องกันที่สำเร็จแล้วไม่มีใครเห็น — สังเกตกันอย่างไร (ใกล้ กิ่ง B-stock ของ #79 ฝั่ง Observability — flag ไว้ ยังไม่รวม) (3) ความคุ้นเคยกับปัญหา เป็นต้นทุนแฝงของการแก้เก่ง
 FORMAT: line-per-sentence + จุดขั้น + H2 #สรุปแบบวิศวกรเป็ด + quote bold 1 + hashtag tail; '?' 0 (house draft convention)
 Notion: Content Drafts DB `3ccdf8d8-8d8c-81ae-bdf8-cb9eb1821520` Status draft, Platform general
+
+R1 (2026-11-02): Benz-DNA critique + GATE B + rewrite spec — PRE-REWRITE analyze-only, ไฟล์นี้ + Notion body ไม่แตะ (PATCH Status → rewritten)
+- Archive: `web-archive/20261102-problem-prevention-benz-dna-critique-r1-gate-B.md` — quote-verify 5/5 HIT 0 drift (2 pastes: critique 111L + B-confirmation 28L)
+- Verdict: แกนชัด แต่ (1) ห้ามทำคู่ตรงข้ามแข็ง "แก้เก่ง=ไม่ดี" (2) "ปัญหาซ้ำ = ต้นเหตุยังอยู่" ฟันธงเกิน → soft เป็น "อาจเป็นสัญญาณ" (3) "ครั้งที่สาม" = จุดสังเกตของผู้เขียน ไม่ใช่กฎ (4) closer ประกาศคำตอบที่ยังไม่พิสูจน์ → สะท้อนแทน
+- GATE: critic จัดอันดับ A ครอบคลุมสุด → **owner เลือก B** (อคติในการให้คุณค่ากับผลงานที่มองเห็นได้) + paste สอง = REWRITE SPEC 4 ข้อผูกพัน: (1) งานป้องกันสำเร็จแล้วไม่มีอะไรให้เห็น = แกนตั้งแต่ต้นจนจบ (2) เรื่องแก้ซ้ำ = ตัวอย่างประกอบ (3) "แก้เก่งอาจไม่ทำให้ปัญหาลดลง" = ชั้นรอง (4) ไม่เพิ่มวิธีป้องกัน — subtitle ขยับ encode แกน B, title เดิมใช้ได้
+- Publish keys 10 (K1 axis-B first-to-last / K2 demote แก้ซ้ำ / K3 KEEP "แก้ได้เร็วขึ้นเรื่อย ๆ..." verbatim / K4 ฟันธงต้นเหตุ soft / K5 closer สะท้อนไม่ประกาศ / K6 ครั้งที่สาม = experience-marker / K7 no-demonize แก้เก่ง / K8 no root-cause vocab / K9 subtitle encode B / K10 ชั้นรองครบ) — รายละเอียด + baselines ใน archive
+- **สถานะ: รอ publish version จาก owner**
+
 -->
 
 # เก่งแก้ปัญหา กับ ไม่ให้ปัญหาเกิด — เป็นสองงานที่หน้าตาใกล้กัน
