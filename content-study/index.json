@@ -4386,9 +4386,9 @@
     "link": "https://app.notion.com/p/40cdf8d88d8c81f8a837ebdb1aaa5983",
     "notion_page_id": "40cdf8d8-8d8c-81f8-a837-ebdb1aaa5983",
     "date": "2026-11-02",
-    "status": "rewritten (pair #80 r1 PRE-REWRITE — Benz r1 + double gate D-with-A + เกณฑ์ผูกงานปัจจุบัน; รอ publish)",
-    "words": 84,
+    "status": "published (pair #80 CLOSED 2026-11-02 — publish PATCHed same page)",
+    "words": 104,
     "form": "CURRENT FORM — type A no-case class-level เราล้วน (เรา 1, พร/คุณ/คับ 0, '?' 0, quote bold 1, dots 8)",
-    "note": "loop: กิ่ง Let-them-fight → v1 84 → Benz r1 6/6 quote HIT (อุปมาแข็งกว่าข้อสรุป: ไม่มีเกณฑ์เลือก / หัวเรื่อง-เนื้อหาห่าง / closer หยิบมาใช้ คลุม ใช้จริง-ทดลอง) → DOUBLE GATE: D-with-A-primary (ครั้งที่ 3 ติดกัน) + เกณฑ์ผูกงานปัจจุบัน → critic spine 'ไม่ต้องเก็บทุกอย่าง... แค่เลือกสิ่งที่ช่วยให้งานที่เราทำอยู่ดีขึ้นก็พอ' + ladder 6 ขั้น + KEEP 3 + ห้ามกลายเป็นบทแนะนำเลือกใช้ AI → analyze-only (item 305 class) → **รอ publish version จาก owner** — archive web-archive/20261102-let-them-fight-benz-dna-critique-r1-gates.md"
+    "note": "loop: กิ่ง → v1 84 → Benz r1 6/6 HIT → DOUBLE GATE (D-with-A ครั้งที่ 3 + เกณฑ์ผูกงาน) → analyze-only → publish 104wc (1.24×) — keys 9/9 (spine+เกณฑ์ที่ subtitle / closer = critic spine รูปย่อ / ladder 6 ขั้น / distinction / precision เกณฑ์>การหยิบ / guard / honesty / title คง v1) — DEAD 3=0 (ไม่มีสูตร/dispatch เดิม/ต่างจากเดิม) — owner-call ×2: คนดู-ทำใหม่อยู่เรื่อย ถอน verbatim ฟังก์ชันย้าย (item 175 NOTE) — title-body distance แก้เต็ม — brief-chain #57/#64/#80 จบครบทุกกิ่ง"
   }
 ]
