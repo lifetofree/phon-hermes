@@ -267,6 +267,7 @@ def main():
             "short": P["Shorten link"].get("url") if P["Shorten link"].get("url") else None,
             "paired": None,
             "notion_url": f"https://www.notion.so/{r['id'].replace('-', '')}",
+            "edited": r.get("last_edited_time", ""),
         }
         base = (row["slug"] or row["headline"] or row["id"]).lower()
         fname = re.sub(r'[\\/:*?"<>|\s]+', "-", base).strip("-")[:80] or row["id"][:8]
@@ -278,7 +279,13 @@ def main():
     from collections import Counter as _C
     _tag_ct = _C(t.lstrip("#") for r in rows_with_meta for t in r["hashtag"].split() if t.startswith("#"))
     HUB_TAGS = {t for t, n in _tag_ct.items() if n >= 3}
+    any_changed = False
     for row in rows_with_meta:
+        fpath = os.path.join(OUT, row["fname_stem"] + ".md")
+        if state.get(row["fname_stem"] + ".edited") == row["edited"] and os.path.exists(fpath):
+            skipped += 1
+            continue
+        any_changed = True
         try:
             md, mode = render(row, row["paired"], HUB_TAGS)
         except Exception as e:
@@ -286,31 +293,36 @@ def main():
             print(f"  render fail {row['headline'][:30]}: {e}")
             continue
         h = hashlib.sha256(md.encode()).hexdigest()
-        if state.get(row["fname_stem"]) == h:
-            skipped += 1
-            continue
-        open(os.path.join(OUT, row["fname_stem"] + ".md"), "w").write(md)
+        open(fpath, "w").write(md)
         state[row["fname_stem"]] = h
+        state[row["fname_stem"] + ".edited"] = row["edited"]
         written += 1
 
-    # hub files
-    hub_lines = render_hubs(rows_with_meta)
-    for f, L in hub_lines.items():
-        h = hashlib.sha256("\n".join(L).encode()).hexdigest()
-        key = "hub:" + os.path.relpath(f, OUT)
-        if state.get(key) == h:
-            skipped += 1
-            continue
-        open(f, "w").write("\n".join(L))
-        state[key] = h
-        written += 1
+    # hub files (rebuild เฉพาะเมื่อมีแถวเปลี่ยน หรือ hub หาย)
+    need_hubs = any_changed or not os.path.isdir(os.path.join(OUT, "laws")) or \
+                not os.path.isdir(os.path.join(OUT, "categories")) or \
+                not os.path.isdir(os.path.join(OUT, "tags"))
+    if need_hubs:
+        hub_lines = render_hubs(rows_with_meta)
+        for f, L in hub_lines.items():
+            h = hashlib.sha256("\n".join(L).encode()).hexdigest()
+            key = "hub:" + os.path.relpath(f, OUT)
+            if state.get(key) == h:
+                skipped += 1
+                continue
+            open(f, "w").write("\n".join(L))
+            state[key] = h
+            written += 1
+    else:
+        hub_lines = {}
+        skipped += 1
 
     # stale cleanup: ไฟล์ใน OUT ที่ไม่มีใน state (จากรอบนี้) และไม่ใช่ไฟล์ระบบ
-    keep = {row["fname_stem"] + ".md" for row in rows_with_meta}
-    keep |= {os.path.basename(f) for f in hub_lines}
+    live = {row["fname_stem"] + ".md" for row in rows_with_meta}
+    live |= {k[4:].split("/")[-1] for k in state if k.startswith("hub:")}
     removed = 0
     for fn in os.listdir(OUT):
-        if fn.endswith(".md") and fn not in keep and fn not in ("index.md",):
+        if fn.endswith(".md") and fn not in live and fn not in ("index.md", ".gitignore"):
             os.remove(os.path.join(OUT, fn))
             removed += 1
 
