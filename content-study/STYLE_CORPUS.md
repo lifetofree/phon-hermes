@@ -2442,3 +2442,13 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - **GATE: A** (จากการตรวจสอบตัวเองเพียงอย่างเดียว) — ทิศ C ("ไม่เห็น = หลักฐานว่าไม่มี") ที่ v1 ลอยอยู่ ต้องถอน/ลดเป็นคำถามเปิด; critic ยืนยันขอบเขต "บทนี้ยังไม่ไปถึงตรงนั้น" = ขอบเขตที่ดี แต่เตือน "อย่าให้การเว้นคำตอบกลายเป็นการสรุปเกินที่พิสูจน์ได้"
 - **สังเกต pattern:** นี่คือคลาสเดียวกับ lesson closer-precision (#80 K6) + universal-แคบลง (r1 ซ้ำ ๆ ของ corpus) — 2 บทติดกันที่ critic จับ "ประโยคคมแต่ความหมายลอย" เป็นจุดปิด
 - archive `web-archive/20261102-blind-spot-count-benz-dna-critique-r1.md` — draft + Notion body ไม่แตะ — Status → rewritten — **รอ publish version จาก owner**
+
+### 2026-11-02 pair #81 CLOSED — publish 97wc (1.17× v1) + keys 13/13 HIT + DEAD=0 + Notion → published — blind-spot-count
+
+- **loop วันเดียวครบ:** quote-brief → v1 83 → Benz r1 (7/7 HIT) → gate A → analyze-only → publish → CLOSED — บทเปิดตระกูล blind spot (แตะสั้นตามสั่ง — บทต่อจะมาแตะวิธีตรวจจับ/กิ่ง B)
+- **keys 7/7 HIT:** K1 ช่องทางอื่นครบ 3 คำรูปอาจ (Feedback/ผลลัพธ์/เหตุการณ์ — critic เขียน ใช้ครบ) + K2 นิเสธแคบลง ("ไม่มีข้อมูลอยู่ในมือมากพอจะนับ" / "ไม่ได้ยืนยันว่ามีน้อย") + K3 KEEP "มุมมองเดิมพลาดไป" ขยาย 3 บรรทัด (ไม่พบ ≠ ไม่มี / นึกไม่ออก ≠ มีน้อย) + K4 "โดยไม่ต้องจ่ายอะไร" ถอนทั้งประโยค → closer ใหม่สองขา = axis-A เป๊ะ + K5 ทิศ-C ถอน → เป็ดเพิ่มบรรทัด guard บวก "ไม่ควรใช้สิ่งที่ค้นพบแล้วมาเป็นหลักฐานว่าเหลือน้อย" + K6 กิ่ง B ไม่โผล่ + K7 โครงครบ
+- **structural move น่าจด:** ขอบเขตของ v1 ("บทนี้ยังไม่ไปถึงตรงนั้น" — ประกาศใน body) ถูกยกย้ายขึ้น H3 subtitle เป็นคำถาม ("การตรวจสอบตัวเองเพียงอย่างเดียวจะบอกได้อย่างไรว่าเรามีมันน้อยแค่ไหน") = ขอบเขตกลายเป็นคำถามเปิดบท — วิธีเช็คยังไม่มีในบท (คงคำสั่งบทเปิดตระกูล)
+- **TITLE owner เปลี่ยน:** "ไม่มีใครนับของตัวเองได้" (ฟันธงกว้าง = ทิศ B/C) → "เราอาจนับของตัวเองไม่ได้" (อาจ = รูป axis-A) — consistent กับ gate
+- DEAD = 0 (ไม่มีทาง/ไม่ต้องจ่าย/ปิดบัญชี) — artifact: "> " ว่างหลัง quote (ต่อเนื่อง) — archive verbatim / Notion ตัด
+- battery: 97wc (1.17× v1 — publish ขยายจากช่องทางอื่น + guard เป็ด ตาม direction critic), เรา 6 (measured) / พร-eye 2 = เพราะ-lookalike (FP) / '?' 0 / อาจ 6
+- archive `web-archive/20261102-blind-spot-count-publish.md` (byte-verbatim) — Notion same page **Status → published** read-back ครบ (closer ✓ dead 0 quote bold ✓)
