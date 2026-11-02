@@ -3,7 +3,7 @@ type: research
 topic: Four Thousand Weeks (Burkeman)
 kind: book
 used_by: [[pair-017]]
-book: "[[four-thousand-weeks]]"
+book: "[[four-thousand-weeks/book|four-thousand-weeks]]"
 ---
 
 # Four Thousand Weeks research (2026-09-13)

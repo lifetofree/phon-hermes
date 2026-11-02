@@ -1,6 +1,6 @@
 ---
 type: quotes
-book: "[[four-thousand-weeks]]"
+book: "[[four-thousand-weeks/book|four-thousand-weeks]]"
 rule: "quote ที่จะอ้างในโพสต์ต้องลงไฟล์นี้ก่อน พร้อมแหล่ง+ตำแหน่ง (กติกา quote-provenance)"
 ---
 

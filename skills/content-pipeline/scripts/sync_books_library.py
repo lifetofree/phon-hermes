@@ -195,7 +195,7 @@ def sync_chapter_notes(api, book_row):
         fn = os.path.join(np, f"ch-{num.zfill(2)}.md")
         md = ("---\n"
               f'type: chapter-notes\n'
-              f'book: "[[{slug}]]"\n'
+              f'book: "[[{slug}/book|{slug}]]"\n'
               f'chapter: "{ch["ch"]}"\n'
               f'title: "{ch["orig"]}"\n'
               f'status: "{ch["status"]}"\n'
