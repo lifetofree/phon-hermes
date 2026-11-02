@@ -155,4 +155,4 @@ Kleon บอกว่า: "When you share your taste and your influences, have t
 ==========
 ==========
 
-*Synced: 2026-11-02 19:49 +07 · [Notion](https://www.notion.so/30cdf8d88d8c80d29d51cf5512d7dd5c) · ✅ Published*
+*Synced: 2026-11-02 19:55 +07 · [Notion](https://www.notion.so/30cdf8d88d8c80d29d51cf5512d7dd5c) · ✅ Published*

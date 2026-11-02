@@ -38,4 +38,4 @@
 #Adduckivity #DuckOS #NeuroDivergent #BlindSpot #DecisionMaking #MentalModels #SystemThinking
 ===========
 
-*Synced: 2026-11-02 19:47 +07 · [Notion](https://www.notion.so/40cdf8d88d8c80b78470c6ee8a2ad31d) · ✅ Published*
+*Synced: 2026-11-02 19:53 +07 · [Notion](https://www.notion.so/40cdf8d88d8c80b78470c6ee8a2ad31d) · ✅ Published*

@@ -76,4 +76,4 @@ AI ช่วยคิดแทนเราได้บางส่วน แต�
 #Adduckivity #DuckOS #NeuroDivergent #SystemThinking #DecisionMaking #AI
 ===========
 
-*Synced: 2026-11-02 19:47 +07 · [Notion](https://www.notion.so/3fddf8d88d8c803da768f765057b3e8d) · ✅ Published*
+*Synced: 2026-11-02 19:53 +07 · [Notion](https://www.notion.so/3fddf8d88d8c803da768f765057b3e8d) · ✅ Published*

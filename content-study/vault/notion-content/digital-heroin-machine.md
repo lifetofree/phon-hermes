@@ -169,4 +169,4 @@ Silicon Valley ไม่ได้ขายเทคโนโลยี
 ==========
 ==========
 
-*Synced: 2026-11-02 19:50 +07 · [Notion](https://www.notion.so/308df8d88d8c80308462c406520251d3) · ✅ Published*
+*Synced: 2026-11-02 19:56 +07 · [Notion](https://www.notion.so/308df8d88d8c80308462c406520251d3) · ✅ Published*

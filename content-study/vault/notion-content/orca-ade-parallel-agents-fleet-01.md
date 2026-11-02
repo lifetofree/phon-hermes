@@ -87,4 +87,4 @@ Orca vs ทางเลือกอื่น
 .
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3dedf8d88d8c8030a7a8c73c13438a18) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3dedf8d88d8c8030a7a8c73c13438a18) · ✅ Published*

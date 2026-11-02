@@ -173,4 +173,4 @@ Headline: ⚠️ Hardware Alert: เลิกฝืน "Overclock" ได้แ�
 ==========
 ==========
 
-*Synced: 2026-11-02 19:50 +07 · [Notion](https://www.notion.so/303df8d88d8c80e7a2cbeef24a7dd920) · ✅ Published*
+*Synced: 2026-11-02 19:56 +07 · [Notion](https://www.notion.so/303df8d88d8c80e7a2cbeef24a7dd920) · ✅ Published*

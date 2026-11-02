@@ -361,4 +361,4 @@ Flexible enough to change with reality.
 #Adduckivity #DuckOS #NeuroDivergent #Routine #Default #DecisionMaking #SystemThinking
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3e4df8d88d8c8063aec3d8f3e9b4bfbd) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3e4df8d88d8c8063aec3d8f3e9b4bfbd) · ✅ Published*

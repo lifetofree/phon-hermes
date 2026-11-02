@@ -188,4 +188,4 @@ Marcus Aurelius สอนให้เราเข้าใจ "ธรรมช�
 ==========
 ==========
 
-*Synced: 2026-11-02 19:50 +07 · [Notion](https://www.notion.so/306df8d88d8c803b9f7ad05f1b9c4752) · ✅ Published*
+*Synced: 2026-11-02 19:56 +07 · [Notion](https://www.notion.so/306df8d88d8c803b9f7ad05f1b9c4752) · ✅ Published*

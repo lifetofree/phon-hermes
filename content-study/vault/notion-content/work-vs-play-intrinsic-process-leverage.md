@@ -42,4 +42,4 @@
 #Adduckivity #DuckOS #NeuroDivergent #Work #SystemThinking #UnfairAdvantage #AssetFirst #PlayOverWork
 ===========
 
-*Synced: 2026-11-02 19:47 +07 · [Notion](https://www.notion.so/406df8d88d8c80d69728c8330ec3f290) · ✅ Published*
+*Synced: 2026-11-02 19:53 +07 · [Notion](https://www.notion.so/406df8d88d8c80d69728c8330ec3f290) · ✅ Published*

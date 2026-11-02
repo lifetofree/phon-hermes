@@ -67,4 +67,4 @@
 #Adduckivity #DuckOS #NeuroDivergent #Work #Communication #SystemThinking #SignalOverNoise #RealityOverAssumption
 ===========
 
-*Synced: 2026-11-02 19:47 +07 · [Notion](https://www.notion.so/40adf8d88d8c8087816cd166856c950c) · ✅ Published*
+*Synced: 2026-11-02 19:53 +07 · [Notion](https://www.notion.so/40adf8d88d8c8087816cd166856c950c) · ✅ Published*

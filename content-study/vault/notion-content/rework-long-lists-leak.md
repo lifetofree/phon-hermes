@@ -56,4 +56,4 @@ System > List Length. Slice it, top it, close it — ปกป้อง PFC ข�
 #Adduckivity #DuckOS #NeuroDivergent #ZeigarnikEffect #ChoiceOverload #ToDoList #SystemThinking
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3dfdf8d88d8c802999bddef318357c9b) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3dfdf8d88d8c802999bddef318357c9b) · ✅ Published*

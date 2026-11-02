@@ -20,4 +20,4 @@
 .
 PS. ใครอยากลอง link อยู่ใน comment นะก้าบ
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3d3df8d88d8c80a4ac1ff6c11bc686d5) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3d3df8d88d8c80a4ac1ff6c11bc686d5) · ✅ Published*

@@ -286,4 +286,4 @@ Inspect ต่อ
 #Adduckivity #DuckOS #NeuroDivergent #SystemThinking #Behavior #Attention
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3e7df8d88d8c8016b9aac90749cbb0bb) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3e7df8d88d8c8016b9aac90749cbb0bb) · ✅ Published*

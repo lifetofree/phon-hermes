@@ -85,4 +85,4 @@ System > Perfect Plans. Ship the stage, not the year — ปกป้องร�
 #Adduckivity #DuckOS #NeuroDivergent #DailyDispatch #ShowYourWork #MicroShipping #SystemThinking
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3e0df8d88d8c80458568e7e6e00ab858) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3e0df8d88d8c80458568e7e6e00ab858) · ✅ Published*

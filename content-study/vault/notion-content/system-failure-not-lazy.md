@@ -9,4 +9,4 @@
 
 > สถานะ: **🟦 Ready** — ยังไม่ Published → เก็บเฉพาะ index (body อยู่ฝั่ง content-study loop / จะดึงเมื่อ Published)
 
-*Synced: 2026-11-02 19:49 +07 · [Notion](https://www.notion.so/35cdf8d88d8c80558e76fc82cee988c7) · 🟦 Ready*
+*Synced: 2026-11-02 19:55 +07 · [Notion](https://www.notion.so/35cdf8d88d8c80558e76fc82cee988c7) · 🟦 Ready*

@@ -107,4 +107,4 @@ Draft
 ==========
 ==========
 
-*Synced: 2026-11-02 19:49 +07 · [Notion](https://www.notion.so/324df8d88d8c80a4abf7ee4e2e94e255) · ✅ Published*
+*Synced: 2026-11-02 19:55 +07 · [Notion](https://www.notion.so/324df8d88d8c80a4abf7ee4e2e94e255) · ✅ Published*

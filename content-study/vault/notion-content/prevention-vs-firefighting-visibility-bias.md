@@ -7,4 +7,4 @@
 
 > สถานะ: **🟨 Drafting** — ยังไม่ Published → เก็บเฉพาะ index (body อยู่ฝั่ง content-study loop / จะดึงเมื่อ Published)
 
-*Synced: 2026-11-02 19:47 +07 · [Notion](https://www.notion.so/40cdf8d88d8c808192f8ce4f0bdc88c8) · 🟨 Drafting*
+*Synced: 2026-11-02 19:56 +07 · [Notion](https://www.notion.so/40cdf8d88d8c808192f8ce4f0bdc88c8) · 🟨 Drafting*

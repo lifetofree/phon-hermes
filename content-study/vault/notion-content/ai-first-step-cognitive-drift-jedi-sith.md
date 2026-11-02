@@ -89,4 +89,4 @@ AI ตอบได้ดีแค่ไหน
 ===========
 ===========
 
-*Synced: 2026-11-02 19:47 +07 · [Notion](https://www.notion.so/404df8d88d8c8047b946d50c3ff28ed9) · ✅ Published*
+*Synced: 2026-11-02 19:53 +07 · [Notion](https://www.notion.so/404df8d88d8c8047b946d50c3ff28ed9) · ✅ Published*

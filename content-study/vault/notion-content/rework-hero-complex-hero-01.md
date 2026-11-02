@@ -65,4 +65,4 @@ System > Ego. Re-estimate แล้วเลือก kill หรือ slice �
 #Adduckivity #DuckOS #NeuroDivergent #HeroComplex #Estimates #SunkCost #Rework #SystemThinking
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3dfdf8d88d8c8009907ff95dd0ace2f3) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3dfdf8d88d8c8009907ff95dd0ace2f3) · ✅ Published*

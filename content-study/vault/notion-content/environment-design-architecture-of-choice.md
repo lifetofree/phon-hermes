@@ -113,4 +113,4 @@ James Clear เคยกล่าวไว้ใน Atomic Habits ว่าส�
 ==========
 ==========
 
-*Synced: 2026-11-02 19:50 +07 · [Notion](https://www.notion.so/307df8d88d8c804bbf28e6a03f45408b) · ✅ Published*
+*Synced: 2026-11-02 19:56 +07 · [Notion](https://www.notion.so/307df8d88d8c804bbf28e6a03f45408b) · ✅ Published*

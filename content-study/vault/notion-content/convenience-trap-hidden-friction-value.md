@@ -140,4 +140,4 @@ Friction ทุกอย่างมีคุณค่าซ่อนอยู�
 #Adduckivity #DuckOS #NeuroDivergent #ConvenienceTrap
 ===========
 
-*Synced: 2026-11-02 19:47 +07 · [Notion](https://www.notion.so/3eedf8d88d8c80789973c50a2613eaba) · ✅ Published*
+*Synced: 2026-11-02 19:53 +07 · [Notion](https://www.notion.so/3eedf8d88d8c80789973c50a2613eaba) · ✅ Published*

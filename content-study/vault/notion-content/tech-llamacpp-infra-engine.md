@@ -450,4 +450,4 @@ vLLM — Serving platform (Python)
 Customization สูงในแนว serving · คนละโจทย์เรื่อง model management
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3e1df8d88d8c807cb65ccc0ddb57f040) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3e1df8d88d8c807cb65ccc0ddb57f040) · ✅ Published*

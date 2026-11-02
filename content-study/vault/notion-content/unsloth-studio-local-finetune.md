@@ -97,4 +97,4 @@ Unsloth Studio = "fine-tuning ที่เคยเป็น script กลาย
 #Adduckivity #DuckOS #Unsloth #FineTuning #LocalLLM #NoCode #QLoRA #MLX #OpenSource
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3d7df8d88d8c808bba7ce2203d44f18e) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3d7df8d88d8c808bba7ce2203d44f18e) · ✅ Published*

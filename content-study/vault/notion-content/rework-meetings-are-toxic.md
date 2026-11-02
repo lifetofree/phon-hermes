@@ -41,4 +41,4 @@ System > Meetings. 🦆⚡
 #Adduckivity #DuckOS #NeuroDivergent #MeetingsAreToxic #Rework #ContextSwitching #AsyncFirst #DeepWork
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3dedf8d88d8c80a6a3c5f24ffdf4ac61) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3dedf8d88d8c80a6a3c5f24ffdf4ac61) · ✅ Published*

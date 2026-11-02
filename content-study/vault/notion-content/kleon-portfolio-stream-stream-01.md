@@ -327,4 +327,4 @@ Ship the stream, not the snapshot.
 Resume vs Daily Dispatch — เทียบตรง ๆ
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3e2df8d88d8c806198eac22a5caee96a) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3e2df8d88d8c806198eac22a5caee96a) · ✅ Published*

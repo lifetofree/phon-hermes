@@ -153,4 +153,4 @@ Closing move: End with a short version of your lowest point → where you are no
 ==========
 ==========
 
-*Synced: 2026-11-02 19:49 +07 · [Notion](https://www.notion.so/34ddf8d88d8c80db8823fc98a3e24b2e) · ✅ Published*
+*Synced: 2026-11-02 19:55 +07 · [Notion](https://www.notion.so/34ddf8d88d8c80db8823fc98a3e24b2e) · ✅ Published*

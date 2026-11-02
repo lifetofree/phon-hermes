@@ -165,4 +165,4 @@ Hardware มีขีดจำกัด อย่ารัน Process ที่�
 ==========
 ==========
 
-*Synced: 2026-11-02 19:49 +07 · [Notion](https://www.notion.so/337df8d88d8c80289571c000b077d6ad) · ✅ Published*
+*Synced: 2026-11-02 19:55 +07 · [Notion](https://www.notion.so/337df8d88d8c80289571c000b077d6ad) · ✅ Published*

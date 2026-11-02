@@ -118,4 +118,4 @@ Bionic = "agent ที่รันบน model ของเรา" — coding + 
 #Adduckivity #DuckOS #LMStudio #Bionic #LocalLLM #AIAgent #PrivacyFirst #CodingAgent
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3dedf8d88d8c8012873ee6cc80b995a5) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3dedf8d88d8c8012873ee6cc80b995a5) · ✅ Published*

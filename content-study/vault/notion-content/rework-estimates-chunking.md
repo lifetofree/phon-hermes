@@ -118,4 +118,4 @@ Nature Neuroscience (Arnsten) ยืนยัน: acute uncontrollable stress �
 #Adduckivity #DuckOS #NeuroDivergent #PlanningFallacy #Chunking #Estimation #SystemThinking
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3dfdf8d88d8c8001b1e7f883c9bfe255) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3dfdf8d88d8c8001b1e7f883c9bfe255) · ✅ Published*

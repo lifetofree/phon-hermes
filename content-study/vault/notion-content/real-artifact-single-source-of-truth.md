@@ -71,4 +71,4 @@ System > Words. ชี้ของจริง แล้วรันระบบ
 .
 #Adduckivity #DuckOS #NeuroDivergent #Communication #TechnicalDebt #SingleSourceOfTruth #Agile #GetReal
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3dadf8d88d8c804f8d56d0fe934bfede) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3dadf8d88d8c804f8d56d0fe934bfede) · ✅ Published*

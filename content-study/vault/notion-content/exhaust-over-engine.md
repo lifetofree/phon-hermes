@@ -303,4 +303,4 @@ Content ก็ไม่ควรเป็นเชื้อเพลิงขอ
 #Adduckivity #DuckOS #NeuroDivergent #SturgeonsLaw #CompiledAsset #DailyDispatch #ShipThe90 #SystemThinking
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3e2df8d88d8c8079bcc1f2a58b695eba) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3e2df8d88d8c8079bcc1f2a58b695eba) · ✅ Published*

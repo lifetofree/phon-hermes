@@ -349,4 +349,4 @@ Idea ที่อยู่ในหัวนานเกินไปโดยไ
 #Adduckivity #DuckOS #NeuroDivergent #Writing #Externalize #InspectableArtifact #SystemThinking
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3e4df8d88d8c80d7a7fff0ecffedb817) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3e4df8d88d8c80d7a7fff0ecffedb817) · ✅ Published*

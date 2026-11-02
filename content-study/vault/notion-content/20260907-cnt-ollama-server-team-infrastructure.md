@@ -84,4 +84,4 @@ Ollama ตัวเดียว เล่นได้ทั้ง 2 บท — �
 #Adduckivity #DuckOS #NeuroDivergent #Ollama #LocalLLM #SelfHosted #AIDev #MiniDatacenter
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3d4df8d88d8c80428841eef3abb9d536) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3d4df8d88d8c80428841eef3abb9d536) · ✅ Published*

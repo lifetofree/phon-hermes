@@ -108,4 +108,4 @@ System > Emotion. เลิกสู้กับอารมณ์ แล้ว�
 ==========
 ==========
 
-*Synced: 2026-11-02 19:49 +07 · [Notion](https://www.notion.so/357df8d88d8c80669446eef13c2f454c) · ✅ Published*
+*Synced: 2026-11-02 19:55 +07 · [Notion](https://www.notion.so/357df8d88d8c80669446eef13c2f454c) · ✅ Published*

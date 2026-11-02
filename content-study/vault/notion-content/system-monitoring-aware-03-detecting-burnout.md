@@ -109,4 +109,4 @@ System > Emotion. ติดตั้งเซนเซอร์ของคุ�
 ==========
 ==========
 
-*Synced: 2026-11-02 19:49 +07 · [Notion](https://www.notion.so/358df8d88d8c80de86b7c6b5a76aca40) · ✅ Published*
+*Synced: 2026-11-02 19:55 +07 · [Notion](https://www.notion.so/358df8d88d8c80de86b7c6b5a76aca40) · ✅ Published*

@@ -113,4 +113,4 @@ Log เก่าหนึ่งบรรทัด
 #Adduckivity #DuckOS #NeuroDivergent #SystemThinking #Routine #Evidence #Observation
 ===========
 
-*Synced: 2026-11-02 19:47 +07 · [Notion](https://www.notion.so/3f1df8d88d8c80f0b734e721da2a1abf) · ✅ Published*
+*Synced: 2026-11-02 19:53 +07 · [Notion](https://www.notion.so/3f1df8d88d8c80f0b734e721da2a1abf) · ✅ Published*

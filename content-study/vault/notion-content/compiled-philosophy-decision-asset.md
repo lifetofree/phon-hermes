@@ -281,4 +281,4 @@ Redesign จึงไม่ใช่การหนีงานยาก
 #Adduckivity #DuckOS #NeuroDivergent #PersonalPhilosophy #DecisionMaking #SystemThinking
 ===========
 
-*Synced: 2026-11-02 19:47 +07 · [Notion](https://www.notion.so/3fddf8d88d8c80df9b8fde26b76be4bf) · ✅ Published*
+*Synced: 2026-11-02 19:53 +07 · [Notion](https://www.notion.so/3fddf8d88d8c80df9b8fde26b76be4bf) · ✅ Published*

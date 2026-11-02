@@ -67,4 +67,4 @@ User ≠ Machine.
 #DuckOS #Adduckivity #NeuroDivergent #UserNotMachine #SystemThinking #SurvivalGuide #Burnout
 ===========
 
-*Synced: 2026-11-02 19:47 +07 · [Notion](https://www.notion.so/3f8df8d88d8c8026abdef74c2a3771c0) · ✅ Published*
+*Synced: 2026-11-02 19:53 +07 · [Notion](https://www.notion.so/3f8df8d88d8c8026abdef74c2a3771c0) · ✅ Published*

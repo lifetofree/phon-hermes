@@ -58,4 +58,4 @@ System > Motivation. Ship หนึ่ง node แล้วให้โมเม
 #Adduckivity #DuckOS #NeuroDivergent #QuickWins #Momentum #DopamineBaseline #DeepWork #Rework
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3dedf8d88d8c80be8d93d2b2ded35a8e) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3dedf8d88d8c80be8d93d2b2ded35a8e) · ✅ Published*

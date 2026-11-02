@@ -365,4 +365,4 @@ Flow
 #Adduckivity #DuckOS #NeuroDivergent #SystemThinking #TimeManagement #IntentionalNeglect
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3e9df8d88d8c801fb776e54c4f782453) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3e9df8d88d8c801fb776e54c4f782453) · ✅ Published*

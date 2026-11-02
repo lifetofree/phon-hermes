@@ -55,4 +55,4 @@ System > Sunk Cost. Kill the process แล้วคืน RAM ให้ระ�
 #Adduckivity #DuckOS #NeuroDivergent #SunkCost #Rework #DeepWork #SystemThinking
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3dcdf8d88d8c80c19918f5f69453ecb3) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3dcdf8d88d8c80c19918f5f69453ecb3) · ✅ Published*

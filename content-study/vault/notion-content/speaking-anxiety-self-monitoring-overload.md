@@ -53,4 +53,4 @@
 #Adduckivity #DuckOS #NeuroDivergent #Work #Communication #SystemThinking #CognitiveLoad #UserNotMachine
 ===========
 
-*Synced: 2026-11-02 19:47 +07 · [Notion](https://www.notion.so/408df8d88d8c8093aa19d73e698bea04) · ✅ Published*
+*Synced: 2026-11-02 19:53 +07 · [Notion](https://www.notion.so/408df8d88d8c8093aa19d73e698bea04) · ✅ Published*

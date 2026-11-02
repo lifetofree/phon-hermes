@@ -171,4 +171,4 @@ Duck OS จึงทำหน้าที่เป็นเหมือน "น�
 ==========
 ==========
 
-*Synced: 2026-11-02 19:50 +07 · [Notion](https://www.notion.so/303df8d88d8c80ec8301c3d90c7622e0) · ✅ Published*
+*Synced: 2026-11-02 19:56 +07 · [Notion](https://www.notion.so/303df8d88d8c80ec8301c3d90c7622e0) · ✅ Published*

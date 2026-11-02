@@ -153,4 +153,4 @@ Dr. Anna Lembke บอกว่า โดพามีน (สารแห่ง�
 ==========
 ==========
 
-*Synced: 2026-11-02 19:49 +07 · [Notion](https://www.notion.so/30adf8d88d8c8090925efd1190528b7a) · ✅ Published*
+*Synced: 2026-11-02 19:55 +07 · [Notion](https://www.notion.so/30adf8d88d8c8090925efd1190528b7a) · ✅ Published*

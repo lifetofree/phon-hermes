@@ -248,4 +248,4 @@ Secretary Problem แบบคลาสสิกมีเงื่อนไข�
 #Adduckivity #DuckOS #NeuroDivergent #OptimalStopping #DecisionMaking #SystemThinking
 ===========
 
-*Synced: 2026-11-02 19:47 +07 · [Notion](https://www.notion.so/3fcdf8d88d8c80ccadedeaeea57fba3f) · ✅ Published*
+*Synced: 2026-11-02 19:53 +07 · [Notion](https://www.notion.so/3fcdf8d88d8c80ccadedeaeea57fba3f) · ✅ Published*

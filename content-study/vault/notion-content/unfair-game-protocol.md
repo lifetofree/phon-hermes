@@ -174,4 +174,4 @@ combine skill → generalist
 find your place
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3d6df8d88d8c80d3b3b3fbf1dc06c358) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3d6df8d88d8c80d3b3b3fbf1dc06c358) · ✅ Published*

@@ -35,4 +35,4 @@
 ===========
 คำถามไม่ใช่แค่ว่าใครเทรนใคร แต่คือเราเห็นและเปลี่ยนทิศทางของวงจรที่กำลังเปลี่ยนพฤติกรรมเราได้แค่ไหน
 
-*Synced: 2026-11-02 19:47 +07 · [Notion](https://www.notion.so/3ffdf8d88d8c80f9a232d8df6b71036f) · ✅ Published*
+*Synced: 2026-11-02 19:53 +07 · [Notion](https://www.notion.so/3ffdf8d88d8c80f9a232d8df6b71036f) · ✅ Published*

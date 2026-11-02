@@ -105,4 +105,4 @@ User = Admin ของระบบตัวเอง — ตลอด — ไม
 #Adduckivity #DuckOS #NeuroDivergent #Essentialism #Choice #AdminAccess #Ownership
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3d7df8d88d8c8052a757ea36b83783c6) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3d7df8d88d8c8052a757ea36b83783c6) · ✅ Published*

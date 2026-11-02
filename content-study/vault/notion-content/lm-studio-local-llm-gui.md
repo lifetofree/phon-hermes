@@ -99,4 +99,4 @@ exchange ที่ต้องแลก: app proprietary, Intel Mac ตัด, L
 #Adduckivity #DuckOS #LMStudio #LocalLLM #Bionic #MCP #RAG #PrivacyFirst #AIDev
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3dbdf8d88d8c80438efdda83cd83fcc3) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3dbdf8d88d8c80438efdda83cd83fcc3) · ✅ Published*

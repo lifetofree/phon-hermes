@@ -109,4 +109,4 @@ tailscale serve คือ reverse proxy ที่รันอยู่ใน dae
 #Adduckivity #DuckOS #NeuroDivergent #Tailscale #LocalLLM #HomeLab #SystemsFirst #DevOps
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3d1df8d88d8c802cb65df318450ba851) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3d1df8d88d8c802cb65df318450ba851) · ✅ Published*

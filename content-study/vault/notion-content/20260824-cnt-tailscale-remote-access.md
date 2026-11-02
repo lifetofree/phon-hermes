@@ -221,4 +221,4 @@ Carousel (8 สไลด์):
 ==========
 ==========
 
-*Synced: 2026-11-02 19:49 +07 · [Notion](https://www.notion.so/3c6df8d88d8c80459033cbbee5be8027) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3c6df8d88d8c80459033cbbee5be8027) · ✅ Published*

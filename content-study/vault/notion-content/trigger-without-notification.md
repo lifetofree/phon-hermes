@@ -248,4 +248,4 @@ State?
 #Adduckivity #DuckOS #NeuroDivergent #Routine #Attention #Trigger #SystemThinking
 ===========
 
-*Synced: 2026-11-02 19:48 +07 · [Notion](https://www.notion.so/3e7df8d88d8c807bad3ae03537c79d6c) · ✅ Published*
+*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3e7df8d88d8c807bad3ae03537c79d6c) · ✅ Published*
