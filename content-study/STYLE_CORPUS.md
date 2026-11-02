@@ -2433,3 +2433,12 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - **จุดที่สองของ critique แก้เต็ม:** claim หัวเรื่อง "ไม่ได้มีป้ายบอกว่าเหมาะกับใคร" ได้รับการขยายใน body ครบ (องก์ป้าย + เกณฑ์ผูกงาน) — title-body distance = 0
 - battery: 104wc (1.24× v1 — publish เติม ladder 5-6 + คำถามกลับเข้างานผู้อ่าน 3 ตัว), เรา 22 / พร-eye 3 = เพราะ-lookalike (FP) / คุณ 0 / '?' 4 (มาตรฐานเว็บ) / อาจ 9 (honesty สูงตาม critic §3)
 - archive `web-archive/20261102-let-them-fight-publish.md` (byte-verbatim) — Notion same page **Status → published** read-back ครบ (closer ✓ dead 0 quote bold ✓)
+
+### 2026-11-02 pair #81 r1 (PRE-REWRITE, analyze-only) — "คนที่ blind spot น้อยชนะ" (blind-spot-count) — Benz r1 + gate A
+
+- **quote-verify 7/7 HIT** 0 drift; verdict: แกนมีแรง แต่ v1 ข้ามเร็ว — "นับเองไม่ได้" (จริงในแง่มุมตัวเอง ณ เวลานั้น) ถูกขยายเป็น "ไม่มีทางมาจากตัวเราเอง" (นิเสธกว้างเกิน — critic: blind spot อาจถูกเปิดเผยผ่าน feedback/ผลลัพธ์/เหตุการณ์)
+- **critic ยกประโยค v1 เป็น KEEP แข็งสุด:** "การไล่ด้วยสายตาชุดเดิม ไม่เคยเจอสิ่งที่สายตาชุดเดิมพลาด" — "จับกลไกตรงมาก"
+- จุดแก้ 3: (1) นิเสธแคบลง (2) คำ "น้อย" ยังไม่ผ่านการตรวจว่าจำนวน = ตัวชี้วัดที่เหมาะสม (คนมีหลายชิ้นกระทบน้อย vs ชิ้นเดียวกระทบใหญ่ — **ไม่ใส่ตาม critic เอง ถ้าไม่ใช่แกน** → กิ่ง park B) (3) closer "โดยไม่ต้องจ่ายอะไร" คมแต่อธิบายไม่ได้ว่าคมตรงไหน — ต้องเลือกความหมายหรือแทน
+- **GATE: A** (จากการตรวจสอบตัวเองเพียงอย่างเดียว) — ทิศ C ("ไม่เห็น = หลักฐานว่าไม่มี") ที่ v1 ลอยอยู่ ต้องถอน/ลดเป็นคำถามเปิด; critic ยืนยันขอบเขต "บทนี้ยังไม่ไปถึงตรงนั้น" = ขอบเขตที่ดี แต่เตือน "อย่าให้การเว้นคำตอบกลายเป็นการสรุปเกินที่พิสูจน์ได้"
+- **สังเกต pattern:** นี่คือคลาสเดียวกับ lesson closer-precision (#80 K6) + universal-แคบลง (r1 ซ้ำ ๆ ของ corpus) — 2 บทติดกันที่ critic จับ "ประโยคคมแต่ความหมายลอย" เป็นจุดปิด
+- archive `web-archive/20261102-blind-spot-count-benz-dna-critique-r1.md` — draft + Notion body ไม่แตะ — Status → rewritten — **รอ publish version จาก owner**

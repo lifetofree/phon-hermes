@@ -14,7 +14,14 @@ SIBLING GUARDS: #46 see-cant-hold (ถือ/งานค้าง/เต็ม 
 FAMILY: ยังไม่สร้าง families/ node — รอคู่ที่ 2 มาก่อน (เกณฑ์ ≥2 ชิ้น); จดใน header นี้พอ
 CUT LIST (zero-count): พร, คุณ, คับ, ผม, เพราะ, พร้อม, วินัย, feedback, ระบบ, เครื่องมือ, เสมอ, ทุกครั้ง, ความมั่นใจ, Dunning, cognitive, อคติ, จิตวิทยา, สมอง, ธุรกิจ (expect-keep 1 เฉพาะในประโยค reported), ถือ, งานค้าง
 FORMAT: line-per-sentence + จุดขั้น + H2 #สรุปแบบวิศวกรเป็ด + quote bold 1 + hashtag tail; '?' 0 (house draft convention)
-Notion: Content Drafts DB `3ccdf8d8-8d8c-81ae-bdf8-cb9eb1821520` Status draft, Platform general
+Notion: Content Drafts DB `3ccdf8d8-8d8c-81ae-bdf8-cb9eb1821520` Status draft→rewritten, Platform general
+
+R1 (2026-11-02): Benz-DNA critique + GATE A — PRE-REWRITE analyze-only, ไฟล์นี้ + Notion body ไม่แตะ (PATCH Status → rewritten)
+- Archive: `web-archive/20261102-blind-spot-count-benz-dna-critique-r1.md` — quote-verify 7/7 HIT 0 drift
+- Verdict: แกนมีแรง แต่ "นับเองไม่ได้" ถูกขยายเป็น "ไม่มีทางมาจากตัวเราเอง" = นิเสธกว้างเกิน; critic ยก "สายตาชุดเดิม" เป็นประโยคแข็งสุด (KEEP)
+- GATE: **A** — แกน = "รู้จำนวน blind spot ของตัวเองไม่ได้จากการตรวจสอบตัวเองเพียงอย่างเดียว" (ผ่านช่องทางอื่นอาจเห็นได้ — feedback/ผลลัพธ์/เหตุการณ์)
+- Publish keys 7: K1 axis-A แคบลง + ช่องทางอื่น ≥2 คำรูปอาจ / K2 DEAD "ไม่มีทางมาจากตัวเราเอง"=0 / K3 KEEP "สายตาชุดเดิม" verbatim / K4 "โดยไม่ต้องจ่ายอะไร" ต้องชัดหรือแทน / K5 ทิศ-C "ไม่เคยปิดบัญชี" ถอนหรือลดเป็นคำถามเปิด / K6 กิ่ง B (น้อย≠เสี่ยงน้อย) park / K7 โครง 5 ชั้น + ขอบเขต "บทนี้ยังไม่ไปถึงตรงนั้น" คงอยู่
+- **สถานะ: รอ publish version จาก owner**
 -->
 
 # คนที่ blind spot น้อยชนะ — แต่ไม่มีใครนับของตัวเองได้
