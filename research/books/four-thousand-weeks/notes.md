@@ -1,6 +1,6 @@
 ---
 type: notes
-book: "[[four-thousand-weeks]]"
+book: "[[four-thousand-weeks/book|four-thousand-weeks]]"
 ---
 
 # Reading notes — Four Thousand Weeks
