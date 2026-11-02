@@ -196,7 +196,7 @@ def main():
     for key, g in groups.items():
         path = os.path.join(PAIRS, f"pair-{key}.md")
         fin = g["final"]
-        h = ehash(fin) + "-" + hashlib.sha1((",".join(sorted(g["slugs"])) + "|" + ",".join(sorted(RESEARCH_LINKS.get(key, [])))).encode()).hexdigest()[:6]
+        h = ehash(fin) + "-" + hashlib.sha1((",".join(sorted(g["slugs"])) + "|" + ",".join(sorted(RESEARCH_LINKS.get(key, []))) + "|" + ",".join(sorted(BOOKS_LINKS.get(key, [])))).encode()).hexdigest()[:6]
         L = ["---", f"pair: {key}", f"hash: {h}", f"date: {g['date']}", "---", "",
              f"# {fin.get('title', '(no title)')}", ""]
         L.append(f"- **status:** {fin.get('status', '')}")
