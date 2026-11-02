@@ -1,0 +1,14 @@
+---
+pair: 013
+hash: e32394c625-97b79a
+date: 20260907
+---
+
+# Local LLM บน Server — ทีมเล็กมี AI Infrastructure ของตัวเองได้
+
+- **status:** 
+- **date:** 20260907
+- **words:** 1498
+- **Notion:** https://wp.adduckivity.com/20260907-cnt-ollama-server-team-infrastructure/
+- **ไฟล์โพสต์:**
+  - [20260907-cnt-ollama-server-team-infrastructure](../web-archive/20260907-cnt-ollama-server-team-infrastructure.md)

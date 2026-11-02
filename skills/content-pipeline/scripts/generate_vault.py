@@ -1,0 +1,166 @@
+#!/usr/bin/env python3
+"""Generate the Obsidian-style vault (markdown + wiki-links) from content-study/index.json.
+
+Creates/refreshes:
+  vault/pairs/pair-0NN.md          (1 file per pair — grouped by slug; multiple slugs of
+                                    the same pair land in ONE file, e.g. v1 + publish)
+  vault/index.md                   (MOC: recent pairs, open pairs, families)
+
+Known collision fix: two 2026-10-06 posts were both labelled "pair #40" in the corpus
+history — embrace-the-limit is emitted as pair-040b, daily-repetition keeps 040.
+
+Merge-safe: existing pair files are only rewritten when their content hash changes
+(hash in the file header). branches/ and families/ files are NEVER touched.
+
+Usage: python3 skills/content-pipeline/scripts/generate_vault.py
+"""
+import hashlib
+import json
+import os
+import re
+
+CS = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(
+    os.path.dirname(os.path.abspath(__file__))))), "content-study")
+VAULT = os.path.join(CS, "vault")
+PAIRS = os.path.join(VAULT, "pairs")
+
+COLLISION = {"20261006-cnt-embrace-the-limit": "040b"}
+FAMILIES = [
+    ("family-ai-brief-chain", "ยุค AI/Agentic: ถูกเทรน vs ผู้เทรน → เจได→ซิธ → Let them fight (#57 #64 #80)"),
+    ("family-locked-system", "ระบบที่ล็อกไว้: commitment device → วันที่ระบบพัง (#22 #79 + กิ่ง B/C stock)"),
+    ("family-explore-exploit", "Explore vs Exploit (#55 #56)"),
+    ("family-signal-triad", "Signal triad: Attention / Explore / Exploit (#54 #55 #56)"),
+]
+
+
+def ehash(e):
+    return hashlib.sha1(json.dumps(e, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:10]
+
+
+def main():
+    idx = json.load(open(os.path.join(CS, "index.json")))
+    os.makedirs(PAIRS, exist_ok=True)
+
+    # 1) collect entries per -cnt- slug
+    by_slug = {}
+    for e in idx:
+        s = e.get("slug") or ""
+        if "-cnt-" in s:
+            by_slug.setdefault(s, []).append(e)
+
+    # 2) pair number per slug (majority vote; explicit collision fix)
+    rows = {}
+    for slug, entries in by_slug.items():
+        m = re.match(r"(\d{8})-cnt-(.+)", slug)
+        if not m:
+            continue
+        date = m.group(1)
+        entries.sort(key=lambda e: e.get("date") or "")
+        texts = [json.dumps(e, ensure_ascii=False) for e in entries]
+        nums = [int(x.group(1)) for t in texts for x in re.finditer(r"pair #(\d+)", t)]
+        n = max(set(nums), key=nums.count) if nums else None
+        if slug in COLLISION:
+            n = None
+        rows[slug] = {"n": n, "date": date, "entries": entries}
+
+    # 3) fallback numbers for unnumbered slugs
+    used = {r["n"] for r in rows.values() if r["n"]}
+    fallback = 0
+    for slug, r in rows.items():
+        if r["n"] is None:
+            if slug in COLLISION:
+                r["key"] = COLLISION[slug]
+                continue
+            fallback += 1
+            while fallback in used:
+                fallback += 1
+            r["n"] = fallback
+            used.add(fallback)
+
+    # 4) group multiple slugs of the same pair into one file
+    groups = {}
+    for slug, r in rows.items():
+        key = r.get("key") or f"{r['n']:03d}"
+        g = groups.setdefault(key, {"n": r["n"], "date": r["date"], "slugs": []})
+        g["slugs"].append(slug)
+        g["date"] = min(g["date"], r["date"])
+        pub = [e for e in r["entries"] if "published" in (e.get("status") or "")]
+        fin = (pub or r["entries"])[-1]
+        if "published" in (fin.get("status") or "") or g.get("final") is None:
+            g["final"] = fin
+
+    # 5) write pair files
+    def slug_rel(slug):
+        for sub in ("posts", "web-archive"):
+            p = os.path.join(CS, sub, slug + ".md")
+            if os.path.exists(p):
+                return os.path.join("..", sub, slug + ".md")
+        return None
+
+    created = updated = 0
+    for key, g in groups.items():
+        path = os.path.join(PAIRS, f"pair-{key}.md")
+        fin = g["final"]
+        h = ehash(fin) + "-" + hashlib.sha1(",".join(sorted(g["slugs"])).encode()).hexdigest()[:6]
+        L = ["---", f"pair: {key}", f"hash: {h}", f"date: {g['date']}", "---", "",
+             f"# {fin.get('title', '(no title)')}", ""]
+        L.append(f"- **status:** {fin.get('status', '')}")
+        L.append(f"- **date:** {g['date']}")
+        if fin.get("words"):
+            L.append(f"- **words:** {fin['words']}")
+        if fin.get("form"):
+            L.append(f"- **form:** {fin['form']}")
+        if fin.get("link"):
+            L.append(f"- **Notion:** {fin['link']}")
+        L.append("- **ไฟล์โพสต์:**")
+        for s in sorted(g["slugs"]):
+            rel = slug_rel(s)
+            L.append(f"  - [{s}]({rel})" if rel else f"  - {s} (ไม่พบไฟล์)")
+        if fin.get("note"):
+            L.append(f"\n## บันทึก\n\n{fin['note']}")
+        body = "\n".join(L) + "\n"
+        if os.path.exists(path):
+            mm = re.search(r"^hash: (\S+)$", open(path).read(), re.M)
+            if mm and mm.group(1) == h:
+                continue
+            updated += 1
+        else:
+            created += 1
+        open(path, "w").write(body)
+
+    # 5b) remove stale pair files (old flat numbering / retired keys)
+    valid = {f"pair-{k}.md" for k in groups}
+    for f in os.listdir(PAIRS):
+        if f.endswith(".md") and f not in valid:
+            os.remove(os.path.join(PAIRS, f))
+
+    # 6) MOC
+    open_pairs = [(k, g) for k, g in groups.items() if "published" not in (g["final"].get("status") or "")]
+    closed_pairs = [(k, g) for k, g in groups.items() if "published" in (g["final"].get("status") or "")]
+    rec = sorted(groups.items(), key=lambda kv: kv[1]["date"], reverse=True)[:12]
+    M = ["---", "type: moc", "---", "", "# Content Study — สารบัญกลาง", "",
+         f"- คู่ทั้งหมด: **{len(groups)}** | published: **{len(closed_pairs)}** | ยังเปิด: **{len(open_pairs)}**",
+         "- กติกา: [[README]]", "", "## คู่ล่าสุด", ""]
+    for k, g in rec:
+        M.append(f"- [[pair-{k}]] — {g['date']} · {(g['final'].get('status') or '')[:50]}")
+    M += ["", "## คู่ที่ยังเปิด", ""]
+    for k, g in sorted(open_pairs, key=lambda kv: kv[1]["date"], reverse=True):
+        M.append(f"- [[pair-{k}]] — {g['date']} · {(g['final'].get('status') or '')[:50]}")
+    M += ["", "## กิ่งที่ยังเปิด", ""]
+    brdir = os.path.join(VAULT, "branches")
+    if os.path.isdir(brdir):
+        for f in sorted(os.listdir(brdir)):
+            if f.endswith(".md"):
+                txt = open(os.path.join(brdir, f)).read()
+                if re.search(r"^status: (open|stock)$", txt, re.M):
+                    M.append(f"- [[{f[:-3]}]]")
+    M += ["", "## สายเรื่อง (families)", ""]
+    for name, desc in FAMILIES:
+        M.append(f"- [[{name}]] — {desc}")
+    M.append("")
+    open(os.path.join(VAULT, "index.md"), "w").write("\n".join(M) + "\n")
+    print(f"pairs: {created} created, {updated} updated, {len(groups)} total; index.md refreshed")
+
+
+if __name__ == "__main__":
+    main()
