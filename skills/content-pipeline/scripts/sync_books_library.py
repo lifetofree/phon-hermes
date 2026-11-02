@@ -50,6 +50,7 @@ def prop(p):
 
 
 CH_CACHE = os.path.join(os.path.dirname(OUT), ".chapters-cache.json")
+BOOKS_DIR = os.path.join(os.path.dirname(os.path.dirname(OUT)), "research", "books")
 
 
 def clean_chapter(t):
@@ -133,6 +134,84 @@ def fetch_chapters(api, page_id, edited):
     return chapters
 
 
+def body_md(api, page_id):
+    """body ของหน้า row (เฉพาะตาราง Chapter List เท่านั้น — body อื่นของหน้าเล่ม = กระดาษทด owner ห้ามแตะ)"""
+    parts, cur = [], None
+    while True:
+        d = api("GET", f"/blocks/{page_id}/children?page_size=100" + (f"&start_cursor={cur}" if cur else ""))
+        for b in d.get("results", []):
+            t = b["type"]
+            if t == "image":
+                # external URL คงที่ เก็บได้ / Notion-hosted file URL หมดอายุ+เปลี่ยนทุก fetch → ทำลาย idempotency ใช้ marker แทน
+                u = (b["image"].get("external", {}) or {}).get("url", "")
+                parts.append(f"![image]({u})" if u else "> [รูปประกอบ — ดูใน Notion]")
+                continue
+            rt = b[t].get("rich_text") if isinstance(b[t], dict) else None
+            txt = "".join(x["plain_text"] for x in rt).strip() if rt else ""
+            if not txt:
+                continue
+            if t == "heading_3": parts.append("### " + txt)
+            elif t == "heading_2": parts.append("## " + txt)
+            elif t == "quote": parts.append("> " + txt)
+            elif t == "bulleted_list_item": parts.append("- " + txt)
+            elif t == "numbered_list_item": parts.append("1. " + txt)
+            elif t == "to_do": parts.append("- [ ] " + txt)
+            else: parts.append(txt)
+        if not d.get("has_more"):
+            break
+        cur = d.get("next_cursor")
+    return parts
+
+
+def sync_chapter_notes(api, book_row):
+    """สำหรับเล่มที่มีโฟลเดอร์ (graduate) — ดึง body ของ row ที่ INSTALLED → notes/ch-NN.md (merge-safe ด้วย row edited)"""
+    title = book_row["title"]
+    slug = slugify(title)
+    bookdir = os.path.join(BOOKS_DIR, slug)
+    if not os.path.isdir(bookdir):
+        return None  # ยังไม่ graduate — ข้าม
+    np = os.path.join(bookdir, "notes")
+    os.makedirs(np, exist_ok=True)
+    state_path = os.path.join(bookdir, ".notes-state.json")
+    st = {}
+    if os.path.exists(state_path):
+        try:
+            st = json.load(open(state_path))
+        except Exception:
+            st = {}
+    did = 0
+    for ch in book_row.get("chapters", []):
+        if not (isinstance(ch, dict) and ch.get("status") == "✅ INSTALLED" and ch.get("id")):
+            continue
+        key = ch["id"]
+        if st.get(key) == ch.get("edited"):
+            continue  # ไม่เปลี่ยน — ข้าม
+        try:
+            parts = body_md(api, ch["id"])
+        except Exception as e:
+            print(f"  notes fail {title[:24]} {ch['ch']}: {e}")
+            continue
+        num = re.sub(r"\D", "", ch["ch"]) or "0"
+        fn = os.path.join(np, f"ch-{num.zfill(2)}.md")
+        md = ("---\n"
+              f'type: chapter-notes\n'
+              f'book: "[[{slug}]]"\n'
+              f'chapter: "{ch["ch"]}"\n'
+              f'title: "{ch["orig"]}"\n'
+              f'status: "{ch["status"]}"\n'
+              f'notion_row: https://www.notion.so/{ch["id"].replace("-", "")}\n'
+              f'synced: {datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d")}\n'
+              "---\n\n"
+              f"# {ch['ch']} — {ch['orig']}\n\n"
+              f"> Core: {ch['core']}\n\n" + "\n".join(parts) + "\n")
+        open(fn, "w").write(md)
+        st[key] = ch.get("edited")
+        did += 1
+    if did:
+        json.dump(st, open(state_path, "w"), ensure_ascii=False)
+    return did
+
+
 def slugify(s):
     s = re.sub(r"[^\w\s-]", "", s.lower()).strip()
     return re.sub(r"[\s_]+", "-", s)[:48]
@@ -182,6 +261,20 @@ def main():
         time.sleep(0.2)
     n_with = sum(1 for b in books if b.get("chapters"))
     print(f"chapters present: {n_with}/{len(books)} (ที่เหลือ = ปล่อยว่าง)")
+
+    # chapter notes สำหรับเล่มที่ graduate (มีโฟลเดอร์ใน research/books/)
+    n_notes = 0
+    for b in books:
+        if b.get("chapters") and isinstance(b["chapters"][0], dict):
+            try:
+                d = sync_chapter_notes(api, b)
+                if d:
+                    n_notes += d
+                    print(f"  notes: {b['title'][:24]} → {d} บทอัปเดต")
+            except Exception as e:
+                print(f"  notes fail {b['title'][:24]}: {e}")
+    if n_notes:
+        print(f"chapter notes written: {n_notes}")
 
     body = ["---"]
     blob = json.dumps(books, ensure_ascii=False, default=str)
