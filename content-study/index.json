@@ -4366,5 +4366,17 @@
     "words": 112,
     "form": "CURRENT FORM — milestone class (พร 5 เจ้าของเพจ, คุณ 4 ผู้อ่าน, receipts 360 จาก WP index)",
     "note": "loop: milestone v1 88 → Benz r1 8/8 + gates D(C)→ตกผลึก/สนุก → v2 96 → publish 112wc (1.17×) — keys 13/13 (12 HIT + จุดเปลี่ยน function), DEAD 7=0; title คืน v1 (owner's call) — ฟันธงนิเสธถูกพิสูจน์ใน body แล้ว"
+  },
+  {
+    "slug": "20261102-cnt-locked-system-still-breaks",
+    "title": "ระบบที่ล็อกไว้แล้ว ก็ยังมีวันพัง — วันที่ระบบเงียบ มันกำลังพัง หรือกำลังทำงานอยู่บนอีกทาง (pair #79 v1, PRE-CRITIQUE)",
+    "file": "posts/20261102-cnt-locked-system-still-breaks.md",
+    "link": "https://app.notion.com/p/40cdf8d88d8c813fb38aee1727bec586",
+    "notion_page_id": "40cdf8d8-8d8c-813f-b38a-ee1727bec586",
+    "date": "2026-11-02",
+    "status": "draft (pair #79 v1 — กิ่ง park จาก #22 graduate — รอ review/Benz r1)",
+    "words": 89,
+    "form": "CURRENT FORM — type A เราล้วน (เรา 2, พร/คุณ/คับ 0, '?' 0, quote bold 1, dots 8)",
+    "note": "loop: กิ่ง #22 (commitment-device header, EN #109) graduate ตาม rule 10 — เคสจริง 2026-09-25 ครบ 2 ครั้ง (ระบบข่าวตายเพราะผูกติดตัวช่วยที่ล่ม + boot race ทำงานก่อนส่วนที่พึ่งเริ่มเสร็จ = เชื่องแต่รายงานปกติ) — spine: การล็อกครอบคลุมได้แค่คำตอบที่เราตัดสินใจเอง ส่วนของที่ระบบพึ่งอยู่ทำได้แค่จัดหน้าให้พังแล้วเดินต่อได้ + จับได้จากความเชื่องไม่ใช่ของที่หาย — ห้ามขยาย universal (เคส 2 ครั้ง ระบบเดียว จบสภาพไม่รู้) — battery PASS: CUT 22=0 (แก้พร้อม-lookalike 3 จุดตาม item 233) codepoint+adjacency CLEAN — Notion 41 blocks H1 0 (strip ตาม pitfall #64) quote bold ✓ empty 0 dead 0 Status draft"
   }
 ]
