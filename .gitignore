@@ -8,3 +8,6 @@ Thumbs.db
 *.swp
 .idea/
 .vscode/
+
+# Obsidian workspace (user-local, ไม่ควร commit)
+.obsidian/
