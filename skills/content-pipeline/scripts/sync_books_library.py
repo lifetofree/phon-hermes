@@ -59,7 +59,7 @@ def clean_chapter(t):
 
 
 def fetch_chapters(api, page_id, edited):
-    """Chapters จาก child_database ชื่อ *chapter* (row titles) หรือ heading_3 'Chapter #N' — cache ด้วย last_edited_time; ไม่มี = [] (ปล่อยว่าง)"""
+    """Chapters จาก child_database ชื่อ *chapter* (rows: ch/orig/core/status) หรือ heading_3 'Chapter #N' — cache ด้วย last_edited_time; ไม่มี = [] (ปล่อยว่าง)"""
     cache = {}
     if os.path.exists(CH_CACHE):
         try:
@@ -68,7 +68,10 @@ def fetch_chapters(api, page_id, edited):
             cache = {}
     hit = cache.get(page_id)
     if hit and hit.get("edited") == edited:
-        return hit["chapters"]
+        rows = hit.get("rows")
+        if rows is None:  # cache รุ่นเก่า (list ชื่อบท) — ต้อง re-fetch เพื่อได้ core/status
+            return None
+        return rows
 
     blocks, cursor = [], None
     while True:
@@ -86,32 +89,46 @@ def fetch_chapters(api, page_id, edited):
         if b["type"] == "heading_3":
             txt = "".join(x["plain_text"] for x in b["heading_3"]["rich_text"]).strip()
             if re.search(r"chapter\s*#?\s*\d+", txt, re.I):
-                chapters.append(clean_chapter(txt))
+                chapters.append({"ch": clean_chapter(txt), "orig": "", "core": "", "status": None, "id": None, "edited": ""})
 
     if db_ids:
-        db_chapters = []
+        db_rows = []
         for db_id in db_ids:
             cur = None
             while True:
-                try:
-                    q = api("POST", f"/databases/{db_id}/query", {"page_size": 100, **({"start_cursor": cur} if cur else {})})
-                except Exception:
-                    break
+                q = api("POST", f"/databases/{db_id}/query", {"page_size": 100, **({"start_cursor": cur} if cur else {})})
                 for r in q.get("results", []):
-                    for pv in r["properties"].values():
-                        if pv["type"] == "title":
-                            t = "".join(x["plain_text"] for x in pv["title"]).strip()
-                            if t and "template" not in t.lower():
-                                db_chapters.append(clean_chapter(t))
-                            break
+                    P = r["properties"]
+                    ch = orig = core = ""
+                    status = None
+                    for name, pv in P.items():
+                        if pv["type"] == "title":  # title เก็บค่าใน key "title" ไม่ใช่ "rich_text"
+                            ch = "".join(x["plain_text"] for x in pv.get("title", [])).strip()
+                            continue
+                        vals = "".join(x["plain_text"] for x in pv.get("rich_text", [])).strip()
+                        if pv["type"] == "select" and pv.get("select"):
+                            status = pv["select"]["name"]
+                        elif vals and "core" in name.lower():
+                            core = vals
+                        elif vals and "original" in name.lower():
+                            orig = vals
+                    if ch and "template" not in ch.lower():
+                        db_rows.append({"ch": clean_chapter(ch), "orig": orig, "core": core,
+                                        "status": status, "id": r["id"], "edited": r.get("last_edited_time", "")})
                 if not q.get("has_more"):
                     break
                 cur = q.get("next_cursor")
-        if db_chapters:
-            chapters = db_chapters
+        if db_rows:
+            chapters = db_rows
+        else:
+            chapters = [c if isinstance(c, dict) else
+                        {"ch": c, "orig": "", "core": "", "status": None, "id": None, "edited": ""}
+                        for c in chapters]
 
-    chapters = [c for c in chapters if c and "template" not in c.lower()]
-    cache[page_id] = {"edited": edited, "chapters": chapters}
+    def _name(r):
+        return (r["ch"] if isinstance(r, dict) else r) or ""
+    chapters = [r for r in chapters if _name(r) and "template" not in _name(r).lower()]
+    cache[page_id] = {"edited": edited, "rows": chapters}
     json.dump(cache, open(CH_CACHE, "w"), ensure_ascii=False)
     return chapters
 
@@ -148,6 +165,15 @@ def main():
     for i, b in enumerate(books):
         try:
             b["chapters"] = fetch_chapters(api, b["id"], b["edited"])
+            if b["chapters"] is None:  # legacy cache → ล้างแล้วดึงใหม่
+                cache_path = CH_CACHE
+                try:
+                    cc = json.load(open(cache_path))
+                    cc.pop(b["id"], None)
+                    json.dump(cc, open(cache_path, "w"), ensure_ascii=False)
+                except Exception:
+                    pass
+                b["chapters"] = fetch_chapters(api, b["id"], b["edited"])
         except Exception as e:
             b["chapters"] = []
             print(f"  chapters fail: {b['title'][:30]} ({e})")
@@ -197,7 +223,17 @@ def main():
                 line += f" · [Notion](https://www.notion.so/{b['id'].replace('-', '')})"
                 body.append(line)
                 for ch in b.get("chapters", []):
-                    body.append(f"  - {ch}")
+                    if isinstance(ch, dict):
+                        line_c = f"  - {ch['ch']}"
+                        if ch.get("orig"):
+                            line_c += f" — {ch['orig']}"
+                        if ch.get("status"):
+                            line_c += f" · {ch['status']}"
+                        body.append(line_c)
+                        if ch.get("core"):
+                            body.append(f"    > {ch['core'].replace(chr(10), ' / ')}")
+                    else:
+                        body.append(f"  - {ch}")
             body.append("")
 
     text = "\n".join(body) + "\n"

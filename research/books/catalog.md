@@ -1,5 +1,5 @@
 ---
-hash: fda5c3238c
+hash: bc807357d1
 count: 253
 source: Notion Books Library 2ffdf8d8-8d8c-8096-934a-c05c3b5d93a0
 synced: see git log
@@ -12,51 +12,51 @@ synced: see git log
 > กติกา: ไฟล์นี้ = แคตตาล็อกเท่านั้น (generated — ห้ามแก้มือ)
 > เล่มที่เริ่มอ่านจริง/สกัด quote → เปิดโฟลเดอร์รายเล่ม `books/<slug>/` (book.md + quotes.md + notes.md) ตาม README — quote ที่โพสต์อ้างได้ต้องอยู่ใน quotes.md ก่อนเสมอ
 
-## ⏳ LOADING... (36)
+## ⏳ LOADING... (37)
 
 ### 🟢 G.1 (3)
 
 - **Four Thousand Weeks** — Oliver Burkeman · #AntiProductivity #Philosophy · [Notion](https://www.notion.so/2ffdf8d88d8c80b88b50d12ae19b3008)
-  - Ch. 10
-  - Ch. 12
-  - Ch. 8
-  - Ch. 13
-  - Ch. 3
-  - Ch. 11
-  - Ch. 5
-  - Intro
-  - Part I
-  - Ch. 14
-  - Ch. 9
-  - Ch. 7
-  - Ch. 4
-  - Ch. 2
-  - Ch. 6
-  - Ch. 1
-  - Appx
-  - Part II
+  - Ch. 10 — The Impatience Spiral · ⬜ QUEUED
+    > ยิ่งรีบ โลกยิ่งดูช้า ฝึกรอให้เป็น แล้วจะเห็นความงาม
+  - Ch. 12 — The Loneliness of the Digital Nomad · ⬜ QUEUED
+    > เวลาที่เป็นอิสระ แต่ไม่มีใครให้แชร์ด้วย คือเวลาที่ไร้ค่า (Time is Network Goods)
+  - Ch. 8 — You Are Here · ⬜ QUEUED
+    > เลิกใช้ชีวิตเพื่อ "อนาคต" จนลืมว่าตอนนี้กำลังหายใจอยู่ (Live in the Now)
+  - Ch. 13 — Cosmic Insignificance Therapy · ⬜ QUEUED
+    > จักรวาลไม่ได้สนใจเราขนาดนั้น ผ่อนคลายเถอะ เราไม่ได้แบกโลกไว้
+  - Ch. 3 — Facing Finitude · ✅ INSTALLED
+    > เลิกฝืนธรรมชาติ การปฏิเสธสิ่งสำคัญบ้าง คือหนทางเดียวที่ระบบจะรอด
+  - Ch. 11 — Staying on the Bus · ⬜ QUEUED
+    > (ทฤษฎีรถเมล์เฮลซิงกิ) อดทนทำเรื่องเดิมๆ ให้นานพอ แล้วผลลัพธ์จะเปลี่ยนเอง
+  - Ch. 5 — The Watermelon Problem · ⬜ QUEUED
+    > เราวอกแวกไม่ใช่เพราะสมาธิสั้น แต่เพราะเราหนีความเจ็บปวดของงานยาก
+  - Intro — In the Long Run, We're All Dead · ⬜ QUEUED
+    > เวลาเรามีจำกัดจริงๆ เลิกหลอกตัวเองว่าจะมีเวลาเหลือเฟือ
+  - Part I — Choosing to Choose
+  - Ch. 14 — The Human Disease · ⬜ QUEUED
+    > มนุษย์ป่วยเพราะพยายามจะเป็นพระเจ้า (ควบคุมเวลา) ยอมรับความเป็นมนุษย์แล้วจะหายป่วย
+  - Ch. 9 — Rediscovering Rest · ⬜ QUEUED
+    > พักคือพัก ไม่ใช่พักเพื่อไปทำงานต่อให้ดีขึ้น (Rest for Rest's Sake)
+  - Ch. 7 — We Never Really Have Time · ⬜ QUEUED
+    > เลิกมองเวลาเป็น "ทรัพยากร" ที่ต้องใช้ให้คุ้ม มองมันเป็น "กระแสน้ำ" ที่เราแค่ไหลผ่าน
+  - Ch. 4 — Becoming a Better Procrastinator · ⏳ LOADING...
+    > จงเลือกที่จะ "ล้มเหลว" ในบางเรื่องอย่างตั้งใจ (Strategic Underachievement)
+  - Ch. 2 — The Efficiency Trap · ✅ INSTALLED
+    > ยิ่งเร่ง (Optimize) งานยิ่งงอก อย่าติดกับดักความ Productive
+  - Ch. 6 — The Intimate Interrupter · ⬜ QUEUED
+    > โลกไม่ได้หมุนรอบตารางงานเรา การถูกขัดจังหวะคือส่วนหนึ่งของชีวิต
+  - Ch. 1 — The Limit-Embracing Life · ⬜ QUEUED
+    > ยอมรับเถอะว่า "ทำทุกอย่างไม่ได้" คือความจริง ไม่ใช่ข้อผิดพลาด
+  - Appx — Ten Tools for Embracing Your Finitude · ⬜ QUEUED
+    > 10 เครื่องมือภาคปฏิบัติ (Actionable Tools)
+  - Part II — Beyond Control
 - **Keep Going** — Austin Kleon · #Creativity #Resilience · [Notion](https://www.notion.so/2ffdf8d88d8c80dfbf06cd3b2cf08f78)
-  - 06
-  - 01
-  - 05
-  - 09
-  - 08
-  - 02
-  - 07
-  - 03
-  - 10
-  - 04
+  - Chapter 1- Every Day is Groundhog Day 🎉🎉🎉
+  - Chapter #2- Build a Bliss Station
 - **Steal Like an Artist** — Austin Kleon · #Creativity #IdeaGeneration · [Notion](https://www.notion.so/2ffdf8d88d8c80fba181cd46632d45a8)
-  - 6
-  - 10
-  - 5
-  - 4
-  - 7
-  - 3
-  - 8
-  - 9
-  - 2
-  - 1
+  - Chapter #4 - Use Your Hands
+  - Chapter #10 - Creativity is Subtraction
 
 ### 🟡 G.2 (14)
 
@@ -72,57 +72,24 @@ synced: see git log
 - **It Doesn't Have to Be Crazy at Work** — Jason Fried · #Management #WorkLifeBalance · [Notion](https://www.notion.so/2ffdf8d88d8c80deb613e46a7d37b0db)
 - **Meditations: A New Translation** — Marcus Aurelius (Translated by Gregory Hays) · #Stoicism #Boundary #InnerCitadel #QuietPower #AntiNoise · [Notion](https://www.notion.so/311df8d88d8c80cfb033c793fa15b183)
 - **Rework** — Jason Fried · #Management #Productivity · [Notion](https://www.notion.so/2ffdf8d88d8c80b5ba11fd7aa194313a)
-  - 12
-  - 10
-  - 11
-  - 9
-  - 8
-  - 7
-  - 5
-  - 6
-  - 4
-  - 3
-  - 2
-  - 1
+  - Chapter #5- Productivity 🎉🎉🎉
 - **Scientific Advertising** — Claude Hopkins · #Marketing #Classics · [Notion](https://www.notion.so/2ffdf8d88d8c802daa11d55b30597d31)
-  - 2
-  - 4
-  - 21
-  - 15
-  - 1
-  - 20
-  - 10
-  - 3
-  - 19
-  - 9
-  - 5
-  - 17
-  - 13
-  - 14
-  - 6
-  - 12
-  - 16
-  - 11
-  - 18
-  - 8
-  - 7
+  - Chapter #1 - How Advertising Laws Are Established
+  - Chapter #2 - Just Salesmanship
+  - Chapter #3 - Offer Service
+  - Chapter #4 - Mail Order Advertising
+  - Chapter #5
 - **Show Your Work!** — Austin Kleon · #Creativity #PersonalBranding · [Notion](https://www.notion.so/2ffdf8d88d8c8032a27bda55a17a6df5)
-  - 09
-  - 02
-  - 03
-  - 10
-  - 08
-  - 05
-  - 07
-  - 06
-  - 01
-  - 04
+  - Chapter #1
+  - Chapter #2 - Think Process, Not Product
+  - Chapter #3 - Share Something Small Every Day 🎉🎉🎉
+  - Chapter #4- Open Up Your Cabinet of Curiosities
 - **The Almanack of Naval Ravikant** — Eric Jorgenson · #Wealth #Philosophy #Wisdom · [Notion](https://www.notion.so/2ffdf8d88d8c80b6b639c2f371165e54)
   - Chapter #2- Building Wealth: Leverage
 - **The Book of Five Rings (Modern)** — Miyamoto Musashi · #Strategy #Philosophy · [Notion](https://www.notion.so/2ffdf8d88d8c80e79ce9dd5443610659)
 - **The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living** — Ryan Holiday · #Stoicism, #DailyRoutine, #Mindset, #Philosophy, #SystemCore · [Notion](https://www.notion.so/311df8d88d8c80f8a62efbca375baf65)
 
-### 🟠 G.3 (14)
+### 🟠 G.3 (15)
 
 - **Atomic Habits** — James Clear · #Habits #Psychology · [Notion](https://www.notion.so/2ffdf8d88d8c803cb877f3dcd55e4c3f)
   - Chapter #1- The Surprising Power of Atomic Habits
@@ -145,30 +112,17 @@ synced: see git log
 - **Ego is the Enemy** — Ryan Holiday · #Stoicism #BenzDNA #SystemShield #Mindset · [Notion](https://www.notion.so/314df8d88d8c80d08950fb4072c37109)
   - Chapter #1- To Be or To Do?
 - **Essentialism** — Greg Mckeown · #Productivity #Minimalism · [Notion](https://www.notion.so/2ffdf8d88d8c800b8608dfbd9d3cc810)
-  - 9
-  - 7
-  - PART III
-  - 3
-  - PART II
-  - 4
-  - 6
-  - 20
-  - 19
-  - 16
-  - 5
-  - 11
-  - 13
-  - PART IV
-  - 12
-  - 15
-  - 2
-  - PART I
-  - 8
-  - 1
-  - 10
-  - 17
-  - 18
-  - 14
+  - Chapter #1 - The Essentialist
+  - Chapter #2 - Choose
+  - Chapter #3- Discern
+  - Chapter #4- Trade-off
+  - Chapter #8- Sleep
+  - Chapter #9- Select
+  - Chapter #11- Dare
+  - Chapter #12- Uncommit
+  - Chapter #13 - Edit
+  - Chapter #14- Limit
+  - Chapter #15- Buffer
 - **Feel-Good Productivity** — Ali Abdaal · #Happiness #Productivity · [Notion](https://www.notion.so/2ffdf8d88d8c80af9f80e2fdcb6888e7)
 - **Hooked: How to Build Habit-Forming Products** — Nir Eyal · #Psychology #Habits #ProductDesign #BehavioralDesign #DuckOS_Core · [Notion](https://www.notion.so/3e4df8d88d8c80dd90a4ddd54de7f41b)
   - Chapter #2- Trigger
@@ -178,6 +132,8 @@ synced: see git log
   - Chapter #4- Wild Minds → loc 601
   - Chapter #13- Elation and Despair
   - Chapter #14- Casualties of Perfection
+- **The Great Mental Models Volume 1:General Thinking Concepts** — Shane Parrish · #CriticalThinking #MentalModels · [Notion](https://www.notion.so/2ffdf8d88d8c80ec89cbf865ae5c30fb)
+  - Chapter 0 - Introduction
 - **The Molecule of More** — Daniel Z. Lieberman & Michael E. Long · #Neuroscience #Dopamine #SystemThinking #DuckOS #OnePersonBusiness · [Notion](https://www.notion.so/31fdf8d88d8c80809798f4c9407cbcbf)
   - Chapter #1- Love
 - **The Obstacle is the Way** — Ryan Holiday · #Stoicism #Resilience · [Notion](https://www.notion.so/2ffdf8d88d8c80d489f9f7517e375ad8)
@@ -200,7 +156,7 @@ synced: see git log
 
 - **Think Faster, Talk Smarter ***** — Matt Abrahams · [Notion](https://www.notion.so/333df8d88d8c802bafe7c768436978bb)
 
-## ⬜ QUEUED (217)
+## ⬜ QUEUED (216)
 
 ### 🟢 G.1 (7)
 
@@ -276,7 +232,7 @@ synced: see git log
 - **When to Rob a Bank** — Steven D. Levitt · #Economics #Thinking · [Notion](https://www.notion.so/2ffdf8d88d8c8088a7bacf05baace01c)
 - **Why Has Nobody Told Me This Before?** — Dr. Julie Smith · #Tools #Psychology · [Notion](https://www.notion.so/2ffdf8d88d8c80ad9be2d673c32ac70c)
 
-### 🟠 G.3 (123)
+### 🟠 G.3 (122)
 
 - **12 Rules for Life** — Jordan B. Peterson · #Rules #Psychology · [Notion](https://www.notion.so/2ffdf8d88d8c80369ab8f4ef875bfd98)
 - **21 Lessons for the 21st Century** — Yuval Noah Harari · #CurrentAffairs #Future · [Notion](https://www.notion.so/2ffdf8d88d8c80ca9fdefdba58d865f4)
@@ -373,7 +329,6 @@ synced: see git log
 - **The Crux** — Richard Rumelt · #Strategy #ProblemSolving · [Notion](https://www.notion.so/2ffdf8d88d8c809e86d1fb4ae27cf2c2)
 - **The Design of Everyday Things** — Don Norman · #Design #Psychology · [Notion](https://www.notion.so/2ffdf8d88d8c80ee9bcaca095fddd1a3)
 - **The Diary of a CEO** — Steven Bartlett · #Business #Leadership · [Notion](https://www.notion.so/2ffdf8d88d8c805882b1cc3decc1c090)
-- **The Great Mental Models** — Shane Parrish · #CriticalThinking #MentalModels · [Notion](https://www.notion.so/2ffdf8d88d8c80ec89cbf865ae5c30fb)
 - **The Hard Thing About Hard Things** — Ben Horowitz · #Management #Entrepreneurship · [Notion](https://www.notion.so/2ffdf8d88d8c80d1b5ded2522432bae4)
 - **The Innovator's Dilemma** — Clayton Christensen · #Innovation #Business · [Notion](https://www.notion.so/2ffdf8d88d8c80e9a728d54cfa626818)
 - **The Laws of Creativity** — Joey Cofone · #Creativity #Mindset · [Notion](https://www.notion.so/2ffdf8d88d8c80bd9735cd23df165929)
