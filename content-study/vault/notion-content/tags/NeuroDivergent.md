@@ -6,7 +6,7 @@ name: "NeuroDivergent"
 
 # NeuroDivergent
 
-114 content (108 published, 6 ยังไม่ published)
+114 content (109 published, 5 ยังไม่ published)
 
 ## ✅ Published
 
@@ -117,6 +117,7 @@ name: "NeuroDivergent"
 - [[ai-harness-over-model-lesson-residue|AI ทำงานผิด — อย่าแก้แค่คำตอบ แต่เก็บบทเรียนไว้ใ]] — 2026-11-01
 - [[system-dependency-fallback-limits|ระบบที่ล็อกไว้แล้ว ก็ยังมีวันพัง — เพราะเราไม่ได]] — 2026-11-02
 - [[big-tech-battle-ground-level-tools|ปล่อยให้พวกใหญ่สู้กันเอง — สิ่งที่ร่วงลงมาถึงพื้]] — 2026-11-02
+- [[prevention-vs-firefighting-visibility-bias|เก่งแก้ปัญหา กับ ไม่ให้ปัญหาเกิด — เป็นสองงานที่]] — 2026-11-03
 - [[blind-spots-counting-fallacy-margin-of-safety|คนที่ Blind Spot น้อยชนะ — แต่เราอาจนับของตัวเอง]] — 2026-11-03
 
 ## · ยังไม่ published
@@ -126,4 +127,3 @@ name: "NeuroDivergent"
 - [[brain-runtime-error-404-cache-cleaner|ทำไมตอนบ่ายถึงชอบขึ้น Error 404 (หาไม่เจอ) และวิ]] — 2026-05-25
 - [[4-background-apps-memory-leak-brain-ram|แฉ 4 Background Apps เบื้องหลังที่ทำ Memory Leak]] — 2026-06-03
 - [[one-year-360-posts-system-over-inspiration|หนึ่งปี 360 โพสต์ — ตัวเลขที่บอกว่าเดินมาได้เพรา]] — 2026-11-01
-- [[prevention-vs-firefighting-visibility-bias|เก่งแก้ปัญหา กับ ไม่ให้ปัญหาเกิด — เป็นสองงานที่]] — 2026-11-03

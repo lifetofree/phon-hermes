@@ -6,7 +6,7 @@ name: "🛠️ Decision Protocol"
 
 # 🛠️ Decision Protocol
 
-37 content (36 published, 1 ยังไม่ published)
+37 content (37 published, 0 ยังไม่ published)
 
 ## ✅ Published
 
@@ -45,8 +45,5 @@ name: "🛠️ Decision Protocol"
 - [[unasked-questions-workflow-silence-signal|คนรอบข้างเลิกถามงานเรา — สิ่งที่หายไปกำลังบอกอะไ]] — 2026-10-31
 - [[ai-harness-over-model-lesson-residue|AI ทำงานผิด — อย่าแก้แค่คำตอบ แต่เก็บบทเรียนไว้ใ]] — 2026-11-01
 - [[big-tech-battle-ground-level-tools|ปล่อยให้พวกใหญ่สู้กันเอง — สิ่งที่ร่วงลงมาถึงพื้]] — 2026-11-02
-- [[blind-spots-counting-fallacy-margin-of-safety|คนที่ Blind Spot น้อยชนะ — แต่เราอาจนับของตัวเอง]] — 2026-11-03
-
-## · ยังไม่ published
-
 - [[prevention-vs-firefighting-visibility-bias|เก่งแก้ปัญหา กับ ไม่ให้ปัญหาเกิด — เป็นสองงานที่]] — 2026-11-03
+- [[blind-spots-counting-fallacy-margin-of-safety|คนที่ Blind Spot น้อยชนะ — แต่เราอาจนับของตัวเอง]] — 2026-11-03

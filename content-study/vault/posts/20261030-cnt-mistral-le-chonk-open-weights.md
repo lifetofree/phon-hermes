@@ -11,7 +11,7 @@ PUBLISH GRADE (keys ใน critique-chain archive): 15/15 HIT
 - FORM: WEB-TECH long-form 237wc / H2-H3 structure 4 มิติ / พร eye 0 (เพราะ×5 FP) / คุณ eye 0 (คุณค่า FP) / '?' 1 / เก่งที่สุด 1 = คำถามที่สังคมถาม (ไม่ใช่ claim)
 - Owner keeps (NOTE): closer เป็ดเป็น H3 (จาก publish style ล่าสุด) + hashtags เพิ่ม #MistralLarge4 #OnePersonBusiness + italic subtitle (WEB style)
 Notion: page เดิม `40adf8d8-8d8c-8141-97ce-e80b1115ee3e` Name = publish title + delete/rebuild + Status → published
-Archive: `web-archive/20261030-mistral-le-chonk-open-weights-publish.md` (byte-verbatim)
+Archive: `vault/artifacts/20261030-mistral-le-chonk-open-weights-publish.md` (byte-verbatim)
 -->
 
 # Open Weights — เมื่อองค์กรมีทางเลือกมากขึ้น อำนาจต่อรองก็เปลี่ยนไป

@@ -2,7 +2,7 @@
 ContentID: (pending)
 Status: rewritten (v3 — Benz-DNA critique 2026-09-29, "analyze reverse engineer and rewrite")
 Type: CURRENT FORM — # H1 sections, . beats, > questions, bold concepts. NO hr/H2/section-diagram/protocol/table/Law labels/external authorities/neuroscience. Register: พร narrates the story, เรา carries universal claims, คุณ 0, คับ 0.
-Critique provenance: web-archive/20260929-green-light-benz-dna-critique.md (verbatim, 14/14 quotes code-verified against v2).
+Critique provenance: vault/artifacts/20260929-green-light-benz-dna-critique.md (verbatim, 14/14 quotes code-verified against v2).
 Re-spine per critic:
 - Thesis (critic §1, VERBATIM): "ปัญหาไม่ใช่ไฟเขียวหลอก — ปัญหาคือเราใช้ Indicator หนึ่ง ไปตอบคำถามที่มันไม่ได้ถูกสร้างมาให้ตอบ" — Indicator ≠ State replaces Control/Uncertainty as the whole post.
 - Spine = critic §8 event-flow: green → คิดว่า OK → ช้าผิดปกติ → Inspect → model บน CPU → Green ไม่ได้ผิด → พรถามผิดข้อ → question swap "ไฟเขียวไหม?" → "Indicator นี้กำลังบอกอะไรเรา — และไม่ได้บอกอะไร?" (VERBATIM, dispatch + return point).
@@ -21,7 +21,7 @@ Candidate titles (per #39):
 A (USED): ไฟเขียวขึ้นทั้งดวง — แต่งานยังช้าอยู่ดี (EN #114 felt difficulty)
 B: ไฟเขียวไม่ได้โกหก — เราถามมันผิดคำถาม
 C: Indicator ทุกตัวบอกความจริง — แต่คนละคำถาม
-Cross-refs (header only): web-archive/20260929-green-light-benz-dna-critique.md (this rewrite's source); v1/v2 in same file history (retired).
+Cross-refs (header only): vault/artifacts/20260929-green-light-benz-dna-critique.md (this rewrite's source); v1/v2 in same file history (retired).
 Hashtags: #Adduckivity #DuckOS #NeuroDivergent #Indicator #SystemThinking
 -->
 

@@ -7,7 +7,7 @@ ContentID: 20261016-CNT-WISPR-FLOW
 Series: standalone pre-trial analysis — ref: 20260917-cnt-orca-ade-parallel-coding-agents (v2 TECH form), pair #45 rule 178 (evidence-status classes)
 Type: v2 line-per-sentence TECH form — DECISION ASSET variant (critic's spine: เกณฑ์ 3 ข้อ + Tiny Experiment, ไม่ใช่ feature catalog)
 Status: Draft r2 — re-spine ตาม Benz-DNA critique (2026-10-16) + gate ตอบโดยเจ้าของ: "บทวิเคราะห์จากเอกสารเพื่อช่วยคนตัดสินใจว่าจะทดลองไหม" (rule 36 — answer supplied in the same paste)
-CRITIQUE ARCHIVE: web-archive/20261016-wispr-flow-benz-dna-critique.md (verbatim + baselines; quote-verify HIT 8/8)
+CRITIQUE ARCHIVE: vault/artifacts/20261016-wispr-flow-benz-dna-critique.md (verbatim + baselines; quote-verify HIT 8/8)
 R2 CHANGE LIST (critic จุดต่อจุด):
 - จุด 1 hook: title/hook เดิม 45 vs 220 wpm (vendor marketing) ตาย → title = critic's suggested hook verbatim; แกนใหม่ = critic's spine line verbatim (bold); 45/220/4x/save-over-an-hour หลุดจาก body ทั้งหมด
 - จุด 2 ตารางเหมารวม: ตารางตัดสิน Flow-vs-built-in ตาย → ตาราง "สิ่งที่ต้องตรวจเอง" (ความแม่นยำภาษาไทย / งานแก้หลังพูด / การทำงานข้ามแอป / ความเป็นส่วนตัว) ตาม critic; built-ins ระบุว่าไม่ใช่ระบบเดียวกัน (ไม่เหมารวม); zero-edit 90/52 รอด 1× ในฐานะ vendor-bench "รันโดย Wispr เอง" + ต้องตรวจจุดแก้เองก่อนเชื่อ

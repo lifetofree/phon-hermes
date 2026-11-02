@@ -15,7 +15,7 @@ Sources: quote "We accidentally end up eliminating things we didn't realize we v
   — Oliver Burkeman, Four Thousand Weeks (2021), convenience-culture passage;
   verified verbatim 2026-09-13 (references/four-thousand-weeks-research.md, en.wikipedia.org);
   demoted attribution + non-proof disclaimer per corpus rule
-v1 archive: web-archive/20261003-friction-reports-after-loss-external-v1.md
+v1 archive: vault/artifacts/20261003-friction-reports-after-loss-external-v1.md
 -->
 # เพิ่งรู้ว่ามันมีค่า — ตอนมันไม่อยู่แล้ว
 

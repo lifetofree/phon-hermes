@@ -6,7 +6,7 @@ Type: CURRENT FORM (system/mindset, post-#17 synthesis) — pair #46 r4 rewrite 
 Origin (user brief, verbatim): "observe my feel finitude -> what I see -> I can't hold them all -> system overload -> what I see"
 Version chain: v1 (d3f858a, 105wc) → v2 (b247abc, 114wc) → v3 (2cbf23e, 120wc) → v4 (a20c1f9, 78wc) → v5 (this).
   Archives: web-archive/20261012-see-cant-hold-overload-{v1,v2,v3,v4}.md + benz-dna-critique-{r3,r4}.md
-Critique r4: web-archive/20261012-see-cant-hold-overload-benz-dna-critique-r4.md (quote-verify 6/6 HIT live v4 — 0 misquote)
+Critique r4: vault/artifacts/20261012-see-cant-hold-overload-benz-dna-critique-r4.md (quote-verify 6/6 HIT live v4 — 0 misquote)
 Gate question (critic r4, rule 36) ANSWERED (user via clarify 2026-10-12): **EXTERNAL** — งานค้างโผล่ขึ้นมาบนจอจริง ๆ (เห็นจากหน้าจอ/แจ้งเตือน)
   => ความหมายของ "เห็น" ทั้งบท = เห็นบนจอจริง — v4 แนว "ไม่มีอะไรเข้ามาใหม่จากภายนอก" (internal case จากรอบ r3) ตายทั้งแนว
   => และแก้ความขัดกันเองที่ critic §2 ชี้: งานที่ปิด ≠ งานที่ค้าง (สองชิ้นต่างกัน — v4 ใช้ "มัน/task" ปนกันจนอ่านเป็นงานเดียว)

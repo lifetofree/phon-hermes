@@ -12,7 +12,7 @@ PUBLISH GRADE (keys ใน critique-v2-r1 archive):
 - Battery: 81 wc-w (0.94× v2 — ไม่ยืด ตามเพดาน critic) / พร eye 0 (พร้อม×2 เพราะ×3 lookalike — counter 5 FP) / เรา 12 / คุณ eye 0 (คุณค่า×2 FP) / คับ-ผม 0 / '?' 1 เฉพาะ dispatch (มาตรฐานเว็บ)
 - Owner keeps (NOTE, precedent owner's-call): "คำชม" 1 = opener reported phenomenon hedged "อาจฟังเหมือน" (ไม่ใช่ axis — retired คือ framing วัด/ตัดสิน) | "ผลงาน" 1 = generic ไม่ผูก #66 axis | "ความหมายเชิงการใช้งาน" คงจาก v2
 Notion: page เดิม `409df8d8-8d8c-8186-bf11-dfd502e0e731` delete+rebuild + Name = publish title + Status → published
-Archive: `web-archive/20261030-good-enough-others-eyes-publish.md` (byte-verbatim)
+Archive: `vault/artifacts/20261030-good-enough-others-eyes-publish.md` (byte-verbatim)
 -->
 
 # เก่งพอตัว — ไม่ต้องเก่งที่สุด ถ้าทักษะหลายอย่างประกอบกันได้

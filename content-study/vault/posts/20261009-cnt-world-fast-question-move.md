@@ -9,7 +9,7 @@ v4 directive (user, 2026-10-09): "rewrite อีกรอบ" ตาม Benz r2
 Source-of-evidence (attested):
   - กิจวัตรอ่านข่าวเช้า + คำถามค้าง = จริง (v3 attestation เดิม)
   - **Pre-rewrite question ของ Benz r2 ตอบแล้ว (user via clarify 2026-10-09):** "คำถามอยู่ในหัวก่อนแล้ว (ความสงสัยเดิม) — เช้านี้อ่านข่าวตามปกติ ไม่ได้ตั้งใจเปิดข่าวเพื่อหาคำตอบข้อนี้โดยเฉพาะ" → body บรรทัด "คำถามนี้อยู่ในหัวพรมาก่อนเปิดข่าว / เช้านี้ก็ไม่ได้เปิดข่าวเพื่อหาคำตอบของมัน" มาจาก attestation นี้โดยตรง (กรณี "แรก" ของ critic แต่เฉพาะกว่า: ไม่ใช่แม้แต่การค้นหา — ข่าวคือ routine, คำถามอยู่คนละซ้อนกับ routine)
-Benz-DNA critiques: r1 = web-archive/20261009-world-fast-question-move-v2-benz-dna-critique.md · r2 = web-archive/20261009-world-fast-question-move-v3-benz-dna-critique-r2.md (quote-verify 9/12, 3 MISS = section names จาก v2 = version-window; baselines 13 ตัว -> v4 ทุกตัว 0)
+Benz-DNA critiques: r1 = vault/artifacts/20261009-world-fast-question-move-v2-benz-dna-critique.md · r2 = vault/artifacts/20261009-world-fast-question-move-v3-benz-dna-critique-r2.md (quote-verify 9/12, 3 MISS = section names จาก v2 = version-window; baselines 13 ตัว -> v4 ทุกตัว 0)
 Ceiling (r2):
   - Boundary (critic verbatim): นี่เป็นสิ่งที่เกิดขึ้นกับพรในเช้าวันนี้ ไม่ใช่ข้อสรุปว่าการอ่านข่าว AI ไม่มีประโยชน์ (ในบท = "ไม่ได้แปลว่าข่าวไม่มีประโยชน์ ข้อมูลก็เข้ามาจริง ๆ")
   - Thesis เดียว (critic verbatim): "ข้อมูลเพิ่มขึ้นได้ โดยที่เรายังไม่รู้ว่าอะไรจะนับเป็นคำตอบ" — ไม่ใช่ framework คำถามใหญ่/คำถามเล็ก

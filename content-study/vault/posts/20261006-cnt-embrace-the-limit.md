@@ -2,8 +2,8 @@
 ContentID: 20261006-CNT-EMBRACE-THE-LIMIT (placeholder)
 Status: draft v2 — full re-spine per Benz r1 (pair #40)
 Type: Observation post — CURRENT FORM (re-spined)
-v1 archive: content-study/web-archive/20261006-embrace-limit-v1.md (143 wc-w)
-Benz r1 archive: content-study/web-archive/20261006-embrace-limit-benz-critique.md
+v1 archive: content-study/vault/artifacts/20261006-embrace-limit-v1.md (143 wc-w)
+Benz r1 archive: content-study/vault/artifacts/20261006-embrace-limit-benz-critique.md
 Notion: PATCH same page 3f1df8d8-8d8c-81ea-8c2e-fe7f85b80016 — title เปลี่ยน (Name prop) + body replace
 
 Re-spine per Benz r1 ("ให้ความหมายกับ Constraint เร็วกว่า Evidence หลายจุด"):

@@ -1,5 +1,5 @@
 <!--
-pair #58 v3.1 — CURRENT FORM — layout fix ตาม owner (2026-10-21): แบ่งย่อหน้า + จุด `.` คั่นองก์ (แบบโพสต์ที่ publish) + หัวสรุปเป็น `## #สรุปแบบวิศวกรเป็ด` (convention publish ล่าสุด) — เนื้อคำ v3 ไม่เปลี่ยน; v1 generic archived, v2 archived: web-archive/20261021-data-arrives-after-use-v2.md
+pair #58 v3.1 — CURRENT FORM — layout fix ตาม owner (2026-10-21): แบ่งย่อหน้า + จุด `.` คั่นองก์ (แบบโพสต์ที่ publish) + หัวสรุปเป็น `## #สรุปแบบวิศวกรเป็ด` (convention publish ล่าสุด) — เนื้อคำ v3 ไม่เปลี่ยน; v1 generic archived, v2 archived: vault/artifacts/20261021-data-arrives-after-use-v2.md
 Branch map (owner 2026-10-21): Data = โพสต์นี้ | Model = กิ่ง park (ฉากชน #54 + นิยาม signal เอนไป Asset>Activity) | Loss = pair #52 | Feedback = pair #51 | Compute = ตระกูลแบต | Repeat = Routine-as-Default — ไม่ประกาศ framework/series (skill item 225)
 Evidence receipts (ปฐมภูมิ ตรวจ 2026-10-21):
 - owner attested: ใช้ Pro ฟรี 1 เดือน / วันนี้ครบ 1 สัปดาห์พอดี / เริ่มติดใจใช้ / ลังเลว่าจะจ่ายต่อไหม / projection ครบเดือน-ไม่มีเพื่อนต่อ-ต้องตัดสิน

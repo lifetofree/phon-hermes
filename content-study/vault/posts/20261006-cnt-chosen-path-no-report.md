@@ -2,9 +2,9 @@
 ContentID: 20261006-CNT-CHOOSEN-PATH-NO-REPORT (placeholder)
 Status: draft v3 — full re-spine per Benz r1 (pair #39; user: "rewrite ตาม comment ที่ 2 แทนอันเดิม")
 Type: Observation → Question post — CURRENT FORM (re-spined)
-v2 archive: content-study/web-archive/20261006-chosen-path-v2.md (98 wc-w)
-v1 archive: content-study/web-archive/20261006-chosen-path-v1.md (118 wc-w)
-Benz r1 archive: content-study/web-archive/20261006-chosen-path-benz-critique.md
+v2 archive: content-study/vault/artifacts/20261006-chosen-path-v2.md (98 wc-w)
+v1 archive: content-study/vault/artifacts/20261006-chosen-path-v1.md (118 wc-w)
+Benz r1 archive: content-study/vault/artifacts/20261006-chosen-path-benz-critique.md
 Notion: PATCH same page 3f1df8d8-8d8c-8158-92ff-c477e11a2175 — title เปลี่ยน (Name prop) + body replace
 
 Re-spine per Benz r1 (user answered the forced question: "พรต้องการรู้ว่า Solution นี้ 'แก้ได้'"):

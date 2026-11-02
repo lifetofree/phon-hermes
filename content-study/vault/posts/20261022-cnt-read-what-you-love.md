@@ -1,5 +1,5 @@
 <!--
-pair #60 CLOSED (2026-10-22) — publish 103 wc-w (1.10x v1) — body ด้านล่าง = publish verbatim (archive: web-archive/20261022-read-what-you-love-publish.md)
+pair #60 CLOSED (2026-10-22) — publish 103 wc-w (1.10x v1) — body ด้านล่าง = publish verbatim (archive: vault/artifacts/20261022-read-what-you-love-publish.md)
 Full loop: owner quote-brief → verify ปฐมภูมิ (nav.al/love-read) → v1 83 (spine สองชั้น: กลับลำดับ + ปลูกจากการเลือก) → Benz r1 (2/2 HIT; gate: เลือกแกนลบ "ไม่จำเป็นต้องรักก่อน" ทับแกนบวก) → publish 103 (spine = gate answer verbatim; ปลูก/เกณฑ์/ปากคนอื่น หายหมด)
 Publish moves (owner): spine sentence "เราไม่จำเป็นต้องรักการอ่านก่อนจึงจะเริ่มอ่านได้" เป็น beat เดี่ยว + cost-of-belief line "เงื่อนไขนั้นอาจกลายเป็นสิ่งที่ขวาง..." (ใหม่) + counterexample ของ critic กลายเป็น beat "บางเล่มอาจพาเราไปเจอเรื่องใหม่..." + subtitle demote "ถูกปลูกขึ้น"→"อาจเกิดขึ้นหลังจากเริ่มอ่าน" + anti-KPI "ไม่จำเป็นต้อง...ความสำเร็จ" + คำถามปิดเล็งที่ความเชื่อ ("จำเป็นต้องรักก่อนจริงไหม") + bold closer "เรื่องหนึ่งที่เราอยากรู้" + '?' 1 ตัวในคำถามปิด (deviation จาก house style — บันทึก ไม่แก้ archive)
 Grades: dead 5/5 zero (ปลูก 3 / เกณฑ์ 2 / ปากคนอื่น 1 / อ่านแล้วยังไม่ถึงไหน / ไม่ใช่ข้อแม้) + keeps 10/10 HIT + "ทุกครั้ง"/"ควรอ่านให้จบ" อยู่ในรูปปฏิเสธ (negation-form universals — ไม่ผิด)

@@ -17,7 +17,7 @@ FORMAT: line-per-sentence + จุดขั้น "." คั่นองก์ +
 Notion: Content Drafts DB `3ccdf8d8-8d8c-81ae-bdf8-cb9eb1821520` Status draft, Platform general
 
 R1 (2026-11-02): Benz-DNA critique — PRE-REWRITE analyze-only, draft ไฟล์นี้ + Notion ไม่แตะ body (PATCH เฉพาะ Status → rewritten)
-- Archive: `web-archive/20261102-locked-system-still-breaks-benz-dna-critique-r1.md` (verbatim + quote-verify 5/6 HIT + 1 paraphrase-drift ที่ honesty-tail ย่อ)
+- Archive: `vault/artifacts/20261102-locked-system-still-breaks-benz-dna-critique-r1.md` (verbatim + quote-verify 5/6 HIT + 1 paraphrase-drift ที่ honesty-tail ย่อ)
 - Verdict: แกนคิดดี เป็นบทเชิงระบบ; จุดหลัก = หัวเรื่องถามแต่บทยังตอบไม่ชัด (สามสถานะ: ไม่ทำงาน / ทำงานชลง / รายงานปกติแต่พฤติกรรมผิดปกติ — ยังไม่ถูกแยกเป็นหลักคิด)
 - Gate (owner ตอบใน wrapper): **"D แต่แกนหลักคือ A"** — A ล็อคเป็นแกนหลัก, B+C เป็นชั้นขยาย (gate D-with-primary ครั้งที่ 2 ต่อจาก #78)
 - KEEP (critic ยกเอง): "การล็อกครอบคลุมได้แค่คำตอบที่เราเคยตัดสินใจเอง" = แกนกลางที่ควรมีน้ำหนักขึ้น + honesty tail "ยังไม่รู้ว่าจุดพังเงียบเหลืออีกไหม" ควรรักษา

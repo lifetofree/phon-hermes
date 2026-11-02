@@ -11,7 +11,7 @@ PUBLISH GRADE (keys ใน critique-r1 archive):
 - Battery: 94 wc-w (1.09× v1 — เพิ่มคือ multi-cause + checklist ตาม critic), พร eye 0 (เพราะ×3 lookalike FP), คุณ 0, '?' 1 เฉพาะ dispatch, retired #69-guard คงเดิม (คาดหวัง 0 ในบท — "คาดหวังกับงานของเราน้อยลง" = บริบท multi-cause ที่ critic r1 §3.2 เสนอเอง → owner-keep NOTE)
 - Owner keeps (NOTE): hard-break "  " 10 จุด = STT/markdown style ของ owner — archive byte-verbatim, Notion blocks strip trailing spaces (import-artifact rule)
 Notion: page เดิม `40adf8d8-8d8c-814f-9a84-fe45f6ecbb7b` Name = publish title + delete/rebuild + Status → published
-Archive: `web-archive/20261030-silent-expectations-missing-questions-publish.md` (byte-verbatim)
+Archive: `vault/artifacts/20261030-silent-expectations-missing-questions-publish.md` (byte-verbatim)
 -->
 
 # คนรอบข้างเลิกถามงานเรา — สิ่งที่หายไปกำลังบอกอะไรบางอย่าง

@@ -6,7 +6,7 @@ name: "🩺 System Awareness"
 
 # 🩺 System Awareness
 
-27 content (22 published, 5 ยังไม่ published)
+27 content (23 published, 4 ยังไม่ published)
 
 ## ✅ Published
 
@@ -32,11 +32,11 @@ name: "🩺 System Awareness"
 - [[feedback-loop-asymmetry-who-trains-whom|ใครกำลังเทรนใคร? เมื่อเราใช้ AI ทุกวัน การใช้ระบ]] — 2026-10-22
 - [[unintended-rewards-asset-residue|ทำงานแล้วได้รางวัล — แต่รางวัลอาจไม่ใช่ของที่เรา]] — 2026-10-28
 - [[speaking-anxiety-self-monitoring-overload|พูดไม่เก่ง — ปัญหาไม่ได้อยู่ที่การพูด]] — 2026-10-29
+- [[prevention-vs-firefighting-visibility-bias|เก่งแก้ปัญหา กับ ไม่ให้ปัญหาเกิด — เป็นสองงานที่]] — 2026-11-03
 
 ## · ยังไม่ published
 
 - [[system-failure-not-lazy|คุณไม่ได้ขี้เกียจ แต่เครื่องมันค้าง]] — 2026-05-11
 - [[4-background-apps-memory-leak-brain-ram|แฉ 4 Background Apps เบื้องหลังที่ทำ Memory Leak]] — 2026-06-03
-- [[prevention-vs-firefighting-visibility-bias|เก่งแก้ปัญหา กับ ไม่ให้ปัญหาเกิด — เป็นสองงานที่]] — 2026-11-03
 - [[inner-citadel-protect-system|"ป้อมปราการภายใน" วิธีปกป้องแบตเตอรี่สมองจากดราม]] — no date
 - [[monthly-system-audit-february-2026|Audit กุมภาพันธ์: ระบบ Duck OS ของเรา "ซิ่ง" หรื]] — no date

@@ -2,8 +2,8 @@
 ContentID: 20261006-CNT-COUNT-BREATH-WHAT-WE-SEE (placeholder)
 Status: draft v2 — rewrite per Benz-DNA critique (pair #38)
 Type: Observation post (EN #138 shape) — CURRENT FORM
-Critique: content-study/web-archive/20261006-count-breath-benz-dna-critique.md (2026-10-06, 10 points)
-v1 archive: content-study/web-archive/20261006-count-breath-v1.md (62 wc-w)
+Critique: content-study/vault/artifacts/20261006-count-breath-benz-dna-critique.md (2026-10-06, 10 points)
+v1 archive: content-study/vault/artifacts/20261006-count-breath-v1.md (62 wc-w)
 Notion: ยังไม่ filed (รอ user สั่ง — v1 ก็ไม่ได้ลง)
 
 Rewrite moves (per critique):

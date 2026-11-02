@@ -1,5 +1,5 @@
 <!--
-pair #62 CLOSED (2026-10-22) — publish 98 wc-w (1.04x v1.1 near-parity) — body ด้านล่าง = publish verbatim (archive: web-archive/20261022-rule-vs-model-publish.md)
+pair #62 CLOSED (2026-10-22) — publish 98 wc-w (1.04x v1.1 near-parity) — body ด้านล่าง = publish verbatim (archive: vault/artifacts/20261022-rule-vs-model-publish.md)
 Full loop: กิ่ง Mental Model (gate ผ่าน) → v1 94 (กฎ) → owner feedback "กฎอ่านแล้วงง" → v1.1 (ข้อตกลงกับตัวเอง, item 255) → publish 98 (self-referential consistency)
 Publish moves (owner, reverse-engineered เชิง critical thinking):
 - **Self-referential consistency (item 256):** บทที่สอนว่า "คำตอบตามสถานการณ์ — เจอสถานการณ์ใหม่ให้ inspect" ห้ามเอง ship verdict กับคนอ่าน — v1.1 วินิจฉัยแน่นอนจากสัญญาณเดียว ("ไม่ใช่ปัญหาความจำ = ช่องที่ยังไม่มีความเข้าใจ") → publish แปลงเป็น move ที่บทสอน: "นั่นคือจุดที่ควรหยุดดูต่อว่า เราเข้าใจหลักที่อยู่เบื้องหลัง...มากพอจะใช้กับสถานการณ์ที่เปลี่ยนไปหรือยัง" + clause "ใช้กับสถานการณ์ที่เปลี่ยนไป" = นิยามใช้งานของ "เข้าใจพอ"

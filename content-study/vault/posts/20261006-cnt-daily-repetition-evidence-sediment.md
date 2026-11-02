@@ -2,9 +2,9 @@
 ContentID: 20261006-CNT-REPSED-01 (placeholder)
 Status: draft v4 — rewrite per Benz r2 PASS conditions (pair #40 daily-repetition)
 Type: Observation post — CURRENT FORM (Stored ≠ Reused)
-v3 archive: content-study/web-archive/20261006-daily-repetition-v3.md (75 wc-w)
-v2/v1 archives: web-archive/20261006-daily-repetition-v2.md / v1.md
-Benz r2 archive: content-study/web-archive/20261006-daily-repetition-benz-critique-r2.md
+v3 archive: content-study/vault/artifacts/20261006-daily-repetition-v3.md (75 wc-w)
+v2/v1 archives: vault/artifacts/20261006-daily-repetition-v2.md / v1.md
+Benz r2 archive: content-study/vault/artifacts/20261006-daily-repetition-benz-critique-r2.md
 Notion: PATCH same page 3f1df8d8-8d8c-8116-850b-d636c82a7772 — title คงเดิม + body replace
 
 Fixes per Benz r2 (PASS conditions: "ยังไม่ Freeze เพราะมีสองอย่างต้องตัด + Ending fix"):

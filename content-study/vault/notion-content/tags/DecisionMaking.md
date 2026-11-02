@@ -6,7 +6,7 @@ name: "DecisionMaking"
 
 # DecisionMaking
 
-10 content (9 published, 1 ยังไม่ published)
+10 content (10 published, 0 ยังไม่ published)
 
 ## ✅ Published
 
@@ -18,8 +18,5 @@ name: "DecisionMaking"
 - [[optimal-stopping-37-percent-rule-reality|เลือกไม่ลง เพราะยังไม่รู้ว่าของที่ดีที่สุดผ่านมา]] — 2026-10-18
 - [[ai-advice-vs-human-agency|AI แนะนำสิ่งที่เหมาะสมได้ — แต่ไม่ได้แปลว่านั่นค]] — 2026-10-20
 - [[free-trial-reading-data-vs-runtime-data|ฟรีหนึ่งเดือน — แต่ข้อมูลที่ช่วยตัดสินใจว่าจะจ่า]] — 2026-10-23
-- [[blind-spots-counting-fallacy-margin-of-safety|คนที่ Blind Spot น้อยชนะ — แต่เราอาจนับของตัวเอง]] — 2026-11-03
-
-## · ยังไม่ published
-
 - [[prevention-vs-firefighting-visibility-bias|เก่งแก้ปัญหา กับ ไม่ให้ปัญหาเกิด — เป็นสองงานที่]] — 2026-11-03
+- [[blind-spots-counting-fallacy-margin-of-safety|คนที่ Blind Spot น้อยชนะ — แต่เราอาจนับของตัวเอง]] — 2026-11-03

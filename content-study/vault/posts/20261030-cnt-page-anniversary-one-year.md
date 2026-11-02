@@ -10,7 +10,7 @@ PUBLISH GRADE (keys ใน critique-chain archive): 13/13 (12 HIT + 1 function)
 - FORM: 112wc = 1.17× v2 / พร 4 (เจ้าของเพจ milestone) / คุณ 3 / '?' 3 (dispatch + 2 bold คำถามจุดเปลี่ยน — รูปคำถามคู่ใน section จุดเปลี่ยน) / bold 5 รวม bold pair จุดเปลี่ยน
 - Owner keeps (NOTE): dispatch เป็น bold ไม่ใช่ quote / ประโยคความรู้สึกทำงาน ("ความรู้สึกในการทำงานด้วย") เพิ่มจาก r3 / closer เป็ดไม่ bold คำถามแต่ bold ขอบคุณ
 Notion: page เดิม `40bdf8d8-8d8c-8122-b1e5-f728267dd7ba` Name = publish title + delete/rebuild + Status → published
-Archive: `web-archive/20261030-page-anniversary-one-year-publish.md` (byte-verbatim)
+Archive: `vault/artifacts/20261030-page-anniversary-one-year-publish.md` (byte-verbatim)
 -->
 
 # หนึ่งปี 360 โพสต์ — ตัวเลขที่บอกว่าเดินมาได้เพราะระบบ ไม่ใช่แรงบันดาลใจ

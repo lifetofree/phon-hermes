@@ -2,8 +2,8 @@
 ContentID: 20261006-CNT-READEV-01
 Status: draft v2 — re-spine per Benz r1 (cut 2 branches + de-mindread; user จะส่ง publish เอง)
 Type: Observation post — Clean Observation เท่านั้น (ไม่ hypothesis)
-v1 archive: content-study/web-archive/20261006-read-others-v1.md (79 wc-w)
-Benz r1 archive: content-study/web-archive/20261006-read-others-benz-critique-r1.md (quote-verify 13/14 HIT + 1 elision artifact = 0 misquote)
+v1 archive: content-study/vault/artifacts/20261006-read-others-v1.md (79 wc-w)
+Benz r1 archive: content-study/vault/artifacts/20261006-read-others-benz-critique-r1.md (quote-verify 13/14 HIT + 1 elision artifact = 0 misquote)
 Notion: PATCH same page 3f2df8d8-8d8c-8165-be73-d06353ed29ea — title (Name prop) เปลี่ยน + body replace
 
 Re-spine per Benz r1 (v1 ปน 3 เรื่อง: สิ่งที่เจ้าของอยากให้เห็น / สิ่งที่คนจำ / evidence ของสิ่งที่เขาพูด):

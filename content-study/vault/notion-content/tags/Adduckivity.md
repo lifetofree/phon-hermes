@@ -6,7 +6,7 @@ name: "Adduckivity"
 
 # Adduckivity
 
-188 content (174 published, 14 ยังไม่ published)
+188 content (175 published, 13 ยังไม่ published)
 
 ## ✅ Published
 
@@ -183,6 +183,7 @@ name: "Adduckivity"
 - [[ai-harness-over-model-lesson-residue|AI ทำงานผิด — อย่าแก้แค่คำตอบ แต่เก็บบทเรียนไว้ใ]] — 2026-11-01
 - [[system-dependency-fallback-limits|ระบบที่ล็อกไว้แล้ว ก็ยังมีวันพัง — เพราะเราไม่ได]] — 2026-11-02
 - [[big-tech-battle-ground-level-tools|ปล่อยให้พวกใหญ่สู้กันเอง — สิ่งที่ร่วงลงมาถึงพื้]] — 2026-11-02
+- [[prevention-vs-firefighting-visibility-bias|เก่งแก้ปัญหา กับ ไม่ให้ปัญหาเกิด — เป็นสองงานที่]] — 2026-11-03
 - [[blind-spots-counting-fallacy-margin-of-safety|คนที่ Blind Spot น้อยชนะ — แต่เราอาจนับของตัวเอง]] — 2026-11-03
 
 ## · ยังไม่ published
@@ -194,7 +195,6 @@ name: "Adduckivity"
 - [[github-dependabot-fix-dependencies-deploy-crash|🛠️ GitHub Dependabot ตัวช่วยดูแล Dependencies เว]] — 2026-06-18
 - [[git-worktree-guide|วิธีจัดการงานแทรกใน 5 วิไม่ให้ระบบพังและข้อมูลหา]] — 2026-06-30
 - [[one-year-360-posts-system-over-inspiration|หนึ่งปี 360 โพสต์ — ตัวเลขที่บอกว่าเดินมาได้เพรา]] — 2026-11-01
-- [[prevention-vs-firefighting-visibility-bias|เก่งแก้ปัญหา กับ ไม่ให้ปัญหาเกิด — เป็นสองงานที่]] — 2026-11-03
 - [[myth-of-motivation-automate-the-trivial|อยากพังให้พึ่ง "แรงฮึด" อยากรอดให้สร้าง "ระบบ" (]] — no date
 - [[decision-fatigue-brain-battery-drain|"Decision Fatigue" ภัยเงียบที่สูบแบตเตอรี่สมองคุ]] — no date
 - [[inner-citadel-protect-system|"ป้อมปราการภายใน" วิธีปกป้องแบตเตอรี่สมองจากดราม]] — no date

@@ -6,7 +6,7 @@ name: "🛡️ Law 3: Protect System"
 
 # 🛡️ Law 3: Protect System
 
-146 content (138 published, 8 ยังไม่ published)
+146 content (139 published, 7 ยังไม่ published)
 
 ## ✅ Published
 
@@ -147,6 +147,7 @@ name: "🛡️ Law 3: Protect System"
 - [[unasked-questions-workflow-silence-signal|คนรอบข้างเลิกถามงานเรา — สิ่งที่หายไปกำลังบอกอะไ]] — 2026-10-31
 - [[ai-harness-over-model-lesson-residue|AI ทำงานผิด — อย่าแก้แค่คำตอบ แต่เก็บบทเรียนไว้ใ]] — 2026-11-01
 - [[big-tech-battle-ground-level-tools|ปล่อยให้พวกใหญ่สู้กันเอง — สิ่งที่ร่วงลงมาถึงพื้]] — 2026-11-02
+- [[prevention-vs-firefighting-visibility-bias|เก่งแก้ปัญหา กับ ไม่ให้ปัญหาเกิด — เป็นสองงานที่]] — 2026-11-03
 - [[blind-spots-counting-fallacy-margin-of-safety|คนที่ Blind Spot น้อยชนะ — แต่เราอาจนับของตัวเอง]] — 2026-11-03
 
 ## · ยังไม่ published
@@ -156,6 +157,5 @@ name: "🛡️ Law 3: Protect System"
 - [[4-background-apps-memory-leak-brain-ram|แฉ 4 Background Apps เบื้องหลังที่ทำ Memory Leak]] — 2026-06-03
 - [[github-dependabot-fix-dependencies-deploy-crash|🛠️ GitHub Dependabot ตัวช่วยดูแล Dependencies เว]] — 2026-06-18
 - [[one-year-360-posts-system-over-inspiration|หนึ่งปี 360 โพสต์ — ตัวเลขที่บอกว่าเดินมาได้เพรา]] — 2026-11-01
-- [[prevention-vs-firefighting-visibility-bias|เก่งแก้ปัญหา กับ ไม่ให้ปัญหาเกิด — เป็นสองงานที่]] — 2026-11-03
 - [[inner-citadel-protect-system|"ป้อมปราการภายใน" วิธีปกป้องแบตเตอรี่สมองจากดราม]] — no date
 - [[golden-window-dopamine-protection|ตื่นมาไถมือถือ = ทำลายแบตเตอรี่สมอง ทำไมคุณถึงเส]] — no date

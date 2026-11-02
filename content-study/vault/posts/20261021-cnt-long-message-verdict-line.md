@@ -1,8 +1,8 @@
 <!--
-pair #59 CLOSED (2026-10-22) — publish 115 wc-w (1.02x v3 near-parity) — body ด้านล่าง = publish verbatim (archive: web-archive/20261022-long-message-verdict-line-publish.md)
+pair #59 CLOSED (2026-10-22) — publish 115 wc-w (1.02x v3 near-parity) — body ด้านล่าง = publish verbatim (archive: vault/artifacts/20261022-long-message-verdict-line-publish.md)
 Full loop: brief 6 องค์ประกอบ (กิ่ง Model) → v1 บรรทัดตัดสิน (steer ×2) → v2 84 (core: feedback ก้อนใหญ่ ≠ ทำทุกจุด) → Benz r1 (6/6 HIT — เพิ่มมิติ "ต้นทุนย้อนกลับ" ไม่ flip thesis; gate ตอบใน paste) → v3 113 (fork 3 ทาง + replacement verbatim) → publish 115 (calibrate certainty ตามตำแหน่ง + de-loss)
 Publish moves (owner): เสียงาน→แก้งาน ×2 (damage→action verb, NOTE supersedes critic-verbatim) | สรุป hedge "อาจต้องจัดการก่อน" ตามชั้น caution (item 239) | คำถามปิด +อาจ+เรา (item 241) | "เดินข้ามไปก่อน"→"ข้ามไปก่อน"
-Versions: v1 web-archive/20261021-long-message-verdict-line-v1.md · v2 ...-v2.md · critique r1 ...-benz-dna-critique-r1.md · publish ...-publish.md
+Versions: v1 vault/artifacts/20261021-long-message-verdict-line-v1.md · v2 ...-v2.md · critique r1 ...-benz-dna-critique-r1.md · publish ...-publish.md
 Skill items รอบนี้: (236)-(242) — สรุปคิด: critique ที่ดีเพิ่มมิติตัดสิน ไม่พลิก thesis; publish = calibrate + de-loss (item 242)
 Notion: 400df8d8-8d8c-81e7-b17b-f449b48b5464 — Status published
 Branch map: Model = โพสต์นี้ CLOSED — brief 6 องค์ประกอบถูกเขียนครบทุกกิ่งแล้ว (ยังห้าม compile ประกาศ — item 225)

@@ -11,7 +11,7 @@ PUBLISH GRADE (keys ใน critique-v2-r1 archive): 15/15 HIT
 - Battery: 108 wc-w = 1.00× v2 (precision ไม่บวม ✓), พร eye 0 (เพราะ×1 FP), คุณ 0, ทุกครั้ง 1 (critic-spine FP), '?' 1
 - Owner keeps (NOTE): hard-break "  " หลัง dispatch quote (STT style — archive verbatim, Notion strip) / hashtags เดิม 5 ตัว
 Notion: page เดิม `40adf8d8-8d8c-81cc-9a28-e26e560c32a4` Name = publish title + delete/rebuild + Status → published
-Archive: `web-archive/20261030-rented-intelligence-accumulating-layer-publish.md` (byte-verbatim paste)
+Archive: `vault/artifacts/20261030-rented-intelligence-accumulating-layer-publish.md` (byte-verbatim paste)
 -->
 
 # AI ทำงานผิด — อย่าแก้แค่คำตอบ แต่เก็บบทเรียนไว้ใช้รอบหน้า

@@ -3,7 +3,7 @@ ContentID: (pending)
 Series: standalone (series stands on its own — bridge to predecessor by question level only, no genealogy per #61)
 Status: draft — v2 rewrite of posts/20260925-cnt-pfc-ceo-command-center.md (v1 UDO draft kept, not deleted)
 Brief (v1, CUT as core): สมองส่วนหน้า = CEO ศูนย์บัญชาการ (Working Memory / จัดลำดับ / Impulse Control / คุมอารมณ์)
-Critique verdict (Benz-DNA 2026-09-25, archived web-archive/20260925-pfc-ceo-benz-dna-critique.md): เก็บ draft, ทำต่อ, ทิ้ง PFC เป็นแกน — v1 = re-skin ของ Load/Noise (CEO ถูกดึง=Noise / CEO ถูกทับ=Load — 1:1 mapping, EN 68) + self-contradiction "ทำ 4 งานจริงๆ" vs "ไม่ใช่ข้อเท็จจริงของสมอง" (EN 69)
+Critique verdict (Benz-DNA 2026-09-25, archived vault/artifacts/20260925-pfc-ceo-benz-dna-critique.md): เก็บ draft, ทำต่อ, ทิ้ง PFC เป็นแกน — v1 = re-skin ของ Load/Noise (CEO ถูกดึง=Noise / CEO ถูกทับ=Load — 1:1 mapping, EN 68) + self-contradiction "ทำ 4 งานจริงๆ" vs "ไม่ใช่ข้อเท็จจริงของสมอง" (EN 69)
 New core: **Priority Ownership** — Interrupt ≠ Override + **Cost of Waiting**
 Rule (user-verbatim): "ถ้าไม่จัดการตอนนี้ ผลเสียจะเกิดขึ้นก่อนที่พรจะมีโอกาสกลับมาจัดการมันไหม?"
 Asset line (user-verbatim): "Incoming ไม่ได้มีสิทธิ์เป็น Priority เพราะมันเข้ามาตอนนี้ — มันได้สิทธิ์ Override ก็ต่อเมื่อการรอสร้าง Cost ก่อนที่เราจะกลับมาจัดการมันได้"

@@ -26,7 +26,7 @@ FORMAT: line-per-sentence + จุดขั้น "." คั่นองก์ +
 Notion: Content Drafts DB `3ccdf8d8-8d8c-81ae-bdf8-cb9eb1821520` Status draft→rewritten, Platform general
 
 R1 (2026-11-02): Benz-DNA critique + DOUBLE GATE — PRE-REWRITE analyze-only, ไฟล์นี้ + Notion body ไม่แตะ (PATCH เฉพาะ Status → rewritten)
-- Archive: `web-archive/20261102-let-them-fight-benz-dna-critique-r1-gates.md` (verbatim + publish keys + baselines) — quote-verify 6/6 HIT (title MISS = formatting-join H1+H3, fragments HIT — grammar #31)
+- Archive: `vault/artifacts/20261102-let-them-fight-benz-dna-critique-r1-gates.md` (verbatim + publish keys + baselines) — quote-verify 6/6 HIT (title MISS = formatting-join H1+H3, fragments HIT — grammar #31)
 - Verdict: อุปมาแข็งกว่าข้อสรุป — "บอกควรเลือกหยิบแต่ไม่มีเกณฑ์" (สองขั้ว + ตรงกลางไม่มีสูตร ทิ้งช่อง "แล้วจะตัดสินใจอย่างไร") + หัวเรื่อง-เนื้อหามีระยะห่าง + closer "หยิบมาใช้" ยังไม่แยกใช้จริง/ทดลองใช้
 - GATE 1: "D โดยใช้แกนเป็นข้อ A" = **gate D-with-primary ครั้งที่ 3 ติดกัน** (#78 C / #79 A / #80 A) — แกน A: "เราไม่จำเป็นต้องวิ่งตามการแข่งขันของบริษัท AI เพราะเราไม่จำเป็นต้องมีทุกเครื่องมือ"
 - GATE 2: "ให้เกณฑ์การเลือกเครื่องมือผูกกับงานที่เรากำลังทำอยู่" (งานปัจจุบัน ไม่ใช่ทิศระยะยาว)

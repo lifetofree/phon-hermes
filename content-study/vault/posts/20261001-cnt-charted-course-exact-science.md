@@ -4,7 +4,7 @@ Status: rewritten (v2 — pair #30 critique implemented, same day)
 Type: CURRENT FORM (system/mindset, post-#17 synthesis)
 Brief (user, 2026-10-01): "advertising and merchandising become exact sciences. Every course is charted. The compass of accurate knowledge directs the shortest, safest, cheapest course to any destination."
 Source (verified 2026-10-01, primary PDF): Claude C. Hopkins, Scientific Advertising (1923) — "The Science of Advertising" section (s3.amazonaws.com/Commonsense/ScientificAdvertising.pdf, cross-checked 2nd mirror). Mechanism passage: keyed advertising / traced returns / coupons — "When one method invariably proves best, that method becomes a fixed principle."
-Rewrite v2 (2026-10-01) — implements pair #30 Benz-DNA critique (archive: web-archive/20261001-charted-course-benz-dna-critique.md):
+Rewrite v2 (2026-10-01) — implements pair #30 Benz-DNA critique (archive: vault/artifacts/20261001-charted-course-benz-dna-critique.md):
 - CUT (zero-count): "วันที่ดี ใครๆ ก็เดิน..." + หัววันแย่ทั้งหัว (critique 2026-09-25 ตัดไว้แล้ว) / "10 ตัว" + "3 เดือน" (false precision) / two-fork ยืมบรรทัด #15 ("debate ใหม่ทุกวัน") และ #20 ("แรงจูงใจทุกเช้า") / H3 เดิมที่โคลน closer
 - PROMOTED spine: coupon/keyed-returns mechanism → หัวใหม่ "กระดาษคำตอบที่กลับมาเอง" (Hopkins มีกระดาษวาดแผนที่ / ระบบเขียนวัด "เหตุผลที่เขียน" ไม่ได้)
 - Kept verbatim (critic keep-list): "หนึ่งความสำเร็จ = สมมติฐาน / ซ้ำจนยืนได้ = แผนที่" + "เข็มทิศที่ดูจริง แต่ชี้ผิด" + H1 (candidate A) + EN compass quote + worked example โพสต์แรก vs โพสต์ที่ห้า

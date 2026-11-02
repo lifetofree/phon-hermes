@@ -6,7 +6,9 @@
 | ของจริง | ตำแหน่งใน vault | จุดเข้าเดิม (ยังใช้ได้เหมือนเดิม) |
 |---|---|---|
 | คู่ draft→publish | `pairs/` 1 ไฟล์/คู่ (generate จาก index.json) | `content-study/index.json` |
-| ตัวโพสต์จริง | `posts/` + `web-archive/` (ไฟล์จริงอยู่ที่นี่) | `content-study/posts/`, `content-study/web-archive/` = symlink กลับเข้า vault |
+| ตัวโพสต์จริง | `posts/` (ไฟล์จริงอยู่ที่นี่) | `content-study/posts/` = symlink กลับเข้า vault |
+| WP snapshot archive | — (อยู่นอก vault) | `content-study/web-archive/` = ไฟล์จริง (WP sync เขียนตรงนี้ — ไม่ผ่าน vault) |
+| Loop artifacts | `artifacts/` (critique/publish archives ของ loop) | wiki-link หาด้วยชื่อไฟล์ — path ไม่สำคัญ |
 | Research ต่อเรื่อง | `research/` (ไฟล์จริงอยู่ที่นี่) | `skills/content-pipeline/references/*-research.md` = symlink กลับเข้า vault |
 | หลักการเขียน | (อยู่นอก vault) | `skills/content-pipeline/SKILL.md` |
 
@@ -22,9 +24,10 @@
       pairs/           ← 1 ไฟล์/คู่ (generate จาก index.json) — มีลิงก์ Research: → research node
       research/        ← symlink → ../../research
       posts/           ← ไฟล์ draft จริง
-      web-archive/     ← ไฟล์ publish/critique archive จริง
+      artifacts/       ← loop artifacts (critique/publish/gates — wiki-link หาด้วยชื่อไฟล์)
       branches/ families/
-    posts/ web-archive/  ← symlink → vault (จุดเข้าเดิม)
+    posts/               ← symlink → vault (จุดเข้าเดิม)
+    web-archive/         ← ไฟล์จริง (WP snapshots — sync_wp_posts.py เขียนตรงนี้)
   skills/content-pipeline/references/ ← symlink → research (จุดเข้าเดิมของ skill)
 ```
 
@@ -63,7 +66,7 @@
 
 ## หลัก symlink (ต้นฉบับเดียว)
 
-- ไฟล์จริง: posts/ + web-archive/ อยู่ใน vault — research/ อยู่ที่ `~/hermes-agent/research/` (repo root — vault เป็นสมาชิกผ่าน symlink ทั้งสองทิศ)
+- ไฟล์จริง: posts/ อยู่ใน vault, web-archive/ (WP snapshots) อยู่นอก vault ที่ `content-study/web-archive/`, loop artifacts อยู่ `vault/artifacts/` — research/ อยู่ที่ `~/hermes-agent/research/` (repo root)
 - skill (`skill_view`/สคริปต์) และ cron (sync_wp_posts.py) ยังใช้ path เดิมได้เต็มรูปแบบ
 - Obsidian: **เปิด vault ที่ระดับ `~/hermes-agent/`** — content vault กับ research vault อยู่ graph เดียว คลิกข้ามได้
 - **ห้ามแก้ไฟล์ผ่านจุดเข้า symlink โดยไม่รู้ว่าเป็น symlink** — แก้ที่ไฟล์ใน vault คือแก้ต้นฉบับเดียวกัน

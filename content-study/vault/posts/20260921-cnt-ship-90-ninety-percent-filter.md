@@ -9,7 +9,7 @@ Sources (verified 2026-09-21):
 - Sturgeon's Law — Theodore Sturgeon, "90% of everything is crap", from the 1945 editorial "More Than a Hundred" (Wikipedia: Sturgeon's law; sf dictionary; jargon file)
 - INK-01 11-minute window — posts/20260915-cnt-spiral-notebook-writing-as-thinking.md (INK-01, 11 นาที)
 - DISPATCH-01 — posts/20260919-cnt-system-diagnostic-daily-dispatch.md (Austin Kleon, Show Your Work! 2014)
-- STREAM-01 — web-archive/20260921-resume-vs-public-terminal-stream-01.md
+- STREAM-01 — vault/artifacts/20260921-resume-vs-public-terminal-stream-01.md
 - Protective Content Guardrail — Duck OS SSOT (Main_Data_for_UDO.md, PART 3.1)
 4 Hook Hormones → element mapping (audit):
 - Attention Shock: title "90% ของงานที่คุณปล่อยออกมาคือขยะ" + sub-hook + stat-line (90% vs 11 นาที)

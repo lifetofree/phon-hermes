@@ -6,7 +6,7 @@ Type: CURRENT FORM (system/mindset, post-#17 synthesis) — pair #47 r1 rewrite 
 Origin (user brief, verbatim): "You must diligently work either on your own reasoning or on things out of your control — take great care with the inside and not what's outside."
 Version chain: v1 (5a0276d) → v2 (761ba03, 85wc) → v3 (this).
   Archives: web-archive/20261012-diligence-inside-not-outside-{v1,v2}.md + benz-dna-critique-r1.md
-Critique r1: web-archive/20261012-diligence-inside-not-outside-benz-dna-critique-r1.md (quote-verify 6/6 HIT live v2 — q1/q3 = multi-block joins, per-fragment 7/7, not stale)
+Critique r1: vault/artifacts/20261012-diligence-inside-not-outside-benz-dna-critique-r1.md (quote-verify 6/6 HIT live v2 — q1/q3 = multi-block joins, per-fragment 7/7, not stale)
 Verdict: ยังไม่ Freeze — "ปัญหาไม่ใช่ภาษา แต่เป็นการเลือก Thesis" — critic เลือกแกน B (งานจบแล้ว แต่ยังอยากจัดการผลลัพธ์) ทิ้งแกน A (ความขยันสองทิศทาง — philosophy ที่เหตุการณ์เดียวไม่พอรองรับ)
 Gate question (critic r1, rule 36) ANSWERED (user via clarify 2026-10-12): **ไม่ได้ลงมือทำอะไรต่อ — แค่รู้สึกอยากทำ**
   => ตาม critic: "บทนี้อาจไม่ได้พูดเรื่อง การใช้แรงผิดที่ เลย แต่อาจกำลังพูดถึง ความรู้สึกว่างานยังไม่จบ ทั้งที่ส่วนที่พรทำได้จบไปแล้ว"

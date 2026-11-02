@@ -6,7 +6,7 @@ name: "⚙️ Law 1: System > Emotion"
 
 # ⚙️ Law 1: System > Emotion
 
-139 content (131 published, 8 ยังไม่ published)
+139 content (132 published, 7 ยังไม่ published)
 
 ## ✅ Published
 
@@ -140,6 +140,7 @@ name: "⚙️ Law 1: System > Emotion"
 - [[unasked-questions-workflow-silence-signal|คนรอบข้างเลิกถามงานเรา — สิ่งที่หายไปกำลังบอกอะไ]] — 2026-10-31
 - [[ai-harness-over-model-lesson-residue|AI ทำงานผิด — อย่าแก้แค่คำตอบ แต่เก็บบทเรียนไว้ใ]] — 2026-11-01
 - [[big-tech-battle-ground-level-tools|ปล่อยให้พวกใหญ่สู้กันเอง — สิ่งที่ร่วงลงมาถึงพื้]] — 2026-11-02
+- [[prevention-vs-firefighting-visibility-bias|เก่งแก้ปัญหา กับ ไม่ให้ปัญหาเกิด — เป็นสองงานที่]] — 2026-11-03
 - [[blind-spots-counting-fallacy-margin-of-safety|คนที่ Blind Spot น้อยชนะ — แต่เราอาจนับของตัวเอง]] — 2026-11-03
 
 ## · ยังไม่ published
@@ -148,7 +149,6 @@ name: "⚙️ Law 1: System > Emotion"
 - [[brain-runtime-error-404-cache-cleaner|ทำไมตอนบ่ายถึงชอบขึ้น Error 404 (หาไม่เจอ) และวิ]] — 2026-05-25
 - [[4-background-apps-memory-leak-brain-ram|แฉ 4 Background Apps เบื้องหลังที่ทำ Memory Leak]] — 2026-06-03
 - [[one-year-360-posts-system-over-inspiration|หนึ่งปี 360 โพสต์ — ตัวเลขที่บอกว่าเดินมาได้เพรา]] — 2026-11-01
-- [[prevention-vs-firefighting-visibility-bias|เก่งแก้ปัญหา กับ ไม่ให้ปัญหาเกิด — เป็นสองงานที่]] — 2026-11-03
 - [[golden-window-dopamine-protection|ตื่นมาไถมือถือ = ทำลายแบตเตอรี่สมอง ทำไมคุณถึงเส]] — no date
 - [[law1-system-over-emotion|Law #1: System > Emotion ทำไมคนที่รอด ถึงไม่ใช้ ]] — no date
 - [[monthly-system-audit-february-2026|Audit กุมภาพันธ์: ระบบ Duck OS ของเรา "ซิ่ง" หรื]] — no date
