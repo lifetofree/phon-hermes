@@ -2405,3 +2405,21 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - register: no-case class-level เราล้วน (เรา 1 / พร 0 / '?' 0); mechanism "ทำไมของถึงร่วง" = hypothesis อาจ×2 (แต่ละทีมต้องเสนอมากกว่าเดิม / เหตุผลอื่น) ไม่ฟันธง; สองท่าที่คนดู (กังวล/เชียร์) = สังเกต ไม่ตัดสิน; ทางสาม (เก็บทุกชิ้น/ไม่สน/ไม่มีสูตรกลาง) = honesty ไม่สร้างเกณฑ์ (do-not-build)
 - **sibling guards 6 ทิศ:** #57 เทรน-family=0 / #64 เจได-ซิธ-ฝั่ง=0 (คำเดียว "ฝั่ง" ตัดทั้งคำ ใช้ "ทีม") / #76 open-weights ทางเลือก-เจ้าของ-ควบคุม=0 / #77 rented-intel สินทรัพย์-สกัด-วงจร=0 / #42 ข่าว=0 (ไม่ใช่โพสต์อ่านข่าว) / FOMO-กิ่ง park ตามไม่ทัน-ตกขบวน=0 + #79 เงียบ=0; engine-family ledger เงา near-miss "เก็บไว้แล้วไม่เคยหยิบอีก" ไม่เรียกชื่อ
 - battery PASS: 84wc, CUT 26 = 0 (self-catch เพราะ-lookalike 1 จุด → "อาจเกิดจากการที่..." ตาม item 233), codepoint+adjacency CLEAN, H1 1/H2 1/H3 1, dots 8, quote bold 1 — **Notion รอ create (ถูก interrupt กลางทาง — รอรอบถัดไป file)**
+
+### 2026-11-02 pair #79 CLOSED — publish 95wc (1.07× v1 near-parity) + keys 8/8 HIT + DEAD 3=0 + Notion → published — locked-system-still-breaks
+
+- **loop วันเดียวครบ:** กิ่ง #22 graduate → v1 89 → Benz r1 (5/6 quote HIT) → gate "D แต่แกนหลักคือ A" (D-with-primary ครั้งที่ 2 ต่อจาก #78) → analyze-only → publish เข้ามา → เกรด → CLOSED
+- **keys 8/8 HIT:** K1 spine ขยายเป็น bold "ตัดสินใจและออกแบบไว้...ทุกสิ่งที่อาจเกิดขึ้น" + K2 critic core แตกเป็น body-verbatim + title รูปย่อ + K3 closer "การล็อกสิ่งที่รู้ ไม่ได้ทำให้สิ่งที่ยังไม่รู้หายไป" verbatim เป็ด + K4 สามสถานะครบ (หยุด/ประสิทธิภาพลด/รายงานปกติแต่ผิดปกติ) + K5 "จัดหน้า"=0 แทนด้วยคำถามคู่ (C แฝง ไม่กลายเป็นบท Monitoring ตามข้อห้าม critic) + K6 logic-gap hedge ใหม่ "วันนี้ปกติไม่ยืนยันวันหน้า" + K7 honesty tail + K8 ไม่เติมวิธีแก้เกินเคส
+- **DEAD 3 = 0:** จัดหน้า / dispatch เดิม "บนอีกทาง" / "เชื่อง" — **owner-call NOTE (item 175):** ประโยคที่ critic เรียก "ดีมาก" ("จับได้จากความเชื่อง") ถูกตัด แทนด้วย "ประสิทธิภาพลดลงจนสังเกตได้" (ตรง K4 มากกว่า)
+- **quote เปลี่ยน class:** dispatch คำถาม (v1) → ประโยคสรุป bold "สองครั้งที่ระบบเงียบ แต่สาเหตุไม่เหมือนกัน" — รูป "quote = statement ของ fork" น่าจด
+- **artifact:** บรรทัด "> " ว่างหลัง quote (ครั้งที่ 6+) — archive verbatim / Notion ตัดก่อน import
+- battery: 95wc (1.07× v1 near-parity — ขยายสามสถานะ + ขอบเขตการล็อก แต่คุมยาวใกล้ v1), เรา 4 (measured) / พร-eye 5 = lookalike เพราะ+พร้อม (FP ตาม item 233 — คำว่า เพราะ/พร้อม ไม่ใช่ พร) / '?' 0
+- archive `web-archive/20261102-locked-system-still-breaks-publish.md` (byte-verbatim) — Notion same page **Status → published** read-back ครบ (closer ✓ dead 0)
+- **กิ่ง B/C = stock ใน header (owner สั่งเก็บ ยังไม่เขียน) — pattern note: gate D-with-primary 3 ครั้งติดกัน (#78 C / #79 A / #80 A) = owner gate-form**
+
+### 2026-11-02 pair #80 r1 (PRE-REWRITE, analyze-only) — "ปล่อยให้พวกใหญ่สู้กันเอง" (let-them-fight) — Benz r1 + DOUBLE GATE (D-with-A + เกณฑ์ผูกงาน)
+
+- **quote-verify 6/6 HIT** (title MISS = formatting-join: critic ต่อ H1+H3 ด้วย dash ทั้งที่แยกบล็อก — fragments HIT ตาม grammar #31); verdict: **อุปมาแข็งกว่าข้อสรุป** — สองขั้ว (เก็บทุกชิ้น/ไม่สน) + "ตรงกลางไม่มีสูตร" ทิ้งคำถามค้าง "แล้วจะตัดสินใจอย่างไร?" + จุดที่สอง หัวเรื่อง 2 แนวคิด เนื้อหาขยายแค่เดียว ("ไม่มีป้ายเหมาะกับใคร" ยังไม่ถูกขยาย) + จุดที่สาม closer "หยิบมาใช้" ยังไม่แยก ใช้จริง/ทดลองใช้ ("บางคนหยิบแล้วไม่สร้างคุณค่า")
+- **DOUBLE GATE ตอบครบในชุดเดียว:** (1) "D โดยใช้แกนเป็นข้อ A" — **D-with-primary ครั้งที่ 3 ติดกัน (#78 C / #79 A / #80 A) = owner gate-form มาตรฐาน** (2) "เกณฑ์ผูกกับงานที่เรากำลังทำอยู่" (ไม่ใช่ทิศระยาว) — critic ขยายเป็น spine "ไม่ต้องเก็บทุกอย่างที่ร่วงลงมา แค่เลือกสิ่งที่ช่วยให้งานที่เราทำอยู่ดีขึ้นก็พอ" + ladder 6 ขั้น + KEEP 3 (ท่าคนดู/ไม่มีป้าย/เลือกใหม่อยู่เรื่อย) + แนวคิดรวม "ไม่ควบคุมการแข่งขันข้างบน แต่รับผิดชอบการเลือกข้างล่าง" + **ห้ามกลายเป็นบทแนะนำเลือกใช้ AI — ยังเป็นการปรับมุมมอง**
+- **จุดแข็งที่ critic ยก:** อุปมา "ของร่วงถึงพื้นบ้าน" มีเอกลักษณ์ (รักษา) / ไม่เลือกข้าง (reframe ดี) / honesty อาจ×2 "ควรรักษาวิธีคิดนี้ไว้" — baselines: critic-core ทุกประโยค = 0 ใน v1, KEEP ทั้งสาม = 1
+- archive `web-archive/20261102-let-them-fight-benz-dna-critique-r1-gates.md` — draft + Notion body ไม่แตะ — Status → rewritten — **สถานะ: รอ publish version จาก owner**

@@ -23,7 +23,15 @@ INSIGHT-ONCE: ประโยคแกนลงเต็มที่เดีย
 DO-NOT-BUILD (default Signal-stage): "ไม่มีสูตรว่าชิ้นไหนควรหยิบ" ยืนเป็นความซื่อตรงของบท ไม่เพิ่มเครื่องมือ/เกณฑ์
 CUT LIST (zero-count): เทรน, เจได, ซิธ, ฝั่ง, กฎ, สินทรัพย์, ฉลาดเช่า, ทางเลือก, เจ้าของ, ควบคุม, ตามไม่ทัน, ตกขบวน, ราคา, ต้นทุน, แพง, ถูกลง, ข่าว, เงียบ, โมเดล, พร, คุณ, คับ, ผม, พร้อม, เสมอ, ทุกครั้ง
 FORMAT: line-per-sentence + จุดขั้น "." คั่นองก์ + H2 #สรุปแบบวิศวกรเป็ด + quote bold 1 (dispatch กลางบท) + hashtag tail; '?' 0 (house draft convention)
-Notion: Content Drafts DB `3ccdf8d8-8d8c-81ae-bdf8-cb9eb1821520` Status draft, Platform general
+Notion: Content Drafts DB `3ccdf8d8-8d8c-81ae-bdf8-cb9eb1821520` Status draft→rewritten, Platform general
+
+R1 (2026-11-02): Benz-DNA critique + DOUBLE GATE — PRE-REWRITE analyze-only, ไฟล์นี้ + Notion body ไม่แตะ (PATCH เฉพาะ Status → rewritten)
+- Archive: `web-archive/20261102-let-them-fight-benz-dna-critique-r1-gates.md` (verbatim + publish keys + baselines) — quote-verify 6/6 HIT (title MISS = formatting-join H1+H3, fragments HIT — grammar #31)
+- Verdict: อุปมาแข็งกว่าข้อสรุป — "บอกควรเลือกหยิบแต่ไม่มีเกณฑ์" (สองขั้ว + ตรงกลางไม่มีสูตร ทิ้งช่อง "แล้วจะตัดสินใจอย่างไร") + หัวเรื่อง-เนื้อหามีระยะห่าง + closer "หยิบมาใช้" ยังไม่แยกใช้จริง/ทดลองใช้
+- GATE 1: "D โดยใช้แกนเป็นข้อ A" = **gate D-with-primary ครั้งที่ 3 ติดกัน** (#78 C / #79 A / #80 A) — แกน A: "เราไม่จำเป็นต้องวิ่งตามการแข่งขันของบริษัท AI เพราะเราไม่จำเป็นต้องมีทุกเครื่องมือ"
+- GATE 2: "ให้เกณฑ์การเลือกเครื่องมือผูกกับงานที่เรากำลังทำอยู่" (งานปัจจุบัน ไม่ใช่ทิศระยะยาว)
+- Critic spine รอบ 3: "ไม่ต้องเก็บทุกอย่างที่ร่วงลงมา แค่เลือกสิ่งที่ช่วยให้งานที่เราทำอยู่ดีขึ้นก็พอ" + ladder 6 ขั้น + KEEP 3 ประโยค (ท่าคนดู / ไม่มีป้าย / เลือกใหม่อยู่เรื่อย) + รักษาอุปมา + ห้ามกลายเป็นบทแนะนำเลือกใช้ AI
+- **สถานะ: รอ publish version จาก owner**
 -->
 
 # ปล่อยให้พวกใหญ่สู้กันเอง

@@ -4369,15 +4369,15 @@
   },
   {
     "slug": "20261102-cnt-locked-system-still-breaks",
-    "title": "ระบบที่ล็อกไว้แล้ว ก็ยังมีวันพัง — วันที่ระบบเงียบ มันกำลังพัง หรือกำลังทำงานอยู่บนอีกทาง (pair #79 v1, PRE-CRITIQUE)",
+    "title": "ระบบที่ล็อกไว้แล้ว ก็ยังมีวันพัง — เพราะเราไม่ได้ควบคุมทุกสิ่งที่ระบบพึ่งพา (pair #79 CLOSED — publish)",
     "file": "posts/20261102-cnt-locked-system-still-breaks.md",
     "link": "https://app.notion.com/p/40cdf8d88d8c813fb38aee1727bec586",
     "notion_page_id": "40cdf8d8-8d8c-813f-b38a-ee1727bec586",
     "date": "2026-11-02",
-    "status": "rewritten (pair #79 r1 PRE-REWRITE — Benz r1 + gate D-with-A-primary; draft/Notion body ไม่แตะ รอ publish — กิ่ง B/C เก็บเป็น stock)",
-    "words": 89,
+    "status": "published (pair #79 CLOSED 2026-11-02 — publish PATCHed same page)",
+    "words": 95,
     "form": "CURRENT FORM — type A เราล้วน (เรา 2, พร/คุณ/คับ 0, '?' 0, quote bold 1, dots 8)",
-    "note": "loop: กิ่ง #22 graduate → v1 89wc → Benz r1 (quote-verify 5/6 HIT + 1 ย่อประโยค honesty-tail; verdict แกนคิดดี แต่หัวเรื่องถาม-บทตอบไม่ชัด: สามสถานะ ไม่ทำงาน/ทำงานชลง/รายงานปกติแต่ผิดปกติ) → gate \"D แต่แกนหลักคือ A\" (D-with-primary ครั้งที่ 2 ต่อจาก #78) → r1 analyze-only (item 305 class) → **รอ publish version จาก owner** — publish keys: แกน A น้ำหนักขึ้น (\"การล็อกครอบคลุมได้แค่คำตอบที่เราเคยตัดสินใจเอง\" keep-spine ×1) + critic-proposed core 2 ประโยค (baseline 0) + สามสถานะเป็นหลักคิด + \"จัดหน้า\" 0 + closer hedge กัน logic-gap — กิ่ง B/C เก็บเป็น stock (owner สั่ง): B = ระบบรายงานปกติแต่พฤติกรรมผิดปกติ / C = ออกแบบให้มีทางไปต่อเมื่อบางส่วนพัง — ข้อสรุปต้องต่างกันจริง ยังไม่เขียน (critic เองสั่ง ให้ A สมบูรณ์ก่อน) — archive web-archive/20261102-locked-system-still-breaks-benz-dna-critique-r1.md — Notion Status draft→rewritten (body คง v1)"
+    "note": "loop: กิ่ง #22 → v1 89 → Benz r1 (5/6 HIT) → gate D-with-A-primary → analyze-only → publish 95wc (1.07× near-parity) — keys 8/8 (spine bold ขยาย / critic core = title+body / closer verbatim เป็ด / สามสถานะ / จัดหน้า→คำถามคู่ / hedge วันหน้า / honesty / ไม่เติมแก้) — DEAD 3=0 — owner-call: ตัดประโยค 'ดีมาก' ของ critic แทนด้วยสถานะที่ 3 (item 175 NOTE) — quote → statement 'สองครั้งที่ระบบเงียบ แต่สาเหตุไม่เหมือนกัน' — กิ่ง B/C stock — gate D-with-primary 3 ติดกัน (#78/#79/#80)"
   },
   {
     "slug": "20261102-cnt-let-them-fight",
@@ -4386,9 +4386,9 @@
     "link": "https://app.notion.com/p/40cdf8d88d8c81f8a837ebdb1aaa5983",
     "notion_page_id": "40cdf8d8-8d8c-81f8-a837-ebdb1aaa5983",
     "date": "2026-11-02",
-    "status": "draft (pair #80 v1 — รอ review/Benz r1) — Notion filed",
+    "status": "rewritten (pair #80 r1 PRE-REWRITE — Benz r1 + double gate D-with-A + เกณฑ์ผูกงานปัจจุบัน; รอ publish)",
     "words": 84,
     "form": "CURRENT FORM — type A no-case class-level เราล้วน (เรา 1, พร/คุณ/คับ 0, '?' 0, quote bold 1, dots 8)",
-    "note": "loop: กิ่งสุดท้ายของ brief-chain (ยุค AI หยุดไม่ได้ → Let them fight → เจได-ซิธ → ถูกเทรน-ผู้เทรน) — #57/#64 CLOSED แล้ว เหลือกิ่งนี้ — spine: พวกใหญ่สู้กันเพื่อชนะกันเอง แต่การปะทะทิ้งของที่ร่วงถึงพื้นบ้าน (ความสามารถที่เคยไกลมือ เคลื่อนมาใกล้โดยไม่ถาม) — ของร่วงไม่มีป้ายไม่เลือกตกที่ใคร ไม่ทำให้ใครต่างจากเดิมจนกว่าจะมีคนหยิบไปใช้ (bold closer) — sibling guards: #57 เทรน-family=0 / #64 เจได-ซิธ-ฝั่ง=0 (คำเดียว \"ฝั่ง\" ตัดทั้งคำ ใช้ \"ทีม\") / #76 ทางเลือก-เจ้าของ-ควบคุม=0 / #77 สินทรัพย์-สกัด=0 / #42 ข่าว=0 / FOMO ตามไม่ทัน=0 / #79 เงียบ=0 — mechanism hypothesis อาจ×2 ไม่ฟันธง (แต่ละทีมต้องเสนอมากกว่าเดิม) — battery PASS: CUT 26=0 (แก้ เพราะ-lookalike 1 จุด ตาม item 233), codepoint+adjacency CLEAN — Notion 37 blocks H1 0 quote bold ✓ empty 0 dead 0 Status draft"
+    "note": "loop: กิ่ง Let-them-fight → v1 84 → Benz r1 6/6 quote HIT (อุปมาแข็งกว่าข้อสรุป: ไม่มีเกณฑ์เลือก / หัวเรื่อง-เนื้อหาห่าง / closer หยิบมาใช้ คลุม ใช้จริง-ทดลอง) → DOUBLE GATE: D-with-A-primary (ครั้งที่ 3 ติดกัน) + เกณฑ์ผูกงานปัจจุบัน → critic spine 'ไม่ต้องเก็บทุกอย่าง... แค่เลือกสิ่งที่ช่วยให้งานที่เราทำอยู่ดีขึ้นก็พอ' + ladder 6 ขั้น + KEEP 3 + ห้ามกลายเป็นบทแนะนำเลือกใช้ AI → analyze-only (item 305 class) → **รอ publish version จาก owner** — archive web-archive/20261102-let-them-fight-benz-dna-critique-r1-gates.md"
   }
 ]
