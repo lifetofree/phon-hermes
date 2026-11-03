@@ -4582,15 +4582,15 @@
   "note": "loop: quote-brief (\"I don't want to be a great problem solver…\" + Thai expansion ของ owner) → v1 72wc — spine ตามลำดับ brief 3 ชั้น (rule 38): ไม่อยากแก้เก่ง → อยากไม่ให้เกิด → = แก้ที่ต้นเหตุ — insight allocation: องก์ 3 โชว์ vs ไม่โชว์ (งานป้องกันสำเร็จแล้วโล่ง แพ้ลำดับความสำคัญ) / องก์ 4 คล่องขึ้น ≠ ใกล้หาย (แก้ซ้ำ = ต้นเหตุยังอยู่, ต้นเหตุอยู่ก่อนปัญหามีชื่อ) / duck line 1 = advance (คุ้นเคย ≠ ก้าวหน้า — item 281) / bold = thesis owner — do-not-build: ไม่มีเกณฑ์แยกเคส (ประกาศขอบเขต \"บทนี้ยังไม่มีคำตอบ\") + กิ่ง park 3 ใน header (เกณฑ์แยก / observability งานป้องกัน — flag ใกล้ #79 B-stock / ความคุ้นเคยเป็นต้นทุนแฝง) — sibling guards: #81 blind-spot=0, tool-family=0, #46 ถือ=0, #77/51 วงจร-vocab=0 — battery: CUT 20=0 (แก้ เพราะ 1 จุด), เรา 1, อาจ 2, scans CLEAN — quote reported ว่ากันว่า ไม่อ้างเจ้าของ — Notion 24 blocks quote bold ✓ dead 0 Status draft — r1: quote-verify 5/5 HIT; verdict แกนชัด แต่ 4 จุด (คู่ตรงข้ามแข็ง / ฟันธงต้นเหตุเกิน / ครั้งที่สามไม่ใช่กฎ / closer ประกาศเกิน) — gate: critic จัด A ครอบคลุมสุด แต่ owner เลือก B (อคติให้คุณค่ากับผลงานที่มองเห็นได้) + spec 4 ข้อ (ป้องกัน-ไม่มีให้เห็น = แกน / แก้ซ้ำ = ตัวอย่าง / แก้เก่ง ≠ ลดปัญหา = ชั้นรอง / ไม่เพิ่มวิธี) + subtitle ขยับ encode B — keys 10 ใน archive — รอ publish"
  },
  {
-  "slug": "20261103-cnt-ai-harness-pair-not-piece",
-  "title": "เลือก AI harness ด้วย model เดิม — แต่ลืมว่าเราเปลี่ยนทั้งคู่ (pair #98 v1, PRE-CRITIQUE)",
-  "file": "posts/20261103-cnt-ai-harness-pair-not-piece.md",
+  "slug": "20261103-cnt-ai-harness-body-brain-six-levels",
+  "title": "ถ้า AI เป็นคน โมเดลคือสมอง แล้ว harness คือทุกส่วนที่เหลือ (6-level storytelling, replaces pair #98 draft)",
+  "file": "posts/20261103-cnt-ai-harness-body-brain-six-levels.md",
   "link": "https://app.notion.com/p/AI-harness-model-pair-98-v1-PRE-CRITIQUE-40ddf8d88d8c819a8770fe9b8ea478a7",
   "notion_page_id": "40ddf8d8-8d8c-819a-8770-fe9b8ea478a7",
   "date": "2026-11-03",
-  "status": "draft (pair #98 v1 — owner picked L2 from six-level trial; รอ Benz r1)",
-  "words": 66,
-  "form": "CURRENT FORM — L2 doing-wrong-unnoticed, no-case class-level เราล้วน (เรา 6, '?' 0, quote bold 1, closer bold 1, dots 4)",
-  "note": "loop: owner brief 6-level trial จาก KB AI Harness → owner เลือก L2 → ไฟล์เดียว per level (ร่างอื่นใน git history ของ 20261103-cnt-ai-harness-six-levels.md) — แกน: เทียบชื่อ = เห็นครึ่งเดียวของคู่ harness×model — CUT clean (แก้ เพราะ x3 + ทุกครั้ง), ไม่มีชื่อแบรนด์ในบท, Notion read-back 18 blocks + empty 0 + bold 2 จุด (quote + closer)"
+  "status": "draft (บทเดียว 6 ขั้นไหลต่อกันตาม owner directive; เนื้อ pair #98 v1 + ร่าง 6 แยก อยู่ใน git history + ไฟล์เก่า; รอ Benz r1 หรือ owner ปรับต่อ)",
+  "words": 163,
+  "form": "CURRENT FORM บทเดียว — non-tech storytelling ภาพ โมเดล=สมอง / harness=ร่างกาย, H3 ขั้นภาษาคน 6 อัน (เลขไทย ไม่มีเลขอารบิก), prose paragraphs (steer #58), เรา 6, '?' 0, quote bold 1 (ขั้นสอง) + closer bold 1, CUT zero-count ครบ",
+  "note": "loop: owner brief storytelling (คืออะไร/เปรียบเสมือน/เกี่ยวกับโมเดลยังไง) → ร่างห้องนักบิน (cockpit-story — parked) → steer: ไม่วิชาการ + ภาพสมอง-ร่างกาย + 6 ขั้น → ร่าง 6 แยก → directive ปรับ title + push แทนหน้า #98 (PATCH props + rebuild blocks) → directive \"เอาทั้ง 6 level ให้อยู่บทความเดียวกัน\" → รวมเป็นบทเดียว 6 ขั้น (แก้ ขั้น 1→ขั้นที่หนึ่ง ตาม CUT เลขอารบิก) → push รอบสอง — verify read-back: 42 blocks, empty 0, quote+closer bold ครบ, H3 6, '?' 0, เลขอารบิก 0, CUT clean, tail hashtags ครบ"
  }
 ]
