@@ -4592,5 +4592,17 @@
   "words": 123,
   "form": "CURRENT FORM บทเดียว — non-tech storytelling ภาพ โมเดล=สมอง / harness=ร่างกาย, prose paragraphs ล้วน (steer #58 + steer รอบสี่ ตัด H3 ทั้งหก), จุดขั้น `.` คั่นองก์, เรา 6, '?' 0, เลขอารบิก 0, quote bold 1 + closer bold 1, CUT zero-count ครบ",
   "note": "loop: brief storytelling → ร่างห้องนักบิน (parked) → steer ภาพสมอง-ร่างกาย + 6 ขั้น → ร่าง 6 แยก → directive ปรับ title + push แทนหน้า #98 → directive รวมเป็นบทเดียว (H3 ขั้นที่หนึ่ง…หก) → steer รอบสี่ \"ไม่เอาเป็นชั้น ๆ มันดูตลก\" → ตัด H3 ทั้งหมด เหลือ prose ไหล + จุดขั้น → push รอบสาม — verify read-back: 40 blocks, empty 0, H3 0, H2 เดียว (#สรุป), quote+closer bold ครบ, '?' 0, เลขอารบิก 0, CUT clean, tail ครบ"
- }
-]
+  },
+  {
+  "slug": "20261103-cnt-fridge-hack-obedience",
+  "title": "ตู้แช่ไม่ได้พัง มันทำตามคำสั่งได้สำเร็จ (fresh draft, fridge-hack obedience lens)",
+  "file": "posts/20261103-cnt-fridge-hack-obedience.md",
+  "link": "https://app.notion.com/p/40ddf8d88d8c81a98d15e25a65acf446",
+  "notion_page_id": "40ddf8d8-8d8c-81a9-8d15-e25a65acf446",
+  "date": "2026-11-03",
+  "status": "draft (fresh single จากข่าว — ยังไม่ได้เลข pair, รอ owner ตัดสินใจเปิด loop / Benz r1)",
+  "words": 130,
+  "form": "CURRENT FORM news-sourced single — obedience lens (ของที่เชื่อฟัง vs สิทธิ์สั่ง), prose paragraphs + จุดขั้น, เรา 3, '?' 0, เลขอารบิก 0 (เขียนเป็นคำไทย), quote bold 1 + closer bold 1, CUT zero-count ครบ ไม่มีชื่อแบรนด์ในบท",
+  "note": "loop: owner brief search ข่าวตู้แช่โดนแฮ็ก → เคสยุโรป: ฝรั่งเศส ต.ค. ~700 ร้าน ตู้ร้อน 50C ค้างคืน อาหารเสียหลายล้านยูโร บางร้านไฟลุก (BBC/Ars/The Record) → สาเหตุ: controller รุ่นเก่า (Danfoss หยุด update) รหัส generate จากวันที่ + ต่อ internet สาธารณะ ไม่มี VPN/allowlist → คลื่นสอง พ.ย. เจ็ดประเทศ (BBC/Guardian/NPR) + US bases ส.ค. — มุมที่เลือก: obedience (ตู้ทำตามคำสั่งสำเร็จ ไม่ใช่พัง) — CUT: ไม่ใส่ attribution อิหร่าน (NPR = ข้อเคลมบริษัทเดียว + US low confidence), ไม่เข้าแนวซ่อม-ป้องกัน (#82), ชื่อแบรนด์ = 0 ในบท — Notion หน้าใหม่ verify read-back 17 blocks, empty 0, bold ครบ, tail ครบ"
+  }
+  ]
