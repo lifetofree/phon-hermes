@@ -4588,9 +4588,9 @@
   "link": "https://app.notion.com/p/AI-harness-model-pair-98-v1-PRE-CRITIQUE-40ddf8d88d8c819a8770fe9b8ea478a7",
   "notion_page_id": "40ddf8d8-8d8c-819a-8770-fe9b8ea478a7",
   "date": "2026-11-03",
-  "status": "draft (บทเดียว 6 ขั้นไหลต่อกันตาม owner directive; เนื้อ pair #98 v1 + ร่าง 6 แยก อยู่ใน git history + ไฟล์เก่า; รอ Benz r1 หรือ owner ปรับต่อ)",
-  "words": 163,
-  "form": "CURRENT FORM บทเดียว — non-tech storytelling ภาพ โมเดล=สมอง / harness=ร่างกาย, H3 ขั้นภาษาคน 6 อัน (เลขไทย ไม่มีเลขอารบิก), prose paragraphs (steer #58), เรา 6, '?' 0, quote bold 1 (ขั้นสอง) + closer bold 1, CUT zero-count ครบ",
-  "note": "loop: owner brief storytelling (คืออะไร/เปรียบเสมือน/เกี่ยวกับโมเดลยังไง) → ร่างห้องนักบิน (cockpit-story — parked) → steer: ไม่วิชาการ + ภาพสมอง-ร่างกาย + 6 ขั้น → ร่าง 6 แยก → directive ปรับ title + push แทนหน้า #98 (PATCH props + rebuild blocks) → directive \"เอาทั้ง 6 level ให้อยู่บทความเดียวกัน\" → รวมเป็นบทเดียว 6 ขั้น (แก้ ขั้น 1→ขั้นที่หนึ่ง ตาม CUT เลขอารบิก) → push รอบสอง — verify read-back: 42 blocks, empty 0, quote+closer bold ครบ, H3 6, '?' 0, เลขอารบิก 0, CUT clean, tail hashtags ครบ"
+  "status": "draft (บทเดียว prose ไหล ไม่มีหัวข้อขั้น ตาม owner steer รอบสี่; เนื้อ #98 v1 + ร่างเก่าทุกเวอร์ชัน อยู่ใน git history + ไฟล์เก่า; รอ Benz r1 หรือ owner ปรับต่อ)",
+  "words": 123,
+  "form": "CURRENT FORM บทเดียว — non-tech storytelling ภาพ โมเดล=สมอง / harness=ร่างกาย, prose paragraphs ล้วน (steer #58 + steer รอบสี่ ตัด H3 ทั้งหก), จุดขั้น `.` คั่นองก์, เรา 6, '?' 0, เลขอารบิก 0, quote bold 1 + closer bold 1, CUT zero-count ครบ",
+  "note": "loop: brief storytelling → ร่างห้องนักบิน (parked) → steer ภาพสมอง-ร่างกาย + 6 ขั้น → ร่าง 6 แยก → directive ปรับ title + push แทนหน้า #98 → directive รวมเป็นบทเดียว (H3 ขั้นที่หนึ่ง…หก) → steer รอบสี่ \"ไม่เอาเป็นชั้น ๆ มันดูตลก\" → ตัด H3 ทั้งหมด เหลือ prose ไหล + จุดขั้น → push รอบสาม — verify read-back: 40 blocks, empty 0, H3 0, H2 เดียว (#สรุป), quote+closer bold ครบ, '?' 0, เลขอารบิก 0, CUT clean, tail ครบ"
  }
 ]
