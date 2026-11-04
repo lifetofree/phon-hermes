@@ -1,19 +1,19 @@
 ---
 pair: 101
-hash: 0478a5cd33-fe1547
+hash: b96b357db8-fe1547
 date: 20261104
 ---
 
-# แก้ข้อมูลเก่งกว่าแก้ความเชื่อ (fresh draft, cognitive dissonance roast)
+# ของที่ถูกแก้ก่อน มักเป็นข้อมูล ไม่ใช่ความเชื่อ (v2 — rewrite ตาม self-critique gate B)
 
 - **status:** draft (รอ Benz r1)
 - **date:** 20261104
-- **words:** 46
-- **form:** CURRENT FORM idea-brief roast — cognitive dissonance มุมด่าฟุด (owner redirect จาก resonance; ไม่อ้างข่าว) — SAY: แก้ข้อมูลก่อนแก้ความเชื่อ — prophecy study unnamed, reported speech ล้วน, เรา ~2 (counter undercount), คุณ 0, '?' 0, เลขอารบิก 0, quote+closer bold, resonance draft parked เป็นกิ่ง
+- **words:** 54
+- **form:** CURRENT FORM idea-brief roast v2 — SAY: แก้ข้อมูลก่อนแก้ความเชื่อ + จับได้จากคำอธิบายไหลลื่นเกินหลักฐาน; คู่แพง-ถูกเป็น movement สองคน, ทางที่ห้า (เปลี่ยนใจคนอื่น) ปูก่อนการศึกษา, ลิงก์นุ่มสะสม stated, มุกหลักสูตร x1, title hedged มัก — C เก็บกิ่ง branch-conversion-as-replenishment
 - **Notion:** https://app.notion.com/p/40edf8d88d8c81d79cfefcf265b4b4f5
 - **ไฟล์โพสต์:**
   - [20261104-cnt-dissonance-edit-data-not-belief](../posts/20261104-cnt-dissonance-edit-data-not-belief.md)
 
 ## บันทึก
 
-loop: brief resonance → research (APA primary + Hart meta + prophecy study) → owner redirect ด่า dissonance → draft 46wc battery-pass → filed Notion — sibling guard resonance-parked (คำครบ 0)
+loop: brief resonance → research (APA primary + Hart meta + prophecy study) → owner redirect ด่า dissonance → draft 46wc battery-pass → filed Notion — sibling guard resonance-parked (คำครบ 0) → self-critique (จำลอง Benz 5 จุด) → owner: "rewrite ตาม B เก็บ C เป็นวัตถุดิบ next content" → v2: title hedge มัก + คู่ movement + ทางที่ห้า + ลิงก์นุ่ม + มุกเดียว + closer สัญญาณเช็คตัวเอง (FP: เสมอในรูปปฏิเสธความสากล) → Notion rebuild + Name PATCH, Status draft รอ Benz r1 ตัวจริง; กิ่ง C → vault/branches/branch-conversion-as-replenishment.md
