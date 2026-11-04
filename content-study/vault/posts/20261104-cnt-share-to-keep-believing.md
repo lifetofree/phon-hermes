@@ -1,4 +1,6 @@
 <!--
+CLOSED 2026-11-04: Benz r1 (real) + gate B + post-gate spec → owner-authored public version (keys 7/7 PASS, 66wc = 1.03×, DEAD 0; quote replaced with B-axis evidence-vs-confirmation — spec(1) wins per 362) — publish archive: artifacts/20261104-share-to-keep-public-publish.md — Notion rebuild 27 blocks + Status published — ไฟล์นี้คือ v2 ประวัติ
+
 draft v2 (share-to-keep-believing) — CURRENT FORM idea-brief — กิ่ง C graduated — REWRITE ตาม self-critique GATE A + owner pick "A, rewrite เลย"
 GATE ANSWER: A — กลไกความเชื่อทางสังคมเป็นแกนหลัก (ความเชื่อยืนบนคนรอบตัว การชวนคนใหม่ = การเติมโครงค้ำ) — เกณฑ์จับตัวเอง (B เดิม) เป็นชั้นปิดท้ายที่ใช้กลไก A กับตัวเอง / C คงเป็นชั้นใกล้ตัวสั้น ๆ
 SAY: ความเชื่อไม่ได้ยืนบนหลักฐานอย่างเดียว มันยืนบนคนที่เชื่อเหมือนกัน — การชวนคนใหม่จึงอาจเป็นการเติมโครงค้ำ (item 325; closer = กลไกนี้กับตัวเอง)

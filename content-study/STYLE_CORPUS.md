@@ -2481,3 +2481,10 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - **บทเรียนใหญ่:** จำลองวิจารณ์จับ "form" ได้ แต่ evidence-class (frequency word ไร้ฐาน / two-layer citation / fork dignity / signal-criterion) คือดินแดนของ critic จริง — และ owner เลือกแกนที่ critic เตือนว่าเสี่ยงหลักฐานสุด = คำสั่งให้ "ออกแบบการหาหลักฐาน" ไม่ใช่ softening (hedge-web mechanism-route ผ่าน function-grade)
 - **รูปงานวิจัยที่ผ่าน:** ชั้นสังเกต (สมาชิกบางส่วน...ออกไปชักชวน) แยกจากชั้นตีความ ("งานศึกษานี้เสนอคำอธิบายว่า...อาจช่วย") — ตีความห้ามฟันธงแรงจูงใจทุกคน
 - **closer ที่ผ่าน:** คำถามเกณฑ์ตรวจจาก critic เอง ("เคยเปิดโอกาสให้ความเชื่อเดิมถูกตรวจสอบบ้างหรือยัง") — signal ต้องมาพร้อม criterion
+
+## pair (share-to-keep-believing) — published 2026-11-04
+
+- **รูปแบบคู่:** กิ่ง C graduated → v1 → self-critique (จำลอง, gate A) → v2 → Benz r1 real (4 จุด controlled-claim) + gate B + post-gate spec → owner public version (66wc = 1.03×, keys 7/7)
+- **บทเรียนใหญ่ (334-337):** การเทียบสองเงื่อนไขแบบ "ต่างมีแค่" = อ้างการควบคุมตัวแปรที่งานสังเกตไม่มี (ใช้ "สัมพันธ์กับ") / quote ห้ามแบก motive-claim (quote = mechanism-shape) / ขยายข้ามบริบทเชื่อมที่กลไก ไม่เหมารวมแรงจูงใจ / คำถามตรวจใจเป็นสัญญาณเปิด ไม่ใช่เครื่องตัดสินสองขั้ว
+- **และ:** จุดที่ Benz จับหนักสุดคือประโยคที่ v2 เพิ่มเองเพื่อแก้จุดวิจารณ์รอบก่อน — ทุก addition ต้องผ่าน claim audit เต็ม (326b + 334c); เมื่อ spec ที่มาทีหลัง retire สิ่งที่ §4 เคย keep → คำสั่งหลังชนะ (362 NOTE)
+- **วัตถุดิบคงเหลือในกิ่ง:** Hart meta (selective-exposure) + easy-to-refute (Lowin) — บทต่อไปได้

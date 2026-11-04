@@ -4,14 +4,14 @@ type: moc
 
 # Content Study — สารบัญกลาง
 
-- คู่ทั้งหมด: **103** | published: **33** | ยังเปิด: **70**
+- คู่ทั้งหมด: **103** | published: **34** | ยังเปิด: **69**
 - กติกา: [[README]]
 
 ## คู่ล่าสุด
 
 - [[pair-100]] — 20261104 · published (pegasus pair CLOSED 2026-11-04 — Benz r
 - [[pair-101]] — 20261104 · published (dissonance pair CLOSED 2026-11-04 — sel
-- [[pair-102]] — 20261104 · draft (รอ Benz r1)
+- [[pair-102]] — 20261104 · published (share-to-keep pair CLOSED 2026-11-04 — 
 - [[pair-098]] — 20261103 · published (pair #98 CLOSED 2026-11-04 — Benz r1 mu
 - [[pair-099]] — 20261103 · published (pair #99 CLOSED — Benz r1 5 จุด + gate 
 - [[pair-079]] — 20261102 · published (pair #79 CLOSED 2026-11-02 — publish PA
@@ -24,7 +24,6 @@ type: moc
 
 ## คู่ที่ยังเปิด
 
-- [[pair-102]] — 20261104 · draft (รอ Benz r1)
 - [[pair-082]] — 20261102 · rewritten (pair #82 r1 PRE-REWRITE — Benz r1 + gat
 - [[pair-058]] — 20261021 · 
 - [[pair-057]] — 20261020 · draft

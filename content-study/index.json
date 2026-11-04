@@ -4631,14 +4631,14 @@
  },
  {
   "slug": "20261104-cnt-share-to-keep-believing",
-  "title": "บางครั้งการชวนคนอื่นมาเชื่อ คือวิธีทำให้เราเชื่อได้ต่อ (กิ่ง C graduated — share-to-keep-believing)",
+  "title": "บางครั้งการชวนคนอื่นมาเชื่อ คือวิธีทำให้เราเชื่อได้ต่อ (share-to-keep publish)",
   "file": "posts/20261104-cnt-share-to-keep-believing.md",
   "link": "https://app.notion.com/p/40edf8d88d8c81f6ab17fc5b8edefc9b",
   "notion_page_id": "40edf8d8-8d8c-81f6-ab17-fc5b8edefc9b",
   "date": "2026-11-04",
-  "status": "draft v2 — Benz r1 (real) + GATE B + post-gate spec → publish-pending (รอ public version จากพร; keys 7 ใน archive 20261104-share-to-keep-benz-r1-critique-gate-B.md; quotes 6/6; skill folds ถือทำหลัง publish พร้อม engineering report)",
-  "words": 64,
-  "form": "CURRENT FORM idea-brief — กิ่ง C graduate (branch-conversion-as-replenishment): SAY ชวนคนอื่นเพื่อให้ตัวเองเชื่อได้ต่อ; ใช้ finding alone-vs-together (บทแม่ไม่ได้ใช้ — lesson 38 ผ่าน), two-layer (เสนอคำอธิบายว่า/อาจ), fork-dignity (การแบ่งปันเป็นเรื่องธรรมดา), closer = เกณฑ์ (ตอบด้วยหลักฐาน หรือ ออกไปหาคนเห็นด้วย), เรา 2 / คุณ 0 / เลขอารบิก 0 / mother-post vocab 0",
-  "note": "loop: owner เรียกกิ่ง C หลัง dissonance publish → graduate วัตถุดิบ alone-vs-together (APA primary, บทแม่ใช้แค่ชั้นสังเกต) → draft 62wc battery-pass → file Notion — FP: ธรรมดา (คับ-lookalike); วัตถุดิบคงเหลือในกิ่ง: Hart meta + easy-to-refute → self-critique รอบสอง (4 จุด: ยิ่ง-ยิ่ง=frequency form / หลักฐานหัวใจไร้กลไก / quote-เกณฑ์ไม่เชื่อมกัน / \"ทางออกที่ง่ายที่สุด\" มีการตัดสินแฝง + งานศึกษา-งานวิจัยสลับ) → gate A → v2: มี block เทียบสองเงื่อนไข + กลไกคำยืนยันซ้ำ, bridge quote-เกณฑ์, \"แรงลากที่เบากว่า\" (critic line verbatim), งานศึกษาคำเดียวทั้งบท → Notion rebuild verify EXACT"
+  "status": "published (share-to-keep pair CLOSED 2026-11-04 — self-critique → v2 → Benz r1 real (จุด A = ประโยคที่ v2 เพิ่มเอง) + gate B + post-gate spec → owner public version 66wc = 1.03×; keys 7/7; archives 20261104-share-to-keep-{benz-r1-critique-gate-B,public-publish}.md — TRUE paste file)",
+  "words": 66,
+  "form": "CURRENT FORM idea-brief v3 (owner-authored) — แกน B (กลไกยืนยันซ้ำจากคนรอบตัว; การชวน = ส่วนหนึ่งของกลไก) — correlational language, two-layer research, mechanism-link expansion, คำถามสังเกตเปิด + scope-limit sentence, quote ใหม่ evidence-vs-confirmation, เรา 8 / คุณ 0 / '?' 2 / ความมั่นใจ ×4 (owner override — 362)",
+  "note": "loop: owner เรียกกิ่ง C หลัง dissonance publish → graduate วัตถุดิบ alone-vs-together (APA primary, บทแม่ใช้แค่ชั้นสังเกต) → draft 62wc battery-pass → file Notion — FP: ธรรมดา (คับ-lookalike); วัตถุดิบคงเหลือในกิ่ง: Hart meta + easy-to-refute → self-critique รอบสอง (4 จุด: ยิ่ง-ยิ่ง=frequency form / หลักฐานหัวใจไร้กลไก / quote-เกณฑ์ไม่เชื่อมกัน / \"ทางออกที่ง่ายที่สุด\" มีการตัดสินแฝง + งานศึกษา-งานวิจัยสลับ) → gate A → v2: มี block เทียบสองเงื่อนไข + กลไกคำยืนยันซ้ำ, bridge quote-เกณฑ์, \"แรงลากที่เบากว่า\" (critic line verbatim), งานศึกษาคำเดียวทั้งบท → Notion rebuild verify EXACT → Benz r1 + gate B → public version (TRUE paste): \"มีแค่คนข้างเคียง\"→\"สัมพันธ์กับ\" (334), motive-quote แทนด้วย evidence-quote (335), เชื่อมกลไกไม่เหมารวมแรงจูงใจ (336), คำถามเปิด+scope-limit (337) → Notion rebuild 27 blocks EXACT + Status published — skill folds 334-337 + lesson 52 round-2"
  }
 ]
