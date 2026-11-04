@@ -18,7 +18,7 @@
 
 - Skill หลัก: `skills/content-pipeline/SKILL.md` (items ถึง 319 — 313-316 จาก #78-#80, 317 opener-post class, 318 owner-pick-non-top-ranked-gate, 319 insight-level ladder (L1-4 ปกติ / L5-6 event-driven เฉพาะมีกลไก+เคสจริง — owner rule)) + `references/pair-history.md`
 - จบคู่ = append index.json + STYLE_CORPUS.md + Notion PATCH → รัน generate_vault.py → สร้าง/อัปเดต pair-N.md ตาม workflow ใน vault/README.md
-- สถานะ: **draft ค้าง 1** — pegasus-zero-click-selected รอ Benz r1 (#98 publish ปิดแล้ว, ไม่มี publish รอเกรด)
+- สถานะ: **pegasus-zero-click รอ public version จากพร** (Benz r1 + gate B — quotes 7/7, keys 8 ใน archive; #98 ปิดแล้ว ไม่มีอย่างอื่นรอเกรด)
 
 ## Infra สถานะ
 
