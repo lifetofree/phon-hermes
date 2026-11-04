@@ -18,7 +18,7 @@
 
 - Skill หลัก: `skills/content-pipeline/SKILL.md` (items ถึง 319 — 313-316 จาก #78-#80, 317 opener-post class, 318 owner-pick-non-top-ranked-gate, 319 insight-level ladder (L1-4 ปกติ / L5-6 event-driven เฉพาะมีกลไก+เคสจริง — owner rule)) + `references/pair-history.md`
 - จบคู่ = append index.json + STYLE_CORPUS.md + Notion PATCH → รัน generate_vault.py → สร้าง/อัปเดต pair-N.md ตาม workflow ใน vault/README.md
-- สถานะ: **blood-bank รอ Benz-rewritten version จากพร** (r1 real + gate A — quotes 6/6, keys 7 ใน archive; lesson 52 round-3: จำลอง 3/4 ตรงกับ Benz ครั้งแรก; engineering folds ถือหลัง publish; share-to-keep CLOSED)
+- สถานะ: **blood-bank รอ Benz-rewritten version จากพร** (r1 real + gate A + POST-GATE SPEC: spine "ระบบทำงานเองได้≠รู้ตัวเอง/มีคนจัดการอัตโนมัติ" + 3 ชั้น Automation/Monitoring/Response — keys K1-K10 ใน archive; lesson 52 round-3: sim 3/4; engineering folds ถือหลัง publish; share-to-keep CLOSED)
 - **Blood-bank keeper-awake draft (2026-11-04 ดึก):** owner "เห็นข่าวแฮกคลังเลือด ลองดูว่าเขียน content อะไรได้บ้าง" → verify 6+ sources (แฮ็ก Coolworld supplier ของ EFS ฝรั่งเศส คืน 1-2 พ.ย., −30→110°C, ช่าง on-call จับทันก่อนเสียหาย, Ministry contained) → `research/blood-bank-hack-research.md` (4 lenses — เลือก keeper-awake: ระบบผ่านเพราะมีคนตื่น, ต่างจาก #99 มากที่สุด; parked: supplier angle, 110-ความสามารถ, attribution) → draft `posts/20261104-cnt-blood-bank-keeper-awake.md` (48wc regex/51 script, เรา 1, เลข 0, ไม่เอ่ยชื่อ/ประเทศ/แฮ็กเกอร์, sibling guard 0 ทุกสาย) → battery: first-run FAIL จาก พร×7 (ทั้งหมดใน "เพราะ" — declared FP lesson 5) → rerun PASS → file Notion `40edf8d8-8d8c-8144-8411-dfc002398fc2` (15 blocks EXACT) — รอ Benz r1
 
 ## Infra สถานะ
