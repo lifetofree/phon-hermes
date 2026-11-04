@@ -4,11 +4,13 @@ type: moc
 
 # Content Study — สารบัญกลาง
 
-- คู่ทั้งหมด: **98** | published: **29** | ยังเปิด: **69**
+- คู่ทั้งหมด: **100** | published: **31** | ยังเปิด: **69**
 - กติกา: [[README]]
 
 ## คู่ล่าสุด
 
+- [[pair-098]] — 20261103 · published (pair #98 CLOSED 2026-11-04 — Benz r1 mu
+- [[pair-099]] — 20261103 · published (pair #99 CLOSED — Benz r1 5 จุด + gate 
 - [[pair-079]] — 20261102 · published (pair #79 CLOSED 2026-11-02 — publish PA
 - [[pair-080]] — 20261102 · published (pair #80 CLOSED 2026-11-02 — publish PA
 - [[pair-081]] — 20261102 · published (pair #81 CLOSED 2026-11-02 — publish PA
@@ -19,8 +21,6 @@ type: moc
 - [[pair-077]] — 20261030 · published (pair #77 CLOSED 2026-10-30 — publish PA
 - [[pair-078]] — 20261030 · published (pair #78 CLOSED 2026-10-30 — publish PA
 - [[pair-072]] — 20261029 · published-ready (pair #72 CLOSED 2026-10-29 — publ
-- [[pair-073]] — 20261029 · published-ready (pair #73 CLOSED 2026-10-29 — publ
-- [[pair-070]] — 20261028 · published-ready (pair #70 CLOSED 2026-10-28 — publ
 
 ## คู่ที่ยังเปิด
 
@@ -125,7 +125,7 @@ type: moc
 
 - [[event-20260925-system-outage]]
 
-## แท็ก (34 ตัว — เรียงตามจำนวนคู่ที่ใช้)
+## แท็ก (35 ตัว — เรียงตามจำนวนคู่ที่ใช้)
 
 - [[DuckOS]] — 19 คู่
 - [[Adduckivity]] — 19 คู่
@@ -137,6 +137,7 @@ type: moc
 - [[TimeManagement]] — 2 คู่
 - [[Evidence]] — 2 คู่
 - [[Attention]] — 2 คู่
+- [[สรุป]] — 1 คู่
 - [[Writing]] — 1 คู่
 - [[Urgency]] — 1 คู่
 - [[Trigger]] — 1 คู่
@@ -146,7 +147,6 @@ type: moc
 - [[MistralLarge4]] — 1 คู่
 - [[LocalLLM]] — 1 คู่
 - [[LearningCurve]] — 1 คู่
-- [[Learning]] — 1 คู่
 
 ## Research
 

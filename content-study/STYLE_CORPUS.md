@@ -2461,3 +2461,10 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - สังเกต: B-lists 4×4 (สิ่งที่เกิด = เห็น/ลงมือ/ผลให้ชี้/ยอมรับ ↔ สิ่งที่ไม่เกิด = ไม่มีภาพ/เวลาไม่เสีย/เสียหายไม่เกิด/งานซ้ำหาย) = วัตถุดิบ expander ของ publish — v1 มีองก์นี้แค่ 1 บรรทัด
 - critic ยืนยัน do-not-build เอง (ไม่แนะนำ Root Cause method/เครื่องมือ — "จะกลายเป็นบทสอนแก้ปัญหา")
 - archive `vault/artifacts/20261102-problem-prevention-benz-dna-critique-r1-gate-B.md` (20KB verbatim) — draft + Notion body ไม่แตะ — Status → rewritten — **รอ publish version จาก owner**
+
+## pair #98 — ai-harness-body-brain (published 2026-11-04)
+
+- **รูปแบบคู่:** what-is primer ภาพสมอง/ร่างกาย → Benz r1 ชี้ 4 thesis แย่งพระเอก → gate A/B/C → owner ตอบ A → publish เขียนใหม่เป็น definition-explainer แกนเดียว (110wc = 0.89× v1)
+- **บทเรียนเขียน (fold เป็น items 320-323):** บทหลายองก์ต้องมีพระเอกเดียว (thesis-census ต่อองก์) / คำแนะนำ-ข้อสรุปต้องมีหลักฐานนำ ("จึง") / hedge ระดับประโยคไม่อนุญาตองก์ทำนายในบท no-case (ตัดทั้งองก์) / metaphor ต้อง inventory ตระกูลกลไกแล้วประกาศขอบเขต / คำ scope ใหม่ (ทีม/องค์กร) ในท้ายบท = บทใหม่แอบแฝง
+- **รูปบทที่ผ่าน:** H1 + H3 subtitle encode แกน → dispatch '?' ตรง → นิยาม → กลไก → จึงมี formula (quote bold) → หลักฐานชุดเดียวกันชุดต่าง → จึงสรุปผลตาม hedged → สรุป + closer มิติใหม่ (ระบบที่ทำให้สมองลงไปทำงาน) — คำเดิม 3 สล็อตถูกแทนด้วยงานใหม่ทั้งสล็อต (function-grade ผ่าน)
+- **infrastructure:** Notion rebuild = ลบ block เก่า 40 → append /v1/blocks/{page}/children ครั้งเดียว 35 blocks — endpoint /v1/pages/{id}/children = invalid_request_url (แก้บันทึก lesson 25)

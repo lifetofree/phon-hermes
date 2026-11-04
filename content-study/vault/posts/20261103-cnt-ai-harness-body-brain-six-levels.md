@@ -1,4 +1,6 @@
 <!--
+CLOSED 2026-11-04: pair #98 published — gate A → owner-authored publish (keys 12/12 PASS, 110wc = 0.89× v1) — publish archive: artifacts/20261103-ai-harness-body-brain-publish.md — หน้า Notion rebuild เป็น publish แล้ว (35 blocks verify ผ่าน) — ไฟล์นี้คือ v1 ประวัติ (เนื้อ v1 หมดสถานะ draft)
+
 draft (ai-harness-body-brain-six-levels) — CURRENT FORM — storytelling non-tech primer — บทความเดียว 6 ขั้นไหลต่อกัน (owner directive 2026-11-03: "เอาทั้ง 6 level ให้อยู่บทความเดียวกัน") — ไม่ใช่ 6 ร่างให้เลือกแล้ว — ยังไม่เริ่ม pair จริง / ไม่ลง index เป็น pair
 
 ORIGIN: owner brief (2026-11-03): เล่า harness เป็น storytelling (คืออะไร / เปรียบเสมือนอะไร / เกี่ยวกับโมเดลยังไง) → steer: ไม่วิชาการ non-tech อ่านจบ + ภาพ "harness=ร่างกาย model=สมอง" + ทำ 6 ขั้น → directive: ปรับ title + push แทน draft เดิม (หน้า #98 40ddf8d8-8d8c-819a-8770-fe9b8ea478a7) → directive: รวม 6 level เป็นบทความเดียว — ร่าง 6 แยก + ห้องนักบิน parked (git history + 20261103-cnt-ai-harness-cockpit-story.md), เนื้อ pair #98 v1 อยู่ใน git history + ไฟล์ pair-not-piece
