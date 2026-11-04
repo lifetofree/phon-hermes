@@ -4,12 +4,13 @@ type: moc
 
 # Content Study — สารบัญกลาง
 
-- คู่ทั้งหมด: **101** | published: **32** | ยังเปิด: **69**
+- คู่ทั้งหมด: **102** | published: **32** | ยังเปิด: **70**
 - กติกา: [[README]]
 
 ## คู่ล่าสุด
 
 - [[pair-100]] — 20261104 · published (pegasus pair CLOSED 2026-11-04 — Benz r
+- [[pair-101]] — 20261104 · draft (รอ Benz r1)
 - [[pair-098]] — 20261103 · published (pair #98 CLOSED 2026-11-04 — Benz r1 mu
 - [[pair-099]] — 20261103 · published (pair #99 CLOSED — Benz r1 5 จุด + gate 
 - [[pair-079]] — 20261102 · published (pair #79 CLOSED 2026-11-02 — publish PA
@@ -20,10 +21,10 @@ type: moc
 - [[pair-075]] — 20261030 · published (pair #75 CLOSED 2026-10-30 — publish PA
 - [[pair-076]] — 20261030 · published (pair #76 CLOSED 2026-10-30 — publish PA
 - [[pair-077]] — 20261030 · published (pair #77 CLOSED 2026-10-30 — publish PA
-- [[pair-078]] — 20261030 · published (pair #78 CLOSED 2026-10-30 — publish PA
 
 ## คู่ที่ยังเปิด
 
+- [[pair-101]] — 20261104 · draft (รอ Benz r1)
 - [[pair-082]] — 20261102 · rewritten (pair #82 r1 PRE-REWRITE — Benz r1 + gat
 - [[pair-058]] — 20261021 · 
 - [[pair-057]] — 20261020 · draft
@@ -151,6 +152,7 @@ type: moc
 ## Research
 
 - [[autoclaw-research]]
+- [[cognitive-resonance-research]]
 - [[dopamine-nation-research]]
 - [[essentialism-research]]
 - [[four-thousand-weeks-research]]
