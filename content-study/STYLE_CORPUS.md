@@ -2474,3 +2474,10 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - **รูปแบบคู่:** research → draft (48wc battery-pass) → pre-send self-review (5 precision fixes) → Benz r1 (5 จุด claim-strength, quotes 7/7) + gate B → owner public version (61wc = 1.09×, keys 8/8) → Notion 30 blocks
 - **บทเรียนใหญ่:** self-review จับโครง/ความแม่นได้ แต่ claim-strength หลุดทั้งชั้น (ประโยคสรุปเกินขอบเขต / คำสัมบูรณ์ที่เราเพิ่มเอง / closer เลื่อนแกนเพราะกันซ้ำ quote เกินไป) — คู่ สัญญา title vs จ่าย closer ต้องตรวจเป็นแกน ไม่ใช่ความมั่นใจ
 - **ที่ได้ผล:** SAY-line + closer-on-title-axis + จัดคู่ตรงข้ามเป็น movement + unnamed-specific sourcing + walk ประโยคเพิ่มใน precision รอบด้วย audit ซ้ำ (items 325-328)
+
+## pair (dissonance-edit-data-not-belief) — published 2026-11-04
+
+- **รูปแบบคู่:** research → v1 roast → self-critique (จำลอง Benz 5 จุดโครง) → v2 → Benz r2 ตัวจริง (5 จุด evidence-class, overlap 0) + gate B → owner public version (69wc = 1.10×, keys 7/7)
+- **บทเรียนใหญ่:** จำลองวิจารณ์จับ "form" ได้ แต่ evidence-class (frequency word ไร้ฐาน / two-layer citation / fork dignity / signal-criterion) คือดินแดนของ critic จริง — และ owner เลือกแกนที่ critic เตือนว่าเสี่ยงหลักฐานสุด = คำสั่งให้ "ออกแบบการหาหลักฐาน" ไม่ใช่ softening (hedge-web mechanism-route ผ่าน function-grade)
+- **รูปงานวิจัยที่ผ่าน:** ชั้นสังเกต (สมาชิกบางส่วน...ออกไปชักชวน) แยกจากชั้นตีความ ("งานศึกษานี้เสนอคำอธิบายว่า...อาจช่วย") — ตีความห้ามฟันธงแรงจูงใจทุกคน
+- **closer ที่ผ่าน:** คำถามเกณฑ์ตรวจจาก critic เอง ("เคยเปิดโอกาสให้ความเชื่อเดิมถูกตรวจสอบบ้างหรือยัง") — signal ต้องมาพร้อม criterion
