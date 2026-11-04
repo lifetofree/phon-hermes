@@ -1,4 +1,6 @@
 <!--
+CLOSED 2026-11-04: Benz r1 + gate B → owner-authored public version (keys 8/8 PASS, 61wc = 1.09× v2 — expansion round) — publish archive: artifacts/20261104-pegasus-zero-click-public-publish.md — Notion rebuild 30 blocks + Status published — ไฟล์นี้คือ v2 ประวัติ
+
 draft (pegasus-zero-click-selected) — CURRENT FORM news-event single (lesson 51 recipe) — มุมเดียว: เหยื่อไม่ได้ทำอะไรผิด + ช่องปิดที่ฝั่งระบบ
 LEVEL: L2 (doing-wrong-unnoticed — ความเชื่อทั่วไปว่าโดนแฮ็ก = กดผิด; เคสนี้ไม่ผ่านมือเหยื่อเลย)
 

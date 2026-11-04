@@ -2468,3 +2468,9 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - **บทเรียนเขียน (fold เป็น items 320-323):** บทหลายองก์ต้องมีพระเอกเดียว (thesis-census ต่อองก์) / คำแนะนำ-ข้อสรุปต้องมีหลักฐานนำ ("จึง") / hedge ระดับประโยคไม่อนุญาตองก์ทำนายในบท no-case (ตัดทั้งองก์) / metaphor ต้อง inventory ตระกูลกลไกแล้วประกาศขอบเขต / คำ scope ใหม่ (ทีม/องค์กร) ในท้ายบท = บทใหม่แอบแฝง
 - **รูปบทที่ผ่าน:** H1 + H3 subtitle encode แกน → dispatch '?' ตรง → นิยาม → กลไก → จึงมี formula (quote bold) → หลักฐานชุดเดียวกันชุดต่าง → จึงสรุปผลตาม hedged → สรุป + closer มิติใหม่ (ระบบที่ทำให้สมองลงไปทำงาน) — คำเดิม 3 สล็อตถูกแทนด้วยงานใหม่ทั้งสล็อต (function-grade ผ่าน)
 - **infrastructure:** Notion rebuild = ลบ block เก่า 40 → append /v1/blocks/{page}/children ครั้งเดียว 35 blocks — endpoint /v1/pages/{id}/children = invalid_request_url (แก้บันทึก lesson 25)
+
+## pair (pegasus-zero-click) — published 2026-11-04
+
+- **รูปแบบคู่:** research → draft (48wc battery-pass) → pre-send self-review (5 precision fixes) → Benz r1 (5 จุด claim-strength, quotes 7/7) + gate B → owner public version (61wc = 1.09×, keys 8/8) → Notion 30 blocks
+- **บทเรียนใหญ่:** self-review จับโครง/ความแม่นได้ แต่ claim-strength หลุดทั้งชั้น (ประโยคสรุปเกินขอบเขต / คำสัมบูรณ์ที่เราเพิ่มเอง / closer เลื่อนแกนเพราะกันซ้ำ quote เกินไป) — คู่ สัญญา title vs จ่าย closer ต้องตรวจเป็นแกน ไม่ใช่ความมั่นใจ
+- **ที่ได้ผล:** SAY-line + closer-on-title-axis + จัดคู่ตรงข้ามเป็น movement + unnamed-specific sourcing + walk ประโยคเพิ่มใน precision รอบด้วย audit ซ้ำ (items 325-328)
