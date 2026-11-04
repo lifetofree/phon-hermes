@@ -4604,5 +4604,17 @@
   "words": 62,
   "form": "CURRENT FORM news-event single — obedience/สิทธิ์ lens, H3 subtitle คู่ H1 (ครั้งแรกในสายข่าว), เรา 6 / คุณ 0 / เลขอารบิก 0 / bold 2 (quote + closer double question), ระบบ ×10 (owner override — CUT ของ UDO ไม่ผูก publish)",
   "note": "loop: trigger search ข่าวตู้แช่โดนแฮ็ก → v1 47w obedience lens (brands 0, attribution อิหร่าน CUT) → Benz r1 5 จุด (ข้อมูลไม่แยกชั้น / สองทางบิดกลไก / สามชั้นรวมคำเดียว / bridge เร็ว / closer กว้างกว่าเหตุการณ์; quotes 6/6 HIT) → gate A/B/C → owner ตอบด้วยเท็กซ์ publish ทั้งบท (ครั้งแรก — item 361) → publish: ตัดย่อหน้า สองทาง, เล่าเหตุการณ์เป็นโซ่ 4 ขั้นของ critic, bridge 3 ตัวอย่างชัด, closer ในขอบเขต → Notion PATCH publish + verify 30 blocks / empty 0 / H3 subtitle type ถูก — skill: news-event recipe (FORM SELECTOR) + Notion variant + items 361-362 (pair-history #99)"
+ },
+ {
+  "slug": "20261104-cnt-pegasus-zero-click-selected",
+  "title": "เครื่องที่โดนเลือก ไม่ใช่เครื่องที่พลาด (fresh draft, Pegasus zero-click — victim-did-nothing lens)",
+  "file": "posts/20261104-cnt-pegasus-zero-click-selected.md",
+  "link": "https://app.notion.com/p/40edf8d88d8c8148bf4ed3a125891a17",
+  "notion_page_id": "40edf8d8-8d8c-8148-bf4e-d3a125891a17",
+  "date": "2026-11-04",
+  "status": "draft (รอ Benz r1)",
+  "words": 48,
+  "form": "CURRENT FORM news-event single (lesson 51) — lens: เหยื่อไม่ได้ทำผิด + ช่องปิดที่ระบบ — H3 subtitle + H1, reported speech ล้วน, เลขไทย (ห้าหมื่น=ระบบเลือกเป้า ไม่ใช่เครื่องติดยืนยัน / สามสิบคน=forensic confirmed), เรา 1 / คุณ 0 / '?' 0 / เลขอารบิก 0 / quote bold 1 + closer bold 1, brands+รัฐ+CUT ทุกตระกูล = 0 (state attribution low-confidence ถูก CUT ตาม rule)",
+  "note": "loop: brief หา research Pegasus → verify ข้าม 3-4 แหล่ง/ข้อ (Citizen Lab FORCEDENTRY + GeckoSpy, Reuters, AP, iLaw, Amnesty, OCCRP, Britannica, Wikipedia) → research/pegasus-spyware-research.md (parked: คำพิพากษา WhatsApp, Khashoggi, เซอร์เบีย) → draft 48wc battery-pass first try → file Notion (markdown param: H1 แทรกเป็น block heading — ลบทิ้ง read-back 18 blocks census ถูก normalized match EXACT)"
  }
 ]
