@@ -1,12 +1,12 @@
 ---
 pair: 101
-hash: b96b357db8-fe1547
+hash: b3a9edfa29-fe1547
 date: 20261104
 ---
 
 # ของที่ถูกแก้ก่อน มักเป็นข้อมูล ไม่ใช่ความเชื่อ (v2 — rewrite ตาม self-critique gate B)
 
-- **status:** draft (รอ Benz r1)
+- **status:** v2 — Benz r2 (real) + GATE B → พรเลือก B (ตัวที่ critic เตือนว่าหลักฐานต้องแน่นสุด) → v3 design รอ owner อนุมัติ fold plan (keys 8 ใน archive 20261104-dissonance-benz-r2-critique-gate-B.md; quotes 8/8)
 - **date:** 20261104
 - **words:** 54
 - **form:** CURRENT FORM idea-brief roast v2 — SAY: แก้ข้อมูลก่อนแก้ความเชื่อ + จับได้จากคำอธิบายไหลลื่นเกินหลักฐาน; คู่แพง-ถูกเป็น movement สองคน, ทางที่ห้า (เปลี่ยนใจคนอื่น) ปูก่อนการศึกษา, ลิงก์นุ่มสะสม stated, มุกหลักสูตร x1, title hedged มัก — C เก็บกิ่ง branch-conversion-as-replenishment

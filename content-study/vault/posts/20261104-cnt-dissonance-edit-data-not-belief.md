@@ -1,4 +1,6 @@
 <!--
+CLOSED 2026-11-04: Benz r2 + gate B → owner-authored public version (keys 7/7 + owner-override K1 mechanism-route, 69wc = 1.10× expansion, DEAD 0) — publish archive: artifacts/20261104-dissonance-public-publish.md — Notion rebuild 34 blocks + Status published — ไฟล์นี้คือ v2 ประวัติ
+
 draft v2 (dissonance-edit-data-not-belief) — CURRENT FORM idea-brief roast — rewrite ตาม self-critique gate B (จำลองสไตล์ Benz-DNA) + owner pick "B, เก็บ C เป็นวัตถุดิบ next content"
 GATE ANSWER: B — รู้ทันตัวเอง (สัญญาณ = คำอธิบายไหลลื่นเกินหลักฐาน); A = พื้นที่ยืน (กลไก) / C = กิ่ง stock → vault/branches/branch-conversion-as-replenishment.md
 LEVEL: L3 (believing-wrong-unnoticed)
