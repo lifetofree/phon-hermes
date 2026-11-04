@@ -18,7 +18,7 @@
 
 - Skill หลัก: `skills/content-pipeline/SKILL.md` (items ถึง 319 — 313-316 จาก #78-#80, 317 opener-post class, 318 owner-pick-non-top-ranked-gate, 319 insight-level ladder (L1-4 ปกติ / L5-6 event-driven เฉพาะมีกลไก+เคสจริง — owner rule)) + `references/pair-history.md`
 - จบคู่ = append index.json + STYLE_CORPUS.md + Notion PATCH → รัน generate_vault.py → สร้าง/อัปเดต pair-N.md ตาม workflow ใน vault/README.md
-- สถานะ: **draft ค้าง 1** — share-to-keep-believing (กิ่ง C graduated) รอ Benz r1 (dissonance pair CLOSED 2026-11-04; skill folds 329-333 + lessons 52-53 ลงแล้ว)
+- สถานะ: **share-to-keep รอ public version จากพร** (Benz r1 real + gate B + post-gate spec — quotes 6/6, keys 7 ใน archive; skill folds ถือทำหลัง publish + engineering report ตามคำสั่ง; dissonance pair CLOSED)
 
 ## Infra สถานะ
 
