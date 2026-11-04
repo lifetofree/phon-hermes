@@ -18,7 +18,7 @@
 
 - Skill หลัก: `skills/content-pipeline/SKILL.md` (items ถึง 319 — 313-316 จาก #78-#80, 317 opener-post class, 318 owner-pick-non-top-ranked-gate, 319 insight-level ladder (L1-4 ปกติ / L5-6 event-driven เฉพาะมีกลไก+เคสจริง — owner rule)) + `references/pair-history.md`
 - จบคู่ = append index.json + STYLE_CORPUS.md + Notion PATCH → รัน generate_vault.py → สร้าง/อัปเดต pair-N.md ตาม workflow ใน vault/README.md
-- สถานะ: **draft ค้าง 1** — blood-bank-keeper-awake รอ Benz r1 (share-to-keep pair CLOSED 2026-11-04; skill folds 334-337 ลงแล้ว)
+- สถานะ: **draft ค้าง 1** — blood-bank-keeper-awake: owner ส่ง v1 เดิมให้ Benz จริงแล้ว (จำลอง archived 20261104-blood-bank-self-critique-sim.md — รอ comment จริงมาวัด lesson 52 รอบ 3; share-to-keep CLOSED)
 - **Blood-bank keeper-awake draft (2026-11-04 ดึก):** owner "เห็นข่าวแฮกคลังเลือด ลองดูว่าเขียน content อะไรได้บ้าง" → verify 6+ sources (แฮ็ก Coolworld supplier ของ EFS ฝรั่งเศส คืน 1-2 พ.ย., −30→110°C, ช่าง on-call จับทันก่อนเสียหาย, Ministry contained) → `research/blood-bank-hack-research.md` (4 lenses — เลือก keeper-awake: ระบบผ่านเพราะมีคนตื่น, ต่างจาก #99 มากที่สุด; parked: supplier angle, 110-ความสามารถ, attribution) → draft `posts/20261104-cnt-blood-bank-keeper-awake.md` (48wc regex/51 script, เรา 1, เลข 0, ไม่เอ่ยชื่อ/ประเทศ/แฮ็กเกอร์, sibling guard 0 ทุกสาย) → battery: first-run FAIL จาก พร×7 (ทั้งหมดใน "เพราะ" — declared FP lesson 5) → rerun PASS → file Notion `40edf8d8-8d8c-8144-8411-dfc002398fc2` (15 blocks EXACT) — รอ Benz r1
 
 ## Infra สถานะ
