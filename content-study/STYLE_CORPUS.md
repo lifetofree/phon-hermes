@@ -2488,3 +2488,10 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - **บทเรียนใหญ่ (334-337):** การเทียบสองเงื่อนไขแบบ "ต่างมีแค่" = อ้างการควบคุมตัวแปรที่งานสังเกตไม่มี (ใช้ "สัมพันธ์กับ") / quote ห้ามแบก motive-claim (quote = mechanism-shape) / ขยายข้ามบริบทเชื่อมที่กลไก ไม่เหมารวมแรงจูงใจ / คำถามตรวจใจเป็นสัญญาณเปิด ไม่ใช่เครื่องตัดสินสองขั้ว
 - **และ:** จุดที่ Benz จับหนักสุดคือประโยคที่ v2 เพิ่มเองเพื่อแก้จุดวิจารณ์รอบก่อน — ทุก addition ต้องผ่าน claim audit เต็ม (326b + 334c); เมื่อ spec ที่มาทีหลัง retire สิ่งที่ §4 เคย keep → คำสั่งหลังชนะ (362 NOTE)
 - **วัตถุดิบคงเหลือในกิ่ง:** Hart meta (selective-exposure) + easy-to-refute (Lowin) — บทต่อไปได้
+
+## pair (blood-bank-keeper-awake) — published 2026-11-04
+
+- **รูปแบบคู่ (loop ใหม่ครบทั้ง 5 รูป):** news-event → v1 → sim-critique (4 จุด) → owner ส่ง v1 ตรง Benz → r1 real + gate A + post-gate spec → BENZ แต่ง rewrite เอง (ครั้งแรกใน corpus) → owner ส่งมาเกรด (52wc = 1.02×, keys K1-K10 PASS)
+- **ที่ Benz ทำกับ v1:** spine ประโยคแกน = H3 subtitle / แยก 3 ชั้น Automation-Monitoring-Response (ตัดสองขั้ว) / ปฏิเสธเชิงบวก anchor กลับ "ตามรายงานข่าว" / quote ใหม่ observation+action / เรา 0 (news register) / frequency-claim ถูกถอด
+- **บทเรียน (338-342):** ตั้งชื่อชั้นแทนต่อสู้สองขั้ว / ปฏิเสธเชิงบวกต้องมี anchor + ข้อความสร้างสรรค์ / news register คัด narrator ออกเมื่อแกนเป็นคุณสมบัติของระบบ / ประโยคที่ถูกชมต้องผ่าน re-audit โครงสร้างทุกรอบ / spine sentence วางเป็น subtitle เมื่อ title-subtitle คนละทิศ
+- **จำลอง vs จริง รอบ 3:** 3/4 overlap (ครั้งแรกที่ checklist ทัน) — ตัวหนา: claim-exclusion ประโยคที่แบก quote; ที่ sim ยังตามไม่ทัน = framing choices ที่ draft ติดตั้งเอง (stack vs pole, title-type)

@@ -1,4 +1,6 @@
 <!--
+CLOSED 2026-11-04: Benz r1 (real) + gate A + post-gate spec → BENZ-AUTHORED rewrite forwarded via owner (keys K1-K10 PASS, 52wc = 1.02×, DEAD 0; quote สองขั้วถูกแทนด้วย observation+action — 341) — publish archive: artifacts/20261104-blood-bank-public-publish.md — Notion rebuild 20 blocks + Status published — ไฟล์นี้คือ v1 ประวัติ
+
 draft (blood-bank-keeper-awake) — CURRENT FORM news-event single (lesson 51 recipe) — มุมเดียว: ระบบที่ดีไม่ได้หยุดเพราะกลไกเดินเอง แต่เพราะมีคนตื่นอยู่ในระบบ
 LEVEL: L2 (doing-wrong-unnoticed — เชื่อว่าระบบที่ตั้งไว้ดีเดินต่อเองได้; ระบบที่ผ่านมาได้เพราะมีคนเฝ้า)
 SAY: ระบบที่ผ่านวันนี้มาได้ อาจผ่านเพราะมีคนตื่นอยู่ในนั้น ไม่ใช่เพราะมันเดินเองได้ (item 325)
