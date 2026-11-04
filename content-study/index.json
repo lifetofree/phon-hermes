@@ -4612,9 +4612,9 @@
   "link": "https://app.notion.com/p/40edf8d88d8c8148bf4ed3a125891a17",
   "notion_page_id": "40edf8d8-8d8c-8148-bf4e-d3a125891a17",
   "date": "2026-11-04",
-  "status": "draft (รอ Benz r1)",
+  "status": "draft v2 (pre-send self-review precision แล้ว — รอ Benz r1)",
   "words": 48,
   "form": "CURRENT FORM news-event single (lesson 51) — lens: เหยื่อไม่ได้ทำผิด + ช่องปิดที่ระบบ — H3 subtitle + H1, reported speech ล้วน, เลขไทย (ห้าหมื่น=ระบบเลือกเป้า ไม่ใช่เครื่องติดยืนยัน / สามสิบคน=forensic confirmed), เรา 1 / คุณ 0 / '?' 0 / เลขอารบิก 0 / quote bold 1 + closer bold 1, brands+รัฐ+CUT ทุกตระกูล = 0 (state attribution low-confidence ถูก CUT ตาม rule)",
-  "note": "loop: brief หา research Pegasus → verify ข้าม 3-4 แหล่ง/ข้อ (Citizen Lab FORCEDENTRY + GeckoSpy, Reuters, AP, iLaw, Amnesty, OCCRP, Britannica, Wikipedia) → research/pegasus-spyware-research.md (parked: คำพิพากษา WhatsApp, Khashoggi, เซอร์เบีย) → draft 48wc battery-pass first try → file Notion (markdown param: H1 แทรกเป็น block heading — ลบทิ้ง read-back 18 blocks census ถูก normalized match EXACT)"
+  "note": "loop: brief หา research Pegasus → verify ข้าม 3-4 แหล่ง/ข้อ (Citizen Lab FORCEDENTRY + GeckoSpy, Reuters, AP, iLaw, Amnesty, OCCRP, Britannica, Wikipedia) → research/pegasus-spyware-research.md (parked: คำพิพากษา WhatsApp, Khashoggi, เซอร์เบีย) → draft 48wc battery-pass first try → file Notion (markdown param: H1 แทรกเป็น block heading — ลบทิ้ง read-back 18 blocks census ถูก normalized match EXACT) → pre-send self-review (read-only battery + วิจารณ์ 5 จุด) แล้วแก้ precision: แยกชั้นเลขห้าหมื่น (เลือกเป้า ≠ ติดยืนยัน) / เพิ่มกลไก ทำไมความระวังปิดไม่ได้ / closer ใหม่ = มิติเดียวที่ quote ไม่พูด (สิ่งที่ยังคุมได้) ตัดครึ่งที่ซ้ำ quote / ไฟล์แนบ = เราเปิดเอง / ความเชื่อได้ภาพ (ใครกดผิด) / ตัดประโยคกลางที่ pre-empt closer (insight-once) → battery PASS, Notion rebuild 17 blocks verify EXACT/DEAD 0"
  }
 ]
