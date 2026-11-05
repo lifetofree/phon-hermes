@@ -4663,7 +4663,8 @@
     "status": "published (pair #100 CLOSED 2026-11-05 — owner-authored publish ผ่าน critic DNA ตรวจก่อนส่ง, agent analyze-only: archive + fact-check 6 แหล่ง (Reuters/NPR/AP/BBC/CBS/Guardian — Dems ทั้งสองสภา ตรงของจริง) + measure 100wc; Notion page มี body ครบจาก owner เอง, Status 🟧 Visualizing คงไว้ตาม production workflow; register ใหม่ = explainer-with-event, skill folds 343-347)",
     "words": 100,
     "form": "CURRENT FORM explainer register (347): ข่าวจริงเปิดบท (midterms 2026 วันเดียวกับ publish) → ทฤษฎีเอ่ยชื่อ 1 ครั้ง (Cognitive Dissonance) → ขยาย 4 โดเมน → ย่อหน้ามาตรฐานสองเท่า (346) → closer คำถามจับตัวเอง — เรา 12 / คุณ 0 / พร 0 / '?' 4 / เพราะ 1 (345 mid-body) / เลขอารบิกเฉพาะ event (344) / blockquote 0",
-    "note": "loop ใหม่ (publish-first): owner ส่ง publish version ที่ผ่านการตรวจ DNA แล้ว → reverse engineering + เสนอ skill patch ก่อนแตะ (owner: 'บอกพรก่อนที่จะปรับ') → อนุมัติ → fold 343-347 + selector line; sibling คู่ = dissonance roast 11-04 (thesis วงเดียว สองเสียง — 343); ContentID 20261105-CNT-COGNITIVE-DISSONANCE-DOUBLE-STANDARD-REALITY, Slug COGNITIVE-DISSONANCE-DOUBLE-STANDARD-REALITY (owner ตั้งใน Notion)"
+    "note": "loop ใหม่ (publish-first): owner ส่ง publish version ที่ผ่านการตรวจ DNA แล้ว → reverse engineering + เสนอ skill patch ก่อนแตะ (owner: 'บอกพรก่อนที่จะปรับ') → อนุมัติ → fold 343-347 + selector line; sibling คู่ = dissonance roast 11-04 (thesis วงเดียว สองเสียง — 343); ContentID 20261105-CNT-COGNITIVE-DISSONANCE-DOUBLE-STANDARD-REALITY, Slug COGNITIVE-DISSONANCE-DOUBLE-STANDARD-REALITY (owner ตั้งใน Notion); WP live 2026-11-05 17:30 (sync d16f7da) — เนื้อตรง paste ทุกประโยค, WP ใส่ tags เพิ่มท้าย: #CognitiveDissonance #MentalModels #SystemThinking",
+    "wp_link": "https://wp.adduckivity.com/cognitive-dissonance-double-standard-reality/"
   },
   {
     "slug": "ai-harness-over-model-lesson-residue",
