@@ -340,3 +340,14 @@ Publish moves (thinking-level):
 - Publish moves: H3 subtitle paired with the H1 for the first time in the news lane (title = condition, subtitle = definition — the #15 signature) · damage/fire/seven-countries demoted to context · register เรา 6 / คุณ 0 / bold 2 (quote + closer) / Arabic digits 0.
 - **Owner override on the UDO CUT list (item 362):** publish uses ระบบ ×10, เครื่องมือ, เพราะ, เสมอ — CUT lists are per-draft instruments, not lane-wide bans; derive each draft's list from same-lane siblings (ระบบ was cut on harness/mindset posts where it is dead vocabulary, but IS the object of a security post — cloning lists across lanes bans the post's own subject).
 - Notion `40ddf8d8-8d8c-81a9-8d15-e25a65acf446` 30 blocks / empty 0 / quote+closer bold / Status published (owner-authored → published directly; delete-and-rebuild body path verified clean this round).
+
+## pair #101 — compression-random-board / map-not-territory (2026-11-05, published)
+
+- Loop: v1 (กระดาน 99wc) → owner steer "storytelling + ใช้หนังสือ The Great Mental Models Vol.1" → v2 map-first 103wc → Benz-DNA r1 (4 จุด + gate) → gate B → post-gate spec → v3 BENZ-AUTHORED (ครั้งที่สอง) → keys 16/16 → Notion swap 42 blocks + published.
+- Sources: ประโยค brief = ของจริงในเล่ม (fs.blog chapter Map Is Not the Territory + excerpts) + ทฤษฎีกระดาน Chase & Simon 1973 (header only).
+- Critique points: (1) แผนที่สามแบบยังรวมเป็นอันเดียว (2) คำว่าพิสูจน์แรงเกิน (3) ตัวอย่างทีมขาด "แผนที่มองข้ามอะไร" (4) เกณฑ์ สั้น/ยาว ตัดสินเร็วไป — keep-list: title / "ที่ไม่ตรงคือแผนที่ ไม่ใช่ถนน" / quote งานที่ไหล / ฉากเล่างานให้คนใหม่ฟัง
+- Gate: สองแกน — สร้างแผนที่ (v1-axis) vs ตรวจแผนที่ (v2-axis); owner เลือก B "แบบจำลองที่มีไม่ตรงกับความจริง" → DEAD checks: v2 closer line และ "ยังไม่ถูกวาด" = 0 ใน publish (เหลือเฉพาะ title ซึ่ง Benz เก็บไว้)
+- Publish moves: H3 = spine sentence (เกณฑ์) / สะพาน "ล้วนมีแบบจำลองอยู่เบื้องหลัง" / เกณฑ์ outcome / มาตรฐานสองเท่า (ตัวเลขไม่ผิด แต่สิ่งที่วัดไม่สะท้อนทั้งหมด) / quote ใหม่จาก gate answer / closer = ตรวจแผนที่ + Blind Spot (cross-ref ตระกูล #81)
+- Owner register override: เพราะ ×4 ใช้เป็นตัวเชื่อมกลางบท (343/345 pattern) — เรา 10 / คุณ 0 / '?' 0 / เลขอารบิก 0
+- Notion `40fdf8d8-8d8c-813e-bd76-d131aff42945` 42 blocks / empty 0 / quote bold / Status published (swap path: delete-all + PATCH children + PATCH select — ตรวจ read-back ครบ)
+

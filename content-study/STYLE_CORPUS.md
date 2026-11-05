@@ -2503,3 +2503,11 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - **บทเรียนใหม่ (344-346):** เลข event-identity (2026) เป็นข้อยกเว้นอารบิก — เลขผลลัพธ์ยังห้ามใน body / เพราะ verdict connector ผ่านเมื่ออยู่กลางบทใน fairness carve-out เงื่อนไขตรวจได้ (ปิดบทยังห้าม) / ย่อหน้ามาตรฐานสองเท่า = criterion block ที่ทำให้ explainer ใช้เป็นเครื่องมือได้ (ข้อมูลฝั่งสนับสนุนผ่านทันที vs ฝั่งขัดต้องสอบสวนหลายชั้น)
 - **โครง (347):** ข่าวจริง → ทฤษฎี+gloss → ขยาย 4 โดเมน → carve-out → double-standard → closer คำถามจับตัวเอง; Notion page owner-built ครบ (38 blocks + image + Platform WP/FB/TH/IG) Status 🟧 Visualizing — agent ไม่แตะ production page
 - **ContentID:** 20261105-CNT-COGNITIVE-DISSONANCE-DOUBLE-STANDARD-REALITY — index.json #100, archive web-archive/20261105-election-dissonance-public-publish.md
+
+## pair (compression-random-board / map-not-territory) — published 2026-11-05
+
+- **รูปแบบคู่:** brief มาจากประโยคจริงใน The Great Mental Models Vol.1 → v1 (เปิดห้องแล็บ 99wc) → owner feedback "เข้าใจยาก" → v2 storytelling map-first (103wc) → Benz-DNA r1 (4 จุด + gate สองแกน) → owner gate B ("แบบจำลองที่มีไม่ตรงกับความจริง") → post-gate spec → v3 BENZ-AUTHORED (ครั้งที่สองใน corpus) → keys 16/16 function-grade (K4/K9 function-pass) → 120wc = 1.17×, DEAD 0
+- **บทเรียนใหม่ (352-355):** gate สองแกน "สร้างแผนที่ vs ตรวจแผนที่" — owner ตัดสินได้จาก title ของตัวเอง (title สัญญาว่า 'ยังไม่มี' แต่เนื้อ v2 เล่าเรื่อง 'ใช้ไม่ได้') / ความสั้นของคำอธิบาย ≠ หลักฐานความถูก — เกณฑ์วัดต้องเป็น outcome (คนฟังทำงานต่อได้ไหม ไม่ใช่ เล่าจบไหม) / ทดลองสนับสนุนกลไก ≠ พิสูจน์ข้อกล่าว ("พิสูจน์" → "ช่วยให้เห็นกลไกนี้ชัดขึ้น") / ภาพเดียวห้ามยืมข้ามระดับ (ย่อข้อมูล ≠ จดจำรูปแบบ ≠ แบบจำลองกระบวนการ — ต้องมีสะพาน "แบบจำลองอยู่เบื้องหลัง")
+- **จุดเปลี่ยนใหญ่ v3:** แกนย้ายจาก "คนเข้าใจมีแผนที่" → "คนที่เข้าใจจริงต้องรู้ว่าเมื่อไรแผนที่ตัวเองใช้ไม่ได้" (blind spot ของความเข้าใจ — ต่อตระกูล #81) / H3 แทนที่ด้วย spine sentence / เกณฑ์ closer เปลี่ยนเป็น "แผนที่ที่เราให้เขาใช้อยู่ ยังตรงกับพื้นที่จริงหรือเปล่า"
+- **publish เพราะ ×4** (owner register override — ตัวเชื่อมคำอธิบายกลางบท ไม่ใช่ closer) — function-grade ผ่าน 345
+

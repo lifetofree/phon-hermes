@@ -1,6 +1,6 @@
 ---
 pair: 100
-hash: d4cd6bda45-0a58ff
+hash: 6c055fcd0b-0a58ff
 date: 20261105
 ---
 
@@ -16,4 +16,4 @@ date: 20261105
 
 ## บันทึก
 
-loop ใหม่ (publish-first): owner ส่ง publish version ที่ผ่านการตรวจ DNA แล้ว → reverse engineering + เสนอ skill patch ก่อนแตะ (owner: 'บอกพรก่อนที่จะปรับ') → อนุมัติ → fold 343-347 + selector line; sibling คู่ = dissonance roast 11-04 (thesis วงเดียว สองเสียง — 343); ContentID 20261105-CNT-COGNITIVE-DISSONANCE-DOUBLE-STANDARD-REALITY, Slug COGNITIVE-DISSONANCE-DOUBLE-STANDARD-REALITY (owner ตั้งใน Notion)
+loop ใหม่ (publish-first): owner ส่ง publish version ที่ผ่านการตรวจ DNA แล้ว → reverse engineering + เสนอ skill patch ก่อนแตะ (owner: 'บอกพรก่อนที่จะปรับ') → อนุมัติ → fold 343-347 + selector line; sibling คู่ = dissonance roast 11-04 (thesis วงเดียว สองเสียง — 343); ContentID 20261105-CNT-COGNITIVE-DISSONANCE-DOUBLE-STANDARD-REALITY, Slug COGNITIVE-DISSONANCE-DOUBLE-STANDARD-REALITY (owner ตั้งใน Notion); WP live 2026-11-05 17:30 (sync d16f7da) — เนื้อตรง paste ทุกประโยค, WP ใส่ tags เพิ่มท้าย: #CognitiveDissonance #MentalModels #SystemThinking

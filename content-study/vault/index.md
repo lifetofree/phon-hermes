@@ -4,23 +4,23 @@ type: moc
 
 # Content Study — สารบัญกลาง
 
-- คู่ทั้งหมด: **105** | published: **36** | ยังเปิด: **69**
+- คู่ทั้งหมด: **106** | published: **37** | ยังเปิด: **69**
 - กติกา: [[README]]
 
 ## คู่ล่าสุด
 
 - [[pair-100]] — 20261105 · published (pair #100 CLOSED 2026-11-05 — owner-aut
-- [[pair-101]] — 20261104 · published (pegasus pair CLOSED 2026-11-04 — Benz r
-- [[pair-102]] — 20261104 · published (dissonance pair CLOSED 2026-11-04 — sel
-- [[pair-103]] — 20261104 · published (share-to-keep pair CLOSED 2026-11-04 — 
-- [[pair-104]] — 20261104 · published (blood-bank pair CLOSED 2026-11-04 — sel
+- [[pair-101]] — 20261105 · published (pair #101 CLOSED 2026-11-05 — v1 (กระดา
+- [[pair-102]] — 20261104 · published (pegasus pair CLOSED 2026-11-04 — Benz r
+- [[pair-103]] — 20261104 · published (dissonance pair CLOSED 2026-11-04 — sel
+- [[pair-104]] — 20261104 · published (share-to-keep pair CLOSED 2026-11-04 — 
+- [[pair-105]] — 20261104 · published (blood-bank pair CLOSED 2026-11-04 — sel
 - [[pair-098]] — 20261103 · published (pair #98 CLOSED 2026-11-04 — Benz r1 mu
 - [[pair-099]] — 20261103 · published (pair #99 CLOSED — Benz r1 5 จุด + gate 
 - [[pair-079]] — 20261102 · published (pair #79 CLOSED 2026-11-02 — publish PA
 - [[pair-080]] — 20261102 · published (pair #80 CLOSED 2026-11-02 — publish PA
 - [[pair-081]] — 20261102 · published (pair #81 CLOSED 2026-11-02 — publish PA
 - [[pair-082]] — 20261102 · rewritten (pair #82 r1 PRE-REWRITE — Benz r1 + gat
-- [[pair-074]] — 20261030 · published (pair #74 CLOSED 2026-10-30 — publish PA
 
 ## คู่ที่ยังเปิด
 
@@ -162,6 +162,7 @@ type: moc
 - [[lmstudio-research]]
 - [[memento-mori-research]]
 - [[muse-research]]
+- [[notion-mcp-central-brain-research]]
 - [[ollama-research]]
 - [[orca-research]]
 - [[pegasus-spyware-research]]
