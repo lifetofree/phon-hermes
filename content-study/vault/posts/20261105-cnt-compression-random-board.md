@@ -7,7 +7,7 @@ CUT LIST (zero-count): พร, คุณ, คับ, ผม, เลขอาร�
 FORMAT: H1 + H3 + beat `.` + > bold 1 + H2 #สรุปแบบวิศวกรเป็ด + closer bold + `.` + tags
 Register: เรา (universal) / คุณ 0 / พร 0
 Rule 32: ONE move (งานที่ไหล = มีแผนที่แล้ว / งานที่ลำบากซ้ำทุกครั้ง = แผนที่ยังไม่ถูกวาด) — จ่ายด้วยเคสถามทาง + เคสแผนที่ชำรุด ก่อนถูกชวนใช้คำถามใหม่ / Rule 48: insight "แผนที่" เต็มเสียงจุดเดียว (H3 = def, เคส = หลักฐาน, closer = สัญญาณ)
-Notion: ยังไม่ PATCH — หน้าเดิม `40fdf8d8-8d8c-813e-bd76-d131aff42945` ยังเก็บ v1, รอ owner อนุมัติ v2 แล้วค่อย swap (หรือพรแก้เอง)
+Notion: SWAPPED 2026-11-05 (owner: "เอาลงทับไปใน notion ก่อน") — หน้า `40fdf8d8-8d8c-813e-bd76-d131aff42945` = v2 ทั้งหน้า (28 blocks, ลบ 33 เดิม, quote bold=True, empty 0, markers HIT, Name ใหม่, Status draft)
 FP DECLARATION (lesson 22): ความจำ ×1 ในประโยคปฏิเสธ "ไม่ใช่ความจำใหญ่" (ช่วงกระดาน) + "เลข" ×2 อยู่ในคำไทย "ตัวเลข" (Arabic digit = 0 ยืนยันในโค้ด) — intentional survivors ห้าม fix
 -->
 # ถามทางสักครั้ง แล้วเจอว่างานที่ลำบากอยู่ทุกวัน คืองานที่ยังไม่มีแผนที่
