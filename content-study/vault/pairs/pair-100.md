@@ -1,19 +1,19 @@
 ---
 pair: 100
-hash: d442fa45b0-0d2e5f
-date: 20261104
+hash: d4cd6bda45-0a58ff
+date: 20261105
 ---
 
-# เครื่องที่โดนเลือก ไม่ใช่เครื่องที่พลาด (pegasus publish)
+# เมื่อผลลัพธ์ไม่ตรงกับที่เชื่อ — เราเปลี่ยนใจ หรือเปลี่ยนคำอธิบาย? (election-dissonance publish)
 
-- **status:** published (pegasus pair CLOSED 2026-11-04 — Benz r1 5 จุด + gate B → owner เขียน public version เอง 61wc = 1.09× v2 expansion round; keys 8/8 HIT, DEAD 0; critique archive 20261104-pegasus-zero-click-benz-r1-critique-gate-B.md, publish archive 20261104-pegasus-zero-click-public-publish.md)
-- **date:** 20261104
-- **words:** 61
-- **form:** CURRENT FORM news-event single — แกน B (ถูกเลือกเป็นเป้าหมาย): subtitle = คู่เลือก-vs-พลาด, movement คำถามเปลี่ยน, closer แกน B ("มีคนตั้งใจเลือกเรา") — เรา 2 / คุณ 0 / เลขอารบิก 0 / quote+closer bold / brands 0
-- **Notion:** https://app.notion.com/p/40edf8d88d8c8148bf4ed3a125891a17
+- **status:** published (pair #100 CLOSED 2026-11-05 — owner-authored publish ผ่าน critic DNA ตรวจก่อนส่ง, agent analyze-only: archive + fact-check 6 แหล่ง (Reuters/NPR/AP/BBC/CBS/Guardian — Dems ทั้งสองสภา ตรงของจริง) + measure 100wc; Notion page มี body ครบจาก owner เอง, Status 🟧 Visualizing คงไว้ตาม production workflow; register ใหม่ = explainer-with-event, skill folds 343-347)
+- **date:** 20261105
+- **words:** 100
+- **form:** CURRENT FORM explainer register (347): ข่าวจริงเปิดบท (midterms 2026 วันเดียวกับ publish) → ทฤษฎีเอ่ยชื่อ 1 ครั้ง (Cognitive Dissonance) → ขยาย 4 โดเมน → ย่อหน้ามาตรฐานสองเท่า (346) → closer คำถามจับตัวเอง — เรา 12 / คุณ 0 / พร 0 / '?' 4 / เพราะ 1 (345 mid-body) / เลขอารบิกเฉพาะ event (344) / blockquote 0
+- **Notion:** https://app.notion.com/p/40fdf8d88d8c805eafb0cafd5ffd0a41
 - **ไฟล์โพสต์:**
-  - [20261104-cnt-pegasus-zero-click-selected](../posts/20261104-cnt-pegasus-zero-click-selected.md)
+  - 20261105-cnt-election-dissonance-double-standard (ไม่พบไฟล์)
 
 ## บันทึก
 
-loop: brief หา research Pegasus → verify ข้าม 3-4 แหล่ง/ข้อ (Citizen Lab FORCEDENTRY + GeckoSpy, Reuters, AP, iLaw, Amnesty, OCCRP, Britannica, Wikipedia) → research/pegasus-spyware-research.md (parked: คำพิพากษา WhatsApp, Khashoggi, เซอร์เบีย) → draft 48wc battery-pass first try → file Notion (markdown param: H1 แทรกเป็น block heading — ลบทิ้ง read-back 18 blocks census ถูก normalized match EXACT) → pre-send self-review (read-only battery + วิจารณ์ 5 จุด) แล้วแก้ precision: แยกชั้นเลขห้าหมื่น (เลือกเป้า ≠ ติดยืนยัน) / เพิ่มกลไก ทำไมความระวังปิดไม่ได้ / closer ใหม่ = มิติเดียวที่ quote ไม่พูด (สิ่งที่ยังคุมได้) ตัดครึ่งที่ซ้ำ quote / ไฟล์แนบ = เราเปิดเอง / ความเชื่อได้ภาพ (ใครกดผิด) / ตัดประโยคกลางที่ pre-empt closer (insight-once) → battery PASS, Notion rebuild 17 blocks verify EXACT/DEAD 0 → Benz r1 (5 จุด claim-strength, quotes 7/7) + gate B → พรเลือก B + public version มาในวันเดียวกัน: subtitle จากประโยค gate, คู่เลือก-vs-พลาดจัดเป็น movement, คู่คำถามเปลี่ยน, closer กลับแกน B, "ที่เดียว" = 0, claim-strength ทุกจุดแก้ → Notion rebuild 30 blocks verify EXACT + Status published — skill: items 325-328
+loop ใหม่ (publish-first): owner ส่ง publish version ที่ผ่านการตรวจ DNA แล้ว → reverse engineering + เสนอ skill patch ก่อนแตะ (owner: 'บอกพรก่อนที่จะปรับ') → อนุมัติ → fold 343-347 + selector line; sibling คู่ = dissonance roast 11-04 (thesis วงเดียว สองเสียง — 343); ContentID 20261105-CNT-COGNITIVE-DISSONANCE-DOUBLE-STANDARD-REALITY, Slug COGNITIVE-DISSONANCE-DOUBLE-STANDARD-REALITY (owner ตั้งใน Notion)

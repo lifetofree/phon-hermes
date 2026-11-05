@@ -2495,3 +2495,11 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - **ที่ Benz ทำกับ v1:** spine ประโยคแกน = H3 subtitle / แยก 3 ชั้น Automation-Monitoring-Response (ตัดสองขั้ว) / ปฏิเสธเชิงบวก anchor กลับ "ตามรายงานข่าว" / quote ใหม่ observation+action / เรา 0 (news register) / frequency-claim ถูกถอด
 - **บทเรียน (338-342):** ตั้งชื่อชั้นแทนต่อสู้สองขั้ว / ปฏิเสธเชิงบวกต้องมี anchor + ข้อความสร้างสรรค์ / news register คัด narrator ออกเมื่อแกนเป็นคุณสมบัติของระบบ / ประโยคที่ถูกชมต้องผ่าน re-audit โครงสร้างทุกรอบ / spine sentence วางเป็น subtitle เมื่อ title-subtitle คนละทิศ
 - **จำลอง vs จริง รอบ 3:** 3/4 overlap (ครั้งแรกที่ checklist ทัน) — ตัวหนา: claim-exclusion ประโยคที่แบก quote; ที่ sim ยังตามไม่ทัน = framing choices ที่ draft ติดตั้งเอง (stack vs pole, title-type)
+
+## pair (election-dissonance-double-standard) — published 2026-11-05
+
+- **รูปแบบคู่ (loop ใหม่: publish-first):** owner ส่ง publish version ที่ผ่านการตรวจ DNA แล้วโดยตรง (ไม่มีรอบ draft/_critique ในไฟล์) → agent analyze-only: archive verbatim → fact-check 6 แหล่ง (Reuters/NPR/AP/BBC/CBS/Guardian — midterms 2026 Dems ทั้งสองสภา ตรงของจริง รวมชนะ red state 7 ที่) → measure → reverse engineering → เสนอ folds รอ owner อนุมัติก่อนแตะ skill ("บอกพรก่อนที่จะปรับ")
+- **register คู่กับ roast เมื่อวาน (343):** dissonance 11-04 = roast (ทฤษฎีไม่เอ่ยชื่อ, '?' 0, 46-69wc) / election 11-05 = explainer-with-event (เปิดด้วยข่าววันเดียวกัน publish, Cognitive Dissonance เอ่ย 1 ครั้ง, '?' 4, เรา 12, 100wc) — thesis เดียวกัน สองเสียง เลือกตอน draft ไม่ blend
+- **บทเรียนใหม่ (344-346):** เลข event-identity (2026) เป็นข้อยกเว้นอารบิก — เลขผลลัพธ์ยังห้ามใน body / เพราะ verdict connector ผ่านเมื่ออยู่กลางบทใน fairness carve-out เงื่อนไขตรวจได้ (ปิดบทยังห้าม) / ย่อหน้ามาตรฐานสองเท่า = criterion block ที่ทำให้ explainer ใช้เป็นเครื่องมือได้ (ข้อมูลฝั่งสนับสนุนผ่านทันที vs ฝั่งขัดต้องสอบสวนหลายชั้น)
+- **โครง (347):** ข่าวจริง → ทฤษฎี+gloss → ขยาย 4 โดเมน → carve-out → double-standard → closer คำถามจับตัวเอง; Notion page owner-built ครบ (38 blocks + image + Platform WP/FB/TH/IG) Status 🟧 Visualizing — agent ไม่แตะ production page
+- **ContentID:** 20261105-CNT-COGNITIVE-DISSONANCE-DOUBLE-STANDARD-REALITY — index.json #100, archive web-archive/20261105-election-dissonance-public-publish.md
