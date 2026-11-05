@@ -4664,5 +4664,93 @@
     "words": 100,
     "form": "CURRENT FORM explainer register (347): ข่าวจริงเปิดบท (midterms 2026 วันเดียวกับ publish) → ทฤษฎีเอ่ยชื่อ 1 ครั้ง (Cognitive Dissonance) → ขยาย 4 โดเมน → ย่อหน้ามาตรฐานสองเท่า (346) → closer คำถามจับตัวเอง — เรา 12 / คุณ 0 / พร 0 / '?' 4 / เพราะ 1 (345 mid-body) / เลขอารบิกเฉพาะ event (344) / blockquote 0",
     "note": "loop ใหม่ (publish-first): owner ส่ง publish version ที่ผ่านการตรวจ DNA แล้ว → reverse engineering + เสนอ skill patch ก่อนแตะ (owner: 'บอกพรก่อนที่จะปรับ') → อนุมัติ → fold 343-347 + selector line; sibling คู่ = dissonance roast 11-04 (thesis วงเดียว สองเสียง — 343); ContentID 20261105-CNT-COGNITIVE-DISSONANCE-DOUBLE-STANDARD-REALITY, Slug COGNITIVE-DISSONANCE-DOUBLE-STANDARD-REALITY (owner ตั้งใน Notion)"
+  },
+  {
+    "slug": "ai-harness-over-model-lesson-residue",
+    "title": "AI ทำงานผิด — อย่าแก้แค่คำตอบ แต่เก็บบทเรียนไว้ใช้รอบหน้า",
+    "date": "2026-11-01T10:00:00",
+    "link": "https://wp.adduckivity.com/ai-harness-over-model-lesson-residue/",
+    "words": 109,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/ai-harness-over-model-lesson-residue.md"
+  },
+  {
+    "slug": "one-year-360-posts-system-over-inspiration",
+    "title": "หนึ่งปี 360 โพสต์ — ตัวเลขที่บอกว่าเดินมาได้เพราะระบบ ไม่ใช่แรงบันดาลใจ",
+    "date": "2026-11-01T11:46:56",
+    "link": "https://wp.adduckivity.com/one-year-360-posts-system-over-inspiration/",
+    "words": 111,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/one-year-360-posts-system-over-inspiration.md"
+  },
+  {
+    "slug": "system-dependency-fallback-limits",
+    "title": "ระบบที่ล็อกไว้แล้ว ก็ยังมีวันพัง — เพราะเราไม่ได้ควบคุมทุกสิ่งที่ระบบพึ่งพา",
+    "date": "2026-11-02T11:48:33",
+    "link": "https://wp.adduckivity.com/system-dependency-fallback-limits/",
+    "words": 91,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/system-dependency-fallback-limits.md"
+  },
+  {
+    "slug": "big-tech-battle-ground-level-tools",
+    "title": "ปล่อยให้พวกใหญ่สู้กันเอง — สิ่งที่ร่วงลงมาถึงพื้นบ้าน ไม่ได้มีป้ายบอกว่าเหมาะกับใคร",
+    "date": "2026-11-02T13:31:21",
+    "link": "https://wp.adduckivity.com/big-tech-battle-ground-level-tools/",
+    "words": 98,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/big-tech-battle-ground-level-tools.md"
+  },
+  {
+    "slug": "blind-spots-counting-fallacy-margin-of-safety",
+    "title": "คนที่ Blind Spot น้อยชนะ — แต่เราอาจนับของตัวเองไม่ได้",
+    "date": "2026-11-03T08:00:00",
+    "link": "https://wp.adduckivity.com/blind-spots-counting-fallacy-margin-of-safety/",
+    "words": 90,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/blind-spots-counting-fallacy-margin-of-safety.md"
+  },
+  {
+    "slug": "prevention-vs-firefighting-visibility-bias",
+    "title": "เก่งแก้ปัญหา กับ ไม่ให้ปัญหาเกิด — เป็นสองงานที่หน้าตาใกล้กัน",
+    "date": "2026-11-03T15:00:00",
+    "link": "https://wp.adduckivity.com/prevention-vs-firefighting-visibility-bias/",
+    "words": 85,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/prevention-vs-firefighting-visibility-bias.md"
+  },
+  {
+    "slug": "system-authorization-vs-execution-freezer-case",
+    "title": "ตู้แช่ไม่ได้พัง มันทำตามคำสั่งได้สำเร็จ",
+    "date": "2026-11-04T08:00:00",
+    "link": "https://wp.adduckivity.com/system-authorization-vs-execution-freezer-case/",
+    "words": 71,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/system-authorization-vs-execution-freezer-case.md"
+  },
+  {
+    "slug": "ai-agent-model-vs-harness-body-brain",
+    "title": "ถ้า AI เป็นคน โมเดลคือสมอง แล้ว harness คือทุกส่วนที่เหลือ",
+    "date": "2026-11-04T20:00:00",
+    "link": "https://wp.adduckivity.com/ai-agent-model-vs-harness-body-brain/",
+    "words": 116,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/ai-agent-model-vs-harness-body-brain.md"
+  },
+  {
+    "slug": "zero-click-exploit-targeted-attack-defense",
+    "title": "เครื่องที่โดนเลือก ไม่ใช่เครื่องที่พลาด",
+    "date": "2026-11-05T08:00:00",
+    "link": "https://wp.adduckivity.com/zero-click-exploit-targeted-attack-defense/",
+    "words": 70,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/zero-click-exploit-targeted-attack-defense.md"
+  },
+  {
+    "slug": "cognitive-dissonance-data-vs-belief",
+    "title": "ของที่ถูกแก้ก่อน มักเป็นข้อมูล ไม่ใช่ความเชื่อ",
+    "date": "2026-11-05T11:30:00",
+    "link": "https://wp.adduckivity.com/cognitive-dissonance-data-vs-belief/",
+    "words": 80,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/cognitive-dissonance-data-vs-belief.md"
+  },
+  {
+    "slug": "cognitive-dissonance-double-standard-reality",
+    "title": "เมื่อผลลัพธ์ไม่ตรงกับที่เชื่อ — เราเปลี่ยนใจ หรือเปลี่ยนคำอธิบาย?",
+    "date": "2026-11-05T17:30:18",
+    "link": "https://wp.adduckivity.com/cognitive-dissonance-double-standard-reality/",
+    "words": 96,
+    "file": "/home/lifetofree/hermes-agent/content-study/web-archive/cognitive-dissonance-double-standard-reality.md"
   }
 ]
