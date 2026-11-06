@@ -6,7 +6,7 @@ this index is the map. New folds continue from the highest existing number; add 
 
 Numbered folds live in two places:
 - **Benz-DNA critique workflow section:** (8)–(230) — critique-side drafting/critique rules
-- **File maintenance section:** (233)–(372) — post-#100 evolution, TECH lane, TECH-lane lessons
+- **File maintenance section:** (233)–(373) — post-#100 evolution, TECH lane, TECH-lane lessons
 
 ## Lane map (approximate clusters — folds overlap lanes; the number is the canonical location)
 
@@ -22,6 +22,7 @@ Numbered folds live in two places:
 | 356–359 | File maintenance | #100 r2 (data lifecycle, risk-transfer, question-triage, two-round contract) |
 | 360–365 | File maintenance | #103 ZCode r2 content patterns (duration≠proof, auto/manual split, attested-negative scope, heading contracts, used-surface limits, cross-level bridge) |
 | 366–372 | File maintenance | #103 ZCode r3 calibration (claims-total symmetry, assist-verbs, anchor lines, parse-once, same-scope negatives, "ตรวจ" disambiguation, limitation taxonomy + closer scope) |
+| 373 | File maintenance | #105 data-forward redo (research catches→body as win-conditions, title EXPECT-KEEP re-audit on redo) |
 
 ## Cross-skill pointers
 
