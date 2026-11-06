@@ -1,5 +1,5 @@
 <!--
-pair #104 (small-specialist-models) — CURRENT FORM — LEVEL: L3 (believing-wrong-unnoticed: เชื่อว่า "โมเดลที่ดีที่สุดในโลก = คำตอบของทุกงาน" — แต่งานส่วนใหญ่เป็นงานเดียว และตัวชนะของงานเดียวมักเป็นตัวเล็กที่ถูกเลือกถูกที่)
+pair #105 (small-specialist-models) — CURRENT FORM — LEVEL: L3 (believing-wrong-unnoticed: เชื่อว่า "โมเดลที่ดีที่สุดในโลก = คำตอบของทุกงาน" — แต่งานส่วนใหญ่เป็นงานเดียว และตัวชนะของงานเดียวมักเป็นตัวเล็กที่ถูกเลือกถูกที่)
 
 ORIGIN: owner brief (2026-11-06): ให้ research จาก kdnuggets "7-small-specialist-models-that-beat-giant-llms-at-one-job" + มุมเทคโนโลยี + ขยี้ point "model ใหญ่ไม่จำเป็นต้องเก่งที่สุดเสมอไป เราแค่เลือกใช้ให้มันถูกงาน"
 
