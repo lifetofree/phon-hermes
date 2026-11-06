@@ -4809,7 +4809,7 @@
   "link": "https://app.notion.com/p/pair-105-draft-PRE-CRITIQUE-410df8d88d8c81958459d0f5ae2826cd",
   "notion_page_id": "410df8d8-8d8c-8195-8459-d0f5ae2826cd",
   "date": "2026-11-06",
-  "status": "draft (pair #105 v1 — รอ Benz r1)",
+  "status": "draft (pair #105 v1 — รอ Benz r1; research verify ครบ 2026-11-06 ตัวเลข 7/7 ตรง primary — section 'รายละเอียดจริง' append ในหน้า Notion เดิม 26→36 blocks)",
   "words": 76,
   "form": "CURRENT FORM — L3 believing-wrong-unnoticed, tech-news angle จาก kdnuggets, no-case เราล้วน (เรา 4, '?' 0, quote bold 1, closer bold 1, dots 5)",
   "note": "loop: owner brief (kdnuggets 7 specialist models + ขยี้ 'model ใหญ่ไม่จำเป็นต้องเก่งสุดเสมอไป เลือกให้ถูกงาน') → research ต้นฉบับ (Parakeet 600M WER 6.32 vs Whisper 7.44 +เร็ว 23× / PaddleOCR-VL 0.9B 96.33 vs Gemini 92.91 GPT-86.59 / GLiNER 50M 52.7 vs ChatGPT 47.5 / Arch-Router 1.5B 93.17% +50ms vs 1450ms / Nemotron-8B ยังเรียก GPT-5 ~40% steps / Kokoro-82M TTS) → แกน L3: จ้างสมองดีสุดในโลก vs จ้างคนทำงานนั้น + งานที่พูดจบในประโยคเดียวมีตัวเล็กรออยู่; CUT 0 (แก้ เพราะ×3, เสมอ = expect-keep H1 จาก brief owner); Notion 26 blocks + quote fixed (artifact ** 1 จุด) verify ครบ"
