@@ -9,6 +9,8 @@ Use for any content drafting task for the adduckivity brand: research a topic, d
 
 ## Workflow (order matters)
 
+**Skill split (2026-11-06):** critique-cycle work (intake of a Benz comment, gates, publish-keys, pair closure, fold-learning) lives in the sibling skill `content-critique-cycle` (`~/hermes-agent/skills/content-critique-cycle/SKILL.md`); this file keeps writing/rewriting rules + the critic-side patterns below. Reading THIS file alone is enough for drafting; load the sibling when a critique round starts.
+
 **FORM SELECTOR — read this BEFORE any drafting rule below; it decides the form, the rest of the file is depth/provenance:**
 - **Tech/tool-review brief** (a tool, product, benchmark, how-to) → v2 line-per-sentence TECH form (stat-line opener, comparison table, real benchmark + disclaimer, two-fork ending) — v2 is STILL ground truth for tech posts.
 - **System/mindset brief** (an idea about work/habit/attention/decisions — the usual Thai idea brief) → **CURRENT FORM** (story opener, ONE dispatch question + 2 modes, worked example load-bearing, near-miss, zero protocols/tables/H2/Laws labels). Do NOT build 3-error sections or XX-0N protocols for these — that architecture is pre-#12 historical.
