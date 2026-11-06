@@ -2511,3 +2511,11 @@ Skills: freeze list = publish acceptance markers (171) / removal test = conditio
 - **จุดเปลี่ยนใหญ่ v3:** แกนย้ายจาก "คนเข้าใจมีแผนที่" → "คนที่เข้าใจจริงต้องรู้ว่าเมื่อไรแผนที่ตัวเองใช้ไม่ได้" (blind spot ของความเข้าใจ — ต่อตระกูล #81) / H3 แทนที่ด้วย spine sentence / เกณฑ์ closer เปลี่ยนเป็น "แผนที่ที่เราให้เขาใช้อยู่ ยังตรงกับพื้นที่จริงหรือเปล่า"
 - **publish เพราะ ×4** (owner register override — ตัวเชื่อมคำอธิบายกลางบท ไม่ใช่ closer) — function-grade ผ่าน 345
 
+
+## pair (thinkrail-tech-review) — published 2026-11-05
+
+- **รูปแบบคู่ (TECH lane loop เต็มครั้งแรก):** v1 First Look → sim-critique 12 จุด → v2 (gate กลุ่มแรก "คนใช้ pi" + ตาราง FB-copyable) → BENZ r1 จริง (6 จุด: threshold ไม่มีฐาน / metaphor sandbox เกินจริง / ล็อกแรงกว่าเอกสาร / spec graph ขาดปัญหาที่แก้ / ตารางปน fact+verdict / killer "แข่ง" + nit batch) + gate 3-way → owner "2" = ระบบจัดการงานขนาน → post-gate spec (spine sentence verbatim + sandbox guard + ตารางเปลี่ยนน้ำหนัก) → v3 owner publish keys 18/18 → 464wc = 1.25×
+- **บทเรียน TECH-lane (ลง skill แล้ว):** วัดแรงเสียดทาน ไม่ใช่จำนวน (10 session ที่จัดได้ ≠ 2 session ที่พัง) / metaphor ต้องมีประโยคขอบเขตในตัว (worktree ≠ sandbox) / verb weight ≤ เอกสาร ("ล็อก" = 0) / ตารางเทียบ = กรอบต้นทุนการจัดการ (ฝั่งซ้าย = สิ่งที่วิธีเดิมต้องจัดการเอง) + disclaimer ใต้ตาราง / product-identity gate 3 ทางก่อนเขียน tool review / คับ อยู่เฉพาะ canonical STREAM-01 ไม่ใช่ทุก TECH post
+- **critic drift (rule 43):** critic อ้าง "คำตอบของทีม JetBrains" (vocab v1) ทั้งที่ v2 แก้เป็น "ข้อเสนอ" ไปแล้ว — load-bearing quotes ยัง HIT 6/7 จึงไม่ถือว่า stale round
+- **publish moves:** quote = spine sentence จาก post-gate spec / สัญญาณเปลี่ยนเป็น friction / กลไก + sandbox boundary ย่อหน้าเดียว / ตาราง 5 คู่ "แบบเดิม — / ThinkRail —" + disclaimer / closer bold defs ×4 + คำถามความเหมาะ (ไม่ใช่ชวนลอง)
+

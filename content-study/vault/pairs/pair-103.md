@@ -1,19 +1,19 @@
 ---
 pair: 103
-hash: da1fca6e53-fe1547
+hash: d442fa45b0-0d2e5f
 date: 20261104
 ---
 
-# ของที่ถูกแก้ก่อน มักเป็นข้อมูล ไม่ใช่ความเชื่อ (dissonance publish)
+# เครื่องที่โดนเลือก ไม่ใช่เครื่องที่พลาด (pegasus publish)
 
-- **status:** published (dissonance pair CLOSED 2026-11-04 — self-critique → v2 → Benz r2 (real, evidence-class ทั้ง 5 จุด) + gate B → owner public version 69wc = 1.10× expansion; keys 7/7 (K1 function-pass + owner-override); archives 20261104-dissonance-{benz-r2-critique-gate-B,public-publish}.md)
+- **status:** published (pegasus pair CLOSED 2026-11-04 — Benz r1 5 จุด + gate B → owner เขียน public version เอง 61wc = 1.09× v2 expansion round; keys 8/8 HIT, DEAD 0; critique archive 20261104-pegasus-zero-click-benz-r1-critique-gate-B.md, publish archive 20261104-pegasus-zero-click-public-publish.md)
 - **date:** 20261104
-- **words:** 69
-- **form:** CURRENT FORM idea-brief v3 (owner-authored) — แกน B mechanism-route (hedge-web อาจ ×8), งานศึกษา two-layer (สังเกต vs เสนอคำอธิบาย), self-observation movement เต็ม, closer = คำถามเกณฑ์ของ critic ("เปิดโอกาสให้ความเชื่อเดิมถูกตรวจสอบบ้างหรือยัง") — Cognitive Dissonance กลับมาในเนื้อ (FP), เรา 7 / คุณ 0
-- **Notion:** https://app.notion.com/p/40edf8d88d8c81d79cfefcf265b4b4f5
+- **words:** 61
+- **form:** CURRENT FORM news-event single — แกน B (ถูกเลือกเป็นเป้าหมาย): subtitle = คู่เลือก-vs-พลาด, movement คำถามเปลี่ยน, closer แกน B ("มีคนตั้งใจเลือกเรา") — เรา 2 / คุณ 0 / เลขอารบิก 0 / quote+closer bold / brands 0
+- **Notion:** https://app.notion.com/p/40edf8d88d8c8148bf4ed3a125891a17
 - **ไฟล์โพสต์:**
-  - [20261104-cnt-dissonance-edit-data-not-belief](../posts/20261104-cnt-dissonance-edit-data-not-belief.md)
+  - [20261104-cnt-pegasus-zero-click-selected](../posts/20261104-cnt-pegasus-zero-click-selected.md)
 
 ## บันทึก
 
-loop: brief resonance → research (APA primary + Hart meta + prophecy study) → owner redirect ด่า dissonance → draft 46wc battery-pass → filed Notion — sibling guard resonance-parked (คำครบ 0) → self-critique (จำลอง Benz 5 จุด) → owner: "rewrite ตาม B เก็บ C เป็นวัตถุดิบ next content" → v2: title hedge มัก + คู่ movement + ทางที่ห้า + ลิงก์นุ่ม + มุกเดียว + closer สัญญาณเช็คตัวเอง (FP: เสมอในรูปปฏิเสธความสากล) → Notion rebuild + Name PATCH, Status draft รอ Benz r1 ตัวจริง; กิ่ง C → vault/branches/branch-conversion-as-replenishment.md → Benz r2 (real) + gate B → พรเลือก B ("อยู่ดีไซน์แล้ว" = evidence-earning order) → public version วันเดียวกัน: hedge-web ทั้งบท, งานศึกษา two-layer ("เสนอคำอธิบายว่า...อาจ"), ส่วนสังเกตตัวเองขยายเต็ม, closer เกณฑ์ตรวจ → Notion rebuild 34 blocks EXACT + Status published — skill folds: items 329-333 + 318 note + 313 third occurrence + session lessons 52-53
+loop: brief หา research Pegasus → verify ข้าม 3-4 แหล่ง/ข้อ (Citizen Lab FORCEDENTRY + GeckoSpy, Reuters, AP, iLaw, Amnesty, OCCRP, Britannica, Wikipedia) → research/pegasus-spyware-research.md (parked: คำพิพากษา WhatsApp, Khashoggi, เซอร์เบีย) → draft 48wc battery-pass first try → file Notion (markdown param: H1 แทรกเป็น block heading — ลบทิ้ง read-back 18 blocks census ถูก normalized match EXACT) → pre-send self-review (read-only battery + วิจารณ์ 5 จุด) แล้วแก้ precision: แยกชั้นเลขห้าหมื่น (เลือกเป้า ≠ ติดยืนยัน) / เพิ่มกลไก ทำไมความระวังปิดไม่ได้ / closer ใหม่ = มิติเดียวที่ quote ไม่พูด (สิ่งที่ยังคุมได้) ตัดครึ่งที่ซ้ำ quote / ไฟล์แนบ = เราเปิดเอง / ความเชื่อได้ภาพ (ใครกดผิด) / ตัดประโยคกลางที่ pre-empt closer (insight-once) → battery PASS, Notion rebuild 17 blocks verify EXACT/DEAD 0 → Benz r1 (5 จุด claim-strength, quotes 7/7) + gate B → พรเลือก B + public version มาในวันเดียวกัน: subtitle จากประโยค gate, คู่เลือก-vs-พลาดจัดเป็น movement, คู่คำถามเปลี่ยน, closer กลับแกน B, "ที่เดียว" = 0, claim-strength ทุกจุดแก้ → Notion rebuild 30 blocks verify EXACT + Status published — skill: items 325-328

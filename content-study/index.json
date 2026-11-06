@@ -4765,5 +4765,17 @@
     "words": 120,
     "form": "CURRENT FORM idea-brief v3 (Benz-authored): spine-as-subtitle (H3 = เกณฑ์ 'รู้ว่าแผนที่ตรงไหนใช้ไม่ได้') + สามฉาก (ถามทาง→หมากรุก→ทีม) + เกณฑ์ outcome (อธิบายได้≠ถูก) + plot-twist quote 'งานที่ทำซ้ำแล้วลำบากเท่าเดิม...' + closer Blind Spot-ตรวจแผนที่ — เรา 10 / คุณ 0 / เพราะ 4 (owner override 343-style) / blockquote 1 / Blind Spot cross-ref 1 (ตระกูล blind spot #81)",
     "note": "loop: brief มาจากประโยคจริงใน The Great Mental Models Vol.1 (verify fs.blog+dyingwords) → v1 เปิดห้องแล็บ owner ตี 'เข้าใจยาก' → v2 map-first → critique รอบแรกจับ 4 จุด (แผนที่ 3 แบบไม่ชัด/พิสูจน์ แรงเกิน/เกณฑ์สั้น-ยาวตัดสินเร็ว/keep 4) + gate สองแกน → gate B เลือก ตรวจแผนที่ (ไม่ใช่ สร้างแผนที่) → v3 แกนย้ายเป็น blind-spot-of-understanding, สามฉากคงรูปแต่เสียบสะพานแบบจำลอง, เกณฑ์เปลี่ยนเป็น outcome, quote ใหม่จาก owner gate answer"
+  },
+  {
+    "slug": "20261105-cnt-thinkrail-review-tech",
+    "title": "ThinkRail — จัดการงาน Agent หลายชิ้นพร้อมกัน โดยไม่ให้ทุกงานอยู่บน branch เดียวกัน (TECH review publish)",
+    "file": "web-archive/20261105-thinkrail-tech-publish-v3.md",
+    "link": "https://app.notion.com/p/ThinkRail-pi-terminal-410df8d88d8c81ec8a84c7b4aa2b6cb8",
+    "notion_page_id": "410df8d8-8d8c-81ec-8a84-c7b4aa2b6cb8",
+    "date": "2026-11-05",
+    "status": "published (pair #102 CLOSED 2026-11-05 — TECH lane ครั้งแรกที่วิ่ง loop เต็ม: v1 (First Look) → sim-critique 12 จุด → v2 (gate กลุ่มแรก + FB-copyable table) → BENZ r1 จริง 6 จุด + nit batch + gate 3-way → owner '2' (ระบบจัดการงานขนาน) → post-gate spec (spine sentence + sandbox guard) → v3 owner publish keys 18/18 (464wc = 1.25×, DEAD checks ทั้งสองแกนที่ไม่เลือก = 0) → Notion rebuild 101 blocks + Status published; archives thinkrail-tech-{benz-r1-gate-2-spec,publish-v3}.md + v1/v2 snapshots)",
+    "words": 464,
+    "form": "Content v2 TECH (Decision Guide): stat-line dated → hook งานขนาน → quote = spine sentence (bold) → not-pitching → สัญญาณแบบแรงเสียดทาน (friction ไม่ใช่ count) → เบรกเกอร์ metaphor + sandbox boundary → spec graph (support + ต้องตรวจ) → เปรียบเทียบ 5 คู่แบบต้นทุนการจัดการ (แบบเดิม — / ThinkRail —) + disclaimer → ติดตั้ง code block → ข้อจำกัด → closer bold defs ×4",
+    "note": "loop: brief ThinkRail → verify 6 แหล่ง → mindset draft แยกไฟล์ → TECH review 3 รอบ → owner เลือก gate 2 → v3; บทเรียน TECH-lane fold ลง skill แล้ว (friction>count / metaphor boundary / verb weight / table cost-framing / product-identity gate / TECH polish ledger)"
   }
 ]

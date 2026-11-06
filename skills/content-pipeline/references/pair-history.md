@@ -351,3 +351,13 @@ Publish moves (thinking-level):
 - Owner register override: เพราะ ×4 ใช้เป็นตัวเชื่อมกลางบท (343/345 pattern) — เรา 10 / คุณ 0 / '?' 0 / เลขอารบิก 0
 - Notion `40fdf8d8-8d8c-813e-bd76-d131aff42945` 42 blocks / empty 0 / quote bold / Status published (swap path: delete-all + PATCH children + PATCH select — ตรวจ read-back ครบ)
 
+
+## pair #102 — thinkrail-tech-review (2026-11-05, published)
+
+- Loop: v1 First Look → sim 12 → v2 (gate A: pi-users) → BENZ r1 จริง + gate 3-way → owner "2" → spec → v3 owner publish → keys 18/18 → Notion rebuild 101 blocks + published (ครั้งแรกที่ TECH lane วิ่ง loop critique→gate→spec→publish เต็ม)
+- Sources: repo/blog/landing + piagent.fyi + 2 reviews — re-verify วันตรวจ (shelf-life rule 45)
+- Critique: threshold ไม่มีฐาน / metaphor sandbox / ล็อกแรงเกิน / spec graph ขาด "แก้อะไร" / ตารางปน fact-verdict / killer สองหน้าจอ / nits (คับ→คือ, ไม่เวที→ไม่เกิด, spacing, ย้ำเวอร์ชัน ≤2)
+- Gate: 3-way product identity (หน้าจอ / ระบบงานขนาน / ชั้นควบคุม) — owner "2"
+- Publish moves: quote = spine sentence / friction signals / sandbox boundary sentence / ตารางกรอบต้นทุน + disclaimer / closer defs ×4 — 464wc = 1.25×, DEAD: ทั้งสองแกนที่ไม่เลือก = 0
+- Notion `410df8d8-8d8c-81ec-8a84-c7b4aa2b6cb8` 101 blocks / empty 0 / Status published — insert >100 blocks ต้องแบ่ง 2 batches (API limit 100/request — pitfall ยืนยันอีกครั้ง)
+
