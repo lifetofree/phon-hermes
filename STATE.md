@@ -47,3 +47,9 @@
 - **Notion table API pitfall (2026-11-06):** สร้าง table = (1) PATCH /blocks/{page}/children พร้อม `"after"` anchor — table block ใส่ `children: [table_row...]` ใน payload เดียวได้ (table_row = `{type, table_row:{cells:[[richtext],...]}}` — cell เป็น ARRAY ของ richtext) แต่ถ้าไม่ผ่านให้แยก 2 สเต็ป: shell ผ่าน after → rows ผ่าน PATCH /blocks/{table_id}/children; **ปัญหาซ้ำ 8 แถวจาก 2 attempts ต้องเช็ค len(rows) หลัง insert ทุกครั้ง**; bold markdown `**` ใน rich_text ต้อง split runs + annotations ไม่ใช่ literal
 
 - download.pytorch.org throttle → ใช้ PyPI ปกติ; pypi.nvidia.com ช้ามาก; ห้ามรัน download script ซ้ำซ้อน 2 ตัว (เขียนทับ .part เดียวกัน → corrupt); HF ช้าให้ลอง hf-mirror.com
+
+## 2026-11-06 — pair #103 ZCode hands-on CLOSED
+- REAL-Benz r1→r2→r3 + owner publish (292wc) — Notion 78 blocks published, title retitled
+- Skills learned: folds 360-372, r2-cycle + r3-shape patterns, §12 (ทุก Benz comment → fold ในรอบเดียว)
+- Archives: benz-r2-gate3-spec / benz-r3-gate-spec / publish — web-archive/
+- ค้าง: draft mindset 2 ตัว (notion-shared-notebook-harnesses 88wc / thinkrail-isolated-lane 79wc re-check sibling guard)
