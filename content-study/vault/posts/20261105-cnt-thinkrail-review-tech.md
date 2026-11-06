@@ -8,7 +8,7 @@ OWNER-DIRECTED: + FB variant (hybrid ของ FB form (b) RE-FLOW + (a) ตา�
 Register (TECH): คุณ-heavy / คับ ×1 / พร 0 / เพราะ allowed / digits allowed / brands allowed
 CUT (zero-count): พร, ครับ, แผนที่, ถามทาง, สมอง, ร่างกาย, harness, สมุด, โน้ต, บีบอัด, ความจำ, พิสูจน์, Review Gap / เพราะ + '?' + table-pipes + codeblock อนุญาตตาม TECH
 FP DECLARATION (lesson 22): พร survivors = lookalike (เพราะ / พร้อมกัน) — ตรวจ context ทุกตัว ห้าม fix
-Notion: ยังไม่ file — รอ owner
+Notion: FILED 2026-11-05 — หน้าใหม่ `410df8d8-8d8c-81ec-8a84-c7b4aa2b6cb8` (88 blocks: main 65 + FB variant 23, code block ×1, ตาราง 7 แถวเป็น paragraph, quote bold=True, empty 0, read-back marker HIT ทุกตัว, v1 leftover GONE, H2 #สรุป patch เพิ่ม `#` ตาม TECH spec แล้ว) Status draft — ยังไม่ยิง Content DB จนกว่า owner review
 -->
 # ThinkRail — ทางเลือกที่สองของคนใช้ pi ที่ยังต้องรันทุกอย่างใน terminal
 
