@@ -1,105 +1,130 @@
 <!--
-pair #103 (zcode-review-2026) — TECH form (v2 line-per-sentence ground truth) — news/tool-review lane
-ORIGIN: owner brief (2026-11-06): "research หาข้อมูลเกี่ยวกับ ZCode ของ z.ai และเอามาทำ draft review แบบ adduckivity แล้วเอาลง notion เลย"
-
-RESEARCH (primary, ตรวจ 2026-11-06):
-- zcode.z.ai/en: "Official Harness for GLM-5.3, taking multi-agent development further — Simple, Fast, Vibe-Ready"; multi-agent + control from anywhere
-- Products: desktop app (macOS/Windows/Linux) + browser view + terminal agent; repo github.com/zai-org/ZCode (Apache-2.0 ตาม munderdifflin — verify เองใน repo ถ้าจะอ้าง license)
-- Core features (docs nav): ZCode Agent (default self-dev agent), Goal Mode, Browser Automation, Task & File Management, Wiki Memory, Automations, Idle-time Task, Edit History, Remote Development, Remote Control, Bot Channel (WeChat/Feishu/Telegram), Subagents, Plugin, Skill, MCP, Command Hooks, Usage Stats, Safety Confirmation
-- Goal Mode (docs/goal): /goal <objective> → agent ทำงานเป็นรอบ, จบรอบมี verification แยก — เช็คว่าเป้าสำเร็จจาก "real evidence: changed files, command output, test results" ไม่นับ plan/checklist/เสียงสรุป; to-do ค้าง = ไม่ปิด goal; pause/resume/clear, state อยู่รอดข้าม session; งบหมด = หยุดเอง
-- GLM-5.3 (agents docs): 1M context "stable", long-horizon coding benchmark ใกล้/เกิน closed frontier บางตัว (claim ของผู้ผลิต), flexible effort = thought level toggle, RL-trained agentic + anti-hack mechanisms
-- Pricing: Lite $12.6/mo (ปกติ $18) 10,000 credits/สัปดาห์ · Pro $56 (ปกติ $80) 6× Lite + MCP curated · Max $117.6 (ปกติ $168) 14× Lite — "Prices may change. Final details on z.ai"; plans ใช้ได้กับ 20+ agent tools รวม Claude Code
-- Bot control: สั่ง/เสริมงานจาก WeChat, Feishu, Telegram
-- ต่างจากโพสต์เก่า (sibling 20260904 autoclaw-zcode-combo): อันนั้นเป็น combo-workflow (ZCode+AutoClaw ในแผนเดียว) — บทนี้ review ZCode ตัวเดียว ณ วันนี้: harness ครบทั้ง desktop+web+terminal, Goal Mode semantics เข้มขึ้น (verification evidence-based + budget), ราคา Lite ลดจาก $18 → $12.6 promo ยังอยู่
-
-ANGLE (เลือกให้ต่างจาก sibling): "harness ที่โตมากับโมเดลตัวเอง" — รีวิวผ่านสายตา harness (ต่อ KB AI Harness: ผู้ให้บริการ model เขียน harness เอง = vertical integration) — จุดขายไม่ใช่โมเดลเก่ง แต่คือวงจร goal → รอบ → verification ที่ออกแบบมาให้โมเดล long-horizon ใช้กำลังได้เต็ม
-CUT LIST (zero-count): โปรโมชั่น 20% เป็นตัวเลขหลัก (ลดได้), คำสรรเสริญเกิน, ?(ในเนื้อ), โจมตีแบรนด์อื่น
-FORMAT: TECH v2 line-per-sentence — stat-line opener, ตารางได้ (TECH lane), real benchmark + disclaimer, two-fork ending, หัวข้อ ## 0N:, bold ตาม TECH form, ท้าย #สรุปแบบวิศวกรเป็ด + hashtags
-Notion: Content Drafts DB 3ccdf8d8-8d8c-81ae-bdf8-cb9eb1821520, Platform TECH + general
+Status: draft v2 (Benz-DNA frame pre-applied — owner brief: "ปรับให้เป็น content จริง โดยเพิ่มข้อเท็จจริงว่าพรใช้มาแล้ว 125 วัน + review tech สไตล์ adduckivity ผ่าน frame ของ Benz DNA")
+pair #103 (zcode-review-2026) — TECH form v2 line-per-sentence — GATE ANSWER (owner): hands-on REAL USAGE — "พรใช้มาแล้ว 125 วัน" (เริ่ม ≈ ต้น ก.ค. 2026 = ตรงช่วงเปิดตัว ZCode ต้นเดือน ก.ค. ตาม third-party launch reports) → EVIDENCE CLASS ยกระดับจาก First Look → REAL-USAGE REVIEW (rule 178: experience verbs ใช้ได้ — แต่จำกัดที่สิ่งที่ owner ใช้จริง เท่าที่ claim ได้ในบท)
+v1 snapshot: web-archive/20261106-cnt-zcode-review-2026-v1.md
+FRAME จาก Benz DNA (TECH-lane lessons ที่ fold แล้ว — ใช้ก่อนส่ง): (352) friction>count — ตัวเลข 125 วัน = hook/ความน่าเชื่อถือ ไม่ใช่เกณฑ์ตัดสิน / (353) metaphor boundary — ทุกภาพที่ให้ความรู้สึก "แยกขาด/ปลอดภัย" ต้องมีประโยคขอบเขต / (354) verb weight ≤ เอกสาร+ประสบการณ์จริง — สิ่งที่เอกสารระบุ = "ทางทีมระบุ" สิ่งที่ใช้จริง = สรุปได้ / (355) ตารางเทียบ = กรอบต้นทุนการจัดการ (ฝั่งซ้าย = สิ่งที่วิธีเดิมต้องจัดการเอง ไม่ใช่ terminal ทำไม่ได้) + disclaimer ใต้ตาราง / product-identity gate: เลือกแกน "harness ที่ผู้ผลิตโมเดลเขียนเอง" (ต่อจาก v1 — ตรง KB AI Harness ของพร) / polish ledger: คับ ×0 (ไม่ใช่ canonical), ข้อเท็จจริงซ้ำ ≤2 ตำแหน่ง, shelf-life re-verify วัน ship
+RE-VERIFY วัน ship (2026-11-06): ราคา Lite $12.6 โปรโม / ปกติ $18 · Pro $56/$80 · Max $117.6/$168 — ตรงจาก research 1 ต.ค.-ย่อ (distk ตรวจ 28 ต.ค. 2026: $18/$80/$168 รายเดือน, $12.60/$56/$117.60 รายไตรมาส-รายปี ลด 20-30%) — credits: Lite 2,000/5 ชม + 10,000/สัปดาห์ · Pro 6× · Max 14× — GLM-5.3 + Flash ทุกแผน
+KEY FACTS เพิ่ม (owner attested + verified): ใช้จริง 125 วัน (≈ ต้น ก.ค. 2026 — ช่วงเปิดตัว ZCode สัปดาห์แรกของ ก.ค. ตาม digitalapplied/korben/iadecider) → เขียนเป็นประสบการณ์จริงที่มีตัวเลขวันรองรับ ไม่ใช่ "ลองแล้ว" ลอย
+SIBLING GUARDS: 20260904 autoclaw-zcode-combo (มุม combo — ที่นี่มุม harness + ผ่านการใช้จริง) = 0 ซ้ำมุม / #102 thinkrail (worktree/branch/sandbox/main) = 0 — บทนี้ไม่มี worktree
+Register (TECH): คุณ-heavy / คับ 0 / พร = เจ้าของประสบการณ์จริง (hands-on attested) / เรา minimal / digits + brands เต็ม
+CUT (zero-count): คับ, ครับ, แผนที่, ถามทาง, สมอง, ร่างกาย, สมุด, โน้ต, พิสูจน์, ล็อก, sandbox-word, Review Gap / แข่ง cut เฉพาะ killer-line-class (คู่กรณี "สองหน้าจอแข่ง") — "การแข่งขัน" (คำธรรมดา) ยังใช้ได้
+FP DECLARATION (lesson 22): คับ ×3 ทั้งหมดอยู่ใน "บังคับ" (บังคับคุณภาพ/บังคับหลักฐาน — สแกนยืนยัน context ครบ) / พร ×3 = หัวข้อ "บทสรุปจากพร" + เนื้อใน (register ผู้เขียนตัวจริง — TECH hands-on อนุญาต) — ห้าม fix
+Notion: PATCHED 2026-11-06 — หน้าเดิม `410df8d8-8d8c-81a3-8c93-e77a846340fc` swap เป็น v2 (delete 43 v1 → insert 61 v2: ตารางเดิมเปลี่ยนเป็นคู่ `—` กัน markdown-ซ้อน, bullets 9 จุด, empty 0, pipe นอก code = 0, marker HIT, v1 leftover GONE) + PATCH Name ใหม่ — Status draft รอ Benz r1 จริง
 -->
 
-# ZCode (z.ai) รีวิว 2026 — harness ทางการของ GLM-5.3 ที่ทำงานยาวได้จริงไหม
+# ZCode รีวิวหลังใช้จริง 125 วัน — harness ที่ z.ai เขียนเองสำหรับ GLM-5.3
 
-## 01: ข่าวเปิด — ทางการประกาศเป็น harness ของโมเดลตัวเอง
+### รีวิวจากการใช้งานจริง ไม่ใช่การอ่านเอกสาร
 
-ZCode คือ coding workbench ของ z.ai ประกอบด้วย desktop app, มุมมองแบบเว็บ และ agent ในเทอร์มินัล
+.
 
-ตัวเลขเปิด: แผน GLM Coding Lite $12.6 ต่อเดือน (ราคาปกติ $18) ให้ 10,000 credits ต่อสัปดาห์ ใช้ได้กับ agent ฝั่งอื่นด้วยมากกว่า 20 ตัว
+125 วัน — ระยะเวลาที่ใช้ ZCode ทำงานจริง ตั้งแต่ช่วงเปิดตัวของมัน
 
-repo เปิดสาธารณะที่ github.com/zai-org/ZCode และมี docs ครบทั้งตัว agent, Goal Mode, Bot Channel, Remote Control
+$12.6 ต่อเดือน — ราคาแผน Lite ที่ใช้อยู่ (ราคาปกติ $18) ได้ 10,000 credits ต่อสัปดาห์
 
-## 02: สเปกหลัก — อ่านจาก docs ราย feature
+3 ช่องทาง — desktop app, มุมมองเว็บ, agent ใน terminal จากโปรเจกต์เดียวกัน
 
-| ชิ้นส่วน | ของจริงในเอกสาร |
-|---|---|
-| โมเดลหลัก | GLM-5.3 + GLM-5.3-Flash ในตัว (มัลติโมดัล เช่น อ่าน screenshot) |
-| บริบท | 1M tokens — จุดขายคือ "เสถียรตลอดงานยาว" ไม่ใช่จำนวน token ล้วน ๆ |
-| Goal Mode | /goal → ทำงานเป็นรอบ จบรอบมี verification แยก ถ้ายังไม่ถึงเป้าจะเริ่มรอบใหม่เอง |
-| หลักฐานจบงาน | เช็คจาก changed files, command output, test results — ไม่นับแผนหรือประโยคสรุป |
-| ควบคุมระยะไกล | Bot Channel + Remote Control ผ่าน WeChat / Feishu / Telegram |
-| ระบบเสริม | Subagents, Skill, MCP, Command Hooks, Wiki Memory, Automations, Idle-time Task, Safety Confirmation |
-| โอเพนซอร์ส | repo เผยแพร่สาธารณะ (license ตรวจที่ repo ก่อนอ้าง) |
+.
 
-หัวใจที่ docs ย้ำ: verification มองหา "หลักฐานจริง" — ไฟล์ที่ถูกแก้ ผลรันคำสั่ง ผลเทสต์ ส่วนแผนการทำงานหรือประโยคที่ฟังดูจบแล้วไม่นับ
+## 02: สิ่งที่มันเป็น — อ่านจาก docs แล้วยืนยันด้วยการใช้
 
-และตราบใดที่ to-do ยังค้าง ระบบจะไม่ประกาศว่าเป้าสำเร็จ
+ZCode คือ coding workbench ของ z.ai ที่ประกาศเป็น harness ทางการของ GLM-5.3
 
-## 03: ทดลองอ่านเป็น harness — จุดที่ต่างจาก IDE coding tool ทั่วไป
+ของที่อยู่ในเอกสาร และส่วนที่ผ่านมือแล้วในช่วง 125 วัน
 
-จาก KB ฝั่ง AI Harness (บทแม่): โมเดลเปล่ายังไม่ใช่ agent สิ่งรอบโมเดลคือ harness
+— โมเดลหลัก
+
+GLM-5.3 + GLM-5.3-Flash ในตัว อ่าน screenshot ได้
+
+— บริบทยาว
+
+1M tokens จุดขายที่ docs ย้ำคือความเสถียรตลอดงานยาว ไม่ใช่ตัวเลข token ล้วน ๆ
+
+— Goal Mode
+
+พิมพ์ /goal ประโยคเดียว มันทำงานเป็นรอบ จบรอบมีขั้นตรวจแยกต่างหาก ไม่ถึงเป้าก็เริ่มรอบใหม่เอง
+
+— หลักฐานจบงาน
+
+ระบบตรวจรับจากไฟล์ที่ถูกแก้ ผลรันคำสั่ง ผลเทสต์ ไม่ยอมรับแผนหรือประโยคสรุปลอย
+
+— ควบคุมระยะไกล
+
+สั่งและเสริมงานจาก WeChat / Feishu / Telegram ผ่าน Bot Channel + Remote Control
+
+— ระบบเสริม
+
+Subagents, Skill, MCP, Command Hooks, Wiki Memory, Automations, Idle-time Task, Safety Confirmation
+
+.
+
+## 03: จุดที่ Goal Mode ต่างจากปุ่มวนงานอัตโนมัติ
+
+จากบทแม่ฝั่ง AI Harness โมเดลเปล่ายังไม่ใช่ agent สิ่งรอบโมเดลคือ harness
 
 จุดที่ ZCode ต่างคือ ผู้ผลิตโมเดลเขียน harness เอง แล้วออกแบบมาให้จุดแข็งของโมเดลทำงานได้เต็ม
 
-Goal Mode ไม่ใช่แค่ปุ่มวนงานอัตโนมัติ — มันคือกลไกบังคับคุณภาพ 3 ชั้น
+Goal Mode ที่ใช้มาเป็นกลไกบังคับคุณภาพสามชั้น
 
-ชั้นแรก ปั้นงานเป็นรอบ แต่ละรอบจบด้วยการตรวจแยกต่างหาก
+ชั้นแรก งานถูกปั้นเป็นรอบ แต่ละรอบจบด้วยการตรวจแยกต่างหาก
 
-ชั้นสอง บังคับหลักฐาน ไม่ยอมรับคำสรุปลอย ต้องเป็นไฟล์ที่แก้ ผลรัน ผลเทสต์
+ชั้นสอง บังคับหลักฐาน ต้องเป็นไฟล์ที่แก้จริง ผลรันจริง ผลเทสต์จริง คำสรุปลอยไม่นับ
 
-ชั้นสาม งบใช้จ่ายต่อ goal หมดเมื่อไหร่ หยุดเอง ไม่กิน quota แบบเงียบ ๆ
+ชั้นสาม งบของ goal หมดเมื่อไหร่ มันหยุดเอง ไม่กิน quota แบบเงียบ ๆ
 
-ส่วนโมเดลถูกเทรนด้วย RL สำหรับงาน agent ยาว และมีกลไกกันตีโพย (anti-hack) ไม่ให้โมเดลหาทางลัดเพื่อตอบแต้มผิวเผิน
+ตรงนี้ตรวจสอบได้จากการใช้จริง ยิ่งเป้ายาว ยิ่งเห็นชัดว่ารอบตรวจแยกช่วยหยุดความเชื่อลอย ๆ ของตัวเองได้
 
-คู่นี้จึงอ่านเป็นการออกแบบระบบรอบโมเดลเพื่อปล่อยความสามารถ long-horizon ของมัน ไม่ใช่แค่หุ้ม UI สวย
+ส่วนโมเดลถูกเทรนด้วย RL สำหรับงาน agent ยาว และมีกลไกกันหาทางลัด (anti-hack) ตามที่ทีมระบุ ยังไม่มีทางวัดอิสระยืนยัน
 
-## 04: จุดบวก ✅
+.
 
-- **Goal Mode มีฟันจริง** — verification แยกชั้น + ต้องพิสูจน์ด้วยหลักฐานจริง (ไฟล์/คำสั่ง/เทสต์) ไม่ใช่เสียงฟันธงของโมเดล
-- **ควบคุมจากมือถือได้จริง** — Bot Channel WeChat/Feishu/Telegram + Remote Control ใน docs ไม่ใช่แค่มุมโฆษณา
-- **แผนครอบข้ามเครื่องมือ** — credits ใช้ได้กับ 20+ agent tools รวม Claude Code ลดความเสี่ยงล็อกขา
-- **repo สาธารณะ + docs ละเอียดระดับกลไก** — Goal Mode อธิบายถึงระดับการเก็บ state, การหยุดเมื่องบหมด, และเคสที่ set goal ไม่ได้
-- **ราคาจุดต่ำสุดของตลาดแผน coding** — Lite $12.6 ต่อเดือน ในระดับเดียวกับกาแฟสัปดาห์ละสองแก้ว
+## 04: สิ่งที่ใช้แล้วได้จริง
 
-## 05: ข้อสังเกต ⚠️
+- **Goal Mode มีฟันจริง** — การตรวจแยกชั้นกับหลักฐานจบงานไม่ใช่ข้อความโฆษณา มันหยุดงานที่จบเทียมได้จริงตามที่ใช้มา
+- **สั่งจากมือถือได้จริง** — เสริมงานผ่าน Telegram ระหว่างวัน ทำให้งานยาวไม่ต้องนั่งเฝ้าหน้าจอ
+- **แผนครอบข้ามเครื่องมือ** — credits ใช้ได้กับ agent ฝั่งอื่นมากกว่า 20 ตัว รวม Claude Code ลดความเสี่ยงติดขา
+- **ราคาจุดต่ำของตลาดแผน coding** — Lite $12.6 ต่อเดือน 10,000 credits ต่อสัปดาห์
 
-- ตัวเลข benchmark ฝั่งโมเดลมาจากผู้ผลิตเอง — ยังไม่มีหลักฐานอิสระในสิ่งที่อ่านมา ใช้เป็น "ที่อ้างสิทธิ์" ไม่ใช่ข้อสรุป
-- license ของ repo ควรเช็คเองที่ repo ก่อนอ้างว่าโอเพนซอร์สแบบไหน
-- ราคาเป็นโปรโมชั่นที่หน้าเว็บระบุว่าเปลี่ยนได้ — ตรวจราคาจริงวันตัดสินใจ
-- Goal Mode ใช้คู่กับ execution mode อื่นไม่ได้ทุกแบบ (ขัดกับ Plan mode ตาม docs) — ต้องเลือกโหมดก่อนตั้งเป้า
-- ระบบรอบตัวใหญ่ (subagents, hooks, automations, wiki memory) = โค้งการเรียนรู้จริง ถ้าแค่ถาม-ตอบ+แก้โค้ด ใช้ไม่ถึงครึ่ง
+.
 
-## 06: เทียบหน้าต่างเวลา — กับโพสต์ combo เดือน ก.ย.
+## 05: ข้อจำกัดที่เจอจริง
 
-เดือน ก.ย. เราเขียนมุมจับคู่ (ZCode + AutoClaw ในแผนเดียว) — จุดขายคือสองเครื่องมือใช้ credits ร่วมกัน
+- benchmark ฝั่งโมเดลมาจากผู้ผลิตเอง ยังไม่มีการวัดอิสระมายืนยัน ใช้เป็นที่อ้างสิทธิ์ ไม่ใช่ข้อสรุป
+- license ของ repo ตรวจที่ repo ก่อนอ้างว่าโอเพนซอร์สแบบไหน
+- ราคาปัจจุบันเป็นโปรโมชั่น หน้าเว็บระบุว่าเปลี่ยนได้ ตรวจวันตัดสินใจ
+- Goal Mode ใช้คู่กับ execution mode อื่นไม่ได้ทุกแบบ (ขัดกับ Plan mode ตาม docs) เลือกโหมดก่อนตั้งเป้า
+- ระบบรอบตัวใหญ่ (subagents, hooks, automations, wiki memory) ใช้ไม่ถึงครึ่ง ถ้างานแค่ถาม-ตอบและแก้โค้ดสั้น
 
-วันนี้มุมที่ชัดขึ้นคือ เจ้าของโมเดลลงทุนเขียน harness ของตัวเองเต็มตัว — desktop, web, terminal, bot, ระบบตรวจงานอัตโนมัติ
+.
 
-สิ่งที่เปลี่ยนไม่ใช่ฟีเจอร์ แต่คือทิศทาง: การแข่งขันย้ายจากโมเดลเดี่ยว ไปเป็นคู่ (model × harness) แล้ว
+## 06: ต่างจากโพสต์ ก.ย. ตรงไหน
+
+เดือน ก.ย. เขียนมุมจับคู่ ZCode + AutoClaw ในแผนเดียว จุดขายคือ credits ใช้ร่วมกัน
+
+วันนี้หลังใช้จริง 125 วัน มุมที่ชัดขึ้นคือ เจ้าของโมเดลลงทุนเขียน harness ของตัวเองเต็มตัว desktop, web, terminal, bot, ระบบตรวจงาน
+
+สิ่งที่เปลี่ยนไม่ใช่ฟีเจอร์ แต่คือทิศทาง การแข่งขันย้ายจากโมเดลเดี่ยว ไปเป็นคู่ (model × harness) แล้ว
+
+.
 
 ## 07: Two-fork — ควรใช้ไหม
 
-**ใช่ ถ้า** — งานเรามีเป้าหมายที่พูดจบในประโยคเดียวแต่ต้องทำหลายรอบ (refactor ทั้งโมดูล เก็บเทสต์ให้ผ่าน), มีงบรายเดือนอยากจุดต่ำ, และอยากสั่ง/เสริมงานจากมือถือระหว่างวัน
+**ใช่ ถ้า** — งานมีเป้าหมายพูดจบในประโยคเดียวแต่ต้องทำหลายรอบ (refactor ทั้งโมดูล เก็บเทสต์ให้ผ่าน) มีงบรายเดือนอยากจุดต่ำ และอยากสั่งเสริมงานจากมือถือระหว่างวัน
 
-**เลี่ยง ถ้า** — งานสั้นตอบจบในรอบเดียว (โหมดปกติก็พอ Goal Mode ใช้ไม่ถึง), ต้องการ benchmark อิสระก่อนตัดสินใจ, หรือจะอ้าง license/ราคา — อย่าลืมว่าสองอย่างนี้ยังต้องเช็คที่ต้นทางวันตัดสินใจ
+**เลี่ยง ถ้า** — งานสั้นจบในรอบเดียว (โหมดปกติพอ Goal Mode ใช้ไม่ถึง) ยังต้องการ benchmark อิสระก่อนตัดสินใจ หรือจะอ้าง license/ราคา — สองอย่างนี้ต้องเช็คที่ต้นทางวันตัดสินใจ
+
+.
 
 ## บทสรุปจากพร
 
-ZCode น่าจับตาไม่ใช่เพราะโมเดลเก่ง แต่เพราะมันเป็นหลักฐานชัดชิ้นแรก ๆ ที่เห็นว่า เจ้าของโมเดลเขียน harness ให้โมเดลตัวเองแบบจริงจัง
+ZCode น่าจับตาไม่ใช่เพราะโมเดลเก่ง แต่เพราะมันเป็นหลักฐานชัดชิ้นแรก ๆ ว่าเจ้าของโมเดลเขียน harness ให้โมเดลตัวเองแบบจริงจัง
 
-Goal Mode ที่บังคับหลักฐานจบงาน คือสิ่งที่ทุก harness ต้องมีไม่ช้า — ไม่ใช่แค่ของ z.ai
+Goal Mode ที่บังคับหลักฐานจบงาน คือสิ่งที่ทุก harness ต้องมีไม่ช้า ไม่ใช่แค่ของ z.ai
 
 จับตาต่อว่าสนามรายอื่นจะตามด้วยระบบ verification แบบไหน
 
 **โมเดลเดี่ยวเคยเป็นสินค้า — วันนี้คู่ (model × harness) ต่างหากที่เป็นสินค้า**
+
+.
 
 #Adduckivity #DuckOS #AI #GLM #ZCode
