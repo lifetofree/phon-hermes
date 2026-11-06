@@ -53,3 +53,4 @@
 - Skills learned: folds 360-372, r2-cycle + r3-shape patterns, §12 (ทุก Benz comment → fold ในรอบเดียว)
 - Archives: benz-r2-gate3-spec / benz-r3-gate-spec / publish — web-archive/
 - ค้าง: draft mindset 2 ตัว (notion-shared-notebook-harnesses 88wc / thinkrail-isolated-lane 79wc re-check sibling guard)
+- Skill split DONE (owner-approved 2026-11-06): content-critique-cycle + content-notion-ops (+canonical scripts, live-tested) + content-research + fold-index.md — all repo-backed, symlinked into hub/adduck; content-pipeline keeps drafting rules + provenance pointers
