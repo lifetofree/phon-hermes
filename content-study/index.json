@@ -4789,5 +4789,17 @@
   "words": 129,
   "form": "news-event CURRENT FORM — Retention spine (Access/Retention/Deletion triad เป็น H1 skeleton), H1×3+H2 closer, เรา 14, '?' 7 (web standard), 129w = 1.67× v2",
   "note": "loop: v1 61 → Benz r1 sim (gate A) → v2 77 → Benz r2 REAL (gate ข้อ 2 Retention; verdict 'สรุป ownership จาก access เร็วเกิน') → owner publish 129w = 1.67×: ตัด quote 1:1-transfer (KEEP-with-caveat superseded = owner's-call NOTE) + ยุบ triad เป็น H1 sections + เปิด-ยอมรับครึ่งที่ถูก + คำถามถอนบัญชีเป็นจุดเปลี่ยน + ownership ถอยเป็นกรอบใน closer; publish archive web-archive/20261106-anthropic-personal-finance-published.md; keys เกรดใน STYLE_CORPUS + archive header"
+ },
+ {
+  "slug": "20261106-cnt-zcode-review-2026",
+  "title": "ZCode (z.ai) รีวิว 2026 — harness ทางการของ GLM-5.3 (pair #103 draft, PRE-CRITIQUE)",
+  "file": "posts/20261106-cnt-zcode-review-2026.md",
+  "link": "https://app.notion.com/p/ZCode-z-ai-2026-harness-GLM-5-3-pair-103-draft-PRE-CRITIQUE-410df8d88d8c81a38c93e77a846340fc",
+  "notion_page_id": "410df8d8-8d8c-81a3-8c93-e77a846340fc",
+  "date": "2026-11-06",
+  "status": "draft (pair #103 v1 TECH — รอ Benz r1)",
+  "words": 415,
+  "form": "TECH v2 line-per-sentence — stat-line opener ($12.6/10,000 credits), ตารางสเปก 8 แถว, Goal Mode 3 ชั้น, จุดบวก/ข้อสังเกต, เทียบ sibling ก.ย., two-fork ending",
+  "note": "loop: owner brief research ZCode → primary (zcode.z.ai + docs/goal + docs/agents + GitHub) → มุม 'harness ที่โตมากับโมเดลตัวเอง' (ต่อ KB AI Harness — vertical integration); sibling guard: ต่างจาก 20260904 combo post (อันนั้นจับคู่ AutoClaw อันนี้รีวิวตัวเดียว + มุม harness); CUT 0 (แก้ พร้อม 2); benchmark/license = labeled as ผู้ผลิตอ้าง/ตรวจเอง; Notion 43 blocks + ตาราง 8 แถว (table API 2-step: shell ผ่าน after → rows ผ่าน /blocks/{table_id}/children)"
  }
 ]
