@@ -4,11 +4,11 @@ GATE ANSWER (owner 2026-11-05): กลุ่มแรก — "คนใช้ pi
 CRITIQUE: web-archive/20261105-thinkrail-tech-self-critique-sim.md (12 จุด, baselines: agent ×14 / terminal ×10 / คุณ ×9 / ยังไม่ ×8 / wc 373)
 v1 snapshot: web-archive/20261105-cnt-thinkrail-review-tech-v1.md
 FIXES IMPLEMENTED (12/12): (1) hook → ถ้า-คำถามของผู้อ่าน ไม่มี experience verb (2) คำตอบ→ข้อเสนอ (3) แถว terminal → "พิมพ์จัด worktree เองทุกครั้ง" + "ต้องระวังเองตลอด" (ข้อจำกัดเครื่องมือ ไม่ใช่วินัยคน) (4) บรรทัดใต้ตาราง: ทุกแถวจากเอกสาร ไม่มีการทดสอบ (5) สัญญาณแบบนับได้ 3 ข้อ (session ค้าง / diff / งานขนาน) — ตัดซ้ำ hook (6) คำถามจริงแก้เป็น "ใช่ไหม + พร้อมแค่ไหน" — closer ไม่ชี้สัญญาณ (ชี้ 0.3.x) (7) Review Gap ตัด — ประโยคคง ไม่มีป้าย (8) Intel macOS ลดจาก stat-line (คงไว้ในส่วนติดตั้ง — จุดที่ผู้อ่านต้องใช้จริง) (9) "สามระบบ สี่บิลด์" (10) killer line → "Terminal แข่งที่พิมพ์ หน้าจอแข่งที่เห็น — คนละสนาม" (11) สัญญาณข้อ 3 เป็นคำถามตรวจ (12) ชั้นหลักฐานยกมาใต้ hook ก่อนคำถามจริง
-OWNER-DIRECTED: + FB variant (hybrid ของ FB form (b) RE-FLOW + (a) ตารางยุบเป็น — bullets, ตัวเลข round ตาม rule 190, ตัด spec detail เหลือชื่อ, CTA ตอบคำเดียว "ใช้ / ยัง")
+OWNER-DIRECTED (รอบสอง 2026-11-05): ไม่แยกเวอร์ชัน Facebook — ตัดส่วน FB variant ออก / ตาราง markdown ในโพสต์หลักเปลี่ยนเป็นคู่ `—` (หัวข้อ → ของเดิม → ของใหม่) ที่ก๊อปลง FB ได้ตรง ๆ / แก้ markdown ซ้อน markdown (ตาราง `|` เคย render เป็นข้อความดิบบน Notion — ไม่มี pipe เหลือแล้ว)
 Register (TECH): คุณ-heavy / คับ ×1 / พร 0 / เพราะ allowed / digits allowed / brands allowed
 CUT (zero-count): พร, ครับ, แผนที่, ถามทาง, สมอง, ร่างกาย, harness, สมุด, โน้ต, บีบอัด, ความจำ, พิสูจน์, Review Gap / เพราะ + '?' + table-pipes + codeblock อนุญาตตาม TECH
 FP DECLARATION (lesson 22): พร survivors = lookalike (เพราะ / พร้อมกัน) — ตรวจ context ทุกตัว ห้าม fix
-Notion: FILED 2026-11-05 — หน้าใหม่ `410df8d8-8d8c-81ec-8a84-c7b4aa2b6cb8` (88 blocks: main 65 + FB variant 23, code block ×1, ตาราง 7 แถวเป็น paragraph, quote bold=True, empty 0, read-back marker HIT ทุกตัว, v1 leftover GONE, H2 #สรุป patch เพิ่ม `#` ตาม TECH spec แล้ว) Status draft — ยังไม่ยิง Content DB จนกว่า owner review
+Notion: FILED 2026-11-05 — หน้าใหม่ `410df8d8-8d8c-81ec-8a84-c7b4aa2b6cb8` — **รอบสอง rebuild ตาม owner: ตัดส่วน FB variant ออก (68 blocks เหลือโพสต์เดียว) + ตาราง markdown เปลี่ยนเป็นคู่ `—` (ก๊อปลง FB ได้ตรง ไม่มี pipe ติดคาเนื้อ — pipe เหลือเฉพาะใน install command ซึ่งเป็นของจริง)** verify ครบ: empty 0 / marker HIT ทุกตัว / code block ถูก type / H2 #สรุป มี `#` / Status draft
 -->
 # ThinkRail — ทางเลือกที่สองของคนใช้ pi ที่ยังต้องรันทุกอย่างใน terminal
 
@@ -76,15 +76,27 @@ agent ทำงานบนสายย่อยนั้น พังก็ท�
 
 # เทียบกันตรง ๆ
 
-| หัวข้อ | pi ใน terminal ล้วน | ผ่าน ThinkRail |
-|---|---|---|
-| หน้าจอ | ตัวอักษรล้วน | Monaco tabs + diff + terminal ในตัว |
-| งานขนาน | พิมพ์จัด worktree เองทุกครั้ง | ทุกงานแยก workspace ให้อัตโนมัติ |
-| การตรวจงาน agent | อ่าน diff ใน CLI | ดู changes แยกชั้นก่อน merge |
-| ความรู้โปรเจกต์ | เล่าใหม่ทุก session | spec graph ที่ agent อ่านเอง |
-| สาขาหลัก | ต้องระวังเองตลอด | ล็อกไว้จนกว่าจะสั่งรวม |
+— หน้าจอ
 
-ทุกแถวด้านขวามาจากเอกสารโปรเจกต์ ยังไม่มีการทดสอบจริง
+ตัวอักษรล้วน → tabs + diff + terminal ในตัว
+
+— งานขนาน
+
+พิมพ์จัด worktree เองทุกครั้ง → แยก workspace ให้อัตโนมัติ
+
+— ตรวจงาน agent
+
+อ่าน diff ใน CLI → ดู changes แยกชั้นก่อน merge
+
+— ความรู้โปรเจกต์
+
+เล่าใหม่ทุก session → spec graph ที่ agent อ่านเอง
+
+— สาขาหลัก
+
+ระวังเองตลอด → ล็อกไว้จนกว่าจะสั่งรวม
+
+ทุกด้านขวามาจากเอกสารโปรเจกต์ ยังไม่มีการทดสอบจริง
 
 Terminal แข่งที่พิมพ์ หน้าจอแข่งที่เห็น — คนละสนาม
 
@@ -137,51 +149,3 @@ Terminal ทำได้ทุกอย่างที่พิมพ์ได�
 .
 
 #Adduckivity #DuckOS #NeuroDivergent #DevTools #AIAgents #ThinkRail #JetBrains
-
----
-
-# เวอร์ชัน Facebook
-
-ThinkRail จากทีม JetBrains เปิดโค้ดฟรี ยังไม่ถึง 1.0
-
-คนใช้ pi ใน terminal — มีหน้าจอมาเพิ่มแล้ว
-
-.
-
-ทุก workspace คือ git worktree แยก งานพัง ทิ้งสายนั้น main ไม่โดนจนกว่าจะสั่งรวม
-
-ความรู้โปรเจกต์อยู่ในชุดเอกสาร SPEC ที่ agent อ่านและปรับเองได้
-
-.
-
-— หน้าจอ
-
-ตัวอักษรล้วน → tabs + diff + terminal ในตัว
-
-— งานขนาน
-
-พิมพ์จัดเองทุกครั้ง → แยก workspace ให้อัตโนมัติ
-
-— ตรวจงาน agent
-
-อ่าน diff ใน CLI → ดู changes แยกชั้นก่อน merge
-
-— สาขาหลัก
-
-ระวังเองตลอด → ล็อกจนสั่งรวม
-
-.
-
-ข้อจำกัด ยัง 0.3.x — model server รองรับแบบ OpenAI เท่านั้น — Intel Mac ยังไม่มีบิลด์
-
-ข้อมูลทั้งหมดมาจากเอกสารโปรเจกต์ ยังไม่มีรีวิวจากการใช้จริง
-
-pi ใน terminal ยังพาไปได้ — ใช้ต่อ ไม่ต้องย้าย
-
-ถ้า session เริ่มเยอะ diff เริ่มยาว — นั่นคือเวลาลอง
-
-คุณใช้ pi อยู่ไหม ตอบมาคำเดียว ใช้ หรือ ยัง
-
-.
-
-#Adduckivity #DuckOS #NeuroDivergent #DevTools #AIAgents
