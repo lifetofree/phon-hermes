@@ -4780,14 +4780,14 @@
  },
  {
   "slug": "20261106-cnt-anthropic-personal-finance",
-  "title": "Claude ต่อธนาคารได้แล้ว — read-only หมายความว่าปลอดภัยจริงไหม (pair #99 v1, PRE-CRITIQUE)",
+  "title": "Claude ต่อธนาคารได้แล้ว — ใครถือข้อมูลเรา (pair #100 v2, gate A rewrite)",
   "file": "posts/20261106-cnt-anthropic-personal-finance.md",
   "link": "https://app.notion.com/p/Claude-read-only-pair-99-v1-PRE-CRITIQUE-410df8d88d8c8158a0c0f988c81c0580",
   "notion_page_id": "410df8d8-8d8c-8158-a0c0-f988c81c0580",
   "date": "2026-11-06",
-  "status": "draft (pair #99 v1 — รอ Benz r1)",
-  "words": 61,
-  "form": "CURRENT FORM — L3 believing-wrong-unnoticed, tech-news post (ชื่อแบรนด์ได้), no-case เราล้วน (เรา 4, '?' 0, quote bold 1, closer bold 1, dots 4)",
-  "note": "loop: owner brief research Anthropic Personal Finance → research primary (claude.com official: Plaid read-only Pro/Max/Ultra US beta + TechCrunch catch-up ต่อ ChatGPT Finances พ.ค. 2026 + 9to5Mac + ZDNET + Reuters ก่อน IPO) → แกน L3: read-only ปิดความเสี่ยงฝั่งเงิน ไม่ปิดฝั่งข้อมูล (balance + 2 ปี transactions = ต้นทุนของคำตอบที่ลื่น) — CUT clean (แก้ ทุกครั้ง 1), Notion read-back 19 blocks ไม่มี empty, bold 2 จุด"
+  "status": "rewritten (pair #100 v2 — Benz r1 sim + gate A + UDO rewrite; รอ owner review/publish)",
+  "words": 77,
+  "form": "CURRENT FORM — L3 re-spine แกน A (ใครถือข้อมูล/ความเป็นเจ้าของข้อมูล), H1+H3 subtitle คู่, เรา 6, '?' 0, quote bold 1, closer bold 1, dots 6",
+  "note": "loop: v1 (61wc L3) → Benz r1 sim (8/8 quotes, 5 จุด, gate A/B/C) → owner เลือก A + สั่ง UDO rewrite → v2 77wc = 1.26× (re-spine แกน ownership: ยอมรับครึ่งที่ read-only ถูกจริงก่อน → ข้อมูลอยู่กับใคร 3 ฝ่าย → คำสัญญา vs อายุข้อมูล>ข่าว → เช็คเดียว ถอนบัญชีแล้วรายการสองปีตามไหม → ใครถือ + เอาคืนไหม); critic-adopted 4/4 (คำตอบลื่น verbatim / ย้ายความเสี่ยง quote / ใครถือข้อมูลเรา spine / subtitle จาก gate answer); DEAD แกน C 0 + v1-retired (เงา/งั้นก็ปลอดภัย/ตัดสินเอง) 0; CUT 0; v1 archived web-archive/20261106-anthropic-personal-finance-v1.md; Notion delete+rebuild 28 blocks + Status rewritten"
  }
 ]
