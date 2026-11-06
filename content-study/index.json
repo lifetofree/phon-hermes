@@ -4801,5 +4801,17 @@
   "words": 415,
   "form": "TECH v2 line-per-sentence — stat-line opener ($12.6/10,000 credits), ตารางสเปก 8 แถว, Goal Mode 3 ชั้น, จุดบวก/ข้อสังเกต, เทียบ sibling ก.ย., two-fork ending",
   "note": "loop: owner brief research ZCode → primary (zcode.z.ai + docs/goal + docs/agents + GitHub) → มุม 'harness ที่โตมากับโมเดลตัวเอง' (ต่อ KB AI Harness — vertical integration); sibling guard: ต่างจาก 20260904 combo post (อันนั้นจับคู่ AutoClaw อันนี้รีวิวตัวเดียว + มุม harness); CUT 0 (แก้ พร้อม 2); benchmark/license = labeled as ผู้ผลิตอ้าง/ตรวจเอง; Notion 43 blocks + ตาราง 8 แถว (table API 2-step: shell ผ่าน after → rows ผ่าน /blocks/{table_id}/children)"
+ },
+ {
+  "slug": "20261106-cnt-small-specialist-models",
+  "title": "โมเดลใหญ่ไม่จำเป็นต้องเก่งที่สุดเสมอไป — แค่เลือกให้ถูกงาน (pair #105 draft, PRE-CRITIQUE)",
+  "file": "posts/20261106-cnt-small-specialist-models.md",
+  "link": "https://app.notion.com/p/pair-105-draft-PRE-CRITIQUE-410df8d88d8c81958459d0f5ae2826cd",
+  "notion_page_id": "410df8d8-8d8c-8195-8459-d0f5ae2826cd",
+  "date": "2026-11-06",
+  "status": "draft (pair #105 v1 — รอ Benz r1)",
+  "words": 76,
+  "form": "CURRENT FORM — L3 believing-wrong-unnoticed, tech-news angle จาก kdnuggets, no-case เราล้วน (เรา 4, '?' 0, quote bold 1, closer bold 1, dots 5)",
+  "note": "loop: owner brief (kdnuggets 7 specialist models + ขยี้ 'model ใหญ่ไม่จำเป็นต้องเก่งสุดเสมอไป เลือกให้ถูกงาน') → research ต้นฉบับ (Parakeet 600M WER 6.32 vs Whisper 7.44 +เร็ว 23× / PaddleOCR-VL 0.9B 96.33 vs Gemini 92.91 GPT-86.59 / GLiNER 50M 52.7 vs ChatGPT 47.5 / Arch-Router 1.5B 93.17% +50ms vs 1450ms / Nemotron-8B ยังเรียก GPT-5 ~40% steps / Kokoro-82M TTS) → แกน L3: จ้างสมองดีสุดในโลก vs จ้างคนทำงานนั้น + งานที่พูดจบในประโยคเดียวมีตัวเล็กรออยู่; CUT 0 (แก้ เพราะ×3, เสมอ = expect-keep H1 จาก brief owner); Notion 26 blocks + quote fixed (artifact ** 1 จุด) verify ครบ"
  }
 ]
