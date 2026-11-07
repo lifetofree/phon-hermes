@@ -9,7 +9,7 @@ Use for any content drafting task for the adduckivity brand: research a topic, d
 
 ## Workflow (order matters)
 
-**Skill split (2026-11-06):** critique-cycle work (intake of a Benz comment, gates, publish-keys, pair closure, fold-learning) lives in the sibling skill `content-critique-cycle` (`~/hermes-agent/skills/content-critique-cycle/SKILL.md`); this file keeps writing/rewriting rules + the critic-side patterns below. Reading THIS file alone is enough for drafting; load the sibling when a critique round starts.
+**Skill split (2026-11-06):** critique-cycle work (intake of a Benz comment, gates, publish-keys, pair closure, fold-learning) lives in the sibling skill `content-critique-cycle` (`~/hermes-agent/skills/content-critique-cycle/SKILL.md`); this file keeps writing/rewriting rules + the critic-side patterns below. Reading THIS file alone is enough for drafting; load the sibling when a critique round starts. **Post files live at their resolved path** `content-study/vault/posts/<slug>.md` — `content-study/posts/` is only a symlink to it; read and write the resolved path (addressing the symlink path trips the stale-write guard on overwrite).
 
 **FORM SELECTOR — read this BEFORE any drafting rule below; it decides the form, the rest of the file is depth/provenance:**
 - **Tech/tool-review brief** (a tool, product, benchmark, how-to) → v2 line-per-sentence TECH form (stat-line opener, comparison table, real benchmark + disclaimer, two-fork ending) — v2 is STILL ground truth for tech posts.

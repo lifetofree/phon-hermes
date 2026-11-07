@@ -22,14 +22,14 @@ Overview: use when a real or simulated Benz-DNA critique arrives on an adduckivi
 
 - **Critique + no publish version** → agent may rewrite (gate by paste, owner answers, spec → rewrite) — EXCEPT owner-authors track: owner announces it.
 - **Critique + "publish version" pasted from the critic** → NO agent rewrite: archive → baselines → publish-keys only. The skill-learning step STILL runs.
-- **Owner answers a gate in one message** ("เลือก a แล้ว rewrite เลย") → agent-rewrite round; grade the eventual publish against the LAST REAL critique's keys, never the agent's own vocabulary.
+- **Owner answers a gate in one message** ("เลือก a แล้ว rewrite เลย") → agent-rewrite round; grade the eventual publish against the LAST REAL critique's keys, never the agent's own vocabulary. Grade each key BY DEFINITION (what it permits/forbids in the publish), never by a proxy count — mention counts drift when the critic splits or merges sentences, and a key failed on a miscounted proxy is a wrong entry in a permanent ledger; recheck every apparent FAIL against the key's own wording before recording it.
 - **Owner sovereignty over gates:** when the owner's gate answer contradicts the critic's recommendation, the spec follows the OWNER's answer verbatim (pair #103 r3: owner picked ข้อแรก, Benz แนะข้อสอง → Benz served the owner's answer and supplied closer lines).
 
 ## Intake (always in this order)
 
 1. **Archive the critique verbatim** before touching the draft: `content-study/web-archive/<date>-<slug>-benz-r<N>-gate-spec.md` with a header: which version the critic read, the gate question(s), owner answer, post-gate spec summary. Paste paths (`~/.hermes/pastes/paste_*_*.txt`) are ephemeral — the archive is the durable copy.
 2. **Quote-verify** every quoted fragment against the current draft — critic quoting stale text ≠ stale critique: if the quotes are load-bearing and still true, the critique stands (rule 43). If the critic read version N, note it; never silently implement against version N-1.
-3. **Snapshot the current draft** (`…-v<N>.md` in web-archive) before any rewrite. FP declarations are never "fixed" (lesson 22) — verify the FP list first.
+3. **Snapshot the current draft** (`…-v<N>.md` in web-archive) before any rewrite. Post files resolve through a symlink: the real file lives at `content-study/vault/posts/<slug>.md` (`content-study/posts/` only points at it) — read and write the resolved path; addressing the symlink path trips the stale-write guard on overwrite. FP declarations are never "fixed" (lesson 22) — verify the FP list first.
 
 ## Implementing a critique
 
@@ -49,8 +49,10 @@ Overview: use when a real or simulated Benz-DNA critique arrives on an adduckivi
 
 - Baselines: wc-w, pronoun counts, H1/H2/H3, beat dots, blockquotes, quote counts.
 - Publish-keys: keep-list verbatim, dead vocab of un-chosen axes = 0, CUT = 0, layer/evidence-label claims audited by structure (count carriers, not words).
-- Rebuild the Notion page (patch or delete+insert; ≤100 blocks/request — split batches), read-back verify (blocks, empty 0, raw `**` 0, CUT 0, keep-lines PASS), retitle if the publish retitles.
+- Critic-authored publishes may carry CUT-list words inside their own guard sentences — grade those as critic-override (the same override right an owner has), not as violations.
+- Rebuild the Notion page (patch or delete+insert; ≤100 blocks/request — split batches), read-back verify (blocks, empty 0, raw `**` 0, CUT 0, keep-lines PASS — extend the forbidden list with the un-chosen-axis names when grading), retitle if the publish retitles, then flip Status → `published` with a properties PATCH and confirm from the properties read-back (a body verify does not touch Status).
 - Update: index.json entry (title/status/form/words/note with the full loop), `references/pair-history.md` entry, STYLE_CORPUS.md publish entry, STATE.md.
+- Regenerate the vault (`python3 skills/content-pipeline/scripts/generate_vault.py` — merge-safe, prunes stale pair files) before the closing commit.
 - Commit + push (all file work lives in `~/hermes-agent/`).
 
 ## Learning step (standing owner rule §12, 2026-11-06)
@@ -58,5 +60,5 @@ Overview: use when a real or simulated Benz-DNA critique arrives on an adduckivi
 EVERY real Benz-DNA comment → reverse-engineer ความคิด/วิธีคิด/การวางแผน/การวางแกน of the critic into the skill system IN THE SAME ROUND as implementing it — no separate request needed. Owner announces extra context per message and names which skill each piece belongs to.
 
 - **Content-pattern lessons** (rules about the POST) → folds in the repo copy `/home/lifetofree/hermes-agent/skills/content-pipeline/SKILL.md` (Evolution Notes / File maintenance — the pair ledger itself lives in its `references/pair-history.md`), numbered continuing from the highest existing number. Provenance = pair #.
-- **Critic-side patterns** (how the critique itself works — compliment→forcing-question→spec→preserve→verdict; calibration round shape) → Benz-DNA section pointer here + the pattern paragraph in content-pipeline.
+- **Critic-side patterns** (how the critique itself works — compliment→forcing-question→spec→preserve→verdict; calibration round shape; evidence-audit arc pair #105 r1sim→r5: process gate → retract-on-evidence → show-the-artifact → per-item source audit → criteria-ownership line → spine-convergence gate) → Benz-DNA section pointer here + the pattern paragraph in content-pipeline.
 - Fold naming convention: `**(N) name — rule (pair #X round):** evidence → fix → gate`. Extends/supersedes links to earlier folds explicitly.
