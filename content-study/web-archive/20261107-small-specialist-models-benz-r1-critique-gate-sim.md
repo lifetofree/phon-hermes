@@ -5,6 +5,7 @@ QUOTE-VERIFY: 22/22 HIT (normalized ในโค้ด)
 BASELINES (acceptance markers — เกรด publish เทียบตัวเลขนี้): ชนะ ×11 / ตัวใหญ่ ×12 / เรา ×5 / จ้าง ×2 / เอ่า ×1 (คำเดียวในคลัง — ไม่มีที่ไหนใช้) / ตรวจ ×2 / ต้นทาง ×2 / แม่น ×2 / สองเท่า ×2 / wc-w 195 / H1 1 / H2 1 (สรุป) / H3 1 (subtitle) / quote 1 / bold 6 คู่ / beat-dot 9 / จุดคู่ติดกัน 1 คู่ (บรรทัด . สองบรรทัด) / '?' 0
 CUT zero-count: ผ่าน (พร/คุณ/คับ/ผม/เพราะ/พร้อม/วินัย/feedback/ระบบ/เครื่องมือ/ทุกครั้ง/ความมั่นใจ/?/GPU/RAM/harness/ZCode/sandbox/เสมอ = 0 ทั้งลิสต์)
 DRAFT UNTOUCHED — รอบจำลอง ไม่มี publish version → ห้าม rewrite ตาม two-round contract (fold 359) — รอ owner gate answer
+OWNER GATE ANSWER (2026-11-07): **ข้อ 1** (เจอตัวเลข/เงื่อนไขเพิ่มที่บทยังไม่ได้ใส่ — เติมความสมมาตรจาก research ที่มีอยู่แล้ว) + directive "ปรับ title ด้วยนะ" → agent-rewrite round: post-gate spec = title ใหม่นับ 5/7 ตามตัวเลข / เงื่อนไขครบ 7/7 ในบล็อกเดียว / คู่ latency ย้ายไปบล็อกเงื่อนไขแสดงทั้ง 510-1,450ms / Nemotron เลขจริง 37.1-35.1 (2.0-2.5 จุดทุกชุด) + GPT-5 ไม่ใช่ frontier / เอ่า ตัด / ความเดิม subtitle-กลาง เก็บฝั่งเดียว (ปิดท้าย) / ปิดด้วยขอบเขตของคำว่าชนะ / เส้นแบ่ง "มีคนเขียนงานจบไว้" แทนครึ่งความจริง / quote + งานสามอย่าง + Nemotron 3 ประโยค = keep verbatim
 -->
 # วิจารณ์ 7 โมเดลเล็ก (v2) — เบ้น DNA
 
