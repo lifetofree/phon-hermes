@@ -1,19 +1,19 @@
 ---
 pair: 106
-hash: 9aaf029b80-bde5bb
+hash: da1fca6e53-fe1547
 date: 20261104
 ---
 
-# ตู้เย็นเก็บเลือดที่ถูกสั่งให้ร้อน และคนที่ตื่นอยู่ข้างมัน (blood-bank publish)
+# ของที่ถูกแก้ก่อน มักเป็นข้อมูล ไม่ใช่ความเชื่อ (dissonance publish)
 
-- **status:** published (blood-bank pair CLOSED 2026-11-04 — self-critique sim → v1 sent as-is → Benz r1 real (จุด A ตรง sim จุดที่ 1) + gate A + post-gate spec (spine + 3 ชั้น) → BENZ-AUTHORED rewrite 52wc = 1.02×; keys K1-K10 PASS; archives: blood-bank-{self-critique-sim,benz-r1-critique-gate-A,public-publish}.md — spine ประโยคแกน = H3 subtitle ตาม 342)
+- **status:** published (dissonance pair CLOSED 2026-11-04 — self-critique → v2 → Benz r2 (real, evidence-class ทั้ง 5 จุด) + gate B → owner public version 69wc = 1.10× expansion; keys 7/7 (K1 function-pass + owner-override); archives 20261104-dissonance-{benz-r2-critique-gate-B,public-publish}.md)
 - **date:** 20261104
-- **words:** 52
-- **form:** CURRENT FORM news-event single v2 (Benz-authored) — spine-as-subtitle ("ระบบที่ทำงานอัตโนมัติได้ ไม่ได้แปลว่ามันจะรู้ตัวเองเสมอ...") + 3 ชั้น Automation/Monitoring/Response — เรา 0 (news register 340) / คุณ 0 / เลข 0 / quote ใหม่ observation+action (341)
-- **Notion:** https://app.notion.com/p/40edf8d88d8c81448411dfc002398fc2
+- **words:** 69
+- **form:** CURRENT FORM idea-brief v3 (owner-authored) — แกน B mechanism-route (hedge-web อาจ ×8), งานศึกษา two-layer (สังเกต vs เสนอคำอธิบาย), self-observation movement เต็ม, closer = คำถามเกณฑ์ของ critic ("เปิดโอกาสให้ความเชื่อเดิมถูกตรวจสอบบ้างหรือยัง") — Cognitive Dissonance กลับมาในเนื้อ (FP), เรา 7 / คุณ 0
+- **Notion:** https://app.notion.com/p/40edf8d88d8c81d79cfefcf265b4b4f5
 - **ไฟล์โพสต์:**
-  - [20261104-cnt-blood-bank-keeper-awake](../posts/20261104-cnt-blood-bank-keeper-awake.md)
+  - [20261104-cnt-dissonance-edit-data-not-belief](../posts/20261104-cnt-dissonance-edit-data-not-belief.md)
 
 ## บันทึก
 
-loop: owner เห็นข่าวคลังเลือด → verify 6+ sources (AP/cybersecuritynews/indiatoday/undercodenews/ladepeche/20minutes/generation-nt — โจมตี Coolworld supplier ของ EFS 1-2 พ.ย., −30→110°C, ช่าง on-call จับทัน, Ministry contained) → research/blood-bank-hack-research.md (4 candidate lenses, เลือก keeper-awake = ต่างจาก #99 มากที่สุด; parked: supplier angle, 110-ความสามารถ angle, attribution) → draft 48wc battery-pass → file Notion — battery: FAIL-on-first-run จาก พร×7/เพราะ×7 ทั้งหมดอยู่ในคำ "เพราะ" (lookalike family — lesson 5 declared FP ใน header) → rerun clean PASS; Notion 15 blocks EXACT → self-critique (จำลอง 4 จุด: ปฏิเสธเชิงบวกเกินรายงาน / quote สองขั้ว / frequency-claim จากเคสเดียว + "ครบ" หนักเกิน / คำถามปิดไร้ทางออกของคำตอบ; gate A/B/C) → owner: ส่ง v1 เดิมให้ Benz จริงก่อน (จำลอง archived 20261104-blood-bank-self-critique-sim.md — เทียบ gap lesson 52 รอบ 3 เมื่อ comment จริงกลับมา) → POST-GATE SPEC (Benz): ประโยคแกนผูกพัน "ระบบที่ทำงานเองได้ ไม่ได้แปลว่า..." + แยก 3 ชั้น Automation/Monitoring/Response + กัน anti-automation lean — keys อัปเดตเป็น K1-K10 (PASTE 2 ใน archive) → Benz r1 real: จุดใหญ่สุดตรงกับ sim (claim-exclusion) + Benz unique: stack-view, สองหน้าที่, title-type — lesson 52 r3 = 3/4 overlap (ครั้งแรก) → post-gate spec → Benz rewrite: spine = subtitle, 3 ชั้นแยก, ปฏิเสธเชิงบวก anchored กลับข่าว, quote สองขั้ว → observation+action (341), เรา 0 (340) → Notion rebuild 20 blocks + Status published — skill folds 338-342 + lesson 54 (critic-authored rewrite grading)
+loop: brief resonance → research (APA primary + Hart meta + prophecy study) → owner redirect ด่า dissonance → draft 46wc battery-pass → filed Notion — sibling guard resonance-parked (คำครบ 0) → self-critique (จำลอง Benz 5 จุด) → owner: "rewrite ตาม B เก็บ C เป็นวัตถุดิบ next content" → v2: title hedge มัก + คู่ movement + ทางที่ห้า + ลิงก์นุ่ม + มุกเดียว + closer สัญญาณเช็คตัวเอง (FP: เสมอในรูปปฏิเสธความสากล) → Notion rebuild + Name PATCH, Status draft รอ Benz r1 ตัวจริง; กิ่ง C → vault/branches/branch-conversion-as-replenishment.md → Benz r2 (real) + gate B → พรเลือก B ("อยู่ดีไซน์แล้ว" = evidence-earning order) → public version วันเดียวกัน: hedge-web ทั้งบท, งานศึกษา two-layer ("เสนอคำอธิบายว่า...อาจ"), ส่วนสังเกตตัวเองขยายเต็ม, closer เกณฑ์ตรวจ → Notion rebuild 34 blocks EXACT + Status published — skill folds: items 329-333 + 318 note + 313 third occurrence + session lessons 52-53

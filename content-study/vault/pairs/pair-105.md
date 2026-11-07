@@ -1,19 +1,19 @@
 ---
 pair: 105
-hash: 61079f9ed6-f3ae00
-date: 20261104
+hash: 74448767f1-7c18e3
+date: 20261106
 ---
 
-# บางครั้งการชวนคนอื่นมาเชื่อ คือวิธีทำให้เราเชื่อได้ต่อ (share-to-keep publish)
+# 5 ใน 7 โมเดลเล็กชนะงานของตัวใหญ่ด้วยตัวเลข — อีก 2 ตัวชนะแบบที่เงื่อนไขอยู่ในตัวเลขเอง (pair #105 published)
 
-- **status:** published (share-to-keep pair CLOSED 2026-11-04 — self-critique → v2 → Benz r1 real (จุด A = ประโยคที่ v2 เพิ่มเอง) + gate B + post-gate spec → owner public version 66wc = 1.03×; keys 7/7; archives 20261104-share-to-keep-{benz-r1-critique-gate-B,public-publish}.md — TRUE paste file)
-- **date:** 20261104
-- **words:** 66
-- **form:** CURRENT FORM idea-brief v3 (owner-authored) — แกน B (กลไกยืนยันซ้ำจากคนรอบตัว; การชวน = ส่วนหนึ่งของกลไก) — correlational language, two-layer research, mechanism-link expansion, คำถามสังเกตเปิด + scope-limit sentence, quote ใหม่ evidence-vs-confirmation, เรา 8 / คุณ 0 / '?' 2 / ความมั่นใจ ×4 (owner override — 362)
-- **Notion:** https://app.notion.com/p/40edf8d88d8c81f6ab17fc5b8edefc9b
+- **status:** published (pair #105 CLOSED 2026-11-07 — BENZ-AUTHORED publish 260wc = 1.08× v4 — keys 13 PASS + NOTE 3 author-voice / FAIL 0; loop r1sim→r5 REAL ยาวสุดของ lane นี้)
+- **date:** 20261106
+- **words:** 260
+- **form:** CURRENT FORM TECH-flavored idea post v5 publish (Benz-authored): เปิด 5/2 + criteria-ownership (เกณฑ์ 4 ข้อ KDnuggets vs การประเมินของทีมงาน) → 4 ตัวชูตัวเลข+ที่มาแยก → เงื่อนไข 7/7 → เส้น ประกาศได้≠เหนือกว่า → Nemotron orchestration case → quote จ้างคน → WORK DESIGN closer (เป้าหมาย/ผลลัพธ์/เกณฑ์ตรวจ/ผู้ตัดสิน)
+- **Notion:** https://app.notion.com/p/5-7-2-410df8d88d8c81958459d0f5ae2826cd
 - **ไฟล์โพสต์:**
-  - [20261104-cnt-share-to-keep-believing](../posts/20261104-cnt-share-to-keep-believing.md)
+  - [20261106-cnt-small-specialist-models](../posts/20261106-cnt-small-specialist-models.md)
 
 ## บันทึก
 
-loop: owner เรียกกิ่ง C หลัง dissonance publish → graduate วัตถุดิบ alone-vs-together (APA primary, บทแม่ใช้แค่ชั้นสังเกต) → draft 62wc battery-pass → file Notion — FP: ธรรมดา (คับ-lookalike); วัตถุดิบคงเหลือในกิ่ง: Hart meta + easy-to-refute → self-critique รอบสอง (4 จุด: ยิ่ง-ยิ่ง=frequency form / หลักฐานหัวใจไร้กลไก / quote-เกณฑ์ไม่เชื่อมกัน / "ทางออกที่ง่ายที่สุด" มีการตัดสินแฝง + งานศึกษา-งานวิจัยสลับ) → gate A → v2: มี block เทียบสองเงื่อนไข + กลไกคำยืนยันซ้ำ, bridge quote-เกณฑ์, "แรงลากที่เบากว่า" (critic line verbatim), งานศึกษาคำเดียวทั้งบท → Notion rebuild verify EXACT → Benz r1 + gate B → public version (TRUE paste): "มีแค่คนข้างเคียง"→"สัมพันธ์กับ" (334), motive-quote แทนด้วย evidence-quote (335), เชื่อมกลไกไม่เหมารวมแรงจูงใจ (336), คำถามเปิด+scope-limit (337) → Notion rebuild 27 blocks EXACT + Status published — skill folds 334-337 + lesson 52 round-2
+loop: owner order re-spine ทั้งหมด (title+เนื้อ) จากข้อมูล research → v2 ใช้ชื่อโมเดลจริง+ตัวเลขจริง+เงื่อนไขคำว่าชนะ (fold 361/362 สาย TECH: integrity — ตัวเทียบล้าสมัย/size-class/leaderboard snapshot/ชนะที่จัดงานไม่ใช่แทนที่) ที่ v1 ซ่อนหลังคำคลุมเครือ; v1 snapshot web-archive/…-v1.md; battery CUT 17 = 0 (เพิ่ม เสมอ เพราะ title ใหม่ไม่มีคำ universal); odd เท่านั้น %,~,จุลภาคตัวเลข; Notion rebuild 36 blocks via content-notion-ops/rebuild_page.py (ครั้งแรกที่ใช้ script มาตรฐานจาก skill ใหม่ — VERIFY PASS ครบ)

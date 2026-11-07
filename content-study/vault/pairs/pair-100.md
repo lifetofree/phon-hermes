@@ -1,19 +1,20 @@
 ---
 pair: 100
-hash: 6c055fcd0b-0a58ff
+hash: eb5b2a433d-34c468
 date: 20261105
 ---
 
-# เมื่อผลลัพธ์ไม่ตรงกับที่เชื่อ — เราเปลี่ยนใจ หรือเปลี่ยนคำอธิบาย? (election-dissonance publish)
+# Claude ต่อธนาคารได้แล้ว — แต่ถอนบัญชีแล้ว ข้อมูลจะหายไปด้วยไหม? (pair #100 published)
 
-- **status:** published (pair #100 CLOSED 2026-11-05 — owner-authored publish ผ่าน critic DNA ตรวจก่อนส่ง, agent analyze-only: archive + fact-check 6 แหล่ง (Reuters/NPR/AP/BBC/CBS/Guardian — Dems ทั้งสองสภา ตรงของจริง) + measure 100wc; Notion page มี body ครบจาก owner เอง, Status 🟧 Visualizing คงไว้ตาม production workflow; register ใหม่ = explainer-with-event, skill folds 343-347)
+- **status:** published (pair #100 CLOSED — owner publish จาก Benz r2 gate 2 Retention)
 - **date:** 20261105
-- **words:** 100
-- **form:** CURRENT FORM explainer register (347): ข่าวจริงเปิดบท (midterms 2026 วันเดียวกับ publish) → ทฤษฎีเอ่ยชื่อ 1 ครั้ง (Cognitive Dissonance) → ขยาย 4 โดเมน → ย่อหน้ามาตรฐานสองเท่า (346) → closer คำถามจับตัวเอง — เรา 12 / คุณ 0 / พร 0 / '?' 4 / เพราะ 1 (345 mid-body) / เลขอารบิกเฉพาะ event (344) / blockquote 0
-- **Notion:** https://app.notion.com/p/40fdf8d88d8c805eafb0cafd5ffd0a41
+- **words:** 129
+- **form:** news-event CURRENT FORM — Retention spine (Access/Retention/Deletion triad เป็น H1 skeleton), H1×3+H2 closer, เรา 14, '?' 7 (web standard), 129w = 1.67× v2
+- **Notion:** https://app.notion.com/p/Claude-read-only-pair-99-v1-PRE-CRITIQUE-410df8d88d8c8158a0c0f988c81c0580
 - **ไฟล์โพสต์:**
   - 20261105-cnt-election-dissonance-double-standard (ไม่พบไฟล์)
+  - [20261106-cnt-anthropic-personal-finance](../posts/20261106-cnt-anthropic-personal-finance.md)
 
 ## บันทึก
 
-loop ใหม่ (publish-first): owner ส่ง publish version ที่ผ่านการตรวจ DNA แล้ว → reverse engineering + เสนอ skill patch ก่อนแตะ (owner: 'บอกพรก่อนที่จะปรับ') → อนุมัติ → fold 343-347 + selector line; sibling คู่ = dissonance roast 11-04 (thesis วงเดียว สองเสียง — 343); ContentID 20261105-CNT-COGNITIVE-DISSONANCE-DOUBLE-STANDARD-REALITY, Slug COGNITIVE-DISSONANCE-DOUBLE-STANDARD-REALITY (owner ตั้งใน Notion); WP live 2026-11-05 17:30 (sync d16f7da) — เนื้อตรง paste ทุกประโยค, WP ใส่ tags เพิ่มท้าย: #CognitiveDissonance #MentalModels #SystemThinking
+loop: v1 61 → Benz r1 sim (gate A) → v2 77 → Benz r2 REAL (gate ข้อ 2 Retention; verdict 'สรุป ownership จาก access เร็วเกิน') → owner publish 129w = 1.67×: ตัด quote 1:1-transfer (KEEP-with-caveat superseded = owner's-call NOTE) + ยุบ triad เป็น H1 sections + เปิด-ยอมรับครึ่งที่ถูก + คำถามถอนบัญชีเป็นจุดเปลี่ยน + ownership ถอยเป็นกรอบใน closer; publish archive web-archive/20261106-anthropic-personal-finance-published.md; keys เกรดใน STYLE_CORPUS + archive header
