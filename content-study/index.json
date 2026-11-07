@@ -4804,14 +4804,14 @@
  },
  {
   "slug": "20261106-cnt-small-specialist-models",
-  "title": "5 ใน 7 โมเดลเล็กชนะงานของตัวใหญ่ด้วยตัวเลข — อีก 2 ตัวชนะแบบที่เงื่อนไขอยู่ในตัวเลขเอง (pair #105 v3 draft, POST-CRITIQUE)",
+  "title": "5 ใน 7 โมเดลเล็กชนะงานของตัวใหญ่ด้วยตัวเลข — อีก 2 ตัวชนะแบบที่เงื่อนไขอยู่ในตัวเลขเอง (pair #105 v4 draft, POST-BENZ-r4)",
   "file": "posts/20261106-cnt-small-specialist-models.md",
   "link": "https://app.notion.com/p/pair-105-draft-PRE-CRITIQUE-410df8d88d8c81958459d0f5ae2826cd",
   "notion_page_id": "410df8d8-8d8c-8195-8459-d0f5ae2826cd",
   "date": "2026-11-06",
-  "status": "draft (pair #105 v3 — Benz r1 SIM (number-symmetry) + gate ข้อ 1 + 'ปรับ title ด้วยนะ' → agent-rewrite: เงื่อนไข 7/7 / latency ช่วงจริง 510–1,450ms / Nemotron margin 2.0–2.5 จุด + ตัวเทียบเก่า / เอ่า ตัด / เส้นแบ่ง 'มีคนเขียนงานจบไว้' — รอ Benz r2)",
-  "words": 230,
-  "form": "CURRENT FORM TECH-flavored idea post v3: ข่าว → 4 ตัวชูตัวเลข (latency แสดงช่วง ไม่จับคู่ตัวช้าสุด) → เงื่อนไขครบ 7/7 ในบล็อกเดียว (เพิ่ม Arch-Router routing+license, Nemotron margin แคบ+ตัวเทียบเก่า) → Nemotron 3 ประโยคเลขจริง 37.1/35.1 → quote → เกณฑ์ 'งานที่มีคนเขียนจบไว้' → สรุปปิดขอบเขตคำว่าชนะ",
+  "status": "draft (pair #105 v4 — Benz r2→r4 REAL: r2 gate เกณฑ์ก่อนอ่านผล (ผ่าน) / r3 ตรวจลิงก์ 7/7 สอดคล้อง / r4 calibration ยอมรับ 5/2 — agent-rewrite ตามทางที่ Benz ไม่แนะ rewrite ทั้งบท: ประโยคแยกเจ้าของเกณฑ์ 2 ชั้น + งานวิจัยหลายชุด + ASR Leaderboard + แยกที่มา Arch-Router + Nemotron 3 มิติ + ประกาศได้≠เหนือกว่า — รอ Benz r5 (ค้าง 3.3 ผู้อ่านตรวจกลับ / 3.4 ขั้นกลาง work-design))",
+  "words": 241,
+  "form": "CURRENT FORM TECH-flavored idea post v4: ข่าว(หลายชุด) → ประโยคแยกเจ้าของเกณฑ์ (ต้นฉบับคัด 4 ข้อ / 5–2 เป็นการประเมินของทีมงาน) → 4 ตัวชูตัวเลข+ที่มา (ASR / paper-vs-บุคคลที่สาม) → เงื่อนไข 7/7 + เส้น ประกาศได้≠เหนือกว่า → Nemotron 3 มิติ (แม่น+ทรัพยากร+ต้นทุน) → quote → เกณฑ์งานเขียนจบ → สรุปขอบเขต",
   "note": "loop: owner order re-spine ทั้งหมด (title+เนื้อ) จากข้อมูล research → v2 ใช้ชื่อโมเดลจริง+ตัวเลขจริง+เงื่อนไขคำว่าชนะ (fold 361/362 สาย TECH: integrity — ตัวเทียบล้าสมัย/size-class/leaderboard snapshot/ชนะที่จัดงานไม่ใช่แทนที่) ที่ v1 ซ่อนหลังคำคลุมเครือ; v1 snapshot web-archive/…-v1.md; battery CUT 17 = 0 (เพิ่ม เสมอ เพราะ title ใหม่ไม่มีคำ universal); odd เท่านั้น %,~,จุลภาคตัวเลข; Notion rebuild 36 blocks via content-notion-ops/rebuild_page.py (ครั้งแรกที่ใช้ script มาตรฐานจาก skill ใหม่ — VERIFY PASS ครบ)"
  }
 ]
