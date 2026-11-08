@@ -4816,14 +4816,14 @@
  },
  {
   "slug": "20261107-cnt-gpt6-cyber",
-  "title": "GPT-6 Cyber — โมเดลที่หาช่องโหว่ได้ 948 ตัวเอง และคำถามที่เปลี่ยนไปสำหรับคนถืองาน (pair #106 v2 draft, PRE-CRITIQUE)",
+  "title": "GPT-6 Cyber — โมเดลที่หาช่องโหว่ได้เป็นชุด และคำถามที่เปลี่ยนสำหรับคนถืองาน (pair #106 v3 draft, POST-CRITIQUE)",
   "file": "posts/20261107-cnt-gpt6-cyber.md",
   "link": "https://app.notion.com/p/GPT-6-Cyber-AI-948-patch-411df8d88d8c81aeb800c98f81b6feea",
   "notion_page_id": "411df8d8-8d8c-81ae-b800-c98f81b6feea",
   "date": "2026-11-07",
-  "status": "draft (pair #106 v2 — owner brief 'ตรวจ draft ล่าสุดแล้ว rewrite เป็นฉบับ adduckivity พร้อมให้ benz dna วิจารณ์' — v1 จาก model อื่น archived; rewrite ครบ: register พร×8/คับ×3/ฉัน×2/คุณ ล้วน = 0 (FP พร้อมกัน declared) / H1 ซ้อน 8 → H2 ไทย + H1 เดียว / callout HTML → ป้าย vendor-reported เป็น H2 / quote ×2 → ×1 / hook ซ้ำ → quote เดียว / CTA+ฉันเคยทำ ตัด / spine assume-found — รอ Benz r1)",
-  "words": 474,
-  "form": "TECH v2 line-per-sentence: stat-line 948/81/Brotli (vendor-reported ป้ายทันที) → prose เปลี่ยนสมการ → quote assume-found → GPT-6 Cyber คืออะไร (Daybreak Red/Preparedness) → patch-vs-pipeline → อยู่ในกรอบ 94.49→99.93 → ป้ายผู้ผลิต=ผู้รายงาน → misalignment 3 เหตุการณ์ → ใครเฝ้าผู้เฝ้า → ตารางเทียบ 5 → 4 สัญญาณ → two-fork → ควรลองหรือยัง → สรุป bold defs",
+  "status": "draft (pair #106 v3 — Benz r1 REAL 12/12 quote HIT + gate 2 ทาง (Benz แนะข้อ 2 Resilience — owner สั่ง rewrite ไม่ขัด) → agent-rewrite ตาม keys 11 ข้อ: spine verbatim Benz / discovery≠exploitation / pipeline ระดับหลักฐาน / เหตุการณ์ 3 ปัญหา+family guard / มาตรการสองกลุ่ม / status-word ผลการค้นพบ-vs-CVE / ประกาศไม่ระบุ / ธีมเดียวบ้านเดียว / ตารางตัด — รอ Benz r2)",
+  "words": 428,
+  "form": "TECH v2 line-per-sentence v3 (resilience track): stat-line 948/81/CVE แยกสถานะ → เชนหลักฐานถึงระดับที่ยืนยัน → quote spine (Benz verbatim) → GPT-6 Cyber คืออะไร → capability≠safety → ประกาศข้อจำกัดที่เดียว → เหตุการณ์ 3 ปัญหา → จังหวะค้นเป็นชุด/แก้เป็นรอบ → มาตรการสองกลุ่ม → two-fork → ควรลองหรือยัง (คำถามสองชุด) → สรุป 3 bold defs",
   "note": "GPT-6 Cyber (OpenAI, 5 พ.ย. 2026): cyber model 948 Linux LPE + 81 Firefox + Brotli CVE, ExploitGym 48.5%, alignment 99.93%, 3 misalignment incidents, Daybreak Red, assume-found vs patch-then-safe"
  }
 ]
