@@ -50,7 +50,11 @@
 
 - download.pytorch.org throttle → ใช้ PyPI ปกติ; pypi.nvidia.com ช้ามาก; ห้ามรัน download script ซ้ำซ้อน 2 ตัว (เขียนทับ .part เดียวกัน → corrupt); HF ช้าให้ลอง hf-mirror.com
 
-## 2026-11-06 — pair #103 ZCode hands-on CLOSED
+## 2026-11-07 — pair ใหม่ (รอเลข) Amazon Alexa text-to-shop
+
+- **Pair ใหม่ (ต่อจาก #106, รอ owner ยืนยันเลข):** owner brief "of content from this idea: Amazon enables text-to-shop via Alexa [Tech]" (thetechlantis weekly 2026-45) → research verify 2 แหล่ง (`research/amazon-alexa-text-shopping-research.md`): aboutamazon.com primary (ประกาศ 6 พ.ย. 2026 — subset US รับเชิญ / ข้อความหา "Alexa Shopping" → ค้น-เทียบ-ตะกร้า-ปิดการซื้อ-อัปเดตจัดส่ง / จำ preferences / price history 1 ปี + auto-buy ราคาเป้า) + ppc.land catches (Alexa for Shopping = merge Rufus+Alexa+ พ.ค. 2026 / SMS reply มีที่สำหรับไม่กี่ชิ้น+โฆษณาไม่เปิดเผยกติกา / waitlist = ยินยอมรับ marketing texts / ประกาศขัดตัวเองเรื่องขนาด 3 คำ) → **v1 `posts/20261107-cnt-amazon-text-shopping.md` (115wc news-event CURRENT FORM):** lens FRICTION=CHECKPOINT "งานที่รู้ตัว (อาหารหมาหมด) ข้อความเดียวจบ / การซื้อที่เคยพักไว้ก่อนพักไม่ได้ — ขั้นที่ใช้คิดถูกทำแทน" + catch จำ/เตือนราคาเป้า (Parked: attention compression ฝั่งผู้ขาย / privacy = sibling #100) — battery CLEAN (CUT 0; FP พร ×2 = "พร้อมกัน") guards 0 — Notion page `412df8d8-8d8c-8162-8e91-ef00058c2e71` Status draft + index.json (560) — **รอ Benz r1**
+
+
 - REAL-Benz r1→r2→r3 + owner publish (292wc) — Notion 78 blocks published, title retitled
 - Skills learned: folds 360-372, r2-cycle + r3-shape patterns, §12 (ทุก Benz comment → fold ในรอบเดียว)
 - Archives: benz-r2-gate3-spec / benz-r3-gate-spec / publish — web-archive/

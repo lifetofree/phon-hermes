@@ -4825,5 +4825,16 @@
   "words": 457,
   "form": "TECH v2 line-per-sentence v4 publish (discovery-speed track): stat-line 3 สถานะ → สมมติฐานเปลี่ยน → quote spine (r2 verbatim) → GPT-6 Cyber → capability≠safety → ข้อจำกัดประกาศ → ค้นเป็นชุด → ฝั่งป้องกัน 3 คำถาม → เหตุการณ์ 3 ย่อ → คนถืองาน (สองกลุ่มมาตรการ) → ควรลองหรือยัง (checklist 5) → สรุป 4 bold defs",
   "note": "GPT-6 Cyber (OpenAI, 5 พ.ย. 2026): cyber model 948 Linux LPE + 81 Firefox + Brotli CVE, ExploitGym 48.5%, alignment 99.93%, 3 misalignment incidents, Daybreak Red, assume-found vs patch-then-safe"
+ },
+ {
+  "slug": "20261107-cnt-amazon-text-shopping",
+  "title": "สั่งของด้วยข้อความ — งานที่รู้ตัวจบเร็วขึ้น และการซื้อที่เคยพักไว้ก็พักไม่ได้แล้ว (v1 draft, PRE-CRITIQUE)",
+  "file": "posts/20261107-cnt-amazon-text-shopping.md",
+  "link": "https://app.notion.com/p/412df8d88d8c81628e91ef00058c2e71",
+  "notion_page_id": "412df8d8-8d8c-8162-8e91-ef00058c2e71",
+  "date": "2026-11-07",
+  "status": "draft (pair ใหม่ รอเลข — brief from thetechlantis weekly 2026-45 'Amazon enables text-to-shop via Alexa' — research verify aboutamazon primary + ppc.land catches — v1 115wc news-event CURRENT FORM: FRICTION=CHECKPOINT lens 'งานที่รู้ตัวจบเร็ว / การซื้อที่ยังไม่รู้ตัวพักไม่ได้' — รอ Benz r1)",
+  "words": 115,
+  "form": "news-event CURRENT FORM: ข่าว (ประกาศ Amazon เอง + ประกาศขัดตัวเองเรื่องขนาด) → งานซ้ำที่รู้ตัว → จุดพักของการซื้อ → จำ+เตือนราคา → quote checkpoint → สรุป checkpoint"
  }
 ]
