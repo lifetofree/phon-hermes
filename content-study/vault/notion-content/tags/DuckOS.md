@@ -6,7 +6,7 @@ name: "DuckOS"
 
 # DuckOS
 
-189 content (178 published, 11 ยังไม่ published)
+201 content (191 published, 10 ยังไม่ published)
 
 ## ✅ Published
 
@@ -183,11 +183,24 @@ name: "DuckOS"
 - [[hobby-diagnostic-sandbox-for-difficulty|งานอดิเรก — พื้นที่ที่เราเห็นตัวเองตอนเจอความยาก]] — 2026-10-30
 - [[open-weights-bargaining-power-ai|Open Weights — เมื่อองค์กรมีทางเลือกมากขึ้น อำนา]] — 2026-10-31
 - [[unasked-questions-workflow-silence-signal|คนรอบข้างเลิกถามงานเรา — สิ่งที่หายไปกำลังบอกอะไ]] — 2026-10-31
+- [[one-year-360-posts-system-over-inspiration|หนึ่งปี 360 โพสต์ — ตัวเลขที่บอกว่าเดินมาได้เพรา]] — 2026-11-01
 - [[ai-harness-over-model-lesson-residue|AI ทำงานผิด — อย่าแก้แค่คำตอบ แต่เก็บบทเรียนไว้ใ]] — 2026-11-01
 - [[system-dependency-fallback-limits|ระบบที่ล็อกไว้แล้ว ก็ยังมีวันพัง — เพราะเราไม่ได]] — 2026-11-02
 - [[big-tech-battle-ground-level-tools|ปล่อยให้พวกใหญ่สู้กันเอง — สิ่งที่ร่วงลงมาถึงพื้]] — 2026-11-02
 - [[prevention-vs-firefighting-visibility-bias|เก่งแก้ปัญหา กับ ไม่ให้ปัญหาเกิด — เป็นสองงานที่]] — 2026-11-03
 - [[blind-spots-counting-fallacy-margin-of-safety|คนที่ Blind Spot น้อยชนะ — แต่เราอาจนับของตัวเอง]] — 2026-11-03
+- [[ai-agent-model-vs-harness-body-brain|ถ้า AI เป็นคน โมเดลคือสมอง แล้ว harness คือทุกส่]] — 2026-11-04
+- [[system-authorization-vs-execution-freezer-case|ตู้แช่ไม่ได้พัง มันทำตามคำสั่งได้สำเร็จ]] — 2026-11-04
+- [[cognitive-dissonance-double-standard-reality|เมื่อผลลัพธ์ไม่ตรงกับที่เชื่อ — เราเปลี่ยนใจ หรื]] — 2026-11-05
+- [[cognitive-dissonance-data-vs-belief|ของที่ถูกแก้ก่อน มักเป็นข้อมูล ไม่ใช่ความเชื่อ]] — 2026-11-05
+- [[zero-click-exploit-targeted-attack-defense|เครื่องที่โดนเลือก ไม่ใช่เครื่องที่พลาด]] — 2026-11-05
+- [[zcode-125-days-execution-vs-judgment|ZCode ผ่านมือ 125 วัน — คนตัดสินยังเป็นคนเดิม แต]] — 2026-11-06
+- [[bank-ai-integration-access-retention-deletion|Claude ต่อธนาคารได้แล้ว — แต่ถอนบัญชีแล้ว ข้อมูล]] — 2026-11-06
+- [[automation-blindspot-blood-fridge-watchdog|ตู้เย็นเก็บเลือดที่ถูกสั่งให้ร้อน และคนที่ตื่นอย]] — 2026-11-06
+- [[social-proof-proselytizing-dissonance|บางครั้งการชวนคนอื่นมาเชื่อ คือวิธีทำให้เราเชื่อ]] — 2026-11-06
+- [[thinkrail-agent-concurrency-git-worktree|ThinkRail — จัดการงาน Agent หลายชิ้นพร้อมกัน โดย]] — 2026-11-07
+- [[map-is-not-territory-real-process|ถามทางสักครั้ง แล้วเจอว่างานที่ลำบากอยู่ทุกวัน ค]] — 2026-11-07
+- [[small-models-vs-giant-task-architecture|5 ใน 7 โมเดลเล็กชนะงานของตัวใหญ่ด้วยตัวเลข — อีก]] — 2026-11-08
 
 ## · ยังไม่ published
 
@@ -195,7 +208,6 @@ name: "DuckOS"
 - [[context-switching-hidden-cost|ต้นทุนที่มองไม่เห็นของการ 'โดนทัก': ทำไมคำว่า "ข]] — 2026-05-14
 - [[brain-runtime-error-404-cache-cleaner|ทำไมตอนบ่ายถึงชอบขึ้น Error 404 (หาไม่เจอ) และวิ]] — 2026-05-25
 - [[4-background-apps-memory-leak-brain-ram|แฉ 4 Background Apps เบื้องหลังที่ทำ Memory Leak]] — 2026-06-03
-- [[one-year-360-posts-system-over-inspiration|หนึ่งปี 360 โพสต์ — ตัวเลขที่บอกว่าเดินมาได้เพรา]] — 2026-11-01
 - [[myth-of-motivation-automate-the-trivial|อยากพังให้พึ่ง "แรงฮึด" อยากรอดให้สร้าง "ระบบ" (]] — no date
 - [[decision-fatigue-brain-battery-drain|"Decision Fatigue" ภัยเงียบที่สูบแบตเตอรี่สมองคุ]] — no date
 - [[inner-citadel-protect-system|"ป้อมปราการภายใน" วิธีปกป้องแบตเตอรี่สมองจากดราม]] — no date

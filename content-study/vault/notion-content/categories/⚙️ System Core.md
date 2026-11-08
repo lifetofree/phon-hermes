@@ -6,7 +6,7 @@ name: "⚙️ System Core"
 
 # ⚙️ System Core
 
-99 content (95 published, 4 ยังไม่ published)
+101 content (97 published, 4 ยังไม่ published)
 
 ## ✅ Published
 
@@ -105,6 +105,8 @@ name: "⚙️ System Core"
 - [[ai-harness-over-model-lesson-residue|AI ทำงานผิด — อย่าแก้แค่คำตอบ แต่เก็บบทเรียนไว้ใ]] — 2026-11-01
 - [[system-dependency-fallback-limits|ระบบที่ล็อกไว้แล้ว ก็ยังมีวันพัง — เพราะเราไม่ได]] — 2026-11-02
 - [[big-tech-battle-ground-level-tools|ปล่อยให้พวกใหญ่สู้กันเอง — สิ่งที่ร่วงลงมาถึงพื้]] — 2026-11-02
+- [[cognitive-dissonance-double-standard-reality|เมื่อผลลัพธ์ไม่ตรงกับที่เชื่อ — เราเปลี่ยนใจ หรื]] — 2026-11-05
+- [[map-is-not-territory-real-process|ถามทางสักครั้ง แล้วเจอว่างานที่ลำบากอยู่ทุกวัน ค]] — 2026-11-07
 
 ## · ยังไม่ published
 

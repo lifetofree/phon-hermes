@@ -6,7 +6,7 @@ name: "Mindset"
 
 # Mindset
 
-15 content (15 published, 0 ยังไม่ published)
+18 content (18 published, 0 ยังไม่ published)
 
 ## ✅ Published
 
@@ -25,3 +25,6 @@ name: "Mindset"
 - [[unfair-game-protocol|โลกไม่แฟร์ แล้วเราจะชนะได้อย่างไร — The Unfair G]] — 2026-09-09
 - [[expectation-vs-overperformance-baseline-creep|มีคู่ที่พูดถึงน้อยกว่า — คาดหวัง กับ เกินความคาด]] — 2026-10-28
 - [[work-love-vs-roi-question-shift|เอาสิ่งที่รักมาทำเป็นงาน — ของที่เปลี่ยนอาจไม่ใช]] — 2026-10-29
+- [[cognitive-dissonance-double-standard-reality|เมื่อผลลัพธ์ไม่ตรงกับที่เชื่อ — เราเปลี่ยนใจ หรื]] — 2026-11-05
+- [[cognitive-dissonance-data-vs-belief|ของที่ถูกแก้ก่อน มักเป็นข้อมูล ไม่ใช่ความเชื่อ]] — 2026-11-05
+- [[social-proof-proselytizing-dissonance|บางครั้งการชวนคนอื่นมาเชื่อ คือวิธีทำให้เราเชื่อ]] — 2026-11-06

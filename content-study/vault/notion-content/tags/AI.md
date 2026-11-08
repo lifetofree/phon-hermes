@@ -6,7 +6,7 @@ name: "AI"
 
 # AI
 
-12 content (12 published, 0 ยังไม่ published)
+17 content (17 published, 0 ยังไม่ published)
 
 ## ✅ Published
 
@@ -22,3 +22,8 @@ name: "AI"
 - [[open-weights-bargaining-power-ai|Open Weights — เมื่อองค์กรมีทางเลือกมากขึ้น อำนา]] — 2026-10-31
 - [[ai-harness-over-model-lesson-residue|AI ทำงานผิด — อย่าแก้แค่คำตอบ แต่เก็บบทเรียนไว้ใ]] — 2026-11-01
 - [[big-tech-battle-ground-level-tools|ปล่อยให้พวกใหญ่สู้กันเอง — สิ่งที่ร่วงลงมาถึงพื้]] — 2026-11-02
+- [[ai-agent-model-vs-harness-body-brain|ถ้า AI เป็นคน โมเดลคือสมอง แล้ว harness คือทุกส่]] — 2026-11-04
+- [[system-authorization-vs-execution-freezer-case|ตู้แช่ไม่ได้พัง มันทำตามคำสั่งได้สำเร็จ]] — 2026-11-04
+- [[zcode-125-days-execution-vs-judgment|ZCode ผ่านมือ 125 วัน — คนตัดสินยังเป็นคนเดิม แต]] — 2026-11-06
+- [[bank-ai-integration-access-retention-deletion|Claude ต่อธนาคารได้แล้ว — แต่ถอนบัญชีแล้ว ข้อมูล]] — 2026-11-06
+- [[small-models-vs-giant-task-architecture|5 ใน 7 โมเดลเล็กชนะงานของตัวใหญ่ด้วยตัวเลข — อีก]] — 2026-11-08

@@ -6,7 +6,7 @@ name: "🛡️ Law 3: Protect System"
 
 # 🛡️ Law 3: Protect System
 
-146 content (139 published, 7 ยังไม่ published)
+155 content (149 published, 6 ยังไม่ published)
 
 ## ✅ Published
 
@@ -145,10 +145,20 @@ name: "🛡️ Law 3: Protect System"
 - [[skill-stacking-enough-composition-leverage|เก่งพอตัว — ไม่ต้องเก่งที่สุด ถ้าทักษะหลายอย่างป]] — 2026-10-30
 - [[hobby-diagnostic-sandbox-for-difficulty|งานอดิเรก — พื้นที่ที่เราเห็นตัวเองตอนเจอความยาก]] — 2026-10-30
 - [[unasked-questions-workflow-silence-signal|คนรอบข้างเลิกถามงานเรา — สิ่งที่หายไปกำลังบอกอะไ]] — 2026-10-31
+- [[one-year-360-posts-system-over-inspiration|หนึ่งปี 360 โพสต์ — ตัวเลขที่บอกว่าเดินมาได้เพรา]] — 2026-11-01
 - [[ai-harness-over-model-lesson-residue|AI ทำงานผิด — อย่าแก้แค่คำตอบ แต่เก็บบทเรียนไว้ใ]] — 2026-11-01
 - [[big-tech-battle-ground-level-tools|ปล่อยให้พวกใหญ่สู้กันเอง — สิ่งที่ร่วงลงมาถึงพื้]] — 2026-11-02
 - [[prevention-vs-firefighting-visibility-bias|เก่งแก้ปัญหา กับ ไม่ให้ปัญหาเกิด — เป็นสองงานที่]] — 2026-11-03
 - [[blind-spots-counting-fallacy-margin-of-safety|คนที่ Blind Spot น้อยชนะ — แต่เราอาจนับของตัวเอง]] — 2026-11-03
+- [[system-authorization-vs-execution-freezer-case|ตู้แช่ไม่ได้พัง มันทำตามคำสั่งได้สำเร็จ]] — 2026-11-04
+- [[cognitive-dissonance-double-standard-reality|เมื่อผลลัพธ์ไม่ตรงกับที่เชื่อ — เราเปลี่ยนใจ หรื]] — 2026-11-05
+- [[cognitive-dissonance-data-vs-belief|ของที่ถูกแก้ก่อน มักเป็นข้อมูล ไม่ใช่ความเชื่อ]] — 2026-11-05
+- [[zero-click-exploit-targeted-attack-defense|เครื่องที่โดนเลือก ไม่ใช่เครื่องที่พลาด]] — 2026-11-05
+- [[automation-blindspot-blood-fridge-watchdog|ตู้เย็นเก็บเลือดที่ถูกสั่งให้ร้อน และคนที่ตื่นอย]] — 2026-11-06
+- [[social-proof-proselytizing-dissonance|บางครั้งการชวนคนอื่นมาเชื่อ คือวิธีทำให้เราเชื่อ]] — 2026-11-06
+- [[thinkrail-agent-concurrency-git-worktree|ThinkRail — จัดการงาน Agent หลายชิ้นพร้อมกัน โดย]] — 2026-11-07
+- [[map-is-not-territory-real-process|ถามทางสักครั้ง แล้วเจอว่างานที่ลำบากอยู่ทุกวัน ค]] — 2026-11-07
+- [[small-models-vs-giant-task-architecture|5 ใน 7 โมเดลเล็กชนะงานของตัวใหญ่ด้วยตัวเลข — อีก]] — 2026-11-08
 
 ## · ยังไม่ published
 
@@ -156,6 +166,5 @@ name: "🛡️ Law 3: Protect System"
 - [[context-switching-hidden-cost|ต้นทุนที่มองไม่เห็นของการ 'โดนทัก': ทำไมคำว่า "ข]] — 2026-05-14
 - [[4-background-apps-memory-leak-brain-ram|แฉ 4 Background Apps เบื้องหลังที่ทำ Memory Leak]] — 2026-06-03
 - [[github-dependabot-fix-dependencies-deploy-crash|🛠️ GitHub Dependabot ตัวช่วยดูแล Dependencies เว]] — 2026-06-18
-- [[one-year-360-posts-system-over-inspiration|หนึ่งปี 360 โพสต์ — ตัวเลขที่บอกว่าเดินมาได้เพรา]] — 2026-11-01
 - [[inner-citadel-protect-system|"ป้อมปราการภายใน" วิธีปกป้องแบตเตอรี่สมองจากดราม]] — no date
 - [[golden-window-dopamine-protection|ตื่นมาไถมือถือ = ทำลายแบตเตอรี่สมอง ทำไมคุณถึงเส]] — no date

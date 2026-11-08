@@ -3,7 +3,7 @@
 **Excerpt:** คนที่มี Blind Spot น้อยที่สุดอาจเป็นผู้ชนะ แต่เราไม่สามารถนับของตัวเองได้ การมองไม่เห็นจุดบอดไม่ใช่หลักฐานว่าเรามีมันน้อย อย่าพยายามเค้นส่องหาจนหมด แต่จงสร้าง Margin of Safety ไว้คอยคุมหลังระบบ
 **Laws:** [[⚙️ Law 1: System > Emotion]] · [[🛡️ Law 3: Protect System]] · [[🛠️ Decision Protocol]]
 **Site Category:** [[⚖️ Decision Protocols]]
-**Tags:** [[Adduckivity]] · [[DuckOS]] · [[NeuroDivergent]] · #BlindSpot · [[DecisionMaking]] · #MentalModels · [[SystemThinking]]
+**Tags:** [[Adduckivity]] · [[DuckOS]] · [[NeuroDivergent]] · #BlindSpot · [[DecisionMaking]] · [[MentalModels]] · [[SystemThinking]]
 
 ---
 
@@ -38,4 +38,4 @@
 #Adduckivity #DuckOS #NeuroDivergent #BlindSpot #DecisionMaking #MentalModels #SystemThinking
 ===========
 
-*Synced: 2026-11-02 19:53 +07 · [Notion](https://www.notion.so/40cdf8d88d8c80b78470c6ee8a2ad31d) · ✅ Published*
+*Synced: 2026-11-08 10:30 +07 · [Notion](https://www.notion.so/40cdf8d88d8c80b78470c6ee8a2ad31d) · ✅ Published*

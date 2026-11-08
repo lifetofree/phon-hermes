@@ -1,5 +1,5 @@
 ---
-hash: bc807357d1
+hash: f472ffeff4
 count: 253
 source: Notion Books Library 2ffdf8d8-8d8c-8096-934a-c05c3b5d93a0
 synced: see git log
@@ -12,7 +12,7 @@ synced: see git log
 > กติกา: ไฟล์นี้ = แคตตาล็อกเท่านั้น (generated — ห้ามแก้มือ)
 > เล่มที่เริ่มอ่านจริง/สกัด quote → เปิดโฟลเดอร์รายเล่ม `books/<slug>/` (book.md + quotes.md + notes.md) ตาม README — quote ที่โพสต์อ้างได้ต้องอยู่ใน quotes.md ก่อนเสมอ
 
-## ⏳ LOADING... (37)
+## ⏳ LOADING... (38)
 
 ### 🟢 G.1 (3)
 
@@ -58,7 +58,7 @@ synced: see git log
   - Chapter #4 - Use Your Hands
   - Chapter #10 - Creativity is Subtraction
 
-### 🟡 G.2 (14)
+### 🟡 G.2 (15)
 
 - **Brain Hacks: Life-Changing Strategies to Improve Executive Functioning** — Dr. Lara Honos-Webb · #Neuroscience, #SystemHacks, #ProductivityHacks, #ExecutiveFunction · [Notion](https://www.notion.so/3e6df8d88d8c80438d89fae40862b8d9)
   - Chapter #1- What is executive functioning? - loc 73
@@ -88,6 +88,8 @@ synced: see git log
   - Chapter #2- Building Wealth: Leverage
 - **The Book of Five Rings (Modern)** — Miyamoto Musashi · #Strategy #Philosophy · [Notion](https://www.notion.so/2ffdf8d88d8c80e79ce9dd5443610659)
 - **The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living** — Ryan Holiday · #Stoicism, #DailyRoutine, #Mindset, #Philosophy, #SystemCore · [Notion](https://www.notion.so/311df8d88d8c80f8a62efbca375baf65)
+- **Tiny Experiments** — Anne-Laure Le Cunff · #Growth #Experimentation · [Notion](https://www.notion.so/2ffdf8d88d8c80728a2dca4bd9d8092d)
+  - Chapter #0- Introduction: The Experimental Mindset
 
 ### 🟠 G.3 (15)
 
@@ -156,7 +158,7 @@ synced: see git log
 
 - **Think Faster, Talk Smarter ***** — Matt Abrahams · [Notion](https://www.notion.so/333df8d88d8c802bafe7c768436978bb)
 
-## ⬜ QUEUED (216)
+## ⬜ QUEUED (215)
 
 ### 🟢 G.1 (7)
 
@@ -169,7 +171,7 @@ synced: see git log
 - **Weird Philosophy** — Brandon Robshaw · #Philosophy #CriticalThinking · [Notion](https://www.notion.so/2ffdf8d88d8c807f945fc77701bd1fb3)
 - **Your Money** — Carl Richards · #VisualThinking #Finance · [Notion](https://www.notion.so/2ffdf8d88d8c80518b83c9ded664bf2d)
 
-### 🟡 G.2 (59)
+### 🟡 G.2 (58)
 
 - **$100M Leads** — Alex Hormozi · #Business #Marketing · [Notion](https://www.notion.so/2ffdf8d88d8c80caa1ddc059b13b097e)
 - **$100M Lost Chapters** — Alex Hormozi · #Business #Sales · [Notion](https://www.notion.so/2ffdf8d88d8c8042b469f902c2ec8e06)
@@ -226,7 +228,6 @@ synced: see git log
 - **This is Lean** — Niklas Modig · #Efficiency #Management · [Notion](https://www.notion.so/2ffdf8d88d8c80d6aa81ecc015eb40ad)
 - **This Is Marketing** — Seth Godin · #Marketing #Philosophy · [Notion](https://www.notion.so/2ffdf8d88d8c8072b29ac09afac0d31b)
 - **This Is Strategy** — Seth Godin · #Strategy #Business · [Notion](https://www.notion.so/2ffdf8d88d8c803d8eaccf1def6272f3)
-- **Tiny Experiments** — Anne-Laure Le Cunff · #Growth #Experimentation · [Notion](https://www.notion.so/2ffdf8d88d8c80728a2dca4bd9d8092d)
 - **To-Do List Formula** — Damon Zahariades · #Planning #Productivity · [Notion](https://www.notion.so/2ffdf8d88d8c809ea935e35011e9c79b)
 - **Tools Of Titans** — Timothy Ferriss · #Interview #Success · [Notion](https://www.notion.so/2ffdf8d88d8c80f6998cd6f1be2c44a4)
 - **When to Rob a Bank** — Steven D. Levitt · #Economics #Thinking · [Notion](https://www.notion.so/2ffdf8d88d8c8088a7bacf05baace01c)

@@ -6,7 +6,7 @@ name: "🛠️ Decision Protocol"
 
 # 🛠️ Decision Protocol
 
-37 content (37 published, 0 ยังไม่ published)
+46 content (46 published, 0 ยังไม่ published)
 
 ## ✅ Published
 
@@ -47,3 +47,12 @@ name: "🛠️ Decision Protocol"
 - [[big-tech-battle-ground-level-tools|ปล่อยให้พวกใหญ่สู้กันเอง — สิ่งที่ร่วงลงมาถึงพื้]] — 2026-11-02
 - [[prevention-vs-firefighting-visibility-bias|เก่งแก้ปัญหา กับ ไม่ให้ปัญหาเกิด — เป็นสองงานที่]] — 2026-11-03
 - [[blind-spots-counting-fallacy-margin-of-safety|คนที่ Blind Spot น้อยชนะ — แต่เราอาจนับของตัวเอง]] — 2026-11-03
+- [[system-authorization-vs-execution-freezer-case|ตู้แช่ไม่ได้พัง มันทำตามคำสั่งได้สำเร็จ]] — 2026-11-04
+- [[cognitive-dissonance-double-standard-reality|เมื่อผลลัพธ์ไม่ตรงกับที่เชื่อ — เราเปลี่ยนใจ หรื]] — 2026-11-05
+- [[cognitive-dissonance-data-vs-belief|ของที่ถูกแก้ก่อน มักเป็นข้อมูล ไม่ใช่ความเชื่อ]] — 2026-11-05
+- [[zero-click-exploit-targeted-attack-defense|เครื่องที่โดนเลือก ไม่ใช่เครื่องที่พลาด]] — 2026-11-05
+- [[automation-blindspot-blood-fridge-watchdog|ตู้เย็นเก็บเลือดที่ถูกสั่งให้ร้อน และคนที่ตื่นอย]] — 2026-11-06
+- [[social-proof-proselytizing-dissonance|บางครั้งการชวนคนอื่นมาเชื่อ คือวิธีทำให้เราเชื่อ]] — 2026-11-06
+- [[thinkrail-agent-concurrency-git-worktree|ThinkRail — จัดการงาน Agent หลายชิ้นพร้อมกัน โดย]] — 2026-11-07
+- [[map-is-not-territory-real-process|ถามทางสักครั้ง แล้วเจอว่างานที่ลำบากอยู่ทุกวัน ค]] — 2026-11-07
+- [[small-models-vs-giant-task-architecture|5 ใน 7 โมเดลเล็กชนะงานของตัวใหญ่ด้วยตัวเลข — อีก]] — 2026-11-08

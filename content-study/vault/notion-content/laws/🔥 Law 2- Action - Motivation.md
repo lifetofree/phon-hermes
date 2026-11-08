@@ -6,7 +6,7 @@ name: "🔥 Law 2: Action > Motivation"
 
 # 🔥 Law 2: Action > Motivation
 
-33 content (30 published, 3 ยังไม่ published)
+33 content (31 published, 2 ยังไม่ published)
 
 ## ✅ Published
 
@@ -40,9 +40,9 @@ name: "🔥 Law 2: Action > Motivation"
 - [[hardware-constraints-over-ideal-run|32GB ไม่พออยู่หลายคืน — แต่เครื่องนี้กลับรันมาหล]] — 2026-10-08
 - [[closed-task-persistent-attention-full|ปิดงานไปแล้วหนึ่งชิ้น — แต่ทำไมพรยังรู้สึกเต็มเห]] — 2026-10-14
 - [[read-what-you-love-action-precedes-motivation|อ่านสิ่งที่รัก จนกว่าจะรักการอ่าน]] — 2026-10-24
+- [[one-year-360-posts-system-over-inspiration|หนึ่งปี 360 โพสต์ — ตัวเลขที่บอกว่าเดินมาได้เพรา]] — 2026-11-01
 
 ## · ยังไม่ published
 
-- [[one-year-360-posts-system-over-inspiration|หนึ่งปี 360 โพสต์ — ตัวเลขที่บอกว่าเดินมาได้เพรา]] — 2026-11-01
 - [[myth-of-motivation-automate-the-trivial|อยากพังให้พึ่ง "แรงฮึด" อยากรอดให้สร้าง "ระบบ" (]] — no date
 - [[decision-fatigue-brain-battery-drain|"Decision Fatigue" ภัยเงียบที่สูบแบตเตอรี่สมองคุ]] — no date

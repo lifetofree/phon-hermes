@@ -6,7 +6,7 @@ name: "🩺 System Awareness"
 
 # 🩺 System Awareness
 
-27 content (23 published, 4 ยังไม่ published)
+32 content (28 published, 4 ยังไม่ published)
 
 ## ✅ Published
 
@@ -33,6 +33,11 @@ name: "🩺 System Awareness"
 - [[unintended-rewards-asset-residue|ทำงานแล้วได้รางวัล — แต่รางวัลอาจไม่ใช่ของที่เรา]] — 2026-10-28
 - [[speaking-anxiety-self-monitoring-overload|พูดไม่เก่ง — ปัญหาไม่ได้อยู่ที่การพูด]] — 2026-10-29
 - [[prevention-vs-firefighting-visibility-bias|เก่งแก้ปัญหา กับ ไม่ให้ปัญหาเกิด — เป็นสองงานที่]] — 2026-11-03
+- [[system-authorization-vs-execution-freezer-case|ตู้แช่ไม่ได้พัง มันทำตามคำสั่งได้สำเร็จ]] — 2026-11-04
+- [[cognitive-dissonance-data-vs-belief|ของที่ถูกแก้ก่อน มักเป็นข้อมูล ไม่ใช่ความเชื่อ]] — 2026-11-05
+- [[zero-click-exploit-targeted-attack-defense|เครื่องที่โดนเลือก ไม่ใช่เครื่องที่พลาด]] — 2026-11-05
+- [[bank-ai-integration-access-retention-deletion|Claude ต่อธนาคารได้แล้ว — แต่ถอนบัญชีแล้ว ข้อมูล]] — 2026-11-06
+- [[social-proof-proselytizing-dissonance|บางครั้งการชวนคนอื่นมาเชื่อ คือวิธีทำให้เราเชื่อ]] — 2026-11-06
 
 ## · ยังไม่ published
 
