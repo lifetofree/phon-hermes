@@ -4,23 +4,23 @@ type: moc
 
 # Content Study — สารบัญกลาง
 
-- คู่ทั้งหมด: **109** | published: **40** | ยังเปิด: **69**
+- คู่ทั้งหมด: **110** | published: **41** | ยังเปิด: **69**
 - กติกา: [[README]]
 
 ## คู่ล่าสุด
 
+- [[pair-106]] — 20261107 · published (pair #106 CLOSED 2026-11-07 — owner pub
 - [[pair-103]] — 20261106 · published-ready (pair #103 CLOSED 2026-11-06 — own
 - [[pair-105]] — 20261106 · published (pair #105 CLOSED 2026-11-07 — BENZ-AUTH
 - [[pair-100]] — 20261105 · published (pair #100 CLOSED — owner publish จาก Be
 - [[pair-101]] — 20261105 · published (pair #101 CLOSED 2026-11-05 — v1 (กระดา
 - [[pair-102]] — 20261105 · published (pair #102 CLOSED 2026-11-05 — TECH lane
 - [[pair-104]] — 20261104 · published (pegasus pair CLOSED 2026-11-04 — Benz r
-- [[pair-106]] — 20261104 · published (dissonance pair CLOSED 2026-11-04 — sel
-- [[pair-107]] — 20261104 · published (share-to-keep pair CLOSED 2026-11-04 — 
-- [[pair-108]] — 20261104 · published (blood-bank pair CLOSED 2026-11-04 — sel
+- [[pair-107]] — 20261104 · published (dissonance pair CLOSED 2026-11-04 — sel
+- [[pair-108]] — 20261104 · published (share-to-keep pair CLOSED 2026-11-04 — 
+- [[pair-109]] — 20261104 · published (blood-bank pair CLOSED 2026-11-04 — sel
 - [[pair-098]] — 20261103 · published (pair #98 CLOSED 2026-11-04 — Benz r1 mu
 - [[pair-099]] — 20261103 · published (pair #99 CLOSED — Benz r1 5 จุด + gate 
-- [[pair-079]] — 20261102 · published (pair #79 CLOSED 2026-11-02 — publish PA
 
 ## คู่ที่ยังเปิด
 
@@ -187,7 +187,7 @@ type: moc
 
 ## Notion publish master (synced — ห้ามแก้มือ, รัน sync_adduckivity_content.py)
 
-- MOC: [[notion-content/index]] — 248 content
+- MOC: [[notion-content/index]] — 260 content
 - Laws (5): [[⚙️ Law 1- System - Emotion]] · [[🏛️ Philosophy - Stoicism]] · [[🔥 Law 2- Action - Motivation]] · [[🛠️ Decision Protocol]] · [[🛡️ Law 3- Protect System]]
 - Categories (8): [[⚖️ Decision Protocols]] · [[⚙️ System Core]] · [[🎬 System in Action]] · [[📚 Asset Library]] · [[📝 Duck OS Logs]] · [[🛠️ Productivity Hacks]] · [[🛡️ Survival Guide]] · [[🩺 System Awareness]]
 - Tags รวมอยู่ใน tags/ ร่วมกับฝั่ง loops (hub เฉพาะ tag ใช้ ≥3 ครั้ง)
