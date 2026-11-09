@@ -4,12 +4,14 @@ type: moc
 
 # Content Study — สารบัญกลาง
 
-- คู่ทั้งหมด: **110** | published: **41** | ยังเปิด: **69**
+- คู่ทั้งหมด: **112** | published: **42** | ยังเปิด: **70**
 - กติกา: [[README]]
 
 ## คู่ล่าสุด
 
-- [[pair-106]] — 20261107 · published (pair #106 CLOSED 2026-11-07 — owner pub
+- [[pair-108]] — 20261109 · published (pair #108 CLOSED 2026-11-09 — v1 176 → 
+- [[pair-106]] — 20261107 · published (pair #106 CLOSED + correction 2026-11-0
+- [[pair-111]] — 20261107 · draft (pair ใหม่ รอเลข — brief from thetechlantis 
 - [[pair-103]] — 20261106 · published-ready (pair #103 CLOSED 2026-11-06 — own
 - [[pair-105]] — 20261106 · published (pair #105 CLOSED 2026-11-07 — BENZ-AUTH
 - [[pair-100]] — 20261105 · published (pair #100 CLOSED — owner publish จาก Be
@@ -17,13 +19,12 @@ type: moc
 - [[pair-102]] — 20261105 · published (pair #102 CLOSED 2026-11-05 — TECH lane
 - [[pair-104]] — 20261104 · published (pegasus pair CLOSED 2026-11-04 — Benz r
 - [[pair-107]] — 20261104 · published (dissonance pair CLOSED 2026-11-04 — sel
-- [[pair-108]] — 20261104 · published (share-to-keep pair CLOSED 2026-11-04 — 
-- [[pair-109]] — 20261104 · published (blood-bank pair CLOSED 2026-11-04 — sel
-- [[pair-098]] — 20261103 · published (pair #98 CLOSED 2026-11-04 — Benz r1 mu
-- [[pair-099]] — 20261103 · published (pair #99 CLOSED — Benz r1 5 จุด + gate 
+- [[pair-109]] — 20261104 · published (share-to-keep pair CLOSED 2026-11-04 — 
+- [[pair-110]] — 20261104 · published (blood-bank pair CLOSED 2026-11-04 — sel
 
 ## คู่ที่ยังเปิด
 
+- [[pair-111]] — 20261107 · draft (pair ใหม่ รอเลข — brief from thetechlantis 
 - [[pair-082]] — 20261102 · rewritten (pair #82 r1 PRE-REWRITE — Benz r1 + gat
 - [[pair-058]] — 20261021 · 
 - [[pair-057]] — 20261020 · draft
@@ -150,6 +151,7 @@ type: moc
 
 ## Research
 
+- [[amazon-alexa-text-shopping-research]]
 - [[autoclaw-research]]
 - [[blood-bank-hack-research]]
 - [[cognitive-resonance-research]]
@@ -161,6 +163,7 @@ type: moc
 - [[llamacpp-research]]
 - [[lmstudio-research]]
 - [[memento-mori-research]]
+- [[meta-muse-agent-research]]
 - [[muse-research]]
 - [[notion-mcp-central-brain-research]]
 - [[ollama-research]]
