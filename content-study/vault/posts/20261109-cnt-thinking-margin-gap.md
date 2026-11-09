@@ -6,10 +6,11 @@ V2 STYLE KEYS: (1) dash " — " เหลือ pivot จริง ≤4 (quote/c
 SIBLING GUARDS: 4TW pair-017 · binary-decision · energy-budget · #108 muse · #107 — body ต้อง 0 ทุกสาย
 CUT LIST (zero-count): พร, คุณ, ผม, ฉัน, คับ, ระบบ, เสมอ, ?(เนื้อ), GPU/RAM, harness, ZCode, sandbox, วินัย, feedback, ความมั่นใจ, เครื่องมือ, ทุกครั้ง, นาฬิกา, จุดอนุมัติ, AI, Inbox, ลังเล, Decision, Latency; FP declared: เพราะ (กลางเนื้อ carve-out 345)
 REGISTER: เรา / คุณ 0 / พร 0 / ฉัน 0 / เลขอารบิก 0 / '?' 0
+TITLE NOTE: owner-call retitle 2026-11-09 ("มันดูห้วนเกิน") → คง couplet จาก brief เป็น hook + เพิ่ม clause กลไก (title = owner-call precedent #105/#106)
 Notion: PATCH หน้าเดิม `413df8d8-8d8c-818c-8043-c4cfe46df026` (delete+rebuild) Status draft รอ Benz r2 | v1 snapshot: web-archive/20261109-cnt-thinking-margin-gap-v1.md | style-sim archive: 20261109-thinking-margin-gap-benz-r1-style-sim.md
 -->
 
-# คิดไม่เป็น — หรือไม่ได้คิด
+# คิดไม่เป็น — หรือไม่ได้คิด เมื่อความยุ่งกินช่องว่างที่การคิดอาศัยอยู่
 
 ### ระหว่างเหตุการณ์ที่กระแทกเข้ามากับคำตอบที่ออกไป มีช่องว่างหนึ่งช่อง — การคิดเกิดตรงนั้น
 
