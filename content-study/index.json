@@ -4848,5 +4848,16 @@
   "words": 218,
   "form": "news-event CURRENT FORM consequence-condition track (r2 ข้อ 2): ข่าว (ประกาศ+กลไกจุดอนุมัติ / Reuters+Amazon ที่มาของ 'จุดที่ไม่ได้ออกแบบให้หยุด') → งานเลื่อนได้เงียบ → quote (จุดอนุมัติที่ดี ≠ ปุ่ม) → จุดอนุมัติอ่านให้เป็น (context asymmetry + bullets 3 ผลของการกด) → แล้วถ้า AI หยุดเองล่ะ? (safe-stop + two-mechanisms) → คนถืองาน (checklist 4) → สรุป 3 buckets (มอบ/จุดอนุมัติ/จุดส่งงานกลับ) + closer สิทธิ์ตัดสินใจ",
   "wp_link": "https://wp.adduckivity.com/system-in-action/ai-agent-delegation-approval-gates/"
+ },
+ {
+  "slug": "20261109-cnt-thinking-margin-gap",
+  "title": "คิดไม่เป็น — หรือไม่ได้คิด (v1 draft, PRE-CRITIQUE)",
+  "file": "posts/20261109-cnt-thinking-margin-gap.md",
+  "link": "https://app.notion.com/p/413df8d88d8c818c8043c4cfe46df026",
+  "notion_page_id": "413df8d8-8d8c-818c-8043-c4cfe46df026",
+  "date": "2026-11-09",
+  "status": "draft (pair #109 ใหม่ — owner brief idea-only 'Thinking Badly—or Not Thinking' 3 หัวข้อ: Illusion of Thinking / Missing Margin / Positioning > Intelligence — lesson 23 รวมแกนเดียว 'การคิดเกิดในช่องว่างระหว่างเหตุการณ์กับคำตอบ' — v1 63wc idea-brief CURRENT FORM — รอ Benz r1)",
+  "words": 63,
+  "form": "idea-brief CURRENT FORM: ภาพลวงตา (คิด = ตอบสนองเดิม) → กลไก (ความยุ่งกินช่องว่าง สิ่งแวดล้อมเลือกคำตอบแทน) → positioning (จัดจุดยืนราคาถูกกว่าแรงเถลไถ่) → quote ช่องว่าง → สรุป 3 buckets + closer เหลือช่อง/หมดช่อง"
  }
 ]
