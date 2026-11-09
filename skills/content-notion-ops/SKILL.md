@@ -47,6 +47,7 @@ A Notion write is NOT done when the API returns 200 — it is done when the read
 
 1. `GET /v1/pages/{id}` → Name/Status/Topic read from PROPERTIES (a missing title is a property miss, not a body miss).
 2. `GET /v1/blocks/{id}/children` (paginate) → block count, empty paragraphs 0, raw `**` 0, forbidden words 0 (CUT list, secrets, prices), keep-markers PASS, heading TYPES verified (markdown replace does not guarantee heading types).
+   - **Declared-FP terms break substring verify — fix the verifier list, never the text.** Forbidden counts are plain substrings, so a CUT term surviving only inside a declared false-positive compound (`พร` inside `พร้อมกัน` — FP declarations are never "fixed") reports VERIFY: FAIL on a compliant draft. When VERIFY fails but every printed check shows 0, re-run the report once filtered to non-zero forbidden rows (`| grep forbidden | grep -v ": 0 "`) to get the real offender, confirm it matches the draft header's declared FP, re-run with that term dropped from `--forbidden`, and log the exclusion. Grep before re-running, not after — each full rebuild re-deletes and re-inserts the whole page.
 3. Tail shape: `[..., '.', '#Adduckivity ...']` (beat dot before hashtags).
 
 Never reconstruct page IDs from truncated prints (a shortened ID 404s on PATCH and sends you debugging the wrong thing) — carry the full `id` from the JSON response. Write the page URL into index.json FROM the API response (`entry['link'] = resp['url']`), never hand-typed.
