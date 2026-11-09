@@ -4836,5 +4836,16 @@
   "status": "draft (pair ใหม่ รอเลข — brief from thetechlantis weekly 2026-45 'Amazon enables text-to-shop via Alexa' — research verify aboutamazon primary + ppc.land catches — v1 115wc news-event CURRENT FORM: FRICTION=CHECKPOINT lens 'งานที่รู้ตัวจบเร็ว / การซื้อที่ยังไม่รู้ตัวพักไม่ได้' — รอ Benz r1)",
   "words": 115,
   "form": "news-event CURRENT FORM: ข่าว (ประกาศ Amazon เอง + ประกาศขัดตัวเองเรื่องขนาด) → งานซ้ำที่รู้ตัว → จุดพักของการซื้อ → จำ+เตือนราคา → quote checkpoint → สรุป checkpoint"
+ },
+ {
+  "slug": "20261109-cnt-meta-muse-approval-seat",
+  "title": "มอบงานทั้งวันให้ AI — เราไม่ได้หลุดจากงาน เราย้ายไปยืนที่จุดอนุมัติ (v1 draft, PRE-CRITIQUE)",
+  "file": "posts/20261109-cnt-meta-muse-approval-seat.md",
+  "link": "https://app.notion.com/p/413df8d88d8c81dab163e4e990d0f01c",
+  "notion_page_id": "413df8d8-8d8c-81da-b163-e4e990d0f01c",
+  "date": "2026-11-09",
+  "status": "draft (pair #108 ใหม่ — brief from aipolicydaily 2026-09-09 'Meta introduces Muse consumer AI agent' — research verify about.fb.com + research.meta.ai + Reuters + WIRED (+ Amazon block 21 ก.ย. TechCrunch/Verge) — v1 176wc news-event CURRENT FORM: DELEGATION→APPROVAL-SEAT lens 'งานยังอยู่ครบ ตำแหน่งเราย้ายไปจุดอนุมัติ' — รอ Benz r1)",
+  "words": 176,
+  "form": "news-event CURRENT FORM: ข่าว (ประกาศ Meta เอง + Reuters catch + Amazon ปิดเป็นประโยคขอบเขต) → งานเลื่อนได้เงียบ → ตำแหน่งเรา/จุดอนุมัติ = ดีไซน์ → quote → สามคำถามจุดอนุมัติ (bullets 3) → คนถืองาน → สรุป fork closer"
  }
 ]
