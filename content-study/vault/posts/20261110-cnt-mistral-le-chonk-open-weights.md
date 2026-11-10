@@ -1,61 +1,64 @@
 <!--
-pair #110 (mistral-le-chonk-open-weights) — news-event single — FORM SELECTOR: news-event recipe (2026-11-03)
+pair #110 (mistral-le-chonk-open-weights) — v2 — GATE ANSWER: B (เครื่องเป็นประตู) — benz-dna r1 SIM แนะข้อ B, owner ตอบ "ข้อ b"
 
-BRIEF: owner 2026-11-10 "draft content from this news in adduckivity style and benz dna" — dev.to AI Daily Digest 2026-11-09 item [AI] "Mistral releases weights of Mistral Large 4 Le Chonk"
+R1 CRITIQUE: web-archive/20261110-mistral-le-chonk-benz-r1-critique-sim.md — quote-verify 13/13 HIT, baselines อยู่ header
+V1.2 SNAPSHOT: web-archive/20261110-cnt-mistral-le-chonk-v1.2.md (byte-identical, เก็บก่อน overwrite ตาม item 35)
 
-RESEARCH (verified 2026-11-10, primary + ≥2 outlets):
-- mistral.ai/news/mistral-large-4-oss/ (primary): "We release the weights of Le Chonk" — flagship 1T-parameter natively multimodal, public preview 2026-10-06, weights released 2026-10-29
-- huggingface.co/blog/mistral-large4 (official HF blog): ~1T total, ~49B active, MoE, context 1M, variants FP8/NVFP4 + GGUF
-- cross-check: theopenweights.com (~52B active) — 49B vs 52B ต่างกันข้ามแหล่ง → เขียน "ราวห้าหมื่นล้าน" + ประโยคผู้ผลิตระบุ (reported-speech ครอบ)
-- benchmark claim (แข่ง GLM-5.3 / DeepSeek V4.1 Flash ได้) = คำกล่าวของผู้ผลิต → demote เป็น labeled context (rule 185: vendor claim ไม่ขึ้น title/spine) — เขียน "ผู้ผลิตโพสต์ไว้" ไม่อ้างชนะ
-- license: mistral เรียก "fully open-weight" (รายละเอียดเงื่อนไขเชิงพาณิชย์มาจากแหล่งรองเพียงแหล่งเดียว → ไม่อ้างสาระ license ในเนื้อ — เขียนเป็น "อ่านใบอนุญาตก่อนเชื่อคำว่าโอเพน" = เช็คที่จับได้ ไม่ใช่การตัดสินเงื่อนไข)
+SPINE v2 (แกน B): ข่าวเปิด open weight (reported) → เลข 49B ตามการนับของ Hugging Face (จุดตี 7: ตัด "ราว") / คะแนน = คำโพสต์ผู้ผลิต (คง rule 185) → สิ่งที่เปิดจริง = สิทธิ์รัน ไม่ใช่ผลการพิสูจน์ (จุดตี 2 ชั้นแรก) → quote verbatim จาก r1: "เปิดให้รัน กับรันแล้วเป็นอย่างไร ยังคนละเรื่องกัน" → ประตูระหว่างสองชั้น = เครื่อง (แกน B) → คนที่มีเครื่องรับไหว เริ่มได้จริง / คนที่ไม่มี ข่าวยังจริง แต่ประตูพิสูจน์ยังปิด (จุดตี 4: แยกสองสถานะ ไม่พูดแทนทุกคน) → คะแนน = ผลในมือคนทดสอบ สิทธิ์รัน = ประตูมีอยู่ → closer: ประตูไม่ได้มาพร้อมไฟล์
 
-LENS (หนึ่งเดียว): open ≠ คำตอบ — การเปิด open weight ไม่ได้ปิดคำถามว่าโมเดลเก่งแค่ไหน (คะแนน = มือผู้ผลิต) แต่ย้ายคำถามไปที่ใครจะพิสูจน์เองได้ (เครื่องที่รับไหว + ใบอนุญาตที่ต้องอ่าน)
-SIBLING GUARD: vs #100 anthropic-personal-finance (ใครถือข้อมูล — ข้อมูลที่ไหลผ่านบริการ) — ต่างวัตถุ (โมเดล vs ข้อมูล) ต่าง event (weight release vs feature launch) → เลี่ยงคำแกน "ถือข้อมูล/คนถือ" ทั้งรูป คำ "ถือ" เหลือเฉพาะ "การถือโมเดล" ตาม event นี้ / vs #105 small-specialist (ตัวใหญ่ไม่จำเป็นเก่งสุด) — โพสต์นี้ไม่ตัดสินใหญ่-เล็ก ไม่มีคำ "ตัวใหญ่ชนะ/แพ้"
+CRITIC-ADOPTED (verbatim-or-function):
+- quote: "เปิดให้รัน กับรันแล้วเป็นอย่างไร ยังคนละเรื่องกัน" (จุด 2 — verbatim)
+- title tail: "— และการพิสูจน์เริ่มที่เครื่อง" (จุด 6 แนะ — critic-adapted ของ tail เดิม)
+- 49B ตรง + ชื่อผู้นับ (จุด 7 — "ตามการนับของ Hugging Face")
 
-CUT LIST (zero-count, derive จากโพสต์นี้เอง — ไม่ clone ข้ามสาย): พร, คุณ, คับ, ผม, ฉัน, เพราะ, เสมอ, ทุกครั้ง, ฟรี, ระบบ, เครื่องมือ, วินัย, feedback, เงา, benchmark, ? (0 ในเนื้อ)
-FORMAT: line-per-sentence + beat "." + H3 subtitle + H2 #สรุปแบบวิศวกรเป็ด + quote bold 1 + closer bold 1 + hashtag tail ('.' beat ก่อนแถว hashtag) — เลขเป็นคำไทย (ล้านล้าน / ห้าหมื่นล้าน) อารบิก 0 ในเนื้อ — '?' 0 — ชื่อแบรนด์ Mistral / Hugging Face ได้ ไม่ตัดสินแบรนด์
-OWNER STEER v1.2 (2026-11-10): คำว่า "น้ำหนัก" → "open weight" ทั้ง title + เนื้อ (title / เปิดบท / ประโยคก่อน quote)
-SELF-REVIEW v1.1 (ก่อนลง Notion): quote หลีก template คู่ "X ไม่ได้ Y มันย้าย Z" (รูปเดียวกับ quote #100 — publish 2026-11-06) → "การเปิดให้ตรวจ กับการถูกตรวจแล้ว ยังคนละเรื่องกัน" / title เลี่ยงหาง "— คำถามใหม่คือ…" (title-form ของ #100) → "— แต่การพิสูจน์เพิ่งจะเริ่ม"
-
-Notion: สร้างหน้าใหม่ Content Drafts DB (Name = title, Status draft, Platform general, Date 2026-11-10, Source = dev.to URL) — typed children + annotations.bold ตอน create (กัน bold-quote หาย)
+DEAD checks (แกนที่ไม่เลือก = 0): A-as-axis (เส้นแบ่งสิทธิ์เป็นแกนหลัก — เหลือเฉพาะชั้นแรกของ quote ที่ B ยืม) / C: "ใบอนุญาต", "license", "เงื่อนไข" = 0 ทั้งบท (r1 จุด 5 ค้างเป็นกิ่ง — ถ้า owner เรียก C ค่อยอ่าน license จริง)
+RETired จาก v1.2 (zero-count): "โอเพน" 0 (open weight รูปเดียว — จุด 1) / "ตรวจ" 0 + "เช็ค" 0 (เลนส์เก่า) / "ถือ" 0 (H3 ใหม่ไม่ใช้) / "น้ำหนัก" 0 (steer เดิม)
+FP DECLARED (v2): "พร" ×1 = substring ของ "มาพร้อม" (lookalike family — fold 395 verifier rule) — ตัวจริง 0
+CUT LIST (zero-count): พร, คุณ, คับ, ผม, ฉัน, เพราะ, เสมอ, ทุกครั้ง, ฟรี, ระบบ, เครื่องมือ, วินัย, feedback, เงา, benchmark, ? (0 ในเนื้อ)
+FORMAT: line-per-sentence + beat "." + H3 subtitle + H2 #สรุปแบบวิศวกรเป็ด + quote bold 1 + closer bold 1 + hashtag tail — เลขเป็นคำไทย (ล้านล้าน / สี่หมื่นเก้าพันล้าน) อารบิก 0 — '?' 0 — ชื่อแบรนด์ Mistral / Hugging Face ได้ ไม่ตัดสินแบรนด์
+STATUS: v2 55wc — battery PASS (FP declared) — critic-adopted 4/4 HIT — dead-axis ครบ
+Notion: rebuild หน้าเดิม 414df8d8-8d8c-8147-b9b5-d35564a8c711 (delete children + typed blocks bold-at-create) + Name ใหม่ + Status → rewritten
 -->
 
-# Mistral เปิด open weight โมเดลล้านล้านพารามิเตอร์แล้ว — แต่การพิสูจน์เพิ่งจะเริ่ม
+# Mistral เปิด open weight โมเดลล้านล้านพารามิเตอร์แล้ว — และการพิสูจน์เริ่มที่เครื่อง
 
-### การถือโมเดลตัวใหญ่เริ่มที่เครื่อง กับบรรทัดใบอนุญาต ไม่ใช่ที่คะแนน
+### การพิสูจน์โมเดลที่เปิดแล้ว เริ่มที่เครื่องที่รับมันไหว ไม่ใช่ที่คะแนน
 
 .
 
 Mistral ปล่อย open weight โมเดลตัวใหญ่ที่สุดของตัวเองขึ้น Hugging Face แล้ว
 
-พารามิเตอร์รวมระดับล้านล้าน แต่ที่ทำงานจริงต่อหนึ่ง token มีแค่ราวห้าหมื่นล้าน ตามที่ผู้ผลิตระบุ
+พารามิเตอร์รวมระดับล้านล้าน ที่ทำงานจริงต่อหนึ่ง token มีสี่หมื่นเก้าพันล้าน ตามการนับของ Hugging Face
 
 ส่วนคะแนนที่แถมมาด้วย เป็นคำโพสต์ของผู้ผลิตว่างานเขียนโค้ดอยู่ระดับเดียวกับโมเดลชั้นนำ
 
-แต่ของที่ถูกปล่อยออกมาแล้วคือ open weight ของที่ต้องมีเครื่องรับ และมีใบอนุญาตเดินตามมา
+ของที่เปิดออกมาวันนี้จึงเป็นสิทธิ์รัน ไม่ใช่ผลการพิสูจน์
+
+และสิทธิ์รันมีค่าเท่ากับเครื่องที่รับมันไหว
 
 .
 
-> **การเปิดให้ตรวจ กับการถูกตรวจแล้ว ยังคนละเรื่องกัน**
+> **เปิดให้รัน กับรันแล้วเป็นอย่างไร ยังคนละเรื่องกัน**
 
 .
 
-เช็คที่จับได้จึงมีสองอย่าง ก่อนจะเชื่อคำว่าโอเพน
+ระหว่างสองชั้นนั้นมีประตู และประตูนั้นคือเครื่อง
 
-เครื่องที่จะรันมัน กับบรรทัดใบอนุญาตที่มากับไฟล์
+คนที่มีเครื่องรับไหว การพิสูจน์เริ่มได้จริง
+
+ส่วนคนที่ไม่มี ข่าวยังจริงเหมือนเดิม แต่ประตูของการพิสูจน์ยังปิด
 
 .
 
-คะแนนบอกผลในมือคนทดสอบ ส่วนการพิสูจน์ของเราเอง ยังไม่ได้เริ่ม
+คะแนนบอกผลในมือคนทดสอบ สิทธิ์รันบอกแค่ว่าประตูมีอยู่
 
 .
 
 ## #สรุปแบบวิศวกรเป็ด
 
-คะแนนมาจากมือผู้ผลิต ส่วนเครื่อง กับใบอนุญาต เป็นสองสิ่งที่ตรวจเองได้ และควรตรวจก่อนคำว่าโอเพนจะมีความหมาย
+การเปิด open weight เปิดสิทธิ์รัน ส่วนการพิสูจน์ต้องรอเครื่องที่รับไหว ประตูนั้นไม่ได้มาพร้อมไฟล์
 
-**การเปิดให้ตรวจ กับการถูกตรวจแล้ว ยังคนละเรื่องกัน**
+**เปิดให้รัน กับรันแล้วเป็นอย่างไร ยังคนละเรื่องกัน**
 
 .
 
