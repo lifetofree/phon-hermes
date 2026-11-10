@@ -4862,13 +4862,13 @@
   },
   {
     "slug": "20261110-cnt-mistral-le-chonk-open-weights",
-    "title": "Mistral เปิดน้ำหนักโมเดลล้านล้านพารามิเตอร์แล้ว — แต่การพิสูจน์เพิ่งจะเริ่ม (v1 draft)",
+    "title": "Mistral เปิด open weight โมเดลล้านล้านพารามิเตอร์แล้ว — แต่การพิสูจน์เพิ่งจะเริ่ม (v1.2 draft)",
     "file": "posts/20261110-cnt-mistral-le-chonk-open-weights.md",
     "link": "https://app.notion.com/p/414df8d88d8c8147b9b5d35564a8c711",
     "notion_page_id": "414df8d8-8d8c-8147-b9b5-d35564a8c711",
     "date": "2026-11-10",
-    "status": "draft (pair #110 — brief from dev.to AI Daily Digest 2026-11-09 'Mistral releases weights of Mistral Large 4 Le Chonk' — research verify mistral.ai primary + HF blog official + 2 แหล่งรอง — v1 44wc news-event CURRENT FORM: lens 'การเปิดให้ตรวจ กับการถูกตรวจแล้ว ยังคนละเรื่องกัน' — vendor benchmark demote เป็นคำโพสต์ผู้ผลิต (rule 185) — self-review v1.1: quote+title หลีก template ของ #100 — battery PASS — รอ Benz r1)",
-    "words": 44,
+    "status": "draft v1.2 (pair #110 — OWNER STEER 2026-11-10: น้ำหนัก→open weight ทั้ง title+เนื้อ — Notion sync Name+2 blocks verify 200 — Benz r1 SIM เขียนแล้ว (sim voice ตามสั่ง 'comment draft นี้แบบเบนซ์ dna') archive web-archive/20261110-mistral-le-chonk-benz-r1-critique-sim.md — quote-verify 13/13 HIT / 8 จุด (คำสลับครึ่งเดียว / quote ผิดคำสัญญา ตรวจ-รัน / เช็คคู่แตกสองระดับ / เรา=ใคร / license=ผลตรวจค้าง / H1-H3 ห่าง / เลข 49B / เช็คตัวเอง) + KEEP 4 + gate 3 ทาง (A เส้นแบ่งสิทธิ์ / B เครื่องเป็นประตู ← แนะ / C ใบอนุญาตเป็นประตู) — รอ owner เลือก gate)",
+    "words": 52,
     "form": "news-event CURRENT FORM v1: ข่าว (reported-speech) → ครึ่งที่ถูก (คะแนน/ผู้ผลิตระบุ) → quote (เปิดให้ตรวจ ≠ ถูกตรวจแล้ว) → เช็คสองอย่าง (เครื่อง + ใบอนุญาต) → closer (การพิสูจน์เพิ่งเริ่ม)"
   }
 ]
