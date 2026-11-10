@@ -4870,5 +4870,16 @@
     "status": "published (pair #110 CLOSED 2026-11-10 — loop: v1 44 → steer open weight v1.2 52 → Benz r1 SIM gate B → v2 55 → **Benz r2 REAL + owner publish มาพร้อมกันใน paste เดียว (ครั้งแรกของ lane)** — publish 87wc = 1.58× v2 แกนใหม่ตาม r2 'เข้าถึง ≠ โอกาสทดลองเท่ากัน' — สิทธิ์รัน 0 / quote slot critic-grammar / H2 กลาง + bullets เข้าถึง-ทดลอง-พิสูจน์ / 49,000 ล้าน อารบิก owner-call / closer คุณค่า — FP พร×4 lookalike ตัวจริง 0 — Notion rebuild 33 blocks Status published verify ครบ — folds 407-412 — archives byte-true: r2-real + publish)",
     "words": 87,
     "form": "news-event CURRENT FORM v1: ข่าว (reported-speech) → ครึ่งที่ถูก (คะแนน/ผู้ผลิตระบุ) → quote (เปิดให้ตรวจ ≠ ถูกตรวจแล้ว) → เช็คสองอย่าง (เครื่อง + ใบอนุญาต) → closer (การพิสูจน์เพิ่งเริ่ม)"
+  },
+  {
+    "slug": "20261110-cnt-amadeus-booking-data-route",
+    "title": "รายชื่อสายการบินดังออกมาทีละแห่ง — ข้อมูลผู้โดยสารเดินผ่านระบบจองที่เราไม่ได้เลือก (v1 draft)",
+    "file": "posts/20261110-cnt-amadeus-booking-data-route.md",
+    "link": "https://app.notion.com/p/414df8d88d8c818d9689f8e9e89ac544",
+    "notion_page_id": "414df8d8-8d8c-818d-9689-f8e9e89ac544",
+    "date": "2026-11-10",
+    "status": "draft (pair #111 — brief from owner 'เปิดเผยรายชื่อสายการบินดัง ผู้โดยสารรอผ่านระบบอาร์มาดิอุส' — research verify ≥3 แหล่ง: travelmarketnews (อัปเดต 6 พ.ย. JAL ~92k / Cathay ~53k bookings / ANA ~37.8k / SIA ~46k) + fizen.io (กลไก: ใช้ login บัญชีระบบอ่านข้อมูล ส.ค. 2023–ก.ย. 2026 = สามปี; เตือนข้อความหลอกชดเชย) + alarabiya + privacyon (statement 1 ต.ค.) — แยกเหตุ breach ออกจาก Southwest outage 9 ต.ค. และ Incheon ARINC — v1 43wc news-event CURRENT FORM: lens 'เลือกสายการบินได้ แต่ไม่ได้เลือกระบบเบื้องหลังที่ข้อมูลเดินผ่าน' — sibling guard ผ่าน (ถือ 0 / ประตู 0 / เช็ค 0 — ลายเซ็น #100/#110 ไม่หลุด) — battery PASS ตั้งแต่ร่างแรก — รอ Benz r1)",
+    "words": 43,
+    "form": "news-event CURRENT FORM v1: ข่าว (reported-speech ทั้งก้อน) → ครึ่งที่โล่ง (ไม่มีข้อมูลบัตรหาย) → quote (เลือกสายการบิน ≠ เลือกระบบเบื้องหลัง) → สองอย่างที่ทำได้ (ประกาศจากสายการบินจริง + ระวังข้อความหลอกหลังข่าว) → closer (รายชื่อยาวขึ้นได้ ช่องทางไม่เปลี่ยน)"
   }
 ]
