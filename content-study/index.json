@@ -4884,13 +4884,13 @@
   },
   {
     "slug": "20261110-cnt-nvidia-openshell-cncf",
-    "title": "Nvidia ส่งรั้วกั้นเอเจนต์ให้องค์กรกลางแล้ว — รั้วเปลี่ยนบ้าน แต่ไม่ได้เปลี่ยนมือ (v2 draft, gate A)",
+    "title": "Nvidia ส่ง OpenShell ให้ CNCF ดูแลแล้ว — แต่อยู่กับองค์กรกลาง ไม่ได้แปลว่าเป็นกลาง (published)",
     "file": "posts/20261110-cnt-nvidia-openshell-cncf.md",
     "link": "https://app.notion.com/p/415df8d88d8c8199b8adddcfbc8d3676",
     "notion_page_id": "415df8d8-8d8c-8199-b8ad-ddcfbc8d3676",
     "date": "2026-11-10",
-    "status": "draft v2 rewritten (pair #112 — Benz r1 SIM gate 2 ทาง → owner ตอบ **A มือที่จับ** → v2 55wc: critic-adopted 5/5 — quote ใหม่เล็งที่มือ 'รั้วย้ายบ้านแล้ว แต่มือที่จับยังเป็นมือเดิม' (จุด 1) / Sandbox gloss 'ชั้นแรกของกระบวนการที่มีเกณฑ์ขึ้นระดับชัดเจน' (จุด 3) / สัญญามีตัวหนังสือ 'กระบวนการรับข้อเสนอแก้ไขแบบเปิดเขียนไว้แล้ว' (จุด 4) / จุดชี้ใหม่ 'ข้อเสนอจากภายนอกตัวแรกที่ผ่านกระบวนการรับจริง' / closer ชี้-form 'การย้ายบ้านจบในวันเดียว ส่วนความเป็นกลางเริ่มนับจากข้อเสนอแรกที่ผ่านมือหลายฝ่าย' (จุด 5: 3 ร่าง → 2) — retired v1 = 0 (ระดับเริ่มต้น / อ่านและต่อเติม / มาพร้อม) / รั้ว 11→2 ในเนื้อ (เกณฑ์ ≤6 ผ่าน) / รั้ว-as-agent-of-กลาง sweep = 0 — battery PASS (FP คับ บังคับกติกา declared) — snapshot v1 byte-identical web-archive/20261110-cnt-nvidia-openshell-cncf-v1.md — Notion rebuild 17 blocks + Status rewritten verify ครบ — รอ Benz r2)",
-    "words": 55,
+    "status": "published (pair #112 CLOSED 2026-11-10 — loop: v1 56 → r1 SIM gate A → v2 55 → **Benz r3 REAL + gate answer 'ข้อแรก: องค์กรกลางไม่ได้ทำให้โครงการเป็นกลางโดยอัตโนมัติ' + post-gate spec + owner publish ใน paste_7/8/9 (one-paste round #3, 4 ชิ้น)** — publish 74wc = 1.35× v2 แกน structure-claim: keys 6/6 PASS (quote spec verbatim / gate-line bold / H3 spec / เกณฑ์จับตา 4+3 / ปิด spec hedged / ตัดสามเรื่องเหลือเดี่ยว) + NOTE 3 (title ดัด spec / เครื่องมือ+เพราะ owner-register / metaphor รั้ว-มือ-บ้าน ตายทั้งตระกูล 0 — fold 421) — Notion rebuild 24 blocks + Status published verify ครบ (parser fix soft-break + duck H2) — folds 417-421 — archives byte-true ×3)",
+    "words": 74,
     "form": "news-event CURRENT FORM v1: ข่าว (reported) → หน้าที่รั้ว (reported-speech คำเดียว) → ข่าวคู่ (Agent Substrate + ชุด Kubernetes) → ส่วนที่เปลี่ยนจริง = ที่อยู่ → แต่มือพัฒนาหลักยังเดิม → quote (ย้ายบ้าน ≠ เป็นกลาง) → ดูต่อ 2 จุด (ใครตัดสินทิศทาง / ข้อเสนอภายนอกถูกรับจริงไหม) → closer (เป็นกลางนับจากมือ ไม่ใช่วันย้าย)"
   }
 ]
