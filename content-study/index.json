@@ -4884,13 +4884,13 @@
   },
   {
     "slug": "20261110-cnt-nvidia-openshell-cncf",
-    "title": "Nvidia ส่งรั้วกั้นเอเจนต์ให้องค์กรกลางแล้ว — แต่ความเป็นกลางยังไม่มาพร้อมวันย้าย (v1 draft)",
+    "title": "Nvidia ส่งรั้วกั้นเอเจนต์ให้องค์กรกลางแล้ว — รั้วเปลี่ยนบ้าน แต่ไม่ได้เปลี่ยนมือ (v2 draft, gate A)",
     "file": "posts/20261110-cnt-nvidia-openshell-cncf.md",
     "link": "https://app.notion.com/p/415df8d88d8c8199b8adddcfbc8d3676",
     "notion_page_id": "415df8d8-8d8c-8199-b8ad-ddcfbc8d3676",
     "date": "2026-11-10",
-    "status": "draft (pair #112 — v1 56wc battery PASS — Benz r1 SIM เขียนแล้ว (สั่ง 'comment content draft ที่ตัวเองเขียง/เขียนเอง แบบ benz dna') archive web-archive/20261110-nvidia-openshell-cncf-benz-r1-critique-sim.md — quote-verify 11/11 HIT — 5 จุด: (1) quote ขัดข้อค้นพบบทเอง — 'รั้วทำงานเป็นกลาง' ผิดฝั่ง ความเป็นกลางอยู่ที่มือจับ ไม่ใช่ตัวรั้ว → quote ควรเล็งมือ ('ย้ายมือแล้ว แต่มือยังเดิม') (2) รั้ว ×11 แบกทั้งบท นิยาม ×1 — ข่าวมีข้อเท็จจริงแข็ง 'บังคับนอกตัวเอเจนต์' (CNCF: enforcement outside the agents) ที่บทยังไม่หยิบ (3) 'ระดับเริ่มต้น' อ่านเป็นดูแลหลวม ๆ ทั้งที่ Sandbox = ชั้นแรกของกระบวนการมีเกณฑ์จริง (4) 'อ่านและต่อเติมได้' อ่อนกว่าสัญญาที่มีตัวหนังสือ (RFC สาธารณะ + vendor-neutral governance) (5) title/quote/closer พูดฟังก์ชันเดียวกัน 3 ร่าง — รอบแก้ให้เหลือ 2 ให้ท้ายบทชี้แทนย้ำ + KEEP 4 + gate A มือที่จับ (← แนะ แกนเดิมยืดให้ตรง ไม่เพิ่มเนื้อ) / B รั้วในดิน (ข้อเท็จจริงใหม่ แต่เสี่ยงยาว) — baselines 15 คำใน header archive — รอ owner เลือก gate)",
-    "words": 56,
+    "status": "draft v2 rewritten (pair #112 — Benz r1 SIM gate 2 ทาง → owner ตอบ **A มือที่จับ** → v2 55wc: critic-adopted 5/5 — quote ใหม่เล็งที่มือ 'รั้วย้ายบ้านแล้ว แต่มือที่จับยังเป็นมือเดิม' (จุด 1) / Sandbox gloss 'ชั้นแรกของกระบวนการที่มีเกณฑ์ขึ้นระดับชัดเจน' (จุด 3) / สัญญามีตัวหนังสือ 'กระบวนการรับข้อเสนอแก้ไขแบบเปิดเขียนไว้แล้ว' (จุด 4) / จุดชี้ใหม่ 'ข้อเสนอจากภายนอกตัวแรกที่ผ่านกระบวนการรับจริง' / closer ชี้-form 'การย้ายบ้านจบในวันเดียว ส่วนความเป็นกลางเริ่มนับจากข้อเสนอแรกที่ผ่านมือหลายฝ่าย' (จุด 5: 3 ร่าง → 2) — retired v1 = 0 (ระดับเริ่มต้น / อ่านและต่อเติม / มาพร้อม) / รั้ว 11→2 ในเนื้อ (เกณฑ์ ≤6 ผ่าน) / รั้ว-as-agent-of-กลาง sweep = 0 — battery PASS (FP คับ บังคับกติกา declared) — snapshot v1 byte-identical web-archive/20261110-cnt-nvidia-openshell-cncf-v1.md — Notion rebuild 17 blocks + Status rewritten verify ครบ — รอ Benz r2)",
+    "words": 55,
     "form": "news-event CURRENT FORM v1: ข่าว (reported) → หน้าที่รั้ว (reported-speech คำเดียว) → ข่าวคู่ (Agent Substrate + ชุด Kubernetes) → ส่วนที่เปลี่ยนจริง = ที่อยู่ → แต่มือพัฒนาหลักยังเดิม → quote (ย้ายบ้าน ≠ เป็นกลาง) → ดูต่อ 2 จุด (ใครตัดสินทิศทาง / ข้อเสนอภายนอกถูกรับจริงไหม) → closer (เป็นกลางนับจากมือ ไม่ใช่วันย้าย)"
   }
 ]
