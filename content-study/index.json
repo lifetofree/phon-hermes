@@ -4892,5 +4892,14 @@
     "status": "published (pair #112 CLOSED 2026-11-10 — loop: v1 56 → r1 SIM gate A → v2 55 → **Benz r3 REAL + gate answer 'ข้อแรก: องค์กรกลางไม่ได้ทำให้โครงการเป็นกลางโดยอัตโนมัติ' + post-gate spec + owner publish ใน paste_7/8/9 (one-paste round #3, 4 ชิ้น)** — publish 74wc = 1.35× v2 แกน structure-claim: keys 6/6 PASS (quote spec verbatim / gate-line bold / H3 spec / เกณฑ์จับตา 4+3 / ปิด spec hedged / ตัดสามเรื่องเหลือเดี่ยว) + NOTE 3 (title ดัด spec / เครื่องมือ+เพราะ owner-register / metaphor รั้ว-มือ-บ้าน ตายทั้งตระกูล 0 — fold 421) — Notion rebuild 24 blocks + Status published verify ครบ (parser fix soft-break + duck H2) — folds 417-421 — archives byte-true ×3)",
     "words": 74,
     "form": "news-event CURRENT FORM v1: ข่าว (reported) → หน้าที่รั้ว (reported-speech คำเดียว) → ข่าวคู่ (Agent Substrate + ชุด Kubernetes) → ส่วนที่เปลี่ยนจริง = ที่อยู่ → แต่มือพัฒนาหลักยังเดิม → quote (ย้ายบ้าน ≠ เป็นกลาง) → ดูต่อ 2 จุด (ใครตัดสินทิศทาง / ข้อเสนอภายนอกถูกรับจริงไหม) → closer (เป็นกลางนับจากมือ ไม่ใช่วันย้าย)"
+  },
+  {
+    "slug": "20261112-cnt-big-five-scales-not-types",
+    "title": "บุคลิกวัดเป็นแกนได้ — แต่คนเก็บผลวัดมาใช้เป็นประเภท (draft — รอ Benz r1)",
+    "file": "posts/20261112-cnt-big-five-scales-not-types.md",
+    "link": "https://app.notion.com/p/416df8d88d8c8167826ecb3883f2b532",
+    "notion_page_id": "416df8d8-8d8c-8167-826e-cb3883f2b532",
+    "date": "2026-11-12",
+    "status": "draft v1 (pair #113 — idea-brief Big Five OCEAN, CURRENT FORM 66wc, battery PASS CUT 29/29, sibling guards: brain-introvert-vs-extrovert + dissonance + margin-gap = 0, Notion Content Drafts 16 blocks verify PASS, commit 3d9d868)"
   }
 ]
