@@ -4895,11 +4895,11 @@
   },
   {
     "slug": "20261112-cnt-big-five-scales-not-types",
-    "title": "Big Five — แบบจำลองบุคลิกภาพที่วัดคนเป็นมาตราส่วน ไม่ใช่จัดคนเป็นประเภท (draft v3 — รอ Benz r1)",
+    "title": "Big Five — แบบจำลองบุคลิกภาพที่วัดคนเป็นมาตราส่วน ไม่ใช่จัดคนเป็นประเภท (PUBLISHED — pair #113 CLOSED)",
     "file": "posts/20261112-cnt-big-five-scales-not-types.md",
     "link": "https://app.notion.com/p/416df8d88d8c8167826ecb3883f2b532",
     "notion_page_id": "416df8d8-8d8c-8167-826e-cb3883f2b532",
     "date": "2026-11-12",
-    "status": "draft v3 (pair #113 — owner steer รอบสอง: label แกนเป็นอังกฤษ Openness/Conscientiousness/Extraversion/Agreeableness/Neuroticism + OUT-OF-BAND directive 'เขียนด้วยสไตล์ล่าสุดของพร อย่าไปดึงเอาเวอร์ชันเก่ามาใส่' → v2 ที่ยืมโทนยุคเก่าจาก introvert-extrovert (แอด/เพื่อน ๆ คับ/#เป็ดปิดงาน/emoji) ถูกเขียนใหม่ทั้งชิ้น ในรีจิสเตอร์ปัจจุบัน (เรา-carry, duck closer #สรุปแบบวิศวกรเป็ด แบบ #109) — 193wc, battery PASS, Notion rebuild 34 blocks verify PASS (bold 9/9, EN labels 5/5, old-register leak 0), snapshots v1/v2/v2b ใน web-archive/"
+    "status": "published (pair #113 CLOSED 2026-11-12 — loop: v1 mini 66wc → v2 article 210wc → v3 current-register 193wc (EN axis labels, ไม่ยืมโทนเก่า) → Benz r1 REAL + owner publish มาพร้อมกันใน paste เดียว (one-paste round #3 — rule 412 ยืดสู่ article class): r1 quote-verify 7/7, gate §5 = แนวโน้ม axis ตอบผ่าน publish เอง; owner publish 265wc = 1.42× v3, keys 14/14 PASS (หนึ่งในแนวทางสำคัญ / country-list CUT / A-line เหมารวม CUT / N→อารมณ์เชิงลบ / trait-state split / repeat-test→instrument-quality / closer skeleton ครบ / แผนที่-ทฤษฎี line รอด) — Notion rebuild หน้าเดิม 89 blocks Status published verify ครบ — archives: r1 + publish + v1/v2/v2b ใน web-archive/"
   }
 ]
