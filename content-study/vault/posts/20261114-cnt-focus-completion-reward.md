@@ -10,6 +10,7 @@ CUT LIST (zero-count): พร, คุณ, ผม, ฉัน, คับ, ระ�
 REGISTER: เรา carries / คุณ 0 / พร 0 / ฉัน 0 / เลขอารบิก 0 / '?' 0
 FP DECLARED: focus ×1 (hashtag #Focus ท้ายบทเท่านั้น — body 0 ยืนยันจาก read-back scan 2026-11-14)
 Notion: สร้างหน้าใหม่ Content Drafts DB Status draft | battery: draft_battery.py --cut (ดูบรรทัด CUT LIST)
+OWNER REMARK 2026-11-14: คลิปเดียวกันนี้มี content อีกแบบ = คลาส clip-summary (สรุปจากคลิปจริง มีชื่อผู้พูดจริง) → pair #115 focus-clip-summary (หน้า Notion 418df8d8-8d8c-818a-b562-c5ec99c973e3) — คู่นี้คงสถานะ idea-brief L3 ตามเดิม
 -->
 
 # แตะงานทั้งวันไม่เคยได้รางวัล — สมองจ่ายให้ชิ้นที่จบ ไม่ใช่ชิ้นที่ถูกเปิด

@@ -5042,11 +5042,21 @@
   {
     "slug": "20261114-cnt-focus-completion-reward",
     "title": "แตะงานทั้งวันไม่เคยได้รางวัล — สมองจ่ายให้ชิ้นที่จบ ไม่ใช่ชิ้นที่ถูกเปิด",
-    "status": "draft v1 (pair #114) — Notion 418df8d8-8d8c-8121-be46-e31f366524bd — battery PASS 57wc — รอ Benz r1",
+    "status": "draft v1 (pair #114) — Notion 418df8d8-8d8c-8121-be46-e31f366524bd — battery PASS 57wc — รอ Benz r1 — OWNER REMARK: มี content อีกแบบ (clip-summary class) = pair #115 แยกต่างหาก",
     "date": "2026-11-14",
     "origin": "idea-brief from YouTube clip focus sprint (Dr. Sahar Yousef, DOAC Clips) — owner brief 'เอามาดราฟเป็น content'",
     "file": "/home/lifetofree/hermes-agent/content-study/vault/posts/20261114-cnt-focus-completion-reward.md",
     "notion_page_id": "418df8d8-8d8c-8121-be46-e31f366524bd",
     "words": 57
+  },
+  {
+    "slug": "20261114-cnt-focus-clip-summary",
+    "title": "ฟังดร.ซาร่า อธิบายการทำงานแบบ productive ใน The Diary Of A CEO — แล้วเข้าใจที่มาของความเหนื่อยท้ายวัน",
+    "status": "draft v1 (pair #115, NEW CLASS: clip-summary ครั้งแรก) — Notion 418df8d8-8d8c-818a-b562-c5ec99c973e3 — battery PASS 78wc — รอ Benz r1",
+    "date": "2026-11-14",
+    "origin": "owner directive: เวอร์ชัน clip-summary ของคลิป focus sprint เดียวกับ #114 — เปิดกรอบฟังจริง + fact ที่ ดร.ซาร่า อธิบาย + สรุปง่าย + ปิดแบบ adduckivity",
+    "file": "/home/lifetofree/hermes-agent/content-study/vault/posts/20261114-cnt-focus-clip-summary.md",
+    "notion_page_id": "418df8d8-8d8c-818a-b562-c5ec99c973e3",
+    "words": 78
   }
 ]
