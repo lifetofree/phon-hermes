@@ -4,13 +4,14 @@ type: moc
 
 # Content Study — สารบัญกลาง
 
-- คู่ทั้งหมด: **119** | published: **47** | ยังเปิด: **72**
+- คู่ทั้งหมด: **120** | published: **48** | ยังเปิด: **72**
 - กติกา: [[README]]
 
 ## คู่ล่าสุด
 
 - [[pair-114]] — 20261114 · draft v1 (pair #114) — Notion 418df8d8-8d8c-8121-b
 - [[pair-115]] — 20261114 · PUBLISHED (pair #115, clip-summary class ครั้งแรก)
+- [[pair-116]] — 20261114 · PUBLISHED (pair #116, fact-explainer เลนส์ธุรกิจ) 
 - [[pair-113]] — 20261112 · published (pair #113 CLOSED 2026-11-12 — loop: v1 
 - [[pair-110]] — 20261110 · published (pair #110 CLOSED 2026-11-10 — loop: v1 
 - [[pair-111]] — 20261110 · published (pair #111 CLOSED 2026-11-10 — v1 43 → *
@@ -18,15 +19,14 @@ type: moc
 - [[pair-108]] — 20261109 · published (pair #108 CLOSED 2026-11-09 — v1 176 → 
 - [[pair-109]] — 20261109 · draft v2 (pair #109 — Benz r1 SIM ด้านสไตล์ 4 จุด 
 - [[pair-106]] — 20261107 · published (pair #106 CLOSED + correction 2026-11-0
-- [[pair-118]] — 20261107 · draft (pair ใหม่ รอเลข — brief from thetechlantis 
+- [[pair-119]] — 20261107 · draft (pair ใหม่ รอเลข — brief from thetechlantis 
 - [[pair-103]] — 20261106 · published-ready (pair #103 CLOSED 2026-11-06 — own
-- [[pair-105]] — 20261106 · published (pair #105 CLOSED 2026-11-07 — BENZ-AUTH
 
 ## คู่ที่ยังเปิด
 
 - [[pair-114]] — 20261114 · draft v1 (pair #114) — Notion 418df8d8-8d8c-8121-b
 - [[pair-109]] — 20261109 · draft v2 (pair #109 — Benz r1 SIM ด้านสไตล์ 4 จุด 
-- [[pair-118]] — 20261107 · draft (pair ใหม่ รอเลข — brief from thetechlantis 
+- [[pair-119]] — 20261107 · draft (pair ใหม่ รอเลข — brief from thetechlantis 
 - [[pair-082]] — 20261102 · rewritten (pair #82 r1 PRE-REWRITE — Benz r1 + gat
 - [[pair-058]] — 20261021 · 
 - [[pair-057]] — 20261020 · draft
@@ -154,6 +154,7 @@ type: moc
 ## Research
 
 - [[amazon-alexa-text-shopping-research]]
+- [[athlete-investor-research]]
 - [[autoclaw-research]]
 - [[blood-bank-hack-research]]
 - [[cognitive-resonance-research]]

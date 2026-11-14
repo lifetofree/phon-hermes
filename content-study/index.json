@@ -5061,8 +5061,8 @@
   },
   {
     "slug": "20261114-cnt-athlete-as-investor",
-    "title": "Federer ไม่รับค่าเซ็นสัญญาจากแบรนด์รองเท้าวิ่ง — เขาขอถือหุ้นแทน แล้วมันใหญ่กว่าเงินรางวัลตลอดอาชีพ",
-    "status": "Benz r1 REAL (quote-verify 2/2, gate A/B แนะ A — answer PENDING) — fact-check ข้อที่ Benz ท้าทายยืนยันว่า headline แรงเกิน (Forbes: หุ้นเป็นส่วนของ endorsement deal ไม่ใช่ปฏิเสธค่าตัว) — publish keys K1-K8 ใน archive header — draft v1 + Notion หน้าเดิม UNTOUCHED รอ gate answer",
+    "title": "Federer เลือกถือหุ้นใน On — จากค่าตัวนักกีฬา สู่การเป็นเจ้าของธุรกิจ",
+    "status": "PUBLISHED (pair #116, fact-explainer เลนส์ธุรกิจ) — Benz r1 6 จุด → owner publish 176wc = 1.16×, keys 8/8 PASS (gate = A มาพร้อม paste ตรง Benz; multi-case คงไว้ + caveat โครงสร้างต่างกัน = owner-call NOTE 427) — Notion rebuild 54 blocks + Status published — archives: r1 + publish — wp_link pending (รอรอบกวาดอาทิตย์)",
     "date": "2026-11-14",
     "origin": "owner brief: athlete as investor (On×Federer anchor + LeBron/Serena/Beckham) — มุม fact สองฝั่ง product/นักกีฬา + สรุปสั้นแบบ adduckivity",
     "file": "/home/lifetofree/hermes-agent/content-study/vault/posts/20261114-cnt-athlete-as-investor.md",
