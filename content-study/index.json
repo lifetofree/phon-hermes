@@ -5051,8 +5051,8 @@
   },
   {
     "slug": "20261114-cnt-focus-clip-summary",
-    "title": "ดร.ซาร่า อธิบายวิธีทำงานได้สองเท่าใน The Diary Of A CEO — ไม่ใช่ความขยัน แต่เริ่มที่เป้าหมายที่จบได้",
-    "status": "publish-pending (pair #115) — Benz r1 REAL archived (6/6 quote-verify, gate A/B แนะ A) — publish keys K1-K8 ใน archive header — draft file + Notion หน้าเดิม UNTOUCHED — รอ owner publish paste (gate answer มาพร้อม paste ตาม rule 427)",
+    "title": "ทำงานทั้งวัน แต่ทำไมยังรู้สึกว่าไม่มีอะไรเสร็จ?",
+    "status": "PUBLISHED (pair #115, clip-summary class ครั้งแรก) — Benz r1 REAL 6/6 → owner publish 189wc = 2.42× v2, keys 8/8 PASS (gate answer = A มาพร้อม paste) — Notion rebuild 74 blocks + Status published — publish archive: web-archive/20261114-focus-clip-summary-publish.md · r1: ...-benz-r1-critique-gate-real.md — wp_link pending",
     "date": "2026-11-14",
     "origin": "owner directive: เวอร์ชัน clip-summary ของคลิป focus sprint เดียวกับ #114 — เปิดกรอบฟังจริง + fact ที่ ดร.ซาร่า อธิบาย + สรุปง่าย + ปิดแบบ adduckivity",
     "file": "/home/lifetofree/hermes-agent/content-study/vault/posts/20261114-cnt-focus-clip-summary.md",
