@@ -1,4 +1,6 @@
 <!--
+CLOSED 2026-11-15: Benz r2 (real — archive web-archive/20261115-starship-catch-return-benz-r2-critique-feedback-loop.md, quote-verify 6/6 HIT รวมจับพิมพ์ผิด ฐานยิ่ง→ฐานยิง) + gate ใน paste → Benz เลือกแกน Feedback Loop → owner publish (archive web-archive/20261115-starship-catch-return-public-publish.md) — grade ผ่าน: axis KEEP 8/8, DEAD (มือรับ/แผนสำรอง/จุดรับงานกลับ) = 0, facts 10/10, owner-call notes: ผม×1 '?'×3 เพราะ×1 เรา×18 ไม่มี quote block (bold line แทน) — Notion rebuild 50 blocks Status published — ไฟล์นี้คือ v1-v2 ประวัติ
+
 Status: draft v2 (2026-11-15 — self-critique Benz-DNA r1 → gate answer "แหล่งพูดชัด" → branch A | v1 snapshot: web-archive/20261115-cnt-starship-catch-return-v1.md | critique: web-archive/20261115-starship-catch-return-benz-self-r1-critique.md)
 pair #118 (starship-catch-return) — CURRENT FORM news-event single — ORIGIN: owner brief 2026-11-15 "หาข่าว spacex ใช้แขนรับยาน starship กลับสู่โลก แล้วเอามา draft เป็น content"
 RESEARCH: research/spacex-starship-ship-catch-research.md (3 สำนักโดยตรง: space.com / BBC / CNBC — fetch เต็ม; ผ่านเกณฑ์ ≥3 แหล่งอิสระ)
