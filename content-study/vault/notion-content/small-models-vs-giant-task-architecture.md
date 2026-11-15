@@ -65,4 +65,4 @@ Nemotron-Orchestrator 8B ทำคะแนนการตัดสินใจ�
 #Adduckivity #DuckOS #NeuroDivergent #AI #SmallModels #LocalAI #SystemThinking #TechOps
 ===========
 
-*Synced: 2026-11-08 10:30 +07 · [Notion](https://www.notion.so/411df8d88d8c8026a32aeee9b0fc7a76) · ✅ Published*
+*Synced: 2026-11-15 10:30 +07 · [Notion](https://www.notion.so/411df8d88d8c8026a32aeee9b0fc7a76) · ✅ Published*

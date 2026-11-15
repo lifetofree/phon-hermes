@@ -6,7 +6,7 @@ name: "🎬 System in Action"
 
 # 🎬 System in Action
 
-12 content (12 published, 0 ยังไม่ published)
+14 content (14 published, 0 ยังไม่ published)
 
 ## ✅ Published
 
@@ -22,3 +22,5 @@ name: "🎬 System in Action"
 - [[automation-blindspot-blood-fridge-watchdog|ตู้เย็นเก็บเลือดที่ถูกสั่งให้ร้อน และคนที่ตื่นอย]] — 2026-11-06
 - [[thinkrail-agent-concurrency-git-worktree|ThinkRail — จัดการงาน Agent หลายชิ้นพร้อมกัน โดย]] — 2026-11-07
 - [[small-models-vs-giant-task-architecture|5 ใน 7 โมเดลเล็กชนะงานของตัวใหญ่ด้วยตัวเลข — อีก]] — 2026-11-08
+- [[ai-agent-delegation-approval-gates|มอบงานทั้งวันให้ AI — จุดอนุมัติที่ดี ต้องทำให้เ]] — 2026-11-09
+- [[gpt6-cyber-discovery-bottleneck-triage|GPT-6 Cyber — โมเดลที่ค้นพบช่องโหว่ได้เป็นชุด แล]] — 2026-11-09

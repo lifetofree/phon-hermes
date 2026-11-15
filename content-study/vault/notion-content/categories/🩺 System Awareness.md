@@ -6,7 +6,7 @@ name: "🩺 System Awareness"
 
 # 🩺 System Awareness
 
-32 content (28 published, 4 ยังไม่ published)
+37 content (33 published, 4 ยังไม่ published)
 
 ## ✅ Published
 
@@ -38,6 +38,11 @@ name: "🩺 System Awareness"
 - [[zero-click-exploit-targeted-attack-defense|เครื่องที่โดนเลือก ไม่ใช่เครื่องที่พลาด]] — 2026-11-05
 - [[bank-ai-integration-access-retention-deletion|Claude ต่อธนาคารได้แล้ว — แต่ถอนบัญชีแล้ว ข้อมูล]] — 2026-11-06
 - [[social-proof-proselytizing-dissonance|บางครั้งการชวนคนอื่นมาเชื่อ คือวิธีทำให้เราเชื่อ]] — 2026-11-06
+- [[amazon-alexa-text-buying-friction-buffer|สั่งของด้วยข้อความ — เมื่อ AI ลดขั้นตอนซื้อ เราต]] — 2026-11-08
+- [[airline-data-breach-supply-chain-amadeus|รายชื่อสายการบินดังออกมาทีละแห่ง — แต่เราเลือกไม]] — 2026-11-10
+- [[busy-thinking-stimulus-response-gap|คิดไม่เป็น — หรือไม่ได้คิด เมื่อความยุ่งกินช่องว]] — 2026-11-10
+- [[temporal-attention-countdown-presence|เวลาของเรา ก็กำลังนับถอยหลังอยู่เช่นกัน]] — 2026-11-12
+- [[event-vs-story-stop-repeating-pain|ชีวิตมันยาก หรือเรากำลังทำให้มันยากขึ้นด้วยความค]] — 2026-11-14
 
 ## · ยังไม่ published
 

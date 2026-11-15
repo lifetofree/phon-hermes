@@ -6,7 +6,7 @@ name: "Productivity"
 
 # Productivity
 
-37 content (35 published, 2 ยังไม่ published)
+39 content (37 published, 2 ยังไม่ published)
 
 ## ✅ Published
 
@@ -45,6 +45,8 @@ name: "Productivity"
 - [[four-thousand-weeks-time-trap|ความสงบไม่ได้มาจากการทำครบทุกอย่าง: 3 คำสั่งรีเซ]] — 2026-09-13
 - [[agent-runtime-vs-manual-chatbot|พรไม่ได้เปิด AI — แต่งานเกิดไปแล้ว]] — 2026-10-07
 - [[screenshot-workflow-cost-snapzy-vs-cleanshot|Snapzy — แอป Screenshot ฟรีบน Mac ที่ทำให้พรกลับ]] — 2026-10-12
+- [[gpt6-cyber-discovery-bottleneck-triage|GPT-6 Cyber — โมเดลที่ค้นพบช่องโหว่ได้เป็นชุด แล]] — 2026-11-09
+- [[focus-sprint-bounded-output-definition-of-done|ทำงานทั้งวัน แต่ทำไมยังรู้สึกว่าไม่มีอะไรเสร็จ?]] — 2026-11-15
 
 ## · ยังไม่ published
 

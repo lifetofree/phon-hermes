@@ -6,7 +6,7 @@ name: "🔥 Law 2: Action > Motivation"
 
 # 🔥 Law 2: Action > Motivation
 
-33 content (31 published, 2 ยังไม่ published)
+34 content (32 published, 2 ยังไม่ published)
 
 ## ✅ Published
 
@@ -41,6 +41,7 @@ name: "🔥 Law 2: Action > Motivation"
 - [[closed-task-persistent-attention-full|ปิดงานไปแล้วหนึ่งชิ้น — แต่ทำไมพรยังรู้สึกเต็มเห]] — 2026-10-14
 - [[read-what-you-love-action-precedes-motivation|อ่านสิ่งที่รัก จนกว่าจะรักการอ่าน]] — 2026-10-24
 - [[one-year-360-posts-system-over-inspiration|หนึ่งปี 360 โพสต์ — ตัวเลขที่บอกว่าเดินมาได้เพรา]] — 2026-11-01
+- [[focus-sprint-bounded-output-definition-of-done|ทำงานทั้งวัน แต่ทำไมยังรู้สึกว่าไม่มีอะไรเสร็จ?]] — 2026-11-15
 
 ## · ยังไม่ published
 

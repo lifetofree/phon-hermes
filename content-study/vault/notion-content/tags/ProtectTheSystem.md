@@ -6,7 +6,7 @@ name: "ProtectTheSystem"
 
 # ProtectTheSystem
 
-4 content (4 published, 0 ยังไม่ published)
+5 content (5 published, 0 ยังไม่ published)
 
 ## ✅ Published
 
@@ -14,3 +14,4 @@ name: "ProtectTheSystem"
 - [[the-power-of-omission|พลังของการ "ตัดทิ้ง" (The Power of Omission)]] — 2026-03-30
 - [[system-dependency-fallback-limits|ระบบที่ล็อกไว้แล้ว ก็ยังมีวันพัง — เพราะเราไม่ได]] — 2026-11-02
 - [[system-authorization-vs-execution-freezer-case|ตู้แช่ไม่ได้พัง มันทำตามคำสั่งได้สำเร็จ]] — 2026-11-04
+- [[busy-thinking-stimulus-response-gap|คิดไม่เป็น — หรือไม่ได้คิด เมื่อความยุ่งกินช่องว]] — 2026-11-10

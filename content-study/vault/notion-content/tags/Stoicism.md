@@ -6,7 +6,7 @@ name: "Stoicism"
 
 # Stoicism
 
-16 content (15 published, 1 ยังไม่ published)
+18 content (17 published, 1 ยังไม่ published)
 
 ## ✅ Published
 
@@ -25,6 +25,8 @@ name: "Stoicism"
 - [[task-logger-memento-mori|Task Logger — Memento Mori ที่ทำงานได้จริง ไม่ใช]] — 2026-09-08
 - [[breath-count-data-versus-unknown|ตอนมองเขาหายใจ — พรเผลอนับสิ่งที่ลมหายใจไม่ได้บอ]] — 2026-10-07
 - [[stress-deconstruction-dichotomy-of-control|เครียดมาแล้ว — แต่เครียดกับอะไร]] — 2026-10-27
+- [[busy-thinking-stimulus-response-gap|คิดไม่เป็น — หรือไม่ได้คิด เมื่อความยุ่งกินช่องว]] — 2026-11-10
+- [[temporal-attention-countdown-presence|เวลาของเรา ก็กำลังนับถอยหลังอยู่เช่นกัน]] — 2026-11-12
 
 ## · ยังไม่ published
 

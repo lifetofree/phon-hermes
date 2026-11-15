@@ -6,7 +6,7 @@ name: "🛠️ Decision Protocol"
 
 # 🛠️ Decision Protocol
 
-46 content (46 published, 0 ยังไม่ published)
+54 content (54 published, 0 ยังไม่ published)
 
 ## ✅ Published
 
@@ -55,4 +55,12 @@ name: "🛠️ Decision Protocol"
 - [[social-proof-proselytizing-dissonance|บางครั้งการชวนคนอื่นมาเชื่อ คือวิธีทำให้เราเชื่อ]] — 2026-11-06
 - [[thinkrail-agent-concurrency-git-worktree|ThinkRail — จัดการงาน Agent หลายชิ้นพร้อมกัน โดย]] — 2026-11-07
 - [[map-is-not-territory-real-process|ถามทางสักครั้ง แล้วเจอว่างานที่ลำบากอยู่ทุกวัน ค]] — 2026-11-07
+- [[amazon-alexa-text-buying-friction-buffer|สั่งของด้วยข้อความ — เมื่อ AI ลดขั้นตอนซื้อ เราต]] — 2026-11-08
 - [[small-models-vs-giant-task-architecture|5 ใน 7 โมเดลเล็กชนะงานของตัวใหญ่ด้วยตัวเลข — อีก]] — 2026-11-08
+- [[ai-agent-delegation-approval-gates|มอบงานทั้งวันให้ AI — จุดอนุมัติที่ดี ต้องทำให้เ]] — 2026-11-09
+- [[gpt6-cyber-discovery-bottleneck-triage|GPT-6 Cyber — โมเดลที่ค้นพบช่องโหว่ได้เป็นชุด แล]] — 2026-11-09
+- [[busy-thinking-stimulus-response-gap|คิดไม่เป็น — หรือไม่ได้คิด เมื่อความยุ่งกินช่องว]] — 2026-11-10
+- [[nvidia-openshell-cncf-open-source-governance|Nvidia ส่ง OpenShell ให้ CNCF ดูแลแล้ว — แต่อยู่]] — 2026-11-11
+- [[mistral-trillion-open-weights-access-vs-verification|Mistral เปิด Open Weight โมเดลล้านล้านพารามิเตอร]] — 2026-11-11
+- [[big-five-ocean-spectrum-over-labels|Big Five — แบบจำลองบุคลิกภาพที่วัดคนเป็นมาตราส่ว]] — 2026-11-13
+- [[federer-on-equity-ownership-over-fees|Federer เลือกถือหุ้นใน On — จากค่าตัวนักกีฬา สู่]] — 2026-11-16

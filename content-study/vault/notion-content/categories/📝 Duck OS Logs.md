@@ -6,7 +6,7 @@ name: "📝 Duck OS Logs"
 
 # 📝 Duck OS Logs
 
-9 content (6 published, 3 ยังไม่ published)
+10 content (7 published, 3 ยังไม่ published)
 
 ## ✅ Published
 
@@ -16,6 +16,7 @@ name: "📝 Duck OS Logs"
 - [[the-black-box-protocol-logs-05|เรื่องดีๆ ไม่ค่อยจำ เรื่องห่วยแตกซ้ำๆ กลับจำได้น]] — 2026-05-09
 - [[breath-count-data-versus-unknown|ตอนมองเขาหายใจ — พรเผลอนับสิ่งที่ลมหายใจไม่ได้บอ]] — 2026-10-07
 - [[one-year-360-posts-system-over-inspiration|หนึ่งปี 360 โพสต์ — ตัวเลขที่บอกว่าเดินมาได้เพรา]] — 2026-11-01
+- [[kintsugi|รอยทองไม่ได้ทำให้ความเสียหายกลายเป็นเรื่องดี]] — 2026-11-14
 
 ## · ยังไม่ published
 

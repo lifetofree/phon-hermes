@@ -6,7 +6,7 @@ name: "AIAgent"
 
 # AIAgent
 
-4 content (4 published, 0 ยังไม่ published)
+5 content (5 published, 0 ยังไม่ published)
 
 ## ✅ Published
 
@@ -14,3 +14,4 @@ name: "AIAgent"
 - [[lm-studio-bionic-local-agent|Bionic — agent ตัวแรกที่ code ของคุณไม่เคยออกจาก]] — 2026-09-17
 - [[agent-runtime-vs-manual-chatbot|พรไม่ได้เปิด AI — แต่งานเกิดไปแล้ว]] — 2026-10-07
 - [[ai-agent-model-vs-harness-body-brain|ถ้า AI เป็นคน โมเดลคือสมอง แล้ว harness คือทุกส่]] — 2026-11-04
+- [[gpt6-cyber-discovery-bottleneck-triage|GPT-6 Cyber — โมเดลที่ค้นพบช่องโหว่ได้เป็นชุด แล]] — 2026-11-09

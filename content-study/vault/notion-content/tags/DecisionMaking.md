@@ -6,7 +6,7 @@ name: "DecisionMaking"
 
 # DecisionMaking
 
-10 content (10 published, 0 ยังไม่ published)
+11 content (11 published, 0 ยังไม่ published)
 
 ## ✅ Published
 
@@ -20,3 +20,4 @@ name: "DecisionMaking"
 - [[free-trial-reading-data-vs-runtime-data|ฟรีหนึ่งเดือน — แต่ข้อมูลที่ช่วยตัดสินใจว่าจะจ่า]] — 2026-10-23
 - [[prevention-vs-firefighting-visibility-bias|เก่งแก้ปัญหา กับ ไม่ให้ปัญหาเกิด — เป็นสองงานที่]] — 2026-11-03
 - [[blind-spots-counting-fallacy-margin-of-safety|คนที่ Blind Spot น้อยชนะ — แต่เราอาจนับของตัวเอง]] — 2026-11-03
+- [[busy-thinking-stimulus-response-gap|คิดไม่เป็น — หรือไม่ได้คิด เมื่อความยุ่งกินช่องว]] — 2026-11-10

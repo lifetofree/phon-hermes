@@ -55,5 +55,25 @@ System > List Length. Slice it, top it, close it — ปกป้อง PFC ข�
 .
 #Adduckivity #DuckOS #NeuroDivergent #ZeigarnikEffect #ChoiceOverload #ToDoList #SystemThinking
 ===========
+===========
+โพสต์ที่ 1 (Hook + Problem):
+เคยเปิด To-do list ออกมา แล้วแค่ "มอง" มัน — ยังไม่ทันแตะงานเลย — ก็รู้สึกเหนื่อย เหมือนเพิ่งวิ่งขึ้นบันได 10 ชั้นเสร็จมั้ยคับ?
+แล้วเราก็ดันไปเสียเวลาจัดหมวด ติด tag เรียงเลข 1-2-3 ไปอีก 40 นาที... โดยที่งานจริงยังไม่เริ่มสักชิ้น
+ความจริงคือ คุณไม่ได้ขี้เกียจคับ
+ในทางประสาทวิทยา ลิสต์ยาว 20 ข้อ = 20 Open Loops ที่ถือ RAM สมองค้างไว้พร้อมกัน
+มันคือ Memory Leak ที่กำลังสูบแบตสมองส่วนหน้า (PFC) ของคุณอยู่ทุกวินาทีที่มองคับ 🧵👇
+โพสต์ที่ 2 (The 3 System Errors):
+ทำไมลิสต์ยาวถึงทำระบบพัง? (3 Errors ในภาษาวิศวกร):
+โพสต์ที่ 3 (Protocol: LIST-01):
+วิธีแก้ไม่ใช่การเค้นวินัยเคลียร์ให้หมด ลองทำตามนี้ดู :
+โพสต์ที่ 4 (Duck OS Boundary & Closing):
+มุมมองของ Duck OS (System > Emotion):
+การนั่งจัดระเบียบลิสต์คือ Activity ที่สูบพลังงาน โดยได้ผลลัพธ์เป็นศูนย์
+แต่การดึงงานบนสุดมาปิดให้จบ คือการสร้าง Asset ชิ้นแรกที่จุดแรงส่งให้ระบบเดินต่อได้เอง
+To-do list ยาว ≠ ความรับผิดชอบ
+Less is not lazy — แต่มันคือสถาปัตยกรรมเดียวที่พลังงานไม่รั่วไหล
+System > List Length.
+Slice it, top it, close it — ประคองระบบของคุณไว้คับ 🦆
+#Adduckivity #DuckOS #NeuroDivergent #ToDoList #SystemThinking
 
-*Synced: 2026-11-02 19:54 +07 · [Notion](https://www.notion.so/3dfdf8d88d8c802999bddef318357c9b) · ✅ Published*
+*Synced: 2026-11-15 10:30 +07 · [Notion](https://www.notion.so/3dfdf8d88d8c802999bddef318357c9b) · ✅ Published*

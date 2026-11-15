@@ -6,7 +6,7 @@ name: "⚙️ System Core"
 
 # ⚙️ System Core
 
-101 content (97 published, 4 ยังไม่ published)
+105 content (101 published, 4 ยังไม่ published)
 
 ## ✅ Published
 
@@ -107,6 +107,10 @@ name: "⚙️ System Core"
 - [[big-tech-battle-ground-level-tools|ปล่อยให้พวกใหญ่สู้กันเอง — สิ่งที่ร่วงลงมาถึงพื้]] — 2026-11-02
 - [[cognitive-dissonance-double-standard-reality|เมื่อผลลัพธ์ไม่ตรงกับที่เชื่อ — เราเปลี่ยนใจ หรื]] — 2026-11-05
 - [[map-is-not-territory-real-process|ถามทางสักครั้ง แล้วเจอว่างานที่ลำบากอยู่ทุกวัน ค]] — 2026-11-07
+- [[nvidia-openshell-cncf-open-source-governance|Nvidia ส่ง OpenShell ให้ CNCF ดูแลแล้ว — แต่อยู่]] — 2026-11-11
+- [[mistral-trillion-open-weights-access-vs-verification|Mistral เปิด Open Weight โมเดลล้านล้านพารามิเตอร]] — 2026-11-11
+- [[big-five-ocean-spectrum-over-labels|Big Five — แบบจำลองบุคลิกภาพที่วัดคนเป็นมาตราส่ว]] — 2026-11-13
+- [[focus-sprint-bounded-output-definition-of-done|ทำงานทั้งวัน แต่ทำไมยังรู้สึกว่าไม่มีอะไรเสร็จ?]] — 2026-11-15
 
 ## · ยังไม่ published
 

@@ -6,7 +6,7 @@ name: "AI"
 
 # AI
 
-17 content (17 published, 0 ยังไม่ published)
+19 content (19 published, 0 ยังไม่ published)
 
 ## ✅ Published
 
@@ -27,3 +27,5 @@ name: "AI"
 - [[zcode-125-days-execution-vs-judgment|ZCode ผ่านมือ 125 วัน — คนตัดสินยังเป็นคนเดิม แต]] — 2026-11-06
 - [[bank-ai-integration-access-retention-deletion|Claude ต่อธนาคารได้แล้ว — แต่ถอนบัญชีแล้ว ข้อมูล]] — 2026-11-06
 - [[small-models-vs-giant-task-architecture|5 ใน 7 โมเดลเล็กชนะงานของตัวใหญ่ด้วยตัวเลข — อีก]] — 2026-11-08
+- [[nvidia-openshell-cncf-open-source-governance|Nvidia ส่ง OpenShell ให้ CNCF ดูแลแล้ว — แต่อยู่]] — 2026-11-11
+- [[mistral-trillion-open-weights-access-vs-verification|Mistral เปิด Open Weight โมเดลล้านล้านพารามิเตอร]] — 2026-11-11

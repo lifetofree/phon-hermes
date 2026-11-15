@@ -6,7 +6,7 @@ name: "📚 Asset Library"
 
 # 📚 Asset Library
 
-15 content (15 published, 0 ยังไม่ published)
+16 content (16 published, 0 ยังไม่ published)
 
 ## ✅ Published
 
@@ -25,3 +25,4 @@ name: "📚 Asset Library"
 - [[lm-studio-bionic-local-agent|Bionic — agent ตัวแรกที่ code ของคุณไม่เคยออกจาก]] — 2026-09-17
 - [[tech-llamacpp-infra-engine|27B ที่เคยต้องพึ่ง datacenter วันนี้รันในห้องนอน]] — 2026-09-21
 - [[recompilable-asset-library|เว็บของพรไม่ได้มีไว้เก็บ 284 โพสต์ — มันมีไว้ทำใ]] — 2026-09-24
+- [[federer-on-equity-ownership-over-fees|Federer เลือกถือหุ้นใน On — จากค่าตัวนักกีฬา สู่]] — 2026-11-16

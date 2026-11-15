@@ -6,7 +6,7 @@ name: "Mindset"
 
 # Mindset
 
-18 content (18 published, 0 ยังไม่ published)
+22 content (22 published, 0 ยังไม่ published)
 
 ## ✅ Published
 
@@ -28,3 +28,7 @@ name: "Mindset"
 - [[cognitive-dissonance-double-standard-reality|เมื่อผลลัพธ์ไม่ตรงกับที่เชื่อ — เราเปลี่ยนใจ หรื]] — 2026-11-05
 - [[cognitive-dissonance-data-vs-belief|ของที่ถูกแก้ก่อน มักเป็นข้อมูล ไม่ใช่ความเชื่อ]] — 2026-11-05
 - [[social-proof-proselytizing-dissonance|บางครั้งการชวนคนอื่นมาเชื่อ คือวิธีทำให้เราเชื่อ]] — 2026-11-06
+- [[amazon-alexa-text-buying-friction-buffer|สั่งของด้วยข้อความ — เมื่อ AI ลดขั้นตอนซื้อ เราต]] — 2026-11-08
+- [[ai-agent-delegation-approval-gates|มอบงานทั้งวันให้ AI — จุดอนุมัติที่ดี ต้องทำให้เ]] — 2026-11-09
+- [[busy-thinking-stimulus-response-gap|คิดไม่เป็น — หรือไม่ได้คิด เมื่อความยุ่งกินช่องว]] — 2026-11-10
+- [[event-vs-story-stop-repeating-pain|ชีวิตมันยาก หรือเรากำลังทำให้มันยากขึ้นด้วยความค]] — 2026-11-14
