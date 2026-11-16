@@ -1,0 +1,5 @@
+videos/*.mp4
+videos/*.partial
+audio/*.wav
+*.wav
+*.mp4
