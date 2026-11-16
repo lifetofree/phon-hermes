@@ -3,3 +3,6 @@ videos/*.partial
 audio/*.wav
 *.wav
 *.mp4
+json/
+__pycache__/
+*.pyc
