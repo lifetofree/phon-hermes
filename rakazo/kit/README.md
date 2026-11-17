@@ -13,9 +13,19 @@ owner (สั่งทาง Telegram ถึง Hermes เหมือนเด�
 
 ## ไฟล์ใน kit
 
-- `adduck-writer.md` — skill หลัก สำหรับวางใน Rakazo (Skills → New skill → วางเนื้อหา)
+- `adduck-writer.md` — skill เขียน สำหรับวางใน Rakazo (Skills → New skill → วางเนื้อหา)
+- `benz-critic.md` — skill **ตรวจ** (fact-check ข้ามแหล่ง + Benz-DNA critique) สำหรับวางเป็น skill ที่สองชื่อ "benz-critic"
 - `adduck-SOUL.md` — สำเนา SOUL ของ adduck สำหรับให้ bot อ่านผ่าน mount (ต้นฉบับ: ~/.hermes/profiles/adduck/SOUL.md — แก้ที่ต้นฉบับแล้ว sync มาที่นี่เท่านั้น)
 - `../youtube-library-sync-brief.md` — บรีฟ sync ตาราง YouTube Library → markdown → GitHub (แยกต่างหากจาก kit เขียนบท)
+
+## Full loop เขียน → ตรวจ (kit คู่)
+
+1. **adduck-writer** เขียน draft → Content Drafts (Status=draft) เสมอ
+2. **benz-critic** ตรวจ: fact-check ทุก claim ข้ามแหล่ง ≥3 (primary ก่อน, คำกล่าวผู้ผลิต = reported speech) + quote-verify ในโค้ด + baselines + critique 5-8 จุด + gate A/B/C → archive `/mnt/inbox/critiques/`
+3. **Hermes** รับ archive + gate → ยกรายงาน owner → owner ตอบ gate (ทาง Telegram เดิม)
+4. การ rewrite ตาม gate = adduck-writer (หรือ Hermes) — benz-critic **ไม่ rewrite งานตัวเอง และ critique ไม่ใช่การรับรอง** (Benz r1 จริง/owner ยังตัดสินขั้นสุด)
+
+ข้อจำกัดของ benz-critic: บอทต้องมี computer sandbox + network (fact-check ต้องค้นเว็บจริง) — ถ้าค้นไม่ได้ ทุก claim อยู่สถานะ UNVERIFIED และต้องรายงานตามจริง
 
 ## Setup ฝั่ง Rakazo (owner ทำครั้งเดียว)
 
