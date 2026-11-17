@@ -27,6 +27,13 @@ owner (สั่งทาง Telegram ถึง Hermes เหมือนเด�
 
 ข้อจำกัดของ benz-critic: บอทต้องมี computer sandbox + network (fact-check ต้องค้นเว็บจริง) — ถ้าค้นไม่ได้ ทุก claim อยู่สถานะ UNVERIFIED และต้องรายงานตามจริง
 
+## ทางสำรอง (fallback) — แก้ draft เมื่อติดต่อฝั่งใดฝั่งหนึ่งไม่ได้
+
+- **benz-critic**: ยังตรวจได้ปกติ (read-only) — ส่ง archive ผ่าน `/mnt/inbox/critiques/` เหมือนเดิม
+- **adduck-writer**: เข้า **FALLBACK REWRITE MODE** ได้เมื่อ owner สั่งแก้ตรงพร้อม change spec — กฎ: snapshot เวอร์ชันเดิมก่อนแก้ (`/mnt/inbox/archives/`) → แก้ตาม spec เท่านั้น → เขียน changelog (`/mnt/inbox/rewrites/<slug>-changelog.md`) → Status ไม่เกิน `rewritten` ห้าม `published` เด็ดขาด
+- **ขอบเขตที่ไม่หลวมแม้ตอนฉุกเฉิน**: ห้ามแตะ publish master (Adduckivity Content), WordPress, main branch, Books; ห้ามตัดสิน gate แทน owner
+- **Reconcile ฝั่ง Hermes เมื่อกลับมา** (งานของ Hermes เอง): อ่าน `/mnt/inbox/rewrites/` + `archives/` + changelog → archive ทั้งหมดเข้า `web-archive/` → รัน battery ซ้ำ → sync index.json/Notion state → รายงาน owner ว่าต้อง merge/publish อะไรต่อ
+
 ## Setup ฝั่ง Rakazo (owner ทำครั้งเดียว)
 
 1. Notion MCP: Integrations → + → MCP server → `https://mcp.notion.com/mcp` → OAuth
