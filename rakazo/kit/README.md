@@ -27,6 +27,10 @@ owner (สั่งทาง Telegram ถึง Hermes เหมือนเด�
 
 ข้อจำกัดของ benz-critic: บอทต้องมี computer sandbox + network (fact-check ต้องค้นเว็บจริง) — ถ้าค้นไม่ได้ ทุก claim อยู่สถานะ UNVERIFIED และต้องรายงานตามจริง
 
+## รู้จักตัวตนพร (phon-identity)
+
+bot อ่านตัวตน/เสียงพรได้จาก mount `/mnt/hermes-agent` (RO) — ลำดับไฟล์ที่ต้องอ่านก่อนเขียนทุกงาน + กฎการใช้ corpus อยู่ใน **`phon-identity.md`** (ไฟล์เดียวกันนี้ใน kit) — สั่ง bot ด้วยประโยคเดียว: "ก่อนเขียน อ่าน /mnt/hermes-agent/rakazo/kit/phon-identity.md ให้ครบตามลำดับ"
+
 ## ทางสำรอง (fallback) — แก้ draft เมื่อติดต่อฝั่งใดฝั่งหนึ่งไม่ได้
 
 - **benz-critic**: ยังตรวจได้ปกติ (read-only) — ส่ง archive ผ่าน `/mnt/inbox/critiques/` เหมือนเดิม
