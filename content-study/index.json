@@ -5110,7 +5110,7 @@
   "date": "2026-11-18",
   "slug": "20261118-cnt-contrast-bath-evidence-ceiling",
   "title": "Contrast Bath — แช่ร้อนสลับเย็นชนะการนอนพักเฉยได้จริง แต่ยังไม่มีใครพิสูจน์ว่ามันชนะวิธีพักแบบอื่น",
-  "status": "rewritten v2 (2026-11-18 — v1 external-model draft, agent review fact-check 9/9 vs primary (PLoS/PMC/PubMed/Crossref) quote verbatim HIT, 3 word-fixes → owner \"rewrite มาเลย\" + real case 17 พ.ย. (บ่อร้อน ~40/เย็น ~5 venue-reported, 3–5 นาที × 4–5 รอบ, ตัวเบา สบายตัว) → v2: owner-event opener (พร narrates) + case = live example ของ \"โปรโตคอลไม่มีมาตรฐาน\"; battery 166wc PASS (พร 2 real + FP แพร่หลาย 1, เรา 1 closer, CUT 0, เลขอารบิก 0); Notion rebuild 42 blocks verify ครบ Status rewritten — รอ Benz r1)",
+  "status": "Benz r1 REAL received 2026-11-18 (archive: web-archive/20261118-contrast-bath-benz-r1-critique-gate-real.md — quote-verify 9/9 HIT, facts 4/4 TRUE; 5 จุดแก้ + keeps 4 + title/subtitle ใหม่ที่ Benz เสนอ + order 6 beats; GATE = B เลือกโดย Benz เอง in-paste; publish keys K1-K11 ใน archive header; Benz สั่งห้ามเพิ่มข้อมูล — reorder+sharpen เท่านั้น) — หน้า Notion 41cdf8d8-... UNTOUCHED Status rewritten — รอ owner public version หรือสั่ง agent rewrite ตาม keys",
   "notion": "41cdf8d8-8d8c-8163-874b-d1f2117675d8",
   "file": "/home/lifetofree/hermes-agent/content-study/vault/posts/20261118-cnt-contrast-bath-evidence-ceiling.md",
   "note": "v1 snapshot: web-archive/20261118-cnt-contrast-bath-v1-external.md | research node: KB 41bdf8d8-8d8c-8132-94cb-cbc4326aa30b"
