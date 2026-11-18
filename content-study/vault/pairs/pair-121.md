@@ -1,19 +1,16 @@
 ---
 pair: 121
-hash: 61079f9ed6-f3ae00
-date: 20261104
+hash: 3eaae1d34a-507104
+date: 20261118
 ---
 
-# บางครั้งการชวนคนอื่นมาเชื่อ คือวิธีทำให้เราเชื่อได้ต่อ (share-to-keep publish)
+# Rakazo บนเครื่องเราเอง — บันทึก 3 วันแรกที่ทีม AI ทำงานจริงบน Docker
 
-- **status:** published (share-to-keep pair CLOSED 2026-11-04 — self-critique → v2 → Benz r1 real (จุด A = ประโยคที่ v2 เพิ่มเอง) + gate B + post-gate spec → owner public version 66wc = 1.03×; keys 7/7; archives 20261104-share-to-keep-{benz-r1-critique-gate-B,public-publish}.md — TRUE paste file)
-- **date:** 20261104
-- **words:** 66
-- **form:** CURRENT FORM idea-brief v3 (owner-authored) — แกน B (กลไกยืนยันซ้ำจากคนรอบตัว; การชวน = ส่วนหนึ่งของกลไก) — correlational language, two-layer research, mechanism-link expansion, คำถามสังเกตเปิด + scope-limit sentence, quote ใหม่ evidence-vs-confirmation, เรา 8 / คุณ 0 / '?' 2 / ความมั่นใจ ×4 (owner override — 362)
-- **Notion:** https://app.notion.com/p/40edf8d88d8c81f6ab17fc5b8edefc9b
+- **status:** CLOSED — PUBLISHED pair #121 (2026-11-18, "published with chan"): public version มาในแชต (inline, archive provisional web-archive/20261118-rakazo-local-docker-publish.md) — grade keys K1-K8: 6 HIT + K1/K2 = PARTIAL-BY-DESIGN (owner เลือก register สืบสวนต่อ — คำตอบ timeline ที่ยืนยันแล้วไม่ถูก assert, เก็บไว้ใน benz-r1 archive เป็นข้อเท็จจริงภายในทีม) — DEAD 3/3 ศูนย์ (ปลอดภัยเพราะ Docker / ไม่ต้องจ่ายค่า API ใหม่ / timeline เดิม) — keeps 4/4 (process-line reword "Agent ทำงานเสร็จ ไม่ได้แปลว่ากระบวนการส่งมอบงานเสร็จด้วย" function intact) — 7 beats ตามโครง — publish 525wc = 1.95× v1 — production page owner-built ใน Content DB 41cdf8d8-8d8c-8158 (🔴 Core) UNTOUCHED ตาม lesson 58; หน้า Drafts ยังไม่ flip (รอคำตัดสิน owner ตาม precedent #107); wp_link pending
+- **date:** 20261118
 - **ไฟล์โพสต์:**
-  - [20261104-cnt-share-to-keep-believing](../posts/20261104-cnt-share-to-keep-believing.md)
+  - [20261118-cnt-rakazo-local-docker-first-days](../posts/20261118-cnt-rakazo-local-docker-first-days.md)
 
 ## บันทึก
 
-loop: owner เรียกกิ่ง C หลัง dissonance publish → graduate วัตถุดิบ alone-vs-together (APA primary, บทแม่ใช้แค่ชั้นสังเกต) → draft 62wc battery-pass → file Notion — FP: ธรรมดา (คับ-lookalike); วัตถุดิบคงเหลือในกิ่ง: Hart meta + easy-to-refute → self-critique รอบสอง (4 จุด: ยิ่ง-ยิ่ง=frequency form / หลักฐานหัวใจไร้กลไก / quote-เกณฑ์ไม่เชื่อมกัน / "ทางออกที่ง่ายที่สุด" มีการตัดสินแฝง + งานศึกษา-งานวิจัยสลับ) → gate A → v2: มี block เทียบสองเงื่อนไข + กลไกคำยืนยันซ้ำ, bridge quote-เกณฑ์, "แรงลากที่เบากว่า" (critic line verbatim), งานศึกษาคำเดียวทั้งบท → Notion rebuild verify EXACT → Benz r1 + gate B → public version (TRUE paste): "มีแค่คนข้างเคียง"→"สัมพันธ์กับ" (334), motive-quote แทนด้วย evidence-quote (335), เชื่อมกลไกไม่เหมารวมแรงจูงใจ (336), คำถามเปิด+scope-limit (337) → Notion rebuild 27 blocks EXACT + Status published — skill folds 334-337 + lesson 52 round-2
+sibling guard: #103 zcode-review + 20260904 autoclaw-zcode-combo — axis = self-host deployment + machine-verifiable evidence; secrets 0 (ไม่มีค่าจาก .env, hostname tailnet-only อยู่ Source prop เท่านั้น)

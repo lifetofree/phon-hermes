@@ -4,15 +4,15 @@ type: moc
 
 # Content Study — สารบัญกลาง
 
-- คู่ทั้งหมด: **126** | published: **49** | ยังเปิด: **77**
+- คู่ทั้งหมด: **126** | published: **50** | ยังเปิด: **76**
 - กติกา: [[README]]
 
 ## คู่ล่าสุด
 
 - [[pair-120]] — 20261118 · CLOSED — PUBLISHED pair #120 (2026-11-18): v1 exte
-- [[pair-125]] — 20261118 · draft v1 (TECH first-look จาก deployment จริง — ทุ
+- [[pair-121]] — 20261118 · CLOSED — PUBLISHED pair #121 (2026-11-18, "publish
 - [[pair-119]] — 20261117 · rewritten v4 (pair #119 — Benz r1 REAL received 20
-- [[pair-124]] — 20261115 · 
+- [[pair-125]] — 20261115 · 
 - [[pair-117]] — 20261115 · 
 - [[pair-118]] — 20261115 · 
 - [[pair-114]] — 20261114 · draft v1 (pair #114) — Notion 418df8d8-8d8c-8121-b
@@ -24,14 +24,13 @@ type: moc
 
 ## คู่ที่ยังเปิด
 
-- [[pair-125]] — 20261118 · draft v1 (TECH first-look จาก deployment จริง — ทุ
 - [[pair-119]] — 20261117 · rewritten v4 (pair #119 — Benz r1 REAL received 20
-- [[pair-124]] — 20261115 · 
+- [[pair-125]] — 20261115 · 
 - [[pair-117]] — 20261115 · 
 - [[pair-118]] — 20261115 · 
 - [[pair-114]] — 20261114 · draft v1 (pair #114) — Notion 418df8d8-8d8c-8121-b
 - [[pair-109]] — 20261109 · draft v2 (pair #109 — Benz r1 SIM ด้านสไตล์ 4 จุด 
-- [[pair-123]] — 20261107 · draft (pair ใหม่ รอเลข — brief from thetechlantis 
+- [[pair-124]] — 20261107 · draft (pair ใหม่ รอเลข — brief from thetechlantis 
 - [[pair-082]] — 20261102 · rewritten (pair #82 r1 PRE-REWRITE — Benz r1 + gat
 - [[pair-058]] — 20261021 · 
 - [[pair-057]] — 20261020 · draft
