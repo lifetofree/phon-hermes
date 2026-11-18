@@ -89,3 +89,10 @@
 - Archives: benz-r2-gate3-spec / benz-r3-gate-spec / publish — web-archive/
 - ค้าง: draft mindset 2 ตัว (notion-shared-notebook-harnesses 88wc / thinkrail-isolated-lane 79wc re-check sibling guard)
 - Skill split DONE (owner-approved 2026-11-06): content-critique-cycle + content-notion-ops (+canonical scripts, live-tested) + content-research + fold-index.md — all repo-backed, symlinked into hub/adduck; content-pipeline keeps drafting rules + provenance pointers
+
+## Contrast Bath draft (2026-11-18 — ตรวจแล้ว รอทิศทาง owner ก่อน rewrite)
+
+- Draft จาก model อื่นใน Content Drafts DB `41cdf8d8-8d8c-8163-874b-d1f2117675d8` (Status draft) + research node KB `41bdf8d8-8d8c-8132-94cb-cbc4326aa30b` — ยังไม่มีไฟล์ posts/
+- ตรวจ read-only 2026-11-18: fact-check ผ่านต้นฉบับจริง 9/9 (quote "little evidence for a superior treatment intervention" verbatim HIT; โปรโตคอล 6–24 นาที / เย็น 8–15°C / ร้อน 35.5–45°C / 356 คน / 18 trials เอนเอียงสูง — ตรงเป๊ะจาก PLoS full text + PMC11900007 + PubMed Hing + Crossref); battery 148wc CLEAN — พร "×1" = FP "แพร่หลาย", เรา 1 (closer), '?' 0, เลขอารบิก 0
+- **จุดแก้ 3 จุด รอ rewrite:** (1) "รีวิวเก่าของ Cochrane กับทีม Hing" — Cochrane 2004 = ชื่อสกุลผู้แต่ง (Cochrane Darryl J) ไม่ใช่องค์กร; claim เล่าปากเปล่าเป็นของ Hing 2008 อย่างเดียว ควรเครดิตทีม Hing (2) "ทีมวิจัยเรียก pumping effect" → "pumping action" + เป็นคำวงวรรณกรรม ไม่ใช่ทีมวิจัยตั้ง (3) "อายุระหว่าง 14–36 ปี" → "อายุเฉลี่ยของแต่ละงาน" (ต้นฉบับ: mean ages ranged 14–36) — form เล็ก 2 จุด owner-call: quote block ไม่ bold / ไม่มี beat `.` ก่อน hashtag
+- **Owner direction (2026-11-18): ตอน rewrite ต้องเพิ่มพาร์ทที่พรลอง contrast bath จริงเมื่อวาน (17 พ.ย.)** — รายละเอียดเคส (ที่ไหน / โปรโตคอลร้อน-เย็น / นานเท่าไหร่ / วัดอุณหภูมิไหม / ความรู้สึกหลังทำ) ยังไม่มี — clarify timed out, ให้ถามในแชตตอนเริ่ม rewrite; default ที่แนะถ้า owner ไม่ระบุ: เปิดบทเป็นฉากจริง, จังหวะ = รอ Benz r1 แล้วรวมส่วนพร + จุดที่ Benz จับในรอบเดียว — ข้อระวัง: n=1 ห้ามอ่านเป็นหลักฐานยืนยัน (ต้องเข้ากับแกนเพดาน), register เปลี่ยนเป็นพรพระเอก (lesson 7 grade 1)
