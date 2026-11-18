@@ -4,29 +4,34 @@ type: moc
 
 # Content Study — สารบัญกลาง
 
-- คู่ทั้งหมด: **120** | published: **48** | ยังเปิด: **72**
+- คู่ทั้งหมด: **126** | published: **49** | ยังเปิด: **77**
 - กติกา: [[README]]
 
 ## คู่ล่าสุด
 
+- [[pair-120]] — 20261118 · CLOSED — PUBLISHED pair #120 (2026-11-18): v1 exte
+- [[pair-125]] — 20261118 · draft v1 (TECH first-look จาก deployment จริง — ทุ
+- [[pair-119]] — 20261117 · rewritten v4 (pair #119 — Benz r1 REAL received 20
+- [[pair-124]] — 20261115 · 
+- [[pair-117]] — 20261115 · 
+- [[pair-118]] — 20261115 · 
 - [[pair-114]] — 20261114 · draft v1 (pair #114) — Notion 418df8d8-8d8c-8121-b
 - [[pair-115]] — 20261114 · PUBLISHED (pair #115, clip-summary class ครั้งแรก)
 - [[pair-116]] — 20261114 · PUBLISHED (pair #116, fact-explainer เลนส์ธุรกิจ) 
 - [[pair-113]] — 20261112 · published (pair #113 CLOSED 2026-11-12 — loop: v1 
 - [[pair-110]] — 20261110 · published (pair #110 CLOSED 2026-11-10 — loop: v1 
 - [[pair-111]] — 20261110 · published (pair #111 CLOSED 2026-11-10 — v1 43 → *
-- [[pair-112]] — 20261110 · published (pair #112 CLOSED 2026-11-10 — loop: v1 
-- [[pair-108]] — 20261109 · published (pair #108 CLOSED 2026-11-09 — v1 176 → 
-- [[pair-109]] — 20261109 · draft v2 (pair #109 — Benz r1 SIM ด้านสไตล์ 4 จุด 
-- [[pair-106]] — 20261107 · published (pair #106 CLOSED + correction 2026-11-0
-- [[pair-119]] — 20261107 · draft (pair ใหม่ รอเลข — brief from thetechlantis 
-- [[pair-103]] — 20261106 · published-ready (pair #103 CLOSED 2026-11-06 — own
 
 ## คู่ที่ยังเปิด
 
+- [[pair-125]] — 20261118 · draft v1 (TECH first-look จาก deployment จริง — ทุ
+- [[pair-119]] — 20261117 · rewritten v4 (pair #119 — Benz r1 REAL received 20
+- [[pair-124]] — 20261115 · 
+- [[pair-117]] — 20261115 · 
+- [[pair-118]] — 20261115 · 
 - [[pair-114]] — 20261114 · draft v1 (pair #114) — Notion 418df8d8-8d8c-8121-b
 - [[pair-109]] — 20261109 · draft v2 (pair #109 — Benz r1 SIM ด้านสไตล์ 4 จุด 
-- [[pair-119]] — 20261107 · draft (pair ใหม่ รอเลข — brief from thetechlantis 
+- [[pair-123]] — 20261107 · draft (pair ใหม่ รอเลข — brief from thetechlantis 
 - [[pair-082]] — 20261102 · rewritten (pair #82 r1 PRE-REWRITE — Benz r1 + gat
 - [[pair-058]] — 20261021 · 
 - [[pair-057]] — 20261020 · draft
@@ -128,7 +133,7 @@ type: moc
 
 - [[event-20260925-system-outage]]
 
-## แท็ก (36 ตัว — เรียงตามจำนวนคู่ที่ใช้)
+## แท็ก (37 ตัว — เรียงตามจำนวนคู่ที่ใช้)
 
 - [[DuckOS]] — 19 คู่
 - [[Adduckivity]] — 19 คู่
@@ -144,12 +149,12 @@ type: moc
 - [[Writing]] — 1 คู่
 - [[Urgency]] — 1 คู่
 - [[Trigger]] — 1 คู่
+- [[Space]] — 1 คู่
 - [[Routine]] — 1 คู่
 - [[PrefrontalCortex]] — 1 คู่
 - [[OnePersonBusiness]] — 1 คู่
 - [[MistralLarge4]] — 1 คู่
 - [[LocalLLM]] — 1 คู่
-- [[LearningCurve]] — 1 คู่
 
 ## Research
 
@@ -170,12 +175,14 @@ type: moc
 - [[muse-research]]
 - [[notion-mcp-central-brain-research]]
 - [[ollama-research]]
+- [[opb-gang-mii-summary]]
 - [[orca-research]]
 - [[pegasus-spyware-research]]
 - [[rework-research]]
 - [[scientific-advertising-research]]
 - [[small-specialist-models-research]]
 - [[snapzy-research]]
+- [[spacex-starship-ship-catch-research]]
 - [[superclick-research]]
 - [[tailscale-serve-research]]
 - [[thinkrail-jetbrains-research]]
@@ -193,7 +200,7 @@ type: moc
 
 ## Notion publish master (synced — ห้ามแก้มือ, รัน sync_adduckivity_content.py)
 
-- MOC: [[notion-content/index]] — 260 content
+- MOC: [[notion-content/index]] — 274 content
 - Laws (5): [[⚙️ Law 1- System - Emotion]] · [[🏛️ Philosophy - Stoicism]] · [[🔥 Law 2- Action - Motivation]] · [[🛠️ Decision Protocol]] · [[🛡️ Law 3- Protect System]]
 - Categories (8): [[⚖️ Decision Protocols]] · [[⚙️ System Core]] · [[🎬 System in Action]] · [[📚 Asset Library]] · [[📝 Duck OS Logs]] · [[🛠️ Productivity Hacks]] · [[🛡️ Survival Guide]] · [[🩺 System Awareness]]
 - Tags รวมอยู่ใน tags/ ร่วมกับฝั่ง loops (hub เฉพาะ tag ใช้ ≥3 ครั้ง)
