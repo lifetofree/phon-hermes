@@ -123,15 +123,17 @@ Checks:
 
 ---
 
-## The honest gap
+## Scope of this backup
 
-A backup is only as good as its weakest layer. Current state:
+This repo covers **layer 1 only: the agent definition** — skills, persona, behaviour config.
+Layers 2-4 are handled separately by the owner (Time Machine for the whole machine).
 
-| Layer | Status | Risk |
+| Layer | Covered here | Handled by |
 |---|---|---|
-| Agent definition (skills, SOUL, config) | Backed up weekly to GitHub | Low |
-| Secrets (`.env`, OAuth) | **Not backed up anywhere** | Disk failure = re-issue every key by hand |
-| Memory + chat history (`state.db`, 80 MB) | **Not backed up** | Loss of all continuity |
-| Whole-machine backup (Time Machine) | **Not configured at all** | Any SSD failure = total loss |
+| 1. Agent definition (skills, SOUL, config) | ✅ this repo, weekly | — |
+| 2. Secrets (`.env`, OAuth tokens) | ❌ | Time Machine |
+| 3. Memory + chat history (`state.db`) | ❌ | Time Machine |
+| 4. Whole machine | ❌ | Time Machine |
 
-Time Machine is the single highest-value fix: it covers all four layers at once with zero manual work.
+Restoring layer 1 gives you a working agent with no channel connections and no memory.
+That is intentional: secrets never enter a public repo.
