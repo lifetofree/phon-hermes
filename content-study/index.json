@@ -5138,7 +5138,7 @@
   "date": "2026-11-19",
   "slug": "20261119-cnt-rakazo-automation-use-cases",
   "title": "บอต 8 ตัวรันงานไปแล้ว 270 รอบ — automation ที่ใช้จริงมีทริกเกอร์เดียว",
-  "status": "DRAFT v1 pair #123 (2026-11-19): TECH v2 — routines 9 ทั้งหมด schedule + inactive แล้ว / runs 270 = chat 261 + routine 9 / ทริกเกอร์ 5 ใช้จริง 1 (docs = vendor claims) / use cases 3 ผูกของจริง (watch /mnt/inbox, Git event, habit routine) — battery PASS (CUT 14 all-zero) — รอ Benz r1",
+  "status": "REPOSITION ROUND (Benz, 2026-11-19 — รอ owner อนุมัติทิศทางก่อน rewrite): Benz analysis ผ่านบทสนทนาเปลี่ยนแก่นบทความ — จาก 'automation ที่ใช้จริงมี trigger เดียว' → 'มนุษย์ส่งโจทย์ให้ Chief แล้ว AI ทีมส่งต่องานกันอย่างไร (Human-directed Automation)' — title ใหม่ที่เสนอ: 'คนสั่งงานครั้งเดียว — แล้ว AI ทั้งทีมทำงานต่อกันอย่างไร?' | ข้อมูลใหม่ owner-attested: Chief = orchestrator (ไม่ใช่ pass-through), roles 5 ตัว (Chief/Idea Keeper/Research Scout/Adduck Writer/Product Lead), e-book case study (Human→Chief→Scout→PL→Writer→PL→Chief→Human approval) — machine traces ยืนยันผ่านชื่อ routine จริง (Scout→AW→draft / ยิงบรีฟให้ PL / คำสั่ง Phon / เช็คส่งมอบบท AW e-book Rakazo) | ตัวเลข 270/261/9 demote เป็นหลักฐานประกอบ (run ≠ task; routine runs ≠ automation surface) | correction: 'Add Dark Writer' = STT garble ของ 'Adduck Writer'; roster = 9 ตัว as-of 12:42 (Design Keeper เพิ่มวันนี้) | archive: web-archive/20261119-rakazo-automation-reposition-analysis-benz.md | skill folds 439-442 + critique-cycle reposition-round type",
   "notion": "41ddf8d8-8d8c-816c-8d8e-f1623fe25d83",
   "link": "https://app.notion.com/p/8-270-automation-41ddf8d88d8c816c8d8ef1623fe25d83",
   "file": "/home/lifetofree/hermes-agent/content-study/vault/posts/20261119-cnt-rakazo-automation-use-cases.md",
