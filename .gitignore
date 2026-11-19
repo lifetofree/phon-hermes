@@ -11,3 +11,6 @@ Thumbs.db
 
 # Obsidian workspace (user-local, ไม่ควร commit)
 .obsidian/
+
+# Hermes memories hold personal context; this repo is public
+hermes-profile/memories/
