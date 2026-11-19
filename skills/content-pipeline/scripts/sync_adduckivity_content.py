@@ -40,6 +40,7 @@ SECRET_RES = [
     re.compile(r"\bcf[a-z]{0,6}_[A-Za-z0-9_-]{20,}\b"),                      # Cloudflare-style token
     re.compile(r"\b(?:xox[baprs]-|ghp_|gho_|github_pat_|sk-|rk_)[A-Za-z0-9_-]{20,}\b"),  # Slack/GitHub/OpenAI-style
     re.compile(r"\b[a-f0-9]{40}\b"),                                         # 40-hex API token
+    re.compile(r"\beyJ[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}\b"),  # JWT (Kilo/provider tokens)
 ]
 def redact(t):
     for rx in SECRET_RES:

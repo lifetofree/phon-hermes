@@ -37,7 +37,7 @@ hermes secrets set DISCORD_TOKEN "[REDACTED]"
 hermes secrets set DISCORD_ALLOWED_USERS "781719695241773066"
 DISCORD_TOKEN="[REDACTED]"
 DISCORD_ALLOWED_USERS="781719695241773066"
-hermes auth --provider kilo --api-key "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbnYiOiJwcm9kdWN0aW9uIiwia2lsb1VzZXJJZCI6IjIxOTFmYmI1LWYxNjgtNGM0Yy1hM2Q2LTJjYTc1ZDJlYTA2NCIsImFwaVRva2VuUGVwcGVyIjoiMjk1ZDcyOTktZDkxNy00M2U5LWFlNTItNzdlMzU2ZWRkMzNmIiwidmVyc2lvbiI6MywiaWF0IjoxNzgzMTg1MjM5LCJleHAiOjE5NDA4NjUyMzl9.d0Gp73BpDzTDQzjLPKvBDZGj5mp0YoWPOxZaPiKpKpw" --base-url "https://kilo.ai"
+hermes auth --provider kilo --api-key "[REDACTED]" --base-url "https://kilo.ai"
 ==========
 IG, threads, X(Twitter)
 ==========
