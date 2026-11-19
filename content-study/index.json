@@ -5128,11 +5128,11 @@
   "date": "2026-11-19",
   "slug": "20261119-cnt-rakazo-app-connections",
   "title": "ต่อแอปกับ Rakazo — ระบบเปิดช่องไว้สี่ชั้น แต่บนเครื่องเรามีสองสายที่วิ่งจริง",
-  "status": "DRAFT v1 pair #122 (2026-11-19): TECH v2 ชั้นการเชื่อมต่อ 4 ชั้น vs สถานะจริงบน DB 19 พ.ย. — connections 0 / Notion MCP 2 (77 tools, ลงซ้ำ 2 รายการ) / model credentials 4 / COMPOSIO ว่าง / messaging ไม่มี creds / memory ในตัว 9 เอกสาร — battery PASS (CUT 14 all-zero) — รอ Benz r1",
+  "status": "Benz r1 REAL + Benz-authored publish RECEIVED (2026-11-19) — รอบยังไม่ปิด: quote-verify 5/5 HIT; machine verification DONE (ตอบ ข้อสังเกตก่อนเผยแพร่ ของ Benz): (1) 77 = healthToolCount = จำนวน TOOLS ไม่ใช่บอต ไม่ใช่จำนวนหน้า — bots รวมมี 8 ตัว (2) บอตที่ถูก assign MCP = 2 ตัว (ตัวละรายการ: Chief↔'Notion', Idea Keeper↔'Notion MCP') allowAllTools=true ทั้งคู่ — กลไกจำกัดเครื่องมือรายบอต (allowAllTools/allowedTools) มีในระบบแต่ยังไม่ถูกใช้ (3) สองรายการ MCP ไม่ใช่ตั้งซ้ำ: endpoint เดียวกัน (mcp.notion.com/mcp) แต่ secretId ต่างกัน 2 ค่า + ชื่อต่างกัน + ผูกบอตต่างตัว → ไม่ควรรวม — publish ยังมี factual error 2 จุด ('บอททั้ง 77 ตัว' + '77 Pages') รอ owner ตัดสิน: แก้ 3 ประโยคใน publish / ส่งกลับ Benz / คง v1 — หน้า Notion ยังเป็น v1 ยังไม่ rebuild",
   "notion": "41ddf8d8-8d8c-81cc-ae22-ee2da6f50d99",
   "link": "https://app.notion.com/p/Rakazo-41ddf8d88d8c81ccae22ee2da6f50d99",
   "file": "/home/lifetofree/hermes-agent/content-study/vault/posts/20261119-cnt-rakazo-app-connections.md",
-  "note": "sibling guard: #121 rakazo-local-docker (403/cherry-pick/egress/RAM/compose = 0) + #123 (เขียนพร้อมกัน — axis ช่องทาง vs กลไกจุดงาน) | research: rakazo-integrations-research.md"
+  "note": "sibling guard: #121 rakazo-local-docker (403/cherry-pick/egress/RAM/compose = 0) + #123 (เขียนพร้อมกัน — axis ช่องทาง vs กลไกจุดงาน) | research: rakazo-integrations-research.md | archives: benz-r1-critique-gate-real + benz-reclass-77-answer + publish-benz-authored (web-archive/, byte-identical) | quote-verify 5/5 HIT | skill folds 433-438 (number-unit fidelity / evidence ladder / integration count hygiene / duplicate-key check / quality caveat / pre-publish gate)"
  },
  {
   "date": "2026-11-19",
