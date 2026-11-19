@@ -5123,5 +5123,25 @@
   "notion": "41cdf8d8-8d8c-81d5-89ba-e9c0600baa3a",
   "file": "/home/lifetofree/hermes-agent/content-study/vault/posts/20261118-cnt-rakazo-local-docker-first-days.md",
   "note": "sibling guard: #103 zcode-review + 20260904 autoclaw-zcode-combo — axis = self-host deployment + machine-verifiable evidence; secrets 0 (ไม่มีค่าจาก .env, hostname tailnet-only อยู่ Source prop เท่านั้น)"
+ },
+ {
+  "date": "2026-11-19",
+  "slug": "20261119-cnt-rakazo-app-connections",
+  "title": "ต่อแอปกับ Rakazo — ระบบเปิดช่องไว้สี่ชั้น แต่บนเครื่องเรามีสองสายที่วิ่งจริง",
+  "status": "DRAFT v1 pair #122 (2026-11-19): TECH v2 ชั้นการเชื่อมต่อ 4 ชั้น vs สถานะจริงบน DB 19 พ.ย. — connections 0 / Notion MCP 2 (77 tools, ลงซ้ำ 2 รายการ) / model credentials 4 / COMPOSIO ว่าง / messaging ไม่มี creds / memory ในตัว 9 เอกสาร — battery PASS (CUT 14 all-zero) — รอ Benz r1",
+  "notion": "41ddf8d8-8d8c-81cc-ae22-ee2da6f50d99",
+  "link": "https://app.notion.com/p/Rakazo-41ddf8d88d8c81ccae22ee2da6f50d99",
+  "file": "/home/lifetofree/hermes-agent/content-study/vault/posts/20261119-cnt-rakazo-app-connections.md",
+  "note": "sibling guard: #121 rakazo-local-docker (403/cherry-pick/egress/RAM/compose = 0) + #123 (เขียนพร้อมกัน — axis ช่องทาง vs กลไกจุดงาน) | research: rakazo-integrations-research.md"
+ },
+ {
+  "date": "2026-11-19",
+  "slug": "20261119-cnt-rakazo-automation-use-cases",
+  "title": "บอต 8 ตัวรันงานไปแล้ว 270 รอบ — automation ที่ใช้จริงมีทริกเกอร์เดียว",
+  "status": "DRAFT v1 pair #123 (2026-11-19): TECH v2 — routines 9 ทั้งหมด schedule + inactive แล้ว / runs 270 = chat 261 + routine 9 / ทริกเกอร์ 5 ใช้จริง 1 (docs = vendor claims) / use cases 3 ผูกของจริง (watch /mnt/inbox, Git event, habit routine) — battery PASS (CUT 14 all-zero) — รอ Benz r1",
+  "notion": "41ddf8d8-8d8c-816c-8d8e-f1623fe25d83",
+  "link": "https://app.notion.com/p/8-270-automation-41ddf8d88d8c816c8d8ef1623fe25d83",
+  "file": "/home/lifetofree/hermes-agent/content-study/vault/posts/20261119-cnt-rakazo-automation-use-cases.md",
+  "note": "sibling guard: #121 (403/cherry-pick/egress/RAM/compose = 0) + #122 (เขียนพร้อมกัน — integration catalog แตะแค่ 1 ประโยค) | research: rakazo-automation-research.md"
  }
 ]
