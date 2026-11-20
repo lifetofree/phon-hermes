@@ -5153,5 +5153,15 @@
   "link": "https://app.notion.com/p/Grok-Bot-Rakazo-AI-teammates-41ddf8d88d8c81b5aafdc22aed3b5337",
   "file": "/home/lifetofree/hermes-agent/content-study/vault/posts/20261119-cnt-rakazo-vs-grokbot-twins.md",
   "note": "sibling guard: #121/#122/#123 (ไม่รีเทล deployment ไม่ใช้เลข DB เครื่อง — ไม่ปรากฏเลยในบท) | research: rakazo-grokbot-comparison-research.md — fact Grok Bot = xAI official (news 11 พ.ย. + pricing ตรวจ 19 พ.ย.), fact import = rakazo comparison page (vendor-vs-vendor labeled)"
+ },
+ {
+  "date": "2026-11-20",
+  "slug": "20261120-cnt-rakazo-notion-second-brain",
+  "title": "Rakazo ต่อ Notion เป็น second brain — งานแรกที่ได้คือบอกเราว่าคลังเรารั่วตรงไหน",
+  "status": "DRAFT v1 agent-rewrite pair #125 (2026-11-20): external-draft intake — rakazo bot drafted 2 หน้า (second brain) → owner สั่ง rewrite ในเสียงพร (adduckivity+benz-dna) → rewrite 196wc: แกน = การเชื่อมไม่ใช่งานตั้งค่า / นับคลังทั้งหลัง 251 เล่ม-644 แถว-41 เล่มมีบทจริง / คลังรั่ว 3 จุด (ตรวจโค้ด sync_books_library.py เอง ตรงทุกบรรทัด) / ต้นทุน 429 (180/600 req-min + Retry-After) / duck = second brain วัดที่ของเดิมวนกลับมาเป็นงานได้ — battery PASS CUT 26 all-zero รวมเลขพิษ 77 = 0 — Notion PATCH หน้า rakazo เดิม Status rewritten 33 blocks verify ครบ — รอ Benz r1",
+  "notion": "41edf8d8-8d8c-81f9-907a-e16b15808624",
+  "link": "https://app.notion.com/p/41edf8d88d8c81f9907ae16b15808624",
+  "file": "/home/lifetofree/hermes-agent/content-study/vault/posts/20261120-cnt-rakazo-notion-second-brain.md",
+  "note": "external intake: archives 20261120-rakazo-secondbrain-{draft-v1,sibling}-draft-external.md (byte-true) | sibling page 41edf8d8-8d8c-8106-817f-e6093373cf51 (หนังสือ 251 เล่ม — ยังไม่ rewrite) | voice guide สำหรับบอต: duck-os/Rakazo_Drafting_Voice_Guide.md | fact discipline: ตัวเลขนับของบอต = reported speech, DROPPED 77 บรรทัด/16 แก่น (ยืนยันไม่ได้)"
  }
 ]
