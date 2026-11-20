@@ -28,6 +28,11 @@ rsync -a --delete \
   "$HM/" "$STAGE/"
 # strip embedded git repos so plugins/skills content is stored as real files (gitlinks store nothing)
 find "$STAGE" -mindepth 2 -name ".git" \( -type d -o -type f \) -exec rm -rf {} + 2>/dev/null
+# convert stale gitlink index entries (git add -A does not convert gitlink -> files by itself)
+cd "$REPO"
+git ls-files -s 2>/dev/null | awk '$1=="160000"{print $4}' | while IFS= read -r p; do
+  [ -n "$p" ] && git rm -r --cached -q --ignore-unmatch "$p" 2>>"$LOG"
+done
 log "hermes home rsync done"
 
 # --- 2. state.db: LOCAL ONLY (sqlite online backup, keep 4) ---
