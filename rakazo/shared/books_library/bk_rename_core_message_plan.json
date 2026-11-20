@@ -1,0 +1,223 @@
+[
+ {
+  "book": "Atomic Habits",
+  "db": "304df8d8-8d8c-8002-bce5-c03642fcc8cf",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "Behave: The Biology of Humans at Our Best and Worst ",
+  "db": "314df8d8-8d8c-8094-a60e-ceaafe3135c6",
+  "action": "RENAME -> 'Core Message (ฉบับ PHON)'",
+  "old": "Core Message (ฉบับ PHON / Benz DNA)",
+  "new": "Core Message (ฉบับ PHON)"
+ },
+ {
+  "book": "Brain Hacks: Life-Changing Strategies to Improve Executive Functioning",
+  "db": "4b5df8d8-8d8c-82e0-8257-0179875c9789",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "Business Made Simple",
+  "db": "3e6df8d8-8d8c-80ee-942b-dcfec712ebac",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "Clear Thinking",
+  "db": "312df8d8-8d8c-80a6-9c3c-c4d712d8ed28",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "Deep Work",
+  "db": "30adf8d8-8d8c-80fd-aa04-e29ed00ce435",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "Don't Believe Everything You Think",
+  "db": "3e6df8d8-8d8c-8062-b326-d75a1fc3fdde",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "Dopamine Nation: Finding Balance in the Age of Indulgence",
+  "db": "306df8d8-8d8c-8062-b5dc-e97fefec5817",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "Ego is the Enemy",
+  "db": "314df8d8-8d8c-80cf-b828-ecf27b7deb2c",
+  "action": "RENAME -> 'Core Message (ฉบับ PHON)'",
+  "old": "Core Message (ฉบับ PHON / Benz DNA)",
+  "new": "Core Message (ฉบับ PHON)"
+ },
+ {
+  "book": "Essentialism",
+  "db": "2ffdf8d8-8d8c-8020-bc74-ed5f36610902",
+  "action": "RENAME -> 'Core Message (ฉบับ PHON)'",
+  "old": "Core Message (สรุปแก่นฉบับ PHON)",
+  "new": "Core Message (ฉบับ PHON)"
+ },
+ {
+  "book": "Extra Focus",
+  "db": "3e9df8d8-8d8c-80ef-af24-f2b09e53d1b9",
+  "action": "RENAME -> 'Core Message (ฉบับ PHON)'",
+  "old": "Core Message (ฉบับ PHON)Core Message (ฉบับ PHON)",
+  "new": "Core Message (ฉบับ PHON)"
+ },
+ {
+  "book": "Feel-Good Productivity",
+  "db": "3e7df8d8-8d8c-8009-9ef9-d2d0f1f2683d",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "Four Thousand Weeks",
+  "db": "2ffdf8d8-8d8c-8016-acf6-f50ee8209354",
+  "action": "RENAME -> 'Core Message (ฉบับ PHON)'",
+  "old": "Core Message (ฉบับ PHON/Duck OS)",
+  "new": "Core Message (ฉบับ PHON)"
+ },
+ {
+  "book": "Hook Point",
+  "db": "3e9df8d8-8d8c-8092-a12d-e5a84f8e59e4",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "Hooked: How to Build Habit-Forming Products",
+  "db": "3e4df8d8-8d8c-8054-835f-ea59e558c9b4",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "How to Be Better at Almost Everything",
+  "db": "3e9df8d8-8d8c-8010-b5d1-db3cfe93e8a0",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius",
+  "db": "31ddf8d8-8d8c-80ed-b246-e025f1b3f1a5",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "It Doesn't Have to Be Crazy at Work",
+  "db": "320df8d8-8d8c-80cd-a094-e01e502da262",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "Keep Going",
+  "db": "2ffdf8d8-8d8c-808b-854f-ce711132a5e1",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "Man vs Maths - Understanding the Curious Mathematics That Power Our World",
+  "db": "303df8d8-8d8c-8016-9e63-c392ef298ea6",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "Meditations: A New Translation",
+  "db": "311df8d8-8d8c-803e-839e-db35fb981e44",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "Rest: Why You Get More Done When You Work Less",
+  "db": "311df8d8-8d8c-8017-9fff-cf81167c5874",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "Rework",
+  "db": "3dadf8d8-8d8c-8061-8549-e0823f070ad3",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "Same as Ever",
+  "db": "3e4df8d8-8d8c-8026-a001-c8fd341b59e3",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "Scientific Advertising",
+  "db": "2ffdf8d8-8d8c-8064-b6ad-f12033d6d97f",
+  "action": "RENAME -> 'Core Message (ฉบับ PHON)'",
+  "old": "Core Message (สรุปแก่นฉบับ PHON)",
+  "new": "Core Message (ฉบับ PHON)"
+ },
+ {
+  "book": "Seneca's Letters from a Stoic",
+  "db": "31fdf8d8-8d8c-8092-97b4-c39d7e350ff9",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "Show Your Work!",
+  "db": "2ffdf8d8-8d8c-8098-8729-fc36696d71f8",
+  "action": "RENAME -> 'Core Message (ฉบับ PHON)'",
+  "old": "Core Message (สรุปแก่นฉบับ PHON)",
+  "new": "Core Message (ฉบับ PHON)"
+ },
+ {
+  "book": "Steal Like an Artist",
+  "db": "2ffdf8d8-8d8c-804c-83c2-dc2a630b6fce",
+  "action": "RENAME -> 'Core Message (ฉบับ PHON)'",
+  "old": "Core Message (สรุปแก่นฉบับ PHON)",
+  "new": "Core Message (ฉบับ PHON)"
+ },
+ {
+  "book": "The Almanack of Naval Ravikant",
+  "db": "31fdf8d8-8d8c-803b-911b-dc979ff3eb55",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "The Almanack of Naval Ravikant (TH)",
+  "db": "300df8d8-8d8c-807c-a0b0-e753ae6a9c67",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "The Book of Five Rings (Modern)",
+  "db": "324df8d8-8d8c-80b9-a4ac-dba0428cbd84",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "The Brain That Changes Itself",
+  "db": "311df8d8-8d8c-8056-9793-f9f7b15886d9",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living",
+  "db": "311df8d8-8d8c-805c-8d81-dee7ec7af173",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "The Great Mental Models Volume 1:General Thinking Concepts",
+  "db": "40cdf8d8-8d8c-80cc-8a9b-da0a2311364b",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "The Molecule of More",
+  "db": "31fdf8d8-8d8c-80ac-b9e9-f075a3e43093",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "The Obstacle is the Way",
+  "db": "331df8d8-8d8c-80b3-8836-c7ced1b82f27",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "The One-Page Financial Plan",
+  "db": "3e6df8d8-8d8c-8009-af59-e5229717547d",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "The Psychology of Money: Timeless lessons on wealth, greed, and happiness",
+  "db": "306df8d8-8d8c-801c-b9a4-f5efa1abd380",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "Thinking in Systems",
+  "db": "322df8d8-8d8c-80e1-a280-db69e16c850e",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "Thinking, Fast and Slow",
+  "db": "313df8d8-8d8c-80b5-8bc3-d7fad8cb23d2",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ },
+ {
+  "book": "Tiny Experiments",
+  "db": "40fdf8d8-8d8c-807d-a6f6-ee5deaa04810",
+  "action": "OK (ชื่อมาตรฐานอยู่แล้ว)"
+ }
+]

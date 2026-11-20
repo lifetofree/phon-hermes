@@ -1,0 +1,36 @@
+  10/253
+  20/253
+  30/253
+  40/253
+  50/253
+  60/253
+  70/253
+  80/253
+  90/253
+  100/253
+  110/253
+  120/253
+  130/253
+  140/253
+  150/253
+  160/253
+  170/253
+  180/253
+  190/253
+  200/253
+  210/253
+  220/253
+  230/253
+  240/253
+  250/253
+WROTE bk_audit_ch2_out.json
+with rows: 42 rows: 644
+chapter Status: {'⬜ QUEUED': 333, 'None': 27, '✅ INSTALLED': 27, '⏳ LOADING...': 25}
+  x218 {"#": "title", "Chapter Title (Original)": "rich_text", "Core Message (ฉบับ PHON)": "rich_text", "Status": "select"}
+  x14 {"#": "title", "Chapter Title (Original)": "rich_text", "Core Message (ฉบับ PHON)": "rich_text", "Status": "select", "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text"}
+  x10 {"Name": "title"}
+  x4 {"#": "title"}
+  x4 {"#": "title", "Chapter Title (Original)": "rich_text", "Core Message (สรุปแก่นฉบับ PHON)": "rich_text", "Status": "select"}
+  x1 {"Chapter #": "title", "Chapter Title (Original)": "rich_text", "Core Message (ฉบับ PHON/Duck OS)": "rich_text", "Status": "select"}
+  x1 {"#": "rich_text", "# 1": "title", "Core Message (ฉบับ PHON)": "rich_text", "Status": "select", "ผ่านฟิลเตอร์ 3 Laws": "rich_text"}
+  x1 {"#": "title", "Chapter Title": "rich_text", "Core Message (สรุปแก่นฉบับ PHON)": "rich_text", "Status": "select"}

@@ -1,0 +1,78 @@
+{
+ "diff_rows": [
+  {
+   "title": "Clear Thinking",
+   "page_id": "2ffdf8d8-8d8c-8057-b186-db7637ce07ad",
+   "snapshot": [
+    "#CriticalThinking",
+    "#DecisionMaking",
+    "#DecisionProtocols",
+    "#MentalModels",
+    "#SystemFirst",
+    "#NoiseReduction"
+   ],
+   "plan": [
+    "#CriticalThinking",
+    "#DecisionMaking",
+    "#MentalModels",
+    "#SystemsThinking"
+   ],
+   "live": [
+    "#CriticalThinking",
+    "#DecisionMaking",
+    "#Management",
+    "#MentalModels",
+    "#SystemsThinking"
+   ],
+   "dropped": []
+  },
+  {
+   "title": "The Psychology of Money: Timeless lessons on wealth, greed, and happiness",
+   "page_id": "2ffdf8d8-8d8c-80e6-b3b6-c31c8fec10fd",
+   "snapshot": [
+    "#Wealth",
+    "#Compounding",
+    "#BehavioralFinance",
+    "#Level_G3",
+    "#Storytelling",
+    "#DuckOS_Asset"
+   ],
+   "plan": [
+    "#DuckOS_Asset",
+    "#Growth",
+    "#Level_G3",
+    "#Storytelling",
+    "#ValueEquation",
+    "#Wealth"
+   ],
+   "live": [
+    "#Wealth",
+    "#Growth",
+    "#BehavioralFinance",
+    "#Level_G3",
+    "#Storytelling",
+    "#DuckOS_Asset"
+   ],
+   "dropped": []
+  },
+  {
+   "title": "100 Ways to Improve Your Writing",
+   "page_id": "2ffdf8d8-8d8c-8013-8c31-ea6d6a047854",
+   "snapshot": [
+    "#Writing",
+    "#Language"
+   ],
+   "plan": [
+    "#Learning",
+    "#Writing"
+   ],
+   "live": [
+    "#Writing",
+    "#Communication"
+   ],
+   "dropped": []
+  }
+ ],
+ "identical": 248,
+ "missing": []
+}

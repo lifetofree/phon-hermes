@@ -1,0 +1,582 @@
+[
+ {
+  "book": "Atomic Habits",
+  "db": "304df8d8-8d8c-8002-bce5-c03642fcc8cf",
+  "rows": 20,
+  "status": {
+   "⏳ LOADING...": 4,
+   "⬜ QUEUED": 14,
+   "✅ INSTALLED": 2
+  },
+  "notes_filled": 20,
+  "title_col": "Chapter Title (Original)",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Behave: The Biology of Humans at Our Best and Worst ",
+  "db": "314df8d8-8d8c-8094-a60e-ceaafe3135c6",
+  "rows": 10,
+  "status": {
+   "⬜ QUEUED": 9,
+   "⏳ LOADING...": 1
+  },
+  "notes_filled": 10,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON / Benz DNA)"
+  ]
+ },
+ {
+  "book": "Brain Hacks: Life-Changing Strategies to Improve Executive Functioning",
+  "db": "4b5df8d8-8d8c-82e0-8257-0179875c9789",
+  "rows": 7,
+  "status": {
+   "⬜ QUEUED": 6,
+   "(ว่าง)": 1
+  },
+  "notes_filled": 7,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Business Made Simple",
+  "db": "3e6df8d8-8d8c-80ee-942b-dcfec712ebac",
+  "rows": 11,
+  "status": {
+   "⬜ QUEUED": 11
+  },
+  "notes_filled": 11,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Clear Thinking",
+  "db": "312df8d8-8d8c-80a6-9c3c-c4d712d8ed28",
+  "rows": 31,
+  "status": {
+   "⬜ QUEUED": 25,
+   "(ว่าง)": 5,
+   "⏳ LOADING...": 1
+  },
+  "notes_filled": 26,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Deep Work",
+  "db": "30adf8d8-8d8c-80fd-aa04-e29ed00ce435",
+  "rows": 10,
+  "status": {
+   "⏳ LOADING...": 1,
+   "⬜ QUEUED": 7,
+   "(ว่าง)": 2
+  },
+  "notes_filled": 10,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Don't Believe Everything You Think",
+  "db": "3e6df8d8-8d8c-8062-b326-d75a1fc3fdde",
+  "rows": 13,
+  "status": {
+   "⬜ QUEUED": 12,
+   "✅ INSTALLED": 1
+  },
+  "notes_filled": 13,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Dopamine Nation: Finding Balance in the Age of Indulgence",
+  "db": "306df8d8-8d8c-8062-b5dc-e97fefec5817",
+  "rows": 9,
+  "status": {
+   "(ว่าง)": 4,
+   "✅ INSTALLED": 3,
+   "⬜ QUEUED": 2
+  },
+  "notes_filled": 9,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Ego is the Enemy",
+  "db": "314df8d8-8d8c-80cf-b828-ecf27b7deb2c",
+  "rows": 25,
+  "status": {
+   "(ว่าง)": 4,
+   "⬜ QUEUED": 21
+  },
+  "notes_filled": 22,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON / Benz DNA)"
+  ]
+ },
+ {
+  "book": "Essentialism",
+  "db": "2ffdf8d8-8d8c-8020-bc74-ed5f36610902",
+  "rows": 24,
+  "status": {
+   "⬜ QUEUED": 10,
+   "(ว่าง)": 4,
+   "⏳ LOADING...": 5,
+   "✅ INSTALLED": 5
+  },
+  "notes_filled": 24,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (สรุปแก่นฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Extra Focus",
+  "db": "3e9df8d8-8d8c-80ef-af24-f2b09e53d1b9",
+  "rows": 8,
+  "status": {
+   "⬜ QUEUED": 7,
+   "⏳ LOADING...": 1
+  },
+  "notes_filled": 8,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Feel-Good Productivity",
+  "db": "3e7df8d8-8d8c-8009-9ef9-d2d0f1f2683d",
+  "rows": 9,
+  "status": {
+   "⬜ QUEUED": 9
+  },
+  "notes_filled": 9,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Four Thousand Weeks",
+  "db": "2ffdf8d8-8d8c-8016-acf6-f50ee8209354",
+  "rows": 18,
+  "status": {
+   "⬜ QUEUED": 13,
+   "✅ INSTALLED": 2,
+   "(ว่าง)": 2,
+   "⏳ LOADING...": 1
+  },
+  "notes_filled": 16,
+  "title_col": "Chapter #",
+  "core_cols": [
+   "Core Message (ฉบับ PHON/Duck OS)"
+  ]
+ },
+ {
+  "book": "Hook Point",
+  "db": "3e9df8d8-8d8c-8092-a12d-e5a84f8e59e4",
+  "rows": 7,
+  "status": {
+   "⬜ QUEUED": 7
+  },
+  "notes_filled": 7,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Hooked: How to Build Habit-Forming Products",
+  "db": "3e4df8d8-8d8c-8054-835f-ea59e558c9b4",
+  "rows": 8,
+  "status": {
+   "⬜ QUEUED": 7,
+   "⏳ LOADING...": 1
+  },
+  "notes_filled": 8,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "How to Be Better at Almost Everything",
+  "db": "3e9df8d8-8d8c-8010-b5d1-db3cfe93e8a0",
+  "rows": 10,
+  "status": {
+   "⬜ QUEUED": 10
+  },
+  "notes_filled": 10,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius",
+  "db": "31ddf8d8-8d8c-80ed-b246-e025f1b3f1a5",
+  "rows": 8,
+  "status": {
+   "⬜ QUEUED": 7,
+   "⏳ LOADING...": 1
+  },
+  "notes_filled": 8,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "It Doesn't Have to Be Crazy at Work",
+  "db": "320df8d8-8d8c-80cd-a094-e01e502da262",
+  "rows": 73,
+  "status": {
+   "⬜ QUEUED": 66,
+   "(ว่าง)": 7
+  },
+  "notes_filled": 66,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Keep Going",
+  "db": "2ffdf8d8-8d8c-808b-854f-ce711132a5e1",
+  "rows": 10,
+  "status": {
+   "⬜ QUEUED": 8,
+   "✅ INSTALLED": 1,
+   "⏳ LOADING...": 1
+  },
+  "notes_filled": 10,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Man vs Maths - Understanding the Curious Mathematics That Power Our World",
+  "db": "303df8d8-8d8c-8016-9e63-c392ef298ea6",
+  "rows": 14,
+  "status": {
+   "⬜ QUEUED": 14
+  },
+  "notes_filled": 14,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Meditations: A New Translation",
+  "db": "311df8d8-8d8c-803e-839e-db35fb981e44",
+  "rows": 12,
+  "status": {
+   "⬜ QUEUED": 10,
+   "✅ INSTALLED": 1,
+   "(ว่าง)": 1
+  },
+  "notes_filled": 12,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Rest: Why You Get More Done When You Work Less",
+  "db": "311df8d8-8d8c-8017-9fff-cf81167c5874",
+  "rows": 12,
+  "status": {
+   "⬜ QUEUED": 11,
+   "⏳ LOADING...": 1
+  },
+  "notes_filled": 12,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Rework",
+  "db": "3dadf8d8-8d8c-8061-8549-e0823f070ad3",
+  "rows": 12,
+  "status": {
+   "⬜ QUEUED": 11,
+   "✅ INSTALLED": 1
+  },
+  "notes_filled": 12,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Same as Ever",
+  "db": "3e4df8d8-8d8c-8026-a001-c8fd341b59e3",
+  "rows": 23,
+  "status": {
+   "⬜ QUEUED": 20,
+   "✅ INSTALLED": 1,
+   "⏳ LOADING...": 2
+  },
+  "notes_filled": 23,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Scientific Advertising",
+  "db": "2ffdf8d8-8d8c-8064-b6ad-f12033d6d97f",
+  "rows": 21,
+  "status": {
+   "✅ INSTALLED": 3,
+   "⬜ QUEUED": 18
+  },
+  "notes_filled": 21,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (สรุปแก่นฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Seneca's Letters from a Stoic",
+  "db": "31fdf8d8-8d8c-8092-97b4-c39d7e350ff9",
+  "rows": 15,
+  "status": {
+   "⬜ QUEUED": 15
+  },
+  "notes_filled": 15,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Show Your Work!",
+  "db": "2ffdf8d8-8d8c-8098-8729-fc36696d71f8",
+  "rows": 10,
+  "status": {
+   "⬜ QUEUED": 7,
+   "⏳ LOADING...": 1,
+   "✅ INSTALLED": 2
+  },
+  "notes_filled": 10,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (สรุปแก่นฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Steal Like an Artist",
+  "db": "2ffdf8d8-8d8c-804c-83c2-dc2a630b6fce",
+  "rows": 10,
+  "status": {
+   "⬜ QUEUED": 8,
+   "✅ INSTALLED": 2
+  },
+  "notes_filled": 10,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (สรุปแก่นฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "The Almanack of Naval Ravikant",
+  "db": "31fdf8d8-8d8c-803b-911b-dc979ff3eb55",
+  "rows": 8,
+  "status": {
+   "⬜ QUEUED": 7,
+   "⏳ LOADING...": 1
+  },
+  "notes_filled": 8,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "The Almanack of Naval Ravikant (TH)",
+  "db": "300df8d8-8d8c-807c-a0b0-e753ae6a9c67",
+  "rows": 10,
+  "status": {
+   "⬜ QUEUED": 9,
+   "(ว่าง)": 1
+  },
+  "notes_filled": 10,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "The Book of Five Rings (Modern)",
+  "db": "324df8d8-8d8c-80b9-a4ac-dba0428cbd84",
+  "rows": 5,
+  "status": {
+   "⏳ LOADING...": 1,
+   "⬜ QUEUED": 4
+  },
+  "notes_filled": 5,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "The Brain That Changes Itself",
+  "db": "311df8d8-8d8c-8056-9793-f9f7b15886d9",
+  "rows": 11,
+  "status": {
+   "⬜ QUEUED": 10,
+   "⏳ LOADING...": 1
+  },
+  "notes_filled": 11,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living",
+  "db": "311df8d8-8d8c-805c-8d81-dee7ec7af173",
+  "rows": 12,
+  "status": {
+   "⬜ QUEUED": 11,
+   "⏳ LOADING...": 1
+  },
+  "notes_filled": 12,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "The Great Mental Models Volume 1:General Thinking Concepts",
+  "db": "40cdf8d8-8d8c-80cc-8a9b-da0a2311364b",
+  "rows": 9,
+  "status": {
+   "⬜ QUEUED": 8,
+   "⏳ LOADING...": 1
+  },
+  "notes_filled": 9,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "The Molecule of More",
+  "db": "31fdf8d8-8d8c-80ac-b9e9-f075a3e43093",
+  "rows": 7,
+  "status": {
+   "⬜ QUEUED": 6,
+   "(ว่าง)": 1
+  },
+  "notes_filled": 7,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "The Obstacle is the Way",
+  "db": "331df8d8-8d8c-80b3-8836-c7ced1b82f27",
+  "rows": 36,
+  "status": {
+   "⬜ QUEUED": 32,
+   "(ว่าง)": 3,
+   "⏳ LOADING...": 1
+  },
+  "notes_filled": 33,
+  "title_col": "Chapter Title (Original)",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "The One-Page Financial Plan",
+  "db": "3e6df8d8-8d8c-8009-af59-e5229717547d",
+  "rows": 10,
+  "status": {
+   "⬜ QUEUED": 10
+  },
+  "notes_filled": 10,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "The Psychology of Money: Timeless lessons on wealth, greed, and happiness",
+  "db": "306df8d8-8d8c-801c-b9a4-f5efa1abd380",
+  "rows": 18,
+  "status": {
+   "⬜ QUEUED": 17,
+   "⏳ LOADING...": 1
+  },
+  "notes_filled": 18,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Thinking in Systems",
+  "db": "322df8d8-8d8c-80e1-a280-db69e16c850e",
+  "rows": 7,
+  "status": {
+   "⬜ QUEUED": 6,
+   "⏳ LOADING...": 1
+  },
+  "notes_filled": 7,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Thinking, Fast and Slow",
+  "db": "313df8d8-8d8c-80b5-8bc3-d7fad8cb23d2",
+  "rows": 38,
+  "status": {
+   "⬜ QUEUED": 36,
+   "⏳ LOADING...": 2
+  },
+  "notes_filled": 38,
+  "title_col": "Chapter Title (Original)",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ },
+ {
+  "book": "Tiny Experiments",
+  "db": "40fdf8d8-8d8c-807d-a6f6-ee5deaa04810",
+  "rows": 9,
+  "status": {
+   "⬜ QUEUED": 8,
+   "⏳ LOADING...": 1
+  },
+  "notes_filled": 9,
+  "title_col": "#",
+  "core_cols": [
+   "Core Message (ฉบับ PHON)"
+  ]
+ }
+]

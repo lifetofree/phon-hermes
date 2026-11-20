@@ -1,0 +1,38 @@
+child dbs to scan: 253
+  10/253 done
+  20/253 done
+  30/253 done
+  40/253 done
+  50/253 done
+  60/253 done
+  70/253 done
+  80/253 done
+  90/253 done
+  100/253 done
+  110/253 done
+  120/253 done
+  130/253 done
+  140/253 done
+  150/253 done
+  160/253 done
+  170/253 done
+  180/253 done
+  190/253 done
+  200/253 done
+  210/253 done
+  220/253 done
+  230/253 done
+  240/253 done
+  250/253 done
+WROTE bk_audit_chapters_out.json
+dbs with rows: 0 | total rows: 0
+chapter Status tally: {}
+Traceback (most recent call last):
+  File "/home/rakazo/shared/books_library/bk_audit_chapters.py", line 77, in <module>
+    print('schema variants:', Counter(tuple(sorted((r['schema'] or {}).items())) for r in res).most_common(6), flush=True)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/collections/__init__.py", line 597, in __init__
+    self.update(iterable, **kwds)
+  File "/usr/lib/python3.11/collections/__init__.py", line 688, in update
+    _count_elements(self, iterable)
+TypeError: unhashable type: 'dict'

@@ -1,0 +1,186 @@
+{
+ "book": "Atomic Habits",
+ "old_db_id": "304df8d8-8d8c-8002-bce5-c03642fcc8cf",
+ "rows": [
+  {
+   "page_id": "304df8d8-8d8c-8065-800a-eaf33fd712ae",
+   "values": {
+    "Status": "⏳ LOADING...",
+    "Core Message (ฉบับ PHON)": "Habit Tracker: อย่าทำโซ่ขาด (Don't break the chain)",
+    "#": "16",
+    "Chapter Title (Original)": "How to Stick with Good Habits Every Day"
+   }
+  },
+  {
+   "page_id": "304df8d8-8d8c-8069-b1c3-c24a36ff748a",
+   "values": {
+    "Status": "⬜ QUEUED",
+    "Core Message (ฉบับ PHON)": "หาคนคุมกฎ: ถ้าทำพลาดต้องมีบทลงโทษ",
+    "#": "17",
+    "Chapter Title (Original)": "How an Accountability Partner..."
+   }
+  },
+  {
+   "page_id": "304df8d8-8d8c-807a-9089-e497a7889089",
+   "values": {
+    "Status": "⬜ QUEUED",
+    "Core Message (ฉบับ PHON)": "เลือกสนามที่ความถนัดเรากลายเป็นความได้เปรียบ",
+    "#": "18",
+    "Chapter Title (Original)": "The Truth About Talent"
+   }
+  },
+  {
+   "page_id": "304df8d8-8d8c-80bc-9bd7-f267c0de0a10",
+   "values": {
+    "Status": "⬜ QUEUED",
+    "Core Message (ฉบับ PHON)": "นิสัย + การทบทวน = ความเชี่ยวชาญ (อย่าหลงตัวเอง)",
+    "#": "20",
+    "Chapter Title (Original)": "The Downside of Building Good Habits"
+   }
+  },
+  {
+   "page_id": "304df8d8-8d8c-80dd-b102-d275a3ce76a3",
+   "values": {
+    "Status": "⬜ QUEUED",
+    "Core Message (ฉบับ PHON)": "ทำสิ่งที่ยากกว่าความสามารถเรานิดหน่อย (Flow State)",
+    "#": "19",
+    "Chapter Title (Original)": "The Goldilocks Rule"
+   }
+  },
+  {
+   "page_id": "304df8d8-8d8c-800a-82b3-ef083a494bb8",
+   "values": {
+    "Status": "⏳ LOADING...",
+    "Core Message (ฉบับ PHON)": "ใช้ Commitment Device บังคับตัวเองในอนาคต",
+    "#": "14",
+    "Chapter Title (Original)": "How to Make Good Habits Inevitable"
+   }
+  },
+  {
+   "page_id": "304df8d8-8d8c-802e-88c0-f64efcfa68fe",
+   "values": {
+    "Status": "⬜ QUEUED",
+    "Core Message (ฉบับ PHON)": "Temptation Bundling: เอาสิ่งที่ \"ต้องทำ\" คู่กับ \"ที่ชอบ\"",
+    "#": "8",
+    "Chapter Title (Original)": "How to Make a Habit Irresistible"
+   }
+  },
+  {
+   "page_id": "304df8d8-8d8c-8030-9b59-c6cc184726b2",
+   "values": {
+    "Status": "⬜ QUEUED",
+    "Core Message (ฉบับ PHON)": "เปลี่ยนมุมมอง: \"ต้องทำ\" (Have to) เป็น \"ได้ทำ\" (Get to)",
+    "#": "10",
+    "Chapter Title (Original)": "How to Find and Fix the Causes..."
+   }
+  },
+  {
+   "page_id": "304df8d8-8d8c-804b-95da-e34d0638e401",
+   "values": {
+    "Status": "⬜ QUEUED",
+    "Core Message (ฉบับ PHON)": "สิ่งที่ได้รับรางวัลทันที จะถูกทำซ้ำ (Instant Reward)",
+    "#": "15",
+    "Chapter Title (Original)": "The Cardinal Rule of Behavior Change"
+   }
+  },
+  {
+   "page_id": "304df8d8-8d8c-805c-9a33-ff424596c5b0",
+   "values": {
+    "Status": "✅ INSTALLED",
+    "Core Message (ฉบับ PHON)": "กฎ 2 นาที: เริ่มให้ง่ายที่สุดจนหยุดทำไม่ได้",
+    "#": "13",
+    "Chapter Title (Original)": "How to Stop Procrastinating by Using the Two-Minute Rule"
+   }
+  },
+  {
+   "page_id": "304df8d8-8d8c-8060-8bbd-c52f1c237888",
+   "values": {
+    "Status": "⬜ QUEUED",
+    "Core Message (ฉบับ PHON)": "อยากเป็นคนแบบไหน ให้ไปอยู่ในฝูงชนแบบนั้น",
+    "#": "9",
+    "Chapter Title (Original)": "The Role of Family and Friends"
+   }
+  },
+  {
+   "page_id": "304df8d8-8d8c-8070-bc18-f2ae93b0f017",
+   "values": {
+    "Status": "⬜ QUEUED",
+    "Core Message (ฉบับ PHON)": "กฎแรงต้านน้อยสุด: จัดของเตรียมไว้ให้เริ่มทำได้ใน 2 วิ",
+    "#": "12",
+    "Chapter Title (Original)": "The Law of Least Effort"
+   }
+  },
+  {
+   "page_id": "304df8d8-8d8c-80bf-9f25-d52917593f33",
+   "values": {
+    "Status": "⬜ QUEUED",
+    "Core Message (ฉบับ PHON)": "เน้น \"ปริมาณ\" (Quantity) ในช่วงแรกเพื่อสร้างความชิน",
+    "#": "11",
+    "Chapter Title (Original)": "Walk Slowly, but Never Backward"
+   }
+  },
+  {
+   "page_id": "304df8d8-8d8c-8079-943e-cfebf74f4e0c",
+   "values": {
+    "Status": "⏳ LOADING...",
+    "Core Message (ฉบับ PHON)": "การตัดกิเลสที่ง่ายที่สุด คือการ \"เอามันออกไปจากสายตา\"",
+    "#": "7",
+    "Chapter Title (Original)": "The Secret to Self-Control"
+   }
+  },
+  {
+   "page_id": "304df8d8-8d8c-8052-a5cb-f59c73d89b12",
+   "values": {
+    "Status": "⬜ QUEUED",
+    "Core Message (ฉบับ PHON)": "Cue > Craving > Response > Reward (วงจรนิสัย)",
+    "#": "3",
+    "Chapter Title (Original)": "How to Build Better Habits in 4 Steps"
+   }
+  },
+  {
+   "page_id": "304df8d8-8d8c-808e-92c0-e9dda94e9354",
+   "values": {
+    "Status": "⬜ QUEUED",
+    "Core Message (ฉบับ PHON)": "Habit Stacking: ทำ A เสร็จ แล้วจะทำ B ต่อทันที",
+    "#": "5",
+    "Chapter Title (Original)": "The Best Way to Start a New Habit"
+   }
+  },
+  {
+   "page_id": "304df8d8-8d8c-80db-8a16-c4c487837de8",
+   "values": {
+    "Status": "⬜ QUEUED",
+    "Core Message (ฉบับ PHON)": "เปลี่ยนที่ \"ตัวตน\" ไม่ใช่ \"ผลลัพธ์\" (I am a reader)",
+    "#": "2",
+    "Chapter Title (Original)": "How Your Habits Shape Your Identity"
+   }
+  },
+  {
+   "page_id": "304df8d8-8d8c-80ed-98a0-d8f4921f160c",
+   "values": {
+    "Status": "⬜ QUEUED",
+    "Core Message (ฉบับ PHON)": "ทำเรื่องที่ทำเป็นอัตโนมัติให้ \"รู้ตัว\" (Point & Call)",
+    "#": "4",
+    "Chapter Title (Original)": "The Man Who Didn't Look Right"
+   }
+  },
+  {
+   "page_id": "304df8d8-8d8c-80fe-91cc-c3b2c78672a5",
+   "values": {
+    "Status": "✅ INSTALLED",
+    "Core Message (ฉบับ PHON)": "ออกแบบ \"สิ่งแวดล้อม\" ให้เอื้อต่อการทำนิสัยดีๆ",
+    "#": "6",
+    "Chapter Title (Original)": "Motivation is Overrated; Environment Often Matters More"
+   }
+  },
+  {
+   "page_id": "304df8d8-8d8c-80d7-8edb-e673a46b61df",
+   "values": {
+    "Status": "⏳ LOADING...",
+    "Core Message (ฉบับ PHON)": "สะสม 1% ต่อวัน = Compound Interest ของชีวิต",
+    "#": "1",
+    "Chapter Title (Original)": "The Surprising Power of Atomic Habits"
+   }
+  }
+ ]
+}

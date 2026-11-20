@@ -1,0 +1,33 @@
+  10/251
+  20/251
+  30/251
+  40/251
+  50/251
+  60/251
+  70/251
+  80/251
+  90/251
+  100/251
+  110/251
+  120/251
+  130/251
+  140/251
+  150/251
+  160/251
+  170/251
+  180/251
+  190/251
+  200/251
+  210/251
+  220/251
+  230/251
+  240/251
+  250/251
+WROTE bk_audit_ch2_out.json
+with rows: 41 rows: 620
+chapter Status: {'⬜ QUEUED': 565, '✅ INSTALLED': 22, '⏳ LOADING...': 20, 'None': 13}
+  x233 {"#": "title", "Chapter Title (Original)": "rich_text", "Core Message (ฉบับ PHON)": "rich_text", "Status": "select"}
+  x14 {"#": "title", "Chapter Title (Original)": "rich_text", "Core Message (ฉบับ PHON)": "rich_text", "Status": "select", "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text"}
+  x2 {"Chapter Title (Original)": "rich_text", "Core Message (ฉบับ PHON)": "rich_text", "Name": "title", "Status": "select"}
+  x1 {"Chapter #": "title", "Chapter Title (Original)": "rich_text", "Core Message (ฉบับ PHON)": "rich_text", "Status": "select"}
+  x1 {"#": "rich_text", "# 1": "title", "Core Message (ฉบับ PHON)": "rich_text", "Status": "select", "ผ่านฟิลเตอร์ 3 Laws": "rich_text"}

@@ -1,0 +1,3081 @@
+{
+ "captured_at": "2026-11-19T12:50:00+07:00",
+ "db": "2ffdf8d8-8d8c-8096-934a-c05c3b5d93a0",
+ "row_count": 251,
+ "rows": [
+  {
+   "page_id": "3e6df8d8-8d8c-80ab-ab9c-ffd40909ba2d",
+   "title": "$100M Offers Money Models",
+   "tags_raw": "#Business #Offers #ValueEquation #MeteorOffer #ProductDesign",
+   "tags": [
+    "#Business",
+    "#Offers",
+    "#ValueEquation",
+    "#MeteorOffer",
+    "#ProductDesign"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Alex Hormozi"
+  },
+  {
+   "page_id": "3e6df8d8-8d8c-8043-8d89-fae40862b8d9",
+   "title": "Brain Hacks: Life-Changing Strategies to Improve Executive Functioning",
+   "tags_raw": "#Neuroscience #SystemHacks #ProductivityHacks #ExecutiveFunction",
+   "tags": [
+    "#Neuroscience",
+    "#SystemHacks",
+    "#ProductivityHacks",
+    "#ExecutiveFunction"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟡 G.2",
+   "author": "Dr. Lara Honos-Webb"
+  },
+  {
+   "page_id": "3e4df8d8-8d8c-80dd-90a4-ddd54de7f41b",
+   "title": "Hooked: How to Build Habit-Forming Products",
+   "tags_raw": "#Psychology #Habits #ProductDesign #DuckOS_Core",
+   "tags": [
+    "#Psychology",
+    "#Habits",
+    "#ProductDesign",
+    "#DuckOS_Core"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟠 G.3",
+   "author": "Nir Eyal"
+  },
+  {
+   "page_id": "333df8d8-8d8c-802b-afe7-c768436978bb",
+   "title": "Think Faster, Talk Smarter ***",
+   "tags_raw": "#Communication #DecisionMaking #CriticalThinking",
+   "tags": [
+    "#Communication",
+    "#DecisionMaking",
+    "#CriticalThinking"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Matt Abrahams"
+  },
+  {
+   "page_id": "324df8d8-8d8c-809a-922b-fab4c1efde34",
+   "title": "The Practical Critical Thinking, Logic & Problem Solving Blueprint (10 in 1)",
+   "tags_raw": "#CriticalThinking #Logic #ProblemSolving #SystemDesign #HighBattery",
+   "tags": [
+    "#CriticalThinking",
+    "#Logic",
+    "#ProblemSolving",
+    "#SystemDesign",
+    "#HighBattery"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Charlie J Roth"
+  },
+  {
+   "page_id": "31fdf8d8-8d8c-8050-a5f0-fb26d5a2ea3d",
+   "title": "Seneca's Letters from a Stoic",
+   "tags_raw": "#Stoicism #Mindset #TimeManagement #OnePersonBusiness #SystemsThinking",
+   "tags": [
+    "#Stoicism",
+    "#Mindset",
+    "#TimeManagement",
+    "#OnePersonBusiness",
+    "#SystemsThinking"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟡 G.2",
+   "author": "Lucius Annaeus Seneca"
+  },
+  {
+   "page_id": "31fdf8d8-8d8c-8080-9798-f4c9407cbcbf",
+   "title": "The Molecule of More",
+   "tags_raw": "#Neuroscience #Dopamine #SystemsThinking #DuckOS #OnePersonBusiness",
+   "tags": [
+    "#Neuroscience",
+    "#Dopamine",
+    "#SystemsThinking",
+    "#DuckOS",
+    "#OnePersonBusiness"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟠 G.3",
+   "author": "Daniel Z. Lieberman & Michael E. Long"
+  },
+  {
+   "page_id": "31ddf8d8-8d8c-8026-8571-c17f1bf7203a",
+   "title": "How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius",
+   "tags_raw": "#Stoicism #Psychology #MarcusAurelius #Neuroscience #DuckOS",
+   "tags": [
+    "#Stoicism",
+    "#Psychology",
+    "#MarcusAurelius",
+    "#Neuroscience",
+    "#DuckOS"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟠 G.3",
+   "author": "Donald Robertson"
+  },
+  {
+   "page_id": "314df8d8-8d8c-80d0-8950-fb4072c37109",
+   "title": "Ego is the Enemy",
+   "tags_raw": "#Stoicism #BenzDNA #SystemShield #Mindset #Ego",
+   "tags": [
+    "#Stoicism",
+    "#BenzDNA",
+    "#SystemShield",
+    "#Mindset",
+    "#Ego"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟠 G.3",
+   "author": "Ryan Holiday"
+  },
+  {
+   "page_id": "314df8d8-8d8c-80e3-adae-f55f5e4c6b94",
+   "title": "Behave: The Biology of Humans at Our Best and Worst",
+   "tags_raw": "#Neuroscience #Psychology #SystemCore #HardwareManual",
+   "tags": [
+    "#Neuroscience",
+    "#Psychology",
+    "#SystemCore",
+    "#HardwareManual"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🔴 Boss",
+   "author": "Robert Sapolsky"
+  },
+  {
+   "page_id": "313df8d8-8d8c-8007-bcf2-e1fa7ca3bded",
+   "title": "Thinking, Fast and Slow",
+   "tags_raw": "#Neuroscience #Psychology #SystemFirst #CognitiveBias #CoreLogic #BehavioralEcon",
+   "tags": [
+    "#Neuroscience",
+    "#Psychology",
+    "#SystemFirst",
+    "#CognitiveBias",
+    "#CoreLogic",
+    "#BehavioralEcon"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🔴 Boss",
+   "author": "Daniel Kahneman"
+  },
+  {
+   "page_id": "311df8d8-8d8c-8005-9807-e8895433e325",
+   "title": "The Brain That Changes Itself",
+   "tags_raw": "#Neuroscience #Neuroplasticity #SystemAwareness #HighCognitiveLoad",
+   "tags": [
+    "#Neuroscience",
+    "#Neuroplasticity",
+    "#SystemAwareness",
+    "#HighCognitiveLoad"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🔴 Boss",
+   "author": "Norman Doidge"
+  },
+  {
+   "page_id": "311df8d8-8d8c-80cf-b033-c793fa15b183",
+   "title": "Meditations: A New Translation",
+   "tags_raw": "#Stoicism #Boundaries #InnerCitadel #QuietPower #AntiNoise",
+   "tags": [
+    "#Stoicism",
+    "#Boundaries",
+    "#InnerCitadel",
+    "#QuietPower",
+    "#AntiNoise"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟡 G.2",
+   "author": "Marcus Aurelius (Translated by Gregory Hays)"
+  },
+  {
+   "page_id": "311df8d8-8d8c-80f8-9c62-cd5a424bedeb",
+   "title": "Rest: Why You Get More Done When You Work Less",
+   "tags_raw": "#Neuroscience #IdleMode #Productivity #DMN #SystemRecovery",
+   "tags": [
+    "#Neuroscience",
+    "#IdleMode",
+    "#Productivity",
+    "#DMN",
+    "#SystemRecovery"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟠 G.3",
+   "author": "Alex Soojung-Kim Pang"
+  },
+  {
+   "page_id": "311df8d8-8d8c-80f8-a62e-fbca375baf65",
+   "title": "The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living",
+   "tags_raw": "#Stoicism #DailyRoutine #Mindset #Philosophy #SystemCore",
+   "tags": [
+    "#Stoicism",
+    "#DailyRoutine",
+    "#Mindset",
+    "#Philosophy",
+    "#SystemCore"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟡 G.2",
+   "author": "Ryan Holiday"
+  },
+  {
+   "page_id": "311df8d8-8d8c-8033-9810-c21d77a4dc63",
+   "title": "Brain Hacks: 200+ Way to boost you brain power",
+   "tags_raw": "#Neuroscience #SystemHacks #ProductivityHacks #ExecutiveFunction",
+   "tags": [
+    "#Neuroscience",
+    "#SystemHacks",
+    "#ProductivityHacks",
+    "#ExecutiveFunction"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟢 G.1",
+   "author": "Dr. Lara Honos-Webb"
+  },
+  {
+   "page_id": "306df8d8-8d8c-8023-a787-f795483dbe18",
+   "title": "Dopamine Nation: Finding Balance in the Age of Indulgence",
+   "tags_raw": "#Neuroscience #Dopamine #Level_G3 #Storytelling #Focus #DuckOS_Input",
+   "tags": [
+    "#Neuroscience",
+    "#Dopamine",
+    "#Level_G3",
+    "#Storytelling",
+    "#Focus",
+    "#DuckOS_Input"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟠 G.3",
+   "author": "Dr. Anna Lembke"
+  },
+  {
+   "page_id": "303df8d8-8d8c-8072-bec2-ee738b4eaef8",
+   "title": "Man vs Maths - Understanding the Curious Mathematics That Power Our World",
+   "tags_raw": "#SystemsThinking #DecisionMaking #DuckOS_Core",
+   "tags": [
+    "#SystemsThinking",
+    "#DecisionMaking",
+    "#DuckOS_Core"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟡 G.2",
+   "author": "Timothy Revell"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8088-9ada-f8e910d353f0",
+   "title": "The Book of Elon",
+   "tags_raw": "#Mindset #Strategy",
+   "tags": [
+    "#Mindset",
+    "#Strategy"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Eric Jorgenson"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8034-a604-fb0fb5ae4c79",
+   "title": "Company of One (TH)",
+   "tags_raw": "#ThaiEdit #Business #OnePersonBusiness",
+   "tags": [
+    "#ThaiEdit",
+    "#Business",
+    "#OnePersonBusiness"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Paul Jarvis"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8074-9bd9-c061d84c0136",
+   "title": "The Almanack of Naval Ravikant (TH)",
+   "tags_raw": "#ThaiEdit #Wealth #Philosophy",
+   "tags": [
+    "#ThaiEdit",
+    "#Wealth",
+    "#Philosophy"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟡 G.2",
+   "author": "Eric Jorgenson"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-801c-8925-d3ae063cc342",
+   "title": "The One Thing (TH)",
+   "tags_raw": "#Focus #ThaiEdit #Productivity",
+   "tags": [
+    "#Focus",
+    "#ThaiEdit",
+    "#Productivity"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Gary Keller"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80b8-8b50-d12ae19b3008",
+   "title": "Four Thousand Weeks",
+   "tags_raw": "#AntiProductivity #Philosophy",
+   "tags": [
+    "#AntiProductivity",
+    "#Philosophy"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟢 G.1",
+   "author": "Oliver Burkeman"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8055-8779-e78808364d18",
+   "title": "The Experience Machine",
+   "tags_raw": "#Reality #Neuroscience",
+   "tags": [
+    "#Reality",
+    "#Neuroscience"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Andy Clark"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80d6-a13e-c2f6a02d32a5",
+   "title": "Learn Like a Pro",
+   "tags_raw": "#Learning #Neuroscience #Skill",
+   "tags": [
+    "#Learning",
+    "#Neuroscience",
+    "#Skill"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Barbara Oakley"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8014-b7a3-cbbc45f48e29",
+   "title": "How to Read a Book",
+   "tags_raw": "#Learning #Skill",
+   "tags": [
+    "#Learning",
+    "#Skill"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Mortimer J. Adler"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80f2-9940-c8d95e097e13",
+   "title": "Marcus Aurelius: The Stoic Emperor",
+   "tags_raw": "#Biography #History",
+   "tags": [
+    "#Biography",
+    "#History"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Donald Robertson"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8012-8ebd-d075a620c1b7",
+   "title": "Your Money or Your Life",
+   "tags_raw": "#FIRE #Finance",
+   "tags": [
+    "#FIRE",
+    "#Finance"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Vicki Robin"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-804f-bece-f14a90a3b151",
+   "title": "The Paradox of Choice",
+   "tags_raw": "#DecisionMaking #Psychology",
+   "tags": [
+    "#DecisionMaking",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Barry Schwartz"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8055-b7e4-dd006c1c2b9c",
+   "title": "The Wealth Money Can't Buy",
+   "tags_raw": "#Life #Philosophy",
+   "tags": [
+    "#Life",
+    "#Philosophy"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Robin Sharma"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8059-a693-fae125ae8400",
+   "title": "Peak Mind",
+   "tags_raw": "#Focus #Neuroscience",
+   "tags": [
+    "#Focus",
+    "#Neuroscience"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Amishi P. Jha"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8066-97c4-f74cd6019d8b",
+   "title": "Chatter",
+   "tags_raw": "#SelfTalk #Psychology",
+   "tags": [
+    "#SelfTalk",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Ethan Kross"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8042-b469-f902c2ec8e06",
+   "title": "$100M Lost Chapters",
+   "tags_raw": "#Business #Sales",
+   "tags": [
+    "#Business",
+    "#Sales"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Alex Hormozi"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80fe-8a6b-d58f225b9adf",
+   "title": "Lean Marketing",
+   "tags_raw": "#Marketing #Growth",
+   "tags": [
+    "#Marketing",
+    "#Growth"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Allan Dib"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80ad-9be2-d673c32ac70c",
+   "title": "Why Has Nobody Told Me This Before?",
+   "tags_raw": "#Tools #Psychology",
+   "tags": [
+    "#Tools",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Dr. Julie Smith"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80e3-a9cc-d3102473ff66",
+   "title": "The 1-Page Marketing Plan",
+   "tags_raw": "#Strategy #Marketing",
+   "tags": [
+    "#Strategy",
+    "#Marketing"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Allan Dib"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-805a-ac9d-fc4176023fa2",
+   "title": "The Anthology of Balaji",
+   "tags_raw": "#Tech #Future",
+   "tags": [
+    "#Tech",
+    "#Future"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Eric Jorgenson"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8098-b7a7-e6799e6b2edc",
+   "title": "The Art of Thinking Clearly",
+   "tags_raw": "#Bias #Thinking",
+   "tags": [
+    "#Bias",
+    "#Thinking"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Rolf Dobelli"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8032-acc3-fe5cc7f91965",
+   "title": "Chip War",
+   "tags_raw": "#Geopolitics #TechHistory",
+   "tags": [
+    "#Geopolitics",
+    "#TechHistory"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Chris Miller"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80c6-ba0c-f2d5612e7f91",
+   "title": "Amazing Decisions",
+   "tags_raw": "#Comics #Psychology",
+   "tags": [
+    "#Comics",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟢 G.1",
+   "author": "Dan Ariely"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80ae-9480-f1c311708217",
+   "title": "Capital in the Twenty-First Century",
+   "tags_raw": "#Inequality #Economics",
+   "tags": [
+    "#Inequality",
+    "#Economics"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Thomas Piketty"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80df-8298-f0921bf12661",
+   "title": "Fooled by Randomness",
+   "tags_raw": "#Markets #Probability",
+   "tags": [
+    "#Markets",
+    "#Probability"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Nassim Taleb"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-805d-b97c-cfcb51bf38f2",
+   "title": "Das Kapital",
+   "tags_raw": "#Politics #Economics",
+   "tags": [
+    "#Politics",
+    "#Economics"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Karl Marx"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-807c-8cb1-d606b7a782cc",
+   "title": "The Fabric of Reality",
+   "tags_raw": "#Science #Philosophy",
+   "tags": [
+    "#Science",
+    "#Philosophy"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "David Deutsch"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80af-ac3c-f84a59a63ca3",
+   "title": "The Coming Wave",
+   "tags_raw": "#AI #Biotech",
+   "tags": [
+    "#AI",
+    "#Biotech"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Mustafa Suleyman"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80a7-bc5d-eacc35c05724",
+   "title": "The Black Swan",
+   "tags_raw": "#Probability #Philosophy",
+   "tags": [
+    "#Probability",
+    "#Philosophy"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Nassim Taleb"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80d8-9452-d876e1609587",
+   "title": "A History of Western Philosophy",
+   "tags_raw": "#History #Philosophy",
+   "tags": [
+    "#History",
+    "#Philosophy"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Bertrand Russell"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8037-ab06-e0d585f8615a",
+   "title": "Skin in the Game",
+   "tags_raw": "#Probability #Ethics",
+   "tags": [
+    "#Probability",
+    "#Ethics"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Nassim Taleb"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8031-8dfe-fcf0a1880a6d",
+   "title": "The Wealth of Nations",
+   "tags_raw": "#Economics #Classics",
+   "tags": [
+    "#Economics",
+    "#Classics"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Adam Smith"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-803d-b947-f9c1a4ee9c7d",
+   "title": "Thinking in Systems",
+   "tags_raw": "#Sustainability #SystemsThinking",
+   "tags": [
+    "#Sustainability",
+    "#SystemsThinking"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🔴 Boss",
+   "author": "Donella Meadows"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8055-b9c0-c94b2bf03b8a",
+   "title": "Gödel Escher Bach",
+   "tags_raw": "#ArtMath #CogSci",
+   "tags": [
+    "#ArtMath",
+    "#CogSci"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Douglas Hofstadter"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80d9-9ced-d8063b944562",
+   "title": "Superintelligence",
+   "tags_raw": "#FutureRisks #AI",
+   "tags": [
+    "#FutureRisks",
+    "#AI"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Nick Bostrom"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80a4-b3b3-de0bfa44a7ad",
+   "title": "The Critique of Pure Reason",
+   "tags_raw": "#Philosophy #Metaphysics",
+   "tags": [
+    "#Philosophy",
+    "#Metaphysics"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Immanuel Kant"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-804e-a40a-ce588f4c9f6a",
+   "title": "The Goal",
+   "tags_raw": "#Operations #BusinessNovel",
+   "tags": [
+    "#Operations",
+    "#BusinessNovel"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Eliyahu M. Goldratt"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80a2-92a5-f0afc853175b",
+   "title": "The Bed of Procrustes",
+   "tags_raw": "#Philosophy #Aphorisms",
+   "tags": [
+    "#Philosophy",
+    "#Aphorisms"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Nassim Taleb"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80af-88a4-e800c8559987",
+   "title": "The Age of AI",
+   "tags_raw": "#Geopolitics #AI",
+   "tags": [
+    "#Geopolitics",
+    "#AI"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Henry Kissinger"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-803f-a8ef-f5a4fd0e9934",
+   "title": "More Money Than God",
+   "tags_raw": "#Finance #History",
+   "tags": [
+    "#Finance",
+    "#History"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Sebastian Mallaby"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-808d-887c-f48be0bfdc88",
+   "title": "Life 3.0",
+   "tags_raw": "#Future #AI",
+   "tags": [
+    "#Future",
+    "#AI"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Max Tegmark"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-809c-a260-dfaf366398b7",
+   "title": "The Power Broker",
+   "tags_raw": "#Politics #Biography",
+   "tags": [
+    "#Politics",
+    "#Biography"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Robert Caro"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80a0-8526-e4f0d81d8daa",
+   "title": "The Beginning of Infinity",
+   "tags_raw": "#Science #Philosophy",
+   "tags": [
+    "#Science",
+    "#Philosophy"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "David Deutsch"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80b7-a7d1-e47a47ca9b2f",
+   "title": "Human Compatible",
+   "tags_raw": "#AI #Ethics",
+   "tags": [
+    "#AI",
+    "#Ethics"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Stuart Russell"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80db-9ecd-e1100de2c245",
+   "title": "Antifragile",
+   "tags_raw": "#Probability #Philosophy",
+   "tags": [
+    "#Probability",
+    "#Philosophy"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Nassim Taleb"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8001-981b-e6f52b293417",
+   "title": "Only the Paranoid Survive",
+   "tags_raw": "#Strategy #Business",
+   "tags": [
+    "#Strategy",
+    "#Business"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Andrew Grove"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8041-b347-fdde2042a20d",
+   "title": "The World for Sale",
+   "tags_raw": "#Commodities #Economics",
+   "tags": [
+    "#Commodities",
+    "#Economics"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Javier Blas"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8098-9865-f4d3bf1870df",
+   "title": "Super Thinking",
+   "tags_raw": "#CriticalThinking #MentalModels",
+   "tags": [
+    "#CriticalThinking",
+    "#MentalModels"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Gabriel Weinberg"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8093-a40e-c2abe935ac4d",
+   "title": "Good Strategy Bad Strategy",
+   "tags_raw": "#Strategy #CriticalThinking",
+   "tags": [
+    "#Strategy",
+    "#CriticalThinking"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Richard Rumelt"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80e9-a728-d54cfa626818",
+   "title": "The Innovator's Dilemma",
+   "tags_raw": "#Innovation #Business",
+   "tags": [
+    "#Innovation",
+    "#Business"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Clayton Christensen"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8004-add0-d39b4f7862a9",
+   "title": "Understanding Michael Porter",
+   "tags_raw": "#Strategy #Business",
+   "tags": [
+    "#Strategy",
+    "#Business"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Joan Magretta"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-806a-b8b6-db326bedfdb9",
+   "title": "Playing to Win",
+   "tags_raw": "#Strategy #Business",
+   "tags": [
+    "#Strategy",
+    "#Business"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "A.G. Lafley"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80de-a62b-c9c170ddbd7e",
+   "title": "Click",
+   "tags_raw": "#IdeaGeneration #Work",
+   "tags": [
+    "#IdeaGeneration",
+    "#Work"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "John Zeratsky"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8038-a6d2-ca7e7ef7f461",
+   "title": "Crossing the Chasm",
+   "tags_raw": "#Marketing #Tech",
+   "tags": [
+    "#Marketing",
+    "#Tech"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Geoffrey Moore"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-809e-86d1-fb4ae27cf2c2",
+   "title": "The Crux",
+   "tags_raw": "#Strategy #ProblemSolving",
+   "tags": [
+    "#Strategy",
+    "#ProblemSolving"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Richard Rumelt"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8016-bef6-df3302def324",
+   "title": "Competition Demystified",
+   "tags_raw": "#Strategy #Economics",
+   "tags": [
+    "#Strategy",
+    "#Economics"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Bruce Greenwald"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8057-b186-db7637ce07ad",
+   "title": "Clear Thinking",
+   "tags_raw": "#CriticalThinking #DecisionMaking #DecisionProtocols #MentalModels #SystemFirst #NoiseReduction",
+   "tags": [
+    "#CriticalThinking",
+    "#DecisionMaking",
+    "#DecisionProtocols",
+    "#MentalModels",
+    "#SystemFirst",
+    "#NoiseReduction"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟠 G.3",
+   "author": "Shane Parrish"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80b2-a63c-df6c283f14a6",
+   "title": "Sprint",
+   "tags_raw": "#Innovation #Process",
+   "tags": [
+    "#Innovation",
+    "#Process"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Jake Knapp"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8003-ad5a-f9c3cc696315",
+   "title": "Your Next Five Moves",
+   "tags_raw": "#Strategy #Business",
+   "tags": [
+    "#Strategy",
+    "#Business"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Patrick Bet-David"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80ac-8cf8-e75fd565c688",
+   "title": "Make Time",
+   "tags_raw": "#Focus #Productivity",
+   "tags": [
+    "#Focus",
+    "#Productivity"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Jake Knapp"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8024-82d0-fc1e039f7074",
+   "title": "Noise",
+   "tags_raw": "#Statistics #DecisionMaking",
+   "tags": [
+    "#Statistics",
+    "#DecisionMaking"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🔴 Boss",
+   "author": "Daniel Kahneman"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80ef-8191-cf91c88f1873",
+   "title": "7 Powers",
+   "tags_raw": "#Strategy #Business",
+   "tags": [
+    "#Strategy",
+    "#Business"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Hamilton Helmer"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-802c-bccb-c42fbe6d3041",
+   "title": "Thinking in Bets",
+   "tags_raw": "#Probability #DecisionMaking",
+   "tags": [
+    "#Probability",
+    "#DecisionMaking"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Annie Duke"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80aa-9399-c141eedd6ccc",
+   "title": "Don't Make Me Think",
+   "tags_raw": "#UXDesign #Web",
+   "tags": [
+    "#UXDesign",
+    "#Web"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Steve Krug"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80d9-ab40-f72b1c912e3d",
+   "title": "Mastery",
+   "tags_raw": "#History #SkillBuilding",
+   "tags": [
+    "#History",
+    "#SkillBuilding"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Robert Greene"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-808c-a363-f5b14974610e",
+   "title": "The 48 Laws of Power",
+   "tags_raw": "#Power #History",
+   "tags": [
+    "#Power",
+    "#History"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Robert Greene"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80ec-89cb-f865ae5c30fb",
+   "title": "The Great Mental Models Volume 1:General Thinking Concepts",
+   "tags_raw": "#CriticalThinking #MentalModels",
+   "tags": [
+    "#CriticalThinking",
+    "#MentalModels"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟠 G.3",
+   "author": "Shane Parrish"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8043-9a8d-c7d2b0c3c950",
+   "title": "Blue Ocean Strategy",
+   "tags_raw": "#Strategy #Business",
+   "tags": [
+    "#Strategy",
+    "#Business"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "W. Chan Kim"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80dc-98c9-c7345c9f1188",
+   "title": "Algorithms to Live By",
+   "tags_raw": "#CompSci #DecisionMaking",
+   "tags": [
+    "#CompSci",
+    "#DecisionMaking"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Brian Christian"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80ee-9bca-ca095fddd1a3",
+   "title": "The Design of Everyday Things",
+   "tags_raw": "#Design #Psychology",
+   "tags": [
+    "#Design",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Don Norman"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-808c-92fb-d98396616bee",
+   "title": "The Laws of Human Nature",
+   "tags_raw": "#History #Psychology",
+   "tags": [
+    "#History",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Robert Greene"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80c2-b3fb-d09fb9846e80",
+   "title": "Team of Rivals",
+   "tags_raw": "#Politics #History",
+   "tags": [
+    "#Politics",
+    "#History"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Doris Kearns Goodwin"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8022-992f-f44543ac3382",
+   "title": "Benjamin Franklin",
+   "tags_raw": "#Biography #History",
+   "tags": [
+    "#Biography",
+    "#History"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Walter Isaacson"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8090-8e61-f0be920ae6f1",
+   "title": "Titan",
+   "tags_raw": "#Biography #Business",
+   "tags": [
+    "#Biography",
+    "#Business"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Ron Chernow"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80ec-b6ce-ed477bb21d7b",
+   "title": "Trillion Dollar Coach",
+   "tags_raw": "#Management #Leadership",
+   "tags": [
+    "#Management",
+    "#Leadership"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Eric Schmidt"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-801a-8699-fabe89f566cf",
+   "title": "Napoleon",
+   "tags_raw": "#Military #Biography",
+   "tags": [
+    "#Military",
+    "#Biography"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Andrew Roberts"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80bd-837e-fb4383e4f2ec",
+   "title": "Alexander Hamilton",
+   "tags_raw": "#Biography #History",
+   "tags": [
+    "#Biography",
+    "#History"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Ron Chernow"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8032-84ad-d153b25ef0e2",
+   "title": "Elon Musk",
+   "tags_raw": "#Biography #Tech",
+   "tags": [
+    "#Biography",
+    "#Tech"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Walter Isaacson"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8052-91ba-cb1a633912ab",
+   "title": "Churchill",
+   "tags_raw": "#Politics #Biography",
+   "tags": [
+    "#Politics",
+    "#Biography"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Andrew Roberts"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-802e-a5eb-f046448717cb",
+   "title": "Leadership",
+   "tags_raw": "#History #Leadership",
+   "tags": [
+    "#History",
+    "#Leadership"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Doris Kearns Goodwin"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80d7-b288-cb0ae46d762f",
+   "title": "Leonardo da Vinci",
+   "tags_raw": "#Art #Biography",
+   "tags": [
+    "#Art",
+    "#Biography"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Walter Isaacson"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8012-8a5a-e885a9d924f3",
+   "title": "Washington",
+   "tags_raw": "#Biography #History",
+   "tags": [
+    "#Biography",
+    "#History"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Ron Chernow"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8029-bbd3-cc64d01f7cea",
+   "title": "No Rules Rules",
+   "tags_raw": "#Culture #Business",
+   "tags": [
+    "#Culture",
+    "#Business"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Reed Hastings"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80a0-b2cd-ea69d79f825a",
+   "title": "High Output Management",
+   "tags_raw": "#Efficiency #Management",
+   "tags": [
+    "#Efficiency",
+    "#Management"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Andrew Grove"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-802f-81c2-cf28eab8f7de",
+   "title": "Creativity Inc.",
+   "tags_raw": "#Creativity #Culture",
+   "tags": [
+    "#Creativity",
+    "#Culture"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Ed Catmull"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80cd-a21c-ef5102733847",
+   "title": "Grant",
+   "tags_raw": "#Biography #History",
+   "tags": [
+    "#Biography",
+    "#History"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Ron Chernow"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8004-b85a-ddb8d42f0169",
+   "title": "Einstein",
+   "tags_raw": "#Science #Biography",
+   "tags": [
+    "#Science",
+    "#Biography"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Walter Isaacson"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8071-bfa2-d07f1fca1235",
+   "title": "Why Nations Fail",
+   "tags_raw": "#Politics #Economics",
+   "tags": [
+    "#Politics",
+    "#Economics"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Daron Acemoglu"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-806e-85fa-ed78054929cb",
+   "title": "Shoe Dog",
+   "tags_raw": "#Memoir #Entrepreneurship",
+   "tags": [
+    "#Memoir",
+    "#Entrepreneurship"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Phil Knight"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8076-a8ad-fd233248e5d0",
+   "title": "Built to Last",
+   "tags_raw": "#Management #Business",
+   "tags": [
+    "#Management",
+    "#Business"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Jim Collins"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80d1-b5de-d2522432bae4",
+   "title": "The Hard Thing About Hard Things",
+   "tags_raw": "#Management #Entrepreneurship",
+   "tags": [
+    "#Management",
+    "#Entrepreneurship"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Ben Horowitz"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8067-b5c5-e04a087c3c84",
+   "title": "Great by Choice",
+   "tags_raw": "#Management #Business",
+   "tags": [
+    "#Management",
+    "#Business"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Jim Collins"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8092-b6a9-e7f895f10856",
+   "title": "Measure What Matters",
+   "tags_raw": "#OKRs #Management",
+   "tags": [
+    "#OKRs",
+    "#Management"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "John Doerr"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80e3-acc6-cd80a32bd207",
+   "title": "Good to Great",
+   "tags_raw": "#Management #Business",
+   "tags": [
+    "#Management",
+    "#Business"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Jim Collins"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8043-8d7d-e9ca7620e7bd",
+   "title": "Steve Jobs",
+   "tags_raw": "#Biography #Tech",
+   "tags": [
+    "#Biography",
+    "#Tech"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Walter Isaacson"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8064-b58c-fa2524ef7c1e",
+   "title": "Contagious",
+   "tags_raw": "#ViralMarketing #Psychology",
+   "tags": [
+    "#ViralMarketing",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Jonah Berger"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80c4-b5aa-f1e1360918fc",
+   "title": "Principles",
+   "tags_raw": "#Business #Mindset",
+   "tags": [
+    "#Business",
+    "#Mindset"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Ray Dalio"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-803d-afd6-d8422cfdf823",
+   "title": "Nudge",
+   "tags_raw": "#BehavioralEcon #Psychology",
+   "tags": [
+    "#BehavioralEcon",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Richard Thaler"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80f3-9453-ed3636450008",
+   "title": "Freakonomics",
+   "tags_raw": "#Economics #Thinking",
+   "tags": [
+    "#Economics",
+    "#Thinking"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Steven D. Levitt"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8058-a6ec-eb5ca443778b",
+   "title": "The Catalyst",
+   "tags_raw": "#Change #Persuasion",
+   "tags": [
+    "#Change",
+    "#Persuasion"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Jonah Berger"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8064-a21b-caa95e4522bc",
+   "title": "Can't Hurt Me",
+   "tags_raw": "#Resilience #Mindset",
+   "tags": [
+    "#Resilience",
+    "#Mindset"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "David Goggins"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-808f-ab06-d9fa3bf5e796",
+   "title": "Guns Germs and Steel",
+   "tags_raw": "#History #Anthropology",
+   "tags": [
+    "#History",
+    "#Anthropology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Jared Diamond"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8015-8674-fc70eb1845c2",
+   "title": "Never Split the Difference",
+   "tags_raw": "#Negotiation #Psychology",
+   "tags": [
+    "#Negotiation",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Chris Voss"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-809c-abf9-c84abcc28ea1",
+   "title": "Homo Deus",
+   "tags_raw": "#Future #Anthropology",
+   "tags": [
+    "#Future",
+    "#Anthropology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Yuval Noah Harari"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8077-b695-ecb74d77db62",
+   "title": "Misbehaving",
+   "tags_raw": "#BehavioralEcon #History",
+   "tags": [
+    "#BehavioralEcon",
+    "#History"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Richard Thaler"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80bc-8e13-ede63bca9d89",
+   "title": "Dollars and Sense",
+   "tags_raw": "#Finance #Psychology",
+   "tags": [
+    "#Finance",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Dan Ariely"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80ca-9fde-fdba58d865f4",
+   "title": "21 Lessons for the 21st Century",
+   "tags_raw": "#CurrentAffairs #Future",
+   "tags": [
+    "#CurrentAffairs",
+    "#Future"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Yuval Noah Harari"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8034-b326-ef90bb5ff251",
+   "title": "Indistractable",
+   "tags_raw": "#Focus #Psychology",
+   "tags": [
+    "#Focus",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Nir Eyal"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80bb-980c-dc8086f83518",
+   "title": "Superfreakonomics",
+   "tags_raw": "#Economics #Thinking",
+   "tags": [
+    "#Economics",
+    "#Thinking"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Steven D. Levitt"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8037-be4a-eeefd15aae68",
+   "title": "Influence",
+   "tags_raw": "#Marketing #Persuasion",
+   "tags": [
+    "#Marketing",
+    "#Persuasion"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Robert Cialdini"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8046-9d3d-ebd0aede7f95",
+   "title": "Factfulness",
+   "tags_raw": "#WorldView #Data",
+   "tags": [
+    "#WorldView",
+    "#Data"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Hans Rosling"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80c0-b842-c7a5ab630f64",
+   "title": "Predictably Irrational",
+   "tags_raw": "#BehavioralEcon #Psychology",
+   "tags": [
+    "#BehavioralEcon",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Dan Ariely"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80fa-95b5-d91548a96aaa",
+   "title": "The Upside of Irrationality",
+   "tags_raw": "#BehavioralEcon #Psychology",
+   "tags": [
+    "#BehavioralEcon",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Dan Ariely"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8055-b68e-d71c48dafb43",
+   "title": "Sapiens",
+   "tags_raw": "#History #Anthropology",
+   "tags": [
+    "#History",
+    "#Anthropology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Yuval Noah Harari"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80b6-b14a-f7faa16b2328",
+   "title": "Made to Stick",
+   "tags_raw": "#IdeaGeneration #Communication",
+   "tags": [
+    "#IdeaGeneration",
+    "#Communication"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Chip Heath"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-800a-bf69-eb770cb04ffd",
+   "title": "Switch",
+   "tags_raw": "#Change #Psychology",
+   "tags": [
+    "#Change",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Chip Heath"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8040-9780-ca36f73d2b7e",
+   "title": "How to Win Friends...",
+   "tags_raw": "#Communication #SocialSkills",
+   "tags": [
+    "#Communication",
+    "#SocialSkills"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Dale Carnegie"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80f7-bc42-e230868e6233",
+   "title": "Think Like a Freak",
+   "tags_raw": "#Economics #CriticalThinking",
+   "tags": [
+    "#Economics",
+    "#CriticalThinking"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Steven D. Levitt"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-803e-b2b2-c1be07f30a69",
+   "title": "The Subtle Art of Not Giving a F*ck",
+   "tags_raw": "#Values #Mindset",
+   "tags": [
+    "#Values",
+    "#Mindset"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Mark Manson"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80af-b23c-ccfd3b3ebd07",
+   "title": "Pre-Suasion",
+   "tags_raw": "#Marketing #Persuasion",
+   "tags": [
+    "#Marketing",
+    "#Persuasion"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Robert Cialdini"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-803c-b877-f3dcd55e4c3f",
+   "title": "Atomic Habits",
+   "tags_raw": "#Habits #Psychology",
+   "tags": [
+    "#Habits",
+    "#Psychology"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟠 G.3",
+   "author": "James Clear"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80fb-a4ce-c3c7cec50e63",
+   "title": "The Compound Effect",
+   "tags_raw": "#Growth #Productivity",
+   "tags": [
+    "#Growth",
+    "#Productivity"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Darren Hardy"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-802a-bf3e-f5b7d7c93eb4",
+   "title": "How to Take Smart Notes",
+   "tags_raw": "#Zettelkasten #PKM",
+   "tags": [
+    "#Zettelkasten",
+    "#PKM"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Sönke Ahrens"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-809c-9eb1-f21579358264",
+   "title": "Writing to Learn",
+   "tags_raw": "#Writing #Learning",
+   "tags": [
+    "#Writing",
+    "#Learning"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "William Zinsser"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8036-9ab8-f4ef875bfd98",
+   "title": "12 Rules for Life",
+   "tags_raw": "#Rules #Psychology",
+   "tags": [
+    "#Rules",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Jordan B. Peterson"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80d4-89f9-f7517e375ad8",
+   "title": "The Obstacle is the Way",
+   "tags_raw": "#Stoicism #Resilience",
+   "tags": [
+    "#Stoicism",
+    "#Resilience"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟠 G.3",
+   "author": "Ryan Holiday"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8084-9591-c20505c7ff33",
+   "title": "Everything Is F*cked",
+   "tags_raw": "#Philosophy #Hope",
+   "tags": [
+    "#Philosophy",
+    "#Hope"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Mark Manson"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80a4-a2c6-d1cb9c161b4d",
+   "title": "The One Thing",
+   "tags_raw": "#Focus #Productivity",
+   "tags": [
+    "#Focus",
+    "#Productivity"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Gary Keller"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8031-b4b5-f6160e3e389f",
+   "title": "Bird by Bird",
+   "tags_raw": "#Writing #Creativity",
+   "tags": [
+    "#Writing",
+    "#Creativity"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Anne Lamott"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8084-a288-e9ba47f9faa6",
+   "title": "Wisdom Takes Work",
+   "tags_raw": "#Stoicism #Wisdom",
+   "tags": [
+    "#Stoicism",
+    "#Wisdom"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Ryan Holiday"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80b1-bf53-c52767604ac7",
+   "title": "Discipline Is Destiny",
+   "tags_raw": "#Stoicism #Discipline",
+   "tags": [
+    "#Stoicism",
+    "#Discipline"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Ryan Holiday"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80d6-8197-d18c6bf6152d",
+   "title": "The Creative Act",
+   "tags_raw": "#Creativity #Spirituality",
+   "tags": [
+    "#Creativity",
+    "#Spirituality"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Rick Rubin"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80fd-85d0-c58d49c0df96",
+   "title": "Building a Second Brain",
+   "tags_raw": "#Notetaking #PKM",
+   "tags": [
+    "#Notetaking",
+    "#PKM"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Tiago Forte"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-805a-9bc9-e16f042f4dbd",
+   "title": "Courage Is Calling",
+   "tags_raw": "#Stoicism #Courage",
+   "tags": [
+    "#Stoicism",
+    "#Courage"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Ryan Holiday"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80bd-9735-cd23df165929",
+   "title": "The Laws of Creativity",
+   "tags_raw": "#Creativity #Mindset",
+   "tags": [
+    "#Creativity",
+    "#Mindset"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Joey Cofone"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8043-8b21-d1598fe90513",
+   "title": "Right Thing Right Now",
+   "tags_raw": "#Justice #Stoicism",
+   "tags": [
+    "#Justice",
+    "#Stoicism"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Ryan Holiday"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80d0-940e-fedb6d9c3506",
+   "title": "Stillness Is the Key",
+   "tags_raw": "#Stoicism #Mindfulness",
+   "tags": [
+    "#Stoicism",
+    "#Mindfulness"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Ryan Holiday"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8009-a67c-e658347afc3d",
+   "title": "How to Fail at Almost Everything...",
+   "tags_raw": "#Systems #Success",
+   "tags": [
+    "#Systems",
+    "#Success"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Scott Adams"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80af-9f80-e2fdcb6888e7",
+   "title": "Feel-Good Productivity",
+   "tags_raw": "#Happiness #Productivity",
+   "tags": [
+    "#Happiness",
+    "#Productivity"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟠 G.3",
+   "author": "Ali Abdaal"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8050-bf52-de336591c82d",
+   "title": "Range",
+   "tags_raw": "#Career #Learning",
+   "tags": [
+    "#Career",
+    "#Learning"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "David J. Epstein"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80ac-98b4-c66f95fa4e71",
+   "title": "Effortless",
+   "tags_raw": "#Ease #Productivity",
+   "tags": [
+    "#Ease",
+    "#Productivity"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Greg Mckeown"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8058-82b1-cc3decc1c090",
+   "title": "The Diary of a CEO",
+   "tags_raw": "#Business #Leadership",
+   "tags": [
+    "#Business",
+    "#Leadership"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Steven Bartlett"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80eb-bff4-d40455cb4381",
+   "title": "Man's Search for Meaning",
+   "tags_raw": "#Meaning #Psychology",
+   "tags": [
+    "#Meaning",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Viktor E. Frankl"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8005-9999-f23455d8822a",
+   "title": "They Ask You Answer",
+   "tags_raw": "#Sales #ContentMarketing",
+   "tags": [
+    "#Sales",
+    "#ContentMarketing"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Marcus Sheridan"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8076-a0d2-d5568e413f0d",
+   "title": "David and Goliath",
+   "tags_raw": "#Strategy #Psychology",
+   "tags": [
+    "#Strategy",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Malcolm Gladwell"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8030-8c58-e495d5ff4da8",
+   "title": "Die With Zero",
+   "tags_raw": "#Finance #Lifestyle",
+   "tags": [
+    "#Finance",
+    "#Lifestyle"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Bill Perkins"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80c4-8e97-c87f328a5205",
+   "title": "Happy Sexy Millionaire",
+   "tags_raw": "#Entrepreneurship #Mindset",
+   "tags": [
+    "#Entrepreneurship",
+    "#Mindset"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Steven Bartlett"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-800b-8608-dfbd9d3cc810",
+   "title": "Essentialism",
+   "tags_raw": "#Productivity #Minimalism",
+   "tags": [
+    "#Productivity",
+    "#Minimalism"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟠 G.3",
+   "author": "Greg Mckeown"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8085-93c3-f6521faf356e",
+   "title": "Hidden Potential",
+   "tags_raw": "#Growth #Learning",
+   "tags": [
+    "#Growth",
+    "#Learning"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Adam Grant"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8005-981d-cc8ce8e2cb95",
+   "title": "Slow Productivity",
+   "tags_raw": "#Productivity #Pace",
+   "tags": [
+    "#Productivity",
+    "#Pace"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Cal Newport"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8014-9846-deea1df6a629",
+   "title": "The Lean Startup",
+   "tags_raw": "#Methodology #Startups",
+   "tags": [
+    "#Methodology",
+    "#Startups"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Eric Ries"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8086-b40b-e3f988e70eaa",
+   "title": "Endless Customers",
+   "tags_raw": "#Sales #Marketing",
+   "tags": [
+    "#Sales",
+    "#Marketing"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Marcus Sheridan"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8014-a98e-c36d5276424a",
+   "title": "Think Again",
+   "tags_raw": "#Rethinking #CriticalThinking",
+   "tags": [
+    "#Rethinking",
+    "#CriticalThinking"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Adam Grant"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8006-8ebb-dea95ac072e3",
+   "title": "Outliers",
+   "tags_raw": "#Sociology #Success",
+   "tags": [
+    "#Sociology",
+    "#Success"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Malcolm Gladwell"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80e7-baf2-fa17c3810579",
+   "title": "Digital Minimalism",
+   "tags_raw": "#Focus #DigitalWellbeing",
+   "tags": [
+    "#Focus",
+    "#DigitalWellbeing"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Cal Newport"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8033-b7ec-c240571433e6",
+   "title": "Zero to One",
+   "tags_raw": "#Future #Startups",
+   "tags": [
+    "#Future",
+    "#Startups"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Peter Thiel"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8037-a4fd-c9deca59539d",
+   "title": "So Good They Can't Ignore You",
+   "tags_raw": "#Career #SkillBuilding",
+   "tags": [
+    "#Career",
+    "#SkillBuilding"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Cal Newport"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80b8-85c5-d2f3921960a1",
+   "title": "Setting the Table",
+   "tags_raw": "#Restaurant #Business",
+   "tags": [
+    "#Restaurant",
+    "#Business"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Danny Meyer"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8030-a42c-fdc93b43aeab",
+   "title": "Unreasonable Hospitality",
+   "tags_raw": "#Management #Service",
+   "tags": [
+    "#Management",
+    "#Service"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Will Guidara"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80d2-8c34-e560577cb598",
+   "title": "Deep Work",
+   "tags_raw": "#Focus #Productivity",
+   "tags": [
+    "#Focus",
+    "#Productivity"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟠 G.3",
+   "author": "Cal Newport"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8039-900a-e93453d00700",
+   "title": "The Tipping Point",
+   "tags_raw": "#Trends #Sociology",
+   "tags": [
+    "#Trends",
+    "#Sociology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Malcolm Gladwell"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80dd-a7a0-ce7b664a04b1",
+   "title": "Building a StoryBrand 2.0",
+   "tags_raw": "#Marketing #Storytelling",
+   "tags": [
+    "#Marketing",
+    "#Storytelling"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Donald Miller"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8017-adbf-d6d865e789a7",
+   "title": "Talking to Strangers",
+   "tags_raw": "#Communication #Psychology",
+   "tags": [
+    "#Communication",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Malcolm Gladwell"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-803e-9658-fac3d1cba1a3",
+   "title": "Originals",
+   "tags_raw": "#Creativity #Change",
+   "tags": [
+    "#Creativity",
+    "#Change"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Adam Grant"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8040-820f-e8a26070c5a2",
+   "title": "Give and Take",
+   "tags_raw": "#Networking #Psychology",
+   "tags": [
+    "#Networking",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Adam Grant"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-803c-bd24-f97bf8e6a861",
+   "title": "Rules for a Knight",
+   "tags_raw": "#Ethics #Philosophy",
+   "tags": [
+    "#Ethics",
+    "#Philosophy"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Ethan Hawke"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8049-9973-dce678d78eed",
+   "title": "Same as Ever",
+   "tags_raw": "#History #Psychology",
+   "tags": [
+    "#History",
+    "#Psychology"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟠 G.3",
+   "author": "Morgan Housel"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-803d-8eac-cf1def6272f3",
+   "title": "This Is Strategy",
+   "tags_raw": "#Strategy #Business",
+   "tags": [
+    "#Strategy",
+    "#Business"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Seth Godin"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8072-b29a-c09afac0d31b",
+   "title": "This Is Marketing",
+   "tags_raw": "#Marketing #Philosophy",
+   "tags": [
+    "#Marketing",
+    "#Philosophy"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Seth Godin"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8026-953e-d357f4520e2b",
+   "title": "HBR Guide to Generative AI",
+   "tags_raw": "#Business #AI",
+   "tags": [
+    "#Business",
+    "#AI"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Elisa Farri"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8049-a459-d6775bf1dbd8",
+   "title": "Purpose & Profit",
+   "tags_raw": "#สร้างสรรค์ #OnePersonBusiness #Philosophy",
+   "tags": [
+    "#สร้างสรรค์",
+    "#OnePersonBusiness",
+    "#Philosophy"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Dan Koe"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8014-a2aa-f77350291fb2",
+   "title": "The Art of Spending Money",
+   "tags_raw": "#Finance #Psychology",
+   "tags": [
+    "#Finance",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Morgan Housel"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8017-9cc7-d4106ce3c6fd",
+   "title": "The Let Them Theory",
+   "tags_raw": "#LettingGo #Mindset",
+   "tags": [
+    "#LettingGo",
+    "#Mindset"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Mel Robbins"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-808d-8469-fe915c041ad2",
+   "title": "Stoicism for New Life",
+   "tags_raw": "#Stoicism #Philosophy",
+   "tags": [
+    "#Stoicism",
+    "#Philosophy"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Michael Whiteclear"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8008-a5b4-f72ed4c12b4e",
+   "title": "A Calendar of Wisdom",
+   "tags_raw": "#Daily #Philosophy",
+   "tags": [
+    "#Daily",
+    "#Philosophy"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Leo Tolstoy"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80bc-8134-d95fd337f0a1",
+   "title": "Seven Brief Lessons on Physics",
+   "tags_raw": "#Science #Physics",
+   "tags": [
+    "#Science",
+    "#Physics"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Carlo Rovelli"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80f6-998c-d6f1be2c44a4",
+   "title": "Tools Of Titans",
+   "tags_raw": "#Interview #Success",
+   "tags": [
+    "#Interview",
+    "#Success"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Timothy Ferriss"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80a4-9f26-fae9021b6224",
+   "title": "Manifest",
+   "tags_raw": "#SelfHelp #Mindset",
+   "tags": [
+    "#SelfHelp",
+    "#Mindset"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Roxie Nafousi"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80dc-9000-e4bf28133ebc",
+   "title": "The 5 Types of Wealth",
+   "tags_raw": "#Wealth #Lifestyle",
+   "tags": [
+    "#Wealth",
+    "#Lifestyle"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Sahil Bloom"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80e6-b3b6-c31c8fec10fd",
+   "title": "The Psychology of Money: Timeless lessons on wealth, greed, and happiness",
+   "tags_raw": "#Wealth #Compounding #BehavioralFinance #Level_G3 #Storytelling #DuckOS_Asset",
+   "tags": [
+    "#Wealth",
+    "#Compounding",
+    "#BehavioralFinance",
+    "#Level_G3",
+    "#Storytelling",
+    "#DuckOS_Asset"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟠 G.3",
+   "author": "Morgan Housel"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80e7-9ce9-dd5443610659",
+   "title": "The Book of Five Rings (Modern)",
+   "tags_raw": "#Strategy #Philosophy",
+   "tags": [
+    "#Strategy",
+    "#Philosophy"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟡 G.2",
+   "author": "Miyamoto Musashi"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8088-a7ba-cf05baace01c",
+   "title": "When to Rob a Bank",
+   "tags_raw": "#Economics #Thinking",
+   "tags": [
+    "#Economics",
+    "#Thinking"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Steven D. Levitt"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80b6-a1c9-c367773f8149",
+   "title": "Dokkōdō",
+   "tags_raw": "#Strategy #Philosophy",
+   "tags": [
+    "#Strategy",
+    "#Philosophy"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Miyamoto Musashi"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80ff-bbdf-ea628b932ff2",
+   "title": "The Little Book of Stoicism",
+   "tags_raw": "#Stoicism #Philosophy",
+   "tags": [
+    "#Stoicism",
+    "#Philosophy"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Jonas Salzgeber"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8072-8a2d-ca4bd9d8092d",
+   "title": "Tiny Experiments",
+   "tags_raw": "#Growth #Experimentation",
+   "tags": [
+    "#Growth",
+    "#Experimentation"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟡 G.2",
+   "author": "Anne-Laure Le Cunff"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80d0-a955-d40c3293a441",
+   "title": "The Science of Getting Rich",
+   "tags_raw": "#Wealth #Mindset",
+   "tags": [
+    "#Wealth",
+    "#Mindset"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Wallace D. Wattles"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8013-8c31-ea6d6a047854",
+   "title": "100 Ways to Improve Your Writing",
+   "tags_raw": "#Writing #Language",
+   "tags": [
+    "#Writing",
+    "#Language"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Gary Provost"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80e8-83e6-fa17af8d721e",
+   "title": "Reinvent Yourself At Any Age",
+   "tags_raw": "#Change #Growth",
+   "tags": [
+    "#Change",
+    "#Growth"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Patricia del Valle"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8017-987b-f535953e2a9d",
+   "title": "Suddenly Talented",
+   "tags_raw": "#SkillBuilding #Learning",
+   "tags": [
+    "#SkillBuilding",
+    "#Learning"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Sean D'Souza"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8052-93ab-f8c8c4b8a3c7",
+   "title": "One Plus One Equals Three",
+   "tags_raw": "#Creativity #Storytelling",
+   "tags": [
+    "#Creativity",
+    "#Storytelling"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Dave Trott"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8017-b05f-c2f45a29eed2",
+   "title": "Extra Focus",
+   "tags_raw": "#Productivity #ADHD",
+   "tags": [
+    "#Productivity",
+    "#ADHD"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟡 G.2",
+   "author": "Jesse J. Anderson"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-809e-a935-e35011e9c79b",
+   "title": "To-Do List Formula",
+   "tags_raw": "#Planning #Productivity",
+   "tags": [
+    "#Planning",
+    "#Productivity"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Damon Zahariades"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8079-94dc-fc0f8ee4a71f",
+   "title": "Copywrong to Copywriter",
+   "tags_raw": "#Copywriting #Communication",
+   "tags": [
+    "#Copywriting",
+    "#Communication"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Tait Ischia"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8083-9168-dcfb98a2ebca",
+   "title": "The Brain Audit",
+   "tags_raw": "#Marketing #Psychology",
+   "tags": [
+    "#Marketing",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Sean D'Souza"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8024-a7d4-da1a7446fe73",
+   "title": "Everybody Writes",
+   "tags_raw": "#Writing #ContentMarketing",
+   "tags": [
+    "#Writing",
+    "#ContentMarketing"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Ann Handley"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-806c-9050-ce26898caeed",
+   "title": "Million Dollar Weekend",
+   "tags_raw": "#Entrepreneurship #Action",
+   "tags": [
+    "#Entrepreneurship",
+    "#Action"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Noah Kagan"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8038-95a6-e45f4a33023a",
+   "title": "The Unfair Advantage",
+   "tags_raw": "#Entrepreneurship #Mindset",
+   "tags": [
+    "#Entrepreneurship",
+    "#Mindset"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Ash Ali"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80e7-88c4-c9a584fc208a",
+   "title": "Negotiation Made Simple",
+   "tags_raw": "#Business #Negotiation",
+   "tags": [
+    "#Business",
+    "#Negotiation"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "John Lowry"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8088-be4e-d1ac6f45a788",
+   "title": "Hook Point",
+   "tags_raw": "#Marketing #SocialMedia",
+   "tags": [
+    "#Marketing",
+    "#SocialMedia"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟡 G.2",
+   "author": "Brendan Kane"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8091-b748-ce93fe9d94cb",
+   "title": "The Comfort Book",
+   "tags_raw": "#Comfort #MentalHealth",
+   "tags": [
+    "#Comfort",
+    "#MentalHealth"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Matt Haig"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80f4-a73a-dab69bea1985",
+   "title": "Mini Book Model",
+   "tags_raw": "#Writing #Publishing",
+   "tags": [
+    "#Writing",
+    "#Publishing"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Chris Stanley"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8025-b3d4-cd9a91ba3703",
+   "title": "How to Be Better at Almost Everything",
+   "tags_raw": "#SkillStacking #Learning",
+   "tags": [
+    "#SkillStacking",
+    "#Learning"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟡 G.2",
+   "author": "Pat Flynn"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80f4-9d46-e128ac011ed5",
+   "title": "Reasons to Stay Alive",
+   "tags_raw": "#Memoir #MentalHealth",
+   "tags": [
+    "#Memoir",
+    "#MentalHealth"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Matt Haig"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-805f-b0e7-e0bbef81ce19",
+   "title": "Stop Reading the News",
+   "tags_raw": "#Focus #MentalHealth",
+   "tags": [
+    "#Focus",
+    "#MentalHealth"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Rolf Dobelli"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80f3-9611-db4007c1c144",
+   "title": "Simple Marketing For Smart People",
+   "tags_raw": "#Marketing #Communication",
+   "tags": [
+    "#Marketing",
+    "#Communication"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Billy Broas"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8032-ae81-c2265dcf5b73",
+   "title": "The Art of the Good Life",
+   "tags_raw": "#Philosophy #Thinking",
+   "tags": [
+    "#Philosophy",
+    "#Thinking"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Rolf Dobelli"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-806a-8282-e9adafd981b8",
+   "title": "Focus on What Matters",
+   "tags_raw": "#Productivity #Minimalism",
+   "tags": [
+    "#Productivity",
+    "#Minimalism"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Darius Foroux"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8041-980d-d72196aa6d64",
+   "title": "AI Can't Write But You Can",
+   "tags_raw": "#Writing #AI",
+   "tags": [
+    "#Writing",
+    "#AI"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Tom Albrighton"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80a1-9dff-c7cb410a21ad",
+   "title": "Surrounded by Idiots",
+   "tags_raw": "#Communication #Psychology",
+   "tags": [
+    "#Communication",
+    "#Psychology"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Thomas Erikson"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-805f-8c8b-f1a4801300e4",
+   "title": "The PARA Method",
+   "tags_raw": "#Organization #PKM",
+   "tags": [
+    "#Organization",
+    "#PKM"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Tiago Forte"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8077-a9e6-ef44737c8502",
+   "title": "Growth Hacker Marketing",
+   "tags_raw": "#Marketing #Growth",
+   "tags": [
+    "#Marketing",
+    "#Growth"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Ryan Holiday"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8027-8f0d-cf830443699b",
+   "title": "Beyond Thoughts",
+   "tags_raw": "#Spirituality #MentalHealth",
+   "tags": [
+    "#Spirituality",
+    "#MentalHealth"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Joseph Nguyen"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-802d-aa11-d55b30597d31",
+   "title": "Scientific Advertising",
+   "tags_raw": "#Marketing #Classics",
+   "tags": [
+    "#Marketing",
+    "#Classics"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟡 G.2",
+   "author": "Claude Hopkins"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-800d-a423-fed7eb90fb37",
+   "title": "Company of One",
+   "tags_raw": "#Entrepreneurship #Minimalism",
+   "tags": [
+    "#Entrepreneurship",
+    "#Minimalism"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Paul Jarvis"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8032-a27b-da55a17a6df5",
+   "title": "Show Your Work!",
+   "tags_raw": "#Creativity #PersonalBranding",
+   "tags": [
+    "#Creativity",
+    "#PersonalBranding"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟡 G.2",
+   "author": "Austin Kleon"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8068-9c10-cd4cc82040c1",
+   "title": "Remote",
+   "tags_raw": "#Management #RemoteWork",
+   "tags": [
+    "#Management",
+    "#RemoteWork"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Jason Fried"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8044-9898-e0589b862081",
+   "title": "Business Made Simple",
+   "tags_raw": "#Management #Business",
+   "tags": [
+    "#Management",
+    "#Business"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟡 G.2",
+   "author": "Donald Miller"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-806a-9ad1-f4e175b42a69",
+   "title": "Boundaries = Freedom",
+   "tags_raw": "#Boundaries #MentalHealth",
+   "tags": [
+    "#Boundaries",
+    "#MentalHealth"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Joseph Nguyen"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80bf-910c-d29a24b31456",
+   "title": "Don't Believe Everything You Think",
+   "tags_raw": "#Mindfulness #MentalHealth",
+   "tags": [
+    "#Mindfulness",
+    "#MentalHealth"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟡 G.2",
+   "author": "Joseph Nguyen"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80d6-aa81-ecc015eb40ad",
+   "title": "This is Lean",
+   "tags_raw": "#Efficiency #Management",
+   "tags": [
+    "#Efficiency",
+    "#Management"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Niklas Modig"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8097-abae-f998a0af8031",
+   "title": "Marketing Made Simple",
+   "tags_raw": "#Marketing #Branding",
+   "tags": [
+    "#Marketing",
+    "#Branding"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Donald Miller"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80de-b613-e46a7d37b0db",
+   "title": "It Doesn't Have to Be Crazy at Work",
+   "tags_raw": "#Management #WorkLifeBalance",
+   "tags": [
+    "#Management",
+    "#WorkLifeBalance"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟡 G.2",
+   "author": "Jason Fried"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-807f-945f-c77701bd1fb3",
+   "title": "Weird Philosophy",
+   "tags_raw": "#Philosophy #CriticalThinking",
+   "tags": [
+    "#Philosophy",
+    "#CriticalThinking"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟢 G.1",
+   "author": "Brandon Robshaw"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8051-8b83-c9ded664bf2d",
+   "title": "Your Money",
+   "tags_raw": "#VisualThinking #Finance",
+   "tags": [
+    "#VisualThinking",
+    "#Finance"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟢 G.1",
+   "author": "Carl Richards"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8096-902a-f60e9b361958",
+   "title": "Very Good Copy",
+   "tags_raw": "#Inspiration #Copywriting",
+   "tags": [
+    "#Inspiration",
+    "#Copywriting"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟢 G.1",
+   "author": "Eddie Shleyner"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80ca-a1dd-c059b13b097e",
+   "title": "$100M Leads",
+   "tags_raw": "#Business #Marketing",
+   "tags": [
+    "#Business",
+    "#Marketing"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Alex Hormozi"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8030-8205-f2d892fb8039",
+   "title": "$100M Offers",
+   "tags_raw": "#Business #Marketing",
+   "tags": [
+    "#Business",
+    "#Marketing"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟡 G.2",
+   "author": "Alex Hormozi"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80cf-9430-c94b566cebfa",
+   "title": "The One-Page Financial Plan",
+   "tags_raw": "#VisualThinking #Finance",
+   "tags": [
+    "#VisualThinking",
+    "#Finance"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟢 G.1",
+   "author": "Carl Richards"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80b6-b639-c2f371165e54",
+   "title": "The Almanack of Naval Ravikant",
+   "tags_raw": "#Wealth #Philosophy #Wisdom",
+   "tags": [
+    "#Wealth",
+    "#Philosophy",
+    "#Wisdom"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟡 G.2",
+   "author": "Eric Jorgenson"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80b5-ba11-fd7aa194313a",
+   "title": "Rework",
+   "tags_raw": "#Management #Productivity",
+   "tags": [
+    "#Management",
+    "#Productivity"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟡 G.2",
+   "author": "Jason Fried"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80b6-9363-f8239b63f4c6",
+   "title": "Storytelling with Data",
+   "tags_raw": "#DataViz #Communication",
+   "tags": [
+    "#DataViz",
+    "#Communication"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟢 G.1",
+   "author": "Cole Knaflic"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80df-bf06-cd3b2cf08f78",
+   "title": "Keep Going",
+   "tags_raw": "#Creativity #Resilience",
+   "tags": [
+    "#Creativity",
+    "#Resilience"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟢 G.1",
+   "author": "Austin Kleon"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80fb-a181-cd46632d45a8",
+   "title": "Steal Like an Artist",
+   "tags_raw": "#Creativity #IdeaGeneration",
+   "tags": [
+    "#Creativity",
+    "#IdeaGeneration"
+   ],
+   "status": "⏳ LOADING...",
+   "energy": "🟢 G.1",
+   "author": "Austin Kleon"
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80b1-a13c-fdeac429233e",
+   "title": "Together",
+   "tags_raw": "#Connection #Healing #Community",
+   "tags": [
+    "#Connection",
+    "#Healing",
+    "#Community"
+   ],
+   "status": "⬜ QUEUED",
+   "energy": "🟠 G.3",
+   "author": "Vivek Murthy"
+  }
+ ]
+}

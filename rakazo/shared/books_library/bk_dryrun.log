@@ -1,0 +1,50 @@
+=== fetching live rows from Notion ===
+live rows: 251 | distinct tags: 193 | slots: 564 | rows with 0 tags: 0
+   sum check: 32 canon + 11 system + 5 drop + 145 merged = 193
+snapshot -> bk_snapshot_pre_merge.json (251 rows)
+
+==================== PLAN: FULL ====================
+  distinct tags : 193 -> 43
+  tag slots     : 564 -> 498
+  rows changed  : 190 / 251
+  rows with 0 tags after merge : 0  (must be 0)
+  rows that lose a dropped tag  : 4
+  canonical tags with 0 users   : none
+  tags used once after merge    : 7 ['#DuckOS_Asset', '#DuckOS_Input', '#HardwareManual', '#HighBattery', '#HighCognitiveLoad', '#IdleMode', '#สร้างสรรค์']
+  substring bleed pairs left    : 3
+      filter #DuckOS            also matches #DuckOS_Asset        (2 rows have #DuckOS)
+      filter #DuckOS            also matches #DuckOS_Core         (2 rows have #DuckOS)
+      filter #DuckOS            also matches #DuckOS_Input        (2 rows have #DuckOS)
+  top 15 tags after: #Business(52), #Psychology(39), #Philosophy(32), #History(31), #Productivity(29), #Management(23), #Marketing(23), #CriticalThinking(22), #Growth(20), #Stoicism(17), #Mindset(17), #SystemsThinking(16), #Economics(16), #Biography(15), #Communication(13)
+  --- rows that change (first 2) ---
+   * $100M Offers Money Models
+       old: #Business #Offers #ValueEquation #MeteorOffer #ProductDesign
+       new: #Business #Finance
+       dropped: #MeteorOffer
+   * Brain Hacks: Life-Changing Strategies to Improve Executive Funct
+       old: #Neuroscience #SystemHacks #ProductivityHacks #ExecutiveFunction
+       new: #Psychology #SystemsThinking #Productivity #Management
+  -> bk_dryrun_full.json
+
+==================== PLAN: HYBRID ====================
+  distinct tags : 193 -> 75
+  tag slots     : 564 -> 531
+  rows changed  : 127 / 251
+  rows with 0 tags after merge : 0  (must be 0)
+  rows that lose a dropped tag  : 4
+  canonical tags with 0 users   : none
+  tags used once after merge    : 18 ['#ADHD', '#DigitalWellbeing', '#DuckOS_Asset', '#DuckOS_Input', '#FIRE', '#HardwareManual', '#HighBattery', '#HighCognitiveLoad', '#IdleMode', '#Notetaking', '#PersonalBranding', '#SelfTalk', '#SocialMedia', '#SocialSkills', '#Statistics', '#UXDesign', '#Zettelkasten', '#สร้างสรรค์']
+  substring bleed pairs left    : 3
+      filter #DuckOS            also matches #DuckOS_Asset        (2 rows have #DuckOS)
+      filter #DuckOS            also matches #DuckOS_Core         (2 rows have #DuckOS)
+      filter #DuckOS            also matches #DuckOS_Input        (2 rows have #DuckOS)
+  top 15 tags after: #Psychology(33), #Business(32), #Philosophy(32), #History(29), #Productivity(23), #Management(19), #Growth(18), #Marketing(18), #SystemsThinking(16), #CriticalThinking(16), #Mindset(16), #Economics(16), #Stoicism(15), #Strategy(15), #Biography(15)
+  --- rows that change (first 2) ---
+   * $100M Offers Money Models
+       old: #Business #Offers #ValueEquation #MeteorOffer #ProductDesign
+       new: #Business #ValueEquation #ProductDesign
+       dropped: #MeteorOffer
+   * Brain Hacks: Life-Changing Strategies to Improve Executive Funct
+       old: #Neuroscience #SystemHacks #ProductivityHacks #ExecutiveFunction
+       new: #Neuroscience #SystemsThinking #Productivity #Management
+  -> bk_dryrun_hybrid.json

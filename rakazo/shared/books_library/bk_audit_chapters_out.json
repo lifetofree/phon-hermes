@@ -1,0 +1,3797 @@
+[
+ {
+  "book": "$100M Offers Money Models",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8106-bc23-e9e3dd6861af",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8106-bc23-e9e3dd6861af. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Brain Hacks: Life-Changing Strategies to Improve Executive Functioning",
+  "title": "New database",
+  "ds_id": "4b5df8d8-8d8c-82e0-8257-0179875c9789",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 4b5df8d8-8d8c-82e0-8257-0179875c9789. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Hooked: How to Build Habit-Forming Products",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8129-b7ed-c28bfae4759d",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8129-b7ed-c28bfae4759d. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Think Faster, Talk Smarter ***",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-816b-9828-dc4e9a8a34d0",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-816b-9828-dc4e9a8a34d0. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Practical Critical Thinking, Logic & Problem Solving Blueprint (10 in 1)",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81a1-93a9-d201199f2693",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81a1-93a9-d201199f2693. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Seneca's Letters from a Stoic",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-818e-884c-f4d532cdebfa",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-818e-884c-f4d532cdebfa. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Molecule of More",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8137-b76b-d9a2d0488950",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8137-b76b-d9a2d0488950. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8195-9676-c9bd4d164f10",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8195-9676-c9bd4d164f10. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Ego is the Enemy",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8172-a55a-ca30e63b6986",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8172-a55a-ca30e63b6986. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Behave: The Biology of Humans at Our Best and Worst",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8188-be67-cca79ee5e028",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8188-be67-cca79ee5e028. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Thinking, Fast and Slow",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8136-8b6a-d78bbf9966d3",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8136-8b6a-d78bbf9966d3. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Brain That Changes Itself",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81b1-a70d-ddbee57905dc",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81b1-a70d-ddbee57905dc. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Meditations: A New Translation",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81d6-815f-d191726451ca",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81d6-815f-d191726451ca. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Rest: Why You Get More Done When You Work Less",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8117-a561-c1a14c2357df",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8117-a561-c1a14c2357df. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8162-a4fd-c6e62b07b198",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8162-a4fd-c6e62b07b198. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Brain Hacks: 200+ Way to boost you brain power",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8156-9bb5-e98012e988ff",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8156-9bb5-e98012e988ff. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Dopamine Nation: Finding Balance in the Age of Indulgence",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81a1-a838-f5c3d3ffdf17",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81a1-a838-f5c3d3ffdf17. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Man vs Maths - Understanding the Curious Mathematics That Power Our World",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-815d-aece-f9e6ff1e7ab5",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-815d-aece-f9e6ff1e7ab5. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Book of Elon",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81b4-bbb9-f3c707d5293b",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81b4-bbb9-f3c707d5293b. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Company of One (TH)",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8177-b66a-dfd99f138343",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8177-b66a-dfd99f138343. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Almanack of Naval Ravikant (TH)",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-812c-8b56-f06f46e7fe5d",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-812c-8b56-f06f46e7fe5d. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The One Thing (TH)",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8144-bd4f-d162bfe7b69c",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8144-bd4f-d162bfe7b69c. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Four Thousand Weeks",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81a5-a2d1-eeddd7366e92",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81a5-a2d1-eeddd7366e92. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Experience Machine",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-813a-a065-ee3724e77336",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-813a-a065-ee3724e77336. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Learn Like a Pro",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8122-879c-d4cb54b84337",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8122-879c-d4cb54b84337. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "How to Read a Book",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-812c-9a9f-caa0fc85f196",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-812c-9a9f-caa0fc85f196. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Marcus Aurelius: The Stoic Emperor",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8136-979b-ed6b8f3964ab",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8136-979b-ed6b8f3964ab. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Your Money or Your Life",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8149-8326-e027ee1be9f5",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8149-8326-e027ee1be9f5. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Paradox of Choice",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81cc-8e3a-df1d20bd0d76",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81cc-8e3a-df1d20bd0d76. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Wealth Money Can't Buy",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8137-af1c-fb79dedda057",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8137-af1c-fb79dedda057. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Peak Mind",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81fe-b207-dfbd5cd84786",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81fe-b207-dfbd5cd84786. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Chatter",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81a0-a002-f2eb9c5a692f",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81a0-a002-f2eb9c5a692f. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "$100M Lost Chapters",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8158-827c-f5a553616a34",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8158-827c-f5a553616a34. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Lean Marketing",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8104-bfd5-ff9d79ce8009",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8104-bfd5-ff9d79ce8009. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Why Has Nobody Told Me This Before?",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-816a-8892-fa0bc656bd85",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-816a-8892-fa0bc656bd85. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The 1-Page Marketing Plan",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8183-ba7f-e2939e8b526a",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8183-ba7f-e2939e8b526a. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Anthology of Balaji",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8113-9785-e8d9ef3e4689",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8113-9785-e8d9ef3e4689. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Art of Thinking Clearly",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8129-89e3-ccef67754e30",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8129-89e3-ccef67754e30. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Chip War",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-810b-8663-e7794c020958",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-810b-8663-e7794c020958. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Amazing Decisions",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8122-8101-caae79300379",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8122-8101-caae79300379. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Capital in the Twenty-First Century",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8118-ab7c-d14e3424da10",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8118-ab7c-d14e3424da10. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Fooled by Randomness",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-818f-a515-c7acc24cd453",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-818f-a515-c7acc24cd453. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Das Kapital",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81b2-8807-f9cbf656b140",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81b2-8807-f9cbf656b140. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Fabric of Reality",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-813d-b400-cf3613bd158d",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-813d-b400-cf3613bd158d. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Coming Wave",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81c4-be9e-e2aef9909e4f",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81c4-be9e-e2aef9909e4f. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Black Swan",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-814f-8a7c-d69cc30714bd",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-814f-8a7c-d69cc30714bd. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "A History of Western Philosophy",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8172-b7c0-ca8a326b0c97",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8172-b7c0-ca8a326b0c97. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Skin in the Game",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8107-b357-ffcd2c2e26e5",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8107-b357-ffcd2c2e26e5. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Wealth of Nations",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8140-9c61-c344b1277a15",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8140-9c61-c344b1277a15. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Thinking in Systems",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-819f-9927-f4d3777df6a7",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-819f-9927-f4d3777df6a7. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Gödel Escher Bach",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-816c-bc90-d7649a506a4e",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-816c-bc90-d7649a506a4e. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Superintelligence",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-810b-a29b-cf66a22b6e08",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-810b-a29b-cf66a22b6e08. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Critique of Pure Reason",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81aa-8cf5-da57f5cac75b",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81aa-8cf5-da57f5cac75b. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Goal",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81e4-91bf-d45bba5c7534",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81e4-91bf-d45bba5c7534. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Bed of Procrustes",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8134-b31d-f3d20008f235",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8134-b31d-f3d20008f235. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Age of AI",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81ba-bafc-d49fc0ed24d5",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81ba-bafc-d49fc0ed24d5. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "More Money Than God",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8186-94f5-f33c61c22248",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8186-94f5-f33c61c22248. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Life 3.0",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8145-841c-f6bfd5888a41",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8145-841c-f6bfd5888a41. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Power Broker",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-819c-8c57-c5de0e7d8577",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-819c-8c57-c5de0e7d8577. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Beginning of Infinity",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8113-b15f-e4310e0cb461",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8113-b15f-e4310e0cb461. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Human Compatible",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81c9-91b9-e5c33ec4f8b2",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81c9-91b9-e5c33ec4f8b2. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Antifragile",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81a9-9e49-e9347668ed49",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81a9-9e49-e9347668ed49. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Only the Paranoid Survive",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8189-94f7-e1436370bd08",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8189-94f7-e1436370bd08. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The World for Sale",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81d4-bfef-eb8c2b2e9bc4",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81d4-bfef-eb8c2b2e9bc4. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Super Thinking",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-819a-a082-ed6e06ec81b1",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-819a-a082-ed6e06ec81b1. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Good Strategy Bad Strategy",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8143-b3e3-c63cb7ae877b",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8143-b3e3-c63cb7ae877b. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Innovator's Dilemma",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8199-996e-c36269a3db08",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8199-996e-c36269a3db08. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Understanding Michael Porter",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-810a-81bd-db7026d9c219",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-810a-81bd-db7026d9c219. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Playing to Win",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81ec-9bc9-f5dd87699a2e",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81ec-9bc9-f5dd87699a2e. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Click",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81b7-8258-e0de2d293157",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81b7-8258-e0de2d293157. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Crossing the Chasm",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8103-8031-d8fa8187c40c",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8103-8031-d8fa8187c40c. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Crux",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8199-a4f0-c182bcb3dba2",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8199-a4f0-c182bcb3dba2. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Competition Demystified",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-812c-ac34-ffd90ed774e4",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-812c-ac34-ffd90ed774e4. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Clear Thinking",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-814c-83f8-c6e522b65d9e",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-814c-83f8-c6e522b65d9e. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Sprint",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81d0-b6e3-cbe7c0815f94",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81d0-b6e3-cbe7c0815f94. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Your Next Five Moves",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-815d-b989-d315aeeb828c",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-815d-b989-d315aeeb828c. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Make Time",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8109-8291-f586ea76beb2",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8109-8291-f586ea76beb2. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Noise",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8169-9ae0-ed00592d29a6",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8169-9ae0-ed00592d29a6. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "7 Powers",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-815b-89f7-c45e13eaa002",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-815b-89f7-c45e13eaa002. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Thinking in Bets",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8188-8332-d34adbc39a12",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8188-8332-d34adbc39a12. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Don't Make Me Think",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81f4-afb3-ed562ff802a6",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81f4-afb3-ed562ff802a6. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Mastery",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8105-90c7-e7e2dc5432e9",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8105-90c7-e7e2dc5432e9. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The 48 Laws of Power",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8192-98c7-f4791a620b92",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8192-98c7-f4791a620b92. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Great Mental Models Volume 1:General Thinking Concepts",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8136-9b8f-fecc086cda85",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8136-9b8f-fecc086cda85. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Blue Ocean Strategy",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8181-8788-dfa9e0bbc8f5",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8181-8788-dfa9e0bbc8f5. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Algorithms to Live By",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81f4-93b8-d41385840bad",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81f4-93b8-d41385840bad. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Design of Everyday Things",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-819d-81bb-c8dc6886e317",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-819d-81bb-c8dc6886e317. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Laws of Human Nature",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-815d-bd91-cc54f88a3727",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-815d-bd91-cc54f88a3727. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Team of Rivals",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81b2-96c0-c645f2572422",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81b2-96c0-c645f2572422. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Benjamin Franklin",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8162-a105-dfcbfd8bf71b",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8162-a105-dfcbfd8bf71b. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Titan",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8148-bd70-dba49057b64b",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8148-bd70-dba49057b64b. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Trillion Dollar Coach",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81b7-8a99-db61db9f4a8c",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81b7-8a99-db61db9f4a8c. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Napoleon",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-816c-bf25-f4f4b599c8ed",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-816c-bf25-f4f4b599c8ed. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Alexander Hamilton",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81d5-999b-ca8707af7d45",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81d5-999b-ca8707af7d45. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Elon Musk",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8100-88e8-d83dec7dd4ff",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8100-88e8-d83dec7dd4ff. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Churchill",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8126-9d24-ddd5aed6a48e",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8126-9d24-ddd5aed6a48e. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Leadership",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8147-ab0a-e3cb1be1c9e5",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8147-ab0a-e3cb1be1c9e5. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Leonardo da Vinci",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-813e-9689-d3ed6eb8bc59",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-813e-9689-d3ed6eb8bc59. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Washington",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8174-aab5-d89a22c72d07",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8174-aab5-d89a22c72d07. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "No Rules Rules",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8194-842b-d7a55c382f65",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8194-842b-d7a55c382f65. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "High Output Management",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81b3-820a-f4340b2b8464",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81b3-820a-f4340b2b8464. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Creativity Inc.",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81d0-bda2-cb99dfa92fd2",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81d0-bda2-cb99dfa92fd2. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Grant",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8177-a844-e4fb159a268b",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8177-a844-e4fb159a268b. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Einstein",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-814e-9327-df4bed62c764",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-814e-9327-df4bed62c764. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Why Nations Fail",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-812f-8825-c608260bb787",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-812f-8825-c608260bb787. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Shoe Dog",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8118-82cc-d3858b214c46",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8118-82cc-d3858b214c46. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Built to Last",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8147-b5d9-e17e1f549d53",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8147-b5d9-e17e1f549d53. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Hard Thing About Hard Things",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8198-9944-fadd3c70ce7f",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8198-9944-fadd3c70ce7f. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Great by Choice",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-811f-9bae-f9499b23f7fd",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-811f-9bae-f9499b23f7fd. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Measure What Matters",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81aa-97a3-d2c83ae90db8",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81aa-97a3-d2c83ae90db8. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Good to Great",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81d5-92d9-c71b4cf3b75e",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81d5-92d9-c71b4cf3b75e. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Steve Jobs",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8100-9648-f998a34128c0",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8100-9648-f998a34128c0. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Contagious",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-816d-8060-fe2485496fe8",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-816d-8060-fe2485496fe8. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Principles",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-812d-acc2-dff321ba6208",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-812d-acc2-dff321ba6208. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Nudge",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-812f-9808-f18cb4a0246d",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-812f-9808-f18cb4a0246d. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Freakonomics",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-813f-8d51-d806d91c5672",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-813f-8d51-d806d91c5672. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Catalyst",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81e4-84cd-e1d5ec56c0cf",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81e4-84cd-e1d5ec56c0cf. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Can't Hurt Me",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81ef-bc47-eacd32e1afd5",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81ef-bc47-eacd32e1afd5. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Guns Germs and Steel",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8116-8252-c6049e16d04e",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8116-8252-c6049e16d04e. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Never Split the Difference",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-819e-bd56-c3cda0245b93",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-819e-bd56-c3cda0245b93. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Homo Deus",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81e5-8172-d05d6bf9016b",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81e5-8172-d05d6bf9016b. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Misbehaving",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-812b-b2f2-d2f88bcdde4c",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-812b-b2f2-d2f88bcdde4c. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Dollars and Sense",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81fe-b929-fe26f1c0ac76",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81fe-b929-fe26f1c0ac76. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "21 Lessons for the 21st Century",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8113-8c68-df1fee51b8ed",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8113-8c68-df1fee51b8ed. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Indistractable",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8111-84be-e88e165e2cb9",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8111-84be-e88e165e2cb9. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Superfreakonomics",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81b7-9fb6-fafef42c7284",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81b7-9fb6-fafef42c7284. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Influence",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81c2-b81a-d506b2821309",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81c2-b81a-d506b2821309. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Factfulness",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8141-b02c-dd02c13e77ac",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8141-b02c-dd02c13e77ac. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Predictably Irrational",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81dd-a7a6-d5700ceecaad",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81dd-a7a6-d5700ceecaad. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Upside of Irrationality",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-816f-a42b-e5179778c728",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-816f-a42b-e5179778c728. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Sapiens",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8121-b05c-d2ad6bdc9c82",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8121-b05c-d2ad6bdc9c82. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Made to Stick",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8104-aa4c-e84cc087e91d",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8104-aa4c-e84cc087e91d. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Switch",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-817d-be79-e3b132f73db1",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-817d-be79-e3b132f73db1. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "How to Win Friends...",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8153-8805-d17c6d5d7675",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8153-8805-d17c6d5d7675. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Think Like a Freak",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8156-93b9-eb6a5bc6b941",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8156-93b9-eb6a5bc6b941. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Subtle Art of Not Giving a F*ck",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8187-8f27-c6db2f8b5a3e",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8187-8f27-c6db2f8b5a3e. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Pre-Suasion",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8119-8a30-dfc1a27a2df6",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8119-8a30-dfc1a27a2df6. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Atomic Habits",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81f2-a1ca-fa404981247e",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81f2-a1ca-fa404981247e. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Compound Effect",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81af-a588-ce19b7a36490",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81af-a588-ce19b7a36490. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "How to Take Smart Notes",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81b4-9d33-fec2d8e84051",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81b4-9d33-fec2d8e84051. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Writing to Learn",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8193-8ea7-ed53f9a230fb",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8193-8ea7-ed53f9a230fb. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "12 Rules for Life",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81df-940c-d3e5f52fad74",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81df-940c-d3e5f52fad74. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Obstacle is the Way",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-813d-bf8b-e2ab1f0014e1",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-813d-bf8b-e2ab1f0014e1. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Everything Is F*cked",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-814f-8efe-f8593699ba64",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-814f-8efe-f8593699ba64. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The One Thing",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8164-85eb-cc393d96f0a2",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8164-85eb-cc393d96f0a2. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Bird by Bird",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81ed-ae2b-c3945932f74d",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81ed-ae2b-c3945932f74d. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Wisdom Takes Work",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-815c-8ffa-fcadf367c9ce",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-815c-8ffa-fcadf367c9ce. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Discipline Is Destiny",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-812b-80b5-ff0806a3438c",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-812b-80b5-ff0806a3438c. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Creative Act",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-816d-9c20-fae292f498e3",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-816d-9c20-fae292f498e3. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Building a Second Brain",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-815f-8b8a-cadf8cf94a3d",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-815f-8b8a-cadf8cf94a3d. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Courage Is Calling",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-811b-bf14-f88b49e70925",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-811b-bf14-f88b49e70925. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Laws of Creativity",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-816d-9821-d59f6107b65d",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-816d-9821-d59f6107b65d. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Right Thing Right Now",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-810e-be3e-d47577a18398",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-810e-be3e-d47577a18398. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Stillness Is the Key",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-815f-97ab-d883c7bae087",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-815f-97ab-d883c7bae087. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "How to Fail at Almost Everything...",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81d7-9fd2-e30325b562f4",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81d7-9fd2-e30325b562f4. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Feel-Good Productivity",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-816a-aa77-da14e1abd04d",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-816a-aa77-da14e1abd04d. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Range",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8133-aa1f-e5b2619c37e4",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8133-aa1f-e5b2619c37e4. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Effortless",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81ec-acaa-f12ad5fc73e7",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81ec-acaa-f12ad5fc73e7. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Diary of a CEO",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81f1-b06b-c067fbf785fd",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81f1-b06b-c067fbf785fd. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Man's Search for Meaning",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8157-98dd-decca8cbdf8b",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8157-98dd-decca8cbdf8b. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "They Ask You Answer",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8102-b715-c081700e5667",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8102-b715-c081700e5667. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "David and Goliath",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8176-87a0-fc04db167405",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8176-87a0-fc04db167405. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Die With Zero",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8189-907d-cc52006676d8",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8189-907d-cc52006676d8. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Happy Sexy Millionaire",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8128-8c10-d7ec4f62d29b",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8128-8c10-d7ec4f62d29b. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Essentialism",
+  "title": "Chapter List",
+  "ds_id": "41edf8d8-8d8c-818f-9398-da27193532e3",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41edf8d8-8d8c-818f-9398-da27193532e3. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Essentialism",
+  "title": "Chapter List",
+  "ds_id": "41edf8d8-8d8c-81d0-af29-df1fb150f931",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41edf8d8-8d8c-81d0-af29-df1fb150f931. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Hidden Potential",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-811c-b07e-d274a12a382d",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-811c-b07e-d274a12a382d. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Slow Productivity",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8138-b952-d59a0056aa2d",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8138-b952-d59a0056aa2d. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Lean Startup",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-812b-a0ef-fb841300edcb",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-812b-a0ef-fb841300edcb. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Endless Customers",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8190-8601-c77d8124ffd9",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8190-8601-c77d8124ffd9. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Think Again",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-811c-9ab0-f38f9c12fb80",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-811c-9ab0-f38f9c12fb80. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Outliers",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81ba-80ff-db5179faccd6",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81ba-80ff-db5179faccd6. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Digital Minimalism",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-810a-a1d2-c5a35f579436",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-810a-a1d2-c5a35f579436. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Zero to One",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8162-8dcf-df4a4ade2325",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8162-8dcf-df4a4ade2325. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "So Good They Can't Ignore You",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81a7-aeaf-cc57399dac2c",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81a7-aeaf-cc57399dac2c. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Setting the Table",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8132-a758-ec6a15818e95",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8132-a758-ec6a15818e95. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Unreasonable Hospitality",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81fd-a065-ea8b885700c2",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81fd-a065-ea8b885700c2. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Deep Work",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81ca-9ac9-fffcc3f022c5",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81ca-9ac9-fffcc3f022c5. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Tipping Point",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8137-b7e5-e4fb3f5d7ecf",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8137-b7e5-e4fb3f5d7ecf. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Building a StoryBrand 2.0",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-810d-b039-c66ec10d17e7",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-810d-b039-c66ec10d17e7. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Talking to Strangers",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8157-814a-c68f3a929fbd",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8157-814a-c68f3a929fbd. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Originals",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8131-977f-e3344718f219",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8131-977f-e3344718f219. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Give and Take",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8195-b6ce-ec3f4ffbcc55",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8195-b6ce-ec3f4ffbcc55. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Rules for a Knight",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8178-926e-d6fdd2556a2b",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8178-926e-d6fdd2556a2b. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Same as Ever",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8139-989c-e5f2a405af9d",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8139-989c-e5f2a405af9d. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "This Is Strategy",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81fa-b30e-dfad18575cc2",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81fa-b30e-dfad18575cc2. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "This Is Marketing",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8146-9694-c57cb0f37567",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8146-9694-c57cb0f37567. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "HBR Guide to Generative AI",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8188-b142-c776e92c482e",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8188-b142-c776e92c482e. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "HBR Guide to Generative AI",
+  "title": "ZZ test db",
+  "ds_id": "41ddf8d8-8d8c-81cd-ab11-f17eab796e8d",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81cd-ab11-f17eab796e8d. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Purpose & Profit",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8165-80ef-de5919ad9c8c",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8165-80ef-de5919ad9c8c. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Art of Spending Money",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-810c-a6ae-d185d2c882eb",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-810c-a6ae-d185d2c882eb. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Let Them Theory",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81be-b481-c92cbf8b8e5a",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81be-b481-c92cbf8b8e5a. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Stoicism for New Life",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8113-be0d-e237dffb799d",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8113-be0d-e237dffb799d. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "A Calendar of Wisdom",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-819b-ba79-f5f1e1ea5ce4",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-819b-ba79-f5f1e1ea5ce4. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Seven Brief Lessons on Physics",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8165-815b-e019aeefc4df",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8165-815b-e019aeefc4df. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Tools Of Titans",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81a8-b73f-c550211a8c79",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81a8-b73f-c550211a8c79. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Manifest",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8135-9611-ecf0f0651ceb",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8135-9611-ecf0f0651ceb. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The 5 Types of Wealth",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-816a-924f-d4a6a2cc96d2",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-816a-924f-d4a6a2cc96d2. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Psychology of Money: Timeless lessons on wealth, greed, and happiness",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8155-a70c-da5ea4ab2266",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8155-a70c-da5ea4ab2266. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Book of Five Rings (Modern)",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8167-89aa-d6d5e594ea61",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8167-89aa-d6d5e594ea61. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "When to Rob a Bank",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-817b-978a-dc4f159f0ae9",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-817b-978a-dc4f159f0ae9. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Dokkōdō",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8103-8e1e-f3fc3e0424ca",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8103-8e1e-f3fc3e0424ca. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Little Book of Stoicism",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-816f-b8d0-c91ea45957ed",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-816f-b8d0-c91ea45957ed. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Tiny Experiments",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81dc-b3bc-cef2ec9c7407",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81dc-b3bc-cef2ec9c7407. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Science of Getting Rich",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81b1-81a4-eb2a4275694a",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81b1-81a4-eb2a4275694a. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "100 Ways to Improve Your Writing",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81d9-8f7e-f1c9ef19e6f0",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81d9-8f7e-f1c9ef19e6f0. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Reinvent Yourself At Any Age",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8108-927b-e8c6516ce84f",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8108-927b-e8c6516ce84f. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Suddenly Talented",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-812f-a1a6-ead1eb8b0a64",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-812f-a1a6-ead1eb8b0a64. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "One Plus One Equals Three",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8132-a76f-e3b0927e270e",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8132-a76f-e3b0927e270e. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Extra Focus",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81cd-9399-c5224b63a222",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81cd-9399-c5224b63a222. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "To-Do List Formula",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-816b-b564-cc2be69dfacc",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-816b-b564-cc2be69dfacc. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Copywrong to Copywriter",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81b9-b5e6-f532a8a79fb9",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81b9-b5e6-f532a8a79fb9. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Brain Audit",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8199-9402-df5f7e071b62",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8199-9402-df5f7e071b62. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Everybody Writes",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81ff-88d2-eddf9ee0b950",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81ff-88d2-eddf9ee0b950. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Million Dollar Weekend",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-811a-8b85-e8746c5f1ca7",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-811a-8b85-e8746c5f1ca7. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Unfair Advantage",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8138-b899-e8b7c2d1ff7b",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8138-b899-e8b7c2d1ff7b. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Negotiation Made Simple",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-819a-a8b2-c21e590cea38",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-819a-a8b2-c21e590cea38. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Hook Point",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81c6-9ac9-c0e53dc7dbb2",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81c6-9ac9-c0e53dc7dbb2. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Comfort Book",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81a5-a2bd-e1b2a5acb957",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81a5-a2bd-e1b2a5acb957. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Mini Book Model",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81f9-885a-c93f1850dcae",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81f9-885a-c93f1850dcae. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "How to Be Better at Almost Everything",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81f6-b0f8-e756cf6e8f9e",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81f6-b0f8-e756cf6e8f9e. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Reasons to Stay Alive",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81db-816b-e05754b73f15",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81db-816b-e05754b73f15. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Stop Reading the News",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-811d-aead-f03f244a4f58",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-811d-aead-f03f244a4f58. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Simple Marketing For Smart People",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-814c-94a6-fc3ba481f1a3",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-814c-94a6-fc3ba481f1a3. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Art of the Good Life",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8187-aaa2-c4f868ee6f6b",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8187-aaa2-c4f868ee6f6b. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Focus on What Matters",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81da-8879-d3698ef1cd0e",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81da-8879-d3698ef1cd0e. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "AI Can't Write But You Can",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81b3-b0dd-df030ef835c7",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81b3-b0dd-df030ef835c7. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Surrounded by Idiots",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8176-8872-f1f37fee0c26",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8176-8872-f1f37fee0c26. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The PARA Method",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-814f-8ead-d8031e69a97b",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-814f-8ead-d8031e69a97b. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Growth Hacker Marketing",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8117-908f-c4f1e8da6ad9",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8117-908f-c4f1e8da6ad9. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Beyond Thoughts",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8176-a88f-dc604fca8bab",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8176-a88f-dc604fca8bab. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Scientific Advertising",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8167-b43d-ffb7ab3076c2",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8167-b43d-ffb7ab3076c2. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Company of One",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81d6-a2b7-ee4bd1b6dbac",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81d6-a2b7-ee4bd1b6dbac. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Show Your Work!",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-816a-b7f6-faa7881a2f4e",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-816a-b7f6-faa7881a2f4e. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Remote",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-810a-9ab8-d3450909fa8d",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-810a-9ab8-d3450909fa8d. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Business Made Simple",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-815c-9a53-fe4c4d5c3859",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-815c-9a53-fe4c4d5c3859. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Boundaries = Freedom",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8179-872b-fc08540f184a",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8179-872b-fc08540f184a. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Don't Believe Everything You Think",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8108-983e-d88162e61cd1",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8108-983e-d88162e61cd1. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "This is Lean",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-817c-9985-c8120bf113a9",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-817c-9985-c8120bf113a9. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Marketing Made Simple",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8195-b204-ccb632929de1",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8195-b204-ccb632929de1. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "It Doesn't Have to Be Crazy at Work",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81b9-8d7c-c0a808a805bc",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81b9-8d7c-c0a808a805bc. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Weird Philosophy",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8167-bf5c-e6e3898a3e39",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8167-bf5c-e6e3898a3e39. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Your Money",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8141-8a3d-e2ab0ee32eed",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8141-8a3d-e2ab0ee32eed. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Very Good Copy",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-812f-8079-e4374210fc29",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-812f-8079-e4374210fc29. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "$100M Leads",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-819e-9d35-cc86b3e9508f",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-819e-9d35-cc86b3e9508f. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "$100M Offers",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-810c-9afd-da4ab744bbd5",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-810c-9afd-da4ab744bbd5. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The One-Page Financial Plan",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8120-9ab8-dfcbf0cfd8b0",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8120-9ab8-dfcbf0cfd8b0. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Almanack of Naval Ravikant",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81fb-9096-fa05ee6163fe",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81fb-9096-fa05ee6163fe. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Rework",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8122-92e9-c90dc4264ab9",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8122-92e9-c90dc4264ab9. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Storytelling with Data",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-81fb-ad69-feb388089db6",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-81fb-ad69-feb388089db6. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Keep Going",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-812a-8a84-c308adfaabfc",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-812a-8a84-c308adfaabfc. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Steal Like an Artist",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8111-a361-ec87e1fff48b",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8111-a361-ec87e1fff48b. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Together",
+  "title": "Chapter List",
+  "ds_id": "41ddf8d8-8d8c-8171-bb28-cb4b1e5a477d",
+  "rows": -1,
+  "schema": {
+   "ERR": {
+    "__error__": 404,
+    "msg": "{\"object\":\"error\",\"status\":404,\"code\":\"object_not_found\",\"message\":\"Could not find data_source with ID: 41ddf8d8-8d8c-8171-bb28-cb4b1e5a477d. Make sure the relevant pages and databases are shared with"
+   }
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ }
+]

@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<title>ติดตั้ง Rakazo — Mockup v0.1 (DuckOS Field Guide format)</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,600;0,700;1,600&family=Prompt:wght@300;400;500;600&family=Georgia&display=swap');
+:root{
+  --ink:#1d232b; --ink2:#4a5560; --paper:#ffffff; --bg:#e9e6df;
+  --red:#b8332a; --red-d:#8f2620; --line:#d8d2c6; --soft:#f4f1ea; --ok:#2f6b4f;
+}
+*{box-sizing:border-box; margin:0; padding:0;}
+body{background:var(--bg); font-family:'Prompt',sans-serif; color:var(--ink);}
+.en{font-family:'Poppins',sans-serif;}
+.gq{font-family:Georgia,serif; font-style:italic;}
+
+/* toolbar — จอเท่านั้น */
+.toolbar{position:fixed; top:14px; right:14px; z-index:50; display:flex; gap:8px;}
+.toolbar button{font-family:'Poppins',sans-serif; font-weight:600; font-size:13px; border:0;
+  background:var(--red); color:#fff; padding:10px 16px; border-radius:999px; cursor:pointer;
+  box-shadow:0 4px 14px rgba(0,0,0,.25);}
+.toolbar button:hover{background:var(--red-d);}
+.badge{position:fixed; top:16px; left:14px; z-index:50; font-family:'Poppins',sans-serif;
+  font-size:11px; font-weight:600; letter-spacing:.08em; background:#1d232b; color:#f4f1ea;
+  padding:7px 12px; border-radius:6px; opacity:.92;}
+.stage{padding:56px 16px 60px; display:flex; flex-direction:column; align-items:center; gap:22px;}
+
+/* หน้ากระดาษ A4 */
+.sheet{width:210mm; min-height:297mm; background:var(--paper); padding:16mm 15mm 14mm;
+  position:relative; box-shadow:0 6px 24px rgba(0,0,0,.18); display:flex; flex-direction:column;}
+.foot{margin-top:auto; padding-top:8mm; border-top:1px solid var(--line);
+  display:flex; justify-content:space-between; align-items:baseline;
+  font-size:9pt; color:var(--ink2);}
+.foot .bt{font-family:'Poppins',sans-serif; font-weight:600; letter-spacing:.12em; text-transform:uppercase; font-size:8pt;}
+.pgnum{font-family:'Poppins',sans-serif; font-weight:600; font-size:9pt; color:var(--ink);}
+
+/* ============ ปก ============ */
+.cover{background:var(--ink); color:var(--paper); padding:0;}
+.cover-in{flex:1; display:flex; flex-direction:column; padding:20mm 18mm 16mm;}
+.kicker{font-family:'Poppins',sans-serif; font-weight:600; letter-spacing:.34em; text-transform:uppercase;
+  font-size:11pt; color:#e8c15a;}
+.cover hr.k{border:0; border-top:2px solid var(--red); width:52mm; margin:9mm 0 14mm;}
+.bigname{font-family:'Poppins',sans-serif; font-weight:700; font-size:44pt; line-height:1.02; letter-spacing:-.01em;}
+.bigname .thin{font-weight:600; font-style:italic; color:#e8c15a;}
+.subth{margin-top:10mm; font-weight:300; font-size:15.5pt; line-height:1.75; color:#e7e3da; max-width:150mm;}
+.subth b{font-weight:600; color:#fff;}
+.cover-meta{margin-top:auto; display:flex; justify-content:space-between; align-items:flex-end;}
+.cover-meta .lbl{font-size:9.5pt; color:#b9b2a6; line-height:1.9;}
+.cover-meta .lbl b{color:#f2eee6; font-weight:500;}
+.duckdot{width:17mm; height:17mm; border-radius:50%; background:var(--red);
+  display:flex; align-items:center; justify-content:center;
+  font-family:'Poppins',sans-serif; font-weight:700; font-size:16pt; color:#fff;}
+
+/* ============ หน้าข้อความทั่วไป ============ */
+.h-kicker{font-family:'Poppins',sans-serif; font-weight:600; letter-spacing:.28em; text-transform:uppercase;
+  font-size:9.5pt; color:var(--red); margin-bottom:4mm;}
+.h-big{font-family:'Poppins',sans-serif; font-weight:700; font-size:24pt; line-height:1.25; margin-bottom:6mm;}
+.h-th{font-family:'Prompt',sans-serif; font-weight:600; font-size:17pt; line-height:1.45; margin-bottom:5mm;}
+.lead{font-weight:300; font-size:12.5pt; line-height:2.0; color:var(--ink);}
+.body{font-weight:400; font-size:11.5pt; line-height:1.95; color:var(--ink);}
+.body p{margin-bottom:4mm;}
+.small{font-size:9.5pt; line-height:1.8; color:var(--ink2);}
+
+/* กล่องเสียงพร (ส่วนเล่า — ห้าม "คุณ") */
+.phvoice{background:var(--soft); border-left:3px solid var(--red); padding:5mm 6mm; margin:5mm 0;}
+.phvoice .tag{font-family:'Poppins',sans-serif; font-weight:600; font-size:8pt; letter-spacing:.18em;
+  text-transform:uppercase; color:var(--red); margin-bottom:2.5mm;}
+
+/* กล่องคำสั่ง (ส่วนคำสั่งใช้งาน — "คุณ" ได้ตามสเปก) */
+.cmd{border:1px solid var(--line); border-radius:6px; padding:5mm 6mm; margin:4mm 0; background:#fff;}
+.cmd .tag{font-family:'Poppins',sans-serif; font-weight:600; font-size:8pt; letter-spacing:.18em;
+  text-transform:uppercase; color:var(--ok); margin-bottom:2.5mm;}
+.cmd ol{margin-left:7mm;} .cmd li{margin-bottom:2mm; line-height:1.85; font-size:11pt;}
+.mono{font-family:'Poppins',sans-serif; font-weight:600; font-size:10pt; background:var(--soft);
+  padding:1px 6px; border-radius:4px; white-space:nowrap;}
+
+/* สารบัญ */
+.toc-item{display:flex; align-items:baseline; gap:6mm; padding:4.2mm 0; border-bottom:1px dotted var(--line);}
+.toc-num{font-family:'Poppins',sans-serif; font-weight:700; font-size:15pt; color:var(--red); min-width:14mm;}
+.toc-t{font-weight:500; font-size:12.5pt; line-height:1.6; flex:1;}
+.toc-p{font-family:'Poppins',sans-serif; font-weight:600; font-size:10pt; color:var(--ink2);}
+
+/* หัวบท */
+.ch-head{display:flex; align-items:flex-start; gap:7mm; margin-bottom:6mm;}
+.ch-num{font-family:'Poppins',sans-serif; font-weight:700; font-size:40pt; line-height:1; color:var(--red);}
+.ch-title{padding-top:3mm;}
+.ch-title .h-kicker{margin-bottom:1.5mm;}
+.ch-title .h-th{margin-bottom:0;}
+.src{margin-top:4mm; font-size:9pt; color:var(--ink2); border-top:1px solid var(--line); padding-top:2.5mm;}
+
+/* Field Sheet */
+.fs-grid{display:grid; grid-template-columns:1fr 1fr; gap:4mm; margin:4mm 0;}
+.fs-box{border:1.5px solid var(--ink); border-radius:6px; padding:4mm;}
+.fs-box h4{font-family:'Poppins',sans-serif; font-weight:600; font-size:11pt; margin-bottom:3mm;}
+.ck{display:flex; gap:2.5mm; align-items:flex-start; margin-bottom:2.2mm; font-size:10.5pt; line-height:1.7;}
+.box{width:3.6mm; height:3.6mm; border:1.4px solid var(--ink); border-radius:1px; flex:none; margin-top:1.2mm;}
+.fill{border-bottom:1px dotted var(--ink2); height:7mm;}
+
+/* disclaimer / ท้ายเล่ม */
+.note-box{border:1px solid var(--line); background:var(--soft); border-radius:6px; padding:4mm 5mm; margin:4mm 0;}
+.rule-hr{border:0; border-top:1px solid var(--line); margin:5mm 0;}
+
+/* ============ PRINT ============ */
+@page{size:A4; margin:0;}
+@media print{
+  html,body{background:#fff;}
+  .toolbar,.badge,.stage{padding:0; gap:0; display:block;}
+  .sheet{width:auto; min-height:auto; height:297mm; box-shadow:none; margin:0;
+    page-break-after:always; break-after:page; padding:16mm 15mm 14mm;}
+  .sheet:last-child{page-break-after:auto; break-after:auto;}
+}
+</style>
+</head>
+<body>
+
+<div class="badge en">MOCKUP v0.1 — โครงร่าง ยังไม่ใช่เนื้อหาเต็ม</div>
+<div class="toolbar en"><button onclick="window.print()">Print / บันทึก PDF</button></div>
+
+<div class="stage">
+
+<!-- ============ หน้า 1 : ปก ============ -->
+<section class="sheet cover">
+  <div class="cover-in">
+    <div class="kicker en">Install &amp; Setup Guide</div>
+    <hr class="k">
+    <div class="bigname">RAKAZO<br><span class="thin">Field Guide</span></div>
+    <div class="subth">คู่มือติดตั้งและเริ่มใช้งานจริง — ตั้งแต่เปิดเว็บครั้งแรก
+      จนถึง<b>บอทที่ทำงานอยู่บนเครื่องของเราเอง</b> เลือกเส้นทางเดียว ทำตามได้ทีละขั้น จบในเล่มเดียว</div>
+    <div class="cover-meta">
+      <div class="lbl en">ADDUCKIVITY · E-BOOK<br><b>เวอร์ชันโครงร่าง v0.1 — 18 พ.ย. 2026</b></div>
+      <div class="duckdot en">A</div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ หน้า 2 : ก่อนเริ่มอ่าน ============ -->
+<section class="sheet">
+  <div class="h-kicker en">Before You Start</div>
+  <div class="h-big">ก่อนเริ่มอ่าน</div>
+  <div class="phvoice">
+    <div class="tag en">เสียงพร — ตัวอย่างโครง (รอ copy จริง)</div>
+    <p class="body">เล่มนี้ไม่ได้สัญญาว่าจะเปลี่ยนชีวิตใคร — มันคือคู่มือติดตั้งระบบชิ้นหนึ่ง
+      ติดตั้งเสร็จ มีบอทที่ทำงานได้จริง แค่นั้น</p>
+    <p class="body">พรเขียนจากขั้นที่ลงมือทำเองทั้งหมด ทุกคำสั่งในเล่มอ้างเอกสารทางการของ Rakazo
+      เท่านั้น — ถ้าอะไรยังไม่ยืนยัน เล่มจะเขียนว่ายังไม่ยืนยัน ไม่เดาแทน</p>
+  </div>
+  <div class="body">
+    <p>ในเล่มนี้ "ส่วนเล่า" กับ "ส่วนคำสั่ง" แยกกันชัดเจน — ส่วนเล่าคือที่มาและเหตุผล
+      ส่วนคำสั่งอ่านแล้วลงมือทำตามได้ทันที แบบฝึกและ Field Sheet ท้ายเล่มใช้กระดาษเล่มนี้กรอกได้เลย</p>
+  </div>
+  <div class="foot"><span class="bt en">Rakazo Field Guide</span><span class="pgnum en">2</span></div>
+</section>
+
+<!-- ============ หน้า 3 : สารบัญ ============ -->
+<section class="sheet">
+  <div class="h-kicker en">Contents</div>
+  <div class="h-big">สารบัญ</div>
+  <div class="toc-item"><span class="toc-num en">01</span><span class="toc-t">รู้จัก Rakazo — และ 3 เส้นทางเริ่มต้น</span><span class="toc-p en">4</span></div>
+  <div class="toc-item"><span class="toc-num en">02</span><span class="toc-t">เริ่มบนเว็บ — สมัคร สร้างบอทแรก พื้นฐานการแชท</span><span class="toc-p en">6</span></div>
+  <div class="toc-item"><span class="toc-num en">03</span><span class="toc-t">ติดตั้ง Desktop App — Mac / Windows / Linux</span><span class="toc-p en">8</span></div>
+  <div class="toc-item"><span class="toc-num en">04</span><span class="toc-t">โหมด This Computer — บอทรันบนเครื่องเรา</span><span class="toc-p en">10</span></div>
+  <div class="toc-item"><span class="toc-num en">05</span><span class="toc-t">Existing Instance — ต่อ server ทีม + ให้บอทใช้เครื่องเรา</span><span class="toc-p en">12</span></div>
+  <div class="toc-item"><span class="toc-num en">06</span><span class="toc-t">หลังติดตั้ง — เชื่อมแอป Routine แรก และ Approvals</span><span class="toc-p en">14</span></div>
+  <div class="toc-item"><span class="toc-num en">07</span><span class="toc-t">Field Sheet — Checklist ทุกเส้นทาง + ปัญหาที่พบบ่อย</span><span class="toc-p en">15</span></div>
+  <div class="rule-hr"></div>
+  <p class="small">ท้ายเล่ม: วิธีใช้แบบฝึก · ก่อนปิดเล่ม · หมายเหตุ · เกี่ยวกับ · สิทธิ์เผยแพร่</p>
+  <div class="foot"><span class="bt en">Rakazo Field Guide</span><span class="pgnum en">3</span></div>
+</section>
+
+<!-- ============ หน้า 4 : บท 1 ============ -->
+<section class="sheet">
+  <div class="ch-head">
+    <div class="ch-num en">01</div>
+    <div class="ch-title">
+      <div class="h-kicker en">Chapter One</div>
+      <div class="h-th">รู้จัก Rakazo — และ 3 เส้นทางเริ่มต้น</div>
+    </div>
+  </div>
+  <div class="phvoice">
+    <div class="tag en">เปิดบทด้วยเรื่องจริงของพร</div>
+    <p class="body gq">[เคสจริงรอพรเติม — ห้ามแต่ง]</p>
+  </div>
+  <div class="body">
+    <p>[ย่อหัวใจ: Rakazo คืออะไร — บอทผ่านแชท + เครื่องมือที่เชื่อมได้ + คอมพิวเตอร์ที่บอทใช้งานได้]</p>
+  </div>
+  <div class="cmd">
+    <div class="tag en">เลือกเส้นทาง — ตัวอย่างโครง</div>
+    <ol>
+      <li>เริ่มเบาสุด: ใช้บนเว็บ — ไม่ต้องติดตั้งอะไร</li>
+      <li>ใช้ประจำ: ติดตั้ง desktop app แล้วเลือก server ที่ใช่</li>
+      <li>ใช้ร่วมทีม: ต่อ Existing Instance ที่ทีมตั้งไว้</li>
+    </ol>
+  </div>
+  <p class="small">Cloud / เครื่องเรา / self-host ต่างกันตรงไหน — ตารางเทียบสั้น 3 แถว [รอ copy จริง]</p>
+  <div class="src">แหล่งอ้างอิงบทนี้: rakazo.com/docs.md (ดึง 17 พ.ย. 2026)</div>
+  <div class="foot"><span class="bt en">Rakazo Field Guide</span><span class="pgnum en">4</span></div>
+</section>
+<!-- ============ หน้า 6 : บท 2 ============ -->
+<section class="sheet">
+  <div class="ch-head">
+    <div class="ch-num en">02</div>
+    <div class="ch-title">
+      <div class="h-kicker en">Chapter Two</div>
+      <div class="h-th">เริ่มบนเว็บ — สมัคร สร้างบอทแรก พื้นฐานการแชท</div>
+    </div>
+  </div>
+  <div class="phvoice">
+    <div class="tag en">ส่วนเล่า — ตัวอย่างโครง</div>
+    <p class="body gq">[ทำไมเส้นทางเว็บเหมาะเป็นจุดเริ่ม — ไม่ต้องติดตั้ง เห็นระบบทำงานก่อนตัดสินใจลงเครื่อง — รอ copy จริง]</p>
+  </div>
+  <div class="cmd">
+    <div class="tag en">คำสั่ง — ตัวอย่างโครง</div>
+    <ol>
+      <li>เปิด <span class="mono">app.rakazo.com</span> แล้วสมัครบัญชี [ขั้นแท้จาก docs — รอ copy จริง]</li>
+      <li>สร้างบอทแรก [ตั้งชื่อ / เลือกโมเดล — รอ copy จริง]</li>
+      <li>ทดลองแชท: สั่งงานง่าย ๆ 1–2 คำสั่ง [รอ copy จริง]</li>
+    </ol>
+  </div>
+  <div class="src">แหล่งอ้างอิงบทนี้: rakazo.com/docs.md + docs/bots-and-chats.md (ดึง 17 พ.ย. 2026)</div>
+  <div class="foot"><span class="bt en">Rakazo Field Guide</span><span class="pgnum en">6</span></div>
+</section>
+
+<!-- ============ หน้า 8 : บท 3 ============ -->
+<section class="sheet">
+  <div class="ch-head">
+    <div class="ch-num en">03</div>
+    <div class="ch-title">
+      <div class="h-kicker en">Chapter Three</div>
+      <div class="h-th">ติดตั้ง Desktop App — Mac / Windows / Linux</div>
+    </div>
+  </div>
+  <div class="phvoice">
+    <div class="tag en">ส่วนเล่า — ตัวอย่างโครง</div>
+    <p class="body gq">[จุดที่คนติดตั้งสะดุดบ่อย = หน้าเลือก server ครั้งแรก — บทนี้วางแผนให้ตัดสินใจก่อนถึงหน้านั้น — รอ copy จริง]</p>
+  </div>
+  <div class="cmd">
+    <div class="tag en">คำสั่ง — ตัวอย่างโครง</div>
+    <ol>
+      <li>ดาวน์โหลดแอปตามระบบ [ลิงก์/ชื่อไฟล์ — รอ copy จริง]</li>
+      <li>Linux: ไฟล์ AppImage ต้องมี FUSE 2 [รอ copy จริง]</li>
+      <li>เปิดครั้งแรก เจอหน้าเลือก server 3 ทาง: <span class="mono">Rakazo Cloud</span> / <span class="mono">This computer</span> / <span class="mono">Existing instance</span> — เทียบสั้น 3 ทาง [รอ copy จริง]</li>
+      <li>เปลี่ยน server ทีหลังได้ + อัปเดตเป็นอัตโนมัติ [รอ copy จริง]</li>
+    </ol>
+  </div>
+  <div class="src">แหล่งอ้างอิงบทนี้: rakazo.com/docs/desktop-app.md (ดึง 17 พ.ย. 2026)</div>
+  <div class="foot"><span class="bt en">Rakazo Field Guide</span><span class="pgnum en">8</span></div>
+</section>
+
+<!-- ============ หน้า 10 : บท 4 ============ -->
+<section class="sheet">
+  <div class="ch-head">
+    <div class="ch-num en">04</div>
+    <div class="ch-title">
+      <div class="h-kicker en">Chapter Four</div>
+      <div class="h-th">โหมด This Computer — บอทรันบนเครื่องเรา</div>
+    </div>
+  </div>
+  <div class="phvoice">
+    <div class="tag en">ส่วนเล่า — ตัวอย่างโครง</div>
+    <p class="body gq">[โหมดนี้คือหัวใจ "บอทอยู่บนเครื่องเรา" — Docker คือเครื่องยนต์ที่แอปช่วยติดตั้งให้เอง — รอ copy จริง]</p>
+  </div>
+  <div class="cmd">
+    <div class="tag en">คำสั่ง — ตัวอย่างโครง</div>
+    <ol>
+      <li>เลือก <span class="mono">This computer</span> ตอนติดตั้ง — แอปช่วยลง Docker เอง [รอ copy จริง]</li>
+      <li>local server รันต่อแม้ปิดแอป [พฤติกรรมจริง — รอ copy จริง]</li>
+      <li>จะหยุดจริงใช้ <span class="mono">Quit and Stop Bots</span> [รอ copy จริง]</li>
+    </ol>
+  </div>
+  <div class="src">แหล่งอ้างอิงบทนี้: rakazo.com/docs/desktop-app.md (ดึง 17 พ.ย. 2026)</div>
+  <div class="foot"><span class="bt en">Rakazo Field Guide</span><span class="pgnum en">10</span></div>
+</section>
+
+<!-- ============ หน้า 12 : บท 5 ============ -->
+<section class="sheet">
+  <div class="ch-head">
+    <div class="ch-num en">05</div>
+    <div class="ch-title">
+      <div class="h-kicker en">Chapter Five</div>
+      <div class="h-th">Existing Instance — ต่อ server ทีม + ให้บอทใช้เครื่องเรา</div>
+    </div>
+  </div>
+  <div class="phvoice">
+    <div class="tag en">ส่วนเล่า — ตัวอย่างโครง</div>
+    <p class="body gq">[สองทิศทางในบทเดียว: เราต่อไปที่ server ทีม / เครื่องเรากลายเป็นคอมพิวเตอร์ที่บอททีมมาใช้ — รอ copy จริง]</p>
+  </div>
+  <div class="cmd">
+    <div class="tag en">คำสั่ง — ตัวอย่างโครง</div>
+    <ol>
+      <li>เลือก <span class="mono">Existing instance</span> → กรอก <span class="mono">Server address</span> → <span class="mono">Check connection</span> [รอ copy จริง]</li>
+      <li>ให้บอทใช้เครื่องเรา: เลือก <span class="mono">Docker</span> หรือ <span class="mono">Use this computer</span> — ต่างกันตรงไหน [รอ copy จริง]</li>
+      <li>จัดการเครื่องที่อนุญาต: <span class="mono">Settings → General → Computers</span> [รอ copy จริง]</li>
+      <li>ข้อควรระวังด้านความปลอดภัย [รอ copy จริง]</li>
+    </ol>
+  </div>
+  <div class="src">แหล่งอ้างอิงบทนี้: rakazo.com/docs/desktop-app.md (ดึง 17 พ.ย. 2026)</div>
+  <div class="foot"><span class="bt en">Rakazo Field Guide</span><span class="pgnum en">12</span></div>
+</section>
+<!-- ============ หน้า 14 : บท 6 ============ -->
+<section class="sheet">
+  <div class="ch-head">
+    <div class="ch-num en">06</div>
+    <div class="ch-title">
+      <div class="h-kicker en">Chapter Six</div>
+      <div class="h-th">หลังติดตั้ง — เชื่อมแอป Routine แรก และ Approvals</div>
+    </div>
+  </div>
+  <div class="phvoice">
+    <div class="tag en">ส่วนเล่า — ตัวอย่างโครง</div>
+    <p class="body gq">[ติดตั้งเสร็จ = จุดเริ่มจริง ไม่ใช่จุดจบ — บทนี้ทำให้บอทกลายเป็นเพื่อนร่วมงาน — รอ copy จริง]</p>
+  </div>
+  <div class="cmd">
+    <div class="tag en">คำสั่ง — ตัวอย่างโครง</div>
+    <ol>
+      <li>เชื่อมแอปแรก (Gmail / Slack / Notion / GitHub — เชื่อมได้ 1,400+ แอป) [รอ copy จริง]</li>
+      <li>ตั้ง routine แรก [รอ copy จริง]</li>
+      <li>เข้าใจระบบ Approvals — งานไหนบอทถามก่อนทำ [รอ copy จริง]</li>
+    </ol>
+  </div>
+  <div class="src">แหล่งอ้างอิงบทนี้: rakazo.com/docs.md (ดึง 17 พ.ย. 2026)</div>
+  <div class="foot"><span class="bt en">Rakazo Field Guide</span><span class="pgnum en">14</span></div>
+</section>
+
+<!-- ============ หน้า 15 : บท 7 — Field Sheet ============ -->
+<section class="sheet">
+  <div class="ch-head">
+    <div class="ch-num en">07</div>
+    <div class="ch-title">
+      <div class="h-kicker en">Chapter Seven · Field Sheet</div>
+      <div class="h-th">Field Sheet — Checklist ทุกเส้นทาง + ปัญหาที่พบบ่อย</div>
+    </div>
+  </div>
+  <p class="body">กรอกในเล่มนี้ได้เลย — ยกไปพิมพ์เพิ่มก็ได้ [ส่วนแบบฝึก ใช้ "คุณ" ได้ตามสเปก]</p>
+  <div class="fs-grid">
+    <div class="fs-box">
+      <h4>เส้นทางเว็บ</h4>
+      <div class="ck"><span class="box"></span>สมัครบัญชีสำเร็จ</div>
+      <div class="ck"><span class="box"></span>สร้างบอทแรกได้</div>
+      <div class="ck"><span class="box"></span>แชทสั่งงานได้</div>
+    </div>
+    <div class="fs-box">
+      <h4>เส้นทาง Desktop</h4>
+      <div class="ck"><span class="box"></span>ติดตั้งแอปสำเร็จ</div>
+      <div class="ck"><span class="box"></span>เลือก server แล้ว (ทาง: __________)</div>
+      <div class="ck"><span class="box"></span>แชทจากแอปได้</div>
+    </div>
+    <div class="fs-box">
+      <h4>This Computer</h4>
+      <div class="ck"><span class="box"></span>Docker พร้อม (แอปช่วยติดตั้ง)</div>
+      <div class="ck"><span class="box"></span>local server รันอยู่</div>
+      <div class="fill"></div>
+    </div>
+    <div class="fs-box">
+      <h4>Existing Instance</h4>
+      <div class="ck"><span class="box"></span>Check connection ผ่าน</div>
+      <div class="ck"><span class="box"></span>เครื่องนี้อนุญาตให้บอทแล้ว</div>
+      <div class="fill"></div>
+    </div>
+  </div>
+  <div class="cmd">
+    <div class="tag en">ปัญหาที่พบบ่อย — อ้าง docs เท่านั้น</div>
+    <p class="small">[รายการจริงจาก docs/desktop-app.md — รอ copy จริง · ห้ามเดาคำตอบนอก docs]</p>
+  </div>
+  <div class="src">แหล่งอ้างอิงบทนี้: rakazo.com/docs.md + docs/desktop-app.md (ดึง 17 พ.ย. 2026)</div>
+  <div class="foot"><span class="bt en">Rakazo Field Guide</span><span class="pgnum en">15</span></div>
+</section>
+
+<!-- ============ หน้า 16 : ท้ายเล่ม — วิธีใช้แบบฝึก ============ -->
+<section class="sheet">
+  <div class="h-kicker en">Using the Field Sheet</div>
+  <div class="h-big">วิธีใช้แบบฝึก</div>
+  <div class="body">
+    <p>คุณไม่ต้องทำครบทุกเส้นทาง — เลือกเส้นทางเดียวที่ตรงกับการใช้งาน แล้วติ๊ก checklist ของเส้นทางนั้นจนครบ ก่อนไปต่อ ถ้าติดตรงไหน กลับไปที่บทของเส้นทางนั้น แล้วไล่คำสั่งใหม่ทีละข้อ</p>
+    <p>ช่องเขียนว่างใช้จดค่าที่ตั้งไว้ เช่น ทาง server ที่เลือก หรือ address ของ instance ทีม — เผื่อครั้งหน้าต้องตั้งใหม่แล้วจำไม่ได้</p>
+  </div>
+  <div class="foot"><span class="bt en">Rakazo Field Guide</span><span class="pgnum en">16</span></div>
+</section>
+
+<!-- ============ หน้า 17 : ก่อนปิดเล่ม ============ -->
+<section class="sheet">
+  <div class="h-kicker en">Before You Close</div>
+  <div class="h-big">ก่อนปิดเล่ม</div>
+  <div class="phvoice">
+    <div class="tag en">เสียงพร — ตัวอย่างโครง (รอ copy จริง)</div>
+    <p class="body gq">[สรุปแบบวิศวกรเป็ด: ติดตั้ง = สร้างพื้นฐานที่คุมได้ งานต่อจากนี้เป็นเรื่องของระบบ ไม่ใช่ความจำ — รอ copy จริง]</p>
+    <p class="body gq">[เคสจริงรอพรเติม — ห้ามแต่ง]</p>
+  </div>
+  <div class="foot"><span class="bt en">Rakazo Field Guide</span><span class="pgnum en">17</span></div>
+</section>
+
+<!-- ============ หน้า 18 : หมายเหตุ ============ -->
+<section class="sheet">
+  <div class="h-kicker en">Notes</div>
+  <div class="h-big">หมายเหตุ</div>
+  <div class="note-box">
+    <p class="small">เนื้อหาเชิงเทคนิคทั้งเล่มอ้างเอกสารทางการของ Rakazo เท่านั้น (rakazo.com/docs.md และ rakazo.com/docs/desktop-app.md — ดึง 17 พ.ย. 2026) หากรายละเอียดบนหน้าเว็บเปลี่ยนหลังวันดึง ให้ใช้เอกสารล่าสุดบนเว็บเป็นตัวยึด</p>
+  </div>
+  <div class="note-box">
+    <p class="small">เล่มนี้ไม่แตะเรื่องการแพทย์/สุขภาพ — ข้อความในเล่มไม่ใช่คำแนะนำทางการแพทย์</p>
+  </div>
+  <div class="foot"><span class="bt en">Rakazo Field Guide</span><span class="pgnum en">18</span></div>
+</section>
+
+<!-- ============ หน้า 19 : เกี่ยวกับ + สิทธิ์เผยแพร่ ============ -->
+<section class="sheet">
+  <div class="h-kicker en">About</div>
+  <div class="h-big">เกี่ยวกับ</div>
+  <div class="body">
+    <p>E-book จาก Adduckivity — สายงานผลิตคอนเทนต์และ product ของพร (OPB) เล่มนี้จัดทำโดยทีมผลิตภายใน: Product Lead วางโครงและคุมคุณภาพ, Adduck Writer เขียน, Chief ตรวจซ้ำก่อนส่งมอบ</p>
+  </div>
+  <div class="rule-hr"></div>
+  <div class="h-kicker en">License</div>
+  <div class="h-big" style="font-size:17pt;">สิทธิ์เผยแพร่</div>
+  <div class="body">
+    <p>แจกฟรี — ห้ามใช้เชิงพาณิชย์ · ติดต่อ Facebook: <b>Adduckivity</b></p>
+  </div>
+  <div class="foot"><span class="bt en">Rakazo Field Guide</span><span class="pgnum en">19</span></div>
+</section>
+
+</div>
+</body>
+</html>

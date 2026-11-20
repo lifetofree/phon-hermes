@@ -1,0 +1,807 @@
+[
+ {
+  "book": "Atomic Habits",
+  "db_id": "304df8d8-8d8c-8002-bce5-c03642fcc8cf",
+  "db_title": "",
+  "title_col": "Chapter Title (Original)",
+  "n_title_cols": 1,
+  "props": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "rich_text",
+   "Chapter Title (Original)": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⏳ LOADING...",
+   "⬜ QUEUED",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Behave: The Biology of Humans at Our Best and Worst ",
+  "db_id": "314df8d8-8d8c-8094-a60e-ceaafe3135c6",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON / Benz DNA)": "rich_text",
+   "Status": "select",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Brain Hacks: Life-Changing Strategies to Improve Executive Functioning",
+  "db_id": "4b5df8d8-8d8c-82e0-8257-0179875c9789",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Business Made Simple",
+  "db_id": "3e6df8d8-8d8c-80ee-942b-dcfec712ebac",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Status": "select",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "✅ INSTALLED",
+   "⏳ LOADING...",
+   "⬜ QUEUED"
+  ]
+ },
+ {
+  "book": "Clear Thinking",
+  "db_id": "312df8d8-8d8c-80a6-9c3c-c4d712d8ed28",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Deep Work",
+  "db_id": "30adf8d8-8d8c-80fd-aa04-e29ed00ce435",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Don't Believe Everything You Think",
+  "db_id": "3e6df8d8-8d8c-8062-b326-d75a1fc3fdde",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Dopamine Nation: Finding Balance in the Age of Indulgence",
+  "db_id": "306df8d8-8d8c-8062-b5dc-e97fefec5817",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Ego is the Enemy",
+  "db_id": "314df8d8-8d8c-80cf-b828-ecf27b7deb2c",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Chapter Title (Original)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON / Benz DNA)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Essentialism",
+  "db_id": "2ffdf8d8-8d8c-8020-bc74-ed5f36610902",
+  "db_title": "Chapter List (2)",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Core Message (สรุปแก่นฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Extra Focus",
+  "db_id": "3e9df8d8-8d8c-80ef-af24-f2b09e53d1b9",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Feel-Good Productivity",
+  "db_id": "3e7df8d8-8d8c-8009-9ef9-d2d0f1f2683d",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Four Thousand Weeks",
+  "db_id": "2ffdf8d8-8d8c-8016-acf6-f50ee8209354",
+  "db_title": "Chapter List (1)",
+  "title_col": "Chapter #",
+  "n_title_cols": 1,
+  "props": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON/Duck OS)": "rich_text",
+   "Status": "select",
+   "Chapter #": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⏳ LOADING...",
+   "⬜ QUEUED",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Hook Point",
+  "db_id": "3e9df8d8-8d8c-8092-a12d-e5a84f8e59e4",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Hooked: How to Build Habit-Forming Products",
+  "db_id": "3e4df8d8-8d8c-8054-835f-ea59e558c9b4",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Chapter Title (Original)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "How to Be Better at Almost Everything",
+  "db_id": "3e9df8d8-8d8c-8010-b5d1-db3cfe93e8a0",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Chapter Title (Original)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius",
+  "db_id": "31ddf8d8-8d8c-80ed-b246-e025f1b3f1a5",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Chapter Title (Original)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "It Doesn't Have to Be Crazy at Work",
+  "db_id": "320df8d8-8d8c-80cd-a094-e01e502da262",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Keep Going",
+  "db_id": "2ffdf8d8-8d8c-808b-854f-ce711132a5e1",
+  "db_title": "Chapter List ",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⏳ LOADING...",
+   "⬜ QUEUED",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Man vs Maths - Understanding the Curious Mathematics That Power Our World",
+  "db_id": "303df8d8-8d8c-8016-9e63-c392ef298ea6",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Meditations: A New Translation",
+  "db_id": "311df8d8-8d8c-803e-839e-db35fb981e44",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Rest: Why You Get More Done When You Work Less",
+  "db_id": "311df8d8-8d8c-8017-9fff-cf81167c5874",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Rework",
+  "db_id": "3dadf8d8-8d8c-8061-8549-e0823f070ad3",
+  "db_title": "Chapter",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Same as Ever",
+  "db_id": "3e4df8d8-8d8c-8026-a001-c8fd341b59e3",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Scientific Advertising",
+  "db_id": "2ffdf8d8-8d8c-8064-b6ad-f12033d6d97f",
+  "db_title": "Chapter List (1)",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (สรุปแก่นฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Seneca's Letters from a Stoic",
+  "db_id": "31fdf8d8-8d8c-8092-97b4-c39d7e350ff9",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Status": "select",
+   "ผ่านฟิลเตอร์ 3 Laws (OPB)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Show Your Work!",
+  "db_id": "2ffdf8d8-8d8c-8098-8729-fc36696d71f8",
+  "db_title": "Chapter List (1)",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Status": "select",
+   "Core Message (สรุปแก่นฉบับ PHON)": "rich_text",
+   "Chapter Title": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Steal Like an Artist",
+  "db_id": "2ffdf8d8-8d8c-804c-83c2-dc2a630b6fce",
+  "db_title": "Chapter List ",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (สรุปแก่นฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "The Almanack of Naval Ravikant",
+  "db_id": "31fdf8d8-8d8c-803b-911b-dc979ff3eb55",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "The Almanack of Naval Ravikant (TH)",
+  "db_id": "300df8d8-8d8c-807c-a0b0-e753ae6a9c67",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "The Book of Five Rings (Modern)",
+  "db_id": "324df8d8-8d8c-80b9-a4ac-dba0428cbd84",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Status": "select",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "The Brain That Changes Itself",
+  "db_id": "311df8d8-8d8c-8056-9793-f9f7b15886d9",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living",
+  "db_id": "311df8d8-8d8c-805c-8d81-dee7ec7af173",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "The Great Mental Models Volume 1:General Thinking Concepts",
+  "db_id": "40cdf8d8-8d8c-80cc-8a9b-da0a2311364b",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "The Molecule of More",
+  "db_id": "31fdf8d8-8d8c-80ac-b9e9-f075a3e43093",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Chapter Title (Original)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "The Obstacle is the Way",
+  "db_id": "331df8d8-8d8c-80b3-8836-c7ced1b82f27",
+  "db_title": "",
+  "title_col": "Chapter Title (Original)",
+  "n_title_cols": 1,
+  "props": {
+   "#": "rich_text",
+   "Status": "select",
+   "ผ่านฟิลเตอร์ 3 Laws": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "The One-Page Financial Plan",
+  "db_id": "3e6df8d8-8d8c-8009-af59-e5229717547d",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "The Psychology of Money: Timeless lessons on wealth, greed, and happiness",
+  "db_id": "306df8d8-8d8c-801c-b9a4-f5efa1abd380",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Thinking in Systems",
+  "db_id": "322df8d8-8d8c-80e1-a280-db69e16c850e",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Thinking, Fast and Slow",
+  "db_id": "313df8d8-8d8c-80b5-8bc3-d7fad8cb23d2",
+  "db_title": "",
+  "title_col": "Chapter Title (Original)",
+  "n_title_cols": 1,
+  "props": {
+   "Status": "select",
+   "#": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Chapter Title (Original)": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "⏳ LOADING...",
+   "✅ INSTALLED"
+  ]
+ },
+ {
+  "book": "Tiny Experiments",
+  "db_id": "40fdf8d8-8d8c-807d-a6f6-ee5deaa04810",
+  "db_title": "",
+  "title_col": "#",
+  "n_title_cols": 1,
+  "props": {
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "has_status": true,
+  "status_options": [
+   "⬜ QUEUED",
+   "✅ INSTALLED",
+   "⏳ LOADING..."
+  ]
+ }
+]

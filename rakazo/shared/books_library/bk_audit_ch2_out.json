@@ -1,0 +1,4145 @@
+[
+ {
+  "book": "$100M Offers Money Models",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8106-bc23-e9e3dd6861af",
+  "ds_id": "41ddf8d8-8d8c-81ef-9277-000bb90e3ed9",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Brain Hacks: Life-Changing Strategies to Improve Executive Functioning",
+  "title": "Chapter List",
+  "db_id": "4b5df8d8-8d8c-82e0-8257-0179875c9789",
+  "ds_id": "6a4df8d8-8d8c-83a9-bc52-876f78bc3aea",
+  "rows": 7,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 7
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "Hooked: How to Build Habit-Forming Products",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8129-b7ed-c28bfae4759d",
+  "ds_id": "41ddf8d8-8d8c-81a1-ab24-000b315929de",
+  "rows": 8,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 8
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "Think Faster, Talk Smarter ***",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-816b-9828-dc4e9a8a34d0",
+  "ds_id": "41ddf8d8-8d8c-81be-9569-000b34c73683",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Practical Critical Thinking, Logic & Problem Solving Blueprint (10 in 1)",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81a1-93a9-d201199f2693",
+  "ds_id": "41ddf8d8-8d8c-8133-902e-000b67c70fde",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Seneca's Letters from a Stoic",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-818e-884c-f4d532cdebfa",
+  "ds_id": "41ddf8d8-8d8c-8173-ad35-000b2751687c",
+  "rows": 15,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 15
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "The Molecule of More",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8137-b76b-d9a2d0488950",
+  "ds_id": "41ddf8d8-8d8c-8126-908f-000b3fc98928",
+  "rows": 7,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 7
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8195-9676-c9bd4d164f10",
+  "ds_id": "41ddf8d8-8d8c-81af-8b30-000b926e813c",
+  "rows": 8,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 8
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "Ego is the Enemy",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8172-a55a-ca30e63b6986",
+  "ds_id": "41ddf8d8-8d8c-8196-970b-000bb6d5da45",
+  "rows": 25,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 25
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "Behave: The Biology of Humans at Our Best and Worst",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8188-be67-cca79ee5e028",
+  "ds_id": "41ddf8d8-8d8c-8176-9975-000b80290ae1",
+  "rows": 10,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 10
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "Thinking, Fast and Slow",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8136-8b6a-d78bbf9966d3",
+  "ds_id": "41ddf8d8-8d8c-8140-abd6-000b86affb8e",
+  "rows": 38,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Name": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 38
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "name"
+ },
+ {
+  "book": "The Brain That Changes Itself",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81b1-a70d-ddbee57905dc",
+  "ds_id": "41ddf8d8-8d8c-8105-8625-000bb0e54d81",
+  "rows": 11,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 11
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "Meditations: A New Translation",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81d6-815f-d191726451ca",
+  "ds_id": "41ddf8d8-8d8c-81ef-9a94-000b97dd0e63",
+  "rows": 12,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 11,
+   "✅ INSTALLED": 1
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "name"
+ },
+ {
+  "book": "Rest: Why You Get More Done When You Work Less",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8117-a561-c1a14c2357df",
+  "ds_id": "41ddf8d8-8d8c-817d-8ee5-000bbd32f15d",
+  "rows": 12,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⏳ LOADING...": 1,
+   "⬜ QUEUED": 11
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8162-a4fd-c6e62b07b198",
+  "ds_id": "41ddf8d8-8d8c-81a2-bf9a-000b1e39642f",
+  "rows": 12,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 11,
+   "⏳ LOADING...": 1
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "Brain Hacks: 200+ Way to boost you brain power",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8156-9bb5-e98012e988ff",
+  "ds_id": "41ddf8d8-8d8c-816d-be23-000b88bebe80",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Dopamine Nation: Finding Balance in the Age of Indulgence",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81a1-a838-f5c3d3ffdf17",
+  "ds_id": "41ddf8d8-8d8c-8169-98fb-000b306e2832",
+  "rows": 9,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 6,
+   "✅ INSTALLED": 3
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "Man vs Maths - Understanding the Curious Mathematics That Power Our World",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-815d-aece-f9e6ff1e7ab5",
+  "ds_id": "41ddf8d8-8d8c-8145-b7d5-000b0b109c56",
+  "rows": 14,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 14
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "The Book of Elon",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81b4-bbb9-f3c707d5293b",
+  "ds_id": "41ddf8d8-8d8c-816e-b1e0-000b3fdd0a99",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Company of One (TH)",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8177-b66a-dfd99f138343",
+  "ds_id": "41ddf8d8-8d8c-81f6-9502-000b64c805ba",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Almanack of Naval Ravikant (TH)",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-812c-8b56-f06f46e7fe5d",
+  "ds_id": "41ddf8d8-8d8c-81f6-af13-000b38cc0d2a",
+  "rows": 10,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 10
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "The One Thing (TH)",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8144-bd4f-d162bfe7b69c",
+  "ds_id": "41ddf8d8-8d8c-8147-bb52-000b71e772f9",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Four Thousand Weeks",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81a5-a2d1-eeddd7366e92",
+  "ds_id": "41ddf8d8-8d8c-8147-8dd4-000b107410db",
+  "rows": 18,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Chapter #": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 13,
+   "✅ INSTALLED": 2,
+   "None": 2,
+   "⏳ LOADING...": 1
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "name"
+ },
+ {
+  "book": "The Experience Machine",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-813a-a065-ee3724e77336",
+  "ds_id": "41ddf8d8-8d8c-81f3-a4ab-000ba4dd8bfc",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Learn Like a Pro",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8122-879c-d4cb54b84337",
+  "ds_id": "41ddf8d8-8d8c-8146-bfa6-000b337e4e54",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "How to Read a Book",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-812c-9a9f-caa0fc85f196",
+  "ds_id": "41ddf8d8-8d8c-8163-9120-000bbed80346",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Marcus Aurelius: The Stoic Emperor",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8136-979b-ed6b8f3964ab",
+  "ds_id": "41ddf8d8-8d8c-812a-8142-000be0018c46",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Your Money or Your Life",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8149-8326-e027ee1be9f5",
+  "ds_id": "41ddf8d8-8d8c-81bb-bfc6-000bf0d46072",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Paradox of Choice",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81cc-8e3a-df1d20bd0d76",
+  "ds_id": "41ddf8d8-8d8c-810b-823a-000b2de7e4f9",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Wealth Money Can't Buy",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8137-af1c-fb79dedda057",
+  "ds_id": "41ddf8d8-8d8c-81fb-8325-000b779eb4cc",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Peak Mind",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81fe-b207-dfbd5cd84786",
+  "ds_id": "41ddf8d8-8d8c-81d6-a8b1-000b42fccf64",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Chatter",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81a0-a002-f2eb9c5a692f",
+  "ds_id": "41ddf8d8-8d8c-814b-b28f-000bc01895fd",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "$100M Lost Chapters",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8158-827c-f5a553616a34",
+  "ds_id": "41ddf8d8-8d8c-81f0-849a-000b6cd1d098",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Lean Marketing",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8104-bfd5-ff9d79ce8009",
+  "ds_id": "41ddf8d8-8d8c-81a1-a82d-000bdda2303e",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Why Has Nobody Told Me This Before?",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-816a-8892-fa0bc656bd85",
+  "ds_id": "41ddf8d8-8d8c-81d9-93a1-000b718e9a6a",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The 1-Page Marketing Plan",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8183-ba7f-e2939e8b526a",
+  "ds_id": "41ddf8d8-8d8c-81f7-aab1-000b073efd94",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Anthology of Balaji",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8113-9785-e8d9ef3e4689",
+  "ds_id": "41ddf8d8-8d8c-81f9-a1ce-000bbb314f6f",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Art of Thinking Clearly",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8129-89e3-ccef67754e30",
+  "ds_id": "41ddf8d8-8d8c-8196-afeb-000b5edd3d09",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Chip War",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-810b-8663-e7794c020958",
+  "ds_id": "41ddf8d8-8d8c-8199-bf1b-000b686acb71",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Amazing Decisions",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8122-8101-caae79300379",
+  "ds_id": "41ddf8d8-8d8c-81aa-bc60-000b77dfcc3c",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Capital in the Twenty-First Century",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8118-ab7c-d14e3424da10",
+  "ds_id": "41ddf8d8-8d8c-81c1-8c6a-000bebe2b117",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Fooled by Randomness",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-818f-a515-c7acc24cd453",
+  "ds_id": "41ddf8d8-8d8c-8184-9486-000b97d434aa",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Das Kapital",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81b2-8807-f9cbf656b140",
+  "ds_id": "41ddf8d8-8d8c-8121-881c-000ba7c4e24f",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Fabric of Reality",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-813d-b400-cf3613bd158d",
+  "ds_id": "41ddf8d8-8d8c-81f1-85b5-000bd263ccc1",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Coming Wave",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81c4-be9e-e2aef9909e4f",
+  "ds_id": "41ddf8d8-8d8c-81a6-afc4-000b03cb4312",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Black Swan",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-814f-8a7c-d69cc30714bd",
+  "ds_id": "41ddf8d8-8d8c-8103-bb54-000bf751f838",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "A History of Western Philosophy",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8172-b7c0-ca8a326b0c97",
+  "ds_id": "41ddf8d8-8d8c-8119-a68f-000b0aeb81a3",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Skin in the Game",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8107-b357-ffcd2c2e26e5",
+  "ds_id": "41ddf8d8-8d8c-8190-a7bc-000b005f12f3",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Wealth of Nations",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8140-9c61-c344b1277a15",
+  "ds_id": "41ddf8d8-8d8c-8118-83fe-000b352b2a4d",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Thinking in Systems",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-819f-9927-f4d3777df6a7",
+  "ds_id": "41ddf8d8-8d8c-8116-b48f-000ba35c619a",
+  "rows": 7,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {
+   "⏳ LOADING...": 1,
+   "⬜ QUEUED": 6
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "Gödel Escher Bach",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-816c-bc90-d7649a506a4e",
+  "ds_id": "41ddf8d8-8d8c-81c7-87c1-000b836100b4",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Superintelligence",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-810b-a29b-cf66a22b6e08",
+  "ds_id": "41ddf8d8-8d8c-81a9-aaed-000b14de18ee",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Critique of Pure Reason",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81aa-8cf5-da57f5cac75b",
+  "ds_id": "41ddf8d8-8d8c-817e-928c-000bbe778d58",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Goal",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81e4-91bf-d45bba5c7534",
+  "ds_id": "41ddf8d8-8d8c-811b-922d-000b2053b37d",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Bed of Procrustes",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8134-b31d-f3d20008f235",
+  "ds_id": "41ddf8d8-8d8c-81a4-9d95-000b7efbd1f2",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Age of AI",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81ba-bafc-d49fc0ed24d5",
+  "ds_id": "41ddf8d8-8d8c-812c-9e10-000b5814423d",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "More Money Than God",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8186-94f5-f33c61c22248",
+  "ds_id": "41ddf8d8-8d8c-81cf-96a8-000b1eb2e955",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Life 3.0",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8145-841c-f6bfd5888a41",
+  "ds_id": "41ddf8d8-8d8c-81bc-8de5-000b004af0d4",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Power Broker",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-819c-8c57-c5de0e7d8577",
+  "ds_id": "41ddf8d8-8d8c-812d-9d05-000bd099f245",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Beginning of Infinity",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8113-b15f-e4310e0cb461",
+  "ds_id": "41ddf8d8-8d8c-81c9-b46e-000baacb6bec",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Human Compatible",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81c9-91b9-e5c33ec4f8b2",
+  "ds_id": "41ddf8d8-8d8c-8180-998b-000bc524ab61",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Antifragile",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81a9-9e49-e9347668ed49",
+  "ds_id": "41ddf8d8-8d8c-81e5-8aca-000b34748493",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Only the Paranoid Survive",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8189-94f7-e1436370bd08",
+  "ds_id": "41ddf8d8-8d8c-8171-8d1a-000b698f9f77",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The World for Sale",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81d4-bfef-eb8c2b2e9bc4",
+  "ds_id": "41ddf8d8-8d8c-8190-91b9-000b381b6b28",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Super Thinking",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-819a-a082-ed6e06ec81b1",
+  "ds_id": "41ddf8d8-8d8c-818f-8bda-000bd0a5dd42",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Good Strategy Bad Strategy",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8143-b3e3-c63cb7ae877b",
+  "ds_id": "41ddf8d8-8d8c-8179-9786-000bd29a5fd7",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Innovator's Dilemma",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8199-996e-c36269a3db08",
+  "ds_id": "41ddf8d8-8d8c-818f-8266-000b9cd8e452",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Understanding Michael Porter",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-810a-81bd-db7026d9c219",
+  "ds_id": "41ddf8d8-8d8c-81aa-b32c-000b20828650",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Playing to Win",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81ec-9bc9-f5dd87699a2e",
+  "ds_id": "41ddf8d8-8d8c-8141-a652-000be1b7c9e9",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Click",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81b7-8258-e0de2d293157",
+  "ds_id": "41ddf8d8-8d8c-81c6-a707-000b5cb9894d",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Crossing the Chasm",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8103-8031-d8fa8187c40c",
+  "ds_id": "41ddf8d8-8d8c-81f1-a217-000bff8ef06d",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Crux",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8199-a4f0-c182bcb3dba2",
+  "ds_id": "41ddf8d8-8d8c-8165-9d03-000b564c494b",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Competition Demystified",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-812c-ac34-ffd90ed774e4",
+  "ds_id": "41ddf8d8-8d8c-8145-9fb5-000bd5aafd63",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Clear Thinking",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-814c-83f8-c6e522b65d9e",
+  "ds_id": "41ddf8d8-8d8c-81cc-9308-000b4221f3ad",
+  "rows": 31,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 25,
+   "None": 5,
+   "⏳ LOADING...": 1
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "name"
+ },
+ {
+  "book": "Sprint",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81d0-b6e3-cbe7c0815f94",
+  "ds_id": "41ddf8d8-8d8c-8164-8917-000b8fe3cd8b",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Your Next Five Moves",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-815d-b989-d315aeeb828c",
+  "ds_id": "41ddf8d8-8d8c-816f-8274-000ba8d26415",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Make Time",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8109-8291-f586ea76beb2",
+  "ds_id": "41ddf8d8-8d8c-81d7-a92a-000b2373d956",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Noise",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8169-9ae0-ed00592d29a6",
+  "ds_id": "41ddf8d8-8d8c-8188-910a-000ba8141f42",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "7 Powers",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-815b-89f7-c45e13eaa002",
+  "ds_id": "41ddf8d8-8d8c-8121-825a-000b7cb2061a",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Thinking in Bets",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8188-8332-d34adbc39a12",
+  "ds_id": "41ddf8d8-8d8c-816c-b1f4-000b190fa54d",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Don't Make Me Think",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81f4-afb3-ed562ff802a6",
+  "ds_id": "41ddf8d8-8d8c-8134-898e-000b2291ea65",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Mastery",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8105-90c7-e7e2dc5432e9",
+  "ds_id": "41ddf8d8-8d8c-8156-a67d-000b0550699a",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The 48 Laws of Power",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8192-98c7-f4791a620b92",
+  "ds_id": "41ddf8d8-8d8c-8186-9723-000bbad39aaa",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Great Mental Models Volume 1:General Thinking Concepts",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8136-9b8f-fecc086cda85",
+  "ds_id": "41ddf8d8-8d8c-815d-a6eb-000b22285e14",
+  "rows": 9,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 9
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "Blue Ocean Strategy",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8181-8788-dfa9e0bbc8f5",
+  "ds_id": "41ddf8d8-8d8c-8191-8153-000bf6d3e849",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Algorithms to Live By",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81f4-93b8-d41385840bad",
+  "ds_id": "41ddf8d8-8d8c-81df-a8c5-000b8344edcb",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Design of Everyday Things",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-819d-81bb-c8dc6886e317",
+  "ds_id": "41ddf8d8-8d8c-8108-8dfd-000bda8a2372",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Laws of Human Nature",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-815d-bd91-cc54f88a3727",
+  "ds_id": "41ddf8d8-8d8c-8113-a1b7-000b1039d1fc",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Team of Rivals",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81b2-96c0-c645f2572422",
+  "ds_id": "41ddf8d8-8d8c-8168-b270-000b69694919",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Benjamin Franklin",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8162-a105-dfcbfd8bf71b",
+  "ds_id": "41ddf8d8-8d8c-818b-bddc-000b73b66454",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Titan",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8148-bd70-dba49057b64b",
+  "ds_id": "41ddf8d8-8d8c-81ef-8fe9-000bd83d7dee",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Trillion Dollar Coach",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81b7-8a99-db61db9f4a8c",
+  "ds_id": "41ddf8d8-8d8c-817d-8fbf-000bb09b217a",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Napoleon",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-816c-bf25-f4f4b599c8ed",
+  "ds_id": "41ddf8d8-8d8c-817f-a34d-000bfa432b3e",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Alexander Hamilton",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81d5-999b-ca8707af7d45",
+  "ds_id": "41ddf8d8-8d8c-8109-848c-000b14046df1",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Elon Musk",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8100-88e8-d83dec7dd4ff",
+  "ds_id": "41ddf8d8-8d8c-8181-8e0d-000b22c1573d",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Churchill",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8126-9d24-ddd5aed6a48e",
+  "ds_id": "41ddf8d8-8d8c-8199-af96-000bf56e65aa",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Leadership",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8147-ab0a-e3cb1be1c9e5",
+  "ds_id": "41ddf8d8-8d8c-81a6-95c5-000be1c0bf39",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Leonardo da Vinci",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-813e-9689-d3ed6eb8bc59",
+  "ds_id": "41ddf8d8-8d8c-81fc-9e6f-000b53b0cc63",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Washington",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8174-aab5-d89a22c72d07",
+  "ds_id": "41ddf8d8-8d8c-81ec-a4a9-000bd2dbc5c0",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "No Rules Rules",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8194-842b-d7a55c382f65",
+  "ds_id": "41ddf8d8-8d8c-8100-a884-000b924896eb",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "High Output Management",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81b3-820a-f4340b2b8464",
+  "ds_id": "41ddf8d8-8d8c-817a-84a1-000b76ea333e",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Creativity Inc.",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81d0-bda2-cb99dfa92fd2",
+  "ds_id": "41ddf8d8-8d8c-8125-9fd1-000bea4c93c6",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Grant",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8177-a844-e4fb159a268b",
+  "ds_id": "41ddf8d8-8d8c-816a-a4a2-000bf77f7876",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Einstein",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-814e-9327-df4bed62c764",
+  "ds_id": "41ddf8d8-8d8c-814a-a6b2-000b0a3c04b3",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Why Nations Fail",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-812f-8825-c608260bb787",
+  "ds_id": "41ddf8d8-8d8c-8181-81a1-000bba7c37d2",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Shoe Dog",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8118-82cc-d3858b214c46",
+  "ds_id": "41ddf8d8-8d8c-812e-9066-000bbf38b97c",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Built to Last",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8147-b5d9-e17e1f549d53",
+  "ds_id": "41ddf8d8-8d8c-81c7-b2d5-000bbbc62675",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Hard Thing About Hard Things",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8198-9944-fadd3c70ce7f",
+  "ds_id": "41ddf8d8-8d8c-812a-a3ac-000bfcbd51d4",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Great by Choice",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-811f-9bae-f9499b23f7fd",
+  "ds_id": "41ddf8d8-8d8c-816c-a203-000bfa40f27d",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Measure What Matters",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81aa-97a3-d2c83ae90db8",
+  "ds_id": "41ddf8d8-8d8c-813e-bbf0-000b04045c3b",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Good to Great",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81d5-92d9-c71b4cf3b75e",
+  "ds_id": "41ddf8d8-8d8c-8116-8450-000b55ae2b03",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Steve Jobs",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8100-9648-f998a34128c0",
+  "ds_id": "41ddf8d8-8d8c-81c8-ac41-000b0f838eff",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Contagious",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-816d-8060-fe2485496fe8",
+  "ds_id": "41ddf8d8-8d8c-81b3-80a8-000be1668936",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Principles",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-812d-acc2-dff321ba6208",
+  "ds_id": "41ddf8d8-8d8c-81a4-a6bb-000bd11722bc",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Nudge",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-812f-9808-f18cb4a0246d",
+  "ds_id": "41ddf8d8-8d8c-81ff-9b81-000b3d106754",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Freakonomics",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-813f-8d51-d806d91c5672",
+  "ds_id": "41ddf8d8-8d8c-8143-a4c7-000bbe58bcd9",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Catalyst",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81e4-84cd-e1d5ec56c0cf",
+  "ds_id": "41ddf8d8-8d8c-8116-bd45-000b1fceae6e",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Can't Hurt Me",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81ef-bc47-eacd32e1afd5",
+  "ds_id": "41ddf8d8-8d8c-8161-9bf9-000bc7f71a1b",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Guns Germs and Steel",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8116-8252-c6049e16d04e",
+  "ds_id": "41ddf8d8-8d8c-8179-ab9a-000bfe5b3b05",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Never Split the Difference",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-819e-bd56-c3cda0245b93",
+  "ds_id": "41ddf8d8-8d8c-8192-a37c-000b7280dd20",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Homo Deus",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81e5-8172-d05d6bf9016b",
+  "ds_id": "41ddf8d8-8d8c-8186-af4d-000ba3197d94",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Misbehaving",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-812b-b2f2-d2f88bcdde4c",
+  "ds_id": "41ddf8d8-8d8c-81ce-b707-000b67128a2a",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Dollars and Sense",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81fe-b929-fe26f1c0ac76",
+  "ds_id": "41ddf8d8-8d8c-81ca-ae6f-000be4256e37",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "21 Lessons for the 21st Century",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8113-8c68-df1fee51b8ed",
+  "ds_id": "41ddf8d8-8d8c-8166-9d9f-000b0072a7fc",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Indistractable",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8111-84be-e88e165e2cb9",
+  "ds_id": "41ddf8d8-8d8c-81b5-bef9-000bacbf134f",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Superfreakonomics",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81b7-9fb6-fafef42c7284",
+  "ds_id": "41ddf8d8-8d8c-81be-be10-000b2f71c726",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Influence",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81c2-b81a-d506b2821309",
+  "ds_id": "41ddf8d8-8d8c-8141-8f2b-000bf6563227",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Factfulness",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8141-b02c-dd02c13e77ac",
+  "ds_id": "41ddf8d8-8d8c-8129-a606-000b77d6e41f",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Predictably Irrational",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81dd-a7a6-d5700ceecaad",
+  "ds_id": "41ddf8d8-8d8c-810b-8457-000b072e023a",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Upside of Irrationality",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-816f-a42b-e5179778c728",
+  "ds_id": "41ddf8d8-8d8c-81a2-b9b1-000b5590da58",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Sapiens",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8121-b05c-d2ad6bdc9c82",
+  "ds_id": "41ddf8d8-8d8c-8156-81ea-000bc55d4fb6",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Made to Stick",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8104-aa4c-e84cc087e91d",
+  "ds_id": "41ddf8d8-8d8c-81ed-affb-000b99d74c85",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Switch",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-817d-be79-e3b132f73db1",
+  "ds_id": "41ddf8d8-8d8c-814b-b5a6-000b5110a3f0",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "How to Win Friends...",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8153-8805-d17c6d5d7675",
+  "ds_id": "41ddf8d8-8d8c-81fb-b572-000ba7503dda",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Think Like a Freak",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8156-93b9-eb6a5bc6b941",
+  "ds_id": "41ddf8d8-8d8c-81b3-a705-000b4e21a3e5",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Subtle Art of Not Giving a F*ck",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8187-8f27-c6db2f8b5a3e",
+  "ds_id": "41ddf8d8-8d8c-816b-838d-000bc8107e82",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Pre-Suasion",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8119-8a30-dfc1a27a2df6",
+  "ds_id": "41ddf8d8-8d8c-8193-bb3f-000b6b11835f",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Atomic Habits",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81f2-a1ca-fa404981247e",
+  "ds_id": "41ddf8d8-8d8c-81e6-9600-000b735edd7f",
+  "rows": 20,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Name": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 20
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "name"
+ },
+ {
+  "book": "The Compound Effect",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81af-a588-ce19b7a36490",
+  "ds_id": "41ddf8d8-8d8c-8133-96b1-000bae303121",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "How to Take Smart Notes",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81b4-9d33-fec2d8e84051",
+  "ds_id": "41ddf8d8-8d8c-8185-b52e-000bd195a009",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Writing to Learn",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8193-8ea7-ed53f9a230fb",
+  "ds_id": "41ddf8d8-8d8c-81fc-a062-000b4d76816d",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "12 Rules for Life",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81df-940c-d3e5f52fad74",
+  "ds_id": "41ddf8d8-8d8c-81b8-86ce-000b5d3e77f4",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Obstacle is the Way",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-813d-bf8b-e2ab1f0014e1",
+  "ds_id": "41ddf8d8-8d8c-8101-b0cf-000b35f33e40",
+  "rows": 36,
+  "schema": {
+   "ผ่านฟิลเตอร์ 3 Laws": "rich_text",
+   "Status": "select",
+   "#": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "# 1": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 35,
+   "⏳ LOADING...": 1
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "name"
+ },
+ {
+  "book": "Everything Is F*cked",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-814f-8efe-f8593699ba64",
+  "ds_id": "41ddf8d8-8d8c-8184-928c-000b02540eb5",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The One Thing",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8164-85eb-cc393d96f0a2",
+  "ds_id": "41ddf8d8-8d8c-81f7-acf8-000bfa4d04db",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Bird by Bird",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81ed-ae2b-c3945932f74d",
+  "ds_id": "41ddf8d8-8d8c-81a0-8fa9-000b0b40ff3f",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Wisdom Takes Work",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-815c-8ffa-fcadf367c9ce",
+  "ds_id": "41ddf8d8-8d8c-81f0-8013-000be9af3179",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Discipline Is Destiny",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-812b-80b5-ff0806a3438c",
+  "ds_id": "41ddf8d8-8d8c-812d-aeaf-000b8b665202",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Creative Act",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-816d-9c20-fae292f498e3",
+  "ds_id": "41ddf8d8-8d8c-8168-a0bc-000b11e0a974",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Building a Second Brain",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-815f-8b8a-cadf8cf94a3d",
+  "ds_id": "41ddf8d8-8d8c-81a1-a454-000bfe100782",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Courage Is Calling",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-811b-bf14-f88b49e70925",
+  "ds_id": "41ddf8d8-8d8c-81a9-a809-000b67a6dd1d",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Laws of Creativity",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-816d-9821-d59f6107b65d",
+  "ds_id": "41ddf8d8-8d8c-8161-9854-000bda6fcffb",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Right Thing Right Now",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-810e-be3e-d47577a18398",
+  "ds_id": "41ddf8d8-8d8c-81c1-be7c-000ba227aebd",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Stillness Is the Key",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-815f-97ab-d883c7bae087",
+  "ds_id": "41ddf8d8-8d8c-8154-b0ee-000b02fc63f7",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "How to Fail at Almost Everything...",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81d7-9fd2-e30325b562f4",
+  "ds_id": "41ddf8d8-8d8c-81d1-be11-000b24a0ffc7",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Feel-Good Productivity",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-816a-aa77-da14e1abd04d",
+  "ds_id": "41ddf8d8-8d8c-81ee-95e1-000baaf0bb23",
+  "rows": 9,
+  "schema": {
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 9
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "Range",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8133-aa1f-e5b2619c37e4",
+  "ds_id": "41ddf8d8-8d8c-812b-8901-000ba64f2441",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Effortless",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81ec-acaa-f12ad5fc73e7",
+  "ds_id": "41ddf8d8-8d8c-81a5-aa35-000b181d35b4",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Diary of a CEO",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81f1-b06b-c067fbf785fd",
+  "ds_id": "41ddf8d8-8d8c-8129-9853-000bd52c48f6",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Man's Search for Meaning",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8157-98dd-decca8cbdf8b",
+  "ds_id": "41ddf8d8-8d8c-81a4-bf01-000bc5bc2411",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "They Ask You Answer",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8102-b715-c081700e5667",
+  "ds_id": "41ddf8d8-8d8c-815f-bad1-000b2199cc36",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "David and Goliath",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8176-87a0-fc04db167405",
+  "ds_id": "41ddf8d8-8d8c-8118-b67b-000bc0e4067d",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Die With Zero",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8189-907d-cc52006676d8",
+  "ds_id": "41ddf8d8-8d8c-81d5-99f9-000b7d5c777d",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Happy Sexy Millionaire",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8128-8c10-d7ec4f62d29b",
+  "ds_id": "41ddf8d8-8d8c-81bc-9931-000bb522f0a8",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Essentialism",
+  "title": "Chapter List",
+  "db_id": "41edf8d8-8d8c-8158-9b9b-dc16e6233f93",
+  "ds_id": "41edf8d8-8d8c-8176-a149-000b15b0900e",
+  "rows": 24,
+  "schema": {
+   "Core Message (สรุปแก่นฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {
+   "✅ INSTALLED": 5,
+   "⬜ QUEUED": 10,
+   "⏳ LOADING...": 5,
+   "None": 4
+  },
+  "notes_col": "Core Message (สรุปแก่นฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "Hidden Potential",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-811c-b07e-d274a12a382d",
+  "ds_id": "41ddf8d8-8d8c-81cd-9798-000b6e2ead9c",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Slow Productivity",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8138-b952-d59a0056aa2d",
+  "ds_id": "41ddf8d8-8d8c-8138-aa01-000bc8d597a4",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Lean Startup",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-812b-a0ef-fb841300edcb",
+  "ds_id": "41ddf8d8-8d8c-8155-9482-000b6b352284",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Endless Customers",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8190-8601-c77d8124ffd9",
+  "ds_id": "41ddf8d8-8d8c-818a-9166-000b886a0736",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Think Again",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-811c-9ab0-f38f9c12fb80",
+  "ds_id": "41ddf8d8-8d8c-8125-9ad9-000bc877c13f",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Outliers",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81ba-80ff-db5179faccd6",
+  "ds_id": "41ddf8d8-8d8c-81e5-98b0-000b851e02f6",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Digital Minimalism",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-810a-a1d2-c5a35f579436",
+  "ds_id": "41ddf8d8-8d8c-81f2-a7fe-000b5d0fa6f5",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Zero to One",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8162-8dcf-df4a4ade2325",
+  "ds_id": "41ddf8d8-8d8c-8141-b2e3-000b0642f52a",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "So Good They Can't Ignore You",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81a7-aeaf-cc57399dac2c",
+  "ds_id": "41ddf8d8-8d8c-813c-8541-000b87a2ff4f",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Setting the Table",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8132-a758-ec6a15818e95",
+  "ds_id": "41ddf8d8-8d8c-81c3-b52d-000b6025da59",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Unreasonable Hospitality",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81fd-a065-ea8b885700c2",
+  "ds_id": "41ddf8d8-8d8c-8168-9980-000bae7c30a2",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Deep Work",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81ca-9ac9-fffcc3f022c5",
+  "ds_id": "41ddf8d8-8d8c-81fe-8d4d-000b14f6760c",
+  "rows": 10,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 7,
+   "None": 2,
+   "⏳ LOADING...": 1
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "The Tipping Point",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8137-b7e5-e4fb3f5d7ecf",
+  "ds_id": "41ddf8d8-8d8c-816f-b830-000b5534685a",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Building a StoryBrand 2.0",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-810d-b039-c66ec10d17e7",
+  "ds_id": "41ddf8d8-8d8c-81b7-9c28-000b3b93a336",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Talking to Strangers",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8157-814a-c68f3a929fbd",
+  "ds_id": "41ddf8d8-8d8c-8158-9ca4-000bd98c3266",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Originals",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8131-977f-e3344718f219",
+  "ds_id": "41ddf8d8-8d8c-81d3-9f1a-000b86b8f185",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Give and Take",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8195-b6ce-ec3f4ffbcc55",
+  "ds_id": "41ddf8d8-8d8c-81a1-a540-000b9aac74dd",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Rules for a Knight",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8178-926e-d6fdd2556a2b",
+  "ds_id": "41ddf8d8-8d8c-8154-b772-000b2485a653",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Same as Ever",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8139-989c-e5f2a405af9d",
+  "ds_id": "41ddf8d8-8d8c-81b5-ab30-000b48117a83",
+  "rows": 23,
+  "schema": {
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 20,
+   "⏳ LOADING...": 2,
+   "✅ INSTALLED": 1
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "This Is Strategy",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81fa-b30e-dfad18575cc2",
+  "ds_id": "41ddf8d8-8d8c-81ff-93cf-000b468f16a4",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "This Is Marketing",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8146-9694-c57cb0f37567",
+  "ds_id": "41ddf8d8-8d8c-813c-8c1f-000bd7532436",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "HBR Guide to Generative AI",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8188-b142-c776e92c482e",
+  "ds_id": "41ddf8d8-8d8c-8179-8d59-000be44c5afc",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Purpose & Profit",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8165-80ef-de5919ad9c8c",
+  "ds_id": "41ddf8d8-8d8c-81ef-880c-000bf435280d",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Art of Spending Money",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-810c-a6ae-d185d2c882eb",
+  "ds_id": "41ddf8d8-8d8c-8171-8688-000b49449ea5",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Let Them Theory",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81be-b481-c92cbf8b8e5a",
+  "ds_id": "41ddf8d8-8d8c-8112-8b47-000b7efe4fa9",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Stoicism for New Life",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8113-be0d-e237dffb799d",
+  "ds_id": "41ddf8d8-8d8c-81c0-bebc-000bbaa0b16f",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "A Calendar of Wisdom",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-819b-ba79-f5f1e1ea5ce4",
+  "ds_id": "41ddf8d8-8d8c-81cb-9723-000b86bfd20e",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Seven Brief Lessons on Physics",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8165-815b-e019aeefc4df",
+  "ds_id": "41ddf8d8-8d8c-81f9-b0ff-000b5c325347",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Tools Of Titans",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81a8-b73f-c550211a8c79",
+  "ds_id": "41ddf8d8-8d8c-81b9-97c9-000bf0ff656c",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Manifest",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8135-9611-ecf0f0651ceb",
+  "ds_id": "41ddf8d8-8d8c-819c-b041-000b7b79e215",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The 5 Types of Wealth",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-816a-924f-d4a6a2cc96d2",
+  "ds_id": "41ddf8d8-8d8c-81c2-9f87-000b76d66095",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Psychology of Money: Timeless lessons on wealth, greed, and happiness",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8155-a70c-da5ea4ab2266",
+  "ds_id": "41ddf8d8-8d8c-81ab-ba31-000b945c2d7f",
+  "rows": 18,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 17,
+   "⏳ LOADING...": 1
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "The Book of Five Rings (Modern)",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8167-89aa-d6d5e594ea61",
+  "ds_id": "41ddf8d8-8d8c-81a3-a9dd-000bd40fe9b3",
+  "rows": 5,
+  "schema": {
+   "Status": "select",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 4,
+   "⏳ LOADING...": 1
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "When to Rob a Bank",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-817b-978a-dc4f159f0ae9",
+  "ds_id": "41ddf8d8-8d8c-810a-bcea-000b78b81382",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Dokkōdō",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8103-8e1e-f3fc3e0424ca",
+  "ds_id": "41ddf8d8-8d8c-81a9-9391-000b1baa119c",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Little Book of Stoicism",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-816f-b8d0-c91ea45957ed",
+  "ds_id": "41ddf8d8-8d8c-81ab-b829-000b455aa67e",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Tiny Experiments",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81dc-b3bc-cef2ec9c7407",
+  "ds_id": "41ddf8d8-8d8c-8190-8301-000b33117156",
+  "rows": 9,
+  "schema": {
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⏳ LOADING...": 1,
+   "⬜ QUEUED": 8
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "name"
+ },
+ {
+  "book": "The Science of Getting Rich",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81b1-81a4-eb2a4275694a",
+  "ds_id": "41ddf8d8-8d8c-8146-bf41-000b36dc3d1e",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "100 Ways to Improve Your Writing",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81d9-8f7e-f1c9ef19e6f0",
+  "ds_id": "41ddf8d8-8d8c-813c-87c4-000b6f5de258",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Reinvent Yourself At Any Age",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8108-927b-e8c6516ce84f",
+  "ds_id": "41ddf8d8-8d8c-811a-9f1a-000b498a6de6",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Suddenly Talented",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-812f-a1a6-ead1eb8b0a64",
+  "ds_id": "41ddf8d8-8d8c-8150-907c-000b9565b8f2",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "One Plus One Equals Three",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8132-a76f-e3b0927e270e",
+  "ds_id": "41ddf8d8-8d8c-818b-8834-000ba50ea4fb",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Extra Focus",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81cd-9399-c5224b63a222",
+  "ds_id": "41ddf8d8-8d8c-81d6-bd3f-000b12849cc6",
+  "rows": 8,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 8
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "To-Do List Formula",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-816b-b564-cc2be69dfacc",
+  "ds_id": "41ddf8d8-8d8c-81b3-9d2d-000b433592cf",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Copywrong to Copywriter",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81b9-b5e6-f532a8a79fb9",
+  "ds_id": "41ddf8d8-8d8c-817d-bdbe-000b46c1db48",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Brain Audit",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8199-9402-df5f7e071b62",
+  "ds_id": "41ddf8d8-8d8c-8156-b1d0-000b4773fb2d",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Everybody Writes",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81ff-88d2-eddf9ee0b950",
+  "ds_id": "41ddf8d8-8d8c-81c7-af56-000b3afbc78b",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Million Dollar Weekend",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-811a-8b85-e8746c5f1ca7",
+  "ds_id": "41ddf8d8-8d8c-81ee-8ccd-000b4e761b59",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Unfair Advantage",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8138-b899-e8b7c2d1ff7b",
+  "ds_id": "41ddf8d8-8d8c-8162-8c96-000bb49139fb",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Negotiation Made Simple",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-819a-a8b2-c21e590cea38",
+  "ds_id": "41ddf8d8-8d8c-815b-9bcb-000bad9e7f15",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Hook Point",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81c6-9ac9-c0e53dc7dbb2",
+  "ds_id": "41ddf8d8-8d8c-81ab-a480-000b53fe4eda",
+  "rows": 7,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 7
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "The Comfort Book",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81a5-a2bd-e1b2a5acb957",
+  "ds_id": "41ddf8d8-8d8c-81c3-9aa5-000b922810b9",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Mini Book Model",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81f9-885a-c93f1850dcae",
+  "ds_id": "41ddf8d8-8d8c-812d-a32c-000bacf29dbd",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "How to Be Better at Almost Everything",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81f6-b0f8-e756cf6e8f9e",
+  "ds_id": "41ddf8d8-8d8c-81e6-a68f-000b563606b5",
+  "rows": 10,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 10
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "Reasons to Stay Alive",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81db-816b-e05754b73f15",
+  "ds_id": "41ddf8d8-8d8c-81f2-b07b-000b998ac2c5",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Stop Reading the News",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-811d-aead-f03f244a4f58",
+  "ds_id": "41ddf8d8-8d8c-810f-a6bd-000b68c513d5",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Simple Marketing For Smart People",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-814c-94a6-fc3ba481f1a3",
+  "ds_id": "41ddf8d8-8d8c-810e-ada5-000b4cb8959f",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The Art of the Good Life",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8187-aaa2-c4f868ee6f6b",
+  "ds_id": "41ddf8d8-8d8c-81e5-ab0b-000b4c911787",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Focus on What Matters",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81da-8879-d3698ef1cd0e",
+  "ds_id": "41ddf8d8-8d8c-8156-9294-000bb5ee22fe",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "AI Can't Write But You Can",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81b3-b0dd-df030ef835c7",
+  "ds_id": "41ddf8d8-8d8c-8176-9de1-000b35717c1f",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Surrounded by Idiots",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8176-8872-f1f37fee0c26",
+  "ds_id": "41ddf8d8-8d8c-81bd-904c-000bab33939c",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The PARA Method",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-814f-8ead-d8031e69a97b",
+  "ds_id": "41ddf8d8-8d8c-813d-a58e-000b2454bccc",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Growth Hacker Marketing",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8117-908f-c4f1e8da6ad9",
+  "ds_id": "41ddf8d8-8d8c-81f3-a097-000b56f47479",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Beyond Thoughts",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8176-a88f-dc604fca8bab",
+  "ds_id": "41ddf8d8-8d8c-81ec-8cc8-000bc8f12594",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Scientific Advertising",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8167-b43d-ffb7ab3076c2",
+  "ds_id": "41ddf8d8-8d8c-81ee-9263-000b3cfcb91c",
+  "rows": 21,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 18,
+   "✅ INSTALLED": 3
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "Company of One",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81d6-a2b7-ee4bd1b6dbac",
+  "ds_id": "41ddf8d8-8d8c-81ee-bbff-000b6f88930a",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Show Your Work!",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-816a-b7f6-faa7881a2f4e",
+  "ds_id": "41ddf8d8-8d8c-8175-bd7f-000bd5b7d652",
+  "rows": 10,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "✅ INSTALLED": 2,
+   "⬜ QUEUED": 7,
+   "⏳ LOADING...": 1
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "Remote",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-810a-9ab8-d3450909fa8d",
+  "ds_id": "41ddf8d8-8d8c-818e-b1b4-000bb4038146",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Business Made Simple",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-815c-9a53-fe4c4d5c3859",
+  "ds_id": "41ddf8d8-8d8c-811b-ab6a-000bd63e7d7d",
+  "rows": 11,
+  "schema": {
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 11
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "Boundaries = Freedom",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8179-872b-fc08540f184a",
+  "ds_id": "41ddf8d8-8d8c-819a-b440-000bb83551e1",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Don't Believe Everything You Think",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8108-983e-d88162e61cd1",
+  "ds_id": "41ddf8d8-8d8c-81c5-8b8e-000bc406267e",
+  "rows": 13,
+  "schema": {
+   "Status": "select",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 12,
+   "✅ INSTALLED": 1
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "This is Lean",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-817c-9985-c8120bf113a9",
+  "ds_id": "41ddf8d8-8d8c-8129-8983-000bb4231ce4",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Marketing Made Simple",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8195-b204-ccb632929de1",
+  "ds_id": "41ddf8d8-8d8c-81e2-8da2-000b65eb3413",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "It Doesn't Have to Be Crazy at Work",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81b9-8d7c-c0a808a805bc",
+  "ds_id": "41ddf8d8-8d8c-81eb-9083-000b29f585fa",
+  "rows": 73,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 73
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "Weird Philosophy",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8167-bf5c-e6e3898a3e39",
+  "ds_id": "41ddf8d8-8d8c-813e-b197-000b0d16f68b",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Your Money",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8141-8a3d-e2ab0ee32eed",
+  "ds_id": "41ddf8d8-8d8c-81d9-85c8-000b4af7be82",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Very Good Copy",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-812f-8079-e4374210fc29",
+  "ds_id": "41ddf8d8-8d8c-81d6-8865-000b5fcee8a6",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "$100M Leads",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-819e-9d35-cc86b3e9508f",
+  "ds_id": "41ddf8d8-8d8c-8144-b271-000b809e2483",
+  "rows": 0,
+  "schema": {
+   "Status": "select",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "$100M Offers",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-810c-9afd-da4ab744bbd5",
+  "ds_id": "41ddf8d8-8d8c-81f9-832e-000bb1e4c09e",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "The One-Page Financial Plan",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8120-9ab8-dfcbf0cfd8b0",
+  "ds_id": "41ddf8d8-8d8c-8116-a260-000b6b014daa",
+  "rows": 10,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 10
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "The Almanack of Naval Ravikant",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81fb-9096-fa05ee6163fe",
+  "ds_id": "41ddf8d8-8d8c-8183-b5ef-000b63013931",
+  "rows": 8,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 7,
+   "⏳ LOADING...": 1
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "Rework",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8122-92e9-c90dc4264ab9",
+  "ds_id": "41ddf8d8-8d8c-81a9-aec0-000bb4e6561c",
+  "rows": 12,
+  "schema": {
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 11,
+   "✅ INSTALLED": 1
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "Storytelling with Data",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-81fb-ad69-feb388089db6",
+  "ds_id": "41ddf8d8-8d8c-81ff-ac7e-000bcd8dcf62",
+  "rows": 0,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ },
+ {
+  "book": "Keep Going",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-812a-8a84-c308adfaabfc",
+  "ds_id": "41ddf8d8-8d8c-8110-a0f5-000b9bd08b97",
+  "rows": 10,
+  "schema": {
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 8,
+   "⏳ LOADING...": 1,
+   "✅ INSTALLED": 1
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "Steal Like an Artist",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8111-a361-ec87e1fff48b",
+  "ds_id": "41ddf8d8-8d8c-8153-9c84-000b0f25f0ca",
+  "rows": 10,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {
+   "⬜ QUEUED": 8,
+   "✅ INSTALLED": 2
+  },
+  "notes_col": "Core Message (ฉบับ PHON)",
+  "title_kind": "num"
+ },
+ {
+  "book": "Together",
+  "title": "Chapter List",
+  "db_id": "41ddf8d8-8d8c-8171-bb28-cb4b1e5a477d",
+  "ds_id": "41ddf8d8-8d8c-8102-8f3c-000b92c494f7",
+  "rows": 0,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  },
+  "status": {},
+  "notes_col": null,
+  "title_kind": null
+ }
+]

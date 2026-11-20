@@ -1,0 +1,2573 @@
+{
+ "plan": "full",
+ "generated_at": "2026-11-19T13:40:32+0700",
+ "summary": {
+  "rows": 251,
+  "distinct_before": 193,
+  "distinct_after": 43,
+  "slots_before": 564,
+  "slots_after": 498,
+  "rows_changed": 190,
+  "rows_zero_tags": 0,
+  "singleton_tags": [
+   "#DuckOS_Asset",
+   "#DuckOS_Input",
+   "#HardwareManual",
+   "#HighBattery",
+   "#HighCognitiveLoad",
+   "#IdleMode",
+   "#สร้างสรรค์"
+  ],
+  "canonical_dead": [],
+  "bleed_pairs": [
+   [
+    "#DuckOS",
+    "#DuckOS_Asset",
+    2
+   ],
+   [
+    "#DuckOS",
+    "#DuckOS_Core",
+    2
+   ],
+   [
+    "#DuckOS",
+    "#DuckOS_Input",
+    2
+   ]
+  ]
+ },
+ "changes": [
+  {
+   "page_id": "3e6df8d8-8d8c-80ab-ab9c-ffd40909ba2d",
+   "title": "$100M Offers Money Models",
+   "old_tags": [
+    "#Business",
+    "#Offers",
+    "#ValueEquation",
+    "#MeteorOffer",
+    "#ProductDesign"
+   ],
+   "new_tags": [
+    "#Business",
+    "#Finance"
+   ],
+   "dropped": [
+    "#MeteorOffer"
+   ]
+  },
+  {
+   "page_id": "3e6df8d8-8d8c-8043-8d89-fae40862b8d9",
+   "title": "Brain Hacks: Life-Changing Strategies to Improve Executive Functioning",
+   "old_tags": [
+    "#Neuroscience",
+    "#SystemHacks",
+    "#ProductivityHacks",
+    "#ExecutiveFunction"
+   ],
+   "new_tags": [
+    "#Psychology",
+    "#SystemsThinking",
+    "#Productivity",
+    "#Management"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "3e4df8d8-8d8c-80dd-90a4-ddd54de7f41b",
+   "title": "Hooked: How to Build Habit-Forming Products",
+   "old_tags": [
+    "#Psychology",
+    "#Habits",
+    "#ProductDesign",
+    "#DuckOS_Core"
+   ],
+   "new_tags": [
+    "#Psychology",
+    "#SkillBuilding",
+    "#Business",
+    "#DuckOS_Core"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "324df8d8-8d8c-809a-922b-fab4c1efde34",
+   "title": "The Practical Critical Thinking, Logic & Problem Solving Blueprint (10 in 1)",
+   "old_tags": [
+    "#CriticalThinking",
+    "#Logic",
+    "#ProblemSolving",
+    "#SystemDesign",
+    "#HighBattery"
+   ],
+   "new_tags": [
+    "#CriticalThinking",
+    "#SystemsThinking",
+    "#HighBattery"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "31fdf8d8-8d8c-8050-a5f0-fb26d5a2ea3d",
+   "title": "Seneca's Letters from a Stoic",
+   "old_tags": [
+    "#Stoicism",
+    "#Mindset",
+    "#TimeManagement",
+    "#OnePersonBusiness",
+    "#SystemsThinking"
+   ],
+   "new_tags": [
+    "#Stoicism",
+    "#Mindset",
+    "#Productivity",
+    "#Business",
+    "#SystemsThinking"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "31fdf8d8-8d8c-8080-9798-f4c9407cbcbf",
+   "title": "The Molecule of More",
+   "old_tags": [
+    "#Neuroscience",
+    "#Dopamine",
+    "#SystemsThinking",
+    "#DuckOS",
+    "#OnePersonBusiness"
+   ],
+   "new_tags": [
+    "#Psychology",
+    "#SystemsThinking",
+    "#DuckOS",
+    "#Business"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "31ddf8d8-8d8c-8026-8571-c17f1bf7203a",
+   "title": "How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius",
+   "old_tags": [
+    "#Stoicism",
+    "#Psychology",
+    "#MarcusAurelius",
+    "#Neuroscience",
+    "#DuckOS"
+   ],
+   "new_tags": [
+    "#Stoicism",
+    "#Psychology",
+    "#DuckOS"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "314df8d8-8d8c-80d0-8950-fb4072c37109",
+   "title": "Ego is the Enemy",
+   "old_tags": [
+    "#Stoicism",
+    "#BenzDNA",
+    "#SystemShield",
+    "#Mindset",
+    "#Ego"
+   ],
+   "new_tags": [
+    "#Stoicism",
+    "#SystemsThinking",
+    "#Mindset"
+   ],
+   "dropped": [
+    "#BenzDNA",
+    "#Ego"
+   ]
+  },
+  {
+   "page_id": "314df8d8-8d8c-80e3-adae-f55f5e4c6b94",
+   "title": "Behave: The Biology of Humans at Our Best and Worst",
+   "old_tags": [
+    "#Neuroscience",
+    "#Psychology",
+    "#SystemCore",
+    "#HardwareManual"
+   ],
+   "new_tags": [
+    "#Psychology",
+    "#SystemsThinking",
+    "#HardwareManual"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "313df8d8-8d8c-8007-bcf2-e1fa7ca3bded",
+   "title": "Thinking, Fast and Slow",
+   "old_tags": [
+    "#Neuroscience",
+    "#Psychology",
+    "#SystemFirst",
+    "#CognitiveBias",
+    "#CoreLogic",
+    "#BehavioralEcon"
+   ],
+   "new_tags": [
+    "#Psychology",
+    "#SystemsThinking",
+    "#CriticalThinking",
+    "#Economics"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "311df8d8-8d8c-8005-9807-e8895433e325",
+   "title": "The Brain That Changes Itself",
+   "old_tags": [
+    "#Neuroscience",
+    "#Neuroplasticity",
+    "#SystemAwareness",
+    "#HighCognitiveLoad"
+   ],
+   "new_tags": [
+    "#Psychology",
+    "#SystemsThinking",
+    "#HighCognitiveLoad"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "311df8d8-8d8c-80cf-b033-c793fa15b183",
+   "title": "Meditations: A New Translation",
+   "old_tags": [
+    "#Stoicism",
+    "#Boundaries",
+    "#InnerCitadel",
+    "#QuietPower",
+    "#AntiNoise"
+   ],
+   "new_tags": [
+    "#Stoicism",
+    "#Boundaries",
+    "#Mindset",
+    "#SystemsThinking"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "311df8d8-8d8c-80f8-9c62-cd5a424bedeb",
+   "title": "Rest: Why You Get More Done When You Work Less",
+   "old_tags": [
+    "#Neuroscience",
+    "#IdleMode",
+    "#Productivity",
+    "#DMN",
+    "#SystemRecovery"
+   ],
+   "new_tags": [
+    "#Psychology",
+    "#IdleMode",
+    "#Productivity",
+    "#SystemsThinking"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "311df8d8-8d8c-80f8-a62e-fbca375baf65",
+   "title": "The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living",
+   "old_tags": [
+    "#Stoicism",
+    "#DailyRoutine",
+    "#Mindset",
+    "#Philosophy",
+    "#SystemCore"
+   ],
+   "new_tags": [
+    "#Stoicism",
+    "#Productivity",
+    "#Mindset",
+    "#Philosophy",
+    "#SystemsThinking"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "311df8d8-8d8c-8033-9810-c21d77a4dc63",
+   "title": "Brain Hacks: 200+ Way to boost you brain power",
+   "old_tags": [
+    "#Neuroscience",
+    "#SystemHacks",
+    "#ProductivityHacks",
+    "#ExecutiveFunction"
+   ],
+   "new_tags": [
+    "#Psychology",
+    "#SystemsThinking",
+    "#Productivity",
+    "#Management"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "306df8d8-8d8c-8023-a787-f795483dbe18",
+   "title": "Dopamine Nation: Finding Balance in the Age of Indulgence",
+   "old_tags": [
+    "#Neuroscience",
+    "#Dopamine",
+    "#Level_G3",
+    "#Storytelling",
+    "#Focus",
+    "#DuckOS_Input"
+   ],
+   "new_tags": [
+    "#Psychology",
+    "#Level_G3",
+    "#Storytelling",
+    "#Productivity",
+    "#DuckOS_Input"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8088-9ada-f8e910d353f0",
+   "title": "The Book of Elon",
+   "old_tags": [
+    "#Mindset",
+    "#Strategy"
+   ],
+   "new_tags": [
+    "#Mindset",
+    "#Business"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8034-a604-fb0fb5ae4c79",
+   "title": "Company of One (TH)",
+   "old_tags": [
+    "#ThaiEdit",
+    "#Business",
+    "#OnePersonBusiness"
+   ],
+   "new_tags": [
+    "#ThaiEdit",
+    "#Business"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-801c-8925-d3ae063cc342",
+   "title": "The One Thing (TH)",
+   "old_tags": [
+    "#Focus",
+    "#ThaiEdit",
+    "#Productivity"
+   ],
+   "new_tags": [
+    "#Productivity",
+    "#ThaiEdit"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80b8-8b50-d12ae19b3008",
+   "title": "Four Thousand Weeks",
+   "old_tags": [
+    "#AntiProductivity",
+    "#Philosophy"
+   ],
+   "new_tags": [
+    "#Productivity",
+    "#Philosophy"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8055-8779-e78808364d18",
+   "title": "The Experience Machine",
+   "old_tags": [
+    "#Reality",
+    "#Neuroscience"
+   ],
+   "new_tags": [
+    "#Philosophy",
+    "#Psychology"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80d6-a13e-c2f6a02d32a5",
+   "title": "Learn Like a Pro",
+   "old_tags": [
+    "#Learning",
+    "#Neuroscience",
+    "#Skill"
+   ],
+   "new_tags": [
+    "#Learning",
+    "#Psychology",
+    "#SkillBuilding"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8014-b7a3-cbbc45f48e29",
+   "title": "How to Read a Book",
+   "old_tags": [
+    "#Learning",
+    "#Skill"
+   ],
+   "new_tags": [
+    "#Learning",
+    "#SkillBuilding"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8012-8ebd-d075a620c1b7",
+   "title": "Your Money or Your Life",
+   "old_tags": [
+    "#FIRE",
+    "#Finance"
+   ],
+   "new_tags": [
+    "#Finance"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8055-b7e4-dd006c1c2b9c",
+   "title": "The Wealth Money Can't Buy",
+   "old_tags": [
+    "#Life",
+    "#Philosophy"
+   ],
+   "new_tags": [
+    "#Growth",
+    "#Philosophy"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8059-a693-fae125ae8400",
+   "title": "Peak Mind",
+   "old_tags": [
+    "#Focus",
+    "#Neuroscience"
+   ],
+   "new_tags": [
+    "#Productivity",
+    "#Psychology"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8066-97c4-f74cd6019d8b",
+   "title": "Chatter",
+   "old_tags": [
+    "#SelfTalk",
+    "#Psychology"
+   ],
+   "new_tags": [
+    "#Mindset",
+    "#Psychology"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8042-b469-f902c2ec8e06",
+   "title": "$100M Lost Chapters",
+   "old_tags": [
+    "#Business",
+    "#Sales"
+   ],
+   "new_tags": [
+    "#Business"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80ad-9be2-d673c32ac70c",
+   "title": "Why Has Nobody Told Me This Before?",
+   "old_tags": [
+    "#Tools",
+    "#Psychology"
+   ],
+   "new_tags": [
+    "#Tech",
+    "#Psychology"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80e3-a9cc-d3102473ff66",
+   "title": "The 1-Page Marketing Plan",
+   "old_tags": [
+    "#Strategy",
+    "#Marketing"
+   ],
+   "new_tags": [
+    "#Business",
+    "#Marketing"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8098-b7a7-e6799e6b2edc",
+   "title": "The Art of Thinking Clearly",
+   "old_tags": [
+    "#Bias",
+    "#Thinking"
+   ],
+   "new_tags": [
+    "#CriticalThinking"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8032-acc3-fe5cc7f91965",
+   "title": "Chip War",
+   "old_tags": [
+    "#Geopolitics",
+    "#TechHistory"
+   ],
+   "new_tags": [
+    "#History",
+    "#Tech"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80c6-ba0c-f2d5612e7f91",
+   "title": "Amazing Decisions",
+   "old_tags": [
+    "#Comics",
+    "#Psychology"
+   ],
+   "new_tags": [
+    "#Storytelling",
+    "#Psychology"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80ae-9480-f1c311708217",
+   "title": "Capital in the Twenty-First Century",
+   "old_tags": [
+    "#Inequality",
+    "#Economics"
+   ],
+   "new_tags": [
+    "#Economics"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80df-8298-f0921bf12661",
+   "title": "Fooled by Randomness",
+   "old_tags": [
+    "#Markets",
+    "#Probability"
+   ],
+   "new_tags": [
+    "#Economics",
+    "#CriticalThinking"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-805d-b97c-cfcb51bf38f2",
+   "title": "Das Kapital",
+   "old_tags": [
+    "#Politics",
+    "#Economics"
+   ],
+   "new_tags": [
+    "#History",
+    "#Economics"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80af-ac3c-f84a59a63ca3",
+   "title": "The Coming Wave",
+   "old_tags": [
+    "#AI",
+    "#Biotech"
+   ],
+   "new_tags": [
+    "#AI",
+    "#Science"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80a7-bc5d-eacc35c05724",
+   "title": "The Black Swan",
+   "old_tags": [
+    "#Probability",
+    "#Philosophy"
+   ],
+   "new_tags": [
+    "#CriticalThinking",
+    "#Philosophy"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8037-ab06-e0d585f8615a",
+   "title": "Skin in the Game",
+   "old_tags": [
+    "#Probability",
+    "#Ethics"
+   ],
+   "new_tags": [
+    "#CriticalThinking",
+    "#Philosophy"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8031-8dfe-fcf0a1880a6d",
+   "title": "The Wealth of Nations",
+   "old_tags": [
+    "#Economics",
+    "#Classics"
+   ],
+   "new_tags": [
+    "#Economics",
+    "#History"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-803d-b947-f9c1a4ee9c7d",
+   "title": "Thinking in Systems",
+   "old_tags": [
+    "#Sustainability",
+    "#SystemsThinking"
+   ],
+   "new_tags": [
+    "#Future",
+    "#SystemsThinking"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8055-b9c0-c94b2bf03b8a",
+   "title": "Gödel Escher Bach",
+   "old_tags": [
+    "#ArtMath",
+    "#CogSci"
+   ],
+   "new_tags": [
+    "#Creativity",
+    "#Psychology"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80d9-9ced-d8063b944562",
+   "title": "Superintelligence",
+   "old_tags": [
+    "#FutureRisks",
+    "#AI"
+   ],
+   "new_tags": [
+    "#Future",
+    "#AI"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80a4-b3b3-de0bfa44a7ad",
+   "title": "The Critique of Pure Reason",
+   "old_tags": [
+    "#Philosophy",
+    "#Metaphysics"
+   ],
+   "new_tags": [
+    "#Philosophy"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-804e-a40a-ce588f4c9f6a",
+   "title": "The Goal",
+   "old_tags": [
+    "#Operations",
+    "#BusinessNovel"
+   ],
+   "new_tags": [
+    "#Business"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80a2-92a5-f0afc853175b",
+   "title": "The Bed of Procrustes",
+   "old_tags": [
+    "#Philosophy",
+    "#Aphorisms"
+   ],
+   "new_tags": [
+    "#Philosophy",
+    "#Stoicism"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80af-88a4-e800c8559987",
+   "title": "The Age of AI",
+   "old_tags": [
+    "#Geopolitics",
+    "#AI"
+   ],
+   "new_tags": [
+    "#History",
+    "#AI"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-809c-a260-dfaf366398b7",
+   "title": "The Power Broker",
+   "old_tags": [
+    "#Politics",
+    "#Biography"
+   ],
+   "new_tags": [
+    "#History",
+    "#Biography"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80b7-a7d1-e47a47ca9b2f",
+   "title": "Human Compatible",
+   "old_tags": [
+    "#AI",
+    "#Ethics"
+   ],
+   "new_tags": [
+    "#AI",
+    "#Philosophy"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80db-9ecd-e1100de2c245",
+   "title": "Antifragile",
+   "old_tags": [
+    "#Probability",
+    "#Philosophy"
+   ],
+   "new_tags": [
+    "#CriticalThinking",
+    "#Philosophy"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8001-981b-e6f52b293417",
+   "title": "Only the Paranoid Survive",
+   "old_tags": [
+    "#Strategy",
+    "#Business"
+   ],
+   "new_tags": [
+    "#Business"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8041-b347-fdde2042a20d",
+   "title": "The World for Sale",
+   "old_tags": [
+    "#Commodities",
+    "#Economics"
+   ],
+   "new_tags": [
+    "#Finance",
+    "#Economics"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8098-9865-f4d3bf1870df",
+   "title": "Super Thinking",
+   "old_tags": [
+    "#CriticalThinking",
+    "#MentalModels"
+   ],
+   "new_tags": [
+    "#CriticalThinking"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8093-a40e-c2abe935ac4d",
+   "title": "Good Strategy Bad Strategy",
+   "old_tags": [
+    "#Strategy",
+    "#CriticalThinking"
+   ],
+   "new_tags": [
+    "#Business",
+    "#CriticalThinking"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80e9-a728-d54cfa626818",
+   "title": "The Innovator's Dilemma",
+   "old_tags": [
+    "#Innovation",
+    "#Business"
+   ],
+   "new_tags": [
+    "#Creativity",
+    "#Business"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8004-add0-d39b4f7862a9",
+   "title": "Understanding Michael Porter",
+   "old_tags": [
+    "#Strategy",
+    "#Business"
+   ],
+   "new_tags": [
+    "#Business"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-806a-b8b6-db326bedfdb9",
+   "title": "Playing to Win",
+   "old_tags": [
+    "#Strategy",
+    "#Business"
+   ],
+   "new_tags": [
+    "#Business"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80de-a62b-c9c170ddbd7e",
+   "title": "Click",
+   "old_tags": [
+    "#IdeaGeneration",
+    "#Work"
+   ],
+   "new_tags": [
+    "#IdeaGeneration",
+    "#Management"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-809e-86d1-fb4ae27cf2c2",
+   "title": "The Crux",
+   "old_tags": [
+    "#Strategy",
+    "#ProblemSolving"
+   ],
+   "new_tags": [
+    "#Business",
+    "#CriticalThinking"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8016-bef6-df3302def324",
+   "title": "Competition Demystified",
+   "old_tags": [
+    "#Strategy",
+    "#Economics"
+   ],
+   "new_tags": [
+    "#Business",
+    "#Economics"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8057-b186-db7637ce07ad",
+   "title": "Clear Thinking",
+   "old_tags": [
+    "#CriticalThinking",
+    "#DecisionMaking",
+    "#DecisionProtocols",
+    "#MentalModels",
+    "#SystemFirst",
+    "#NoiseReduction"
+   ],
+   "new_tags": [
+    "#CriticalThinking",
+    "#DecisionMaking",
+    "#SystemsThinking"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80b2-a63c-df6c283f14a6",
+   "title": "Sprint",
+   "old_tags": [
+    "#Innovation",
+    "#Process"
+   ],
+   "new_tags": [
+    "#Creativity",
+    "#Business"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8003-ad5a-f9c3cc696315",
+   "title": "Your Next Five Moves",
+   "old_tags": [
+    "#Strategy",
+    "#Business"
+   ],
+   "new_tags": [
+    "#Business"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80ac-8cf8-e75fd565c688",
+   "title": "Make Time",
+   "old_tags": [
+    "#Focus",
+    "#Productivity"
+   ],
+   "new_tags": [
+    "#Productivity"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8024-82d0-fc1e039f7074",
+   "title": "Noise",
+   "old_tags": [
+    "#Statistics",
+    "#DecisionMaking"
+   ],
+   "new_tags": [
+    "#CriticalThinking",
+    "#DecisionMaking"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80ef-8191-cf91c88f1873",
+   "title": "7 Powers",
+   "old_tags": [
+    "#Strategy",
+    "#Business"
+   ],
+   "new_tags": [
+    "#Business"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-802c-bccb-c42fbe6d3041",
+   "title": "Thinking in Bets",
+   "old_tags": [
+    "#Probability",
+    "#DecisionMaking"
+   ],
+   "new_tags": [
+    "#CriticalThinking",
+    "#DecisionMaking"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80aa-9399-c141eedd6ccc",
+   "title": "Don't Make Me Think",
+   "old_tags": [
+    "#UXDesign",
+    "#Web"
+   ],
+   "new_tags": [
+    "#Design",
+    "#Tech"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-808c-a363-f5b14974610e",
+   "title": "The 48 Laws of Power",
+   "old_tags": [
+    "#Power",
+    "#History"
+   ],
+   "new_tags": [
+    "#Business",
+    "#History"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80ec-89cb-f865ae5c30fb",
+   "title": "The Great Mental Models Volume 1:General Thinking Concepts",
+   "old_tags": [
+    "#CriticalThinking",
+    "#MentalModels"
+   ],
+   "new_tags": [
+    "#CriticalThinking"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8043-9a8d-c7d2b0c3c950",
+   "title": "Blue Ocean Strategy",
+   "old_tags": [
+    "#Strategy",
+    "#Business"
+   ],
+   "new_tags": [
+    "#Business"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80dc-98c9-c7345c9f1188",
+   "title": "Algorithms to Live By",
+   "old_tags": [
+    "#CompSci",
+    "#DecisionMaking"
+   ],
+   "new_tags": [
+    "#Tech",
+    "#DecisionMaking"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80c2-b3fb-d09fb9846e80",
+   "title": "Team of Rivals",
+   "old_tags": [
+    "#Politics",
+    "#History"
+   ],
+   "new_tags": [
+    "#History"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80ec-b6ce-ed477bb21d7b",
+   "title": "Trillion Dollar Coach",
+   "old_tags": [
+    "#Management",
+    "#Leadership"
+   ],
+   "new_tags": [
+    "#Management"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-801a-8699-fabe89f566cf",
+   "title": "Napoleon",
+   "old_tags": [
+    "#Military",
+    "#Biography"
+   ],
+   "new_tags": [
+    "#History",
+    "#Biography"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8052-91ba-cb1a633912ab",
+   "title": "Churchill",
+   "old_tags": [
+    "#Politics",
+    "#Biography"
+   ],
+   "new_tags": [
+    "#History",
+    "#Biography"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-802e-a5eb-f046448717cb",
+   "title": "Leadership",
+   "old_tags": [
+    "#History",
+    "#Leadership"
+   ],
+   "new_tags": [
+    "#History",
+    "#Management"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80d7-b288-cb0ae46d762f",
+   "title": "Leonardo da Vinci",
+   "old_tags": [
+    "#Art",
+    "#Biography"
+   ],
+   "new_tags": [
+    "#Creativity",
+    "#Biography"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8029-bbd3-cc64d01f7cea",
+   "title": "No Rules Rules",
+   "old_tags": [
+    "#Culture",
+    "#Business"
+   ],
+   "new_tags": [
+    "#History",
+    "#Business"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80a0-b2cd-ea69d79f825a",
+   "title": "High Output Management",
+   "old_tags": [
+    "#Efficiency",
+    "#Management"
+   ],
+   "new_tags": [
+    "#Productivity",
+    "#Management"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-802f-81c2-cf28eab8f7de",
+   "title": "Creativity Inc.",
+   "old_tags": [
+    "#Creativity",
+    "#Culture"
+   ],
+   "new_tags": [
+    "#Creativity",
+    "#History"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8071-bfa2-d07f1fca1235",
+   "title": "Why Nations Fail",
+   "old_tags": [
+    "#Politics",
+    "#Economics"
+   ],
+   "new_tags": [
+    "#History",
+    "#Economics"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-806e-85fa-ed78054929cb",
+   "title": "Shoe Dog",
+   "old_tags": [
+    "#Memoir",
+    "#Entrepreneurship"
+   ],
+   "new_tags": [
+    "#Biography",
+    "#Business"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80d1-b5de-d2522432bae4",
+   "title": "The Hard Thing About Hard Things",
+   "old_tags": [
+    "#Management",
+    "#Entrepreneurship"
+   ],
+   "new_tags": [
+    "#Management",
+    "#Business"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8092-b6a9-e7f895f10856",
+   "title": "Measure What Matters",
+   "old_tags": [
+    "#OKRs",
+    "#Management"
+   ],
+   "new_tags": [
+    "#Business",
+    "#Management"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8064-b58c-fa2524ef7c1e",
+   "title": "Contagious",
+   "old_tags": [
+    "#ViralMarketing",
+    "#Psychology"
+   ],
+   "new_tags": [
+    "#Marketing",
+    "#Psychology"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-803d-afd6-d8422cfdf823",
+   "title": "Nudge",
+   "old_tags": [
+    "#BehavioralEcon",
+    "#Psychology"
+   ],
+   "new_tags": [
+    "#Economics",
+    "#Psychology"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80f3-9453-ed3636450008",
+   "title": "Freakonomics",
+   "old_tags": [
+    "#Economics",
+    "#Thinking"
+   ],
+   "new_tags": [
+    "#Economics",
+    "#CriticalThinking"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8058-a6ec-eb5ca443778b",
+   "title": "The Catalyst",
+   "old_tags": [
+    "#Change",
+    "#Persuasion"
+   ],
+   "new_tags": [
+    "#Growth",
+    "#Communication"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8064-a21b-caa95e4522bc",
+   "title": "Can't Hurt Me",
+   "old_tags": [
+    "#Resilience",
+    "#Mindset"
+   ],
+   "new_tags": [
+    "#Stoicism",
+    "#Mindset"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-808f-ab06-d9fa3bf5e796",
+   "title": "Guns Germs and Steel",
+   "old_tags": [
+    "#History",
+    "#Anthropology"
+   ],
+   "new_tags": [
+    "#History"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8015-8674-fc70eb1845c2",
+   "title": "Never Split the Difference",
+   "old_tags": [
+    "#Negotiation",
+    "#Psychology"
+   ],
+   "new_tags": [
+    "#Management",
+    "#Psychology"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-809c-abf9-c84abcc28ea1",
+   "title": "Homo Deus",
+   "old_tags": [
+    "#Future",
+    "#Anthropology"
+   ],
+   "new_tags": [
+    "#Future",
+    "#History"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8077-b695-ecb74d77db62",
+   "title": "Misbehaving",
+   "old_tags": [
+    "#BehavioralEcon",
+    "#History"
+   ],
+   "new_tags": [
+    "#Economics",
+    "#History"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80ca-9fde-fdba58d865f4",
+   "title": "21 Lessons for the 21st Century",
+   "old_tags": [
+    "#CurrentAffairs",
+    "#Future"
+   ],
+   "new_tags": [
+    "#History",
+    "#Future"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8034-b326-ef90bb5ff251",
+   "title": "Indistractable",
+   "old_tags": [
+    "#Focus",
+    "#Psychology"
+   ],
+   "new_tags": [
+    "#Productivity",
+    "#Psychology"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80bb-980c-dc8086f83518",
+   "title": "Superfreakonomics",
+   "old_tags": [
+    "#Economics",
+    "#Thinking"
+   ],
+   "new_tags": [
+    "#Economics",
+    "#CriticalThinking"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8037-be4a-eeefd15aae68",
+   "title": "Influence",
+   "old_tags": [
+    "#Marketing",
+    "#Persuasion"
+   ],
+   "new_tags": [
+    "#Marketing",
+    "#Communication"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8046-9d3d-ebd0aede7f95",
+   "title": "Factfulness",
+   "old_tags": [
+    "#WorldView",
+    "#Data"
+   ],
+   "new_tags": [
+    "#Philosophy",
+    "#Tech"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80c0-b842-c7a5ab630f64",
+   "title": "Predictably Irrational",
+   "old_tags": [
+    "#BehavioralEcon",
+    "#Psychology"
+   ],
+   "new_tags": [
+    "#Economics",
+    "#Psychology"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80fa-95b5-d91548a96aaa",
+   "title": "The Upside of Irrationality",
+   "old_tags": [
+    "#BehavioralEcon",
+    "#Psychology"
+   ],
+   "new_tags": [
+    "#Economics",
+    "#Psychology"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8055-b68e-d71c48dafb43",
+   "title": "Sapiens",
+   "old_tags": [
+    "#History",
+    "#Anthropology"
+   ],
+   "new_tags": [
+    "#History"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-800a-bf69-eb770cb04ffd",
+   "title": "Switch",
+   "old_tags": [
+    "#Change",
+    "#Psychology"
+   ],
+   "new_tags": [
+    "#Growth",
+    "#Psychology"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8040-9780-ca36f73d2b7e",
+   "title": "How to Win Friends...",
+   "old_tags": [
+    "#Communication",
+    "#SocialSkills"
+   ],
+   "new_tags": [
+    "#Communication"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-803e-b2b2-c1be07f30a69",
+   "title": "The Subtle Art of Not Giving a F*ck",
+   "old_tags": [
+    "#Values",
+    "#Mindset"
+   ],
+   "new_tags": [
+    "#Philosophy",
+    "#Mindset"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80af-b23c-ccfd3b3ebd07",
+   "title": "Pre-Suasion",
+   "old_tags": [
+    "#Marketing",
+    "#Persuasion"
+   ],
+   "new_tags": [
+    "#Marketing",
+    "#Communication"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-803c-b877-f3dcd55e4c3f",
+   "title": "Atomic Habits",
+   "old_tags": [
+    "#Habits",
+    "#Psychology"
+   ],
+   "new_tags": [
+    "#SkillBuilding",
+    "#Psychology"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-802a-bf3e-f5b7d7c93eb4",
+   "title": "How to Take Smart Notes",
+   "old_tags": [
+    "#Zettelkasten",
+    "#PKM"
+   ],
+   "new_tags": [
+    "#Learning"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8036-9ab8-f4ef875bfd98",
+   "title": "12 Rules for Life",
+   "old_tags": [
+    "#Rules",
+    "#Psychology"
+   ],
+   "new_tags": [
+    "#Business",
+    "#Psychology"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80d4-89f9-f7517e375ad8",
+   "title": "The Obstacle is the Way",
+   "old_tags": [
+    "#Stoicism",
+    "#Resilience"
+   ],
+   "new_tags": [
+    "#Stoicism"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8084-9591-c20505c7ff33",
+   "title": "Everything Is F*cked",
+   "old_tags": [
+    "#Philosophy",
+    "#Hope"
+   ],
+   "new_tags": [
+    "#Philosophy",
+    "#Growth"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80a4-a2c6-d1cb9c161b4d",
+   "title": "The One Thing",
+   "old_tags": [
+    "#Focus",
+    "#Productivity"
+   ],
+   "new_tags": [
+    "#Productivity"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8084-a288-e9ba47f9faa6",
+   "title": "Wisdom Takes Work",
+   "old_tags": [
+    "#Stoicism",
+    "#Wisdom"
+   ],
+   "new_tags": [
+    "#Stoicism"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80b1-bf53-c52767604ac7",
+   "title": "Discipline Is Destiny",
+   "old_tags": [
+    "#Stoicism",
+    "#Discipline"
+   ],
+   "new_tags": [
+    "#Stoicism"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80d6-8197-d18c6bf6152d",
+   "title": "The Creative Act",
+   "old_tags": [
+    "#Creativity",
+    "#Spirituality"
+   ],
+   "new_tags": [
+    "#Creativity",
+    "#Philosophy"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80fd-85d0-c58d49c0df96",
+   "title": "Building a Second Brain",
+   "old_tags": [
+    "#Notetaking",
+    "#PKM"
+   ],
+   "new_tags": [
+    "#Learning"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-805a-9bc9-e16f042f4dbd",
+   "title": "Courage Is Calling",
+   "old_tags": [
+    "#Stoicism",
+    "#Courage"
+   ],
+   "new_tags": [
+    "#Stoicism",
+    "#Mindset"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8043-8b21-d1598fe90513",
+   "title": "Right Thing Right Now",
+   "old_tags": [
+    "#Justice",
+    "#Stoicism"
+   ],
+   "new_tags": [
+    "#Philosophy",
+    "#Stoicism"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8009-a67c-e658347afc3d",
+   "title": "How to Fail at Almost Everything...",
+   "old_tags": [
+    "#Systems",
+    "#Success"
+   ],
+   "new_tags": [
+    "#SystemsThinking",
+    "#Growth"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80af-9f80-e2fdcb6888e7",
+   "title": "Feel-Good Productivity",
+   "old_tags": [
+    "#Happiness",
+    "#Productivity"
+   ],
+   "new_tags": [
+    "#Growth",
+    "#Productivity"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8050-bf52-de336591c82d",
+   "title": "Range",
+   "old_tags": [
+    "#Career",
+    "#Learning"
+   ],
+   "new_tags": [
+    "#Management",
+    "#Learning"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80ac-98b4-c66f95fa4e71",
+   "title": "Effortless",
+   "old_tags": [
+    "#Ease",
+    "#Productivity"
+   ],
+   "new_tags": [
+    "#Productivity"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8058-82b1-cc3decc1c090",
+   "title": "The Diary of a CEO",
+   "old_tags": [
+    "#Business",
+    "#Leadership"
+   ],
+   "new_tags": [
+    "#Business",
+    "#Management"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80eb-bff4-d40455cb4381",
+   "title": "Man's Search for Meaning",
+   "old_tags": [
+    "#Meaning",
+    "#Psychology"
+   ],
+   "new_tags": [
+    "#Philosophy",
+    "#Psychology"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8005-9999-f23455d8822a",
+   "title": "They Ask You Answer",
+   "old_tags": [
+    "#Sales",
+    "#ContentMarketing"
+   ],
+   "new_tags": [
+    "#Business",
+    "#Marketing"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8076-a0d2-d5568e413f0d",
+   "title": "David and Goliath",
+   "old_tags": [
+    "#Strategy",
+    "#Psychology"
+   ],
+   "new_tags": [
+    "#Business",
+    "#Psychology"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8030-8c58-e495d5ff4da8",
+   "title": "Die With Zero",
+   "old_tags": [
+    "#Finance",
+    "#Lifestyle"
+   ],
+   "new_tags": [
+    "#Finance",
+    "#Growth"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80c4-8e97-c87f328a5205",
+   "title": "Happy Sexy Millionaire",
+   "old_tags": [
+    "#Entrepreneurship",
+    "#Mindset"
+   ],
+   "new_tags": [
+    "#Business",
+    "#Mindset"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-800b-8608-dfbd9d3cc810",
+   "title": "Essentialism",
+   "old_tags": [
+    "#Productivity",
+    "#Minimalism"
+   ],
+   "new_tags": [
+    "#Productivity"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8005-981d-cc8ce8e2cb95",
+   "title": "Slow Productivity",
+   "old_tags": [
+    "#Productivity",
+    "#Pace"
+   ],
+   "new_tags": [
+    "#Productivity",
+    "#Mindset"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8014-9846-deea1df6a629",
+   "title": "The Lean Startup",
+   "old_tags": [
+    "#Methodology",
+    "#Startups"
+   ],
+   "new_tags": [
+    "#Learning",
+    "#Business"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8086-b40b-e3f988e70eaa",
+   "title": "Endless Customers",
+   "old_tags": [
+    "#Sales",
+    "#Marketing"
+   ],
+   "new_tags": [
+    "#Business",
+    "#Marketing"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8014-a98e-c36d5276424a",
+   "title": "Think Again",
+   "old_tags": [
+    "#Rethinking",
+    "#CriticalThinking"
+   ],
+   "new_tags": [
+    "#CriticalThinking"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8006-8ebb-dea95ac072e3",
+   "title": "Outliers",
+   "old_tags": [
+    "#Sociology",
+    "#Success"
+   ],
+   "new_tags": [
+    "#History",
+    "#Growth"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80e7-baf2-fa17c3810579",
+   "title": "Digital Minimalism",
+   "old_tags": [
+    "#Focus",
+    "#DigitalWellbeing"
+   ],
+   "new_tags": [
+    "#Productivity",
+    "#MentalHealth"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8033-b7ec-c240571433e6",
+   "title": "Zero to One",
+   "old_tags": [
+    "#Future",
+    "#Startups"
+   ],
+   "new_tags": [
+    "#Future",
+    "#Business"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8037-a4fd-c9deca59539d",
+   "title": "So Good They Can't Ignore You",
+   "old_tags": [
+    "#Career",
+    "#SkillBuilding"
+   ],
+   "new_tags": [
+    "#Management",
+    "#SkillBuilding"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80b8-85c5-d2f3921960a1",
+   "title": "Setting the Table",
+   "old_tags": [
+    "#Restaurant",
+    "#Business"
+   ],
+   "new_tags": [
+    "#Business"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8030-a42c-fdc93b43aeab",
+   "title": "Unreasonable Hospitality",
+   "old_tags": [
+    "#Management",
+    "#Service"
+   ],
+   "new_tags": [
+    "#Management",
+    "#Marketing"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80d2-8c34-e560577cb598",
+   "title": "Deep Work",
+   "old_tags": [
+    "#Focus",
+    "#Productivity"
+   ],
+   "new_tags": [
+    "#Productivity"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8039-900a-e93453d00700",
+   "title": "The Tipping Point",
+   "old_tags": [
+    "#Trends",
+    "#Sociology"
+   ],
+   "new_tags": [
+    "#Future",
+    "#History"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-803e-9658-fac3d1cba1a3",
+   "title": "Originals",
+   "old_tags": [
+    "#Creativity",
+    "#Change"
+   ],
+   "new_tags": [
+    "#Creativity",
+    "#Growth"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8040-820f-e8a26070c5a2",
+   "title": "Give and Take",
+   "old_tags": [
+    "#Networking",
+    "#Psychology"
+   ],
+   "new_tags": [
+    "#Management",
+    "#Psychology"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-803c-bd24-f97bf8e6a861",
+   "title": "Rules for a Knight",
+   "old_tags": [
+    "#Ethics",
+    "#Philosophy"
+   ],
+   "new_tags": [
+    "#Philosophy"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-803d-8eac-cf1def6272f3",
+   "title": "This Is Strategy",
+   "old_tags": [
+    "#Strategy",
+    "#Business"
+   ],
+   "new_tags": [
+    "#Business"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8049-a459-d6775bf1dbd8",
+   "title": "Purpose & Profit",
+   "old_tags": [
+    "#สร้างสรรค์",
+    "#OnePersonBusiness",
+    "#Philosophy"
+   ],
+   "new_tags": [
+    "#สร้างสรรค์",
+    "#Business",
+    "#Philosophy"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8017-9cc7-d4106ce3c6fd",
+   "title": "The Let Them Theory",
+   "old_tags": [
+    "#LettingGo",
+    "#Mindset"
+   ],
+   "new_tags": [
+    "#Mindfulness",
+    "#Mindset"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8008-a5b4-f72ed4c12b4e",
+   "title": "A Calendar of Wisdom",
+   "old_tags": [
+    "#Daily",
+    "#Philosophy"
+   ],
+   "new_tags": [
+    "#Productivity",
+    "#Philosophy"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80bc-8134-d95fd337f0a1",
+   "title": "Seven Brief Lessons on Physics",
+   "old_tags": [
+    "#Science",
+    "#Physics"
+   ],
+   "new_tags": [
+    "#Science"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80f6-998c-d6f1be2c44a4",
+   "title": "Tools Of Titans",
+   "old_tags": [
+    "#Interview",
+    "#Success"
+   ],
+   "new_tags": [
+    "#Communication",
+    "#Growth"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80a4-9f26-fae9021b6224",
+   "title": "Manifest",
+   "old_tags": [
+    "#SelfHelp",
+    "#Mindset"
+   ],
+   "new_tags": [
+    "#Growth",
+    "#Mindset"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80dc-9000-e4bf28133ebc",
+   "title": "The 5 Types of Wealth",
+   "old_tags": [
+    "#Wealth",
+    "#Lifestyle"
+   ],
+   "new_tags": [
+    "#Wealth",
+    "#Growth"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80e6-b3b6-c31c8fec10fd",
+   "title": "The Psychology of Money: Timeless lessons on wealth, greed, and happiness",
+   "old_tags": [
+    "#Wealth",
+    "#Compounding",
+    "#BehavioralFinance",
+    "#Level_G3",
+    "#Storytelling",
+    "#DuckOS_Asset"
+   ],
+   "new_tags": [
+    "#Wealth",
+    "#Growth",
+    "#Finance",
+    "#Level_G3",
+    "#Storytelling",
+    "#DuckOS_Asset"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80e7-9ce9-dd5443610659",
+   "title": "The Book of Five Rings (Modern)",
+   "old_tags": [
+    "#Strategy",
+    "#Philosophy"
+   ],
+   "new_tags": [
+    "#Business",
+    "#Philosophy"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8088-a7ba-cf05baace01c",
+   "title": "When to Rob a Bank",
+   "old_tags": [
+    "#Economics",
+    "#Thinking"
+   ],
+   "new_tags": [
+    "#Economics",
+    "#CriticalThinking"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80b6-a1c9-c367773f8149",
+   "title": "Dokkōdō",
+   "old_tags": [
+    "#Strategy",
+    "#Philosophy"
+   ],
+   "new_tags": [
+    "#Business",
+    "#Philosophy"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8072-8a2d-ca4bd9d8092d",
+   "title": "Tiny Experiments",
+   "old_tags": [
+    "#Growth",
+    "#Experimentation"
+   ],
+   "new_tags": [
+    "#Growth",
+    "#Learning"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8013-8c31-ea6d6a047854",
+   "title": "100 Ways to Improve Your Writing",
+   "old_tags": [
+    "#Writing",
+    "#Language"
+   ],
+   "new_tags": [
+    "#Writing",
+    "#Learning"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80e8-83e6-fa17af8d721e",
+   "title": "Reinvent Yourself At Any Age",
+   "old_tags": [
+    "#Change",
+    "#Growth"
+   ],
+   "new_tags": [
+    "#Growth"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8017-b05f-c2f45a29eed2",
+   "title": "Extra Focus",
+   "old_tags": [
+    "#Productivity",
+    "#ADHD"
+   ],
+   "new_tags": [
+    "#Productivity",
+    "#Psychology"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-809e-a935-e35011e9c79b",
+   "title": "To-Do List Formula",
+   "old_tags": [
+    "#Planning",
+    "#Productivity"
+   ],
+   "new_tags": [
+    "#Productivity"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8079-94dc-fc0f8ee4a71f",
+   "title": "Copywrong to Copywriter",
+   "old_tags": [
+    "#Copywriting",
+    "#Communication"
+   ],
+   "new_tags": [
+    "#Marketing",
+    "#Communication"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8024-a7d4-da1a7446fe73",
+   "title": "Everybody Writes",
+   "old_tags": [
+    "#Writing",
+    "#ContentMarketing"
+   ],
+   "new_tags": [
+    "#Writing",
+    "#Marketing"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-806c-9050-ce26898caeed",
+   "title": "Million Dollar Weekend",
+   "old_tags": [
+    "#Entrepreneurship",
+    "#Action"
+   ],
+   "new_tags": [
+    "#Business",
+    "#Productivity"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8038-95a6-e45f4a33023a",
+   "title": "The Unfair Advantage",
+   "old_tags": [
+    "#Entrepreneurship",
+    "#Mindset"
+   ],
+   "new_tags": [
+    "#Business",
+    "#Mindset"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80e7-88c4-c9a584fc208a",
+   "title": "Negotiation Made Simple",
+   "old_tags": [
+    "#Business",
+    "#Negotiation"
+   ],
+   "new_tags": [
+    "#Business",
+    "#Management"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8088-be4e-d1ac6f45a788",
+   "title": "Hook Point",
+   "old_tags": [
+    "#Marketing",
+    "#SocialMedia"
+   ],
+   "new_tags": [
+    "#Marketing"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8091-b748-ce93fe9d94cb",
+   "title": "The Comfort Book",
+   "old_tags": [
+    "#Comfort",
+    "#MentalHealth"
+   ],
+   "new_tags": [
+    "#MentalHealth"
+   ],
+   "dropped": [
+    "#Comfort"
+   ]
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80f4-a73a-dab69bea1985",
+   "title": "Mini Book Model",
+   "old_tags": [
+    "#Writing",
+    "#Publishing"
+   ],
+   "new_tags": [
+    "#Writing"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8025-b3d4-cd9a91ba3703",
+   "title": "How to Be Better at Almost Everything",
+   "old_tags": [
+    "#SkillStacking",
+    "#Learning"
+   ],
+   "new_tags": [
+    "#SkillBuilding",
+    "#Learning"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80f4-9d46-e128ac011ed5",
+   "title": "Reasons to Stay Alive",
+   "old_tags": [
+    "#Memoir",
+    "#MentalHealth"
+   ],
+   "new_tags": [
+    "#Biography",
+    "#MentalHealth"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-805f-b0e7-e0bbef81ce19",
+   "title": "Stop Reading the News",
+   "old_tags": [
+    "#Focus",
+    "#MentalHealth"
+   ],
+   "new_tags": [
+    "#Productivity",
+    "#MentalHealth"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8032-ae81-c2265dcf5b73",
+   "title": "The Art of the Good Life",
+   "old_tags": [
+    "#Philosophy",
+    "#Thinking"
+   ],
+   "new_tags": [
+    "#Philosophy",
+    "#CriticalThinking"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-806a-8282-e9adafd981b8",
+   "title": "Focus on What Matters",
+   "old_tags": [
+    "#Productivity",
+    "#Minimalism"
+   ],
+   "new_tags": [
+    "#Productivity"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-805f-8c8b-f1a4801300e4",
+   "title": "The PARA Method",
+   "old_tags": [
+    "#Organization",
+    "#PKM"
+   ],
+   "new_tags": [
+    "#Business",
+    "#Learning"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8027-8f0d-cf830443699b",
+   "title": "Beyond Thoughts",
+   "old_tags": [
+    "#Spirituality",
+    "#MentalHealth"
+   ],
+   "new_tags": [
+    "#Philosophy",
+    "#MentalHealth"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-802d-aa11-d55b30597d31",
+   "title": "Scientific Advertising",
+   "old_tags": [
+    "#Marketing",
+    "#Classics"
+   ],
+   "new_tags": [
+    "#Marketing",
+    "#History"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-800d-a423-fed7eb90fb37",
+   "title": "Company of One",
+   "old_tags": [
+    "#Entrepreneurship",
+    "#Minimalism"
+   ],
+   "new_tags": [
+    "#Business",
+    "#Productivity"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8032-a27b-da55a17a6df5",
+   "title": "Show Your Work!",
+   "old_tags": [
+    "#Creativity",
+    "#PersonalBranding"
+   ],
+   "new_tags": [
+    "#Creativity",
+    "#Marketing"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8068-9c10-cd4cc82040c1",
+   "title": "Remote",
+   "old_tags": [
+    "#Management",
+    "#RemoteWork"
+   ],
+   "new_tags": [
+    "#Management"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80d6-aa81-ecc015eb40ad",
+   "title": "This is Lean",
+   "old_tags": [
+    "#Efficiency",
+    "#Management"
+   ],
+   "new_tags": [
+    "#Productivity",
+    "#Management"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8097-abae-f998a0af8031",
+   "title": "Marketing Made Simple",
+   "old_tags": [
+    "#Marketing",
+    "#Branding"
+   ],
+   "new_tags": [
+    "#Marketing"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80de-b613-e46a7d37b0db",
+   "title": "It Doesn't Have to Be Crazy at Work",
+   "old_tags": [
+    "#Management",
+    "#WorkLifeBalance"
+   ],
+   "new_tags": [
+    "#Management",
+    "#Growth"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8051-8b83-c9ded664bf2d",
+   "title": "Your Money",
+   "old_tags": [
+    "#VisualThinking",
+    "#Finance"
+   ],
+   "new_tags": [
+    "#Design",
+    "#Finance"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-8096-902a-f60e9b361958",
+   "title": "Very Good Copy",
+   "old_tags": [
+    "#Inspiration",
+    "#Copywriting"
+   ],
+   "new_tags": [
+    "#Marketing"
+   ],
+   "dropped": [
+    "#Inspiration"
+   ]
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80cf-9430-c94b566cebfa",
+   "title": "The One-Page Financial Plan",
+   "old_tags": [
+    "#VisualThinking",
+    "#Finance"
+   ],
+   "new_tags": [
+    "#Design",
+    "#Finance"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80b6-b639-c2f371165e54",
+   "title": "The Almanack of Naval Ravikant",
+   "old_tags": [
+    "#Wealth",
+    "#Philosophy",
+    "#Wisdom"
+   ],
+   "new_tags": [
+    "#Wealth",
+    "#Philosophy",
+    "#Stoicism"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80b6-9363-f8239b63f4c6",
+   "title": "Storytelling with Data",
+   "old_tags": [
+    "#DataViz",
+    "#Communication"
+   ],
+   "new_tags": [
+    "#Design",
+    "#Communication"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80df-bf06-cd3b2cf08f78",
+   "title": "Keep Going",
+   "old_tags": [
+    "#Creativity",
+    "#Resilience"
+   ],
+   "new_tags": [
+    "#Creativity",
+    "#Stoicism"
+   ],
+   "dropped": []
+  },
+  {
+   "page_id": "2ffdf8d8-8d8c-80b1-a13c-fdeac429233e",
+   "title": "Together",
+   "old_tags": [
+    "#Connection",
+    "#Healing",
+    "#Community"
+   ],
+   "new_tags": [
+    "#Communication",
+    "#MentalHealth"
+   ],
+   "dropped": []
+  }
+ ]
+}

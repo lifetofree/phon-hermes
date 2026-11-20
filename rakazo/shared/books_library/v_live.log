@@ -1,0 +1,22 @@
+=== SCHEMA ===
+  Tags                             multi_select
+      options=76
+  Energy Group                     select
+      options=4
+  Status                           select
+      options=3
+  Author                           rich_text
+  Title                            title
+
+=== ROWS ===
+  rows = 251
+  Energy Group: {'🟡 G.2': 74, '🟠 G.3': 136, '🔴 Boss': 31, '🟢 G.1': 10}
+  Status: {'⬜ QUEUED': 210, '⏳ LOADING...': 41}
+  tag slots=532 distinct_used=76 rows_no_tag=0
+  missing Author=0 Energy=0 Status=0
+
+=== CHILD DB ===
+  child_db blocks = 250
+   'Chapter List'                     x250
+
+wrote bk_audit_live_out.json

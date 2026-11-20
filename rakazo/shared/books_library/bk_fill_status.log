@@ -1,0 +1,64 @@
+  Atomic Habits                                  rows  20 | {'⏳ LOADING...': 4, '⬜ QUEUED': 14, '✅ INSTALLED': 2}
+  Behave: The Biology of Humans at Our Best an   rows  10 | {'⬜ QUEUED': 9, '⏳ LOADING...': 1}
+  Brain Hacks: Life-Changing Strategies to Imp   rows   7 | {'⬜ QUEUED': 6, '': 1}
+  Business Made Simple                           rows  11 | {'⬜ QUEUED': 11}
+  Clear Thinking                                 rows  31 | {'⬜ QUEUED': 25, '': 5, '⏳ LOADING...': 1}
+  Deep Work                                      rows  10 | {'⏳ LOADING...': 1, '⬜ QUEUED': 7, '': 2}
+  Don't Believe Everything You Think             rows  13 | {'⬜ QUEUED': 12, '✅ INSTALLED': 1}
+  Dopamine Nation: Finding Balance in the Age    rows   9 | {'': 4, '✅ INSTALLED': 3, '⬜ QUEUED': 2}
+  Ego is the Enemy                               rows  25 | {'': 4, '⬜ QUEUED': 21}
+  Essentialism                                   rows  24 | {'⬜ QUEUED': 10, '': 4, '⏳ LOADING...': 5, '✅ INSTALLED': 5}
+  Extra Focus                                    rows   8 | {'⬜ QUEUED': 7, '⏳ LOADING...': 1}
+  Feel-Good Productivity                         rows   9 | {'⬜ QUEUED': 9}
+  Four Thousand Weeks                            rows  18 | {'⬜ QUEUED': 13, '✅ INSTALLED': 2, '': 2, '⏳ LOADING...': 1}
+  Hook Point                                     rows   7 | {'⬜ QUEUED': 7}
+  Hooked: How to Build Habit-Forming Products    rows   8 | {'⬜ QUEUED': 7, '⏳ LOADING...': 1}
+  How to Be Better at Almost Everything          rows  10 | {'⬜ QUEUED': 10}
+  How to Think Like a Roman Emperor: The Stoic   rows   8 | {'⬜ QUEUED': 7, '⏳ LOADING...': 1}
+  It Doesn't Have to Be Crazy at Work            rows  73 | {'⬜ QUEUED': 66, '': 7}
+  Keep Going                                     rows  10 | {'⬜ QUEUED': 8, '✅ INSTALLED': 1, '⏳ LOADING...': 1}
+  Man vs Maths - Understanding the Curious Mat   rows  14 | {'⬜ QUEUED': 14}
+  Meditations: A New Translation                 rows  12 | {'⬜ QUEUED': 10, '✅ INSTALLED': 1, '': 1}
+  Rest: Why You Get More Done When You Work Le   rows  12 | {'⬜ QUEUED': 11, '⏳ LOADING...': 1}
+  Rework                                         rows  12 | {'⬜ QUEUED': 11, '✅ INSTALLED': 1}
+  Same as Ever                                   rows  23 | {'⬜ QUEUED': 20, '✅ INSTALLED': 1, '⏳ LOADING...': 2}
+  Scientific Advertising                         rows  21 | {'✅ INSTALLED': 3, '⬜ QUEUED': 18}
+  Seneca's Letters from a Stoic                  rows  15 | {'⬜ QUEUED': 15}
+  Show Your Work!                                rows  10 | {'⬜ QUEUED': 7, '⏳ LOADING...': 1, '✅ INSTALLED': 2}
+  Steal Like an Artist                           rows  10 | {'⬜ QUEUED': 8, '✅ INSTALLED': 2}
+  The Almanack of Naval Ravikant                 rows   8 | {'⬜ QUEUED': 7, '⏳ LOADING...': 1}
+  The Almanack of Naval Ravikant (TH)            rows  10 | {'⬜ QUEUED': 9, '': 1}
+  The Book of Five Rings (Modern)                rows   5 | {'⏳ LOADING...': 1, '⬜ QUEUED': 4}
+  The Brain That Changes Itself                  rows  11 | {'⬜ QUEUED': 10, '⏳ LOADING...': 1}
+  The Daily Stoic: 366 Meditations on Wisdom,    rows  12 | {'⬜ QUEUED': 11, '⏳ LOADING...': 1}
+  The Great Mental Models Volume 1:General Thi   rows   9 | {'⬜ QUEUED': 8, '⏳ LOADING...': 1}
+  The Molecule of More                           rows   7 | {'⬜ QUEUED': 6, '': 1}
+  The Obstacle is the Way                        rows  36 | {'⬜ QUEUED': 32, '': 3, '⏳ LOADING...': 1}
+  The One-Page Financial Plan                    rows  10 | {'⬜ QUEUED': 10}
+  The Psychology of Money: Timeless lessons on   rows  18 | {'⬜ QUEUED': 17, '⏳ LOADING...': 1}
+  Thinking in Systems                            rows   7 | {'⬜ QUEUED': 6, '⏳ LOADING...': 1}
+  Thinking, Fast and Slow                        rows  38 | {'⬜ QUEUED': 36, '⏳ LOADING...': 2}
+  Tiny Experiments                               rows   9 | {'⬜ QUEUED': 8, '⏳ LOADING...': 1}
+
+=== chapter rows with EMPTY Status ===
+  total empty          : 35
+  PART/Section rows    : 23 (leave blank - not a real chapter)
+  real chapters empty  : 12
+     - has notes       : 9 -> set to ⬜ QUEUED
+     - no notes        : 3 -> set to ⬜ QUEUED
+
+--- target rows to patch (12) ---
+  [notes] Brain Hacks: Life-Changing Strategies to I | 1 | notes=yes
+  [notes] Dopamine Nation: Finding Balance in the Ag | 03 | notes=yes
+  [notes] Dopamine Nation: Finding Balance in the Ag | 05 | notes=yes
+  [notes] Dopamine Nation: Finding Balance in the Ag | 08 | notes=yes
+  [notes] Dopamine Nation: Finding Balance in the Ag | 07 | notes=yes
+  [notes] Ego is the Enemy                           | 1 | notes=yes
+  [notes] Meditations: A New Translation             | Book 2 | notes=yes
+  [notes] The Almanack of Naval Ravikant (TH)        | 02 | notes=yes
+  [notes] The Molecule of More                       | 1 | notes=yes
+  [NO-NOTES] The Obstacle is the Way                    | THE DISCIPLINE OF THE WILL (วินัยแห่งเจตจำนง | notes=no
+  [NO-NOTES] The Obstacle is the Way                    | THE DISCIPLINE OF ACTION (วินัยแห่งการลงมือท | notes=no
+  [NO-NOTES] The Obstacle is the Way                    | THE DISCIPLINE OF PERCEPTION (วินัยแห่งการคว | notes=no
+
+-> bk_fill_status_plan.json

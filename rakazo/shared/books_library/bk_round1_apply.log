@@ -1,0 +1,69 @@
+=== STEP 1: rename columns ===
+  Hooked: How to Build Habit-Forming Name -> # (title holds numbers)
+     -> OK
+  Seneca's Letters from a Stoic      Name -> # (title holds numbers)
+     -> OK
+  The Molecule of More               Name -> # (title holds numbers)
+     -> OK
+  How to Think Like a Roman Emperor: Name -> # (title holds numbers)
+     -> OK
+  Ego is the Enemy                   Name -> # (title holds numbers)
+     -> OK
+  Behave: The Biology of Humans at O Name -> # (title holds numbers)
+     -> OK
+  Thinking, Fast and Slow            SKIP Name-># (title holds chapter NAMES)
+  The Brain That Changes Itself      Name -> # (title holds numbers)
+     -> OK
+  Four Thousand Weeks                Core Message (ฉบับ PHON/Duck OS) -> Core Message (ฉบับ PHON)
+     -> OK
+  Atomic Habits                      SKIP Name-># (title holds chapter NAMES)
+  Essentialism                       Core Message (สรุปแก่นฉบับ PHON) -> Core Message (ฉบับ PHON)
+     -> OK
+  Essentialism                       Core Message (สรุปแก่นฉบับ PHON) -> Core Message (ฉบับ PHON)
+     -> OK
+  Scientific Advertising             Core Message (สรุปแก่นฉบับ PHON) -> Core Message (ฉบับ PHON)
+     -> OK
+  Show Your Work!                    Core Message (สรุปแก่นฉบับ PHON) -> Core Message (ฉบับ PHON)
+     -> OK
+  Show Your Work!                    Chapter Title -> Chapter Title (Original)
+     -> OK
+  Steal Like an Artist               Core Message (สรุปแก่นฉบับ PHON) -> Core Message (ฉบับ PHON)
+     -> OK
+=== STEP 3: archive leftovers (ZZ test db + duplicate Essentialism) ===
+  archive 'ZZ test db' in HBR Guide to Generative AI (rows 0)
+     -> OK
+  archive duplicate Chapter List in Essentialism (keep db 41edf8d8-8d8)
+     -> OK
+=== STEP 4: add Status + Core Message cols to child DBs that lack them ===
+  Hooked: How to Build Habit-Forming rows 8    add ['Status', 'Core Message (ฉบับ PHON)', 'Chapter Title (Original)']
+  Seneca's Letters from a Stoic      rows 15   add ['Status', 'Core Message (ฉบับ PHON)', 'Chapter Title (Original)']
+  The Molecule of More               rows 7    add ['Status', 'Core Message (ฉบับ PHON)', 'Chapter Title (Original)']
+  How to Think Like a Roman Emperor: rows 8    add ['Status', 'Core Message (ฉบับ PHON)', 'Chapter Title (Original)']
+  Ego is the Enemy                   rows 25   add ['Status', 'Core Message (ฉบับ PHON)', 'Chapter Title (Original)']
+  Behave: The Biology of Humans at O rows 10   add ['Status', 'Core Message (ฉบับ PHON)', 'Chapter Title (Original)']
+  Thinking, Fast and Slow            rows 38   add ['Status', 'Core Message (ฉบับ PHON)', 'Chapter Title (Original)']
+  The Brain That Changes Itself      rows 11   add ['Status', 'Core Message (ฉบับ PHON)', 'Chapter Title (Original)']
+  The Great Mental Models Volume 1:G rows 9    add ['Status', 'Core Message (ฉบับ PHON)', 'Chapter Title (Original)']
+  Atomic Habits                      rows 20   add ['Status', 'Core Message (ฉบับ PHON)', 'Chapter Title (Original)']
+  Extra Focus                        rows 8    add ['Status', 'Core Message (ฉบับ PHON)', 'Chapter Title (Original)']
+  It Doesn't Have to Be Crazy at Wor rows 73   add ['Status', 'Core Message (ฉบับ PHON)', 'Chapter Title (Original)']
+  rows set to QUEUED: 232
+=== STEP 5: patch blank Status of REAL chapters (leave PART dividers) ===
+  patch Brain Hacks: Life-Changing S | 1
+  patch Meditations: A New Translati | Book 2
+  patch Dopamine Nation: Finding Bal | 03
+  patch Dopamine Nation: Finding Bal | 05
+  patch Dopamine Nation: Finding Bal | 08
+  patch Dopamine Nation: Finding Bal | 07
+  patch The Almanack of Naval Ravika | 02
+  patch The Obstacle is the Way      | THE DISCIPLINE OF PERCEPTION (วินัยแห่งก
+  patch The Obstacle is the Way      | THE DISCIPLINE OF ACTION (วินัยแห่งการลง
+  patch The Obstacle is the Way      | THE DISCIPLINE OF THE WILL (วินัยแห่งเจต
+  patched: 10 | PART rows left blank: 13
+=== STEP 6: archive duplicate cover image in Essentialism ===
+  image blocks: 2 | child_db blocks: 1
+   img 41edf8d8-8d8c-81 
+   img 41edf8d8-8d8c-81 
+   archive image 41edf8d8-8d8c-81
+     -> OK
+done. APPLY = True

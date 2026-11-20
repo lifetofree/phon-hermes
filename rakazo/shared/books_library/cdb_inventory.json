@@ -1,0 +1,2661 @@
+[
+ {
+  "title": "$100M Offers Money Models",
+  "page_id": "3e6df8d8-8d8c-80ab-ab9c-ffd40909ba2d",
+  "cdb_id": "41ddf8d8-8d8c-81ea-a9a8-c4ec43f9de4a",
+  "ds_id": "41ddf8d8-8d8c-818d-8f86-000b13b6e9ee",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Brain Hacks: Life-Changing Strategies to Improve Executive Functioning",
+  "page_id": "3e6df8d8-8d8c-8043-8d89-fae40862b8d9",
+  "cdb_id": "4b5df8d8-8d8c-82e0-8257-0179875c9789",
+  "ds_id": "6a4df8d8-8d8c-83a9-bc52-876f78bc3aea",
+  "rows": 7,
+  "schema": {
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Hooked: How to Build Habit-Forming Products",
+  "page_id": "3e4df8d8-8d8c-80dd-90a4-ddd54de7f41b",
+  "cdb_id": "3e4df8d8-8d8c-8054-835f-ea59e558c9b4",
+  "ds_id": "3e4df8d8-8d8c-8001-8597-000bdd9f70f2",
+  "rows": 8,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Think Faster, Talk Smarter ***",
+  "page_id": "333df8d8-8d8c-802b-afe7-c768436978bb",
+  "cdb_id": "41ddf8d8-8d8c-8198-b5d7-db774fb46ff0",
+  "ds_id": "41ddf8d8-8d8c-813b-965d-000b8fc31db3",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Practical Critical Thinking, Logic & Problem Solving Blueprint (10 in 1)",
+  "page_id": "324df8d8-8d8c-809a-922b-fab4c1efde34",
+  "cdb_id": "41ddf8d8-8d8c-817f-be36-e76cd5c75eae",
+  "ds_id": "41ddf8d8-8d8c-81d3-8a79-000b467c0853",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Seneca's Letters from a Stoic",
+  "page_id": "31fdf8d8-8d8c-8050-a5f0-fb26d5a2ea3d",
+  "cdb_id": "31fdf8d8-8d8c-8092-97b4-c39d7e350ff9",
+  "ds_id": "31fdf8d8-8d8c-80dd-b858-000b069c2d1f",
+  "rows": 15,
+  "schema": {
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "ผ่านฟิลเตอร์ 3 Laws (OPB)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "The Molecule of More",
+  "page_id": "31fdf8d8-8d8c-8080-9798-f4c9407cbcbf",
+  "cdb_id": "31fdf8d8-8d8c-80ac-b9e9-f075a3e43093",
+  "ds_id": "31fdf8d8-8d8c-801e-8005-000b0707683d",
+  "rows": 7,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "#": "title"
+  }
+ },
+ {
+  "title": "How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius",
+  "page_id": "31ddf8d8-8d8c-8026-8571-c17f1bf7203a",
+  "cdb_id": "31ddf8d8-8d8c-80ed-b246-e025f1b3f1a5",
+  "ds_id": "31ddf8d8-8d8c-802f-ad0a-000b24ba44db",
+  "rows": 8,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Ego is the Enemy",
+  "page_id": "314df8d8-8d8c-80d0-8950-fb4072c37109",
+  "cdb_id": "314df8d8-8d8c-80cf-b828-ecf27b7deb2c",
+  "ds_id": "314df8d8-8d8c-80df-8022-000b9665647d",
+  "rows": 25,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON / Benz DNA)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Behave: The Biology of Humans at Our Best and Worst",
+  "page_id": "314df8d8-8d8c-80e3-adae-f55f5e4c6b94",
+  "cdb_id": "314df8d8-8d8c-8094-a60e-ceaafe3135c6",
+  "ds_id": "314df8d8-8d8c-801a-85d9-000b859e9d95",
+  "rows": 10,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON / Benz DNA)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Thinking, Fast and Slow",
+  "page_id": "313df8d8-8d8c-8007-bcf2-e1fa7ca3bded",
+  "cdb_id": "313df8d8-8d8c-80b5-8bc3-d7fad8cb23d2",
+  "ds_id": "313df8d8-8d8c-80a6-b877-000b31ed3853",
+  "rows": 38,
+  "schema": {
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "#": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Chapter Title (Original)": "title"
+  }
+ },
+ {
+  "title": "The Brain That Changes Itself",
+  "page_id": "311df8d8-8d8c-8005-9807-e8895433e325",
+  "cdb_id": "311df8d8-8d8c-8056-9793-f9f7b15886d9",
+  "ds_id": "311df8d8-8d8c-807d-8e89-000b094bacb1",
+  "rows": 11,
+  "schema": {
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Meditations: A New Translation",
+  "page_id": "311df8d8-8d8c-80cf-b033-c793fa15b183",
+  "cdb_id": "311df8d8-8d8c-803e-839e-db35fb981e44",
+  "ds_id": "311df8d8-8d8c-80ab-a3cc-000bc895cb13",
+  "rows": 12,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Rest: Why You Get More Done When You Work Less",
+  "page_id": "311df8d8-8d8c-80f8-9c62-cd5a424bedeb",
+  "cdb_id": "311df8d8-8d8c-8017-9fff-cf81167c5874",
+  "ds_id": "311df8d8-8d8c-8008-938a-000bcaf94425",
+  "rows": 12,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living",
+  "page_id": "311df8d8-8d8c-80f8-a62e-fbca375baf65",
+  "cdb_id": "311df8d8-8d8c-805c-8d81-dee7ec7af173",
+  "ds_id": "311df8d8-8d8c-8033-a395-000b081ff90f",
+  "rows": 12,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Brain Hacks: 200+ Way to boost you brain power",
+  "page_id": "311df8d8-8d8c-8033-9810-c21d77a4dc63",
+  "cdb_id": "41ddf8d8-8d8c-8114-b966-e802623a1ae1",
+  "ds_id": "41ddf8d8-8d8c-8191-b100-000b3f1aa45b",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Dopamine Nation: Finding Balance in the Age of Indulgence",
+  "page_id": "306df8d8-8d8c-8023-a787-f795483dbe18",
+  "cdb_id": "306df8d8-8d8c-8062-b5dc-e97fefec5817",
+  "ds_id": "306df8d8-8d8c-807a-a9c4-000bd9bbeea3",
+  "rows": 9,
+  "schema": {
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Man vs Maths - Understanding the Curious Mathematics That Power Our World",
+  "page_id": "303df8d8-8d8c-8072-bec2-ee738b4eaef8",
+  "cdb_id": "303df8d8-8d8c-8016-9e63-c392ef298ea6",
+  "ds_id": "303df8d8-8d8c-80c5-9081-000be84f6f7b",
+  "rows": 14,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "The Book of Elon",
+  "page_id": "2ffdf8d8-8d8c-8088-9ada-f8e910d353f0",
+  "cdb_id": "41ddf8d8-8d8c-81c2-9843-dca6640c74f5",
+  "ds_id": "41ddf8d8-8d8c-8158-8188-000bd13ffcbd",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Company of One (TH)",
+  "page_id": "2ffdf8d8-8d8c-8034-a604-fb0fb5ae4c79",
+  "cdb_id": "41ddf8d8-8d8c-81ce-a962-c3c12e61cad3",
+  "ds_id": "41ddf8d8-8d8c-813c-b0d7-000b042d22ff",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Almanack of Naval Ravikant (TH)",
+  "page_id": "2ffdf8d8-8d8c-8074-9bd9-c061d84c0136",
+  "cdb_id": "300df8d8-8d8c-807c-a0b0-e753ae6a9c67",
+  "ds_id": "300df8d8-8d8c-80be-966c-000b455e9854",
+  "rows": 10,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "#": "title"
+  }
+ },
+ {
+  "title": "The One Thing (TH)",
+  "page_id": "2ffdf8d8-8d8c-801c-8925-d3ae063cc342",
+  "cdb_id": "41ddf8d8-8d8c-8105-9e68-d11c0527a74c",
+  "ds_id": "41ddf8d8-8d8c-81c1-a4c7-000bafbc8646",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Four Thousand Weeks",
+  "page_id": "2ffdf8d8-8d8c-80b8-8b50-d12ae19b3008",
+  "cdb_id": "2ffdf8d8-8d8c-8016-acf6-f50ee8209354",
+  "ds_id": "2ffdf8d8-8d8c-8171-9d10-000b0f74fedc",
+  "rows": 18,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON/Duck OS)": "rich_text",
+   "Status": "select|⏳ LOADING...,⬜ QUEUED,✅ INSTALLED",
+   "Chapter #": "title"
+  }
+ },
+ {
+  "title": "The Experience Machine",
+  "page_id": "2ffdf8d8-8d8c-8055-8779-e78808364d18",
+  "cdb_id": "41ddf8d8-8d8c-813f-80a2-f8e1b0cf03fb",
+  "ds_id": "41ddf8d8-8d8c-816d-833a-000b1846c304",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Learn Like a Pro",
+  "page_id": "2ffdf8d8-8d8c-80d6-a13e-c2f6a02d32a5",
+  "cdb_id": "41ddf8d8-8d8c-8160-8331-c2d3ad8f0ed2",
+  "ds_id": "41ddf8d8-8d8c-818a-a579-000b965f51c2",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "How to Read a Book",
+  "page_id": "2ffdf8d8-8d8c-8014-b7a3-cbbc45f48e29",
+  "cdb_id": "41ddf8d8-8d8c-8137-95c7-f20e5194f8c2",
+  "ds_id": "41ddf8d8-8d8c-8185-a7a8-000b4f36a804",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Marcus Aurelius: The Stoic Emperor",
+  "page_id": "2ffdf8d8-8d8c-80f2-9940-c8d95e097e13",
+  "cdb_id": "41ddf8d8-8d8c-8166-af75-cec2706a4ae6",
+  "ds_id": "41ddf8d8-8d8c-811f-aad6-000bee623608",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Your Money or Your Life",
+  "page_id": "2ffdf8d8-8d8c-8012-8ebd-d075a620c1b7",
+  "cdb_id": "41ddf8d8-8d8c-812d-9074-c74f3d53e6a9",
+  "ds_id": "41ddf8d8-8d8c-8178-be33-000b616dc67e",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Paradox of Choice",
+  "page_id": "2ffdf8d8-8d8c-804f-bece-f14a90a3b151",
+  "cdb_id": "41ddf8d8-8d8c-81c5-9aa7-df8cbedb4e5e",
+  "ds_id": "41ddf8d8-8d8c-81cd-bbe2-000b9beda71a",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Wealth Money Can't Buy",
+  "page_id": "2ffdf8d8-8d8c-8055-b7e4-dd006c1c2b9c",
+  "cdb_id": "41ddf8d8-8d8c-8106-bcf8-dcf3718dbc3a",
+  "ds_id": "41ddf8d8-8d8c-8137-aa21-000b66986f87",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Peak Mind",
+  "page_id": "2ffdf8d8-8d8c-8059-a693-fae125ae8400",
+  "cdb_id": "41ddf8d8-8d8c-8102-9b72-f4449c636b15",
+  "ds_id": "41ddf8d8-8d8c-81cc-bda9-000be429808c",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Chatter",
+  "page_id": "2ffdf8d8-8d8c-8066-97c4-f74cd6019d8b",
+  "cdb_id": "41ddf8d8-8d8c-8144-9a87-d5af5c693ba2",
+  "ds_id": "41ddf8d8-8d8c-816a-95a7-000b5f12ff04",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "$100M Lost Chapters",
+  "page_id": "2ffdf8d8-8d8c-8042-b469-f902c2ec8e06",
+  "cdb_id": "41ddf8d8-8d8c-812f-a4b2-cf0fc1a54682",
+  "ds_id": "41ddf8d8-8d8c-81fb-91e9-000bc80a549d",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Lean Marketing",
+  "page_id": "2ffdf8d8-8d8c-80fe-8a6b-d58f225b9adf",
+  "cdb_id": "41ddf8d8-8d8c-8190-8065-dee4a66e8494",
+  "ds_id": "41ddf8d8-8d8c-81f3-9603-000b5183e2d4",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Why Has Nobody Told Me This Before?",
+  "page_id": "2ffdf8d8-8d8c-80ad-9be2-d673c32ac70c",
+  "cdb_id": "41ddf8d8-8d8c-81fb-b1e6-c802504f2b6b",
+  "ds_id": "41ddf8d8-8d8c-8187-b5ba-000b107edd39",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The 1-Page Marketing Plan",
+  "page_id": "2ffdf8d8-8d8c-80e3-a9cc-d3102473ff66",
+  "cdb_id": "41ddf8d8-8d8c-8186-bf6a-c0ce22ae35bb",
+  "ds_id": "41ddf8d8-8d8c-812c-897b-000b8576c1e5",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Anthology of Balaji",
+  "page_id": "2ffdf8d8-8d8c-805a-ac9d-fc4176023fa2",
+  "cdb_id": "41ddf8d8-8d8c-8159-a72c-c50d01c3b4ac",
+  "ds_id": "41ddf8d8-8d8c-8111-8643-000b9358d0ac",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Art of Thinking Clearly",
+  "page_id": "2ffdf8d8-8d8c-8098-b7a7-e6799e6b2edc",
+  "cdb_id": "41ddf8d8-8d8c-8152-88d6-fe547811dfb4",
+  "ds_id": "41ddf8d8-8d8c-81c6-a325-000b5131be66",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Chip War",
+  "page_id": "2ffdf8d8-8d8c-8032-acc3-fe5cc7f91965",
+  "cdb_id": "41ddf8d8-8d8c-81ee-a136-db5231cdac19",
+  "ds_id": "41ddf8d8-8d8c-81cb-a18c-000b45131853",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Amazing Decisions",
+  "page_id": "2ffdf8d8-8d8c-80c6-ba0c-f2d5612e7f91",
+  "cdb_id": "41ddf8d8-8d8c-81ca-b8e4-fcc5ecec8997",
+  "ds_id": "41ddf8d8-8d8c-81db-afe4-000b94e9ee65",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Capital in the Twenty-First Century",
+  "page_id": "2ffdf8d8-8d8c-80ae-9480-f1c311708217",
+  "cdb_id": "41ddf8d8-8d8c-8123-af7a-f6812b47a319",
+  "ds_id": "41ddf8d8-8d8c-8134-8012-000b1f8edf1b",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Fooled by Randomness",
+  "page_id": "2ffdf8d8-8d8c-80df-8298-f0921bf12661",
+  "cdb_id": "41ddf8d8-8d8c-81ce-9842-f7168dde2754",
+  "ds_id": "41ddf8d8-8d8c-81c6-ac9f-000b412b410e",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Das Kapital",
+  "page_id": "2ffdf8d8-8d8c-805d-b97c-cfcb51bf38f2",
+  "cdb_id": "41ddf8d8-8d8c-81e2-a7b0-eab3c13f8095",
+  "ds_id": "41ddf8d8-8d8c-81d5-8079-000b91337269",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Fabric of Reality",
+  "page_id": "2ffdf8d8-8d8c-807c-8cb1-d606b7a782cc",
+  "cdb_id": "41ddf8d8-8d8c-8128-b664-f95e257f1a9f",
+  "ds_id": "41ddf8d8-8d8c-81d3-a32e-000b600c6e15",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Coming Wave",
+  "page_id": "2ffdf8d8-8d8c-80af-ac3c-f84a59a63ca3",
+  "cdb_id": "41ddf8d8-8d8c-816e-bdd4-dbcaaf19c5b7",
+  "ds_id": "41ddf8d8-8d8c-8162-ab6c-000b87b01196",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Black Swan",
+  "page_id": "2ffdf8d8-8d8c-80a7-bc5d-eacc35c05724",
+  "cdb_id": "41ddf8d8-8d8c-81d6-a9df-d2b2964241c0",
+  "ds_id": "41ddf8d8-8d8c-8127-8adf-000b307fd263",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "A History of Western Philosophy",
+  "page_id": "2ffdf8d8-8d8c-80d8-9452-d876e1609587",
+  "cdb_id": "41ddf8d8-8d8c-813b-9101-c35cdfe11e9b",
+  "ds_id": "41ddf8d8-8d8c-817c-b3c2-000bf2c966a9",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Skin in the Game",
+  "page_id": "2ffdf8d8-8d8c-8037-ab06-e0d585f8615a",
+  "cdb_id": "41ddf8d8-8d8c-8123-ae64-f06eb522c3a6",
+  "ds_id": "41ddf8d8-8d8c-818b-b0b3-000b21afdb7a",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Wealth of Nations",
+  "page_id": "2ffdf8d8-8d8c-8031-8dfe-fcf0a1880a6d",
+  "cdb_id": "41ddf8d8-8d8c-81c6-a64c-f64a0ed95986",
+  "ds_id": "41ddf8d8-8d8c-8178-9bec-000b2474c954",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Thinking in Systems",
+  "page_id": "2ffdf8d8-8d8c-803d-b947-f9c1a4ee9c7d",
+  "cdb_id": "322df8d8-8d8c-80e1-a280-db69e16c850e",
+  "ds_id": "322df8d8-8d8c-8014-a71f-000b682b6055",
+  "rows": 7,
+  "schema": {
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Gödel Escher Bach",
+  "page_id": "2ffdf8d8-8d8c-8055-b9c0-c94b2bf03b8a",
+  "cdb_id": "41ddf8d8-8d8c-8162-ac99-f6fd767502f9",
+  "ds_id": "41ddf8d8-8d8c-81f0-b147-000b0c7f5585",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Superintelligence",
+  "page_id": "2ffdf8d8-8d8c-80d9-9ced-d8063b944562",
+  "cdb_id": "41ddf8d8-8d8c-8103-8a64-f545aaff617b",
+  "ds_id": "41ddf8d8-8d8c-813f-ab55-000b5b9b2c97",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Critique of Pure Reason",
+  "page_id": "2ffdf8d8-8d8c-80a4-b3b3-de0bfa44a7ad",
+  "cdb_id": "41ddf8d8-8d8c-81fe-90d6-f9a884aeada8",
+  "ds_id": "41ddf8d8-8d8c-8173-aa71-000becd06534",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Goal",
+  "page_id": "2ffdf8d8-8d8c-804e-a40a-ce588f4c9f6a",
+  "cdb_id": "41ddf8d8-8d8c-81d7-aaf0-c88915bb1360",
+  "ds_id": "41ddf8d8-8d8c-8125-ae84-000bf194878a",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Bed of Procrustes",
+  "page_id": "2ffdf8d8-8d8c-80a2-92a5-f0afc853175b",
+  "cdb_id": "41ddf8d8-8d8c-81b2-9b39-c0b6225828e9",
+  "ds_id": "41ddf8d8-8d8c-8109-a3ad-000b7e98e37f",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Age of AI",
+  "page_id": "2ffdf8d8-8d8c-80af-88a4-e800c8559987",
+  "cdb_id": "41ddf8d8-8d8c-8155-a984-d4dfd3f0a945",
+  "ds_id": "41ddf8d8-8d8c-8107-b540-000b7a6a16db",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "More Money Than God",
+  "page_id": "2ffdf8d8-8d8c-803f-a8ef-f5a4fd0e9934",
+  "cdb_id": "41ddf8d8-8d8c-813b-a1c0-fae9c59a2923",
+  "ds_id": "41ddf8d8-8d8c-811c-8ba4-000bae0f8be9",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Life 3.0",
+  "page_id": "2ffdf8d8-8d8c-808d-887c-f48be0bfdc88",
+  "cdb_id": "41ddf8d8-8d8c-81fc-9bef-cf3252139dab",
+  "ds_id": "41ddf8d8-8d8c-81c2-805b-000b84715d59",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Power Broker",
+  "page_id": "2ffdf8d8-8d8c-809c-a260-dfaf366398b7",
+  "cdb_id": "41ddf8d8-8d8c-81cc-bb59-fa98e141550b",
+  "ds_id": "41ddf8d8-8d8c-810f-846e-000b6945e9b2",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Beginning of Infinity",
+  "page_id": "2ffdf8d8-8d8c-80a0-8526-e4f0d81d8daa",
+  "cdb_id": "41ddf8d8-8d8c-81d2-93a9-ec378f6853a7",
+  "ds_id": "41ddf8d8-8d8c-81b4-803e-000b142eb3b0",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Human Compatible",
+  "page_id": "2ffdf8d8-8d8c-80b7-a7d1-e47a47ca9b2f",
+  "cdb_id": "41ddf8d8-8d8c-81fb-9a60-d7730ec2d2f8",
+  "ds_id": "41ddf8d8-8d8c-8141-b37b-000b605d9f2c",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Antifragile",
+  "page_id": "2ffdf8d8-8d8c-80db-9ecd-e1100de2c245",
+  "cdb_id": "41ddf8d8-8d8c-81e6-a47a-f0043d087884",
+  "ds_id": "41ddf8d8-8d8c-8181-a741-000ba3153834",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Only the Paranoid Survive",
+  "page_id": "2ffdf8d8-8d8c-8001-981b-e6f52b293417",
+  "cdb_id": "41ddf8d8-8d8c-81f7-97ff-c9e580a5b566",
+  "ds_id": "41ddf8d8-8d8c-81cb-af05-000b04510a54",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The World for Sale",
+  "page_id": "2ffdf8d8-8d8c-8041-b347-fdde2042a20d",
+  "cdb_id": "41ddf8d8-8d8c-8133-ad0d-ee60ed933f38",
+  "ds_id": "41ddf8d8-8d8c-81af-ab12-000b90a38c53",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Super Thinking",
+  "page_id": "2ffdf8d8-8d8c-8098-9865-f4d3bf1870df",
+  "cdb_id": "41ddf8d8-8d8c-81b7-aa23-daffcc441c6b",
+  "ds_id": "41ddf8d8-8d8c-811b-9662-000b448cf67d",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Good Strategy Bad Strategy",
+  "page_id": "2ffdf8d8-8d8c-8093-a40e-c2abe935ac4d",
+  "cdb_id": "41ddf8d8-8d8c-8156-81b5-f1c3f6a85957",
+  "ds_id": "41ddf8d8-8d8c-81f4-91a4-000b7ad0f319",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Innovator's Dilemma",
+  "page_id": "2ffdf8d8-8d8c-80e9-a728-d54cfa626818",
+  "cdb_id": "41ddf8d8-8d8c-8175-b19b-e536884042d8",
+  "ds_id": "41ddf8d8-8d8c-815c-9c33-000b569da4cf",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Understanding Michael Porter",
+  "page_id": "2ffdf8d8-8d8c-8004-add0-d39b4f7862a9",
+  "cdb_id": "41ddf8d8-8d8c-8193-ad34-fe5a3b7068e8",
+  "ds_id": "41ddf8d8-8d8c-810d-aba8-000bdeee5cce",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Playing to Win",
+  "page_id": "2ffdf8d8-8d8c-806a-b8b6-db326bedfdb9",
+  "cdb_id": "41ddf8d8-8d8c-81ca-ac76-defa6206175b",
+  "ds_id": "41ddf8d8-8d8c-8142-92a0-000b8e9415f6",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Click",
+  "page_id": "2ffdf8d8-8d8c-80de-a62b-c9c170ddbd7e",
+  "cdb_id": "41ddf8d8-8d8c-81b3-a291-e8093a2d0292",
+  "ds_id": "41ddf8d8-8d8c-814b-8827-000bc4eee1e9",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Crossing the Chasm",
+  "page_id": "2ffdf8d8-8d8c-8038-a6d2-ca7e7ef7f461",
+  "cdb_id": "41ddf8d8-8d8c-81b2-8be3-f933b19a5ec2",
+  "ds_id": "41ddf8d8-8d8c-815e-8fb5-000b47d9736e",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Crux",
+  "page_id": "2ffdf8d8-8d8c-809e-86d1-fb4ae27cf2c2",
+  "cdb_id": "41ddf8d8-8d8c-8126-a0fd-e42fd8a5de1e",
+  "ds_id": "41ddf8d8-8d8c-818d-948c-000b1e43cdce",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Competition Demystified",
+  "page_id": "2ffdf8d8-8d8c-8016-bef6-df3302def324",
+  "cdb_id": "41ddf8d8-8d8c-8102-92f3-dd122063d903",
+  "ds_id": "41ddf8d8-8d8c-81ee-80f0-000bea9ebd5f",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Clear Thinking",
+  "page_id": "2ffdf8d8-8d8c-8057-b186-db7637ce07ad",
+  "cdb_id": "312df8d8-8d8c-80a6-9c3c-c4d712d8ed28",
+  "ds_id": "312df8d8-8d8c-80f4-a266-000bc95bdeef",
+  "rows": 31,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Sprint",
+  "page_id": "2ffdf8d8-8d8c-80b2-a63c-df6c283f14a6",
+  "cdb_id": "41ddf8d8-8d8c-8186-bbd5-d39092324953",
+  "ds_id": "41ddf8d8-8d8c-81d9-b622-000bfe314aa8",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Your Next Five Moves",
+  "page_id": "2ffdf8d8-8d8c-8003-ad5a-f9c3cc696315",
+  "cdb_id": "41ddf8d8-8d8c-81c0-b39c-e0ec8799e2f1",
+  "ds_id": "41ddf8d8-8d8c-81f7-9725-000ba1b19ec2",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Make Time",
+  "page_id": "2ffdf8d8-8d8c-80ac-8cf8-e75fd565c688",
+  "cdb_id": "41ddf8d8-8d8c-8101-8460-c459d1d1d0cb",
+  "ds_id": "41ddf8d8-8d8c-81f5-bec4-000b8c409576",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Noise",
+  "page_id": "2ffdf8d8-8d8c-8024-82d0-fc1e039f7074",
+  "cdb_id": "41ddf8d8-8d8c-81f9-b8a6-cea523f95cd4",
+  "ds_id": "41ddf8d8-8d8c-8171-b5c0-000b9f1e96f9",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "7 Powers",
+  "page_id": "2ffdf8d8-8d8c-80ef-8191-cf91c88f1873",
+  "cdb_id": "41ddf8d8-8d8c-81f6-885c-e88f04e6bd05",
+  "ds_id": "41ddf8d8-8d8c-8120-b1d4-000bd16fac16",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Thinking in Bets",
+  "page_id": "2ffdf8d8-8d8c-802c-bccb-c42fbe6d3041",
+  "cdb_id": "41ddf8d8-8d8c-81af-91dc-e8a9f504c3d8",
+  "ds_id": "41ddf8d8-8d8c-8157-9fb9-000b9348e396",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Don't Make Me Think",
+  "page_id": "2ffdf8d8-8d8c-80aa-9399-c141eedd6ccc",
+  "cdb_id": "41ddf8d8-8d8c-8169-b635-c129f64442fa",
+  "ds_id": "41ddf8d8-8d8c-8193-934c-000be1ae8129",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Mastery",
+  "page_id": "2ffdf8d8-8d8c-80d9-ab40-f72b1c912e3d",
+  "cdb_id": "41ddf8d8-8d8c-8122-864a-e9369672ef6d",
+  "ds_id": "41ddf8d8-8d8c-8159-9494-000b9f00af4a",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The 48 Laws of Power",
+  "page_id": "2ffdf8d8-8d8c-808c-a363-f5b14974610e",
+  "cdb_id": "41ddf8d8-8d8c-81ee-b878-c5ab0f1bf46d",
+  "ds_id": "41ddf8d8-8d8c-81f1-b40d-000bd3753dc7",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Great Mental Models Volume 1:General Thinking Concepts",
+  "page_id": "2ffdf8d8-8d8c-80ec-89cb-f865ae5c30fb",
+  "cdb_id": "40cdf8d8-8d8c-80cc-8a9b-da0a2311364b",
+  "ds_id": "40cdf8d8-8d8c-80ac-b5a7-000b8e3c96e4",
+  "rows": 9,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Blue Ocean Strategy",
+  "page_id": "2ffdf8d8-8d8c-8043-9a8d-c7d2b0c3c950",
+  "cdb_id": "41ddf8d8-8d8c-81f0-9e2e-d3b63076d369",
+  "ds_id": "41ddf8d8-8d8c-8132-8f20-000b4627c361",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Algorithms to Live By",
+  "page_id": "2ffdf8d8-8d8c-80dc-98c9-c7345c9f1188",
+  "cdb_id": "41ddf8d8-8d8c-817b-97b2-e99952491502",
+  "ds_id": "41ddf8d8-8d8c-8194-825e-000baa071900",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Design of Everyday Things",
+  "page_id": "2ffdf8d8-8d8c-80ee-9bca-ca095fddd1a3",
+  "cdb_id": "41ddf8d8-8d8c-8139-8f22-d75f5afb5ad8",
+  "ds_id": "41ddf8d8-8d8c-81a7-9287-000b181d0003",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Laws of Human Nature",
+  "page_id": "2ffdf8d8-8d8c-808c-92fb-d98396616bee",
+  "cdb_id": "41ddf8d8-8d8c-811d-8891-ca2abfbf0959",
+  "ds_id": "41ddf8d8-8d8c-81a9-ab66-000b57f6b1ba",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Team of Rivals",
+  "page_id": "2ffdf8d8-8d8c-80c2-b3fb-d09fb9846e80",
+  "cdb_id": "41ddf8d8-8d8c-8130-b1e4-d01e9d502074",
+  "ds_id": "41ddf8d8-8d8c-8183-b21d-000b6f1dac90",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Benjamin Franklin",
+  "page_id": "2ffdf8d8-8d8c-8022-992f-f44543ac3382",
+  "cdb_id": "41ddf8d8-8d8c-81d3-88cd-df51b40b15e1",
+  "ds_id": "41ddf8d8-8d8c-812f-8b74-000b9d536f76",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Titan",
+  "page_id": "2ffdf8d8-8d8c-8090-8e61-f0be920ae6f1",
+  "cdb_id": "41ddf8d8-8d8c-81e4-b92f-f973ff2cc432",
+  "ds_id": "41ddf8d8-8d8c-8109-897f-000b18e3810b",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Trillion Dollar Coach",
+  "page_id": "2ffdf8d8-8d8c-80ec-b6ce-ed477bb21d7b",
+  "cdb_id": "41ddf8d8-8d8c-8173-9f41-defd6e6d631f",
+  "ds_id": "41ddf8d8-8d8c-81fb-b1db-000be4994101",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Napoleon",
+  "page_id": "2ffdf8d8-8d8c-801a-8699-fabe89f566cf",
+  "cdb_id": "41ddf8d8-8d8c-8175-bf84-ef2e6ffe7ff6",
+  "ds_id": "41ddf8d8-8d8c-812b-a337-000b1e07d42b",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Alexander Hamilton",
+  "page_id": "2ffdf8d8-8d8c-80bd-837e-fb4383e4f2ec",
+  "cdb_id": "41ddf8d8-8d8c-8171-a9da-eabf3b78091f",
+  "ds_id": "41ddf8d8-8d8c-81c0-a5c0-000bf2988d80",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Elon Musk",
+  "page_id": "2ffdf8d8-8d8c-8032-84ad-d153b25ef0e2",
+  "cdb_id": "41ddf8d8-8d8c-817d-a486-d8ef00875b61",
+  "ds_id": "41ddf8d8-8d8c-815b-98e6-000bdac0b5a2",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Churchill",
+  "page_id": "2ffdf8d8-8d8c-8052-91ba-cb1a633912ab",
+  "cdb_id": "41ddf8d8-8d8c-81db-915f-cf6b02bfa686",
+  "ds_id": "41ddf8d8-8d8c-81be-aef7-000b795e446b",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Leadership",
+  "page_id": "2ffdf8d8-8d8c-802e-a5eb-f046448717cb",
+  "cdb_id": "41ddf8d8-8d8c-8184-988a-c4e3bd7df4b9",
+  "ds_id": "41ddf8d8-8d8c-8184-b8ed-000b4b409c1f",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Leonardo da Vinci",
+  "page_id": "2ffdf8d8-8d8c-80d7-b288-cb0ae46d762f",
+  "cdb_id": "41ddf8d8-8d8c-8135-b98d-fe45edbf059c",
+  "ds_id": "41ddf8d8-8d8c-8104-913d-000bc2e515ff",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Washington",
+  "page_id": "2ffdf8d8-8d8c-8012-8a5a-e885a9d924f3",
+  "cdb_id": "41ddf8d8-8d8c-81ed-8dfb-d1b2a5c09410",
+  "ds_id": "41ddf8d8-8d8c-81d2-b580-000b3cde08e7",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "No Rules Rules",
+  "page_id": "2ffdf8d8-8d8c-8029-bbd3-cc64d01f7cea",
+  "cdb_id": "41ddf8d8-8d8c-8105-bee7-d6a9de37d931",
+  "ds_id": "41ddf8d8-8d8c-816f-8c76-000b35d3007d",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "High Output Management",
+  "page_id": "2ffdf8d8-8d8c-80a0-b2cd-ea69d79f825a",
+  "cdb_id": "41ddf8d8-8d8c-8140-a16a-f39bb34fe39a",
+  "ds_id": "41ddf8d8-8d8c-81c1-8302-000baa95c317",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Creativity Inc.",
+  "page_id": "2ffdf8d8-8d8c-802f-81c2-cf28eab8f7de",
+  "cdb_id": "41ddf8d8-8d8c-812e-bef5-ca330c024386",
+  "ds_id": "41ddf8d8-8d8c-8105-b0bf-000bdcea9408",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Grant",
+  "page_id": "2ffdf8d8-8d8c-80cd-a21c-ef5102733847",
+  "cdb_id": "41ddf8d8-8d8c-8135-942d-d4f39b3305d6",
+  "ds_id": "41ddf8d8-8d8c-815a-b5ba-000b724526f7",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Einstein",
+  "page_id": "2ffdf8d8-8d8c-8004-b85a-ddb8d42f0169",
+  "cdb_id": "41ddf8d8-8d8c-8131-9a81-f302ddec4cab",
+  "ds_id": "41ddf8d8-8d8c-8171-8f5b-000b6333a568",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Why Nations Fail",
+  "page_id": "2ffdf8d8-8d8c-8071-bfa2-d07f1fca1235",
+  "cdb_id": "41ddf8d8-8d8c-8107-8ea3-f4f579c60b90",
+  "ds_id": "41ddf8d8-8d8c-8109-bdf5-000b65d323b4",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Shoe Dog",
+  "page_id": "2ffdf8d8-8d8c-806e-85fa-ed78054929cb",
+  "cdb_id": "41ddf8d8-8d8c-819a-9859-f77933b614d6",
+  "ds_id": "41ddf8d8-8d8c-8166-985b-000bc4e4bf45",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Built to Last",
+  "page_id": "2ffdf8d8-8d8c-8076-a8ad-fd233248e5d0",
+  "cdb_id": "41ddf8d8-8d8c-813e-b650-cdfa292ed180",
+  "ds_id": "41ddf8d8-8d8c-8148-906c-000b7cefd062",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Hard Thing About Hard Things",
+  "page_id": "2ffdf8d8-8d8c-80d1-b5de-d2522432bae4",
+  "cdb_id": "41ddf8d8-8d8c-810a-ae01-e1b6760731a7",
+  "ds_id": "41ddf8d8-8d8c-8102-94e4-000b70dbefe6",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Great by Choice",
+  "page_id": "2ffdf8d8-8d8c-8067-b5c5-e04a087c3c84",
+  "cdb_id": "41ddf8d8-8d8c-81ea-8c47-e335a6e7de71",
+  "ds_id": "41ddf8d8-8d8c-817e-a704-000b3573cc2e",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Measure What Matters",
+  "page_id": "2ffdf8d8-8d8c-8092-b6a9-e7f895f10856",
+  "cdb_id": "41ddf8d8-8d8c-814c-931e-da26901065a6",
+  "ds_id": "41ddf8d8-8d8c-8115-83a1-000b7fc00bf5",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Good to Great",
+  "page_id": "2ffdf8d8-8d8c-80e3-acc6-cd80a32bd207",
+  "cdb_id": "41ddf8d8-8d8c-81a1-b482-ce2b3a883143",
+  "ds_id": "41ddf8d8-8d8c-810a-a3d1-000b41a6a5d9",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Steve Jobs",
+  "page_id": "2ffdf8d8-8d8c-8043-8d7d-e9ca7620e7bd",
+  "cdb_id": "41ddf8d8-8d8c-81d8-b8f7-e2b21aa82f0a",
+  "ds_id": "41ddf8d8-8d8c-8157-b06d-000bc79c5052",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Contagious",
+  "page_id": "2ffdf8d8-8d8c-8064-b58c-fa2524ef7c1e",
+  "cdb_id": "41ddf8d8-8d8c-818d-af09-f243bc9099aa",
+  "ds_id": "41ddf8d8-8d8c-8181-a1f0-000b7aff5661",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Principles",
+  "page_id": "2ffdf8d8-8d8c-80c4-b5aa-f1e1360918fc",
+  "cdb_id": "41ddf8d8-8d8c-81fd-aadc-ebd316c43c2e",
+  "ds_id": "41ddf8d8-8d8c-8161-a2cc-000b5a54cf22",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Nudge",
+  "page_id": "2ffdf8d8-8d8c-803d-afd6-d8422cfdf823",
+  "cdb_id": "41ddf8d8-8d8c-816e-8ed5-cefa2fdb80f2",
+  "ds_id": "41ddf8d8-8d8c-81d4-9592-000bb0f10ada",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Freakonomics",
+  "page_id": "2ffdf8d8-8d8c-80f3-9453-ed3636450008",
+  "cdb_id": "41ddf8d8-8d8c-81fc-a01a-e8d8a76f7ae9",
+  "ds_id": "41ddf8d8-8d8c-813b-bcd5-000b0d7f1284",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Catalyst",
+  "page_id": "2ffdf8d8-8d8c-8058-a6ec-eb5ca443778b",
+  "cdb_id": "41ddf8d8-8d8c-813d-ba37-ff08bca1fed9",
+  "ds_id": "41ddf8d8-8d8c-8141-b24b-000b331d9654",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Can't Hurt Me",
+  "page_id": "2ffdf8d8-8d8c-8064-a21b-caa95e4522bc",
+  "cdb_id": "41ddf8d8-8d8c-81a4-8f83-cc5aaf64a56a",
+  "ds_id": "41ddf8d8-8d8c-81e0-b2f1-000b9e60c8ef",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Guns Germs and Steel",
+  "page_id": "2ffdf8d8-8d8c-808f-ab06-d9fa3bf5e796",
+  "cdb_id": "41ddf8d8-8d8c-81b6-808d-edaafc4134b6",
+  "ds_id": "41ddf8d8-8d8c-8186-a152-000bdc718d5d",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Never Split the Difference",
+  "page_id": "2ffdf8d8-8d8c-8015-8674-fc70eb1845c2",
+  "cdb_id": "41ddf8d8-8d8c-8176-a0d4-e4ff7b459061",
+  "ds_id": "41ddf8d8-8d8c-812b-ab91-000ba38b1a1f",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Homo Deus",
+  "page_id": "2ffdf8d8-8d8c-809c-abf9-c84abcc28ea1",
+  "cdb_id": "41ddf8d8-8d8c-8168-8ea6-dce0acabda97",
+  "ds_id": "41ddf8d8-8d8c-81b1-9190-000b9fbc2ac3",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Misbehaving",
+  "page_id": "2ffdf8d8-8d8c-8077-b695-ecb74d77db62",
+  "cdb_id": "41ddf8d8-8d8c-81f3-9a9a-ed4f0706e06f",
+  "ds_id": "41ddf8d8-8d8c-8107-a54d-000b19edd63b",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Dollars and Sense",
+  "page_id": "2ffdf8d8-8d8c-80bc-8e13-ede63bca9d89",
+  "cdb_id": "41ddf8d8-8d8c-81e1-b178-e918b670e117",
+  "ds_id": "41ddf8d8-8d8c-81c3-a987-000b01841af1",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "21 Lessons for the 21st Century",
+  "page_id": "2ffdf8d8-8d8c-80ca-9fde-fdba58d865f4",
+  "cdb_id": "41ddf8d8-8d8c-8185-99c3-cfdcc63a73d1",
+  "ds_id": "41ddf8d8-8d8c-8119-ad36-000b5f609458",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Indistractable",
+  "page_id": "2ffdf8d8-8d8c-8034-b326-ef90bb5ff251",
+  "cdb_id": "41ddf8d8-8d8c-81a1-acf8-c80750566345",
+  "ds_id": "41ddf8d8-8d8c-81cb-a386-000b09767477",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Superfreakonomics",
+  "page_id": "2ffdf8d8-8d8c-80bb-980c-dc8086f83518",
+  "cdb_id": "41ddf8d8-8d8c-81c5-9ced-fc15001874c4",
+  "ds_id": "41ddf8d8-8d8c-8151-bc2a-000b2764fcef",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Influence",
+  "page_id": "2ffdf8d8-8d8c-8037-be4a-eeefd15aae68",
+  "cdb_id": "41ddf8d8-8d8c-8157-b16b-ec8b35eb3c85",
+  "ds_id": "41ddf8d8-8d8c-8171-9e20-000bb6817a9b",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Factfulness",
+  "page_id": "2ffdf8d8-8d8c-8046-9d3d-ebd0aede7f95",
+  "cdb_id": "41ddf8d8-8d8c-8115-a80a-dbd5a08cd94c",
+  "ds_id": "41ddf8d8-8d8c-8120-9c10-000b67bce173",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Predictably Irrational",
+  "page_id": "2ffdf8d8-8d8c-80c0-b842-c7a5ab630f64",
+  "cdb_id": "41ddf8d8-8d8c-810e-9a4a-c49f686141b7",
+  "ds_id": "41ddf8d8-8d8c-81b4-9bcc-000b87e353b3",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Upside of Irrationality",
+  "page_id": "2ffdf8d8-8d8c-80fa-95b5-d91548a96aaa",
+  "cdb_id": "41ddf8d8-8d8c-81f5-a2e5-eabed714ab7d",
+  "ds_id": "41ddf8d8-8d8c-812c-b596-000b3fb9255c",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Sapiens",
+  "page_id": "2ffdf8d8-8d8c-8055-b68e-d71c48dafb43",
+  "cdb_id": "41ddf8d8-8d8c-81c4-9af6-d27a664a35cc",
+  "ds_id": "41ddf8d8-8d8c-81dc-b957-000b5a73fffb",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Made to Stick",
+  "page_id": "2ffdf8d8-8d8c-80b6-b14a-f7faa16b2328",
+  "cdb_id": "41ddf8d8-8d8c-8156-a53f-d6bf0dd832fc",
+  "ds_id": "41ddf8d8-8d8c-81f7-b3c9-000bc209b410",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Switch",
+  "page_id": "2ffdf8d8-8d8c-800a-bf69-eb770cb04ffd",
+  "cdb_id": "41ddf8d8-8d8c-8104-82b1-e8f3cb0e74a4",
+  "ds_id": "41ddf8d8-8d8c-8107-a364-000b09cda367",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "How to Win Friends...",
+  "page_id": "2ffdf8d8-8d8c-8040-9780-ca36f73d2b7e",
+  "cdb_id": "41ddf8d8-8d8c-819f-bf52-e3cee0156db3",
+  "ds_id": "41ddf8d8-8d8c-81d1-a778-000b4350903c",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Think Like a Freak",
+  "page_id": "2ffdf8d8-8d8c-80f7-bc42-e230868e6233",
+  "cdb_id": "41ddf8d8-8d8c-8110-b975-eaa9066c2e41",
+  "ds_id": "41ddf8d8-8d8c-8149-9a0f-000b66257ccd",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Subtle Art of Not Giving a F*ck",
+  "page_id": "2ffdf8d8-8d8c-803e-b2b2-c1be07f30a69",
+  "cdb_id": "41ddf8d8-8d8c-8106-b0b6-da62ffc3fb64",
+  "ds_id": "41ddf8d8-8d8c-8169-8054-000bcf91592a",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Pre-Suasion",
+  "page_id": "2ffdf8d8-8d8c-80af-b23c-ccfd3b3ebd07",
+  "cdb_id": "41ddf8d8-8d8c-815d-913e-e281b774d70a",
+  "ds_id": "41ddf8d8-8d8c-8105-a077-000be1d37673",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Atomic Habits",
+  "page_id": "2ffdf8d8-8d8c-803c-b877-f3dcd55e4c3f",
+  "cdb_id": "304df8d8-8d8c-8002-bce5-c03642fcc8cf",
+  "ds_id": "304df8d8-8d8c-805c-a4db-000b6a333490",
+  "rows": 20,
+  "schema": {
+   "Status": "select|⏳ LOADING...,⬜ QUEUED,✅ INSTALLED",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "rich_text",
+   "Chapter Title (Original)": "title"
+  }
+ },
+ {
+  "title": "The Compound Effect",
+  "page_id": "2ffdf8d8-8d8c-80fb-a4ce-c3c7cec50e63",
+  "cdb_id": "41ddf8d8-8d8c-814f-8f5f-f609b15ff7a3",
+  "ds_id": "41ddf8d8-8d8c-813c-a16c-000b1b826f6d",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "How to Take Smart Notes",
+  "page_id": "2ffdf8d8-8d8c-802a-bf3e-f5b7d7c93eb4",
+  "cdb_id": "41ddf8d8-8d8c-81d0-8602-e52ae21845e8",
+  "ds_id": "41ddf8d8-8d8c-81e3-b353-000b0c77e491",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Writing to Learn",
+  "page_id": "2ffdf8d8-8d8c-809c-9eb1-f21579358264",
+  "cdb_id": "41ddf8d8-8d8c-81a4-a8ac-dc4298a11d7c",
+  "ds_id": "41ddf8d8-8d8c-81a2-928e-000b2acbb8f7",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "12 Rules for Life",
+  "page_id": "2ffdf8d8-8d8c-8036-9ab8-f4ef875bfd98",
+  "cdb_id": "41ddf8d8-8d8c-81c6-9384-f25b9f4031f3",
+  "ds_id": "41ddf8d8-8d8c-8124-bbbc-000b7e673061",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Obstacle is the Way",
+  "page_id": "2ffdf8d8-8d8c-80d4-89f9-f7517e375ad8",
+  "cdb_id": "331df8d8-8d8c-80b3-8836-c7ced1b82f27",
+  "ds_id": "331df8d8-8d8c-8091-91e7-000bb6780822",
+  "rows": 36,
+  "schema": {
+   "#": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "ผ่านฟิลเตอร์ 3 Laws": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "title"
+  }
+ },
+ {
+  "title": "Everything Is F*cked",
+  "page_id": "2ffdf8d8-8d8c-8084-9591-c20505c7ff33",
+  "cdb_id": "41ddf8d8-8d8c-8192-ab5e-f900b6a43f12",
+  "ds_id": "41ddf8d8-8d8c-816d-8b2a-000b866df6f0",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The One Thing",
+  "page_id": "2ffdf8d8-8d8c-80a4-a2c6-d1cb9c161b4d",
+  "cdb_id": "41ddf8d8-8d8c-818f-b596-c08376709cc6",
+  "ds_id": "41ddf8d8-8d8c-810f-bd96-000bf71c3ca6",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Bird by Bird",
+  "page_id": "2ffdf8d8-8d8c-8031-b4b5-f6160e3e389f",
+  "cdb_id": "41ddf8d8-8d8c-81ce-9beb-f2f821974667",
+  "ds_id": "41ddf8d8-8d8c-81a1-b91e-000b0fbaec61",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Wisdom Takes Work",
+  "page_id": "2ffdf8d8-8d8c-8084-a288-e9ba47f9faa6",
+  "cdb_id": "41ddf8d8-8d8c-81b9-b002-c0571cc97caf",
+  "ds_id": "41ddf8d8-8d8c-815e-8017-000b5b6ba57b",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Discipline Is Destiny",
+  "page_id": "2ffdf8d8-8d8c-80b1-bf53-c52767604ac7",
+  "cdb_id": "41ddf8d8-8d8c-81f1-a079-fcaca340a262",
+  "ds_id": "41ddf8d8-8d8c-81d6-a04f-000b46702057",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Creative Act",
+  "page_id": "2ffdf8d8-8d8c-80d6-8197-d18c6bf6152d",
+  "cdb_id": "41ddf8d8-8d8c-8154-902f-cd0be4d2b16e",
+  "ds_id": "41ddf8d8-8d8c-8125-a0be-000b6e7bdf04",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Building a Second Brain",
+  "page_id": "2ffdf8d8-8d8c-80fd-85d0-c58d49c0df96",
+  "cdb_id": "41ddf8d8-8d8c-81d7-a8b4-df2fd4fce026",
+  "ds_id": "41ddf8d8-8d8c-814f-90f4-000b8b3f6c80",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Courage Is Calling",
+  "page_id": "2ffdf8d8-8d8c-805a-9bc9-e16f042f4dbd",
+  "cdb_id": "41ddf8d8-8d8c-8183-a09d-ef45160b391d",
+  "ds_id": "41ddf8d8-8d8c-81a9-a21e-000b3c1fe88a",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Laws of Creativity",
+  "page_id": "2ffdf8d8-8d8c-80bd-9735-cd23df165929",
+  "cdb_id": "41ddf8d8-8d8c-813a-b68d-d73d737a07ab",
+  "ds_id": "41ddf8d8-8d8c-81f2-97f1-000b6580effb",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Right Thing Right Now",
+  "page_id": "2ffdf8d8-8d8c-8043-8b21-d1598fe90513",
+  "cdb_id": "41ddf8d8-8d8c-81a7-922e-ea835228b624",
+  "ds_id": "41ddf8d8-8d8c-8170-8181-000b4afddae5",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Stillness Is the Key",
+  "page_id": "2ffdf8d8-8d8c-80d0-940e-fedb6d9c3506",
+  "cdb_id": "41ddf8d8-8d8c-81ad-9634-dadbb037cf29",
+  "ds_id": "41ddf8d8-8d8c-81fd-b752-000b55f2de73",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "How to Fail at Almost Everything...",
+  "page_id": "2ffdf8d8-8d8c-8009-a67c-e658347afc3d",
+  "cdb_id": "41ddf8d8-8d8c-81f6-ae9d-cd6607ecefbc",
+  "ds_id": "41ddf8d8-8d8c-8101-b286-000bddc78f26",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Feel-Good Productivity",
+  "page_id": "2ffdf8d8-8d8c-80af-9f80-e2fdcb6888e7",
+  "cdb_id": "3e7df8d8-8d8c-8009-9ef9-d2d0f1f2683d",
+  "ds_id": "3e7df8d8-8d8c-8029-945b-000bb52e6d88",
+  "rows": 9,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Range",
+  "page_id": "2ffdf8d8-8d8c-8050-bf52-de336591c82d",
+  "cdb_id": "41ddf8d8-8d8c-81d0-87a6-e2e5d3d4fdd5",
+  "ds_id": "41ddf8d8-8d8c-81a6-a7b6-000bd41b365e",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Effortless",
+  "page_id": "2ffdf8d8-8d8c-80ac-98b4-c66f95fa4e71",
+  "cdb_id": "41ddf8d8-8d8c-81e7-bc55-c2c3323df71f",
+  "ds_id": "41ddf8d8-8d8c-81cc-b7c3-000b8db6ecca",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Diary of a CEO",
+  "page_id": "2ffdf8d8-8d8c-8058-82b1-cc3decc1c090",
+  "cdb_id": "41ddf8d8-8d8c-817a-ac9a-d4d195e130e6",
+  "ds_id": "41ddf8d8-8d8c-8102-ac8c-000b98b8a2d2",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Man's Search for Meaning",
+  "page_id": "2ffdf8d8-8d8c-80eb-bff4-d40455cb4381",
+  "cdb_id": "41ddf8d8-8d8c-812b-96f1-d6aba96fd09f",
+  "ds_id": "41ddf8d8-8d8c-819a-bbbc-000bf3ab183b",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "They Ask You Answer",
+  "page_id": "2ffdf8d8-8d8c-8005-9999-f23455d8822a",
+  "cdb_id": "41ddf8d8-8d8c-8146-8e87-d1bf5bfd16d7",
+  "ds_id": "41ddf8d8-8d8c-8110-badc-000b6704534b",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "David and Goliath",
+  "page_id": "2ffdf8d8-8d8c-8076-a0d2-d5568e413f0d",
+  "cdb_id": "41ddf8d8-8d8c-81fe-a513-d3e225f5a4f6",
+  "ds_id": "41ddf8d8-8d8c-81ff-85fe-000be835952b",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Die With Zero",
+  "page_id": "2ffdf8d8-8d8c-8030-8c58-e495d5ff4da8",
+  "cdb_id": "41ddf8d8-8d8c-818d-89b5-cea0723494ac",
+  "ds_id": "41ddf8d8-8d8c-819d-8b5d-000b6ac0f051",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Happy Sexy Millionaire",
+  "page_id": "2ffdf8d8-8d8c-80c4-8e97-c87f328a5205",
+  "cdb_id": "41ddf8d8-8d8c-814c-9394-e7a669855c42",
+  "ds_id": "41ddf8d8-8d8c-8130-be48-000b59310236",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Essentialism",
+  "page_id": "2ffdf8d8-8d8c-800b-8608-dfbd9d3cc810",
+  "cdb_id": "2ffdf8d8-8d8c-8020-bc74-ed5f36610902",
+  "ds_id": "2ffdf8d8-8d8c-8124-851c-000b674e3516",
+  "rows": 24,
+  "schema": {
+   "Core Message (สรุปแก่นฉบับ PHON)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Hidden Potential",
+  "page_id": "2ffdf8d8-8d8c-8085-93c3-f6521faf356e",
+  "cdb_id": "41ddf8d8-8d8c-81b9-af9c-c8bf5b3e0e51",
+  "ds_id": "41ddf8d8-8d8c-818b-a76e-000b986a2db5",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Slow Productivity",
+  "page_id": "2ffdf8d8-8d8c-8005-981d-cc8ce8e2cb95",
+  "cdb_id": "41ddf8d8-8d8c-8102-94cb-ff3e572df547",
+  "ds_id": "41ddf8d8-8d8c-8188-95d8-000b273d6a96",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Lean Startup",
+  "page_id": "2ffdf8d8-8d8c-8014-9846-deea1df6a629",
+  "cdb_id": "41ddf8d8-8d8c-81e9-8361-d747d6dfc6da",
+  "ds_id": "41ddf8d8-8d8c-8140-afad-000b039e4eeb",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Endless Customers",
+  "page_id": "2ffdf8d8-8d8c-8086-b40b-e3f988e70eaa",
+  "cdb_id": "41ddf8d8-8d8c-8168-8a0b-e81c388ee0b5",
+  "ds_id": "41ddf8d8-8d8c-81be-82a4-000b567a2b7c",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Think Again",
+  "page_id": "2ffdf8d8-8d8c-8014-a98e-c36d5276424a",
+  "cdb_id": "41ddf8d8-8d8c-81a1-9f54-cb6fc731f671",
+  "ds_id": "41ddf8d8-8d8c-81b2-b02e-000bef02296d",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Outliers",
+  "page_id": "2ffdf8d8-8d8c-8006-8ebb-dea95ac072e3",
+  "cdb_id": "41ddf8d8-8d8c-81cd-bc84-f7f87530906c",
+  "ds_id": "41ddf8d8-8d8c-814b-b950-000b4ecfe441",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Digital Minimalism",
+  "page_id": "2ffdf8d8-8d8c-80e7-baf2-fa17c3810579",
+  "cdb_id": "41ddf8d8-8d8c-8137-b4f5-ca32da1f4a6b",
+  "ds_id": "41ddf8d8-8d8c-81c3-974a-000bf1259e96",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Zero to One",
+  "page_id": "2ffdf8d8-8d8c-8033-b7ec-c240571433e6",
+  "cdb_id": "41ddf8d8-8d8c-8197-a745-f1cd1721862b",
+  "ds_id": "41ddf8d8-8d8c-8140-82b5-000b467914e0",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "So Good They Can't Ignore You",
+  "page_id": "2ffdf8d8-8d8c-8037-a4fd-c9deca59539d",
+  "cdb_id": "41ddf8d8-8d8c-817f-a5da-ed7508990d26",
+  "ds_id": "41ddf8d8-8d8c-81ca-a424-000b3ec7f20d",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Setting the Table",
+  "page_id": "2ffdf8d8-8d8c-80b8-85c5-d2f3921960a1",
+  "cdb_id": "41ddf8d8-8d8c-81fb-8895-cabe04210da2",
+  "ds_id": "41ddf8d8-8d8c-8193-888f-000b777b3c51",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Unreasonable Hospitality",
+  "page_id": "2ffdf8d8-8d8c-8030-a42c-fdc93b43aeab",
+  "cdb_id": "41ddf8d8-8d8c-81bb-a87d-ea07955ec67f",
+  "ds_id": "41ddf8d8-8d8c-81d0-8cd9-000b0ffd268d",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Deep Work",
+  "page_id": "2ffdf8d8-8d8c-80d2-8c34-e560577cb598",
+  "cdb_id": "30adf8d8-8d8c-80fd-aa04-e29ed00ce435",
+  "ds_id": "30adf8d8-8d8c-80f7-b455-000bbc19754f",
+  "rows": 10,
+  "schema": {
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "#": "title"
+  }
+ },
+ {
+  "title": "The Tipping Point",
+  "page_id": "2ffdf8d8-8d8c-8039-900a-e93453d00700",
+  "cdb_id": "41ddf8d8-8d8c-81a8-86d7-fa31c87e2726",
+  "ds_id": "41ddf8d8-8d8c-81fb-ac1e-000b337c27fb",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Building a StoryBrand 2.0",
+  "page_id": "2ffdf8d8-8d8c-80dd-a7a0-ce7b664a04b1",
+  "cdb_id": "41ddf8d8-8d8c-8181-9222-f7f05cc32405",
+  "ds_id": "41ddf8d8-8d8c-81b2-b8ca-000bc32c0a3b",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Talking to Strangers",
+  "page_id": "2ffdf8d8-8d8c-8017-adbf-d6d865e789a7",
+  "cdb_id": "41ddf8d8-8d8c-81b7-b094-ead7efe61c29",
+  "ds_id": "41ddf8d8-8d8c-813f-ab50-000beef8abf1",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Originals",
+  "page_id": "2ffdf8d8-8d8c-803e-9658-fac3d1cba1a3",
+  "cdb_id": "41ddf8d8-8d8c-81c7-937d-f37868e9a1f8",
+  "ds_id": "41ddf8d8-8d8c-81b2-b4f9-000b291424f6",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Give and Take",
+  "page_id": "2ffdf8d8-8d8c-8040-820f-e8a26070c5a2",
+  "cdb_id": "41ddf8d8-8d8c-81bc-83a8-f73429a40dc9",
+  "ds_id": "41ddf8d8-8d8c-8145-9489-000beeb33ca0",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Rules for a Knight",
+  "page_id": "2ffdf8d8-8d8c-803c-bd24-f97bf8e6a861",
+  "cdb_id": "41ddf8d8-8d8c-8111-8d30-db49d014e6fa",
+  "ds_id": "41ddf8d8-8d8c-81fc-87a4-000bef8363cd",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Same as Ever",
+  "page_id": "2ffdf8d8-8d8c-8049-9973-dce678d78eed",
+  "cdb_id": "3e4df8d8-8d8c-8026-a001-c8fd341b59e3",
+  "ds_id": "3e4df8d8-8d8c-804d-9d7a-000bf912c39f",
+  "rows": 23,
+  "schema": {
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "This Is Strategy",
+  "page_id": "2ffdf8d8-8d8c-803d-8eac-cf1def6272f3",
+  "cdb_id": "41ddf8d8-8d8c-8139-ad98-ffdb7c175c67",
+  "ds_id": "41ddf8d8-8d8c-810c-bdec-000bf6e383d2",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "This Is Marketing",
+  "page_id": "2ffdf8d8-8d8c-8072-b29a-c09afac0d31b",
+  "cdb_id": "41ddf8d8-8d8c-8127-b893-d9eecdd24a55",
+  "ds_id": "41ddf8d8-8d8c-810e-824b-000b1a6943c2",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "HBR Guide to Generative AI",
+  "page_id": "2ffdf8d8-8d8c-8026-953e-d357f4520e2b",
+  "cdb_id": "41ddf8d8-8d8c-8156-b4a9-fa1e7f21ac75",
+  "ds_id": "41ddf8d8-8d8c-81d4-a835-000b147c0842",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Purpose & Profit",
+  "page_id": "2ffdf8d8-8d8c-8049-a459-d6775bf1dbd8",
+  "cdb_id": "41ddf8d8-8d8c-810f-9c33-f4aa9017144c",
+  "ds_id": "41ddf8d8-8d8c-8144-95d3-000bb78805d8",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Art of Spending Money",
+  "page_id": "2ffdf8d8-8d8c-8014-a2aa-f77350291fb2",
+  "cdb_id": "41ddf8d8-8d8c-8111-bf92-f6c519bb39c7",
+  "ds_id": "41ddf8d8-8d8c-81fc-a4a5-000b24eda90b",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Let Them Theory",
+  "page_id": "2ffdf8d8-8d8c-8017-9cc7-d4106ce3c6fd",
+  "cdb_id": "41ddf8d8-8d8c-8140-80f3-ca7c6bd379d1",
+  "ds_id": "41ddf8d8-8d8c-8167-aa56-000b841d0b16",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Stoicism for New Life",
+  "page_id": "2ffdf8d8-8d8c-808d-8469-fe915c041ad2",
+  "cdb_id": "41ddf8d8-8d8c-81d4-ba50-e63023ef3019",
+  "ds_id": "41ddf8d8-8d8c-8194-9759-000b627a35c6",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "A Calendar of Wisdom",
+  "page_id": "2ffdf8d8-8d8c-8008-a5b4-f72ed4c12b4e",
+  "cdb_id": "41ddf8d8-8d8c-819b-ba79-f5f1e1ea5ce4",
+  "ds_id": "41ddf8d8-8d8c-81cb-9723-000b86bfd20e",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Seven Brief Lessons on Physics",
+  "page_id": "2ffdf8d8-8d8c-80bc-8134-d95fd337f0a1",
+  "cdb_id": "41ddf8d8-8d8c-81a3-b604-e96d240067d1",
+  "ds_id": "41ddf8d8-8d8c-81b4-89bc-000b33c92c19",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Tools Of Titans",
+  "page_id": "2ffdf8d8-8d8c-80f6-998c-d6f1be2c44a4",
+  "cdb_id": "41ddf8d8-8d8c-8185-850c-e8b5df307a0a",
+  "ds_id": "41ddf8d8-8d8c-81b8-a960-000b68f08f34",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Manifest",
+  "page_id": "2ffdf8d8-8d8c-80a4-9f26-fae9021b6224",
+  "cdb_id": "41ddf8d8-8d8c-810e-abd3-c85ddcedfffc",
+  "ds_id": "41ddf8d8-8d8c-8118-8b9c-000bdbf0ac1c",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The 5 Types of Wealth",
+  "page_id": "2ffdf8d8-8d8c-80dc-9000-e4bf28133ebc",
+  "cdb_id": "41ddf8d8-8d8c-811c-b0cf-dc44df6e4ba2",
+  "ds_id": "41ddf8d8-8d8c-81cd-88f8-000b42379049",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Psychology of Money: Timeless lessons on wealth, greed, and happiness",
+  "page_id": "2ffdf8d8-8d8c-80e6-b3b6-c31c8fec10fd",
+  "cdb_id": "306df8d8-8d8c-801c-b9a4-f5efa1abd380",
+  "ds_id": "306df8d8-8d8c-8063-a1d3-000b26111825",
+  "rows": 18,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "#": "title"
+  }
+ },
+ {
+  "title": "The Book of Five Rings (Modern)",
+  "page_id": "2ffdf8d8-8d8c-80e7-9ce9-dd5443610659",
+  "cdb_id": "324df8d8-8d8c-80b9-a4ac-dba0428cbd84",
+  "ds_id": "324df8d8-8d8c-80e3-b0f1-000b9d08fd46",
+  "rows": 5,
+  "schema": {
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "When to Rob a Bank",
+  "page_id": "2ffdf8d8-8d8c-8088-a7ba-cf05baace01c",
+  "cdb_id": "41ddf8d8-8d8c-8107-84bc-c6aac39ff5b0",
+  "ds_id": "41ddf8d8-8d8c-81fd-b8e4-000b0e86e071",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Dokkōdō",
+  "page_id": "2ffdf8d8-8d8c-80b6-a1c9-c367773f8149",
+  "cdb_id": "41ddf8d8-8d8c-818b-a0fc-faa351638c93",
+  "ds_id": "41ddf8d8-8d8c-8151-bf3e-000b4df0cdbf",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Little Book of Stoicism",
+  "page_id": "2ffdf8d8-8d8c-80ff-bbdf-ea628b932ff2",
+  "cdb_id": "41ddf8d8-8d8c-81b8-bf64-f403042d92b3",
+  "ds_id": "41ddf8d8-8d8c-814d-baec-000b9241ab77",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Tiny Experiments",
+  "page_id": "2ffdf8d8-8d8c-8072-8a2d-ca4bd9d8092d",
+  "cdb_id": "40fdf8d8-8d8c-807d-a6f6-ee5deaa04810",
+  "ds_id": "40fdf8d8-8d8c-80d5-a43e-000b19bc8e1f",
+  "rows": 9,
+  "schema": {
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select|⬜ QUEUED,✅ INSTALLED,⏳ LOADING...",
+   "#": "title"
+  }
+ },
+ {
+  "title": "The Science of Getting Rich",
+  "page_id": "2ffdf8d8-8d8c-80d0-a955-d40c3293a441",
+  "cdb_id": "41ddf8d8-8d8c-814d-9926-f0fc97eb29ac",
+  "ds_id": "41ddf8d8-8d8c-81a4-9bba-000b9f19ac37",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "100 Ways to Improve Your Writing",
+  "page_id": "2ffdf8d8-8d8c-8013-8c31-ea6d6a047854",
+  "cdb_id": "41ddf8d8-8d8c-81d9-8f7e-f1c9ef19e6f0",
+  "ds_id": "41ddf8d8-8d8c-813c-87c4-000b6f5de258",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Reinvent Yourself At Any Age",
+  "page_id": "2ffdf8d8-8d8c-80e8-83e6-fa17af8d721e",
+  "cdb_id": "41ddf8d8-8d8c-8159-928e-e59b616d2520",
+  "ds_id": "41ddf8d8-8d8c-8198-9c2a-000bce4a7f86",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Suddenly Talented",
+  "page_id": "2ffdf8d8-8d8c-8017-987b-f535953e2a9d",
+  "cdb_id": "41ddf8d8-8d8c-8130-9396-cfd8bf0bfa9c",
+  "ds_id": "41ddf8d8-8d8c-814f-9850-000bdefa9265",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "One Plus One Equals Three",
+  "page_id": "2ffdf8d8-8d8c-8052-93ab-f8c8c4b8a3c7",
+  "cdb_id": "41ddf8d8-8d8c-81b0-834e-d6299f50ac6a",
+  "ds_id": "41ddf8d8-8d8c-8179-acb4-000b0b4a2924",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Extra Focus",
+  "page_id": "2ffdf8d8-8d8c-8017-b05f-c2f45a29eed2",
+  "cdb_id": "3e9df8d8-8d8c-80ef-af24-f2b09e53d1b9",
+  "ds_id": "3e9df8d8-8d8c-80f2-a3a3-000b86f3a546",
+  "rows": 8,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "To-Do List Formula",
+  "page_id": "2ffdf8d8-8d8c-809e-a935-e35011e9c79b",
+  "cdb_id": "41ddf8d8-8d8c-819f-af3e-e948d13ba6c2",
+  "ds_id": "41ddf8d8-8d8c-81fe-92a8-000b83f399fe",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Copywrong to Copywriter",
+  "page_id": "2ffdf8d8-8d8c-8079-94dc-fc0f8ee4a71f",
+  "cdb_id": "41ddf8d8-8d8c-810b-bad2-c3a8388bd31e",
+  "ds_id": "41ddf8d8-8d8c-8151-b911-000bf0516034",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Brain Audit",
+  "page_id": "2ffdf8d8-8d8c-8083-9168-dcfb98a2ebca",
+  "cdb_id": "41ddf8d8-8d8c-8102-869f-cf355b48095e",
+  "ds_id": "41ddf8d8-8d8c-8133-b540-000bbad3ae4d",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Everybody Writes",
+  "page_id": "2ffdf8d8-8d8c-8024-a7d4-da1a7446fe73",
+  "cdb_id": "41ddf8d8-8d8c-8160-b5ed-e0a64ace4f4d",
+  "ds_id": "41ddf8d8-8d8c-8177-98f1-000b70aac7d5",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Million Dollar Weekend",
+  "page_id": "2ffdf8d8-8d8c-806c-9050-ce26898caeed",
+  "cdb_id": "41ddf8d8-8d8c-81e6-aea3-cf9aa6376368",
+  "ds_id": "41ddf8d8-8d8c-8114-b91e-000b46b9f854",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Unfair Advantage",
+  "page_id": "2ffdf8d8-8d8c-8038-95a6-e45f4a33023a",
+  "cdb_id": "41ddf8d8-8d8c-8169-b97d-f10fd2b8d98e",
+  "ds_id": "41ddf8d8-8d8c-8136-8e2d-000b3947866e",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Negotiation Made Simple",
+  "page_id": "2ffdf8d8-8d8c-80e7-88c4-c9a584fc208a",
+  "cdb_id": "41ddf8d8-8d8c-8138-be8a-c2815ed9d6c8",
+  "ds_id": "41ddf8d8-8d8c-8158-b1fd-000b48b8d643",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Hook Point",
+  "page_id": "2ffdf8d8-8d8c-8088-be4e-d1ac6f45a788",
+  "cdb_id": "3e9df8d8-8d8c-8092-a12d-e5a84f8e59e4",
+  "ds_id": "3e9df8d8-8d8c-804c-98b6-000ba1da00dd",
+  "rows": 7,
+  "schema": {
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "The Comfort Book",
+  "page_id": "2ffdf8d8-8d8c-8091-b748-ce93fe9d94cb",
+  "cdb_id": "41ddf8d8-8d8c-816c-9486-c73d23fb733e",
+  "ds_id": "41ddf8d8-8d8c-8140-b6b8-000b9ee0b0fc",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Mini Book Model",
+  "page_id": "2ffdf8d8-8d8c-80f4-a73a-dab69bea1985",
+  "cdb_id": "41ddf8d8-8d8c-8135-9a0f-dfd5bc11d4f5",
+  "ds_id": "41ddf8d8-8d8c-81e7-9dbd-000b694d8266",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "How to Be Better at Almost Everything",
+  "page_id": "2ffdf8d8-8d8c-8025-b3d4-cd9a91ba3703",
+  "cdb_id": "3e9df8d8-8d8c-8010-b5d1-db3cfe93e8a0",
+  "ds_id": "3e9df8d8-8d8c-806c-b4f4-000b28512e6e",
+  "rows": 10,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Reasons to Stay Alive",
+  "page_id": "2ffdf8d8-8d8c-80f4-9d46-e128ac011ed5",
+  "cdb_id": "41ddf8d8-8d8c-816e-99e9-e8f215c97416",
+  "ds_id": "41ddf8d8-8d8c-8154-ad87-000be696ef03",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Stop Reading the News",
+  "page_id": "2ffdf8d8-8d8c-805f-b0e7-e0bbef81ce19",
+  "cdb_id": "41ddf8d8-8d8c-81b6-8f1c-cbb037343c4a",
+  "ds_id": "41ddf8d8-8d8c-81df-92ac-000b9c31cb53",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Simple Marketing For Smart People",
+  "page_id": "2ffdf8d8-8d8c-80f3-9611-db4007c1c144",
+  "cdb_id": "41ddf8d8-8d8c-8147-ae75-c79a3f54d980",
+  "ds_id": "41ddf8d8-8d8c-811e-88cc-000bad01c962",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The Art of the Good Life",
+  "page_id": "2ffdf8d8-8d8c-8032-ae81-c2265dcf5b73",
+  "cdb_id": "41ddf8d8-8d8c-81c5-8edf-e68e81e9aa58",
+  "ds_id": "41ddf8d8-8d8c-8147-9cb1-000bf83393df",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Focus on What Matters",
+  "page_id": "2ffdf8d8-8d8c-806a-8282-e9adafd981b8",
+  "cdb_id": "41ddf8d8-8d8c-81cc-93b5-f64321145b70",
+  "ds_id": "41ddf8d8-8d8c-81ef-9a72-000b88fa11e8",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "AI Can't Write But You Can",
+  "page_id": "2ffdf8d8-8d8c-8041-980d-d72196aa6d64",
+  "cdb_id": "41ddf8d8-8d8c-81ee-b5ce-d54ac9756c97",
+  "ds_id": "41ddf8d8-8d8c-818a-adae-000ba658e042",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Surrounded by Idiots",
+  "page_id": "2ffdf8d8-8d8c-80a1-9dff-c7cb410a21ad",
+  "cdb_id": "41ddf8d8-8d8c-813e-b853-cb8bf883f3cb",
+  "ds_id": "41ddf8d8-8d8c-8145-863b-000b94db2e37",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The PARA Method",
+  "page_id": "2ffdf8d8-8d8c-805f-8c8b-f1a4801300e4",
+  "cdb_id": "41ddf8d8-8d8c-81c8-b1dc-f677f15aba8d",
+  "ds_id": "41ddf8d8-8d8c-81a5-8d8b-000b1377a11f",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Growth Hacker Marketing",
+  "page_id": "2ffdf8d8-8d8c-8077-a9e6-ef44737c8502",
+  "cdb_id": "41ddf8d8-8d8c-8149-8200-f16d781b0134",
+  "ds_id": "41ddf8d8-8d8c-81e4-8374-000bdf7d6b37",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Beyond Thoughts",
+  "page_id": "2ffdf8d8-8d8c-8027-8f0d-cf830443699b",
+  "cdb_id": "41ddf8d8-8d8c-81d3-bc47-f333d04c4a4b",
+  "ds_id": "41ddf8d8-8d8c-81fa-939f-000b023c7349",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Scientific Advertising",
+  "page_id": "2ffdf8d8-8d8c-802d-aa11-d55b30597d31",
+  "cdb_id": "2ffdf8d8-8d8c-8064-b6ad-f12033d6d97f",
+  "ds_id": "2ffdf8d8-8d8c-81e0-aa3d-000bba388cd5",
+  "rows": 21,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (สรุปแก่นฉบับ PHON)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Company of One",
+  "page_id": "2ffdf8d8-8d8c-800d-a423-fed7eb90fb37",
+  "cdb_id": "41ddf8d8-8d8c-8154-94c4-eefd150855e0",
+  "ds_id": "41ddf8d8-8d8c-8183-8ee3-000bd9b497dc",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Show Your Work!",
+  "page_id": "2ffdf8d8-8d8c-8032-a27b-da55a17a6df5",
+  "cdb_id": "2ffdf8d8-8d8c-8098-8729-fc36696d71f8",
+  "ds_id": "2ffdf8d8-8d8c-8196-a4bf-000b7001fd4e",
+  "rows": 10,
+  "schema": {
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "Core Message (สรุปแก่นฉบับ PHON)": "rich_text",
+   "Chapter Title": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Remote",
+  "page_id": "2ffdf8d8-8d8c-8068-9c10-cd4cc82040c1",
+  "cdb_id": "41ddf8d8-8d8c-81ed-a481-f7237e5b7f07",
+  "ds_id": "41ddf8d8-8d8c-8116-8b2b-000b419055fc",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Business Made Simple",
+  "page_id": "2ffdf8d8-8d8c-8044-9898-e0589b862081",
+  "cdb_id": "3e6df8d8-8d8c-80ee-942b-dcfec712ebac",
+  "ds_id": "3e6df8d8-8d8c-8093-9aa5-000be3bcb6c0",
+  "rows": 11,
+  "schema": {
+   "Status": "select|✅ INSTALLED,⏳ LOADING...,⬜ QUEUED",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Boundaries = Freedom",
+  "page_id": "2ffdf8d8-8d8c-806a-9ad1-f4e175b42a69",
+  "cdb_id": "41ddf8d8-8d8c-8179-872b-fc08540f184a",
+  "ds_id": "41ddf8d8-8d8c-819a-b440-000bb83551e1",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Don't Believe Everything You Think",
+  "page_id": "2ffdf8d8-8d8c-80bf-910c-d29a24b31456",
+  "cdb_id": "3e6df8d8-8d8c-8062-b326-d75a1fc3fdde",
+  "ds_id": "3e6df8d8-8d8c-80e0-927f-000b122a6d29",
+  "rows": 13,
+  "schema": {
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "This is Lean",
+  "page_id": "2ffdf8d8-8d8c-80d6-aa81-ecc015eb40ad",
+  "cdb_id": "41ddf8d8-8d8c-8197-9a6d-e060ed1793bf",
+  "ds_id": "41ddf8d8-8d8c-81c7-b149-000bd3fe887c",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Marketing Made Simple",
+  "page_id": "2ffdf8d8-8d8c-8097-abae-f998a0af8031",
+  "cdb_id": "41ddf8d8-8d8c-8118-9737-cd38324027c0",
+  "ds_id": "41ddf8d8-8d8c-81e0-8b5a-000ba527f559",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "It Doesn't Have to Be Crazy at Work",
+  "page_id": "2ffdf8d8-8d8c-80de-b613-e46a7d37b0db",
+  "cdb_id": "320df8d8-8d8c-80cd-a094-e01e502da262",
+  "ds_id": "320df8d8-8d8c-8026-9b81-000b5c4e55ce",
+  "rows": 73,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Weird Philosophy",
+  "page_id": "2ffdf8d8-8d8c-807f-945f-c77701bd1fb3",
+  "cdb_id": "41ddf8d8-8d8c-8119-a42c-d217fa340d96",
+  "ds_id": "41ddf8d8-8d8c-81b0-876e-000b13456db8",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Your Money",
+  "page_id": "2ffdf8d8-8d8c-8051-8b83-c9ded664bf2d",
+  "cdb_id": "41ddf8d8-8d8c-811d-beac-d07fc500a8b5",
+  "ds_id": "41ddf8d8-8d8c-816a-8ddc-000b175425db",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Very Good Copy",
+  "page_id": "2ffdf8d8-8d8c-8096-902a-f60e9b361958",
+  "cdb_id": "41ddf8d8-8d8c-81df-93e1-e5b671fcfb82",
+  "ds_id": "41ddf8d8-8d8c-815c-bab2-000b7c1c0653",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "$100M Leads",
+  "page_id": "2ffdf8d8-8d8c-80ca-a1dd-c059b13b097e",
+  "cdb_id": "41ddf8d8-8d8c-816a-95f8-ddaa21538391",
+  "ds_id": "41ddf8d8-8d8c-8175-8220-000b6300b0a0",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "$100M Offers",
+  "page_id": "2ffdf8d8-8d8c-8030-8205-f2d892fb8039",
+  "cdb_id": "41ddf8d8-8d8c-8146-ac76-ddceaa33dfe3",
+  "ds_id": "41ddf8d8-8d8c-8112-a702-000ba0e4ca5e",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "The One-Page Financial Plan",
+  "page_id": "2ffdf8d8-8d8c-80cf-9430-c94b566cebfa",
+  "cdb_id": "3e6df8d8-8d8c-8009-af59-e5229717547d",
+  "ds_id": "3e6df8d8-8d8c-805b-aeaa-000becfba081",
+  "rows": 10,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "The Almanack of Naval Ravikant",
+  "page_id": "2ffdf8d8-8d8c-80b6-b639-c2f371165e54",
+  "cdb_id": "31fdf8d8-8d8c-803b-911b-dc979ff3eb55",
+  "ds_id": "31fdf8d8-8d8c-8014-8314-000b9c858911",
+  "rows": 8,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Rework",
+  "page_id": "2ffdf8d8-8d8c-80b5-ba11-fd7aa194313a",
+  "cdb_id": "3dadf8d8-8d8c-8061-8549-e0823f070ad3",
+  "ds_id": "3dadf8d8-8d8c-80cd-aa39-000b9566e2b0",
+  "rows": 12,
+  "schema": {
+   "ผ่านฟิลเตอร์ 3 Laws ของ OPB": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "Chapter Title (Original)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Storytelling with Data",
+  "page_id": "2ffdf8d8-8d8c-80b6-9363-f8239b63f4c6",
+  "cdb_id": "41ddf8d8-8d8c-81fe-9827-dc05e117d4a5",
+  "ds_id": "41ddf8d8-8d8c-81d4-b586-000b90ff3252",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ },
+ {
+  "title": "Keep Going",
+  "page_id": "2ffdf8d8-8d8c-80df-bf06-cd3b2cf08f78",
+  "cdb_id": "2ffdf8d8-8d8c-808b-854f-ce711132a5e1",
+  "ds_id": "2ffdf8d8-8d8c-81b2-ab1f-000bbcf48de3",
+  "rows": 10,
+  "schema": {
+   "Status": "select|⏳ LOADING...,⬜ QUEUED,✅ INSTALLED",
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (ฉบับ PHON)": "rich_text",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Steal Like an Artist",
+  "page_id": "2ffdf8d8-8d8c-80fb-a181-cd46632d45a8",
+  "cdb_id": "2ffdf8d8-8d8c-804c-83c2-dc2a630b6fce",
+  "ds_id": "2ffdf8d8-8d8c-817e-bffb-000bbf73d396",
+  "rows": 10,
+  "schema": {
+   "Chapter Title (Original)": "rich_text",
+   "Core Message (สรุปแก่นฉบับ PHON)": "rich_text",
+   "Status": "select|⬜ QUEUED,⏳ LOADING...,✅ INSTALLED",
+   "#": "title"
+  }
+ },
+ {
+  "title": "Together",
+  "page_id": "2ffdf8d8-8d8c-80b1-a13c-fdeac429233e",
+  "cdb_id": "41ddf8d8-8d8c-8156-93ed-ec9216e6fcd0",
+  "ds_id": "41ddf8d8-8d8c-81ca-a194-000b2380b100",
+  "rows": 0,
+  "schema": {
+   "Name": "title"
+  }
+ }
+]
