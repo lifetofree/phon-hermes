@@ -23,9 +23,13 @@ ENV = os.path.join(os.path.expanduser("~"), ".hermes", ".env")
 
 
 def token():
-    for line in open(ENV):
-        if line.startswith("NOTION_API_KEY="):
-            return line.split("=", 1)[1].strip().strip('"').strip("'")
+    if os.path.exists(ENV):
+        for line in open(ENV):
+            if line.startswith("NOTION_API_KEY="):
+                return line.split("=", 1)[1].strip().strip('"').strip("'")
+    tok = os.environ.get("NOTION_TOKEN") or os.environ.get("NOTION_API_KEY")
+    if tok:
+        return tok
     raise SystemExit("NOTION_API_KEY not found")
 
 
@@ -34,8 +38,18 @@ def api(method, path, payload=None):
     req = urllib.request.Request("https://api.notion.com/v1" + path, data=data, method=method,
         headers={"Authorization": f"Bearer {token()}", "Notion-Version": "2022-06-28",
                  "Content-Type": "application/json"})
-    with urllib.request.urlopen(req) as r:
-        return json.loads(r.read().decode() or "{}")
+    import time
+    for attempt in range(5):
+        try:
+            with urllib.request.urlopen(req) as r:
+                return json.loads(r.read().decode() or "{}")
+        except urllib.error.HTTPError as e:
+            if e.code == 429 or e.code >= 500:
+                wait = min(60, 2 ** attempt)
+                time.sleep(wait)
+                continue
+            raise
+    raise RuntimeError("api retries exhausted: " + path)
 
 
 def prop(p):
@@ -46,6 +60,8 @@ def prop(p):
         return "".join(x["plain_text"] for x in p["rich_text"]).strip()
     if t == "select":
         return p["select"]["name"] if p["select"] else ""
+    if t == "multi_select":
+        return " ".join(x["name"] for x in p["multi_select"]).strip()
     return ""
 
 
@@ -85,7 +101,8 @@ def fetch_chapters(api, page_id, edited):
     chapters = []
     db_ids = []
     for b in blocks:
-        if b["type"] == "child_database" and "chapter" in b["child_database"].get("title", "").lower():
+        cdb_title = b["child_database"].get("title", "") if b["type"] == "child_database" else ""
+        if b["type"] == "child_database" and ("chapter" in cdb_title.lower() or not cdb_title.strip()):
             db_ids.append(b["id"])
         if b["type"] == "heading_3":
             txt = "".join(x["plain_text"] for x in b["heading_3"]["rich_text"]).strip()
