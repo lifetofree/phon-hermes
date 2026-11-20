@@ -38,3 +38,11 @@ OpenClaw (MIT, เครื่องเรา) · Hermes Agent (Nous Research, M
 - โครง: สายพันธุ์เดียวจริง → ตาราง 6 แกน → ขยี้ 4 pain point (ราคาไล่ขั้น / pool / โมเดลล็อก / ความจำบ้านเช่า+ย้ายไม่ครบ) → ราคาฝั่งเรา = งานดูแล → duck
 - ทุก fact Grok Bot = reported speech "ตามหน้าราคา/เอกสารของทีมผู้ทำ" + วันตรวจ 19 พ.ย. 2026; fact rakazo-import = "ทีมผู้ทำ Rakazo เขียนไว้"
 - Sibling guard: #121/#122/#123 — ไม่รีเทล deployment/403, ไม่ซ้ำเลข connections 0 / routines 9 / Notion MCP (ห้ามใช้เลข DB ของเครื่องซ้ำ); axis ของ #124 = การวางตัวสินค้า + custody
+
+## RE-VERIFY ROUND 2 (2026-11-19 เย็น — owner: "เหมือนตอนนี้ grokbot อัปเดตเวอร์ชันแล้ว")
+- **Grok Bot app v1.2.3 (18 พ.ย.)** — x.ai/changelog/bot: "Tool permissions and routine reconnect cards" (รวม 1.2.1/1.2.2); tool ต่อ connector ตั้งได้ 4 ระดับ (Always allow / Auto-review / Needs approval / Blocked); routine ที่ connector หมด sign-in ข้าม scheduled runs จนกว่าจะ reconnect; แอปอัปเดตแล้ว restart เองเมื่อพร้อม; เวอร์ชันเก่าใน changelog: 0.70.2 / 0.79.2 / 1.1.0 → จาก 1.0 (11 พ.ย.) ถึง 1.2.3 (18 พ.ย.) ใน 7 วัน
+- **Grok 4.7** — ประกาศ 22 ก.ย. ("Twice as fast, at half the price") + docs release notes 13 พ.ย.: grok-4.7 บน API, context 500k
+- **Rakazo v0.13.0 (18 พ.ย. 23:25 UTC)** — GitHub releases latest: ขยาย approval settings ครอบ routines + connected chat apps + work influenced by outside content; unattended approvals expire 30 นาที
+- pricing ตรวจซ้ำ 19 พ.ย. เย็น — ไม่เปลี่ยน (Grok Bot เฉพาะ Premium $30+; Plus $8 ไม่รวม; pool รายสัปดาห์)
+- rakazo repo: stars 9,245 (+171 จากเช้า 9,074), Apache-2.0 คงเดิม
+- **จุดเทียบใหม่ (draft v2 section "เมื่อคืนแฝดอัปเดตทั้งคู่"):** จังหวะการอัปเดต — บ้านเช่าได้ v1.2.3 เองโดยไม่ต้องทำอะไร (แอปอัปเดต+restart เอง) / บ้านเราได้ v0.13.0 ก็ต่อเมื่อเราเป็นคนดึง — ต่างกันที่ใครเป็นคนกดปุ่ม ไม่ใช่ความเร็วของค่าย (ทั้งคู่ปล่อยเมื่อคืนเดียวกัน)

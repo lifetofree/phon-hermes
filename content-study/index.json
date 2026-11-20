@@ -5148,7 +5148,7 @@
   "date": "2026-11-19",
   "slug": "20261119-cnt-rakazo-vs-grokbot-twins",
   "title": "Grok Bot กับ Rakazo — AI teammates สายพันธุ์เดียวกัน ที่ถูกเลี้ยงคนละบ้าน",
-  "status": "DRAFT v1 pair #124 (2026-11-19): TECH v2 comparison + ตาราง 6 แกน — คำตอบแกน = แฝดสายพันธุ์เดียว เลี้ยงคนละบ้าน — pain point ฝั่งบ้านเช่า 4 จุด (แผนไล่ขั้น $30+/pool รายสัปดาห์/โมเดลล็อก Grok/ความจำอยู่บ้านเช่า ย้ายบ้านยกไม่ได้หมด) + ความจริงใจฝั่งบ้านเรา (จ่ายด้วยงานดูแล) — battery PASS CUT 15 all-zero — รอ Benz r1",
+  "status": "DRAFT v2 (2026-11-19 เย็น): owner \"เช็คข้อมูล grokbot อัปเดตเวอร์ชันแล้ว\" → re-verify พบ **แฝดอัปเดตเมื่อคืนทั้งคู่ (18 พ.ย.)** — Grok Bot app v1.2.3 (changelog: tool permissions 4 ระดับ + routine reconnect) / Rakazo v0.13.0 (approval ข้าม routines + chat apps) / Grok 4.7 เข้า API 13 พ.ย. — เพิ่ม section 'เมื่อคืนแฝดอัปเดตทั้งคู่' (จังหวะอัปเดต: บ้านเช่าได้เองอัตโนมัติ vs บ้านเราดึงเอง — ต่างกันที่ใครกดปุ่ม) + subtitle ใหม่ — pricing ตรวจซ้ำไม่เปลี่ยน | battery PASS CUT 17 all-zero, 312wc | Notion PATCH replace_content หน้าเดิม 35 blocks verify ครบ, Status ยัง draft — รอ Benz r1",
   "notion": "41ddf8d8-8d8c-81b5-aafd-c22aed3b5337",
   "link": "https://app.notion.com/p/Grok-Bot-Rakazo-AI-teammates-41ddf8d88d8c81b5aafdc22aed3b5337",
   "file": "/home/lifetofree/hermes-agent/content-study/vault/posts/20261119-cnt-rakazo-vs-grokbot-twins.md",
