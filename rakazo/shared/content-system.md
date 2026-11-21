@@ -28,5 +28,12 @@
 | `rakazo/kit/phon-identity.md`, `rakazo/kit/adduck-SOUL.md` | identity + มาสคอต |
 | `content-study/vault/posts/` | ไฟล์โพสต์จริง (posts/ เป็น symlink ของอันนี้) |
 
-## 5. สายงาน (ใครทำอะไร)
-Idea Keeper (การ์ดไอเดีย สถานะ New) → **Phon promote** → Product Lead (แผนผลิต + บรีฟ) → Adduck Writer (เขียน + file draft + battery) → Chief/Phon ตรวจ → **publish = Phon เท่านั้น** — Image Gen (gen ปก/ภาพตาม brief), Design Keeper (layout/PDF/mockup)
+## 5. สายงาน (ใครทำอะไร) — จัดกลุ่มใหม่ 21 พ.ย. 2026
+Idea Keeper (การ์ดไอเดีย สถานะ New) → **Phon promote** → Product Lead (แผนผลิต + บรีฟ + ขอ metadata) → Adduck Writer (เขียน + file draft + battery) → **Benz Critic** (วิจารณ์/grade ตาม Benz-DNA เก่า+ใหม่ — analyze only) → Chief/Phon ตรวจ → **publish = Phon เท่านั้น** — Image Gen (gen ปก/ภาพตาม brief — ComfyUI Mac port 8189 คิวแยก), Design Keeper (layout/PDF/mockup)
+
+## 6. กลุ่ม (ห้องแชท) หลังจัดใหม่ 21 พ.ย. 2026
+- **Content Drafting** = PL, Adduck Writer, Benz Critic, Image Gen (สายบทความ)
+- **Product Production** = PL, Adduck Writer, Design Keeper, Image Gen (สาย product/ebook)
+- **Book Management** = Chief, Book Keeper — Draft critic ถูกยุบ (subset ซ้ำ; งานตรวจอยู่ที่ Benz Critic โดยตรง)
+- Research (IK/RD/RS) + Chief ไม่นั่งห้องผลิตแล้ว — ทำงานผ่านแชทตัวเอง/การ์ด/บรีฟ (ลด context noise)
+- backup โครงเดิม: ตาราง _chat_groups_backup_20261121 / _chat_group_members_backup_20261121
