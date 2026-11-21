@@ -5163,5 +5163,15 @@
     "link": "https://app.notion.com/p/41edf8d88d8c81f9907ae16b15808624",
     "file": "/home/lifetofree/hermes-agent/content-study/vault/posts/20261120-cnt-rakazo-notion-second-brain.md",
     "note": "external intake: archives 20261120-rakazo-secondbrain-{draft-v1,sibling}-draft-external.md (byte-true) | sibling page 41edf8d8-8d8c-8106-817f-e6093373cf51 (หนังสือ 251 เล่ม — ยังไม่ rewrite) | voice guide สำหรับบอต: duck-os/Rakazo_Drafting_Voice_Guide.md | fact discipline: ตัวเลขนับของบอต = reported speech, DROPPED 77 บรรทัด/16 แก่น (ยืนยันไม่ได้)"
+  },
+  {
+    "date": "2026-11-21",
+    "slug": "20261121-cnt-left-digit-effect",
+    "title": "ลดราคา 1 สตางค์ไม่มีใครสังเกต แต่พอเลขหัวข้าม สมองถือเป็นส่วนลดใหญ่ — กลไก Left Digit Effect",
+    "status": "DRAFT v1 (2026-11-21) fact-explainer article: Left Digit Effect — ผู้บัญญัติคำ = Thomas & Morwitz (2005) JCR 32(1) 54-64 (DOI 10.1086/429600) · พื้นฐาน anchoring = Mussweiler & Strack (2000) JESP 36(5) (DOI 10.1006/jesp.1999.1414) · ข้อมูลจริง = Lacetera/Pope/Sydnor 2012 AER 102(5) (22M+ คัน รถมือสอง, threshold 10k ไมล์) + Bhattacharya/Holden/Jacobsen 2012 Mgmt Sci 58(2) · Patalano et al. 2023 Cognition 230 · ร่าง 27 blocks body 226wc · battery CUT 12 คำ = 0 (Chief รันซ้ำ) · ส่ง Benz r1 แล้ว 21 พ.ย. 17:22 · รอ Benz → owner review → publish โดย owner เท่านั้น",
+    "notion": "41fdf8d88d8c818eba59f2fa2cff3246",
+    "link": "https://app.notion.com/p/1-Left-Digit-Effect-41fdf8d88d8c818eba59f2fa2cff3246",
+    "file": "/home/lifetofree/hermes-agent/content-study/vault/posts/20261121-cnt-left-digit-effect.md",
+    "note": "origin: โจทย์ owner ผ่าน Chief จากการ์ด Idea 41fdf8d8-8d8c-81bb-960d-d7cbbd7b9404 (Type=Content, Status=Promoted) | วัตถุดิบ: KB row 41fdf8d88d8c81c68639c0faf4db42a3 (Scout — Crossref verify) + YouTube Library row 41fdf8d88d8c816898c3e2f033a4e691 (Distiller — Wally's Wallet 'Why $99 Feels So Much Cheaper Than $100' 9:21, เกณฑ์ลำดับ 3 = ไม่มีคลิปของผู้ริเริ่มบน YouTube) | fact discipline: citation แก้จากบรีฟเดิม — งาน 'Mussweiler & Strack 2000 The left digit effect' ไม่มีจริง; จุด 'interior feeling' ไม่ถูกยก; ตัวอย่างเดรสถูกตัดออกทั้งชิ้น; $150-200 = reported speech ของผู้ศึกษา | Chief copy md จากโฮม Adduck Writer (mount /mnt/hermes-agent read-only) — md5 8b6eb76a24e663917b2d34e0e1d0b0da 11659 B"
   }
 ]
