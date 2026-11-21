@@ -17,6 +17,7 @@
 - Sibling guard: หัวข้อใกล้เคียงที่มีอยู่ต้องมุมต่างจริง (เช็คใน index.json + Content Drafts ก่อนเขียน)
 - Battery: `draft_battery.py` ต้อง PASS จริงด้วยคำสั่งจริง ห้ามประกาศ PASS ลอยๆ
 - ห้าม publish / ห้ามแก้ Status เกิน draft/rewritten โดยไม่มีคำสั่งจาก Phon
+- **Publish override:** เมื่อ Phon ประกาศ "เวอร์ชันนี้ publish" = คำตัดสินสุดท้าย — ข้าม Benz Critic รอบต่อไปได้ทันที (residual = note ไม่ใช่ blocker) — กฎ 21 พ.ย. 2026
 
 ## 4. ไฟล์อ้างอิงลึก (เปิดตามงาน)
 | ไฟล์ (บน /mnt/hermes-agent/) | ใช้เมื่อ |
