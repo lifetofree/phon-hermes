@@ -15,8 +15,8 @@ uv run --quiet --with pillow --with numpy --with scipy python3 qa_summary.py <fi
 |---|---|
 | `qa_summary.py` | รายงานหลัก 4 ข้อใน 1 บรรทัด: md5, ขนาด, top20 edge/spread, bot30 edge/spread, แถบเนื้อหา, จุดที่มีสีแรง |
 | `qa_cover.py` | รายงานละเอียดเป็นสาย: edge ต่อแถว, row-detrended residual (กัน gradient หลอกว่าเป็นวัตถุ), profile ทุก 32 แถว |
-| `cap_metric.py` | วัดเรขาคณิตหมวก/ปาก (ศูนย์กลางแนวนอน, % มวลแดงที่ทับแนวปาก, ระยะแนวตั้ง) + สรุป spread ทั้งชุด |
-| `cap_check3.py` | วัดช่องขาวหน้าผากระหว่างขอบหมวกกับแว่น (ช่องเปิดหน้าหมวก) + overlap หมวกกับแว่น |
+| `cap_metric.py` | **v2**: วัดเรขาคณิตหมวก/ปาก/แว่น + EXACT facts (red_left_of_beak / red_over_beak_rows / red_over_glasses / red_right_of_beak ด้วยแดงเข้ม r−g>140 ที่ไม่จับปากส้ม) + แยกช่องขาวหน้าหมวกว่าเป็นสเปกคูลาร์หรือช่องเปิด (วัด red-cover รอบ 4 ด้าน + width-by-row) |
+| `cap_check3.py` | **v2**: ช่องขาวหน้าผากระหว่างหมวกกับแว่น — แก้การหาแว่นเป็น union ของ dark components ทุกก้อนในบริเวณหน้า (เดิมใช้ก้อนเดียว ≥300px ทำให้ master 70095fbc ที่แว่นเป็น 2 เลนส์รายงาน "glasses not found") |
 | `cube_count.py` | นับ component สีเขียว (กล่อง) และหาห่วงเหลือง (วงที่มีรูข้างใน) พร้อม bbox |
 | `text_check.py` | ค้นหา component เล็กสีเข้มที่มี edge สูง = ตัวอักษร/โลโก้ที่อาจหลุด |
 | `compose2.py` | canvas surgery: ฟาดสีสะท้อนให้จาง + สร้างพื้น glossy ใหม่ใต้แนว 70% (ไม่กิน GPU) |
