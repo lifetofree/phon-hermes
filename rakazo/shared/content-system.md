@@ -35,5 +35,6 @@ Idea Keeper (การ์ดไอเดีย สถานะ New) → **Phon p
 - **Content Drafting** = PL, Adduck Writer, Benz Critic, Image Gen (สายบทความ)
 - **Product Production** = PL, Adduck Writer, Design Keeper, Image Gen (สาย product/ebook)
 - **Book Management** = Chief, Book Keeper — Draft critic ถูกยุบ (subset ซ้ำ; งานตรวจอยู่ที่ Benz Critic โดยตรง)
+- **Research** = Research Scout (เว็บ→Knowledge Base), Research Distiller (คลิป YouTube→YouTube Library) — ห้องรับงานวิจัยตรงจาก Phon แบ่งตาม resource
 - Research (IK/RD/RS) + Chief ไม่นั่งห้องผลิตแล้ว — ทำงานผ่านแชทตัวเอง/การ์ด/บรีฟ (ลด context noise)
 - backup โครงเดิม: ตาราง _chat_groups_backup_20261121 / _chat_group_members_backup_20261121
