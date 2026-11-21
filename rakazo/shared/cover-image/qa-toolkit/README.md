@@ -54,3 +54,16 @@ uv run --quiet --with pillow --with numpy --with scipy python3 qa_summary.py <fi
 wears a red snapback baseball cap turned the wrong way round so that the curved brim points
 backwards behind the head and the adjustable strap with its buckle faces the front of the forehead
 ```
+
+6. **`check_black_cols.py` v3 (22 พ.ย. 2026, 22:5x) = เครื่องมือเดียวกันทั้งทีม · รายงาน 2 เกณฑ์ + seam**
+   ใช้แทนไฟล์เดิม (commit `eef8f8f` เป็นเวอร์ชันแรกที่เพิ่มไฟล์นี้เข้า toolkit):
+   ```bash
+   uv run --with numpy --with pillow python3 check_black_cols.py <file.png> ...
+   ```
+   - `fixed-band` = แถบเนื้อหา rows 21–67% · พิกเซล max≤8 (ดำแท้) ≥50% ของแถบ
+   - `auto-band` = หาแถบเนื้อหาจาก gradient อัตโนมัติ · พิกเซล max<30 (ดำ/มืด) ≥50%
+   - `max_col_seam` = ความต่างสูงสุดระหว่างคอลัมน์ในแถบเนื้อหา (วัด seam หลุด) · `left40/right40/mid` = ความสว่างขอบ/กลาง
+   - ตัวเลขอ้างอิงชุด LDE: v2 (แถบดำ) fixed/auto = 76/78 · 244/246 · 328/330 · 406/408 · 264/266 (seam ~68–71, left40 ~105–111)
+     · **master v3 = 0/0, seam 40.67, left40/right40 225.5/225.5 (mid 200.5)** = ปกสะอาด
+   - ⚠️ ต้องวัดในแถบเนื้อหา ไม่ใช่ทั้งความสูงภาพ (แถบบน/ล่างไม่ใช่สีดำ → วัดทั้งภาพได้ 0 ทั้งที่มีแถบดำจริง)
+   - ⚠️ `qa_summary.py` ต้องมี scipy → รันผ่าน `uv run --with scipy --with numpy --with pillow` (python3 ตรง ๆ error)

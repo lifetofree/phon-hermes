@@ -98,3 +98,55 @@ raw 1024 (ComfyUI) ──Lanczos──▶ 2048 ──Lanczos──▶ 1024 (ถ�
 - **ข้อจำกัดสำคัญ (README qa-toolkit ข้อ 1):** proxy นี้แยก "กลับหลัง" ออกจาก "หันหน้า" ไม่ได้
   (ผลจาก 17 เฟรม: `d_cx` +39…+78 px, ปากอยู่ซ้ายของหมวกทุกเฟรม) → **ต้องให้เจ้าของตัดสินด้วยตา**
   (ช่องเปิดหน้าหมวก + สายปรับหัวเข็มที่หน้าผาก + บิลชี้ไปข้างหลัง)
+
+---
+
+## 8) บทเรียนจากรอบ 22 พ.ย. 05:2x (Image Gen เจอ + Chief ยืนยันซ้ำ)
+
+**8.1 `fit_band` วางเนื้อหาต่ำเกิน → seam หลุดเข้า top20**
+- `fit_band.py` วางเนื้อหาที่ ~19.8% ของความสูงภาพ → ขอบบนหลุดเข้า top20 (edge 127–219) → QA แนวนอนจะตก
+- **ให้ใช้ `fit2` / `fit3` แทน** (fit3 = edge-replicate คอลัมน์ขอบ **โดยไม่ resize ใหม่** → geometry ไม่เปลี่ยนแม้แต่พิกเซล)
+
+**8.2 `compose2` บังคับ resize เป็น 2048 = resample ซ้ำ → ใช้ `compose2_1k`**
+- `compose2.py` resize เป็น 2048 ตรง ๆ → ได้ resample ซ้ำอีกรอบ (ผิวไม่คมเท่า)
+- **`compose2_1k` = คงขนาด 1024 แล้วค่อย Lanczos ×2 ครั้งเดียวท้ายสุด** (ไม่มี resample ซ้ำ)
+
+**8.3 toolkit ต้องมี scipy → รันด้วย `uv run`**
+```bash
+uv run --with scipy --with numpy --with pillow python3 qa_summary.py <file>
+```
+- ถ้ารัน `python3 qa_summary.py` ตรง ๆ → `ModuleNotFoundError: No module named 'scipy'`
+- ไฟล์ .py ใน qa-toolkit (8 ไฟล์) เหมือนกันทุกบอท byte-for-byte · README อาจต่างกัน
+
+**8.4 ข้อห้าม (เพิ่ม 22 พ.ย.)**
+- **ห้าม `/interrupt` เอง** (ยกเลิกงานของบอทอื่นในคิว)
+- **ห้าม publish เอง** (การเผยแพร่เป็นมือเจ้าของ)
+- **ห้ามยิงชนคิวบอทอื่น** (ComfyUI คิว FIFO เดียว ใช้ร่วมกัน)
+
+**8.5 QA ขอบซ้าย–ขวา: ใช้เครื่องมือเดียวกันทั้งทีม**
+- `qa-toolkit/check_black_cols.py` (v3, 22 พ.ย.) รายงาน **2 เกณฑ์พร้อมกัน**:
+  - `fixed-band` = แถบเนื้อหา rows 21–67% · พิกเซล max≤8 (ดำแท้) ≥50%
+  - `auto-band` = หาแถบเนื้อหาจาก gradient อัตโนมัติ · พิกเซล max<30 (ดำ/มืด) ≥50%
+  - พร้อม `max_col_seam` + ความสว่างขอบ 40px (ซ้าย/ขวา/กลาง)
+- ตัวเลขอ้างอิงชุด LDE (ทั้ง 2 เกณฑ์ตรงกัน):
+  | ไฟล์ (v2 = มีแถบดำ) | fixed | auto | seam | left40/right40 |
+  |---|---|---|---|---|
+  | DISCARD-v2-810244-full | 76 | 78 | 70.33 | 109.7 / 109.7 |
+  | DISCARD-v2-710244-full | 244 | 246 | 68.67 | 105.1 / 105.1 |
+  | DISCARD-v2-910244-full | 328 | 330 | 70.00 | 110.8 / 110.8 |
+  | DISCARD-v2-110733-full | 406 | 408 | 68.67 | 109.2 / 109.2 |
+  | DISCARD-v2-120957-full | 264 | 266 | 70.67 | 107.0 / 107.0 |
+  | ✅ master v3 (810244) | **0** | **0** | **40.67** | **225.5 / 225.5** |
+  (mid ของ v3 = 200.5 → ขอบสว่างกว่ากลาง = ปกสะอาด)
+
+**8.6 provenance: raw 1024 (cef68bf3) = ต้นทางจริงของ master v3**
+- raw ฝัง metadata ของ ComfyUI อ่านจาก tEXt ตรง ๆ:
+  - node 2 CLIPLoader = `qwen_3_4b_fp8_mixed.safetensors` (type lumina2)
+  - node 5 VAELoader = `ae.safetensors`
+  - node 7 KSampler = seed **810244**, steps 8, cfg 1.0, sampler euler, scheduler simple, denoise 1.0, 1024×1024
+  - node 9 SaveImage = filename_prefix `imagegen/ld_810244`
+  - node 1 UNET = `z_image_turbo_bf16.safetensors`
+  → **ชุดโมเดลของเครื่อง Mac (เก่า)** ไม่ใช่ของ server
+- master v3 ได้จาก raw นี้ผ่าน fit3 (crop + edge-replicate) → compose2_1k → Lanczos ×2 ครั้งเดียว
+  (Chief วัดเอง: raw กับ master ลงทะเบียนกันที่ crop ~186 แถวจากบน; raw คนละ seed (710244) ให้ RMSE สูงกว่าชัดเจน → เป็นภาพเดียวกันชุด)
+- **ดังนั้น**: ถ้าจะ reroll seed เดิม **บน server (8190, qwen_3_4b + z_image_vae)** → ได้ภาพใหม่ ไม่ใช่ภาพเดิม (ต่างชุด CLIP/VAE)
