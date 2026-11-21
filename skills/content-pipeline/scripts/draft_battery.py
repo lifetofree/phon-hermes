@@ -27,15 +27,22 @@ def strip_header(raw: str) -> str:
 
 
 def thai_lookahead_count(text: str, word: str) -> int:
-    # 'พร' must not count inside 'พรอ่าน' etc.; 'เรา' inside 'เราจะ' etc. —
-    # only Thai VOWEL MARKERS follow the base word in these pronouns, so the
-    # lookahead blocks consonant-starting syllables (e.g. พร+อ is a real hit).
-    return len(re.findall(re.escape(word) + r"(?![ก-ฮ])", text))
+    # 'เรา' is a standalone pronoun in Thai — count every occurrence
+    # (covers possessives such as 'ของเรากระโดด').
+    if word == "เรา":
+        return len(re.findall(re.escape(word), text))
+    # 'พร' must not count inside 'เพราะ' / 'พร้อม' / 'สมพร': exclude a hit when
+    # a Thai consonant precedes it or when any Thai character follows it
+    # (a real standalone 'พร' is followed by space / punctuation / end).
+    return len(re.findall(r"(?<![\u0E01-\u0E2E])" + re.escape(word) + r"(?![\u0E00-\u0E7F])", text))
 
 
-def codepoint_scan(text: str) -> dict:
+def codepoint_scan(text: str, extra: str = "") -> dict:
     odd = {}
+    extra_set = set(extra)
     for ch in text:
+        if ch in extra_set:
+            continue
         o = ord(ch)
         if 0x0E00 <= o <= 0x0E7F:  # Thai block
             continue
@@ -52,6 +59,8 @@ def main() -> int:
     ap.add_argument("draft")
     ap.add_argument("--cut", default="", help="comma-separated zero-count terms")
     ap.add_argument("--expect-keep", default="", help="comma-separated terms to report without failing")
+    ap.add_argument("--allow-codepoints", default="",
+                    help="extra characters allowed by the codepoint scan, e.g. '$%%' for fact-explainer lane")
     args = ap.parse_args()
 
     try:
@@ -65,10 +74,13 @@ def main() -> int:
 
     print(f"wc-w (file incl. header): {len(raw.split())}")
     print(f"wc-w (body):              {len(body.split())}")
-    print(f"H1: {len(re.findall(r'(?m)^# ', body))}  H2: {len(re.findall(r'(?m)^## ', body))}  "
-          f"H3: {len(re.findall(r'(?m)^### ', body))}")
-    print(f"beat dots: {len(re.findall(r'(?m)^\.$', body))}  "
-          f"blockquotes: {len(re.findall(r'(?m)^> ', body))}")
+    n_h1 = len(re.findall(r"(?m)^# ", body))
+    n_h2 = len(re.findall(r"(?m)^## ", body))
+    n_h3 = len(re.findall(r"(?m)^### ", body))
+    n_dots = len(re.findall(r"(?m)^\.$", body))
+    n_quotes = len(re.findall(r"(?m)^> ", body))
+    print(f"H1: {n_h1}  H2: {n_h2}  H3: {n_h3}")
+    print(f"beat dots: {n_dots}  blockquotes: {n_quotes}")
 
     pronouns = {}
     for w in ("พร", "เรา", "คุณ", "คับ", "ผม"):
@@ -91,7 +103,7 @@ def main() -> int:
     for term in [t.strip() for t in args.expect_keep.split(",") if t.strip()]:
         print(f"keep-count {term!r}: {len(re.findall(re.escape(term), body))}")
 
-    odd = codepoint_scan(body)
+    odd = codepoint_scan(body, extra=args.allow_codepoints)
     if odd:
         issues.append(f"odd codepoints: {odd}")
     adj = re.findall(r"[ก-๙][A-Za-z]|[A-Za-z][ก-๙]", body)
