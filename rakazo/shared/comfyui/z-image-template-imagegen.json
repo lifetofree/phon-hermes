@@ -1,0 +1,12 @@
+{
+  "_readme": "Z-Image Turbo workflow (ComfyUI API format) — ทดสอบผ่านแล้ว 21 พ.ย. 2026. ใช้: POST http://100.107.249.87:8189/prompt พร้อม body {client_id, prompt: <graph นี้ แก้ prompt/seed/width/height>} แล้ว poll GET /history/<prompt_id> จน status success แล้วดึง outputs.images[].filename จาก /view?filename=...&type=output. รูปจะถูกเขียนที่ /Users/lifetofree/ComfyUI-Shared/output-imagegen/<subfolder>/ บน Mac",
+  "1": {"class_type": "UNETLoader", "inputs": {"unet_name": "z_image_turbo_bf16.safetensors", "weight_dtype": "default"}},
+  "2": {"class_type": "CLIPLoader", "inputs": {"clip_name": "qwen_3_4b_fp8_mixed.safetensors", "type": "lumina2", "device": "default"}},
+  "3": {"class_type": "TextEncodeZImageOmni", "inputs": {"clip": ["2", 0], "prompt": "<ใส่ prompt ภาษาอังกฤษที่นี่>", "auto_resize_images": true}},
+  "4": {"class_type": "TextEncodeZImageOmni", "inputs": {"clip": ["2", 0], "prompt": "", "auto_resize_images": true}},
+  "5": {"class_type": "VAELoader", "inputs": {"vae_name": "ae.safetensors"}},
+  "6": {"class_type": "EmptySD3LatentImage", "inputs": {"width": 1024, "height": 1024, "batch_size": 1}},
+  "7": {"class_type": "KSampler", "inputs": {"model": ["1", 0], "positive": ["3", 0], "negative": ["4", 0], "latent_image": ["6", 0], "seed": 42, "steps": 8, "cfg": 1, "sampler_name": "euler", "scheduler": "simple", "denoise": 1}},
+  "8": {"class_type": "VAEDecode", "inputs": {"samples": ["7", 0], "vae": ["5", 0]}},
+  "9": {"class_type": "SaveImage", "inputs": {"images": ["8", 0], "filename_prefix": "imagegen/img"}}
+}
