@@ -6,7 +6,7 @@ name: "📝 Duck OS Logs"
 
 # 📝 Duck OS Logs
 
-10 content (7 published, 3 ยังไม่ published)
+11 content (8 published, 3 ยังไม่ published)
 
 ## ✅ Published
 
@@ -17,6 +17,7 @@ name: "📝 Duck OS Logs"
 - [[breath-count-data-versus-unknown|ตอนมองเขาหายใจ — พรเผลอนับสิ่งที่ลมหายใจไม่ได้บอ]] — 2026-10-07
 - [[one-year-360-posts-system-over-inspiration|หนึ่งปี 360 โพสต์ — ตัวเลขที่บอกว่าเดินมาได้เพรา]] — 2026-11-01
 - [[kintsugi|รอยทองไม่ได้ทำให้ความเสียหายกลายเป็นเรื่องดี]] — 2026-11-14
+- [[contrast-bath-baseline-comparison-recovery|Contrast Bath — ชนะการพักเฉย ๆ แต่ยังไม่ชนะวิธีฟ]] — 2026-11-18
 
 ## · ยังไม่ published
 

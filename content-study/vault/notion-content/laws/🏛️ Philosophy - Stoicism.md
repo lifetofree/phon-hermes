@@ -6,7 +6,7 @@ name: "🏛️ Philosophy / Stoicism"
 
 # 🏛️ Philosophy / Stoicism
 
-14 content (14 published, 0 ยังไม่ published)
+15 content (15 published, 0 ยังไม่ published)
 
 ## ✅ Published
 
@@ -24,3 +24,4 @@ name: "🏛️ Philosophy / Stoicism"
 - [[temporal-attention-countdown-presence|เวลาของเรา ก็กำลังนับถอยหลังอยู่เช่นกัน]] — 2026-11-12
 - [[kintsugi|รอยทองไม่ได้ทำให้ความเสียหายกลายเป็นเรื่องดี]] — 2026-11-14
 - [[event-vs-story-stop-repeating-pain|ชีวิตมันยาก หรือเรากำลังทำให้มันยากขึ้นด้วยความค]] — 2026-11-14
+- [[sian-mi-12-parts-life-investing-opb-gang4|สรุป 12 PARTS การใช้ชีวิต และการลงทุน ที่ได้จากเ]] — 2026-11-15

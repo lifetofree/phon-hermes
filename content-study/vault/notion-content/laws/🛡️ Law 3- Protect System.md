@@ -6,7 +6,7 @@ name: "🛡️ Law 3: Protect System"
 
 # 🛡️ Law 3: Protect System
 
-166 content (160 published, 6 ยังไม่ published)
+174 content (166 published, 8 ยังไม่ published)
 
 ## ✅ Published
 
@@ -169,7 +169,13 @@ name: "🛡️ Law 3: Protect System"
 - [[big-five-ocean-spectrum-over-labels|Big Five — แบบจำลองบุคลิกภาพที่วัดคนเป็นมาตราส่ว]] — 2026-11-13
 - [[kintsugi|รอยทองไม่ได้ทำให้ความเสียหายกลายเป็นเรื่องดี]] — 2026-11-14
 - [[event-vs-story-stop-repeating-pain|ชีวิตมันยาก หรือเรากำลังทำให้มันยากขึ้นด้วยความค]] — 2026-11-14
+- [[sian-mi-12-parts-life-investing-opb-gang4|สรุป 12 PARTS การใช้ชีวิต และการลงทุน ที่ได้จากเ]] — 2026-11-15
 - [[federer-on-equity-ownership-over-fees|Federer เลือกถือหุ้นใน On — จากค่าตัวนักกีฬา สู่]] — 2026-11-16
+- [[cognitive-reserve-brain-network-redundancy|สมองมีร่องรอยอัลไซเมอร์ แต่ทำไมบางคนยังไม่มีอากา]] — 2026-11-17
+- [[contrast-bath-baseline-comparison-recovery|Contrast Bath — ชนะการพักเฉย ๆ แต่ยังไม่ชนะวิธีฟ]] — 2026-11-18
+- [[rakazo-4-layer-integration-vs-active-config|ต่อแอปกับ Rakazo — ระบบรองรับ 4 ชั้น แต่บนเครื่อ]] — 2026-11-19
+- [[rakazo-self-hosted-ai-agent-governance|Rakazo บนเครื่องเราเอง — ติดตั้ง AI Agent ได้แล้]] — 2026-11-19
+- [[grok-bot-vs-rakazo-cloud-vs-self-hosted|Grok Bot กับ Rakazo — AI Teammates แนวคิดใกล้กัน]] — 2026-11-20
 
 ## · ยังไม่ published
 
@@ -177,5 +183,7 @@ name: "🛡️ Law 3: Protect System"
 - [[context-switching-hidden-cost|ต้นทุนที่มองไม่เห็นของการ 'โดนทัก': ทำไมคำว่า "ข]] — 2026-05-14
 - [[4-background-apps-memory-leak-brain-ram|แฉ 4 Background Apps เบื้องหลังที่ทำ Memory Leak]] — 2026-06-03
 - [[github-dependabot-fix-dependencies-deploy-crash|🛠️ GitHub Dependabot ตัวช่วยดูแล Dependencies เว]] — 2026-06-18
+- [[rakazo-notion-second-brain-audit-leaks|Rakazo ต่อ Notion เป็น second brain: 4 วันแรกได้]] — 2026-11-21
+- [[observational-learning-reproduction-gap|ดูเป็น ไม่ได้แปลว่าทำได้]] — 2026-11-25
 - [[inner-citadel-protect-system|"ป้อมปราการภายใน" วิธีปกป้องแบตเตอรี่สมองจากดราม]] — no date
 - [[golden-window-dopamine-protection|ตื่นมาไถมือถือ = ทำลายแบตเตอรี่สมอง ทำไมคุณถึงเส]] — no date

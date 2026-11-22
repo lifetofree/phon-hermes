@@ -6,7 +6,7 @@ name: "🛠️ Decision Protocol"
 
 # 🛠️ Decision Protocol
 
-54 content (54 published, 0 ยังไม่ published)
+60 content (59 published, 1 ยังไม่ published)
 
 ## ✅ Published
 
@@ -63,4 +63,13 @@ name: "🛠️ Decision Protocol"
 - [[nvidia-openshell-cncf-open-source-governance|Nvidia ส่ง OpenShell ให้ CNCF ดูแลแล้ว — แต่อยู่]] — 2026-11-11
 - [[mistral-trillion-open-weights-access-vs-verification|Mistral เปิด Open Weight โมเดลล้านล้านพารามิเตอร]] — 2026-11-11
 - [[big-five-ocean-spectrum-over-labels|Big Five — แบบจำลองบุคลิกภาพที่วัดคนเป็นมาตราส่ว]] — 2026-11-13
+- [[sian-mi-12-parts-life-investing-opb-gang4|สรุป 12 PARTS การใช้ชีวิต และการลงทุน ที่ได้จากเ]] — 2026-11-15
 - [[federer-on-equity-ownership-over-fees|Federer เลือกถือหุ้นใน On — จากค่าตัวนักกีฬา สู่]] — 2026-11-16
+- [[contrast-bath-baseline-comparison-recovery|Contrast Bath — ชนะการพักเฉย ๆ แต่ยังไม่ชนะวิธีฟ]] — 2026-11-18
+- [[rakazo-4-layer-integration-vs-active-config|ต่อแอปกับ Rakazo — ระบบรองรับ 4 ชั้น แต่บนเครื่อ]] — 2026-11-19
+- [[rakazo-self-hosted-ai-agent-governance|Rakazo บนเครื่องเราเอง — ติดตั้ง AI Agent ได้แล้]] — 2026-11-19
+- [[grok-bot-vs-rakazo-cloud-vs-self-hosted|Grok Bot กับ Rakazo — AI Teammates แนวคิดใกล้กัน]] — 2026-11-20
+
+## · ยังไม่ published
+
+- [[rakazo-notion-second-brain-audit-leaks|Rakazo ต่อ Notion เป็น second brain: 4 วันแรกได้]] — 2026-11-21

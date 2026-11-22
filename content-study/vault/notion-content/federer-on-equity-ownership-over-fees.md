@@ -60,4 +60,4 @@ Leverage — นำความเชี่ยวชาญ ชื่อเสี
 #Adduckivity #DuckOS #NeuroDivergent #Business #Ownership #Investing
 ===========
 
-*Synced: 2026-11-15 10:30 +07 · [Notion](https://www.notion.so/418df8d88d8c80939708c401417da039) · ✅ Published*
+*Synced: 2026-11-22 10:30 +07 · [Notion](https://www.notion.so/418df8d88d8c80939708c401417da039) · ✅ Published*

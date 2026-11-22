@@ -6,7 +6,7 @@ name: "LocalLLM"
 
 # LocalLLM
 
-9 content (9 published, 0 ยังไม่ published)
+10 content (10 published, 0 ยังไม่ published)
 
 ## ✅ Published
 
@@ -19,3 +19,4 @@ name: "LocalLLM"
 - [[lm-studio-bionic-local-agent|Bionic — agent ตัวแรกที่ code ของคุณไม่เคยออกจาก]] — 2026-09-17
 - [[tech-llamacpp-infra-engine|27B ที่เคยต้องพึ่ง datacenter วันนี้รันในห้องนอน]] — 2026-09-21
 - [[hardware-constraints-over-ideal-run|32GB ไม่พออยู่หลายคืน — แต่เครื่องนี้กลับรันมาหล]] — 2026-10-08
+- [[rakazo-self-hosted-ai-agent-governance|Rakazo บนเครื่องเราเอง — ติดตั้ง AI Agent ได้แล้]] — 2026-11-19

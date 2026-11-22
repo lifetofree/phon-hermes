@@ -6,7 +6,7 @@ name: "NeuroDivergent"
 
 # NeuroDivergent
 
-139 content (135 published, 4 ยังไม่ published)
+148 content (142 published, 6 ยังไม่ published)
 
 ## ✅ Published
 
@@ -143,8 +143,15 @@ name: "NeuroDivergent"
 - [[big-five-ocean-spectrum-over-labels|Big Five — แบบจำลองบุคลิกภาพที่วัดคนเป็นมาตราส่ว]] — 2026-11-13
 - [[kintsugi|รอยทองไม่ได้ทำให้ความเสียหายกลายเป็นเรื่องดี]] — 2026-11-14
 - [[event-vs-story-stop-repeating-pain|ชีวิตมันยาก หรือเรากำลังทำให้มันยากขึ้นด้วยความค]] — 2026-11-14
+- [[feedback-loop-closed-system-telemetry-ai|ปล่อยยานขึ้นไปได้ แล้วเราเรียนรู้อะไรจากการเดินท]] — 2026-11-15
+- [[sian-mi-12-parts-life-investing-opb-gang4|สรุป 12 PARTS การใช้ชีวิต และการลงทุน ที่ได้จากเ]] — 2026-11-15
 - [[focus-sprint-bounded-output-definition-of-done|ทำงานทั้งวัน แต่ทำไมยังรู้สึกว่าไม่มีอะไรเสร็จ?]] — 2026-11-15
 - [[federer-on-equity-ownership-over-fees|Federer เลือกถือหุ้นใน On — จากค่าตัวนักกีฬา สู่]] — 2026-11-16
+- [[cognitive-reserve-brain-network-redundancy|สมองมีร่องรอยอัลไซเมอร์ แต่ทำไมบางคนยังไม่มีอากา]] — 2026-11-17
+- [[contrast-bath-baseline-comparison-recovery|Contrast Bath — ชนะการพักเฉย ๆ แต่ยังไม่ชนะวิธีฟ]] — 2026-11-18
+- [[rakazo-4-layer-integration-vs-active-config|ต่อแอปกับ Rakazo — ระบบรองรับ 4 ชั้น แต่บนเครื่อ]] — 2026-11-19
+- [[grok-bot-vs-rakazo-cloud-vs-self-hosted|Grok Bot กับ Rakazo — AI Teammates แนวคิดใกล้กัน]] — 2026-11-20
+- [[ai-team-workflow-chief-bot-handoff|คนสั่งงานครั้งเดียว — แล้ว AI ทั้งทีมทำงานต่อกัน]] — 2026-11-20
 
 ## · ยังไม่ published
 
@@ -152,3 +159,5 @@ name: "NeuroDivergent"
 - [[context-switching-hidden-cost|ต้นทุนที่มองไม่เห็นของการ 'โดนทัก': ทำไมคำว่า "ข]] — 2026-05-14
 - [[brain-runtime-error-404-cache-cleaner|ทำไมตอนบ่ายถึงชอบขึ้น Error 404 (หาไม่เจอ) และวิ]] — 2026-05-25
 - [[4-background-apps-memory-leak-brain-ram|แฉ 4 Background Apps เบื้องหลังที่ทำ Memory Leak]] — 2026-06-03
+- [[rakazo-notion-second-brain-audit-leaks|Rakazo ต่อ Notion เป็น second brain: 4 วันแรกได้]] — 2026-11-21
+- [[observational-learning-reproduction-gap|ดูเป็น ไม่ได้แปลว่าทำได้]] — 2026-11-25

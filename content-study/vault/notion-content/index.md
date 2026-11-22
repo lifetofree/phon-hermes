@@ -4,13 +4,13 @@ type: moc
 
 # Adduckivity Content — Notion publish master (synced)
 
-274 content · 254 published · synced 2026-11-15 10:30
+284 content · 262 published · synced 2026-11-22 10:30
 
 ## ตามสถานะ
 
-- ✅ Published: 254
-- 🟦 Ready: 10
-- 🟨 Drafting: 5
+- ✅ Published: 262
+- 🟦 Ready: 11
+- 🟨 Drafting: 6
 - ⬜ Idea: 4
 - ไม่ระบุ: 1
 

@@ -6,7 +6,7 @@ name: "AI"
 
 # AI
 
-19 content (19 published, 0 ยังไม่ published)
+20 content (20 published, 0 ยังไม่ published)
 
 ## ✅ Published
 
@@ -29,3 +29,4 @@ name: "AI"
 - [[small-models-vs-giant-task-architecture|5 ใน 7 โมเดลเล็กชนะงานของตัวใหญ่ด้วยตัวเลข — อีก]] — 2026-11-08
 - [[nvidia-openshell-cncf-open-source-governance|Nvidia ส่ง OpenShell ให้ CNCF ดูแลแล้ว — แต่อยู่]] — 2026-11-11
 - [[mistral-trillion-open-weights-access-vs-verification|Mistral เปิด Open Weight โมเดลล้านล้านพารามิเตอร]] — 2026-11-11
+- [[feedback-loop-closed-system-telemetry-ai|ปล่อยยานขึ้นไปได้ แล้วเราเรียนรู้อะไรจากการเดินท]] — 2026-11-15

@@ -6,7 +6,7 @@ name: "⚖️ Decision Protocols"
 
 # ⚖️ Decision Protocols
 
-22 content (22 published, 0 ยังไม่ published)
+23 content (23 published, 0 ยังไม่ published)
 
 ## ✅ Published
 
@@ -32,3 +32,4 @@ name: "⚖️ Decision Protocols"
 - [[ai-first-step-cognitive-drift-jedi-sith|เจไดไม่ได้กลายเป็นซิธในวันเดียว]] — 2026-10-26
 - [[stress-deconstruction-dichotomy-of-control|เครียดมาแล้ว — แต่เครียดกับอะไร]] — 2026-10-27
 - [[blind-spots-counting-fallacy-margin-of-safety|คนที่ Blind Spot น้อยชนะ — แต่เราอาจนับของตัวเอง]] — 2026-11-03
+- [[grok-bot-vs-rakazo-cloud-vs-self-hosted|Grok Bot กับ Rakazo — AI Teammates แนวคิดใกล้กัน]] — 2026-11-20

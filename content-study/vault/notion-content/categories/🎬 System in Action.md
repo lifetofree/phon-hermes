@@ -6,7 +6,7 @@ name: "🎬 System in Action"
 
 # 🎬 System in Action
 
-14 content (14 published, 0 ยังไม่ published)
+18 content (17 published, 1 ยังไม่ published)
 
 ## ✅ Published
 
@@ -24,3 +24,10 @@ name: "🎬 System in Action"
 - [[small-models-vs-giant-task-architecture|5 ใน 7 โมเดลเล็กชนะงานของตัวใหญ่ด้วยตัวเลข — อีก]] — 2026-11-08
 - [[ai-agent-delegation-approval-gates|มอบงานทั้งวันให้ AI — จุดอนุมัติที่ดี ต้องทำให้เ]] — 2026-11-09
 - [[gpt6-cyber-discovery-bottleneck-triage|GPT-6 Cyber — โมเดลที่ค้นพบช่องโหว่ได้เป็นชุด แล]] — 2026-11-09
+- [[rakazo-4-layer-integration-vs-active-config|ต่อแอปกับ Rakazo — ระบบรองรับ 4 ชั้น แต่บนเครื่อ]] — 2026-11-19
+- [[rakazo-self-hosted-ai-agent-governance|Rakazo บนเครื่องเราเอง — ติดตั้ง AI Agent ได้แล้]] — 2026-11-19
+- [[ai-team-workflow-chief-bot-handoff|คนสั่งงานครั้งเดียว — แล้ว AI ทั้งทีมทำงานต่อกัน]] — 2026-11-20
+
+## · ยังไม่ published
+
+- [[rakazo-notion-second-brain-audit-leaks|Rakazo ต่อ Notion เป็น second brain: 4 วันแรกได้]] — 2026-11-21

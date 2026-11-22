@@ -6,7 +6,7 @@ name: "🛠️ Productivity Hacks"
 
 # 🛠️ Productivity Hacks
 
-28 content (27 published, 1 ยังไม่ published)
+29 content (27 published, 2 ยังไม่ published)
 
 ## ✅ Published
 
@@ -41,3 +41,4 @@ name: "🛠️ Productivity Hacks"
 ## · ยังไม่ published
 
 - [[context-switching-hidden-cost|ต้นทุนที่มองไม่เห็นของการ 'โดนทัก': ทำไมคำว่า "ข]] — 2026-05-14
+- [[observational-learning-reproduction-gap|ดูเป็น ไม่ได้แปลว่าทำได้]] — 2026-11-25

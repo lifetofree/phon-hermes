@@ -6,7 +6,7 @@ name: "🔥 Law 2: Action > Motivation"
 
 # 🔥 Law 2: Action > Motivation
 
-34 content (32 published, 2 ยังไม่ published)
+35 content (32 published, 3 ยังไม่ published)
 
 ## ✅ Published
 
@@ -45,5 +45,6 @@ name: "🔥 Law 2: Action > Motivation"
 
 ## · ยังไม่ published
 
+- [[observational-learning-reproduction-gap|ดูเป็น ไม่ได้แปลว่าทำได้]] — 2026-11-25
 - [[myth-of-motivation-automate-the-trivial|อยากพังให้พึ่ง "แรงฮึด" อยากรอดให้สร้าง "ระบบ" (]] — no date
 - [[decision-fatigue-brain-battery-drain|"Decision Fatigue" ภัยเงียบที่สูบแบตเตอรี่สมองคุ]] — no date

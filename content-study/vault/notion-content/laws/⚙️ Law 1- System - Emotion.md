@@ -6,7 +6,7 @@ name: "⚙️ Law 1: System > Emotion"
 
 # ⚙️ Law 1: System > Emotion
 
-161 content (155 published, 6 ยังไม่ published)
+168 content (160 published, 8 ยังไม่ published)
 
 ## ✅ Published
 
@@ -165,12 +165,19 @@ name: "⚙️ Law 1: System > Emotion"
 - [[event-vs-story-stop-repeating-pain|ชีวิตมันยาก หรือเรากำลังทำให้มันยากขึ้นด้วยความค]] — 2026-11-14
 - [[focus-sprint-bounded-output-definition-of-done|ทำงานทั้งวัน แต่ทำไมยังรู้สึกว่าไม่มีอะไรเสร็จ?]] — 2026-11-15
 - [[federer-on-equity-ownership-over-fees|Federer เลือกถือหุ้นใน On — จากค่าตัวนักกีฬา สู่]] — 2026-11-16
+- [[cognitive-reserve-brain-network-redundancy|สมองมีร่องรอยอัลไซเมอร์ แต่ทำไมบางคนยังไม่มีอากา]] — 2026-11-17
+- [[contrast-bath-baseline-comparison-recovery|Contrast Bath — ชนะการพักเฉย ๆ แต่ยังไม่ชนะวิธีฟ]] — 2026-11-18
+- [[rakazo-4-layer-integration-vs-active-config|ต่อแอปกับ Rakazo — ระบบรองรับ 4 ชั้น แต่บนเครื่อ]] — 2026-11-19
+- [[rakazo-self-hosted-ai-agent-governance|Rakazo บนเครื่องเราเอง — ติดตั้ง AI Agent ได้แล้]] — 2026-11-19
+- [[grok-bot-vs-rakazo-cloud-vs-self-hosted|Grok Bot กับ Rakazo — AI Teammates แนวคิดใกล้กัน]] — 2026-11-20
 
 ## · ยังไม่ published
 
 - [[system-failure-not-lazy|คุณไม่ได้ขี้เกียจ แต่เครื่องมันค้าง]] — 2026-05-11
 - [[brain-runtime-error-404-cache-cleaner|ทำไมตอนบ่ายถึงชอบขึ้น Error 404 (หาไม่เจอ) และวิ]] — 2026-05-25
 - [[4-background-apps-memory-leak-brain-ram|แฉ 4 Background Apps เบื้องหลังที่ทำ Memory Leak]] — 2026-06-03
+- [[rakazo-notion-second-brain-audit-leaks|Rakazo ต่อ Notion เป็น second brain: 4 วันแรกได้]] — 2026-11-21
+- [[observational-learning-reproduction-gap|ดูเป็น ไม่ได้แปลว่าทำได้]] — 2026-11-25
 - [[golden-window-dopamine-protection|ตื่นมาไถมือถือ = ทำลายแบตเตอรี่สมอง ทำไมคุณถึงเส]] — no date
 - [[law1-system-over-emotion|Law #1: System > Emotion ทำไมคนที่รอด ถึงไม่ใช้ ]] — no date
 - [[monthly-system-audit-february-2026|Audit กุมภาพันธ์: ระบบ Duck OS ของเรา "ซิ่ง" หรื]] — no date
