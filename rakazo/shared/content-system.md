@@ -7,6 +7,17 @@
 - ทะเบียนกลาง: `/mnt/hermes-agent/content-study/index.json` (ปัจจุบัน ~597 entries: slug/title/date/status/notion id/file path)
 - ก่อนตั้งชื่อใหม่: grep ใน index.json ว่า slug/หัวข้อซ้ำไหม — ซ้ำให้ต่อยอดเป็น part/มุมใหม่ ห้ามสร้างซ้ำ
 
+## 2.1 Metadata & Content Taxonomy ทางการ (ตาม duck-os/Main_Data_for_UDO.md PART 5 — บังคับทุกชิ้น)
+- **Asset ID/Slug:** `{YYYYMMDD}-{TYPE}-{SLUG}` ตัวพิมพ์ใหญ่ เช่น 20261122-CNT-WISPR-FLOW-37DAY-USAGE
+- **Categories (เลือกจาก 8):** System Core / Decision Protocols / Survival Guide / Asset Library / Productivity Hacks / System in Action / System Awareness / Duck OS Logs
+- **Content Type:** 🔴 Core Content / 🟢 Casual Content (+ คำกำกับหัวข้อในวงเล็บ)
+- **Status:** ⬜ Idea · 🟨 Drafting · 🟧 Visualizing · 🟦 Ready · ✅ Published
+- **Law Alignment:** ⚙️ Law 1 System > Emotion · 🔥 Law 2 Action > Motivation · 🛡️ Law 3 Protect System · 🛠️ Decision Protocol · 🏛️ Philosophy/Stoicism
+- **Target Energy Level:** 🟢 G.1 · 🟡 G.2 (สั้น จบในตัว) · 🟠 G.3 (storytelling) · 🔴 Boss
+- **Excerpt:** สรุปสำหรับ social preview
+- **Hashtags:** #Adduckivity #DuckOS #NeuroDivergent + ที่เหมาะสม (IG ≤5)
+- **Cover Image:** 1080x1080 ห้ามมี Text/Logo/Headline (พรใส่เอง) · ชื่อไฟล์ `{slug}-cover-1x1.jpeg` + **Alt Text (EN)**
+- ช่องตรวจภายใน (grade history / evidence class / open findings / Notion id) เก็บคู่กันในเมตาดาต้า audit
 ## 2. หมวดหมู่ (Notion Content Drafts props)
 - **Name** = ประโยคเด็ดเป็นชื่อบท / **Topic** / **Status**: `draft` → `rewritten` → `published` (bot จบที่ draft หรือ rewritten เท่านั้น — publish โดย Phon เท่านั้น) / **Date** = วันนี้ / **Platform** / **Source** (ลิงก์ต้นข่าว)
 - **ฟอร์มตามประเภท** (อ่าน FORM SELECTOR ใน SKILL.md ก่อนเขียน): TECH v2 (tool review) / CURRENT FORM (system-mindset) / clip-summary / news-event / fact-explainer / observation
