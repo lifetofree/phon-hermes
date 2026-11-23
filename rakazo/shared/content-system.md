@@ -18,6 +18,19 @@
 - **Hashtags:** #Adduckivity #DuckOS #NeuroDivergent + ที่เหมาะสม (IG ≤5)
 - **Cover Image:** **606x370** (เปลี่ยนจาก 1080x1080 — 23 พ.ย. 2026) ห้ามมี Text/Logo/Headline (พรใส่เอง) · ชื่อไฟล์ `{slug}-cover-606x370.jpeg` + **Alt Text (EN)** · gen ผ่าน ComfyUI ใช้ 608x376 (ทวีคูณ 8) แล้ว resize เป็น 606x370 — template: shared/comfyui/z-image-template-cover-server.json
 - ช่องตรวจภายใน (grade history / evidence class / open findings / Notion id) เก็บคู่กันในเมตาดาต้า audit
+
+## Workflows — แยก 2 Lane (บังคับ — 23 พ.ย. 2026 ตามสั่ง Phon: สองสายนี้ไม่เหมือนกัน)
+**CONTENT Lane (บทความ/โพสต์ — สั้น รายวัน):**
+วัตถุดิบ: ไอเดีย/ข่าว/วิจัย (Idea, Research Scout, Distiller) → AW เขียนบทเดียวตามฟอร์มบทความ → Benz Critic เป็น gate หลัก (Benz-DNA + ledger) → Phon publish — ติดตาม: ฐาน Content Drafts (draft → rewritten → published)
+เกณฑ์ตรวจ: article criteria (คุณ 0 คับ 0 / evidence / firewall / TECH form disclaimer) + identity + draft_battery
+**PRODUCT Lane (e-book/product — ยาว หลายบท):**
+วัตถุดิบ: PRD/DIRECTIVE + Books Library + OPB 3 Laws → PL วางแผนแตกบท → AW เขียนทีละ chapter (คิวทีละชิ้น — บังคับ) → PL ตรวจด้วย ebook checklist (โครงบท/DIRECTIVE/docs จริง/แยกแพลตฟอร์ม — อยู่ใน instruction ของ PL) → Design Keeper ปก 606x370 /layout/PDF → PL รวมสถานะผลิต (ฐาน Products) → Phon อนุมัติ
+เกณฑ์ตรวจ: ebook checklist + identity + DIRECTIVE — **ห้ามใช้ article criteria ตรวจ chapter**
+กติกาข้าม lane:
+- Benz Critic ไม่ใช่ gate ของ PRODUCT Lane — ถ้าส่งให้ดู chapter ให้ตรวจแค่ภาษา/สไตล์ ห้ามตัดสินโครง (เจ้าของโครง = PL)
+- Book Keeper ติดตาม "การอ่าน" (Chapter List/INSTALLED) เท่านั้น — สถานะ "การเขียน ebook" อยู่กับ PL/ฐาน Products — ห้ามปนสองชุด
+- Chief จำแนก lane ก่อน dispatch ทุกงาน ไม่ชัดให้ถาม Phon
+- Metadata: ทั้งสอง lane ใช้ PART 5 taxonomy ร่วมกัน (Categories/Content Type/Law/Energy ต่างกันตามชิ้น)
 ## 2. หมวดหมู่ (Notion Content Drafts props)
 - **Name** = ประโยคเด็ดเป็นชื่อบท / **Topic** / **Status**: `draft` → `rewritten` → `published` (bot จบที่ draft หรือ rewritten เท่านั้น — publish โดย Phon เท่านั้น) / **Date** = วันนี้ / **Platform** / **Source** (ลิงก์ต้นข่าว)
 - **ฟอร์มตามประเภท** (อ่าน FORM SELECTOR ใน SKILL.md ก่อนเขียน): TECH v2 (tool review) / CURRENT FORM (system-mindset) / clip-summary / news-event / fact-explainer / observation
