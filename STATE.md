@@ -14,6 +14,16 @@
 - กิ่ง stock สำคัญ: กิ่ง B/C ของ #79 ([[branch-stock-79BC]] — รายงานปกติแต่ผิดปกติ / ทางไปต่อเมื่อพัง) — รอเคสจริง/owner เรียก ตาม rule 10; กิ่ง open อื่นดู vault/index.md
 - โน้ต: หมายเลข pair มี collision เดิม 1 จุด — "pair #40" ถูกใช้ซ้ำ 2 โพสต์ 10-06 (daily-repetition = #40, embrace-the-limit = #40b ใน vault)
 
+## Rakazo x 9Router fallback rule-ledger round (2026-11-23 — learn-only — folds 469-482)
+
+- Chief draft คู่ 20261123-cnt-rakazo-9router-model-fallback ลง Notion Drafts `421df8d8-8d8c-81a8-b3bc-ee925e3cc6f1` (v1 แกน "router ตัดสินใจก่อนยิง ตามเอกสาร") → พรแก้เองเพิ่มประสบการณ์จริง (ตั้งสำรองแล้วยังพัง 5-6 งาน / ยิงทีละตัวก็ยัง error / cron เช็กโควตา ปลดกฎยิงทีละงาน ยิงเต็มที่ error 4-5 งาน / token หายไปกับงานที่ไม่เสร็จ) → Benz วิจารณ์เป็น RULE-LEDGER (13 ข้อ + กฎรวม 11 + เรื่อง emotion) + พรส่ง publish ฉบับสุดท้ายมาพร้อม directive learn-only "ไม่ต้องแก้ฉบับ publish — เอาไป reverse engineer ปรับปรุง skill writing ให้เขียนเป็นน้ำเสียงพร ไม่ใช่ AI เขียน"
+- ตรวจซ้ำด้วยตัวเอง (curl live docs 23 พ.ย.): kept-facts 3 ตัว TRUE (MCP flag + เช็กสามจุด / Docker host.docker.internal+Linux bridge / 9Router auto-switch ตามเอกสารผู้ผลิต); **quote ที่โดนตัดสองก้อนมีจริงบนหน้าที่ v1 อ้าง** (rakazo.com/docs/models / 9router.wiki/guides/fallback) — Benz เช็กคนละหน้า (self-host-models / docs.9router.com); ป้าย "คู่มืออิสระของ 9Router เอง" ให้ third-party wiki = ขัดตัวเอง (จริง) — บันทึกครบใน archive header, publish ยืนตามเดิม (ฉบับโพสต์ไม่มี quote EN)
+- เกรด publish vs 13 จุดแก้ + emotion: **14/14 PASS** (ตรวจในโค้ด รายการ check ใน scratch 9router-grade.json) — publish พร้อมโพสต์; ไม่แตะ Notion (learn-only precedent แบบ left-digit)
+- archives: web-archive/20261123-rakazo-9router-fallback-{benz-rule-ledger-critique,publish,v1-chief-notion}.md
+- **folds 469-482 ลง content-pipeline:** title test-scope marker "(ยังไม่ได้ลอง)" / mechanism-gap = "เอกสารไม่ได้บอก" / quote page-verified one-hop + ป้ายแหล่ง / สามชั้นเป็นโครง (doc/eye/unknown) / คำแนะนำไม่ขัดผลที่เล่า / ledger เงื่อนไขรอบทดลอง / คำหนักตามหลักฐาน (เดียว) / แตกกรณี + กรณีที่ยังไม่รู้ / ยังไม่ได้เช็กซ้ำในสรุป / ห้ามประโยคที่ไม่ได้เจอ / modality fidelity (แทน-ต้อง) / แผนวัดได้ / **อารมณ์จากฉาก owner — กฎน้ำเสียงหลัก "ไม่ใช่ AI เขียน" (481)** / pre-flight สะกด+ซ้ำ + rule-ledger critique pattern + พร-voice truth checklist (portable spec)
+- duck-os/Rakazo_Drafting_Voice_Guide.md → v1.1: เพิ่ม §2.1 กฎรวม 13 ข้อ + exemplar lines จาก publish
+- ค้าง: หน้า Notion `421df8d8…` ยังถือ v1 Status draft (เจตนา diverge แบบ left-digit) — ถ้าพรอัปเดตหน้าเป็นฉบับ publish ค่อยจัดคู่; wp_link รอ URL
+
 ## Content workflow ปัจจุบัน (คงเดิม)
 
 - Skill หลัก: `skills/content-pipeline/SKILL.md` (items ถึง 355 — 313-316 จาก #78-#80, 317 opener-post class, 318 owner-pick-non-top-ranked-gate, 319 insight-level ladder (L1-4 ปกติ / L5-6 event-driven เฉพาะมีกลไก+เคสจริง — owner rule), 343-347 จาก #100, 348 Legibility gate + 352-355 จาก #101) + `references/pair-history.md`
