@@ -16,7 +16,7 @@
 - **Target Energy Level:** 🟢 G.1 · 🟡 G.2 (สั้น จบในตัว) · 🟠 G.3 (storytelling) · 🔴 Boss
 - **Excerpt:** สรุปสำหรับ social preview
 - **Hashtags:** #Adduckivity #DuckOS #NeuroDivergent + ที่เหมาะสม (IG ≤5)
-- **Cover Image:** 1080x1080 ห้ามมี Text/Logo/Headline (พรใส่เอง) · ชื่อไฟล์ `{slug}-cover-1x1.jpeg` + **Alt Text (EN)**
+- **Cover Image:** **606x370** (เปลี่ยนจาก 1080x1080 — 23 พ.ย. 2026) ห้ามมี Text/Logo/Headline (พรใส่เอง) · ชื่อไฟล์ `{slug}-cover-606x370.jpeg` + **Alt Text (EN)** · gen ผ่าน ComfyUI ใช้ 608x376 (ทวีคูณ 8) แล้ว resize เป็น 606x370 — template: shared/comfyui/z-image-template-cover-server.json
 - ช่องตรวจภายใน (grade history / evidence class / open findings / Notion id) เก็บคู่กันในเมตาดาต้า audit
 ## 2. หมวดหมู่ (Notion Content Drafts props)
 - **Name** = ประโยคเด็ดเป็นชื่อบท / **Topic** / **Status**: `draft` → `rewritten` → `published` (bot จบที่ draft หรือ rewritten เท่านั้น — publish โดย Phon เท่านั้น) / **Date** = วันนี้ / **Platform** / **Source** (ลิงก์ต้นข่าว)

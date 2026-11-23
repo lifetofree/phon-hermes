@@ -1,0 +1,104 @@
+{
+ "_readme": "SERVER TEMPLATE (Z-Image Turbo on RTX 5060 Ti GPU1, verified 25s/render 21 Nov 2026) — endpoint: http://172.18.0.1:8190 (จาก bot containers) หรือ http://phon-server.scorpion-tint.ts.net:8190 — POST /prompt {prompt,client_id} → poll /history/<id> → file ที่ ~/ComfyUI-Shared/output/imagegen/ · models: z_image_turbo_bf16 + qwen_3_4b + z_image_vae (ชื่อไฟล์แบบ server) · ปรับ prompt ที่ node 6 (TextEncodeZImageOmni positive)",
+ "1": {
+  "class_type": "UNETLoader",
+  "inputs": {
+   "unet_name": "z_image_turbo_bf16.safetensors",
+   "weight_dtype": "default"
+  }
+ },
+ "2": {
+  "class_type": "CLIPLoader",
+  "inputs": {
+   "clip_name": "qwen_3_4b.safetensors",
+   "type": "lumina2",
+   "device": "default"
+  }
+ },
+ "3": {
+  "class_type": "TextEncodeZImageOmni",
+  "inputs": {
+   "clip": [
+    "2",
+    0
+   ],
+   "prompt": "<ใส่ prompt ภาษาอังกฤษที่นี่>",
+   "auto_resize_images": true
+  }
+ },
+ "4": {
+  "class_type": "TextEncodeZImageOmni",
+  "inputs": {
+   "clip": [
+    "2",
+    0
+   ],
+   "prompt": "",
+   "auto_resize_images": true
+  }
+ },
+ "5": {
+  "class_type": "VAELoader",
+  "inputs": {
+   "vae_name": "z_image_vae.safetensors"
+  }
+ },
+ "6": {
+  "class_type": "EmptySD3LatentImage",
+  "inputs": {
+   "width": 608,
+   "height": 376,
+   "batch_size": 1
+  }
+ },
+ "7": {
+  "class_type": "KSampler",
+  "inputs": {
+   "model": [
+    "1",
+    0
+   ],
+   "positive": [
+    "3",
+    0
+   ],
+   "negative": [
+    "4",
+    0
+   ],
+   "latent_image": [
+    "6",
+    0
+   ],
+   "seed": 42,
+   "steps": 8,
+   "cfg": 1,
+   "sampler_name": "euler",
+   "scheduler": "simple",
+   "denoise": 1
+  }
+ },
+ "8": {
+  "class_type": "VAEDecode",
+  "inputs": {
+   "samples": [
+    "7",
+    0
+   ],
+   "vae": [
+    "5",
+    0
+   ]
+  }
+ },
+ "9": {
+  "class_type": "SaveImage",
+  "inputs": {
+   "images": [
+    "8",
+    0
+   ],
+   "filename_prefix": "imagegen/img"
+  }
+ }
+}
