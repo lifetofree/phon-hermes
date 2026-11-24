@@ -116,3 +116,17 @@ Benz's r2 opened with a DIFF-VS-PREVIOUS verification ("ผมเทียบก
 13. **(NR13) In-article time-reference consistency:** "วันจันทร์ที่ผ่านมา" at the top vs "วันนี้" mid-article when the event was yesterday → absolute date "23 พ.ย." everywhere.
 14. **(NR14) Em-dash is an AI-text tell:** — inside the pull quote → period or line break (readers use it to flag AI writing).
 15. **(NR15) Rounding must not exceed the source:** "ราวหนึ่งล้านล้าน" for CNN's 9.52 แสนล้าน = rounding UP beyond what the source states → use the exact figure.
+
+### Benz r3-real folds — same draft, third pass (pair #Nvidia-return r3, 2026-11-24; genre: news-summary)
+
+Benz's r3 escalates verification to RAW MARKET DATA (actual closing prices per date: 11 พ.ย. $173.73 → 19 พ.ย. -16.0%) — plus four structural catches:
+
+16. **(NR16) Title-body epistemic consistency (heaviest):** เนื้อบท (บรรทัด 36) เขียนว่า "หนึ่งในสี่" เป็นประมาณการนักวิเคราะห์ ✓ แต่ไตเติลยังเขียนเหมือนราคาตกจริง 25% — ไตเติลไม่มีสิทธิ์พูดหนักกว่าเนื้อบท. Rule: title inherits the body's epistemic status verbatim — estimate in body = estimate in title.
+17. **(NR17) Multi-factor attribution:** ราคาที่วัดครอบคลุมหลายเหตุพร้อมกัน (ลาออก + กฎส่งออกชิปใหม่ + 13F disclosures ในสัปดาห์เดียว) ห้ามอ้างเป็นผลของเหตุเดียว — แหล่งหนึ่งนับสามเรื่องพร้อมกันในสัปดาห์เดียว. Rule: market-move numbers get a multi-factor disclaimer unless a source isolates one cause.
+18. **(NR18) Quote marks only for verbatim:** "ข้อกังวลด้านความมั่นคงของชาติ" เป็นถ้อยคำของ AP (ไม่ใช่ของบอร์ด — บอร์ดแถลงว่าไม่มีเหตุเชื่อว่าความลับถูกละเมิด) → เขียน "AP ระบุว่า…ทำให้เกิดข้อกังวลด้านความมั่นคง" โดยเอาเครื่องหมายคำพูดออก. Benz also self-corrects: รอบก่อนแนะนำวลีนี้และบอกว่าเป็นถ้อยคำของบอร์ด "ข้อนั้นผมพลาด" — critics self-correct between rounds too.
+19. **(NR19) Chronology discipline + implicit-cause framing:** the draft ordered "ประธานปฏิเสธ → แล้วทิศทางพลิก: Trump โทรหา Huang" but the real chronology is REVERSED (Trump called 10 พ.ย. BEFORE the resignation; "ไม่ขัดข้อง" 16 พ.ย.; chair's rejection 17 พ.ย.) — the draft's ordering implicitly frames Trump as the cause. Fix: เรียงตามวันที่จริง + ใช้ "ในช่วงเดียวกัน" แทน "แล้วทิศทางพลิก" — ordering that implies causation is an editorial move, not a neutral timeline.
+20. **(NR20) Primary-source elevation + unverified-source swap:** ต้นทางของโหวตเอกฉันท์/ข้อมูลจากรัฐ/ความเสี่ยง = **SEC filing** (แถลงข่าวบอร์ด) — อ้าง SEC ก่อนสำนักข่าวรอง; "CNBC ปิดสูงกว่า 30%" ตัวเองเห็นจาก CNN ไม่ใช่ CNBC; Fortune ไม่ได้เปิดเลย → เปลี่ยนเป็นแหล่งที่ตัวเองเปิดจริง (ห้ามอ้างที่ไม่ได้อ่าน).
+21. **(NR21) Open question continues to escalate:** r2 asked for the "หนึ่งในสี่" source; r3 supplies actual closes and STILL ends with a question ("ราคาปิด NVDA วันที่ 11, 20, 23 พ.ย. พรมีตัวเลขจากแหล่งไหนบ้าง?") — the writer's provenance obligation persists across rounds until answered with dates+sources.
+22. Minor keeps: — หลงเหลือบรรทัด 28 → จุด · "เช็ค" → "เช็ก" · blockquote ว่างบรรทัด 22 → ลบ.
+
+Genre note: these r3 rules are NEWS-SUMMARY genre rules (การเขียนสรุปข่าว — market/date/number-heavy single-outlet-claim style) — carries into the news-summary form checklist, not general content.
