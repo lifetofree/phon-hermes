@@ -46,6 +46,8 @@ def prop(p):
         return "".join(x["plain_text"] for x in p["rich_text"]).strip()
     if t == "select":
         return p["select"]["name"] if p["select"] else ""
+    if t == "multi_select":
+        return " ".join(x["name"] for x in p["multi_select"]).strip()
     return ""
 
 
