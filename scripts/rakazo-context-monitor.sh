@@ -6,7 +6,7 @@
 set -u
 ARCHIVE_DIR="/home/lifetofree/rakazo-inbox/backups/thread-archive"
 ALERT_LOG="/home/lifetofree/rakazo-inbox/alerts/context-trim.log"
-MAX_KB=1200      # เพดานขนาด thread (KB ของ blocks text)
+MAX_KB=600      # เพดานขนาด thread (KB ของ blocks text)
 MAX_MSGS=800     # เพดานจำนวนข้อความ
 KEEP=40          # จำนวนข้อความล่าสุดที่เก็บไว้
 mkdir -p "$ARCHIVE_DIR" "$(dirname "$ALERT_LOG")"
