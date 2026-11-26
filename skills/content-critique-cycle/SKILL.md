@@ -32,6 +32,8 @@ Overview: use when a real or simulated Benz-DNA critique arrives on an adduckivi
 
 - **Critique lands on a COMPARISON/product-review DRAFT pre-publish, learn-only directive (pair #AI3way r1, 2026-11-25):** the draft itself claims fairness ("ไม่อวย") while its table axes favor the author's product and rival losses are skipped. Run: archive → validate the critic's factual checks (date, cross-post consistency) → fold comparison-genre rules (504-511) + the critic's method (below) → NO rewrite (owner directive) → report residual decision list to the owner (title choice, patch approvals, stale archives).
 
+- **Critique lands on the latest draft that a PARALLEL session rewrote EARLIER THE SAME DAY, learn-only directive, "published content coming later" (pair #OpenBot-local r1, 2026-11-26):** archive (PROVISIONAL-inline) → establish WHICH version the critic read from his own praise/quotes (the praised สรุปแบบวิศวกรเป็ด format exists only in the post-rewrite version) → quote-verify against the CURRENT Notion page, but read the vault snapshots for version lineage first → verify the critique's claims about OTHER published pieces directly against those pieces' Notion pages (the "ง่ายที่สุด/ฟรี" claims confirmed on 423df8d8… before folding the cross-post lesson) → the critique's "ต้องแก้ก่อน" list = the publish-keys for grading the owner's future publish (graded when it arrives) → NO rewrite, NO Notion touch; residuals discovered on the way (a page accidentally duplicated by the same-day rewrite echo — identical halves verified in code; patching the published sibling) go to the owner as a decision list, not silent fixes.
+
 ### Benz r1-real folds — comparison-article draft (pair #AI3way, 2026-11-25; genre: product comparison)
 
 The critique on the Rakazo-vs-OpenBots comparison draft added five method moves specific to comparison/review pieces:
@@ -43,6 +45,23 @@ The critique on the Rakazo-vs-OpenBots comparison draft added five method moves 
 5. **Cross-post consistency check:** "เผยแพร่เร็วนี้" contradicts the author's earlier survey post that said no sales decision had been made. Rule: claims about product status must hold consistently across ALL posts about the same product.
 6. **Fix-order directive by credibility impact:** วันที่ → privacy overclaim → ownership clarity → disclosure moved to line 3 → add rival-winning table rows → verify rivals' official sites. Rule: when listing fixes, ORDER them by how much each affects trust.
 7. **Ownership-identity question as gate:** "Rakazo เป็นของใคร สร้างเอง/ดัดแปลง/ใช้ของคนอื่น?" — in comparison pieces the author's relationship to each compared product (builder vs installer vs user) must be declared; it changes how every advantage is read.
+
+### Benz r1-real folds — OpenBot local-first draft (pair #OpenBot-local, 2026-11-26; genre: tool-intro, docs-only first-look)
+
+Benz critiqued the rewritten OpenBot deep-dive draft (learn-only round; publish comes later). Method additions on top of the AI3way/NR grammar:
+
+1. **(OB1) Double disclaimer opening:** read-coverage declaration ("ผมยังไม่ได้ตรวจข้อมูลกับเว็บ openbot.run") PLUS job-scoping ("ข้อวิจารณ์เป็นเรื่องการเขียนและความสอดคล้อง…ไม่ใช่การยืนยันความถูกต้องของข้อเท็จจริง") — the critic names WHICH job he is doing so the writer knows what the round does NOT cover (extends NR1 read-coverage transparency).
+2. **(OB2) Heaviest item first = cross-ARTICLE contradiction, fix ordered on the PUBLISHED piece:** the new piece's honesty exposed the published sibling's oversell ("ง่ายที่สุด…ไม่แตะเซิร์ฟเวอร์" / "ฟรี" — Hermes verified both still live on the published page) — Benz orders the cut + the license addition on the PUBLISHED article, justified by BRAND stakes ("ผู้อ่านที่ทำธุรกิจต้องรู้ข้อนี้ก่อนตัดสินใจ") — brand context sets fix priority.
+3. **(OB3) Evidence-symmetry propagation:** the newer piece's honesty label must be added to the older sibling too ("ใส่ประโยค 'จากเอกสาร ยังไม่ได้ลองเอง' ในบทความเปรียบเทียบด้วย") — one evidence class per product across ALL pieces.
+4. **(OB4) Section-title audit against the title's evidence class:** "สิ่งที่ชอบ" implies use-experience while the title says never-installed — supplies the replacement header AND the reason ("เป็นข้ออ้างของเอกสาร ไม่ใช่สิ่งที่คุณพิสูจน์เอง").
+5. **(OB5) Caveat-proximity rule:** the warning already exists in the piece (ชั้น 2) — the fix is MOVING it adjacent to the "100%" sentence, not adding content; the critic tracks what the piece already says and orders relocation.
+6. **(OB6) Unverifiable-terms flag with a FALLBACK SENTENCE supplied:** BYOS/provider-ToS — "ผมยังไม่ได้ตรวจ ถ้าไม่ชัวร์ ใส่ว่า 'ควรอ่านเงื่อนไขของผู้ให้บริการก่อน'" — when neither critic nor writer can cheaply verify, the critique ships the hedge text itself (contrast W1, which orders a 10-minute check when the tool CAN answer).
+7. **(OB7) Disclosure-completeness audit:** "เราไม่มีส่วนเกี่ยวข้องกับทีมผู้พัฒนา" is half a disclosure while the author USES the competing compared product (Rakazo) — one line + link to the comparison article.
+8. **(OB8) Voice-census across the series:** เรา→พร mixing mid-piece; the instruction is to match OTHER articles ("ให้ตรงกับบทความอื่น") — voice = cross-article invariant, same family as W5 closer-shape.
+9. **(OB9) Doc-provenance requirement:** "อ่านจากเอกสารทางการและ release notes" without URL/version = readers cannot re-check AND staleness becomes invisible ("ข้อมูลจะล้าสมัยโดยไม่มีใครรู้") — extends W6 producer-claim-link to doc-version staleness.
+10. **(OB10) Channel-gate QUESTION instead of a format ruling:** "ผมไม่แน่ใจว่าชิ้นนี้ไปลงที่ไหน" — conditional per-channel advice (spacer-dot lines acceptable on Facebook, garbage on WordPress; markdown `##`/`>`/`-` render as literal symbols on Facebook), ruling withheld until the writer states the destination.
+11. **(OB11) Logic-flag + replacement-line move:** "ตรรกะ 'เอกสารยาว ไปต่ออย่าเชื่อ' อาจไม่ถูกเสมอ" + the corrected sentence written out — inference errors ship as replacement lines, not just verdicts.
+12. **(OB12) Close = fix-order by trust impact + keep-list + series-identity praise:** "ลำดับแก้ที่แนะนำ" ordered; four keeps named ("จุดที่ดีและควรเก็บ") with the [สาระ][เงื่อนไข][มุมสังเกต] closer elevated to series identity ("สร้างเอกลักษณ์ซีรีส์ได้ดี") — the keeps are protected anchors for the rewrite (extends AI3way move 6 + NR8).
 
 ## Intake (always in this order)
 
