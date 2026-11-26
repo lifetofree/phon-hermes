@@ -1,0 +1,311 @@
+{
+ "total": 251,
+ "with_table": 175,
+ "missing": 76,
+ "missing_books": [
+  {
+   "title": "Brain Hacks: 200+ Way to boost you brain power",
+   "page_id": "311df8d8-8d8c-8033-9810-c21d77a4dc63"
+  },
+  {
+   "title": "Dopamine Nation: Finding Balance in the Age of Indulgence",
+   "page_id": "306df8d8-8d8c-8023-a787-f795483dbe18"
+  },
+  {
+   "title": "The Experience Machine",
+   "page_id": "2ffdf8d8-8d8c-8055-8779-e78808364d18"
+  },
+  {
+   "title": "Learn Like a Pro",
+   "page_id": "2ffdf8d8-8d8c-80d6-a13e-c2f6a02d32a5"
+  },
+  {
+   "title": "The Wealth Money Can't Buy",
+   "page_id": "2ffdf8d8-8d8c-8055-b7e4-dd006c1c2b9c"
+  },
+  {
+   "title": "Peak Mind",
+   "page_id": "2ffdf8d8-8d8c-8059-a693-fae125ae8400"
+  },
+  {
+   "title": "Lean Marketing",
+   "page_id": "2ffdf8d8-8d8c-80fe-8a6b-d58f225b9adf"
+  },
+  {
+   "title": "The Fabric of Reality",
+   "page_id": "2ffdf8d8-8d8c-807c-8cb1-d606b7a782cc"
+  },
+  {
+   "title": "The Coming Wave",
+   "page_id": "2ffdf8d8-8d8c-80af-ac3c-f84a59a63ca3"
+  },
+  {
+   "title": "A History of Western Philosophy",
+   "page_id": "2ffdf8d8-8d8c-80d8-9452-d876e1609587"
+  },
+  {
+   "title": "Thinking in Systems",
+   "page_id": "2ffdf8d8-8d8c-803d-b947-f9c1a4ee9c7d"
+  },
+  {
+   "title": "Gödel Escher Bach",
+   "page_id": "2ffdf8d8-8d8c-8055-b9c0-c94b2bf03b8a"
+  },
+  {
+   "title": "The Critique of Pure Reason",
+   "page_id": "2ffdf8d8-8d8c-80a4-b3b3-de0bfa44a7ad"
+  },
+  {
+   "title": "More Money Than God",
+   "page_id": "2ffdf8d8-8d8c-803f-a8ef-f5a4fd0e9934"
+  },
+  {
+   "title": "Life 3.0",
+   "page_id": "2ffdf8d8-8d8c-808d-887c-f48be0bfdc88"
+  },
+  {
+   "title": "Human Compatible",
+   "page_id": "2ffdf8d8-8d8c-80b7-a7d1-e47a47ca9b2f"
+  },
+  {
+   "title": "The World for Sale",
+   "page_id": "2ffdf8d8-8d8c-8041-b347-fdde2042a20d"
+  },
+  {
+   "title": "Super Thinking",
+   "page_id": "2ffdf8d8-8d8c-8098-9865-f4d3bf1870df"
+  },
+  {
+   "title": "Playing to Win",
+   "page_id": "2ffdf8d8-8d8c-806a-b8b6-db326bedfdb9"
+  },
+  {
+   "title": "Click",
+   "page_id": "2ffdf8d8-8d8c-80de-a62b-c9c170ddbd7e"
+  },
+  {
+   "title": "Make Time",
+   "page_id": "2ffdf8d8-8d8c-80ac-8cf8-e75fd565c688"
+  },
+  {
+   "title": "7 Powers",
+   "page_id": "2ffdf8d8-8d8c-80ef-8191-cf91c88f1873"
+  },
+  {
+   "title": "Thinking in Bets",
+   "page_id": "2ffdf8d8-8d8c-802c-bccb-c42fbe6d3041"
+  },
+  {
+   "title": "Mastery",
+   "page_id": "2ffdf8d8-8d8c-80d9-ab40-f72b1c912e3d"
+  },
+  {
+   "title": "The 48 Laws of Power",
+   "page_id": "2ffdf8d8-8d8c-808c-a363-f5b14974610e"
+  },
+  {
+   "title": "Benjamin Franklin",
+   "page_id": "2ffdf8d8-8d8c-8022-992f-f44543ac3382"
+  },
+  {
+   "title": "High Output Management",
+   "page_id": "2ffdf8d8-8d8c-80a0-b2cd-ea69d79f825a"
+  },
+  {
+   "title": "Why Nations Fail",
+   "page_id": "2ffdf8d8-8d8c-8071-bfa2-d07f1fca1235"
+  },
+  {
+   "title": "Built to Last",
+   "page_id": "2ffdf8d8-8d8c-8076-a8ad-fd233248e5d0"
+  },
+  {
+   "title": "Great by Choice",
+   "page_id": "2ffdf8d8-8d8c-8067-b5c5-e04a087c3c84"
+  },
+  {
+   "title": "The Catalyst",
+   "page_id": "2ffdf8d8-8d8c-8058-a6ec-eb5ca443778b"
+  },
+  {
+   "title": "Homo Deus",
+   "page_id": "2ffdf8d8-8d8c-809c-abf9-c84abcc28ea1"
+  },
+  {
+   "title": "Factfulness",
+   "page_id": "2ffdf8d8-8d8c-8046-9d3d-ebd0aede7f95"
+  },
+  {
+   "title": "Wisdom Takes Work",
+   "page_id": "2ffdf8d8-8d8c-8084-a288-e9ba47f9faa6"
+  },
+  {
+   "title": "Discipline Is Destiny",
+   "page_id": "2ffdf8d8-8d8c-80b1-bf53-c52767604ac7"
+  },
+  {
+   "title": "Courage Is Calling",
+   "page_id": "2ffdf8d8-8d8c-805a-9bc9-e16f042f4dbd"
+  },
+  {
+   "title": "Right Thing Right Now",
+   "page_id": "2ffdf8d8-8d8c-8043-8b21-d1598fe90513"
+  },
+  {
+   "title": "Stillness Is the Key",
+   "page_id": "2ffdf8d8-8d8c-80d0-940e-fedb6d9c3506"
+  },
+  {
+   "title": "The Diary of a CEO",
+   "page_id": "2ffdf8d8-8d8c-8058-82b1-cc3decc1c090"
+  },
+  {
+   "title": "They Ask You Answer",
+   "page_id": "2ffdf8d8-8d8c-8005-9999-f23455d8822a"
+  },
+  {
+   "title": "Happy Sexy Millionaire",
+   "page_id": "2ffdf8d8-8d8c-80c4-8e97-c87f328a5205"
+  },
+  {
+   "title": "Think Again",
+   "page_id": "2ffdf8d8-8d8c-8014-a98e-c36d5276424a"
+  },
+  {
+   "title": "Deep Work",
+   "page_id": "2ffdf8d8-8d8c-80d2-8c34-e560577cb598"
+  },
+  {
+   "title": "Building a StoryBrand 2.0",
+   "page_id": "2ffdf8d8-8d8c-80dd-a7a0-ce7b664a04b1"
+  },
+  {
+   "title": "Rules for a Knight",
+   "page_id": "2ffdf8d8-8d8c-803c-bd24-f97bf8e6a861"
+  },
+  {
+   "title": "This Is Strategy",
+   "page_id": "2ffdf8d8-8d8c-803d-8eac-cf1def6272f3"
+  },
+  {
+   "title": "This Is Marketing",
+   "page_id": "2ffdf8d8-8d8c-8072-b29a-c09afac0d31b"
+  },
+  {
+   "title": "Purpose & Profit",
+   "page_id": "2ffdf8d8-8d8c-8049-a459-d6775bf1dbd8"
+  },
+  {
+   "title": "The Let Them Theory",
+   "page_id": "2ffdf8d8-8d8c-8017-9cc7-d4106ce3c6fd"
+  },
+  {
+   "title": "Stoicism for New Life",
+   "page_id": "2ffdf8d8-8d8c-808d-8469-fe915c041ad2"
+  },
+  {
+   "title": "Seven Brief Lessons on Physics",
+   "page_id": "2ffdf8d8-8d8c-80bc-8134-d95fd337f0a1"
+  },
+  {
+   "title": "The Little Book of Stoicism",
+   "page_id": "2ffdf8d8-8d8c-80ff-bbdf-ea628b932ff2"
+  },
+  {
+   "title": "Reinvent Yourself At Any Age",
+   "page_id": "2ffdf8d8-8d8c-80e8-83e6-fa17af8d721e"
+  },
+  {
+   "title": "Extra Focus",
+   "page_id": "2ffdf8d8-8d8c-8017-b05f-c2f45a29eed2"
+  },
+  {
+   "title": "To-Do List Formula",
+   "page_id": "2ffdf8d8-8d8c-809e-a935-e35011e9c79b"
+  },
+  {
+   "title": "Copywrong to Copywriter",
+   "page_id": "2ffdf8d8-8d8c-8079-94dc-fc0f8ee4a71f"
+  },
+  {
+   "title": "The Comfort Book",
+   "page_id": "2ffdf8d8-8d8c-8091-b748-ce93fe9d94cb"
+  },
+  {
+   "title": "Reasons to Stay Alive",
+   "page_id": "2ffdf8d8-8d8c-80f4-9d46-e128ac011ed5"
+  },
+  {
+   "title": "Stop Reading the News",
+   "page_id": "2ffdf8d8-8d8c-805f-b0e7-e0bbef81ce19"
+  },
+  {
+   "title": "Focus on What Matters",
+   "page_id": "2ffdf8d8-8d8c-806a-8282-e9adafd981b8"
+  },
+  {
+   "title": "AI Can't Write But You Can",
+   "page_id": "2ffdf8d8-8d8c-8041-980d-d72196aa6d64"
+  },
+  {
+   "title": "Growth Hacker Marketing",
+   "page_id": "2ffdf8d8-8d8c-8077-a9e6-ef44737c8502"
+  },
+  {
+   "title": "Beyond Thoughts",
+   "page_id": "2ffdf8d8-8d8c-8027-8f0d-cf830443699b"
+  },
+  {
+   "title": "Scientific Advertising",
+   "page_id": "2ffdf8d8-8d8c-802d-aa11-d55b30597d31"
+  },
+  {
+   "title": "Company of One",
+   "page_id": "2ffdf8d8-8d8c-800d-a423-fed7eb90fb37"
+  },
+  {
+   "title": "Remote",
+   "page_id": "2ffdf8d8-8d8c-8068-9c10-cd4cc82040c1"
+  },
+  {
+   "title": "Business Made Simple",
+   "page_id": "2ffdf8d8-8d8c-8044-9898-e0589b862081"
+  },
+  {
+   "title": "Boundaries = Freedom",
+   "page_id": "2ffdf8d8-8d8c-806a-9ad1-f4e175b42a69"
+  },
+  {
+   "title": "This is Lean",
+   "page_id": "2ffdf8d8-8d8c-80d6-aa81-ecc015eb40ad"
+  },
+  {
+   "title": "Marketing Made Simple",
+   "page_id": "2ffdf8d8-8d8c-8097-abae-f998a0af8031"
+  },
+  {
+   "title": "It Doesn't Have to Be Crazy at Work",
+   "page_id": "2ffdf8d8-8d8c-80de-b613-e46a7d37b0db"
+  },
+  {
+   "title": "Your Money",
+   "page_id": "2ffdf8d8-8d8c-8051-8b83-c9ded664bf2d"
+  },
+  {
+   "title": "$100M Leads",
+   "page_id": "2ffdf8d8-8d8c-80ca-a1dd-c059b13b097e"
+  },
+  {
+   "title": "The Almanack of Naval Ravikant",
+   "page_id": "2ffdf8d8-8d8c-80b6-b639-c2f371165e54"
+  },
+  {
+   "title": "Storytelling with Data",
+   "page_id": "2ffdf8d8-8d8c-80b6-9363-f8239b63f4c6"
+  },
+  {
+   "title": "Keep Going",
+   "page_id": "2ffdf8d8-8d8c-80df-bf06-cd3b2cf08f78"
+  }
+ ]
+}
