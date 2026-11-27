@@ -82,19 +82,38 @@ def drafts_alerts():
             out.append(f"• {title[:60]} — {st or '(ไม่มีสถานะ)'} — แก้ล่าสุด {edited}")
     return out[:8]
 
+IDEA_DB = "41adf8d8-8d8c-81a0-9ef3-c75ebe456111"
+
+def idea_promoted():
+    """Idea สถานะ Promoted = โครงการที่ต้องไม่ลืม (รายงานทุกวันจนสถานะเปลี่ยน)"""
+    out = []
+    try:
+        for row in query_db(IDEA_DB):
+            if (prop(row, "Status") or "") != "Promoted": continue
+            title = prop(row, "Name")
+            if not title: continue
+            ty = prop(row, "Type")
+            out.append("• " + title[:70] + ((" [" + ty + "]") if ty else ""))
+    except Exception as e:
+        out.append("• (อ่านฐาน Idea ไม่สำเร็จ: " + str(e)[:50] + ")")
+    return out
+
 def main():
     if not KEY:
         print("no NOTION_API_KEY"); sys.exit(1)
     jd = jobdesk_alerts()
     cd = drafts_alerts()
-    if not jd and not cd:
+    ip = idea_promoted()
+    if not jd and not cd and not ip:
         print("วันนี้ไม่มี alert (งาน Job Desk ปิดหมด + draft เงียบ) — ไม่ส่งข้อความ")
         return
     msg = "🔔 สรุปงานค้าง (ระบบตรวจอัตโนมัติ " + TODAY.isoformat() + ")\n"
     if jd:
         msg += "\n💼 Job Desk — งานค้าง " + str(len(jd)) + " งาน:\n" + "\n".join(jd) + "\n"
     if cd:
-        msg += "\n📝 Content Drafts — draft ที่ยังไม่เผยแพร่ (แก้ใน 28 วันล่าสุด):\n" + "\n".join(cd)
+        msg += "\n📝 Content Drafts — draft ที่ยังไม่เผยแพร่ (แก้ใน 28 วันล่าสุด):\n" + "\n".join(cd) + "\n"
+    if ip:
+        msg += "\n💡 Idea — โครงการสถานะ Promote " + str(len(ip)) + " ตัว:\n" + "\n".join(ip)
     print(msg)
     subprocess.run(["/home/lifetofree/.local/bin/hermes", "send", "-t", ALERT_TARGET, msg], capture_output=True, text=True, timeout=60)
 
