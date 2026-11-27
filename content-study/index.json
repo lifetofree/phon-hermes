@@ -5181,5 +5181,15 @@
     "status": "PUBLISHED โดย owner (26 พ.ย. นอก Notion) — เกรด publish-keys: 14 PASS / 2 FAIL / 2 ผูกช่องทาง — PASS ครบ: หัวข้อ 'สิ่งที่น่าสนใจจากเอกสาร'+ยังไม่ได้พิสูจน์ / 100% ถอด+caveat ติดชั้น 2 / ToS hedge / disclosure Rakazo+อคติ / เสียงพรล้วน (เรา 3 = inclusive) / มุมสังเกต = บรรทัด Benz / keep 4/4 / brand hashtags คืน — FAIL: ไม่มี URL+เวอร์ชันเอกสาร (Benz ข้อ S2) — RESIDUAL: (1) sibling 423df8d8 ยังไม่แก้ (ง่ายที่สุด/ฟรี/ไม่มี PolyForm) (2) ข้อความผสม markdown+dot-spacers = ต้องแยก 2 เวอร์ชัน FB/WP (3) หน้า Notion draft ยังซ้ำ 2 ชุด",
     "file": "web-archive/20261126-openbot-localfirst-publish.md",
     "link": "https://app.notion.com/p/424df8d88d8c8126b346c562a4f50d34"
+  },
+  {
+    "date": "2026-11-27",
+    "slug": "openbot-copilotkit-intro",
+    "title": "รู้จัก OpenBot by CopilotKit: แพลตฟอร์ม AI Coworker ระดับองค์กร กับข้อสังเกตเรื่องความปลอดภัยและต้นทุน",
+    "status": "DRAFT — Benz r1 REAL learn-only 27 พ.ย. (quote-verify 20/20 HIT) + Hermes fact-audit F1-F13: ชื่อผู้พัฒนา OpenBot.run = Synthetify Labs sp. z o.o. (ไม่ใช่ Nightly Labs — เป็น GitHub org) · notarization แล้วตอนนี้ (README 27 พ.ย.) · AG-UI = CopilotKit สร้างเอง (LangChain = day-0 partner) · default = allow-all + แชร์คอมต่อคน (Isolated = opt-in) · skill กระจายมีด่าน admin review · ที่มาจริง = webinar 12 พ.ย. ไม่มีเอกสารวิจัย · $29 = สูงสุด pay-as-you-go + Cloud $5 หลัง 500 runs — publish-keys K1-K12 รอเกรดตอน publish",
+    "notion": "424df8d8-8d8c-8163-acf1-c52be46c7c35",
+    "link": "https://app.notion.com/p/424df8d88d8c8163acf1c52be46c7c35",
+    "file": "web-archive/2026-11-27-openbot-copilotkit-benz-r1-real-learn-only.md",
+    "note": "learn-only directive (engineering/analysis/learning) — NO rewrite NO Notion touch · cross-article: sibling 423df8d8 ต้องแก้ row 2 'ผ่าน coding agents' + เติม license row (newest-truth-wins OC3) · OpenBot.run piece 424df8d8-8126 ยังซ้ำ 2 ชุด (100 blocks) · series voice ปน ผม(บทเทียบ×6)/พร — รอ owner เลือก · folds 523-538 + OC1-OC9"
   }
 ]
