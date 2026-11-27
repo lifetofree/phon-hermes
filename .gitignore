@@ -17,3 +17,4 @@ hermes-profile/memories/
 
 # Local-only: superseded critique drafts kept out of the repo
 .superseded-archives/
+secrets/
