@@ -1,0 +1,9 @@
+{
+  "1": {"class_type": "CheckpointLoaderSimple", "inputs": {"ckpt_name": "sd_xl_base_1.0.safetensors"}},
+  "2": {"class_type": "CLIPTextEncode", "inputs": {"clip": ["1", 1], "text": "PROMPT_PLACEHOLDER"}},
+  "3": {"class_type": "CLIPTextEncode", "inputs": {"clip": ["1", 1], "text": "NEG_PLACEHOLDER"}},
+  "4": {"class_type": "EmptyLatentImage", "inputs": {"width": 1216, "height": 704, "batch_size": 1}},
+  "5": {"class_type": "KSampler", "inputs": {"seed": 123456789, "steps": 30, "cfg": 7.0, "sampler_name": "dpmpp_2m", "scheduler": "karras", "denoise": 1.0, "model": ["1", 0], "positive": ["2", 0], "negative": ["3", 0], "latent_image": ["4", 0]}},
+  "6": {"class_type": "VAEDecode", "inputs": {"samples": ["5", 0], "vae": ["1", 2]}},
+  "7": {"class_type": "SaveImage", "inputs": {"filename_prefix": "sdxl-cover", "images": ["6", 0]}}
+}
