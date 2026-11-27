@@ -5186,10 +5186,10 @@
     "date": "2026-11-27",
     "slug": "openbot-copilotkit-intro",
     "title": "รู้จัก OpenBot by CopilotKit: แพลตฟอร์ม AI Coworker ระดับองค์กร กับข้อสังเกตเรื่องความปลอดภัยและต้นทุน",
-    "status": "DRAFT — Benz r1 REAL learn-only 27 พ.ย. (quote-verify 20/20 HIT) + Hermes fact-audit F1-F13: ชื่อผู้พัฒนา OpenBot.run = Synthetify Labs sp. z o.o. (ไม่ใช่ Nightly Labs — เป็น GitHub org) · notarization แล้วตอนนี้ (README 27 พ.ย.) · AG-UI = CopilotKit สร้างเอง (LangChain = day-0 partner) · default = allow-all + แชร์คอมต่อคน (Isolated = opt-in) · skill กระจายมีด่าน admin review · ที่มาจริง = webinar 12 พ.ย. ไม่มีเอกสารวิจัย · $29 = สูงสุด pay-as-you-go + Cloud $5 หลัง 500 runs — publish-keys K1-K12 รอเกรดตอน publish",
+    "status": "PUBLISHED โดย owner (27 พ.ย. FB — paste ยังไม่มีไฟล์ byte-true) — เกรด publish-keys: PASS 9 / PARTIAL 1 (K3 ลิงก์ที่มาไม่เห็นใน paste) / FAIL 1 (K11 — fact-delta ไม่ได้เดินทาง: notarization ล้าสมัยหลุดไปโพสต์ + default allow-all/Isolated opt-in/skill admin-review ไม่ได้ใส่ + LlamaIndex ไม่มีแหล่ง) / residual 1 (หน้าเทียบ 423df8d8 ยังไม่แก้ row 2 + license) — Benz ต้องแก้ก่อน 6/6 ถูกปฏิบัติครบ — D1-D5 เสนอคอมเมนต์แก้บนโพสต์ — fold 551 (PATCH BEFORE PUBLISH)",
     "notion": "424df8d8-8d8c-8163-acf1-c52be46c7c35",
     "link": "https://app.notion.com/p/424df8d88d8c8163acf1c52be46c7c35",
-    "file": "web-archive/2026-11-27-openbot-copilotkit-benz-r1-real-learn-only.md",
+    "file": "web-archive/20261127-openbot-copilotkit-publish.md",
     "note": "learn-only directive (engineering/analysis/learning) — NO rewrite NO Notion touch · cross-article: sibling 423df8d8 ต้องแก้ row 2 'ผ่าน coding agents' + เติม license row (newest-truth-wins OC3) · OpenBot.run piece 424df8d8-8126 ยังซ้ำ 2 ชุด (100 blocks) · series voice ปน ผม(บทเทียบ×6)/พร — รอ owner เลือก · folds 523-538 + OC1-OC9"
   },
   {

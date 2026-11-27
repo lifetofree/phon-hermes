@@ -239,3 +239,11 @@
 - **ผล fact-audit:** Benz ตรวจสเปกเองแต่บนข้อมูล pre-launch — ข้อ 1 ถูก (ละ 6.85″ Pro Max ทำ framing "ท็อปเล็กลง" ผิด → เขียนใหม่ว่า "เพิ่ม Pro กะทัดรัด 6.36″") · 7800mAh Pro Max = ยืนยันทางการแล้ว (vivo India; 8000 ของ gadgets360 = typical ห้ามใช้) · เปิดตัวอินเดียแล้ว 26 พ.ย. ครบ 3 รุ่น (Pro ไม่ได้เฉพาะจีน) ขาย 3 ธ.ค. · ราคาทางการ 1,19,999/1,49,999/1,64,999/1,79,999 INR · อุปกรณ์เสริมมีจริงพร้อมราคา (extender 200mm ทุกรุ่น 15,999 / Ultra 400mm เฉพาะ Pro Max 27,999 / grip 11,999 / kit 2,29,999) — คำเตือน Benz "อย่าเข้าใจเลนส์เดียวซูม 400" ใช้ได้ (เครื่องเดี่ยว = 85mm) · ชิป X500 = Dimensity 9600M / Pro สาย = 9600 Pro · ตรรกะ 5 ข้อของ Benz (title ขัดเนื้อ/ขอบเขตข้อสรุป/แบต≠อายุใช้งาน/อ่านใจผู้ผลิต/ราคาลอย) ใช้ได้ทั้งหมด
 - **คำถามค้างให้ owner ตัดสิน:** เสียงซีรีส์ = พร หรือ ผม (ครั้งที่ 3 ที่ขึ้นเรื่อง — ประโยคในคอมเมนต์ Benz ขัดตัวเอง; draft ชิ้นนี้ใช้ พร อยู่แล้ว พร×1 ผม×0; บทเทียบ OpenBot ใช้ ผม×6) — ถ้าได้ ruling ให้บันทึกลง voice guide เป็นค่าคงที่ (fold 550)
 - **Folds:** content-pipeline 539-550 (กฎ genre แกดเจ็ต) + critique-cycle OD1-OD11 + round-type bullet (critic-verified round + new-genre first piece)
+
+## OpenBot CopilotKit publish close (27 พ.ย. — pair #OpenBot-copilotkit CLOSED: เกรด PASS 9 / PARTIAL 1 / FAIL 1 / residual 1)
+
+- **Publish:** owner ส่ง FB version มาในแชต (paste — ยังไม่มี byte-true) — archive `web-archive/20261127-openbot-copilotkit-publish.md` (verbatim + เกรด + D1-D5)
+- **ผล:** Benz ต้องแก้ก่อน 6/6 ถูกปฏิบัติครบ (ชื่อ Synthetify / สถานะยังไม่ลองใน title / disclosure / ย่อหน้าเข้าใจยากตัด / แยกหัวข้อ / $29 สูงสุด+คำนวณเอง) — จุดบอดเดียว: **fact-delta ของเรา (F4 notarization พลิกแล้ว) ไม่ได้เดินทางไป publish** — README ปัจจุบันบอก "Notarized .dmg" แต่โพสต์ยังบอกต้องตั้งค่ายกเว้น (D1) + D2 default allow-all ไม่ได้บอก / D3 Isolated opt-in ไม่ได้บอก / D4 skill admin-review ไม่ได้บอก / D5 LlamaIndex ไม่มีแหล่ง
+- **ทางแก้เสนอ owner:** คอมเมนต์แก้บนโพสต์ FB (5 บรรทัด พร้อมใน archive)
+- **fold ใหม่:** content-pipeline 551 — fact-delta ต้องเป็น "PATCH BEFORE PUBLISH" 3-5 บรรทัดบนสุดของ archive+รายงาน ไม่ใช่ตารางท้าย
+- **Residual เปิดค้าง:** หน้าเทียบ 423df8d8 (row 2 + license row + เสียง ผม×6) · หน้า OpenBot.run 424df8d8-8126 ซ้ำ 100 blocks · เสียงซีรีส์ ruling พร vs ผม (รอ owner ตัดสิน — ครั้งที่ 3 แล้ว, fold 550)
