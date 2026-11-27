@@ -27,21 +27,27 @@ def unfold(ics_text):
 
 def parse_events(lines):
     evs, cur = [], None
+    in_vevent = in_alarm = False
     for l in lines:
         l = l.strip()
         if l == "BEGIN:VEVENT":
-            cur = {}
-        elif l.startswith("DTSTART"):
-            cur["start_raw"] = l.split(":", 1)[-1].strip()
-            cur["start_tz"] = ";TZID" in l or "VALUE=DATE" in l
-        elif l.startswith("DTEND"):
-            cur["end_raw"] = l.split(":", 1)[-1].strip()
-        elif l.startswith("SUMMARY"):
-            cur["title"] = l.split(":", 1)[-1].strip().replace("\\,", ",").replace("\\;", ";")
-        elif l.startswith("LOCATION"):
-            cur["loc"] = l.split(":", 1)[-1].strip().replace("\\,", ",")
-        elif l == "END:VEVENT" and cur:
-            evs.append(cur); cur = None
+            in_vevent, in_alarm, cur = True, False, {}
+        elif l == "BEGIN:VALARM":
+            in_alarm = True
+        elif l == "END:VALARM":
+            in_alarm = False
+        elif l == "END:VEVENT":
+            if cur: evs.append(cur)
+            in_vevent, cur = False, None
+        elif in_vevent and not in_alarm:
+            if l.startswith("DTSTART"):
+                cur["start_raw"] = l.split(":", 1)[-1].strip()
+            elif l.startswith("DTEND"):
+                cur["end_raw"] = l.split(":", 1)[-1].strip()
+            elif l.startswith("SUMMARY"):
+                cur["title"] = l.split(":", 1)[-1].strip().replace("\\,", ",").replace("\\;", ";")
+            elif l.startswith("LOCATION"):
+                cur["loc"] = l.split(":", 1)[-1].strip().replace("\\,", ",")
     return evs
 
 def to_ict(start_raw):
@@ -58,17 +64,22 @@ def to_ict(start_raw):
     except Exception:
         return None
 
-def calendar_today_tomorrow(ics_url):
-    req = urllib.request.Request(ics_url, headers={"User-Agent": "morning-brief/1.0"})
-    ics = urllib.request.urlopen(req, timeout=40).read().decode("utf-8", "ignore")
+def calendar_today_tomorrow(urls):
     now = datetime.datetime.now(ICT)
     window = {now.date(), (now + datetime.timedelta(days=1)).date()}
     out = []
-    for e in parse_events(unfold(ics)):
-        dt = to_ict(e.get("start_raw", ""))
-        if dt and dt.date() in window:
-            when = dt.strftime("%d/%m %H:%M") if dt.hour or dt.minute else dt.strftime("%d/%m (เต็มวัน)")
-            out.append({"when": when, "title": e.get("title", "(ไม่มีหัวข้อ)"), "loc": e.get("loc", "")})
+    for ics_url in urls:
+        try:
+            req = urllib.request.Request(ics_url, headers={"User-Agent": "morning-brief/1.0"})
+            ics = urllib.request.urlopen(req, timeout=60).read().decode("utf-8", "ignore")
+        except Exception as e:
+            out.append({"when": "error", "title": f"(ดึงปฏิทินล้มเหลว: {str(e)[:40]})", "loc": ""})
+            continue
+        for e in parse_events(unfold(ics)):
+            dt = to_ict(e.get("start_raw", ""))
+            if dt and dt.date() in window:
+                when = dt.strftime("%d/%m %H:%M") if dt.hour or dt.minute else dt.strftime("%d/%m (เต็มวัน)")
+                out.append({"when": when, "title": e.get("title", "(ไม่มีหัวข้อ)"), "loc": e.get("loc", "")})
     out.sort(key=lambda x: x["when"])
     return out
 
@@ -98,10 +109,10 @@ def newsletter_items():
 
 def main():
     env = load_env()
-    url = env.get("ICAL_URL")
-    if not url:
+    urls = [v for k, v in sorted(env.items()) if k.startswith("ICAL_URL") and v]
+    if not urls:
         print("ไม่มี ICAL_URL ใน env"); sys.exit(1)
-    evs = calendar_today_tomorrow(url)
+    evs = calendar_today_tomorrow(urls)
     lines = ["📅 ปฏิทินวันนี้-พรุ่งนี้ (" + datetime.datetime.now(ICT).strftime("%d/%m") + ")"]
     if evs:
         for e in evs:
