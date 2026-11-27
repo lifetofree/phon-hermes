@@ -119,6 +119,29 @@ def main():
             lines.append("• [" + e["when"] + "] " + e["title"] + ((" — " + e["loc"]) if e["loc"] else ""))
     else:
         lines.append("• ไม่มีนัดหมายในช่วงนี้")
+    # Tasks (ไฟล์จากทีมบอท — routine 07:40 ไทย)
+    tasks_path = "/home/lifetofree/rakazo-inbox/morning-brief/tasks.json"
+    try:
+        tasks = json.load(open(tasks_path, encoding="utf-8"))
+        lines.append("")
+        lines.append("✅ Tasks (ค้าง + วันนี้-พรุ่งนี้)")
+        today_s = datetime.datetime.now(ICT).date().isoformat()
+        tom_s = (datetime.datetime.now(ICT).date() + datetime.timedelta(days=1)).isoformat()
+        shown = 0
+        for tk in tasks if isinstance(tasks, list) else []:
+            due = tk.get("due", ""); od = tk.get("overdue")
+            if not od and due not in (today_s, tom_s):
+                continue
+            mark = "⚠️ ค้าง! " if od else ""
+            lines.append("• " + mark + tk.get("title", "?") + ((" — กำหนด " + due) if due and not od else ""))
+            shown += 1
+        if shown == 0:
+            lines.append("• ไม่มี task ค้าง/ใกล้ครบ")
+    except FileNotFoundError:
+        pass
+    except Exception as e:
+        lines.append("")
+        lines.append("✅ Tasks: (อ่านไฟล์ล้มเหลว " + str(e)[:40] + ")")
     if env.get("NEWSLETTER_ENABLED", "0") == "1":
         nl = newsletter_items()
         lines.append("")
