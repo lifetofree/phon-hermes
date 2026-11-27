@@ -108,14 +108,15 @@ def main():
             lines.append("• [" + e["when"] + "] " + e["title"] + ((" — " + e["loc"]) if e["loc"] else ""))
     else:
         lines.append("• ไม่มีนัดหมายในช่วงนี้")
-    nl = newsletter_items()
-    lines.append("")
-    lines.append("📰 Newsletter (24 ชม.ล่าสุด)")
-    if nl:
-        for sender, subj in nl:
-            lines.append("• " + subj + "  — " + sender)
-    else:
-        lines.append("• ไม่มี")
+    if env.get("NEWSLETTER_ENABLED", "0") == "1":
+        nl = newsletter_items()
+        lines.append("")
+        lines.append("📰 Newsletter (24 ชม.ล่าสุด)")
+        if nl:
+            for sender, subj in nl:
+                lines.append("• " + subj + "  — " + sender)
+        else:
+            lines.append("• ไม่มี")
     report = "\n".join(lines)
     print(report)
     json.dump({"calendar": evs, "report": report}, open("/tmp/morning-brief-preview.json", "w"), ensure_ascii=False)
