@@ -12,8 +12,8 @@ rule: "quote ที่จะอ้างในโพสต์ต้องลง�
 
 ## Ch. 1 — The Limit-Embracing Life (Loc 195)
 
-- "The real problem isn’t our limited time... it is a troublesome set of ideas about how to use our limited time." — Ch. 1 (Loc 195, Notion body) · ใช้ใน [[pair-017]] ✓verified
-- "Even on your most exhausting days, it probably wouldn’t have occurred to you that you had 'too much to do.'" — Ch. 1 (Loc 195, Notion body) ✓verified
+- "The real problem isn’t our limited time... it is a troublesome set of ideas about how to use our limited time." — Ch. 1 (Loc 195, Notion body)
+- "Even on your most exhausting days, it probably wouldn’t have occurred to you that you had 'too much to do.'" — Ch. 1 (Loc 195, Notion body)
 
 ## Ch. 2 — The Efficiency Trap (Loc 477)
 
