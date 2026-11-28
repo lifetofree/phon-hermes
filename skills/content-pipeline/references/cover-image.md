@@ -74,12 +74,15 @@
 
 ตัวอย่าง (ปก Composio): "A white duck mascot wearing a red backwards cap and black glasses splits into a thinking half and a mechanical hands-and-feet half, clean cartoon style on a soft blue background."
 
-## 6. ลำดับงาน (บอทสั่งบอท)
+## 6. FLOW (อัตโนมัติ — IG autopilot ตั้งแต่ 28 พ.ย.)
 
-1. ผู้รับมอบหมาย (AW/Design Keeper) อ่านบท → เขียน **ชุดแนะนำ**: title บน / title ล่าง / คำเน้น / concept ภาพ (ตามเกณฑ์ข้างบน)
-2. ส่งชุดแนะนำ + โจทย์ gen ให้ Image Gen (routine one-shot ตามปกติ)
-3. Image Gen gen ตาม spec §5, QC ด้วยตา (มาสคอตครบ 3 ชิ้น, พื้นที่ว่างบนล่าง, ไม่มี text ในภาพ) — พังยิงซ้ำเอง 2 รอบก่อนรายงาน
-4. ส่งกลับ: ภาพ + ชุดแนะนำ title เดิม + alt text — **ให้พรเป็นคนจัดวางและตัดสินใจสุดท้าย**
+**ระบบรันเองทุก 30 นาที (routine "IG cover autopilot") — ไม่ต้องรอ Hermes สั่ง:**
+1. IG อ่าน Content Drafts DB → หาบท Status draft/rewritten ที่ยังไม่มีปก (เทียบ cover-index.json ของตัวเอง)
+2. IG แต่งโจทย์เองตาม §4.5 → gen 3 seed → QC ตาม §4 checklist → resize → QA record + index อัปเดต
+3. รายงาน Working Out Loud ในแชท: ไฟล์ + title set + alt text
+4. พร/Hermes เห็นรายงานแล้วดูได้ทุกเมื่อ — งานไหนไม่ชอบสั่งทบทวนได้ตรง ๆ
+- งานเร่งเฉพาะกิจ (Hermes/พรสั่งตรง) = ตัดคิว autopilot มาก่อนเสมอ
+- Design Keeper = auditor ตามงาน (ไม่ต้องคอยสั่งรายบท)
 
 ## 7. Checklist ก่อนส่งมอบ (Benz DNA)
 
