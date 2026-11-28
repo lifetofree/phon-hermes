@@ -152,6 +152,8 @@ def main():
         else:
             lines.append("• ไม่มี")
     report = "\n".join(lines)
+    import re as _re
+    report = _re.sub(r"(https?://[^\s<]+)", r"<\1>", report)  # กัน Discord unfurl รูป/พรีวิว
     print(report)
     json.dump({"calendar": evs, "report": report}, open("/tmp/morning-brief-preview.json", "w"), ensure_ascii=False)
     if "--send" in sys.argv:

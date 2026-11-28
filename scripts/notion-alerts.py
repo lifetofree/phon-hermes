@@ -5,7 +5,7 @@
   ไม่เตือน: ชำระเต็มทุกกรณี / ❌ ยกเลิก / Due อนาคต
 - Content Drafts: รายงานเฉพาะ draft ที่แก้ไฟล์ภายใน 28 วันล่าสุด (เก่ากว่านั้นไม่รบกวน) สูงสุด 8 รายการ
 """
-import os, json, urllib.request, datetime, subprocess, sys
+import os, json, urllib.request, datetime, subprocess, sys, re
 
 KEY = os.environ.get("NOTION_API_KEY", "")
 ALERT_TARGET = "discord:#job-desk"
@@ -114,6 +114,7 @@ def main():
         msg += "\n📝 Content Drafts — draft ที่ยังไม่เผยแพร่ (แก้ใน 28 วันล่าสุด):\n" + "\n".join(cd) + "\n"
     if ip:
         msg += "\n💡 Idea — โครงการสถานะ Promote " + str(len(ip)) + " ตัว:\n" + "\n".join(ip)
+    msg = re.sub(r"(https?://[^\s<]+)", r"<\1>", msg)  # กัน Discord unfurl
     print(msg)
     subprocess.run(["/home/lifetofree/.local/bin/hermes", "send", "-t", ALERT_TARGET, msg], capture_output=True, text=True, timeout=60)
 
