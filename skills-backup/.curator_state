@@ -1,0 +1,9 @@
+{
+  "last_report_path": "/home/lifetofree/.hermes/logs/curator/20261124-171225",
+  "last_run_at": "2026-11-24T17:12:25.701175+00:00",
+  "last_run_duration_seconds": 0.116791,
+  "last_run_summary": "auto: no changes; llm: skipped (consolidation off)",
+  "last_run_summary_shown_at": "2026-11-17T17:05:39.749830+00:00",
+  "paused": false,
+  "run_count": 12
+}

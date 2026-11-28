@@ -1,0 +1,24 @@
+# Copy to ~/.config/systemd/user/llama-server.service, adjust ExecStart (model path, -ngl, -c, port), then:
+#   systemctl --user daemon-reload && systemctl --user enable --now llama-server
+# Verify: curl -s -o /dev/null -w "%{http_code}" http://127.0.0.1:8080/health  -> 200
+# Verify GPU offload after first load: journalctl --user -u llama-server -n 20 | grep 'eval time'
+#   (CPU-only fallback still serves 200 health but generates ~1-11 tok/s.)
+[Unit]
+Description=llama-server (GGUF, port 8080)
+After=network.target
+
+[Service]
+Type=simple
+# Boot-race guard: if the unit starts while the NVIDIA driver is still initializing,
+# llama-server silently falls back to CPU-only forever. Wait for real CUDA readiness.
+ExecStartPre=/home/lifetofree/.hermes/scripts/wait-for-cuda.sh
+# Qwen3.8-27B-UD-Q4_K_M on 2x16GB: full offload (-ngl 95) fits ONLY with KV cache
+# quantized to q8_0 — drop the cache-type flags and it OOMs or spills.
+# --host 0.0.0.0 exposes the API to the LAN; bind 127.0.0.1 (omit the flag) unless needed.
+ExecStart=/home/lifetofree/llama.cpp/build/bin/llama-server -m /home/lifetofree/models/Qwen3.8-27B-UD-Q4_K_M.gguf -ngl 95 -t 12 -c 262144 --cache-type-k q8_0 --cache-type-v q8_0 -fa on --split-mode layer --port 8080 --host 0.0.0.0 --jinja
+Restart=on-failure
+RestartSec=10
+Nice=5
+
+[Install]
+WantedBy=default.target

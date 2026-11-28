@@ -1,0 +1,13 @@
+# Repo + tooling plumbing lessons (moved from SKILL.md — these apply when touching repo tooling, not every content round)
+
+## 63. Hand-formatted repo JSON (index.json): targeted patch only — a json.dump round-trip re-indents the whole file
+
+`content-study/index.json` carries its own hand formatting; loading it and re-dumping through json.dump rewrites EVERY line (a ~4800-line diff that buries the real change in review and poisons blame). Edit it with a targeted find/replace on the single entry. If a dump already happened, git-checkout the file and redo the patch before committing — never commit the re-indent, and never "keep the dump" because the JSON still parses.
+
+## 64. Repo-symlinked skills are READ-ONLY to skill_manage — edit the repo file
+
+Skills backed by a symlink into `~/hermes-agent/skills/` (content-pipeline and the split siblings content-critique-cycle / content-notion-ops / content-research) resolve for skill_view but skill_manage patch AND full-content rewrite both fail with "not found in active profile" — the registry entry is a symlink, not a registered copy. To change them: edit the repo file directly, commit + push (lesson 4's pattern). Corollary for future splits: a skill_manage-create-then-replace-with-symlink flow yields a permanently unpatchable registry entry — create the files in the repo first and symlink, accepting all later edits go through the repo file. The patchable surface for content-side session lessons stays this file. Queued repo edits for content-critique-cycle (apply at next repo touch): point Closing-the-pair at `content-notion-ops/scripts/rebuild_page.py`, make the draft-battery command explicit (`draft_battery.py <post.md> --cut …`), add content-notion-ops to related_skills, bump version.
+
+## 65. Canonical Notion rebuild tooling lives in content-notion-ops — run the script, don't hand-roll curl chains
+
+`content-notion-ops/scripts/markdown_to_blocks.py` (segment-level inline-bold converter; `leaks` must be 0 before shipping) and `scripts/rebuild_page.py <md> <page_id> --forbidden w1,w2 --marker "keep line" --suffix " — pair #N"` (title PATCH → delete-all → ≤100-block inserts → read-back verify in one run) are the standard path for filing/rebuilding pages. Hand-rolled per-session parsers and curl chains are exactly how raw `**` leaks and whole-line-bold defects happened — fold new Notion mechanics INTO those scripts rather than re-implementing them per round. The verify contract (block count / empty 0 / raw `**` 0 / forbidden 0 / keep-markers PASS / title read-back by TYPE) stays mandatory when hand-rolling is unavoidable.

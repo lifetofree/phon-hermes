@@ -1,0 +1,110 @@
+{
+  "jobs": [
+    {
+      "id": "4be8c05534b4",
+      "name": "daily-foreign-news",
+      "prompt": "Search the web for international (foreign) news from the LAST 24 HOURS ONLY. Collect exactly 10 significant news items across these topics: AI, tech, gadgets, and world news.\n\nRequirements:\n- Every item MUST be published within the last 24 hours (use web_search with recency-aware queries; check dates; discard anything older and search more until you have 10 fresh items).\n- Mix of topics: roughly AI (3), tech (3), gadgets (1-2), world news (2-3).\n- Prefer reputable sources (Reuters, AP, The Verge, TechCrunch, Ars Technica, BBC, Bloomberg, etc.).\n- Each item must have: numbered headline (English) followed by its category in square brackets, a 1-2 sentence summary in English, and the source URL.\n- Category label in brackets must be exactly one of: [AI], [Tech], [Gadgets], [World] — placed directly after the headline, e.g. \"OpenAI releases new model [AI]\".\n- Verify each URL is real and comes from your search results — never fabricate links.\n\nOutput format (send as the final message, plain text):\nDaily International News Digest — <date>\n\n1. <Headline> [CATEGORY]\n   <Summary 1-2 sentences>\n   Source: <URL>\n\n2. ... (through 10)\n\nFooter: \"Curated by Hermes • 08:00 GMT+7 daily\"",
+      "skills": [],
+      "skill": null,
+      "model": "/home/lifetofree/models/Qwen3.8-27B-UD-Q4_K_M.gguf",
+      "provider": "custom",
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 1 * * *",
+        "display": "0 1 * * *"
+      },
+      "schedule_display": "0 1 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 24
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-09-01T18:21:15.629693+07:00",
+      "next_run_at": "2026-09-23T01:00:00+07:00",
+      "last_run_at": "2026-09-22T01:21:38.080893+07:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "failure_streak": 0,
+      "deliver": "telegram:-1004408904367:25",
+      "origin": null,
+      "enabled_toolsets": [
+        "web"
+      ],
+      "workdir": null,
+      "fire_claim": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-09-22T01:00:00+07:00",
+        "dispatched_at": "2026-09-22T01:00:35.832956+07:00",
+        "lateness_seconds": 35.8,
+        "kind": "on_time"
+      }
+    },
+    {
+      "id": "972b24976bf0",
+      "name": "weekly-wp-archive-sync",
+      "prompt": "You are the weekly wp.adduckivity.com archive sync + style analysis job for the adduckivity brand (user: Phon, chats in Thai).\n\nA script (sync_wp_posts.py) has already run and its stdout is in your context. It fetches new posts from wp.adduckivity.com, saves them as markdown into /home/lifetofree/hermes-agent/content-study/web-archive/<slug>.md, appends them to content-study/index.json, and git-commits+pushes. Its stdout format:\n- EMPTY (no 'NEW_POSTS:' line) => nothing new. In that case do NOTHING else and reply exactly: 'no new posts'\n- Otherwise, each line under 'NEW_POSTS:' is: <archive-file-path>\\t<YYYY-MM-DD>\\t<slug>\\t<title>\n\nYOUR TASK (only when new posts exist):\n1. Read each newly archived post file (full text).\n2. Read /home/lifetofree/hermes-agent/content-study/STYLE_CORPUS.md (living style-corpus analysis) and /home/lifetofree/hermes-agent/content-study/WRITING_STYLE_GUIDE.md (the distilled voice guide).\n3. For each new post, write a short analysis (Thai, concise): what it confirms about the existing style patterns, what is NEW (new hook type, new protocol name, new closing pattern, new hashtag, new structural convention), and any drift from the established voice (e.g. different tone, missing protocol, unusual length).\n4. Append ONE entry to STYLE_CORPUS.md under its '## Updates' section, in this exact format:\n### <YYYY-MM-DD> — new posts: <slug1>, <slug2>\n- <slug1>: <2-4 bullet analysis>\n- <slug2>: ...\nUpdate the '## Evolution Notes' section ONLY if a new post introduces a structural convention that changes the trend (rare; when in doubt, keep the note under Updates only). Do NOT rewrite other sections, do NOT touch the Corpus table (the table is for reference; you may optionally add the new post's row there: date | slug | file path | words | type A/B/C).\n5. Commit + push: cd /home/lifetofree/hermes-agent && git add content-study/STYLE_CORPUS.md && git commit -m 'style-corpus: weekly update <YYYY-MM-DD>' && git push\n6. Reply with a summary: N new posts archived, the 1-2 most notable style findings, and confirmation that STYLE_CORPUS.md was updated + pushed.\n\nIf the script stdout contains 'sync_wp_posts FAILED', report the error verbatim and stop.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "provider_snapshot": "custom",
+      "model_snapshot": "/home/lifetofree/models/Qwen3.8-27B-UD-Q4_K_M.gguf",
+      "base_url": null,
+      "script": "sync_wp_posts.py",
+      "no_agent": false,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 10 * * 0",
+        "display": "every sunday 10:00"
+      },
+      "schedule_display": "every sunday 10:00",
+      "repeat": {
+        "times": null,
+        "completed": 2
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-09-07T00:47:40.116657+07:00",
+      "next_run_at": "2026-09-27T10:00:00+07:00",
+      "last_run_at": "2026-09-20T10:00:17.819370+07:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "failure_streak": 0,
+      "deliver": "local",
+      "origin": null,
+      "enabled_toolsets": [
+        "terminal",
+        "files"
+      ],
+      "workdir": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-09-20T10:00:00+07:00",
+        "dispatched_at": "2026-09-20T10:00:11.650083+07:00",
+        "lateness_seconds": 11.7,
+        "kind": "on_time"
+      },
+      "fire_claim": null
+    }
+  ],
+  "updated_at": "2026-09-22T01:21:38.095291+07:00"
+}
